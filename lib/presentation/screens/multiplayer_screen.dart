@@ -1,28 +1,43 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
+import '../../app/providers.dart';
 import '../theme.dart';
 import '../widgets/mascot.dart';
 import '../widgets/visuals.dart';
 
 /// Screen preview for Future Online Multiplayer mode (Rooms, Lobby, Friends).
-class MultiplayerScreen extends StatefulWidget {
+class MultiplayerScreen extends ConsumerStatefulWidget {
   const MultiplayerScreen({super.key});
 
   @override
-  State<MultiplayerScreen> createState() => _MultiplayerScreenState();
+  ConsumerState<MultiplayerScreen> createState() => _MultiplayerScreenState();
 }
 
-class _MultiplayerScreenState extends State<MultiplayerScreen> {
-  final _roomCodeCtrl = TextEditingController(text: 'BUG-4892');
+class _MultiplayerScreenState extends ConsumerState<MultiplayerScreen> {
+  final _roomCodeCtrl = TextEditingController();
   bool _inLobby = false;
-
-  final List<String> _lobbyPlayers = ['Maya (Host)', 'Sam', 'Alex', 'Jordan'];
 
   @override
   void dispose() {
     _roomCodeCtrl.dispose();
     super.dispose();
+  }
+
+  void _generateAndHost() {
+    final code = 'HUSH-${1000 + (DateTime.now().millisecondsSinceEpoch % 9000)}';
+    setState(() {
+      _roomCodeCtrl.text = code;
+      _inLobby = true;
+    });
+  }
+
+  void _joinRoom() {
+    if (_roomCodeCtrl.text.trim().isEmpty) {
+      _roomCodeCtrl.text = 'HUSH-${1000 + (DateTime.now().millisecondsSinceEpoch % 9000)}';
+    }
+    setState(() => _inLobby = true);
   }
 
   @override
@@ -123,7 +138,7 @@ class _MultiplayerScreenState extends State<MultiplayerScreen> {
                       style: TextStyle(color: HushbugColors.textSubtext, fontSize: 12)),
                   const SizedBox(height: 14),
                   TactileButton(
-                    onPressed: () => setState(() => _inLobby = true),
+                    onPressed: _generateAndHost,
                     style: TactileButtonStyle.neonPurple,
                     height: 48,
                     child: const Text('Host New Room'),
@@ -178,7 +193,7 @@ class _MultiplayerScreenState extends State<MultiplayerScreen> {
                   ),
                   const SizedBox(height: 12),
                   TactileButton(
-                    onPressed: () => setState(() => _inLobby = true),
+                    onPressed: _joinRoom,
                     style: TactileButtonStyle.golden,
                     height: 48,
                     child: const Text('Enter Room'),
@@ -247,40 +262,49 @@ class _MultiplayerScreenState extends State<MultiplayerScreen> {
         Expanded(
           child: Padding(
             padding: const EdgeInsets.symmetric(vertical: 16),
-            child: ListView.builder(
-              itemCount: _lobbyPlayers.length,
-              itemBuilder: (context, i) {
-                final name = _lobbyPlayers[i];
-                return Container(
-                  margin: const EdgeInsets.only(bottom: 8),
-                  padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
-                  decoration: BoxDecoration(
-                    color: HushbugColors.cardSurface,
-                    borderRadius: BorderRadius.circular(16),
-                    border: Border.all(color: HushbugColors.cardBorder),
-                  ),
-                  child: Row(
-                    children: [
-                      PlayerAvatar(index: i, name: name, radius: 14),
-                      const SizedBox(width: 12),
-                      Expanded(
-                        child: Text(
-                          name,
-                          style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 14),
-                        ),
+            child: Builder(
+              builder: (context) {
+                final players = ref.watch(settingsProvider).game.players;
+                final lobbyList = [
+                  if (players.isNotEmpty) '${players.first} (Host)',
+                  ...players.skip(1),
+                ];
+                return ListView.builder(
+                  itemCount: lobbyList.length,
+                  itemBuilder: (context, i) {
+                    final name = lobbyList[i];
+                    return Container(
+                      margin: const EdgeInsets.only(bottom: 8),
+                      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+                      decoration: BoxDecoration(
+                        color: HushbugColors.cardSurface,
+                        borderRadius: BorderRadius.circular(16),
+                        border: Border.all(color: HushbugColors.cardBorder),
                       ),
-                      Container(
-                        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
-                        decoration: BoxDecoration(
-                          color: const Color(0x3310B981),
-                          borderRadius: BorderRadius.circular(8),
-                        ),
-                        child: const Text('READY',
-                            style: TextStyle(
-                                color: Color(0xFF34D399), fontSize: 10, fontWeight: FontWeight.bold)),
+                      child: Row(
+                        children: [
+                          PlayerAvatar(index: i, name: name, radius: 14),
+                          const SizedBox(width: 12),
+                          Expanded(
+                            child: Text(
+                              name,
+                              style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 14),
+                            ),
+                          ),
+                          Container(
+                            padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+                            decoration: BoxDecoration(
+                              color: const Color(0x3310B981),
+                              borderRadius: BorderRadius.circular(8),
+                            ),
+                            child: const Text('READY',
+                                style: TextStyle(
+                                    color: Color(0xFF34D399), fontSize: 10, fontWeight: FontWeight.bold)),
+                          ),
+                        ],
                       ),
-                    ],
-                  ),
+                    );
+                  },
                 );
               },
             ),

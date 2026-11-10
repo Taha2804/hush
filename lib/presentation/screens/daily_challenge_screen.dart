@@ -16,6 +16,22 @@ class DailyChallengeScreen extends ConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     final stats = ref.watch(statsProvider);
 
+    final now = DateTime.now().toUtc();
+    final dayNumber = now.difference(DateTime.utc(2025, 1, 1)).inDays + 1;
+    const dailyThemes = [
+      ('space', 'Interstellar Astronomy'),
+      ('nature', 'Wilderness & Nature'),
+      ('movies', 'Cinema & Pop Culture'),
+      ('mythical', 'Myths & Legends'),
+      ('food', 'Culinary & World Food'),
+      ('animals', 'Fauna & Wildlife'),
+      ('technology', 'Future Tech & Computing'),
+      ('places', 'World Wonders & Places'),
+      ('sports', 'Championships & Sports'),
+      ('transport', 'Aviation & Transport'),
+    ];
+    final currentTheme = dailyThemes[(dayNumber - 1) % dailyThemes.length];
+
     return Scaffold(
       body: Container(
         width: double.infinity,
@@ -98,8 +114,8 @@ class DailyChallengeScreen extends ConsumerWidget {
                                     color: HushbugColors.neonPurple.withValues(alpha: 0.2),
                                     borderRadius: BorderRadius.circular(8),
                                   ),
-                                  child: const Text('DAY #42',
-                                      style: TextStyle(
+                                  child: Text('DAY #$dayNumber',
+                                      style: const TextStyle(
                                           color: HushbugColors.neonPurpleLight,
                                           fontSize: 10,
                                           fontWeight: FontWeight.bold)),
@@ -107,9 +123,9 @@ class DailyChallengeScreen extends ConsumerWidget {
                               ],
                             ),
                             const SizedBox(height: 10),
-                            const Text(
-                              'Interstellar Astronomy',
-                              style: TextStyle(color: Colors.white, fontSize: 20, fontWeight: FontWeight.w900),
+                            Text(
+                              currentTheme.$2,
+                              style: const TextStyle(color: Colors.white, fontSize: 20, fontWeight: FontWeight.w900),
                             ),
                             const SizedBox(height: 12),
                             const Divider(color: HushbugColors.cardBorder, height: 16),
@@ -158,7 +174,7 @@ class DailyChallengeScreen extends ConsumerWidget {
                           // Configure daily topic and route to setup/play
                           ref.read(settingsProvider.notifier).update((s) => s.copyWith(
                                 game: s.game.copyWith(
-                                  categories: const ['technology'],
+                                  categories: [currentTheme.$1],
                                   randomMix: false,
                                 ),
                               ));

@@ -46,11 +46,11 @@ class _LobbyScreenState extends ConsumerState<LobbyScreen> with SingleTickerProv
     final stats = ref.watch(statsProvider);
     final gameSession = ref.watch(gameProvider);
     final hasActiveRound = gameSession.round != null && gameSession.round?.phase != GamePhase.result;
-    final players = settings.game.players;
 
-    // Calculate total squad score from scoreboard
-    final totalScore = settings.scores.values.fold<int>(0, (sum, val) => sum + val);
-    final displayScore = totalScore > 0 ? totalScore * 100 : 1240;
+    final now = DateTime.now().toUtc();
+    final endOfDay = DateTime.utc(now.year, now.month, now.day, 23, 59, 59);
+    final diff = endOfDay.difference(now);
+    final resetCountdown = 'Resets in ${diff.inHours}h ${diff.inMinutes % 60}m';
 
     return Scaffold(
       body: Container(
@@ -260,7 +260,7 @@ class _LobbyScreenState extends ConsumerState<LobbyScreen> with SingleTickerProv
                                           ),
                                         ),
                                         Text(
-                                          stats.dailyChallengeCompleted ? 'Completed' : 'Resets in 7h 42m',
+                                          stats.dailyChallengeCompleted ? 'Completed' : resetCountdown,
                                           style: TextStyle(
                                             color: stats.dailyChallengeCompleted
                                                 ? HushbugColors.civilianEmerald
@@ -413,76 +413,7 @@ class _LobbyScreenState extends ConsumerState<LobbyScreen> with SingleTickerProv
                         ),
                       ],
                     ),
-
-                    // Squad Snapshot Card
-                    Container(
-                      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
-                      decoration: BoxDecoration(
-                        color: HushbugColors.cardSurface.withValues(alpha: 0.95),
-                        borderRadius: BorderRadius.circular(22),
-                        border: Border.all(color: HushbugColors.cardBorder, width: 1.2),
-                        boxShadow: const [
-                          BoxShadow(color: Color(0x33000000), blurRadius: 12, offset: Offset(0, 4)),
-                        ],
-                      ),
-                      child: Row(
-                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                        children: [
-                          Column(
-                            crossAxisAlignment: CrossAxisAlignment.start,
-                            children: [
-                              const Text(
-                                'YOUR SQUAD',
-                                style: TextStyle(
-                                  color: HushbugColors.textSubtext,
-                                  fontSize: 10,
-                                  fontWeight: FontWeight.w800,
-                                  letterSpacing: 1.1,
-                                ),
-                              ),
-                              const SizedBox(height: 6),
-                              PlayerAvatarCluster(players: players),
-                            ],
-                          ),
-                          // Squad Points Pill
-                          Container(
-                            padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
-                            decoration: BoxDecoration(
-                              color: const Color(0xFF171322),
-                              borderRadius: BorderRadius.circular(100),
-                              border: Border.all(
-                                color: HushbugColors.accentYellow.withValues(alpha: 0.3),
-                                width: 1.2,
-                              ),
-                            ),
-                            child: Row(
-                              mainAxisSize: MainAxisSize.min,
-                              children: [
-                                const Icon(Icons.emoji_events_rounded, color: HushbugColors.accentYellow, size: 16),
-                                const SizedBox(width: 6),
-                                Text(
-                                  '$displayScore',
-                                  style: const TextStyle(
-                                    color: HushbugColors.accentYellow,
-                                    fontSize: 13,
-                                    fontWeight: FontWeight.w900,
-                                  ),
-                                ),
-                                const SizedBox(width: 2),
-                                const Text(
-                                  ' pts',
-                                  style: TextStyle(
-                                    color: HushbugColors.textSubtext,
-                                    fontSize: 11,
-                                    fontWeight: FontWeight.w600,
-                                  ),
-                                ),
-                              ],
-                            ),
-                          ),
-                        ],
-                      ),
-                    ),
+                    const SizedBox(height: 6),
                   ],
                 ),
               ),

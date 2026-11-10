@@ -106,21 +106,21 @@ class GameHistoryRecord {
 /// Player Profile, Stats, Achievements & Daily Challenge State Store.
 class GameStats {
   const GameStats({
-    this.totalGames = 14,
-    this.crewVictories = 9,
-    this.imposterVictories = 5,
-    this.currentWinStreak = 3,
-    this.bestWinStreak = 6,
-    this.timesCaughtAsImposter = 2,
-    this.successfulDeceptions = 5,
-    this.playerLevel = 4,
-    this.playerXp = 820,
-    this.mostPlayedCategory = 'Movies',
+    this.totalGames = 0,
+    this.crewVictories = 0,
+    this.imposterVictories = 0,
+    this.currentWinStreak = 0,
+    this.bestWinStreak = 0,
+    this.timesCaughtAsImposter = 0,
+    this.successfulDeceptions = 0,
+    this.playerLevel = 1,
+    this.playerXp = 0,
+    this.mostPlayedCategory = 'None',
     this.selectedAvatar = 0,
     this.dailyChallengeCompleted = false,
-    this.dailyStreak = 4,
+    this.dailyStreak = 0,
     this.history = const [],
-    this.unlockedCosmetics = const ['classic', 'detective'],
+    this.unlockedCosmetics = const ['classic'],
     this.selectedCosmetic = 'classic',
   });
 
@@ -167,24 +167,24 @@ class GameStats {
 
   factory GameStats.fromJson(Map<String, dynamic> j) {
     return GameStats(
-      totalGames: (j['totalGames'] as num?)?.toInt() ?? 14,
-      crewVictories: (j['crewVictories'] as num?)?.toInt() ?? 9,
-      imposterVictories: (j['imposterVictories'] as num?)?.toInt() ?? 5,
-      currentWinStreak: (j['currentWinStreak'] as num?)?.toInt() ?? 3,
-      bestWinStreak: (j['bestWinStreak'] as num?)?.toInt() ?? 6,
-      timesCaughtAsImposter: (j['timesCaughtAsImposter'] as num?)?.toInt() ?? 2,
-      successfulDeceptions: (j['successfulDeceptions'] as num?)?.toInt() ?? 5,
-      playerLevel: (j['playerLevel'] as num?)?.toInt() ?? 4,
-      playerXp: (j['playerXp'] as num?)?.toInt() ?? 820,
-      mostPlayedCategory: (j['mostPlayedCategory'] as String?) ?? 'Movies',
+      totalGames: (j['totalGames'] as num?)?.toInt() ?? 0,
+      crewVictories: (j['crewVictories'] as num?)?.toInt() ?? 0,
+      imposterVictories: (j['imposterVictories'] as num?)?.toInt() ?? 0,
+      currentWinStreak: (j['currentWinStreak'] as num?)?.toInt() ?? 0,
+      bestWinStreak: (j['bestWinStreak'] as num?)?.toInt() ?? 0,
+      timesCaughtAsImposter: (j['timesCaughtAsImposter'] as num?)?.toInt() ?? 0,
+      successfulDeceptions: (j['successfulDeceptions'] as num?)?.toInt() ?? 0,
+      playerLevel: (j['playerLevel'] as num?)?.toInt() ?? 1,
+      playerXp: (j['playerXp'] as num?)?.toInt() ?? 0,
+      mostPlayedCategory: (j['mostPlayedCategory'] as String?) ?? 'None',
       selectedAvatar: (j['selectedAvatar'] as num?)?.toInt() ?? 0,
       dailyChallengeCompleted: (j['dailyChallengeCompleted'] as bool?) ?? false,
-      dailyStreak: (j['dailyStreak'] as num?)?.toInt() ?? 4,
+      dailyStreak: (j['dailyStreak'] as num?)?.toInt() ?? 0,
       history: [
         for (final h in (j['history'] as List? ?? []))
           if (h is Map) GameHistoryRecord.fromJson(Map<String, dynamic>.from(h)),
       ],
-      unlockedCosmetics: (j['unlockedCosmetics'] as List? ?? ['classic', 'detective']).map((e) => e.toString()).toList(),
+      unlockedCosmetics: (j['unlockedCosmetics'] as List? ?? ['classic']).map((e) => e.toString()).toList(),
       selectedCosmetic: (j['selectedCosmetic'] as String?) ?? 'classic',
     );
   }
@@ -235,7 +235,8 @@ final List<Achievement> defaultAchievements = [
     description: 'Win 10 games as an imposter.',
     iconName: 'masks',
     maxProgress: 10,
-    progress: 5,
+    progress: 0,
+    unlocked: false,
   ),
   const Achievement(
     id: 'detective',
@@ -243,7 +244,8 @@ final List<Achievement> defaultAchievements = [
     description: 'Catch 20 imposters across rounds.',
     iconName: 'search',
     maxProgress: 20,
-    progress: 9,
+    progress: 0,
+    unlocked: false,
   ),
   const Achievement(
     id: 'invisible_imposter',
@@ -251,8 +253,8 @@ final List<Achievement> defaultAchievements = [
     description: 'Win without receiving a single vote.',
     iconName: 'visibility_off',
     maxProgress: 1,
-    progress: 1,
-    unlocked: true,
+    progress: 0,
+    unlocked: false,
   ),
   const Achievement(
     id: 'survivor',
@@ -260,7 +262,8 @@ final List<Achievement> defaultAchievements = [
     description: 'Survive 5 consecutive rounds without elimination.',
     iconName: 'shield',
     maxProgress: 5,
-    progress: 3,
+    progress: 0,
+    unlocked: false,
   ),
   const Achievement(
     id: 'smooth_talker',
@@ -268,7 +271,8 @@ final List<Achievement> defaultAchievements = [
     description: 'Successfully deceive the squad 3 times in a row.',
     iconName: 'record_voice_over',
     maxProgress: 3,
-    progress: 2,
+    progress: 0,
+    unlocked: false,
   ),
   const Achievement(
     id: 'party_starter',
@@ -276,7 +280,7 @@ final List<Achievement> defaultAchievements = [
     description: 'Host a game session with 6 or more players.',
     iconName: 'celebration',
     maxProgress: 1,
-    progress: 1,
-    unlocked: true,
+    progress: 0,
+    unlocked: false,
   ),
 ];

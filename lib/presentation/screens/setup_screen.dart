@@ -536,87 +536,149 @@ class _SetupScreenState extends ConsumerState<SetupScreen> {
                         ),
                         const SizedBox(height: 18),
 
-                        // SECTION 3: CATEGORIES TAG CLOUD
-                        const Text(
-                          'CATEGORIES',
-                          style: TextStyle(
-                            fontSize: 11,
-                            fontWeight: FontWeight.w800,
-                            color: HushbugColors.textSubtext,
-                            letterSpacing: 1.1,
-                          ),
-                        ),
-                        const SizedBox(height: 8),
+                        // SECTION 3: CATEGORIES & TOPICS (Clean, lightweight card)
                         cats.when(
-                          loading: () => const Center(
-                            child: Padding(
-                              padding: EdgeInsets.all(12),
-                              child: CircularProgressIndicator(color: HushbugColors.neonPurpleLight),
-                            ),
+                          loading: () => const Padding(
+                            padding: EdgeInsets.symmetric(vertical: 8),
+                            child: Center(child: CircularProgressIndicator(color: HushbugColors.neonPurpleLight, strokeWidth: 2)),
                           ),
                           error: (e, _) => Text('Error loading categories: $e', style: const TextStyle(color: Colors.red)),
                           data: (allCats) {
-                            return Wrap(
-                              spacing: 8,
-                              runSpacing: 8,
+                            return Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
-                                // Random Mix Chip
-                                ChoiceChip(
-                                  label: const Row(
-                                    mainAxisSize: MainAxisSize.min,
-                                    children: [
-                                      Icon(Icons.shuffle_rounded, size: 14, color: HushbugColors.accentYellow),
-                                      SizedBox(width: 5),
-                                      Text('Random Mix'),
-                                    ],
-                                  ),
-                                  selected: g.randomMix,
-                                  selectedColor: HushbugColors.neonPurple,
-                                  backgroundColor: HushbugColors.cardSurface,
-                                  labelStyle: TextStyle(
-                                    color: g.randomMix ? Colors.white : HushbugColors.textSecondary,
-                                    fontWeight: FontWeight.w700,
-                                    fontSize: 12,
-                                  ),
-                                  onSelected: (v) => _updateGame((g) => g.copyWith(randomMix: v)),
-                                ),
-                                // Individual Category Chips
-                                for (final (id, name) in allCats)
-                                  if (g.randomMix || selected.contains(id))
-                                    Chip(
-                                      backgroundColor: HushbugColors.cardSurfaceElevated,
-                                      shape: RoundedRectangleBorder(
-                                        borderRadius: BorderRadius.circular(100),
-                                        side: BorderSide(
-                                          color: !g.randomMix && selected.contains(id)
-                                              ? HushbugColors.cardBorderActive
-                                              : HushbugColors.cardBorder,
-                                        ),
+                                Row(
+                                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                                  children: [
+                                    const Text(
+                                      'CATEGORIES & TOPICS',
+                                      style: TextStyle(
+                                        fontSize: 11,
+                                        fontWeight: FontWeight.w800,
+                                        color: HushbugColors.textSubtext,
+                                        letterSpacing: 1.1,
                                       ),
-                                      label: Text(
-                                        name,
-                                        style: const TextStyle(color: Colors.white, fontSize: 12, fontWeight: FontWeight.w600),
-                                      ),
-                                      deleteIcon: g.randomMix ? null : const Icon(Icons.close_rounded, size: 14, color: HushbugColors.textSubtext),
-                                      onDeleted: g.randomMix
-                                          ? null
-                                          : () {
-                                              final next = {...selected}..remove(id);
-                                              ref.read(settingsProvider.notifier).update((s) => s.copyWith(
-                                                    selectedCategories: {...s.selectedCategories, source: next.toList()},
-                                                    game: s.game.copyWith(randomMix: next.isEmpty),
-                                                  ));
-                                            },
                                     ),
-                                // Add Category Button
-                                ActionChip(
-                                  label: const Text('+ Add', style: TextStyle(color: HushbugColors.neonPurpleLight, fontSize: 12, fontWeight: FontWeight.bold)),
-                                  backgroundColor: HushbugColors.cardSurface,
-                                  shape: RoundedRectangleBorder(
-                                    borderRadius: BorderRadius.circular(100),
-                                    side: const BorderSide(color: HushbugColors.cardBorderActive, style: BorderStyle.solid),
+                                    TextButton.icon(
+                                      onPressed: () => _openCategoriesModal(context, allCats, selected, g.randomMix, source),
+                                      style: TextButton.styleFrom(visualDensity: VisualDensity.compact),
+                                      icon: const Icon(Icons.tune_rounded, size: 15, color: HushbugColors.neonPurpleLight),
+                                      label: Text(
+                                        g.randomMix ? 'Customize' : 'Change',
+                                        style: const TextStyle(color: HushbugColors.neonPurpleLight, fontSize: 11, fontWeight: FontWeight.bold),
+                                      ),
+                                    ),
+                                  ],
+                                ),
+                                const SizedBox(height: 6),
+                                Material(
+                                  color: Colors.transparent,
+                                  child: InkWell(
+                                    onTap: () => _openCategoriesModal(context, allCats, selected, g.randomMix, source),
+                                    borderRadius: BorderRadius.circular(20),
+                                    child: Container(
+                                      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+                                      decoration: BoxDecoration(
+                                        color: HushbugColors.cardSurface,
+                                        borderRadius: BorderRadius.circular(20),
+                                        border: Border.all(
+                                          color: g.randomMix ? HushbugColors.cardBorder : HushbugColors.cardBorderActive.withValues(alpha: 0.6),
+                                          width: 1.2,
+                                        ),
+                                        boxShadow: [
+                                          BoxShadow(
+                                            color: HushbugColors.neonPurple.withValues(alpha: 0.1),
+                                            blurRadius: 10,
+                                          ),
+                                        ],
+                                      ),
+                                      child: Row(
+                                        children: [
+                                          Container(
+                                            width: 42,
+                                            height: 42,
+                                            decoration: BoxDecoration(
+                                              color: g.randomMix
+                                                  ? HushbugColors.accentYellow.withValues(alpha: 0.15)
+                                                  : HushbugColors.neonPurple.withValues(alpha: 0.2),
+                                              borderRadius: BorderRadius.circular(14),
+                                              border: Border.all(
+                                                color: g.randomMix
+                                                    ? HushbugColors.accentYellow.withValues(alpha: 0.4)
+                                                    : HushbugColors.neonPurpleLight.withValues(alpha: 0.4),
+                                                width: 1.2,
+                                              ),
+                                            ),
+                                            child: Icon(
+                                              g.randomMix ? Icons.shuffle_rounded : Icons.category_rounded,
+                                              color: g.randomMix ? HushbugColors.accentYellow : HushbugColors.neonPurpleLight,
+                                              size: 22,
+                                            ),
+                                          ),
+                                          const SizedBox(width: 14),
+                                          Expanded(
+                                            child: Column(
+                                              crossAxisAlignment: CrossAxisAlignment.start,
+                                              children: [
+                                                Row(
+                                                  children: [
+                                                    Text(
+                                                      g.randomMix
+                                                          ? 'Random Mix (All Packs)'
+                                                          : (selected.isEmpty
+                                                              ? 'No Topics Selected'
+                                                              : (selected.length == 1
+                                                                  ? '1 Topic Selected'
+                                                                  : '${selected.length} Topics Selected')),
+                                                      style: const TextStyle(
+                                                        fontSize: 14,
+                                                        fontWeight: FontWeight.w800,
+                                                        color: Colors.white,
+                                                      ),
+                                                    ),
+                                                    if (!g.randomMix && selected.isNotEmpty) ...[
+                                                      const SizedBox(width: 8),
+                                                      Container(
+                                                        padding: const EdgeInsets.symmetric(horizontal: 7, vertical: 1.5),
+                                                        decoration: BoxDecoration(
+                                                          color: HushbugColors.neonPurple.withValues(alpha: 0.3),
+                                                          borderRadius: BorderRadius.circular(100),
+                                                        ),
+                                                        child: Text(
+                                                          '${selected.length}',
+                                                          style: const TextStyle(
+                                                            color: HushbugColors.neonPurpleLight,
+                                                            fontSize: 10,
+                                                            fontWeight: FontWeight.bold,
+                                                          ),
+                                                        ),
+                                                      ),
+                                                    ],
+                                                  ],
+                                                ),
+                                                const SizedBox(height: 2),
+                                                Text(
+                                                  g.randomMix
+                                                      ? 'Picks secret words randomly across all ${allCats.length} topics'
+                                                      : (selected.isEmpty
+                                                          ? 'Tap to choose topics for the game'
+                                                          : _formatSelectedPreview(selected, allCats)),
+                                                  maxLines: 1,
+                                                  overflow: TextOverflow.ellipsis,
+                                                  style: const TextStyle(
+                                                    fontSize: 11,
+                                                    fontWeight: FontWeight.w500,
+                                                    color: HushbugColors.textSubtext,
+                                                  ),
+                                                ),
+                                              ],
+                                            ),
+                                          ),
+                                          const Icon(Icons.chevron_right_rounded, color: HushbugColors.textSubtext),
+                                        ],
+                                      ),
+                                    ),
                                   ),
-                                  onPressed: () => _showCategoryPickerSheet(context, allCats, selected, source),
                                 ),
                               ],
                             );
@@ -958,70 +1020,429 @@ class _SetupScreenState extends ConsumerState<SetupScreen> {
     );
   }
 
-  void _showCategoryPickerSheet(
+  String _formatSelectedPreview(List<String> selected, List<(String, String)> allCats) {
+    final catMap = {for (final (id, name) in allCats) id: name};
+    final names = selected.map((id) => catMap[id] ?? id).toList();
+    if (names.isEmpty) return 'Tap to choose topics';
+    if (names.length <= 3) return names.join(', ');
+    return '${names.take(3).join(', ')} + ${names.length - 3} more';
+  }
+
+  void _openCategoriesModal(
     BuildContext context,
     List<(String, String)> allCats,
-    List<String> selected,
+    List<String> currentSelected,
+    bool initialRandomMix,
     String source,
   ) {
+    final tempSelected = <String>{...currentSelected};
+    var tempRandomMix = initialRandomMix;
+    var searchQuery = '';
+
     showModalBottomSheet(
       context: context,
+      isScrollControlled: true,
       backgroundColor: HushbugColors.cardSurface,
-      shape: const RoundedRectangleBorder(borderRadius: BorderRadius.vertical(top: Radius.circular(28))),
+      shape: const RoundedRectangleBorder(
+        borderRadius: BorderRadius.vertical(top: Radius.circular(28)),
+      ),
       builder: (ctx) {
         return StatefulBuilder(
           builder: (context, setSheetState) {
-            return Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 16),
+            final filteredCats = searchQuery.trim().isEmpty
+                ? allCats
+                : allCats.where((c) => c.$2.toLowerCase().contains(searchQuery.trim().toLowerCase())).toList();
+
+            return Container(
+              constraints: BoxConstraints(
+                maxHeight: MediaQuery.of(context).size.height * 0.86,
+              ),
+              padding: const EdgeInsets.only(left: 20, right: 20, top: 12, bottom: 20),
               child: Column(
                 mainAxisSize: MainAxisSize.min,
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                    children: [
-                      const Text('Choose Categories', style: TextStyle(color: Colors.white, fontSize: 18, fontWeight: FontWeight.bold)),
-                      IconButton(onPressed: () => Navigator.of(ctx).pop(), icon: const Icon(Icons.close_rounded, color: Colors.white)),
-                    ],
-                  ),
-                  const SizedBox(height: 12),
-                  Flexible(
-                    child: SingleChildScrollView(
-                      child: Wrap(
-                        spacing: 8,
-                        runSpacing: 8,
-                        children: [
-                          for (final (id, name) in allCats)
-                            FilterChip(
-                              label: Text(name),
-                              selected: selected.contains(id),
-                              selectedColor: HushbugColors.neonPurple,
-                              backgroundColor: HushbugColors.cardSurfaceElevated,
-                              labelStyle: TextStyle(
-                                color: selected.contains(id) ? Colors.white : HushbugColors.textSecondary,
-                                fontWeight: FontWeight.w600,
-                              ),
-                              onSelected: (v) {
-                                final next = {...selected};
-                                v ? next.add(id) : next.remove(id);
-                                ref.read(settingsProvider.notifier).update((s) => s.copyWith(
-                                      selectedCategories: {...s.selectedCategories, source: next.toList()},
-                                      game: s.game.copyWith(randomMix: false),
-                                    ));
-                                setSheetState(() {});
-                                setState(() {});
-                              },
-                            ),
-                        ],
+                  // Drag Handle
+                  Center(
+                    child: Container(
+                      width: 42,
+                      height: 4,
+                      decoration: BoxDecoration(
+                        color: Colors.white24,
+                        borderRadius: BorderRadius.circular(2),
                       ),
                     ),
                   ),
-                  const SizedBox(height: 16),
-                  SizedBox(
-                    width: double.infinity,
-                    child: FilledButton(
-                      onPressed: () => Navigator.of(ctx).pop(),
-                      child: const Text('Done'),
+                  const SizedBox(height: 12),
+
+                  // Header with Title & Close Action
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    children: [
+                      Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          const Text(
+                            'Topics & Categories',
+                            style: TextStyle(
+                              color: Colors.white,
+                              fontSize: 19,
+                              fontWeight: FontWeight.w800,
+                              letterSpacing: 0.2,
+                            ),
+                          ),
+                          const SizedBox(height: 2),
+                          Text(
+                            '${allCats.length} topic packs available • Choose multiple',
+                            style: const TextStyle(
+                              color: HushbugColors.textSubtext,
+                              fontSize: 12,
+                            ),
+                          ),
+                        ],
+                      ),
+                      IconButton(
+                        onPressed: () => Navigator.of(ctx).pop(),
+                        icon: const Icon(Icons.close_rounded, color: Colors.white, size: 22),
+                      ),
+                    ],
+                  ),
+                  const SizedBox(height: 12),
+
+                  // 1. Randomized (Random Mix) Option Card - managed inside modal
+                  Material(
+                    color: Colors.transparent,
+                    child: InkWell(
+                      onTap: () {
+                        setSheetState(() {
+                          tempRandomMix = !tempRandomMix;
+                        });
+                        Haptics.tick(enabled: ref.read(settingsProvider).haptics);
+                      },
+                      borderRadius: BorderRadius.circular(18),
+                      child: AnimatedContainer(
+                        duration: const Duration(milliseconds: 180),
+                        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 12),
+                        decoration: BoxDecoration(
+                          color: tempRandomMix
+                              ? HushbugColors.neonPurple.withValues(alpha: 0.25)
+                              : HushbugColors.cardSurfaceElevated,
+                          borderRadius: BorderRadius.circular(18),
+                          border: Border.all(
+                            color: tempRandomMix ? HushbugColors.accentYellow : HushbugColors.cardBorder,
+                            width: tempRandomMix ? 1.8 : 1.2,
+                          ),
+                          boxShadow: tempRandomMix
+                              ? [
+                                  BoxShadow(
+                                    color: HushbugColors.accentYellow.withValues(alpha: 0.2),
+                                    blurRadius: 10,
+                                  ),
+                                ]
+                              : null,
+                        ),
+                        child: Row(
+                          children: [
+                            Container(
+                              width: 38,
+                              height: 38,
+                              decoration: BoxDecoration(
+                                shape: BoxShape.circle,
+                                color: tempRandomMix
+                                    ? HushbugColors.accentYellow.withValues(alpha: 0.2)
+                                    : const Color(0xFF2E224D),
+                              ),
+                              child: Icon(
+                                Icons.shuffle_rounded,
+                                color: tempRandomMix ? HushbugColors.accentYellow : HushbugColors.textSubtext,
+                                size: 20,
+                              ),
+                            ),
+                            const SizedBox(width: 12),
+                            Expanded(
+                              child: Column(
+                                crossAxisAlignment: CrossAxisAlignment.start,
+                                children: [
+                                  Row(
+                                    children: [
+                                      const Text(
+                                        'Random Mix (All Packs)',
+                                        style: TextStyle(
+                                          color: Colors.white,
+                                          fontSize: 14,
+                                          fontWeight: FontWeight.bold,
+                                        ),
+                                      ),
+                                      if (tempRandomMix) ...[
+                                        const SizedBox(width: 6),
+                                        Container(
+                                          padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 1),
+                                          decoration: BoxDecoration(
+                                            color: HushbugColors.accentYellow,
+                                            borderRadius: BorderRadius.circular(100),
+                                          ),
+                                          child: const Text(
+                                            'ACTIVE',
+                                            style: TextStyle(
+                                              color: HushbugColors.onAccentYellow,
+                                              fontSize: 9,
+                                              fontWeight: FontWeight.w900,
+                                            ),
+                                          ),
+                                        ),
+                                      ],
+                                    ],
+                                  ),
+                                  const SizedBox(height: 2),
+                                  Text(
+                                    'Picks words randomly across all ${allCats.length} topics',
+                                    style: const TextStyle(
+                                      color: HushbugColors.textSubtext,
+                                      fontSize: 11,
+                                    ),
+                                  ),
+                                ],
+                              ),
+                            ),
+                            // Checkmark Indicator for Randomized
+                            Container(
+                              width: 24,
+                              height: 24,
+                              decoration: BoxDecoration(
+                                shape: BoxShape.circle,
+                                color: tempRandomMix ? HushbugColors.accentYellow : Colors.transparent,
+                                border: Border.all(
+                                  color: tempRandomMix ? HushbugColors.accentYellow : HushbugColors.textMuted,
+                                  width: 1.8,
+                                ),
+                              ),
+                              child: tempRandomMix
+                                  ? const Icon(
+                                      Icons.check_rounded,
+                                      color: HushbugColors.onAccentYellow,
+                                      size: 16,
+                                    )
+                                  : null,
+                            ),
+                          ],
+                        ),
+                      ),
+                    ),
+                  ),
+                  const SizedBox(height: 12),
+
+                  // 2. Specific Topics Selection Bar & Quick Actions
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    children: [
+                      Row(
+                        children: [
+                          const Text(
+                            'CHOOSE TOPICS',
+                            style: TextStyle(
+                              color: HushbugColors.textSubtext,
+                              fontSize: 11,
+                              fontWeight: FontWeight.w800,
+                              letterSpacing: 0.8,
+                            ),
+                          ),
+                          const SizedBox(width: 6),
+                          Container(
+                            padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
+                            decoration: BoxDecoration(
+                              color: tempRandomMix
+                                  ? const Color(0xFF2D234A)
+                                  : HushbugColors.neonPurple.withValues(alpha: 0.35),
+                              borderRadius: BorderRadius.circular(100),
+                              border: Border.all(
+                                color: tempRandomMix ? Colors.transparent : HushbugColors.cardBorderActive,
+                                width: 1,
+                              ),
+                            ),
+                            child: Text(
+                              tempRandomMix ? 'All (${allCats.length})' : '${tempSelected.length} Selected',
+                              style: TextStyle(
+                                color: tempRandomMix ? HushbugColors.textSubtext : HushbugColors.neonPurpleLight,
+                                fontSize: 10,
+                                fontWeight: FontWeight.bold,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                      Row(
+                        children: [
+                          TextButton(
+                            onPressed: () {
+                              setSheetState(() {
+                                tempSelected.addAll(allCats.map((c) => c.$1));
+                                tempRandomMix = false;
+                              });
+                              Haptics.tick(enabled: ref.read(settingsProvider).haptics);
+                            },
+                            style: TextButton.styleFrom(
+                              visualDensity: VisualDensity.compact,
+                              padding: const EdgeInsets.symmetric(horizontal: 8),
+                            ),
+                            child: const Text('Select All', style: TextStyle(color: HushbugColors.neonPurpleLight, fontSize: 12)),
+                          ),
+                          TextButton(
+                            onPressed: () {
+                              setSheetState(() {
+                                tempSelected.clear();
+                              });
+                              Haptics.tick(enabled: ref.read(settingsProvider).haptics);
+                            },
+                            style: TextButton.styleFrom(
+                              visualDensity: VisualDensity.compact,
+                              padding: const EdgeInsets.symmetric(horizontal: 8),
+                            ),
+                            child: const Text('Clear', style: TextStyle(color: HushbugColors.textSubtext, fontSize: 12)),
+                          ),
+                        ],
+                      ),
+                    ],
+                  ),
+                  const SizedBox(height: 6),
+
+                  // 3. Grid of Topics with Clear Tick Marks for Multi-Selection
+                  Flexible(
+                    child: SingleChildScrollView(
+                      physics: const BouncingScrollPhysics(),
+                      child: GridView.builder(
+                        shrinkWrap: true,
+                        physics: const NeverScrollableScrollPhysics(),
+                        itemCount: filteredCats.length,
+                        gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+                          crossAxisCount: 2,
+                          childAspectRatio: 2.7,
+                          crossAxisSpacing: 10,
+                          mainAxisSpacing: 10,
+                        ),
+                        itemBuilder: (context, i) {
+                          final (id, name) = filteredCats[i];
+                          final isSelected = tempSelected.contains(id);
+
+                          return Material(
+                            color: Colors.transparent,
+                            child: InkWell(
+                              onTap: () {
+                                setSheetState(() {
+                                  // Tapping specific topic switches off pure random mix mode
+                                  tempRandomMix = false;
+                                  if (isSelected) {
+                                    tempSelected.remove(id);
+                                  } else {
+                                    tempSelected.add(id);
+                                  }
+                                });
+                                Haptics.tick(enabled: ref.read(settingsProvider).haptics);
+                              },
+                              borderRadius: BorderRadius.circular(16),
+                              child: AnimatedContainer(
+                                duration: const Duration(milliseconds: 160),
+                                padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 8),
+                                decoration: BoxDecoration(
+                                  color: isSelected
+                                      ? const Color(0xFF2F1F5C)
+                                      : HushbugColors.cardSurfaceElevated,
+                                  borderRadius: BorderRadius.circular(16),
+                                  border: Border.all(
+                                    color: isSelected
+                                        ? HushbugColors.cardBorderActive
+                                        : HushbugColors.cardBorder,
+                                    width: isSelected ? 1.8 : 1.2,
+                                  ),
+                                  boxShadow: isSelected
+                                      ? [
+                                          BoxShadow(
+                                            color: HushbugColors.neonPurple.withValues(alpha: 0.25),
+                                            blurRadius: 8,
+                                          ),
+                                        ]
+                                      : null,
+                                ),
+                                child: Row(
+                                  children: [
+                                    Icon(
+                                      categoryIcon(id),
+                                      size: 19,
+                                      color: isSelected ? HushbugColors.accentYellow : HushbugColors.textSubtext,
+                                    ),
+                                    const SizedBox(width: 8),
+                                    Expanded(
+                                      child: Text(
+                                        name,
+                                        maxLines: 1,
+                                        overflow: TextOverflow.ellipsis,
+                                        style: TextStyle(
+                                          color: isSelected ? Colors.white : HushbugColors.textSecondary,
+                                          fontWeight: isSelected ? FontWeight.w800 : FontWeight.w600,
+                                          fontSize: 12.5,
+                                        ),
+                                      ),
+                                    ),
+                                    const SizedBox(width: 4),
+                                    // CLEAR TICK MARK INDICATOR
+                                    if (isSelected)
+                                      Container(
+                                        width: 22,
+                                        height: 22,
+                                        decoration: const BoxDecoration(
+                                          shape: BoxShape.circle,
+                                          color: HushbugColors.accentYellow,
+                                        ),
+                                        child: const Icon(
+                                          Icons.check_rounded,
+                                          color: HushbugColors.onAccentYellow,
+                                          size: 15,
+                                        ),
+                                      )
+                                    else
+                                      Container(
+                                        width: 20,
+                                        height: 20,
+                                        decoration: BoxDecoration(
+                                          shape: BoxShape.circle,
+                                          border: Border.all(
+                                            color: HushbugColors.cardBorder,
+                                            width: 1.5,
+                                          ),
+                                        ),
+                                      ),
+                                  ],
+                                ),
+                              ),
+                            ),
+                          );
+                        },
+                      ),
+                    ),
+                  ),
+                  const SizedBox(height: 14),
+
+                  // 4. Prominent Apply Button
+                  TactileButton(
+                    height: 52,
+                    style: TactileButtonStyle.neonPurple,
+                    onPressed: () {
+                      final finalRandom = tempRandomMix || tempSelected.isEmpty;
+                      ref.read(settingsProvider.notifier).update((s) => s.copyWith(
+                            selectedCategories: {...s.selectedCategories, source: tempSelected.toList()},
+                            game: s.game.copyWith(randomMix: finalRandom),
+                          ));
+                      Navigator.of(ctx).pop();
+                      final s = ref.read(settingsProvider);
+                      Haptics.tick(enabled: s.haptics);
+                      ref.read(soundProvider).play('pop', enabled: s.sound);
+                      setState(() {});
+                    },
+                    child: Text(
+                      tempRandomMix
+                          ? 'Apply Random Mix (All Packs)'
+                          : (tempSelected.isEmpty
+                              ? 'Apply (All Topics)'
+                              : 'Apply (${tempSelected.length} Topics Selected)'),
                     ),
                   ),
                 ],

@@ -34,6 +34,25 @@ class AchievementsScreen extends ConsumerWidget {
       }
     }
 
+    int computeProgress(Achievement ach, GameStats stats) {
+      switch (ach.id) {
+        case 'master_deceiver':
+          return stats.imposterVictories;
+        case 'detective':
+          return stats.crewVictories;
+        case 'invisible_imposter':
+          return stats.history.any((h) => h.winner == 'imposter') ? 1 : 0;
+        case 'survivor':
+          return stats.bestWinStreak;
+        case 'smooth_talker':
+          return stats.successfulDeceptions;
+        case 'party_starter':
+          return stats.history.any((h) => h.players.length >= 6) ? 1 : 0;
+        default:
+          return 0;
+      }
+    }
+
     return Scaffold(
       body: Container(
         width: double.infinity,
@@ -110,7 +129,8 @@ class AchievementsScreen extends ConsumerWidget {
                   itemCount: defaultAchievements.length,
                   itemBuilder: (context, index) {
                     final item = defaultAchievements[index];
-                    final isUnlocked = item.unlocked;
+                    final currentProgress = computeProgress(item, stats).clamp(0, item.maxProgress);
+                    final isUnlocked = currentProgress >= item.maxProgress;
 
                     return Container(
                       margin: const EdgeInsets.only(bottom: 12),
@@ -175,6 +195,15 @@ class AchievementsScreen extends ConsumerWidget {
                                                 color: HushbugColors.civilianEmerald,
                                                 fontSize: 9,
                                                 fontWeight: FontWeight.w900)),
+                                      )
+                                    else
+                                      Text(
+                                        '$currentProgress / ${item.maxProgress}',
+                                        style: const TextStyle(
+                                          color: HushbugColors.textMuted,
+                                          fontSize: 11,
+                                          fontWeight: FontWeight.bold,
+                                        ),
                                       ),
                                   ],
                                 ),
@@ -187,7 +216,7 @@ class AchievementsScreen extends ConsumerWidget {
                                 ClipRRect(
                                   borderRadius: BorderRadius.circular(4),
                                   child: LinearProgressIndicator(
-                                    value: (item.progress / item.maxProgress).clamp(0.0, 1.0),
+                                    value: (currentProgress / item.maxProgress).clamp(0.0, 1.0),
                                     backgroundColor: const Color(0xFF171228),
                                     valueColor: AlwaysStoppedAnimation(
                                       isUnlocked ? HushbugColors.civilianEmerald : HushbugColors.neonPurple,
