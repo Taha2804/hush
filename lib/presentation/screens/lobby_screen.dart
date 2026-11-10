@@ -1,3 +1,4 @@
+import 'dart:math' as math;
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
@@ -9,13 +10,40 @@ import '../theme.dart';
 import '../widgets/mascot.dart';
 import '../widgets/visuals.dart';
 
-/// Screen 1: Home Lobby matching Prototype stitch_flutter_imposter_party_game (1).
-class LobbyScreen extends ConsumerWidget {
+/// Screen 1: Home Screen matching Part 3, Screen 1 redesign requirements.
+class LobbyScreen extends ConsumerStatefulWidget {
   const LobbyScreen({super.key});
 
   @override
-  Widget build(BuildContext context, WidgetRef ref) {
+  ConsumerState<LobbyScreen> createState() => _LobbyScreenState();
+}
+
+class _LobbyScreenState extends ConsumerState<LobbyScreen> with SingleTickerProviderStateMixin {
+  late final AnimationController _playPulseCtrl;
+  late final Animation<double> _pulseScale;
+
+  @override
+  void initState() {
+    super.initState();
+    _playPulseCtrl = AnimationController(
+      vsync: this,
+      duration: const Duration(milliseconds: 1800),
+    )..repeat(reverse: true);
+    _pulseScale = Tween<double>(begin: 1.0, end: 1.028).animate(
+      CurvedAnimation(parent: _playPulseCtrl, curve: Curves.easeInOutSine),
+    );
+  }
+
+  @override
+  void dispose() {
+    _playPulseCtrl.dispose();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
     final settings = ref.watch(settingsProvider);
+    final stats = ref.watch(statsProvider);
     final gameSession = ref.watch(gameProvider);
     final hasActiveRound = gameSession.round != null && gameSession.round?.phase != GamePhase.result;
     final players = settings.game.players;
@@ -34,12 +62,13 @@ class LobbyScreen extends ConsumerWidget {
         child: SafeArea(
           child: Stack(
             children: [
-              // Bottom Peeking Mascot in the background
+              // Bottom-left Peeking Mascot in the background
               const Positioned(
                 bottom: -8,
                 left: -12,
                 child: PeekingCornerMascot(width: 110, height: 80),
               ),
+
               // Main Foreground Content
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 8),
@@ -55,33 +84,59 @@ class LobbyScreen extends ConsumerWidget {
                           onTap: () => context.push('/stats'),
                           borderRadius: BorderRadius.circular(16),
                           child: Container(
-                            padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+                            padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
                             decoration: BoxDecoration(
                               color: HushbugColors.cardSurface.withValues(alpha: 0.9),
                               borderRadius: BorderRadius.circular(16),
                               border: Border.all(color: HushbugColors.cardBorder, width: 1),
                             ),
-                            child: const Row(
+                            child: Row(
                               mainAxisSize: MainAxisSize.min,
                               children: [
                                 CircleAvatar(
-                                  radius: 11,
+                                  radius: 12,
                                   backgroundColor: HushbugColors.neonPurple,
-                                  child: Icon(Icons.person_rounded, size: 14, color: Colors.white),
+                                  child: Text(
+                                    '${stats.playerLevel}',
+                                    style: const TextStyle(
+                                      color: Colors.white,
+                                      fontSize: 10,
+                                      fontWeight: FontWeight.w900,
+                                    ),
+                                  ),
                                 ),
-                                SizedBox(width: 8),
+                                const SizedBox(width: 8),
                                 Text(
-                                  '3 Win Streak 🔥',
-                                  style: TextStyle(
+                                  '${stats.currentWinStreak} Streak 🔥',
+                                  style: const TextStyle(
                                     color: HushbugColors.accentYellow,
                                     fontSize: 11,
                                     fontWeight: FontWeight.w800,
+                                  ),
+                                ),
+                                const SizedBox(width: 6),
+                                Container(
+                                  width: 3,
+                                  height: 3,
+                                  decoration: const BoxDecoration(
+                                    shape: BoxShape.circle,
+                                    color: HushbugColors.textSubtext,
+                                  ),
+                                ),
+                                const SizedBox(width: 6),
+                                Text(
+                                  '${stats.totalGames} Games',
+                                  style: const TextStyle(
+                                    color: HushbugColors.textSubtext,
+                                    fontSize: 10,
+                                    fontWeight: FontWeight.w600,
                                   ),
                                 ),
                               ],
                             ),
                           ),
                         ),
+
                         // Right Shortcuts: Daily Mission & Settings
                         Row(
                           children: [
@@ -122,7 +177,7 @@ class LobbyScreen extends ConsumerWidget {
                       mainAxisSize: MainAxisSize.min,
                       children: [
                         const HeroFloatingMascot(size: 130),
-                        const SizedBox(height: 12),
+                        const SizedBox(height: 10),
                         const Text(
                           'Hushbug',
                           style: TextStyle(
@@ -137,7 +192,7 @@ class LobbyScreen extends ConsumerWidget {
                         ),
                         const SizedBox(height: 4),
                         const Text(
-                          'The Word Deduction Party Game',
+                          'Find the faker. Keep the secret.',
                           style: TextStyle(
                             fontSize: 13,
                             fontWeight: FontWeight.w600,
@@ -148,17 +203,126 @@ class LobbyScreen extends ConsumerWidget {
                       ],
                     ),
 
-                    // Primary Action CTAs
+                    // Daily Challenge Section Card
+                    Material(
+                      color: Colors.transparent,
+                      child: InkWell(
+                        onTap: () => context.push('/daily'),
+                        borderRadius: BorderRadius.circular(18),
+                        child: Container(
+                          padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
+                          decoration: BoxDecoration(
+                            color: HushbugColors.cardSurface.withValues(alpha: 0.9),
+                            borderRadius: BorderRadius.circular(18),
+                            border: Border.all(
+                              color: stats.dailyChallengeCompleted
+                                  ? HushbugColors.civilianEmerald.withValues(alpha: 0.5)
+                                  : HushbugColors.neonPurple.withValues(alpha: 0.4),
+                              width: 1.2,
+                            ),
+                          ),
+                          child: Row(
+                            children: [
+                              Container(
+                                width: 34,
+                                height: 34,
+                                decoration: BoxDecoration(
+                                  color: stats.dailyChallengeCompleted
+                                      ? HushbugColors.civilianBg
+                                      : HushbugColors.neonPurple.withValues(alpha: 0.25),
+                                  borderRadius: BorderRadius.circular(10),
+                                ),
+                                child: Icon(
+                                  stats.dailyChallengeCompleted
+                                      ? Icons.check_circle_rounded
+                                      : Icons.auto_awesome_rounded,
+                                  color: stats.dailyChallengeCompleted
+                                      ? HushbugColors.civilianEmerald
+                                      : HushbugColors.accentYellow,
+                                  size: 18,
+                                ),
+                              ),
+                              const SizedBox(width: 10),
+                              Expanded(
+                                child: Column(
+                                  crossAxisAlignment: CrossAxisAlignment.start,
+                                  children: [
+                                    Row(
+                                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                                      children: [
+                                        const Text(
+                                          'DAILY CHALLENGE',
+                                          style: TextStyle(
+                                            color: HushbugColors.textPrimary,
+                                            fontSize: 11,
+                                            fontWeight: FontWeight.w800,
+                                            letterSpacing: 0.5,
+                                          ),
+                                        ),
+                                        Text(
+                                          stats.dailyChallengeCompleted ? 'Completed' : 'Resets in 7h 42m',
+                                          style: TextStyle(
+                                            color: stats.dailyChallengeCompleted
+                                                ? HushbugColors.civilianEmerald
+                                                : HushbugColors.accentYellow,
+                                            fontSize: 10,
+                                            fontWeight: FontWeight.w700,
+                                          ),
+                                        ),
+                                      ],
+                                    ),
+                                    const SizedBox(height: 2),
+                                    Text(
+                                      stats.dailyChallengeCompleted
+                                          ? 'Daily streak extended! See your challenge results.'
+                                          : "Today's Mystery Word: Explore clues with friends.",
+                                      maxLines: 1,
+                                      overflow: TextOverflow.ellipsis,
+                                      style: const TextStyle(
+                                        color: HushbugColors.textSubtext,
+                                        fontSize: 11,
+                                      ),
+                                    ),
+                                  ],
+                                ),
+                              ),
+                              const SizedBox(width: 6),
+                              const Icon(Icons.chevron_right_rounded, color: HushbugColors.textSubtext, size: 20),
+                            ],
+                          ),
+                        ),
+                      ),
+                    ),
+
+                    // Primary Action CTAs with subtle idle pulse & peeking mascot
                     Column(
                       mainAxisSize: MainAxisSize.min,
                       children: [
-                        // Big Golden Play Button
-                        TactileButton(
-                          onPressed: () => context.push('/setup'),
-                          style: TactileButtonStyle.golden,
-                          height: 56,
-                          icon: const Icon(Icons.play_arrow_rounded, color: HushbugColors.onAccentYellow, size: 28),
-                          child: const Text('Play Game'),
+                        Stack(
+                          clipBehavior: Clip.none,
+                          children: [
+                            // Mascot peeking from behind the Play button
+                            const Positioned(
+                              top: -24,
+                              right: 20,
+                              child: PeekingCornerMascot(width: 60, height: 38),
+                            ),
+                            // Big Golden Play Button with subtle breathing animation
+                            AnimatedBuilder(
+                              animation: _playPulseCtrl,
+                              builder: (context, child) => Transform.scale(
+                                scale: _pulseScale.value,
+                                child: child,
+                              ),
+                              child: TactileButton(
+                                onPressed: () => context.push('/setup'),
+                                style: TactileButtonStyle.golden,
+                                height: 56,
+                                icon: const Icon(Icons.play_arrow_rounded, color: HushbugColors.onAccentYellow, size: 28),
+                                child: const Text('Play Game'),
+                              ),
+                            ),
+                          ],
                         ),
                         if (hasActiveRound) ...[
                           const SizedBox(height: 10),
@@ -325,57 +489,6 @@ class LobbyScreen extends ConsumerWidget {
             ],
           ),
         ),
-      ),
-    );
-  }
-
-  void _showStatsDialog(BuildContext context, List<String> players, Map<String, int> scores) {
-    showDialog(
-      context: context,
-      builder: (ctx) => AlertDialog(
-        backgroundColor: HushbugColors.cardSurface,
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(24)),
-        title: const Row(
-          children: [
-            Icon(Icons.emoji_events_rounded, color: HushbugColors.accentYellow),
-            SizedBox(width: 8),
-            Text('Squad Scoreboard', style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold)),
-          ],
-        ),
-        content: SizedBox(
-          width: double.maxFinite,
-          child: Column(
-            mainAxisSize: MainAxisSize.min,
-            children: [
-              for (var i = 0; i < players.length; i++)
-                Padding(
-                  padding: const EdgeInsets.symmetric(vertical: 6.0),
-                  child: Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                    children: [
-                      Row(
-                        children: [
-                          PlayerAvatar(index: i, name: players[i], radius: 14),
-                          const SizedBox(width: 10),
-                          Text(players[i], style: const TextStyle(color: Colors.white, fontWeight: FontWeight.w600)),
-                        ],
-                      ),
-                      Text(
-                        '${(scores[players[i]] ?? 0) * 100} pts',
-                        style: const TextStyle(color: HushbugColors.accentYellow, fontWeight: FontWeight.bold),
-                      ),
-                    ],
-                  ),
-                ),
-            ],
-          ),
-        ),
-        actions: [
-          TextButton(
-            onPressed: () => Navigator.of(ctx).pop(),
-            child: const Text('Close', style: TextStyle(color: HushbugColors.neonPurpleLight)),
-          ),
-        ],
       ),
     );
   }

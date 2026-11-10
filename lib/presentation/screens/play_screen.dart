@@ -201,7 +201,9 @@ class _RevealViewState extends ConsumerState<RevealView> with SingleTickerProvid
     setState(() => _showing = false);
     _revealAnimCtrl.reverse();
     ref.read(gameProvider.notifier).markRevealed();
-    Haptics.tick(enabled: ref.read(settingsProvider).haptics);
+    final s = ref.read(settingsProvider);
+    ref.read(soundProvider).play('whoosh', enabled: s.sound);
+    Haptics.tick(enabled: s.haptics);
   }
 
   void _next() {
@@ -1000,6 +1002,10 @@ class _DiscussionViewState extends ConsumerState<DiscussionView> {
     _secondsRemaining = secs > 0 ? secs : 180;
     _totalSeconds = _secondsRemaining;
     _startTimer();
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      final s = ref.read(settingsProvider);
+      ref.read(soundProvider).play('bell', enabled: s.sound);
+    });
   }
 
   void _startTimer() {
@@ -1007,8 +1013,14 @@ class _DiscussionViewState extends ConsumerState<DiscussionView> {
     _ticker = Timer.periodic(const Duration(seconds: 1), (t) {
       if (!_isPaused && _secondsRemaining > 0) {
         setState(() => _secondsRemaining--);
+        final s = ref.read(settingsProvider);
+        if (_secondsRemaining > 0 && _secondsRemaining <= 10) {
+          ref.read(soundProvider).play('suspense_tick', enabled: s.sound);
+          Haptics.tick(enabled: s.haptics);
+        } else if (_secondsRemaining > 10 && _secondsRemaining % 10 == 0) {
+          ref.read(soundProvider).play('tick', enabled: s.sound);
+        }
         if (_secondsRemaining == 0) {
-          final s = ref.read(settingsProvider);
           ref.read(soundProvider).play('timeup', enabled: s.sound);
           Haptics.buzz(enabled: s.haptics);
         }
@@ -1071,10 +1083,15 @@ class _DiscussionViewState extends ConsumerState<DiscussionView> {
                 onPauseToggle: _togglePause,
                 onAdd30s: _add30s,
               ),
-              const Positioned(
+              Positioned(
                 right: -10,
                 top: 0,
-                child: PeekingCornerMascot(width: 60, height: 40),
+                child: Mascot(
+                  size: 46,
+                  mood: _secondsRemaining <= 10
+                      ? MascotMood.nervous
+                      : (_secondsRemaining < 30 ? MascotMood.suspicious : MascotMood.peeking),
+                ),
               ),
             ],
           ),
@@ -1248,7 +1265,12 @@ class _VoteViewState extends ConsumerState<VoteView> {
                     return Material(
                       color: Colors.transparent,
                       child: InkWell(
-                        onTap: () => setState(() => _selected = target),
+                        onTap: () {
+                          setState(() => _selected = target);
+                          final s = ref.read(settingsProvider);
+                          ref.read(soundProvider).play('heartbeat', enabled: s.sound);
+                          Haptics.selection(enabled: s.haptics);
+                        },
                         borderRadius: BorderRadius.circular(20),
                         child: AnimatedContainer(
                           duration: const Duration(milliseconds: 150),
@@ -1375,6 +1397,11 @@ class _LastChanceViewState extends ConsumerState<LastChanceView> with SingleTick
   void initState() {
     super.initState();
     _pulseCtrl = AnimationController(vsync: this, duration: const Duration(milliseconds: 1400))..repeat(reverse: true);
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      final s = ref.read(settingsProvider);
+      ref.read(soundProvider).play('impact', enabled: s.sound);
+      Haptics.buzz(enabled: s.haptics);
+    });
   }
 
   @override

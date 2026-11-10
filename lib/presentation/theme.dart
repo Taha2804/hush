@@ -6,44 +6,45 @@ import '../data/prefs/settings.dart';
 class HushbugColors {
   // Backgrounds
   static const Color background = Color(0xFF15131D);
-  static const Color backgroundTop = Color(0xFF2A2046);
-  static const Color backgroundBottom = Color(0xFF0E0D15);
+  static const Color backgroundTop = Color(0xFF201C2C);
+  static const Color backgroundBottom = Color(0xFF15131D);
 
   // Surface & Cards
   static const Color cardSurface = Color(0xFF201C2C);
-  static const Color cardSurfaceElevated = Color(0xFF282238);
+  static const Color cardSurfaceElevated = Color(0xFF292338);
   static const Color cardBorder = Color(0xFF332C47);
   static const Color cardBorderSubtle = Color(0x337351D8);
-  static const Color cardBorderActive = Color(0xFF9B74FF);
+  static const Color cardBorderActive = Color(0xFFA78BFA);
 
-  // Primary Accent (Golden Yellow for CTA and Highlights)
+  // Primary Accent (Golden Yellow for CTA, highlights and rewards)
   static const Color accentYellow = Color(0xFFFFD166);
   static const Color accentYellowLight = Color(0xFFFFE388);
   static const Color accentYellowDark = Color(0xFFE5B84A);
   static const Color onAccentYellow = Color(0xFF2C2106);
 
-  // Neon Brand Purple
+  // Brand Purples
   static const Color neonPurple = Color(0xFF7351D8);
-  static const Color neonPurpleLight = Color(0xFF9B74FF);
+  static const Color neonPurpleLight = Color(0xFFA78BFA);
+  static const Color lavender = Color(0xFFA78BFA);
   static const Color neonPurpleDark = Color(0xFF4C1D95);
   static const Color glowPurple = Color(0x737351D8);
 
   // Semantic Status Colors
-  static const Color imposterRed = Color(0xFFEF4444);
+  static const Color imposterRed = Color(0xFFFF626B);
   static const Color imposterRedDark = Color(0xFFB91C1C);
-  static const Color imposterBg = Color(0x2EEF4444);
+  static const Color imposterBg = Color(0x2EFF626B);
 
-  static const Color civilianEmerald = Color(0xFF10B981);
-  static const Color civilianEmeraldLight = Color(0xFF34D399);
-  static const Color civilianBg = Color(0x2E10B981);
+  static const Color civilianEmerald = Color(0xFF62C99A);
+  static const Color civilianEmeraldLight = Color(0xFF86E3B8);
+  static const Color civilianBg = Color(0x2E62C99A);
 
   static const Color infoBlue = Color(0xFF3B82F6);
-  static const Color warningOrange = Color(0xFFF59E0B);
+  static const Color warningOrange = Color(0xFFFFD166);
 
   // Typography Colors
-  static const Color textPrimary = Color(0xFFFFFFFF);
-  static const Color textSecondary = Color(0xFFF5F1FF);
-  static const Color textSubtext = Color(0xFFA59EC0);
+  static const Color textPrimary = Color(0xFFF5F1FF);
+  static const Color textSecondary = Color(0xFFAAA3B8);
+  static const Color textSubtext = Color(0xFFAAA3B8);
   static const Color textMuted = Color(0xFF6F688B);
 
   // Ambient Radial Scaffold Gradient

@@ -6,6 +6,7 @@ import '../../app/providers.dart';
 import '../../data/prefs/settings.dart';
 import '../theme.dart';
 import 'common.dart';
+import 'mascot.dart';
 
 /// 1. Tactile 3D Buttons with gradient styling & tactile press feedback.
 enum TactileButtonStyle {
@@ -658,22 +659,112 @@ String avatarLabel(String name, int index, {String localizedPlayerPrefix = 'Play
   return n.characters.first.toUpperCase();
 }
 
-class PlayerAvatar extends StatelessWidget {
-  const PlayerAvatar({super.key, required this.index, required this.name, this.radius = 18});
+MascotMood avatarIndexToMood(int id) {
+  switch (id % 8) {
+    case 0:
+      return MascotMood.normal;
+    case 1:
+      return MascotMood.detective;
+    case 2:
+      return MascotMood.researcher;
+    case 3:
+      return MascotMood.celebrating;
+    case 4:
+      return MascotMood.sleeping;
+    case 5:
+      return MascotMood.suspicious;
+    case 6:
+      return MascotMood.laughing;
+    case 7:
+      return MascotMood.shocked;
+    default:
+      return MascotMood.normal;
+  }
+}
+
+String avatarIndexName(int id) {
+  switch (id % 8) {
+    case 0:
+      return 'Classic Bug';
+    case 1:
+      return 'Detective Bug';
+    case 2:
+      return 'Researcher Bug';
+    case 3:
+      return 'Party Bug';
+    case 4:
+      return 'Sleepy Bug';
+    case 5:
+      return 'Suspicious Bug';
+    case 6:
+      return 'Mischief Bug';
+    case 7:
+      return 'Shocked Bug';
+    default:
+      return 'Bug';
+  }
+}
+
+class PlayerAvatar extends ConsumerWidget {
+  const PlayerAvatar({
+    super.key,
+    required this.index,
+    required this.name,
+    this.radius = 18,
+    this.avatarIndex,
+    this.showInitialFallback = false,
+  });
+
   final int index;
   final String name;
   final double radius;
+  final int? avatarIndex;
+  final bool showInitialFallback;
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context, WidgetRef ref) {
     final c = playerColor(index, Theme.of(context).brightness);
-    final initial = avatarLabel(name, index, localizedPlayerPrefix: context.l10n.playerN(0));
-    return CircleAvatar(
-      radius: radius,
-      backgroundColor: c,
-      child: Text(
-        initial,
-        style: TextStyle(color: Colors.white, fontWeight: FontWeight.w800, fontSize: radius * 0.9),
+    final settings = ref.watch(settingsProvider);
+    final chosenIdx = avatarIndex ?? settings.playerAvatars[name] ?? (index % 8);
+    final mood = avatarIndexToMood(chosenIdx);
+
+    if (showInitialFallback || radius < 14) {
+      final initial = avatarLabel(name, index, localizedPlayerPrefix: context.l10n.playerN(0));
+      return CircleAvatar(
+        radius: radius,
+        backgroundColor: c,
+        child: Text(
+          initial,
+          style: TextStyle(color: Colors.white, fontWeight: FontWeight.w800, fontSize: radius * 0.9),
+        ),
+      );
+    }
+
+    return Container(
+      width: radius * 2,
+      height: radius * 2,
+      decoration: BoxDecoration(
+        shape: BoxShape.circle,
+        color: c.withValues(alpha: 0.22),
+        border: Border.all(color: c, width: 1.5),
+        boxShadow: [
+          BoxShadow(
+            color: c.withValues(alpha: 0.2),
+            blurRadius: 8,
+          ),
+        ],
+      ),
+      child: ClipOval(
+        child: OverflowBox(
+          maxWidth: radius * 2.3,
+          maxHeight: radius * 2.3,
+          alignment: Alignment.center,
+          child: Mascot(
+            size: radius * 2.2,
+            mood: mood,
+            customShellColor: c,
+          ),
+        ),
       ),
     );
   }

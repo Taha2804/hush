@@ -37,6 +37,20 @@ class Haptics {
       await HapticFeedback.selectionClick();
     } catch (_) {}
   }
+
+  static Future<void> light({required bool enabled}) async {
+    if (!enabled) return;
+    try {
+      await HapticFeedback.lightImpact();
+    } catch (_) {}
+  }
+
+  static Future<void> selection({required bool enabled}) async {
+    if (!enabled) return;
+    try {
+      await HapticFeedback.mediumImpact();
+    } catch (_) {}
+  }
 }
 
 /// Blocks screenshots/recents previews on Android while secret cards are

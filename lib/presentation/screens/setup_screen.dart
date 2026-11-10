@@ -4,8 +4,10 @@ import 'package:go_router/go_router.dart';
 
 import '../../app/game_controller.dart';
 import '../../app/providers.dart';
+import '../../app/services.dart';
 import '../../data/prefs/settings.dart';
 import '../../domain/models/game_config.dart';
+import '../../domain/models/power_cards.dart';
 import '../theme.dart';
 import '../widgets/common.dart';
 import '../widgets/mascot.dart';
@@ -71,6 +73,9 @@ class _SetupScreenState extends ConsumerState<SetupScreen> {
       _names.add(TextEditingController(text: 'Player ${_names.length + 1}'));
     });
     _syncPlayers();
+    final s = ref.read(settingsProvider);
+    ref.read(soundProvider).play('pop', enabled: s.sound);
+    Haptics.light(enabled: s.haptics);
   }
 
   void _loadGroup(PlayerGroup group) {
@@ -95,42 +100,109 @@ class _SetupScreenState extends ConsumerState<SetupScreen> {
       _names.removeAt(i).dispose();
     });
     _syncPlayers();
+    Haptics.tick(enabled: ref.read(settingsProvider).haptics);
   }
 
   void _editPlayerDialog(int i) {
-    final ctrl = TextEditingController(text: _names[i].text);
+    final name = _names[i].text;
+    final ctrl = TextEditingController(text: name);
+    final currentAvatar = ref.read(settingsProvider).playerAvatars[name] ?? (i % 8);
+    var selectedAvatar = currentAvatar;
+
     showDialog(
       context: context,
-      builder: (ctx) => AlertDialog(
-        backgroundColor: HushbugColors.cardSurface,
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(24)),
-        title: Text('Edit Player ${i + 1}', style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold)),
-        content: TextField(
-          controller: ctrl,
-          autofocus: true,
-          style: const TextStyle(color: Colors.white),
-          decoration: const InputDecoration(labelText: 'Player Name'),
-        ),
-        actions: [
-          if (_names.length > GameConfig.minPlayers)
-            TextButton(
-              onPressed: () {
-                Navigator.of(ctx).pop();
-                _removePlayer(i);
-              },
-              child: const Text('Remove', style: TextStyle(color: HushbugColors.imposterRed)),
-            ),
-          FilledButton(
-            onPressed: () {
-              setState(() {
-                _names[i].text = ctrl.text.trim().isEmpty ? 'Player ${i + 1}' : ctrl.text.trim();
-              });
-              _syncPlayers();
-              Navigator.of(ctx).pop();
-            },
-            child: const Text('Save'),
+      builder: (ctx) => StatefulBuilder(
+        builder: (context, setDialogState) => AlertDialog(
+          backgroundColor: HushbugColors.cardSurface,
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(24)),
+          title: Row(
+            children: [
+              PlayerAvatar(index: i, name: ctrl.text, radius: 18, avatarIndex: selectedAvatar),
+              const SizedBox(width: 10),
+              Text('Player ${i + 1} Profile', style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 18)),
+            ],
           ),
-        ],
+          content: SingleChildScrollView(
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                TextField(
+                  controller: ctrl,
+                  autofocus: true,
+                  style: const TextStyle(color: Colors.white),
+                  decoration: const InputDecoration(labelText: 'Player Name'),
+                  onChanged: (val) => setDialogState(() {}),
+                ),
+                const SizedBox(height: 16),
+                const Text('Choose Avatar Costume', style: TextStyle(color: HushbugColors.textSubtext, fontSize: 12, fontWeight: FontWeight.bold)),
+                const SizedBox(height: 10),
+                Wrap(
+                  spacing: 10,
+                  runSpacing: 10,
+                  children: [
+                    for (var a = 0; a < 8; a++)
+                      GestureDetector(
+                        onTap: () {
+                          setDialogState(() => selectedAvatar = a);
+                          Haptics.tick(enabled: ref.read(settingsProvider).haptics);
+                        },
+                        child: Container(
+                          padding: const EdgeInsets.all(4),
+                          decoration: BoxDecoration(
+                            shape: BoxShape.circle,
+                            border: Border.all(
+                              color: selectedAvatar == a ? HushbugColors.accentYellow : Colors.transparent,
+                              width: 2.5,
+                            ),
+                          ),
+                          child: Column(
+                            mainAxisSize: MainAxisSize.min,
+                            children: [
+                              PlayerAvatar(index: i, name: ctrl.text, radius: 20, avatarIndex: a),
+                              const SizedBox(height: 2),
+                              Text(
+                                avatarIndexName(a).split(' ').first,
+                                style: TextStyle(
+                                  fontSize: 9,
+                                  color: selectedAvatar == a ? HushbugColors.accentYellow : HushbugColors.textSubtext,
+                                  fontWeight: selectedAvatar == a ? FontWeight.bold : FontWeight.normal,
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                      ),
+                  ],
+                ),
+              ],
+            ),
+          ),
+          actions: [
+            if (_names.length > GameConfig.minPlayers)
+              TextButton(
+                onPressed: () {
+                  Navigator.of(ctx).pop();
+                  _removePlayer(i);
+                },
+                child: const Text('Remove', style: TextStyle(color: HushbugColors.imposterRed)),
+              ),
+            FilledButton(
+              onPressed: () {
+                final newName = ctrl.text.trim().isEmpty ? 'Player ${i + 1}' : ctrl.text.trim();
+                setState(() {
+                  _names[i].text = newName;
+                });
+                ref.read(settingsProvider.notifier).update((s) => s.copyWith(
+                      playerAvatars: {...s.playerAvatars, newName: selectedAvatar},
+                    ));
+                _syncPlayers();
+                Navigator.of(ctx).pop();
+              },
+              child: const Text('Save'),
+            ),
+          ],
+        ),
       ),
     );
   }
@@ -607,6 +679,46 @@ class _SetupScreenState extends ConsumerState<SetupScreen> {
                             ),
                           ],
                         ),
+                        const SizedBox(height: 10),
+                        // Maybe Nobody Mode Card
+                        Container(
+                          padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+                          decoration: BoxDecoration(
+                            color: HushbugColors.cardSurfaceElevated,
+                            borderRadius: BorderRadius.circular(16),
+                            border: Border.all(
+                              color: g.maybeNobody ? HushbugColors.accentYellow : HushbugColors.cardBorder,
+                              width: 1.2,
+                            ),
+                          ),
+                          child: Row(
+                            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                            children: [
+                              const Row(
+                                children: [
+                                  Icon(Icons.help_outline_rounded, color: HushbugColors.accentYellow, size: 20),
+                                  SizedBox(width: 10),
+                                  Column(
+                                    crossAxisAlignment: CrossAxisAlignment.start,
+                                    children: [
+                                      Text('Maybe Nobody Mode', style: TextStyle(color: Colors.white, fontSize: 13, fontWeight: FontWeight.bold)),
+                                      Text('10% chance there is no imposter (Chaos round)', style: TextStyle(color: HushbugColors.textSubtext, fontSize: 11)),
+                                    ],
+                                  ),
+                                ],
+                              ),
+                              Switch(
+                                value: g.maybeNobody,
+                                activeColor: HushbugColors.accentYellow,
+                                activeTrackColor: HushbugColors.neonPurple,
+                                onChanged: (v) {
+                                  _updateGame((g) => g.copyWith(maybeNobody: v));
+                                  Haptics.tick(enabled: ref.read(settingsProvider).haptics);
+                                },
+                              ),
+                            ],
+                          ),
+                        ),
                         const SizedBox(height: 18),
 
                         // SECTION 5: TACTICAL PARAMETERS STEPPERS
@@ -711,7 +823,7 @@ class _SetupScreenState extends ConsumerState<SetupScreen> {
                         ),
                         const SizedBox(height: 18),
 
-                        // SECTION 7: SPECIAL ROUND TWISTS & EVENTS
+                        // SECTION 7: SPECIAL ROUND EVENTS
                         Container(
                           padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
                           decoration: BoxDecoration(
@@ -727,10 +839,10 @@ class _SetupScreenState extends ConsumerState<SetupScreen> {
                                 children: [
                                   const Row(
                                     children: [
-                                      Icon(Icons.auto_awesome_rounded, color: HushbugColors.neonPurpleLight, size: 20),
+                                      Icon(Icons.auto_awesome_rounded, color: HushbugColors.accentYellow, size: 20),
                                       SizedBox(width: 10),
                                       Text(
-                                        'Special Round Twists',
+                                        'Special Round Events',
                                         style: TextStyle(color: Colors.white, fontSize: 14, fontWeight: FontWeight.bold),
                                       ),
                                     ],
@@ -739,12 +851,75 @@ class _SetupScreenState extends ConsumerState<SetupScreen> {
                                     value: g.roundTwists,
                                     activeColor: HushbugColors.accentYellow,
                                     activeTrackColor: HushbugColors.neonPurple,
-                                    onChanged: (v) => _updateGame((g) => g.copyWith(roundTwists: v)),
+                                    onChanged: (v) {
+                                      _updateGame((g) => g.copyWith(roundTwists: v));
+                                      Haptics.tick(enabled: ref.read(settingsProvider).haptics);
+                                    },
+                                  ),
+                                ],
+                              ),
+                              const SizedBox(height: 2),
+                              const Text(
+                                'Random modifiers (Reverse Round, One Chance, Silent Round, Speed Round, Double Trouble)',
+                                style: TextStyle(color: HushbugColors.textSubtext, fontSize: 11),
+                              ),
+                              const SizedBox(height: 8),
+                              InkWell(
+                                onTap: () => _showSpecialEventsSheet(context),
+                                borderRadius: BorderRadius.circular(10),
+                                child: Padding(
+                                  padding: const EdgeInsets.symmetric(vertical: 4),
+                                  child: Row(
+                                    mainAxisSize: MainAxisSize.min,
+                                    children: const [
+                                      Text(
+                                        'View All 5 Event Rules',
+                                        style: TextStyle(color: HushbugColors.neonPurpleLight, fontSize: 11, fontWeight: FontWeight.bold),
+                                      ),
+                                      SizedBox(width: 4),
+                                      Icon(Icons.arrow_forward_rounded, color: HushbugColors.neonPurpleLight, size: 14),
+                                    ],
+                                  ),
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                        const SizedBox(height: 12),
+
+                        // SECTION 8: SPECIAL POWER CARDS (OPTIONAL ADVANCED MODE)
+                        Container(
+                          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+                          decoration: BoxDecoration(
+                            color: HushbugColors.cardSurface.withValues(alpha: 0.8),
+                            borderRadius: BorderRadius.circular(20),
+                            border: Border.all(color: HushbugColors.cardBorder, width: 1.2),
+                          ),
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Row(
+                                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                                children: [
+                                  const Row(
+                                    children: [
+                                      Icon(Icons.style_rounded, color: Colors.cyanAccent, size: 20),
+                                      SizedBox(width: 10),
+                                      Text(
+                                        'Special Power Cards',
+                                        style: TextStyle(color: Colors.white, fontSize: 14, fontWeight: FontWeight.bold),
+                                      ),
+                                    ],
+                                  ),
+                                  TextButton(
+                                    onPressed: () => _showPowerCardsSheet(context),
+                                    style: TextButton.styleFrom(visualDensity: VisualDensity.compact),
+                                    child: const Text('View Powers', style: TextStyle(color: Colors.cyanAccent, fontSize: 12, fontWeight: FontWeight.bold)),
                                   ),
                                 ],
                               ),
                               const Text(
-                                'Random modifiers (Reverse Clues, Whispers, Silent Emojis, Double Trouble)',
+                                'Optional abilities (Double Vote, Detective, Shield, Spy, Silence, Second Chance)',
                                 style: TextStyle(color: HushbugColors.textSubtext, fontSize: 11),
                               ),
                             ],
@@ -855,6 +1030,166 @@ class _SetupScreenState extends ConsumerState<SetupScreen> {
           },
         );
       },
+    );
+  }
+
+  void _showSpecialEventsSheet(BuildContext context) {
+    showModalBottomSheet(
+      context: context,
+      backgroundColor: HushbugColors.cardSurface,
+      shape: const RoundedRectangleBorder(borderRadius: BorderRadius.vertical(top: Radius.circular(28))),
+      builder: (ctx) => Padding(
+        padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 16),
+        child: Column(
+          mainAxisSize: MainAxisSize.min,
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                const Row(
+                  children: [
+                    Mascot(size: 36, mood: MascotMood.detective),
+                    SizedBox(width: 10),
+                    Text('Special Round Events', style: TextStyle(color: Colors.white, fontSize: 18, fontWeight: FontWeight.bold)),
+                  ],
+                ),
+                IconButton(onPressed: () => Navigator.of(ctx).pop(), icon: const Icon(Icons.close_rounded, color: Colors.white)),
+              ],
+            ),
+            const SizedBox(height: 10),
+            const Text(
+              'When enabled, a surprise event modifier triggers on random rounds to shake up deduction:',
+              style: TextStyle(color: HushbugColors.textSubtext, fontSize: 12),
+            ),
+            const SizedBox(height: 12),
+            _eventItem('🔄 Reverse Round', 'Players give their one-word clues in reverse seating order.'),
+            _eventItem('🎯 One Chance', 'Each player gets strictly one opportunity to speak—no hesitations!'),
+            _eventItem('🤫 Silent Round', 'No verbal talking allowed! Clues must be given using emojis or gestures.'),
+            _eventItem('⚡ Speed Round', 'Fast-paced action! Players have only 5 seconds to provide their clue.'),
+            _eventItem('👥 Double Trouble', 'Multiple imposters receive completely different secret words!'),
+            const SizedBox(height: 14),
+            SizedBox(
+              width: double.infinity,
+              child: FilledButton(
+                onPressed: () => Navigator.of(ctx).pop(),
+                child: const Text('Got It'),
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _eventItem(String title, String desc) => Padding(
+        padding: const EdgeInsets.symmetric(vertical: 4),
+        child: Container(
+          padding: const EdgeInsets.all(10),
+          decoration: BoxDecoration(
+            color: HushbugColors.cardSurfaceElevated,
+            borderRadius: BorderRadius.circular(14),
+            border: Border.all(color: HushbugColors.cardBorder, width: 1),
+          ),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(title, style: const TextStyle(color: HushbugColors.accentYellow, fontSize: 13, fontWeight: FontWeight.bold)),
+              const SizedBox(height: 2),
+              Text(desc, style: const TextStyle(color: Colors.white70, fontSize: 11)),
+            ],
+          ),
+        ),
+      );
+
+  void _showPowerCardsSheet(BuildContext context) {
+    showModalBottomSheet(
+      context: context,
+      backgroundColor: HushbugColors.cardSurface,
+      shape: const RoundedRectangleBorder(borderRadius: BorderRadius.vertical(top: Radius.circular(28))),
+      builder: (ctx) => Padding(
+        padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 16),
+        child: Column(
+          mainAxisSize: MainAxisSize.min,
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                const Row(
+                  children: [
+                    Icon(Icons.style_rounded, color: Colors.cyanAccent, size: 24),
+                    SizedBox(width: 10),
+                    Text('Special Power Cards', style: TextStyle(color: Colors.white, fontSize: 18, fontWeight: FontWeight.bold)),
+                  ],
+                ),
+                IconButton(onPressed: () => Navigator.of(ctx).pop(), icon: const Icon(Icons.close_rounded, color: Colors.white)),
+              ],
+            ),
+            const SizedBox(height: 8),
+            const Text(
+              'Optional advanced abilities dealt to players for strategic tactical play:',
+              style: TextStyle(color: HushbugColors.textSubtext, fontSize: 12),
+            ),
+            const SizedBox(height: 12),
+            Flexible(
+              child: SingleChildScrollView(
+                child: Column(
+                  children: [
+                    for (final card in PowerCard.all)
+                      Padding(
+                        padding: const EdgeInsets.only(bottom: 8),
+                        child: Container(
+                          padding: const EdgeInsets.all(12),
+                          decoration: BoxDecoration(
+                            color: HushbugColors.cardSurfaceElevated,
+                            borderRadius: BorderRadius.circular(16),
+                            border: Border.all(color: HushbugColors.cardBorder, width: 1.2),
+                          ),
+                          child: Row(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Container(
+                                width: 36,
+                                height: 36,
+                                decoration: BoxDecoration(
+                                  color: Colors.cyan.withValues(alpha: 0.2),
+                                  borderRadius: BorderRadius.circular(10),
+                                ),
+                                child: Icon(card.icon, color: Colors.cyanAccent, size: 20),
+                              ),
+                              const SizedBox(width: 12),
+                              Expanded(
+                                child: Column(
+                                  crossAxisAlignment: CrossAxisAlignment.start,
+                                  children: [
+                                    Text(card.title, style: const TextStyle(color: Colors.white, fontSize: 14, fontWeight: FontWeight.w800)),
+                                    const SizedBox(height: 2),
+                                    Text(card.description, style: const TextStyle(color: HushbugColors.textPrimary, fontSize: 11)),
+                                    const SizedBox(height: 4),
+                                    Text('Limit: ${card.limitation}', style: const TextStyle(color: HushbugColors.textSubtext, fontSize: 10, fontStyle: FontStyle.italic)),
+                                  ],
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                      ),
+                  ],
+                ),
+              ),
+            ),
+            const SizedBox(height: 12),
+            SizedBox(
+              width: double.infinity,
+              child: FilledButton(
+                onPressed: () => Navigator.of(ctx).pop(),
+                child: const Text('Close'),
+              ),
+            ),
+          ],
+        ),
+      ),
     );
   }
 }

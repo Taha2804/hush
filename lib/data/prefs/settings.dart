@@ -22,6 +22,7 @@ class AppSettings {
     this.scores = const {},
     this.selectedCategories = const {},
     this.playerGroups = const [],
+    this.playerAvatars = const {},
   });
 
   final AppThemeMode themeMode;
@@ -42,6 +43,9 @@ class AppSettings {
   /// Saved player-name presets.
   final List<PlayerGroup> playerGroups;
 
+  /// Custom avatar index (0..7) chosen per player name.
+  final Map<String, int> playerAvatars;
+
   AppSettings copyWith({
     AppThemeMode? themeMode,
     int? accent,
@@ -56,6 +60,7 @@ class AppSettings {
     Map<String, int>? scores,
     Map<String, List<String>>? selectedCategories,
     List<PlayerGroup>? playerGroups,
+    Map<String, int>? playerAvatars,
   }) =>
       AppSettings(
         themeMode: themeMode ?? this.themeMode,
@@ -71,6 +76,7 @@ class AppSettings {
         scores: scores ?? this.scores,
         selectedCategories: selectedCategories ?? this.selectedCategories,
         playerGroups: playerGroups ?? this.playerGroups,
+        playerAvatars: playerAvatars ?? this.playerAvatars,
       );
 
   Map<String, dynamic> toJson() => {
@@ -87,6 +93,7 @@ class AppSettings {
         'scores': scores,
         'selectedCategories': selectedCategories,
         'playerGroups': [for (final g in playerGroups) g.toJson()],
+        'playerAvatars': playerAvatars,
       };
 
   factory AppSettings.fromJson(Map<String, dynamic> j) {
@@ -121,6 +128,10 @@ class AppSettings {
         for (final g in (j['playerGroups'] as List? ?? const []))
           if (g is Map) PlayerGroup.fromJson(Map<String, dynamic>.from(g)),
       ],
+      playerAvatars: {
+        for (final e in (j['playerAvatars'] as Map? ?? const {}).entries)
+          e.key.toString(): (e.value as num).toInt(),
+      },
     );
   }
 }
