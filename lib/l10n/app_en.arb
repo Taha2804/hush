@@ -1,0 +1,552 @@
+{
+  "@@locale": "en",
+  "appTitle": "Hushbug",
+  "tagline": "Find the faker. Keep the secret.",
+  "next": "Next",
+  "back": "Back",
+  "cancel": "Cancel",
+  "save": "Save",
+  "delete": "Delete",
+  "ok": "OK",
+  "done": "Done",
+  "settings": "Settings",
+  "howToPlay": "How to play",
+  "about": "About",
+  "changeSource": "Change source",
+  "loading": "Loading…",
+  "retry": "Retry",
+  "close": "Close",
+  "chooseSource": "Choose word source",
+  "badgeOnline": "Online",
+  "badgeOffline": "Offline",
+  "sourceOnlineName": "Online Search",
+  "sourceOnlineDesc": "Fresh, familiar words searched live from Wikipedia, Wikidata, ConceptNet and Datamuse, then cached on your device.",
+  "sourceOfflineName": "Offline Packs",
+  "sourceOfflineDesc": "22 hand-made packs with over 3,000 words. Always available.",
+  "sourceMyWordsName": "My Words",
+  "sourceMyWordsDesc": "Your own packs. Type, paste or import words.",
+  "reasonNoInternet": "No internet connection",
+  "reasonNoPacks": "Create a pack with at least one word first",
+  "askEveryLaunch": "Ask me every time the app opens",
+  "manageMyWords": "Manage my words",
+  "checking": "Checking…",
+  "setup": "Game setup",
+  "players": "Players",
+  "addPlayer": "Add player",
+  "playerName": "Player name",
+  "playerN": "Player {n}",
+  "@playerN": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "removePlayer": "Remove player",
+  "imposters": "Imposters",
+  "categories": "Categories",
+  "randomMix": "Random mix (all)",
+  "mode": "Mode",
+  "modeClassic": "Classic",
+  "modeClassicDesc": "The imposter only sees IMPOSTER.",
+  "modeHint": "Hint",
+  "modeHintDesc": "The imposter gets one hint about the word.",
+  "modeFake": "Fake word",
+  "modeFakeDesc": "The imposter gets a similar word and doesn't know they're the imposter.",
+  "discussionTimer": "Discussion timer",
+  "off": "Off",
+  "minutes": "{n} min",
+  "@minutes": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "seconds": "{n} s",
+  "@seconds": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "clueRounds": "Clue rounds",
+  "hintLevel": "Hint level",
+  "easy": "Easy",
+  "medium": "Medium",
+  "hard": "Hard",
+  "speedRound": "Speed round",
+  "speedRoundDesc": "Short timer for each clue",
+  "maybeNobody": "Maybe nobody",
+  "maybeNobodyDesc": "{p}% chance there is no imposter at all",
+  "@maybeNobodyDesc": {
+    "placeholders": {
+      "p": {
+        "type": "int"
+      }
+    }
+  },
+  "startGame": "Start game",
+  "scoreboard": "Scoreboard",
+  "resetScores": "Reset scores",
+  "sourceLabel": "Source: {name}",
+  "@sourceLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "needThreePlayers": "You need at least 3 players.",
+  "pickCategory": "Pick at least one category.",
+  "moreOptions": "More options",
+  "passTo": "Pass to {name}",
+  "@passTo": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "holdToReveal": "Hold to reveal",
+  "tapToReveal": "Tap to reveal",
+  "tapToHide": "Tap to hide",
+  "releaseToHide": "Release to hide",
+  "yourWord": "Your secret word",
+  "imposterCard": "IMPOSTER",
+  "yourHint": "Hint: {hint}",
+  "@yourHint": {
+    "placeholders": {
+      "hint": {
+        "type": "String"
+      }
+    }
+  },
+  "blendIn": "Blend in. Don't get caught.",
+  "cardSeen": "Card seen — pass the device on",
+  "privacyNote": "Make sure nobody else can see the screen.",
+  "playerOfTotal": "Player {i} of {n}",
+  "@playerOfTotal": {
+    "placeholders": {
+      "i": {
+        "type": "int"
+      },
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "clueTime": "Clue time",
+  "startingPlayer": "{name} starts!",
+  "@startingPlayer": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "picking": "Picking who starts…",
+  "turnOrder": "Turn order",
+  "saysOneWord": "{name}, say ONE word",
+  "@saysOneWord": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "roundOf": "Round {r} of {total}",
+  "@roundOf": {
+    "placeholders": {
+      "r": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "skipToDiscussion": "Skip to discussion",
+  "discussion": "Discussion",
+  "discussionPrompt": "Who sounded suspicious? Talk it out.",
+  "pause": "Pause",
+  "resume": "Resume",
+  "skip": "Skip",
+  "timeUp": "Time's up!",
+  "goToVote": "Go to vote",
+  "vote": "Vote",
+  "whoIsImposter": "Who is the imposter?",
+  "tapMostVoted": "Vote out loud, then tap the player with the most votes.",
+  "itsATie": "It's a tie",
+  "selectTied": "Select the tied players",
+  "noImposter": "No imposter",
+  "castYourVote": "{name}, cast your secret vote",
+  "@castYourVote": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "passDeviceTo": "Pass the device to {name}",
+  "@passDeviceTo": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "imReady": "I'm {name} — show the ballot",
+  "@imReady": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "revoteNotice": "Tie! Vote again between the tied players.",
+  "wasCrew": "{name} was crew!",
+  "@wasCrew": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "wasImposter": "{name} was an imposter!",
+  "@wasImposter": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "impostersLeft": "{n, plural, =1{1 imposter is still hiding.} other{{n} imposters are still hiding.}}",
+  "@impostersLeft": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "confirm": "Confirm",
+  "lastChance": "Last chance!",
+  "lastChanceDesc": "Imposter, guess the secret word to steal the win.",
+  "yourGuess": "Your guess",
+  "submitGuess": "Submit guess",
+  "countIt": "Close enough — count it",
+  "giveUp": "Give up",
+  "crewWins": "Crew wins!",
+  "impostersWin": "Imposters win!",
+  "nobodyWins": "Chaos wins!",
+  "theImposterWas": "The imposter was",
+  "theImpostersWere": "The imposters were",
+  "nobodyWasImposter": "There was no imposter!",
+  "secretWord": "Secret word",
+  "fakeWordWas": "Fake word",
+  "hintWas": "Imposter's hint",
+  "playAgain": "Play again",
+  "changeSetup": "Change setup",
+  "reasonCaught": "All imposters were caught.",
+  "reasonWrong": "The crew voted out an innocent player.",
+  "reasonOutnumber": "The imposters now match the crew in number.",
+  "reasonTie": "A tie let the imposters escape.",
+  "reasonNoImposterRight": "You correctly spotted that nobody was the imposter.",
+  "reasonNoImposterMissed": "There was an imposter after all!",
+  "reasonVotedNobody": "There was no imposter — you accused an innocent player.",
+  "reasonSteal": "The imposter guessed the word!",
+  "guessWas": "Guess: {guess}",
+  "@guessWas": {
+    "placeholders": {
+      "guess": {
+        "type": "String"
+      }
+    }
+  },
+  "points": "+{n}",
+  "@points": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "appearance": "Appearance",
+  "theme": "Theme",
+  "themeSystem": "System",
+  "themeLight": "Light",
+  "themeDark": "Dark",
+  "themeAmoled": "AMOLED",
+  "accentColor": "Accent colour",
+  "language": "Language",
+  "textSize": "Text size",
+  "reduceMotion": "Reduce motion",
+  "sound": "Sound",
+  "haptics": "Haptics",
+  "gameplay": "Gameplay",
+  "revealStyle": "Reveal style",
+  "revealHold": "Hold to reveal",
+  "revealTap": "Tap to reveal",
+  "tieRule": "Tie rule",
+  "tieRevote": "Revote",
+  "tieImposters": "Imposter wins",
+  "voteStyle": "Voting",
+  "voteSimple": "Simple (tap the most voted)",
+  "votePrivate": "Private pass-around voting",
+  "avoidSameImposter": "Avoid same imposter back-to-back",
+  "maybeNobodyChance": "\"Maybe nobody\" chance",
+  "seating": "Turn order",
+  "seatingFromStarter": "Seating order from starter",
+  "seatingShuffled": "Fully shuffled",
+  "lastChanceSetting": "Imposter gets a last chance to guess",
+  "scoreboardSetting": "Running scoreboard",
+  "wordSources": "Word sources",
+  "cachedWords": "{n} cached words",
+  "@cachedWords": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "packsInfo": "{packs} packs, {words} words",
+  "@packsInfo": {
+    "placeholders": {
+      "packs": {
+        "type": "int"
+      },
+      "words": {
+        "type": "int"
+      }
+    }
+  },
+  "refresh": "Refresh",
+  "clearCache": "Clear cache",
+  "cacheCleared": "Cache cleared",
+  "refreshing": "Refreshing in the background…",
+  "resetHistory": "Reset word history",
+  "historyReset": "Word history reset",
+  "myWords": "My Words",
+  "newPack": "New pack",
+  "packName": "Pack name",
+  "rename": "Rename",
+  "addWord": "Add word",
+  "editWord": "Edit word",
+  "word": "Word",
+  "bulkPaste": "Bulk paste",
+  "bulkPasteHint": "One word per line",
+  "importFile": "Import CSV / JSON",
+  "exportJson": "Export JSON",
+  "needsHints": "needs hints",
+  "hintsOptional": "Hints (optional, one per line)",
+  "fakesOptional": "Fake words (optional, one per line)",
+  "autoEnrich": "Find hints online",
+  "enriching": "Searching for hints…",
+  "enrichFailed": "Couldn't find good hints. You can type your own.",
+  "wordsCount": "{n, plural, =1{1 word} other{{n} words}}",
+  "@wordsCount": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "noPacksYet": "No packs yet. Create one or search a custom topic.",
+  "noWordsYet": "No words yet. Add some!",
+  "customTopic": "Custom topic",
+  "topicHint": "Type any topic, e.g. Dinosaurs",
+  "search": "Search",
+  "saveAsPack": "Save as pack",
+  "noResults": "No words found for this topic.",
+  "imported": "Imported {n} words",
+  "@imported": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "exported": "Exported",
+  "deletePackConfirm": "Delete this pack and all its words?",
+  "needsInternet": "Needs internet",
+  "addedWords": "Added {n} words",
+  "@addedWords": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "removeWord": "Remove",
+  "addCustomWord": "Add a word",
+  "noticeCache": "Offline — using cached online words.",
+  "noticePacks": "Online words unavailable — using Offline Packs.",
+  "noticeNoWords": "No words available for these categories.",
+  "noticeFakeFallback": "No fake word available — playing Hint mode this round.",
+  "leaveGameTitle": "Leave this game?",
+  "leaveGameBody": "The current round will be lost. Players and scores are kept.",
+  "leave": "Leave",
+  "howTitle": "How to play",
+  "how1Title": "1. Set up",
+  "how1Body": "Add 3–20 players, pick categories and a mode. Everyone sits in a circle around one device.",
+  "how2Title": "2. Secret cards",
+  "how2Body": "Pass the device around. Each player privately reveals their card: the crew sees the secret word, the imposter does not.",
+  "how3Title": "3. One-word clues",
+  "how3Body": "Starting with a random player, everyone says ONE word related to the secret word. Crew: prove you know it without giving it away. Imposter: bluff!",
+  "how4Title": "4. Discuss and vote",
+  "how4Body": "Talk it over, then vote out the player you think is the imposter. With several imposters, keep voting until they are all caught — or they equal the crew.",
+  "how5Title": "5. Last chance",
+  "how5Body": "A caught imposter may guess the secret word to steal the win.",
+  "howModesTitle": "Modes",
+  "howModesBody": "Classic: the imposter sees only IMPOSTER. Hint: the imposter gets one clue. Fake word: the imposter gets a similar word and doesn't know it. Maybe nobody: sometimes there is no imposter — vote \"No imposter\" to win.",
+  "howKeysTitle": "Keyboard",
+  "howKeysBody": "Space or Enter: next. Hold Space on a card to reveal it (hold mode). Esc: back.",
+  "aboutFree": "100% free. No ads, no accounts, no tracking, no purchases. Every mode and word source is unlocked.",
+  "aboutCredits": "Credits & data licences",
+  "creditWikipedia": "Wikipedia & Wikidata — text under CC BY-SA; Wikidata under CC0",
+  "creditConceptNet": "ConceptNet — CC BY-SA 4.0",
+  "creditDatamuse": "Datamuse API — free word-finding service",
+  "creditPacks": "Offline Packs — original content written for Hushbug",
+  "version": "Version {v}",
+  "@version": {
+    "placeholders": {
+      "v": {
+        "type": "String"
+      }
+    }
+  },
+  "mascotLabel": "Hushbug, a beetle putting a finger to its lips",
+  "groups": "Groups",
+  "savedGroups": "Saved groups",
+  "saveAsGroup": "Save these players as a group",
+  "groupName": "Group name",
+  "groupNameHint": "e.g. College friends",
+  "groupSaved": "Group \"{name}\" saved",
+  "@groupSaved": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "groupLoaded": "Loaded \"{name}\" ({n} players)",
+  "@groupLoaded": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "noGroupsYet": "No saved groups yet. Type your players' names once, then save them as a group to reuse next time.",
+  "editGroup": "Edit group",
+  "newGroup": "New group",
+  "deleteGroupConfirm": "Delete the group \"{name}\"? Your current player list stays as it is.",
+  "@deleteGroupConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "groupPlayers": "{n} players",
+  "@groupPlayers": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "groupExists": "A group called \"{name}\" already exists. Replace it?",
+  "@groupExists": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "replace": "Replace",
+  "groupsHelp": "Tap a group to load its players. Use the pencil to rename it or add/remove players.",
+  "deleteAllWords": "Delete all words",
+  "clearPackConfirm": "Remove every word from this pack? The pack itself stays.",
+  "wordRemoved": "\"{word}\" removed",
+  "@wordRemoved": {
+    "placeholders": {
+      "word": {
+        "type": "String"
+      }
+    }
+  },
+  "undo": "Undo",
+  "deleteAllPacks": "Delete all My Words packs",
+  "deleteAllPacksConfirm": "This permanently removes all your custom packs and their words. It can't be undone.",
+  "allPacksDeleted": "All My Words packs deleted",
+  "packDeleted": "Pack deleted",
+  "deletePack": "Delete pack",
+  "gameRules": "Game rules",
+  "gameRulesIntro": "These rules apply to every round. Changes save instantly.",
+  "secRoundFlow": "Round flow",
+  "secImposterRules": "Imposter rules",
+  "secVoting": "Voting & scoring",
+  "secFun": "Fun extras",
+  "secFunDesc": "Optional twists to spice up game night.",
+  "appPreferences": "App preferences",
+  "appPreferencesDesc": "Theme, language, sound, vibration, start-up screen and word data",
+  "startup": "Start-up",
+  "askEveryLaunchDesc": "On: each time you open Hushbug you first choose where words come from (Online Search, Offline Packs or My Words). Off: the app opens straight to Game setup with the source you used last.",
+  "soundDesc": "Timer ticks, reveal and win/lose sounds",
+  "hapticsDesc": "Short vibrations on reveal, votes and when time is up",
+  "reduceMotionDesc": "Turns off confetti, card flips and other animations",
+  "dataSection": "Word data",
+  "discussionTimerOffDesc": "No timer: talk as long as you like, then tap \"Go to vote\".",
+  "discussionTimerOnDesc": "Everyone gets {time} to discuss before voting starts.",
+  "@discussionTimerOnDesc": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "clueRoundsDesc": "How many times each player gives a one-word clue. Two rounds give more information and make bluffing harder.",
+  "speedRoundSettingDesc": "Each clue must be given before a short countdown ends.",
+  "revealHoldDesc": "Hold the card to see it, let go to hide it. Safest against peeking.",
+  "revealTapDesc": "Tap once to show the card, tap again to hide it.",
+  "seatingFromStarterDesc": "Clues go around the circle in seat order, starting from a random player.",
+  "seatingShuffledDesc": "The clue order is completely shuffled every round.",
+  "hintLevelDesc": "How helpful the imposter's hint is in Hint mode. Easy: two specific hints. Medium: one in-between hint. Hard: one vague, category-level hint.",
+  "avoidSameImposterDesc": "Last round's imposter won't be picked again in the next round.",
+  "maybeNobodySettingDesc": "Sometimes there is no imposter at all. Players must vote \"No imposter\" to win.",
+  "maybeNobodyChanceDesc": "How often a round has no imposter.",
+  "lastChanceSettingDesc": "A caught imposter gets one guess at the secret word. Guess right and the imposters steal the win.",
+  "voteSimpleDesc": "Discuss out loud, then tap the player who got the most votes.",
+  "votePrivateDesc": "Pass the phone around and everyone votes in secret.",
+  "tieRevoteDesc": "On a tie, vote again between only the tied players.",
+  "tieImpostersDesc": "A tie means nobody is caught, so the imposters win.",
+  "scoreboardDesc": "Keep points across rounds: crew get +1 for a catch, imposters get +2 for escaping.",
+  "impostersKnowEachOther": "Imposter teammates",
+  "impostersKnowEachOtherDesc": "With 2 or more imposters, each imposter sees who their partners are, so they can cover for each other. (Not used in Fake Word mode.)",
+  "crewStarts": "Crew always starts",
+  "crewStartsDesc": "The first player to give a clue is never an imposter. Gentler for new players.",
+  "roundTwists": "Round twists",
+  "roundTwistsDesc": "Every round adds a random fun rule for clues, like whispering or acting it out.",
+  "yourPartners": "Your partner: {names}",
+  "@yourPartners": {
+    "placeholders": {
+      "names": {
+        "type": "String"
+      }
+    }
+  },
+  "twistTitle": "Round twist!",
+  "twist0": "One word only: no extra words, no gestures.",
+  "twist1": "Silent round: act your clue out, no talking!",
+  "twist2": "Whisper round: say your clue in a whisper.",
+  "twist3": "Sound effect round: make a sound instead of saying a word.",
+  "twist4": "Accent round: say your clue in your best funny accent.",
+  "twist5": "Slow motion: say your clue as slowly as possible.",
+  "twist6": "Question round: your clue must be a question.",
+  "twist7": "Opposite round: give a clue about what the word is NOT."
+}

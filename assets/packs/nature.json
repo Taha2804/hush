@@ -1,0 +1,5378 @@
+{
+ "id": "nature",
+ "name": "Nature",
+ "words": [
+  {
+   "word": "Mountain",
+   "hints": [
+    {
+     "text": "Landform",
+     "level": 1
+    },
+    {
+     "text": "High ground",
+     "level": 1
+    },
+    {
+     "text": "Climbers conquer it",
+     "level": 2
+    },
+    {
+     "text": "Snowy peaks",
+     "level": 2
+    },
+    {
+     "text": "Steep slopes",
+     "level": 3
+    },
+    {
+     "text": "Summit at top",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hill",
+    "Volcano",
+    "Cliff"
+   ]
+  },
+  {
+   "word": "River",
+   "hints": [
+    {
+     "text": "Water body",
+     "level": 1
+    },
+    {
+     "text": "Flowing water",
+     "level": 1
+    },
+    {
+     "text": "Boats and fishing",
+     "level": 2
+    },
+    {
+     "text": "Ends at sea",
+     "level": 2
+    },
+    {
+     "text": "Banks on both sides",
+     "level": 3
+    },
+    {
+     "text": "Current",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lake",
+    "Stream",
+    "Canal"
+   ]
+  },
+  {
+   "word": "Ocean",
+   "hints": [
+    {
+     "text": "Water body",
+     "level": 1
+    },
+    {
+     "text": "Vast sea",
+     "level": 1
+    },
+    {
+     "text": "Covers most of earth",
+     "level": 2
+    },
+    {
+     "text": "Whales live there",
+     "level": 2
+    },
+    {
+     "text": "Salty waves",
+     "level": 3
+    },
+    {
+     "text": "Deep blue",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lake",
+    "River",
+    "Pond"
+   ]
+  },
+  {
+   "word": "Lake",
+   "hints": [
+    {
+     "text": "Water body",
+     "level": 1
+    },
+    {
+     "text": "Still water",
+     "level": 1
+    },
+    {
+     "text": "Summer cabins",
+     "level": 2
+    },
+    {
+     "text": "Boating trips",
+     "level": 2
+    },
+    {
+     "text": "Surrounded by land",
+     "level": 3
+    },
+    {
+     "text": "Calm surface",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pond",
+    "River",
+    "Ocean"
+   ]
+  },
+  {
+   "word": "Forest",
+   "hints": [
+    {
+     "text": "Wooded area",
+     "level": 1
+    },
+    {
+     "text": "Natural habitat",
+     "level": 1
+    },
+    {
+     "text": "Hiking trails",
+     "level": 2
+    },
+    {
+     "text": "Animals hide",
+     "level": 2
+    },
+    {
+     "text": "Dense trees",
+     "level": 3
+    },
+    {
+     "text": "Leafy canopy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jungle",
+    "Park",
+    "Meadow"
+   ]
+  },
+  {
+   "word": "Jungle",
+   "hints": [
+    {
+     "text": "Tropical habitat",
+     "level": 1
+    },
+    {
+     "text": "Dense wilderness",
+     "level": 1
+    },
+    {
+     "text": "Monkeys and parrots",
+     "level": 2
+    },
+    {
+     "text": "Explorers",
+     "level": 2
+    },
+    {
+     "text": "Thick vines",
+     "level": 3
+    },
+    {
+     "text": "Humid air",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Forest",
+    "Swamp",
+    "Savanna"
+   ]
+  },
+  {
+   "word": "Desert",
+   "hints": [
+    {
+     "text": "Dry land",
+     "level": 1
+    },
+    {
+     "text": "Arid region",
+     "level": 1
+    },
+    {
+     "text": "Camels cross it",
+     "level": 2
+    },
+    {
+     "text": "Mirages",
+     "level": 2
+    },
+    {
+     "text": "Sand dunes",
+     "level": 3
+    },
+    {
+     "text": "Cactus plants",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Beach",
+    "Tundra",
+    "Prairie"
+   ]
+  },
+  {
+   "word": "Beach",
+   "hints": [
+    {
+     "text": "Coastline",
+     "level": 1
+    },
+    {
+     "text": "Seaside",
+     "level": 1
+    },
+    {
+     "text": "Summer holidays",
+     "level": 2
+    },
+    {
+     "text": "Sandcastles",
+     "level": 2
+    },
+    {
+     "text": "Sand and waves",
+     "level": 3
+    },
+    {
+     "text": "Seashells",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Desert",
+    "Cliff",
+    "Harbor"
+   ]
+  },
+  {
+   "word": "Island",
+   "hints": [
+    {
+     "text": "Landform",
+     "level": 1
+    },
+    {
+     "text": "Isolated ground",
+     "level": 1
+    },
+    {
+     "text": "Castaway stories",
+     "level": 2
+    },
+    {
+     "text": "Holiday resorts",
+     "level": 2
+    },
+    {
+     "text": "Surrounded by sea",
+     "level": 3
+    },
+    {
+     "text": "Palm trees",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Peninsula",
+    "Reef",
+    "Atoll"
+   ]
+  },
+  {
+   "word": "Volcano",
+   "hints": [
+    {
+     "text": "Landform",
+     "level": 1
+    },
+    {
+     "text": "Fiery mountain",
+     "level": 1
+    },
+    {
+     "text": "Erupts lava",
+     "level": 2
+    },
+    {
+     "text": "Ash clouds",
+     "level": 2
+    },
+    {
+     "text": "Crater at top",
+     "level": 3
+    },
+    {
+     "text": "Molten rock",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Geyser",
+    "Mountain",
+    "Earthquake"
+   ]
+  },
+  {
+   "word": "Waterfall",
+   "hints": [
+    {
+     "text": "River feature",
+     "level": 1
+    },
+    {
+     "text": "Natural wonder",
+     "level": 1
+    },
+    {
+     "text": "Tourist attraction",
+     "level": 2
+    },
+    {
+     "text": "Rainbows in mist",
+     "level": 2
+    },
+    {
+     "text": "Cascading torrent",
+     "level": 3
+    },
+    {
+     "text": "Plunge pool",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rapids",
+    "River",
+    "Fountain"
+   ]
+  },
+  {
+   "word": "Cave",
+   "hints": [
+    {
+     "text": "Natural shelter",
+     "level": 1
+    },
+    {
+     "text": "Underground space",
+     "level": 1
+    },
+    {
+     "text": "Bats live inside",
+     "level": 2
+    },
+    {
+     "text": "Explorers with torches",
+     "level": 2
+    },
+    {
+     "text": "Stalactites",
+     "level": 3
+    },
+    {
+     "text": "Dark and damp",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tunnel",
+    "Mine",
+    "Burrow"
+   ]
+  },
+  {
+   "word": "Cliff",
+   "hints": [
+    {
+     "text": "Landform",
+     "level": 1
+    },
+    {
+     "text": "Steep drop",
+     "level": 1
+    },
+    {
+     "text": "Coastal views",
+     "level": 2
+    },
+    {
+     "text": "Climbers scale it",
+     "level": 2
+    },
+    {
+     "text": "Sheer rock face",
+     "level": 3
+    },
+    {
+     "text": "Edge warning",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Canyon",
+    "Hill",
+    "Ridge"
+   ]
+  },
+  {
+   "word": "Canyon",
+   "hints": [
+    {
+     "text": "Landform",
+     "level": 1
+    },
+    {
+     "text": "Deep valley",
+     "level": 1
+    },
+    {
+     "text": "Carved by rivers",
+     "level": 2
+    },
+    {
+     "text": "Tourist lookouts",
+     "level": 2
+    },
+    {
+     "text": "Steep red walls",
+     "level": 3
+    },
+    {
+     "text": "Echoes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Valley",
+    "Gorge",
+    "Cliff"
+   ]
+  },
+  {
+   "word": "Valley",
+   "hints": [
+    {
+     "text": "Landform",
+     "level": 1
+    },
+    {
+     "text": "Low land",
+     "level": 1
+    },
+    {
+     "text": "Between mountains",
+     "level": 2
+    },
+    {
+     "text": "Rivers flow through",
+     "level": 2
+    },
+    {
+     "text": "Green and fertile",
+     "level": 3
+    },
+    {
+     "text": "Sheltered",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Canyon",
+    "Plain",
+    "Hill"
+   ]
+  },
+  {
+   "word": "Hill",
+   "hints": [
+    {
+     "text": "Landform",
+     "level": 1
+    },
+    {
+     "text": "Small rise",
+     "level": 1
+    },
+    {
+     "text": "Rolling countryside",
+     "level": 2
+    },
+    {
+     "text": "Sledding spot",
+     "level": 2
+    },
+    {
+     "text": "Gentle slope",
+     "level": 3
+    },
+    {
+     "text": "Grassy top",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mountain",
+    "Mound",
+    "Valley"
+   ]
+  },
+  {
+   "word": "Meadow",
+   "hints": [
+    {
+     "text": "Grassland",
+     "level": 1
+    },
+    {
+     "text": "Open field",
+     "level": 1
+    },
+    {
+     "text": "Picnic spot",
+     "level": 2
+    },
+    {
+     "text": "Wildflowers bloom",
+     "level": 2
+    },
+    {
+     "text": "Tall grass",
+     "level": 3
+    },
+    {
+     "text": "Butterflies",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Prairie",
+    "Field",
+    "Forest"
+   ]
+  },
+  {
+   "word": "Swamp",
+   "hints": [
+    {
+     "text": "Wetland",
+     "level": 1
+    },
+    {
+     "text": "Marshy land",
+     "level": 1
+    },
+    {
+     "text": "Alligators lurk",
+     "level": 2
+    },
+    {
+     "text": "Mosquitoes",
+     "level": 2
+    },
+    {
+     "text": "Murky water",
+     "level": 3
+    },
+    {
+     "text": "Mossy trees",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Marsh",
+    "Bog",
+    "Jungle"
+   ]
+  },
+  {
+   "word": "Glacier",
+   "hints": [
+    {
+     "text": "Ice mass",
+     "level": 1
+    },
+    {
+     "text": "Frozen river",
+     "level": 1
+    },
+    {
+     "text": "Melting with warming",
+     "level": 2
+    },
+    {
+     "text": "Carves valleys",
+     "level": 2
+    },
+    {
+     "text": "Blue ice",
+     "level": 3
+    },
+    {
+     "text": "Slow moving",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Iceberg",
+    "Snowfield",
+    "Avalanche"
+   ]
+  },
+  {
+   "word": "Iceberg",
+   "hints": [
+    {
+     "text": "Floating ice",
+     "level": 1
+    },
+    {
+     "text": "Polar hazard",
+     "level": 1
+    },
+    {
+     "text": "Sank a famous ship",
+     "level": 2
+    },
+    {
+     "text": "Mostly underwater",
+     "level": 2
+    },
+    {
+     "text": "Tip shows above",
+     "level": 3
+    },
+    {
+     "text": "White and blue",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Glacier",
+    "Floe",
+    "Snowman"
+   ]
+  },
+  {
+   "word": "Rainbow",
+   "hints": [
+    {
+     "text": "Sky display",
+     "level": 1
+    },
+    {
+     "text": "Weather wonder",
+     "level": 1
+    },
+    {
+     "text": "After showers",
+     "level": 2
+    },
+    {
+     "text": "Pot of gold",
+     "level": 2
+    },
+    {
+     "text": "Seven colors",
+     "level": 3
+    },
+    {
+     "text": "Arc shape",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Aurora",
+    "Sunset",
+    "Prism"
+   ]
+  },
+  {
+   "word": "Thunder",
+   "hints": [
+    {
+     "text": "Weather sound",
+     "level": 1
+    },
+    {
+     "text": "Storm noise",
+     "level": 1
+    },
+    {
+     "text": "Scares pets",
+     "level": 2
+    },
+    {
+     "text": "Follows lightning",
+     "level": 2
+    },
+    {
+     "text": "Loud rumble",
+     "level": 3
+    },
+    {
+     "text": "Booming crash",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lightning",
+    "Rain",
+    "Wind"
+   ]
+  },
+  {
+   "word": "Lightning",
+   "hints": [
+    {
+     "text": "Weather event",
+     "level": 1
+    },
+    {
+     "text": "Electric flash",
+     "level": 1
+    },
+    {
+     "text": "Storms at night",
+     "level": 2
+    },
+    {
+     "text": "Strikes tall things",
+     "level": 2
+    },
+    {
+     "text": "Zigzag bolt",
+     "level": 3
+    },
+    {
+     "text": "Bright flash",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Thunder",
+    "Rainbow",
+    "Spark"
+   ]
+  },
+  {
+   "word": "Rain",
+   "hints": [
+    {
+     "text": "Weather",
+     "level": 1
+    },
+    {
+     "text": "Falling water",
+     "level": 1
+    },
+    {
+     "text": "Umbrellas out",
+     "level": 2
+    },
+    {
+     "text": "Puddles form",
+     "level": 2
+    },
+    {
+     "text": "Droplets from clouds",
+     "level": 3
+    },
+    {
+     "text": "Pitter patter",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Snow",
+    "Hail",
+    "Mist"
+   ]
+  },
+  {
+   "word": "Snow",
+   "hints": [
+    {
+     "text": "Weather",
+     "level": 1
+    },
+    {
+     "text": "Frozen flakes",
+     "level": 1
+    },
+    {
+     "text": "Winter fights",
+     "level": 2
+    },
+    {
+     "text": "School closures",
+     "level": 2
+    },
+    {
+     "text": "White blanket",
+     "level": 3
+    },
+    {
+     "text": "Cold and fluffy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rain",
+    "Hail",
+    "Frost"
+   ]
+  },
+  {
+   "word": "Hail",
+   "hints": [
+    {
+     "text": "Weather",
+     "level": 1
+    },
+    {
+     "text": "Ice pellets",
+     "level": 1
+    },
+    {
+     "text": "Dents cars",
+     "level": 2
+    },
+    {
+     "text": "Sudden storms",
+     "level": 2
+    },
+    {
+     "text": "Bouncing ice balls",
+     "level": 3
+    },
+    {
+     "text": "Rattles roofs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Snow",
+    "Sleet",
+    "Rain"
+   ]
+  },
+  {
+   "word": "Fog",
+   "hints": [
+    {
+     "text": "Weather",
+     "level": 1
+    },
+    {
+     "text": "Low cloud",
+     "level": 1
+    },
+    {
+     "text": "Airport delays",
+     "level": 2
+    },
+    {
+     "text": "Spooky mornings",
+     "level": 2
+    },
+    {
+     "text": "Thick grey mist",
+     "level": 3
+    },
+    {
+     "text": "Low visibility",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Smoke",
+    "Mist",
+    "Smog"
+   ]
+  },
+  {
+   "word": "Wind",
+   "hints": [
+    {
+     "text": "Weather",
+     "level": 1
+    },
+    {
+     "text": "Moving air",
+     "level": 1
+    },
+    {
+     "text": "Flies kites",
+     "level": 2
+    },
+    {
+     "text": "Blows hats away",
+     "level": 2
+    },
+    {
+     "text": "Gusts and breezes",
+     "level": 3
+    },
+    {
+     "text": "Invisible",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Storm",
+    "Breeze",
+    "Tornado"
+   ]
+  },
+  {
+   "word": "Tornado",
+   "hints": [
+    {
+     "text": "Weather event",
+     "level": 1
+    },
+    {
+     "text": "Violent storm",
+     "level": 1
+    },
+    {
+     "text": "Storm chasers",
+     "level": 2
+    },
+    {
+     "text": "Midwest plains",
+     "level": 2
+    },
+    {
+     "text": "Spinning funnel",
+     "level": 3
+    },
+    {
+     "text": "Destroys houses",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hurricane",
+    "Cyclone",
+    "Dust devil"
+   ]
+  },
+  {
+   "word": "Hurricane",
+   "hints": [
+    {
+     "text": "Weather event",
+     "level": 1
+    },
+    {
+     "text": "Tropical storm",
+     "level": 1
+    },
+    {
+     "text": "Named storms",
+     "level": 2
+    },
+    {
+     "text": "Evacuations",
+     "level": 2
+    },
+    {
+     "text": "Eye in center",
+     "level": 3
+    },
+    {
+     "text": "Huge spiral",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tornado",
+    "Typhoon",
+    "Monsoon"
+   ]
+  },
+  {
+   "word": "Earthquake",
+   "hints": [
+    {
+     "text": "Natural disaster",
+     "level": 1
+    },
+    {
+     "text": "Ground shaking",
+     "level": 1
+    },
+    {
+     "text": "Measured on scales",
+     "level": 2
+    },
+    {
+     "text": "Buildings collapse",
+     "level": 2
+    },
+    {
+     "text": "Tectonic plates",
+     "level": 3
+    },
+    {
+     "text": "Aftershocks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Volcano",
+    "Tsunami",
+    "Landslide"
+   ]
+  },
+  {
+   "word": "Tsunami",
+   "hints": [
+    {
+     "text": "Natural disaster",
+     "level": 1
+    },
+    {
+     "text": "Giant wave",
+     "level": 1
+    },
+    {
+     "text": "Follows undersea quakes",
+     "level": 2
+    },
+    {
+     "text": "Coastal warnings",
+     "level": 2
+    },
+    {
+     "text": "Wall of water",
+     "level": 3
+    },
+    {
+     "text": "Sea retreats first",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hurricane",
+    "Flood",
+    "Earthquake"
+   ]
+  },
+  {
+   "word": "Flood",
+   "hints": [
+    {
+     "text": "Natural disaster",
+     "level": 1
+    },
+    {
+     "text": "Rising water",
+     "level": 1
+    },
+    {
+     "text": "Heavy rains",
+     "level": 2
+    },
+    {
+     "text": "Sandbags",
+     "level": 2
+    },
+    {
+     "text": "Submerged streets",
+     "level": 3
+    },
+    {
+     "text": "Overflowing rivers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Drought",
+    "Tsunami",
+    "Storm"
+   ]
+  },
+  {
+   "word": "Drought",
+   "hints": [
+    {
+     "text": "Natural disaster",
+     "level": 1
+    },
+    {
+     "text": "Arid period",
+     "level": 1
+    },
+    {
+     "text": "No showers for months",
+     "level": 2
+    },
+    {
+     "text": "Crops fail",
+     "level": 2
+    },
+    {
+     "text": "Cracked earth",
+     "level": 3
+    },
+    {
+     "text": "Empty riverbeds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Flood",
+    "Famine",
+    "Heatwave"
+   ]
+  },
+  {
+   "word": "Avalanche",
+   "hints": [
+    {
+     "text": "Natural disaster",
+     "level": 1
+    },
+    {
+     "text": "Snow slide",
+     "level": 1
+    },
+    {
+     "text": "Mountain danger",
+     "level": 2
+    },
+    {
+     "text": "Skiers warned",
+     "level": 2
+    },
+    {
+     "text": "Rushing snow",
+     "level": 3
+    },
+    {
+     "text": "Buries everything",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Landslide",
+    "Blizzard",
+    "Glacier"
+   ]
+  },
+  {
+   "word": "Sun",
+   "hints": [
+    {
+     "text": "Star",
+     "level": 1
+    },
+    {
+     "text": "Sky object",
+     "level": 1
+    },
+    {
+     "text": "Gives daylight",
+     "level": 2
+    },
+    {
+     "text": "Sunscreen needed",
+     "level": 2
+    },
+    {
+     "text": "Hot and bright",
+     "level": 3
+    },
+    {
+     "text": "Center of solar system",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Moon",
+    "Star",
+    "Planet"
+   ]
+  },
+  {
+   "word": "Moon",
+   "hints": [
+    {
+     "text": "Satellite",
+     "level": 1
+    },
+    {
+     "text": "Night sky object",
+     "level": 1
+    },
+    {
+     "text": "Phases monthly",
+     "level": 2
+    },
+    {
+     "text": "Controls tides",
+     "level": 2
+    },
+    {
+     "text": "Craters",
+     "level": 3
+    },
+    {
+     "text": "Silver glow",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sun",
+    "Star",
+    "Planet"
+   ]
+  },
+  {
+   "word": "Star",
+   "hints": [
+    {
+     "text": "Night light",
+     "level": 1
+    },
+    {
+     "text": "Celestial body",
+     "level": 1
+    },
+    {
+     "text": "Make a wish",
+     "level": 2
+    },
+    {
+     "text": "Twinkle twinkle",
+     "level": 2
+    },
+    {
+     "text": "Shines far away",
+     "level": 3
+    },
+    {
+     "text": "Constellations",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Planet",
+    "Moon",
+    "Comet"
+   ]
+  },
+  {
+   "word": "Comet",
+   "hints": [
+    {
+     "text": "Space object",
+     "level": 1
+    },
+    {
+     "text": "Icy wanderer",
+     "level": 1
+    },
+    {
+     "text": "Rare sightings",
+     "level": 2
+    },
+    {
+     "text": "Ancient omens",
+     "level": 2
+    },
+    {
+     "text": "Glowing tail",
+     "level": 3
+    },
+    {
+     "text": "Orbits the sun",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Meteor",
+    "Asteroid",
+    "Star"
+   ]
+  },
+  {
+   "word": "Planet",
+   "hints": [
+    {
+     "text": "Celestial body",
+     "level": 1
+    },
+    {
+     "text": "Orbiting world",
+     "level": 1
+    },
+    {
+     "text": "Eight in our system",
+     "level": 2
+    },
+    {
+     "text": "Explored by probes",
+     "level": 2
+    },
+    {
+     "text": "Round world",
+     "level": 3
+    },
+    {
+     "text": "Circles a star",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Star",
+    "Moon",
+    "Asteroid"
+   ]
+  },
+  {
+   "word": "Tree",
+   "hints": [
+    {
+     "text": "Plant",
+     "level": 1
+    },
+    {
+     "text": "Woody plant",
+     "level": 1
+    },
+    {
+     "text": "Gives shade",
+     "level": 2
+    },
+    {
+     "text": "Climbed by kids",
+     "level": 2
+    },
+    {
+     "text": "Trunk and branches",
+     "level": 3
+    },
+    {
+     "text": "Leaves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bush",
+    "Shrub",
+    "Flower"
+   ]
+  },
+  {
+   "word": "Flower",
+   "hints": [
+    {
+     "text": "Plant part",
+     "level": 1
+    },
+    {
+     "text": "Blossom",
+     "level": 1
+    },
+    {
+     "text": "Given on valentines",
+     "level": 2
+    },
+    {
+     "text": "Bees visit",
+     "level": 2
+    },
+    {
+     "text": "Petals",
+     "level": 3
+    },
+    {
+     "text": "Sweet smell",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Leaf",
+    "Tree",
+    "Weed"
+   ]
+  },
+  {
+   "word": "Leaf",
+   "hints": [
+    {
+     "text": "Plant part",
+     "level": 1
+    },
+    {
+     "text": "Green part",
+     "level": 1
+    },
+    {
+     "text": "Falls in autumn",
+     "level": 2
+    },
+    {
+     "text": "Photosynthesis",
+     "level": 2
+    },
+    {
+     "text": "Veins and stem",
+     "level": 3
+    },
+    {
+     "text": "Flat and green",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Flower",
+    "Branch",
+    "Petal"
+   ]
+  },
+  {
+   "word": "Grass",
+   "hints": [
+    {
+     "text": "Plant",
+     "level": 1
+    },
+    {
+     "text": "Ground cover",
+     "level": 1
+    },
+    {
+     "text": "Mowed on weekends",
+     "level": 2
+    },
+    {
+     "text": "Cows eat it",
+     "level": 2
+    },
+    {
+     "text": "Green blades",
+     "level": 3
+    },
+    {
+     "text": "Lawns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Moss",
+    "Hay",
+    "Weed"
+   ]
+  },
+  {
+   "word": "Moss",
+   "hints": [
+    {
+     "text": "Small plant",
+     "level": 1
+    },
+    {
+     "text": "Ground cover",
+     "level": 1
+    },
+    {
+     "text": "Grows in shade",
+     "level": 2
+    },
+    {
+     "text": "Soft carpet",
+     "level": 2
+    },
+    {
+     "text": "Green fuzz",
+     "level": 3
+    },
+    {
+     "text": "Damp rocks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Grass",
+    "Lichen",
+    "Fern"
+   ]
+  },
+  {
+   "word": "Fern",
+   "hints": [
+    {
+     "text": "Plant",
+     "level": 1
+    },
+    {
+     "text": "Ancient plant",
+     "level": 1
+    },
+    {
+     "text": "Shady forests",
+     "level": 2
+    },
+    {
+     "text": "Houseplant",
+     "level": 2
+    },
+    {
+     "text": "Feathery fronds",
+     "level": 3
+    },
+    {
+     "text": "Spores underneath",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Moss",
+    "Palm",
+    "Bush"
+   ]
+  },
+  {
+   "word": "Cactus",
+   "hints": [
+    {
+     "text": "Desert plant",
+     "level": 1
+    },
+    {
+     "text": "Succulent",
+     "level": 1
+    },
+    {
+     "text": "Stores water",
+     "level": 2
+    },
+    {
+     "text": "Hard to kill",
+     "level": 2
+    },
+    {
+     "text": "Sharp spines",
+     "level": 3
+    },
+    {
+     "text": "Thick stems",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Aloe",
+    "Palm",
+    "Yucca"
+   ]
+  },
+  {
+   "word": "Palm tree",
+   "hints": [
+    {
+     "text": "Tropical plant",
+     "level": 1
+    },
+    {
+     "text": "Beach plant",
+     "level": 1
+    },
+    {
+     "text": "Island holidays",
+     "level": 2
+    },
+    {
+     "text": "Coconuts hang",
+     "level": 2
+    },
+    {
+     "text": "Long trunk",
+     "level": 3
+    },
+    {
+     "text": "Fan leaves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pine",
+    "Banana plant",
+    "Bamboo"
+   ]
+  },
+  {
+   "word": "Pine tree",
+   "hints": [
+    {
+     "text": "Evergreen",
+     "level": 1
+    },
+    {
+     "text": "Conifer",
+     "level": 1
+    },
+    {
+     "text": "Holiday decoration",
+     "level": 2
+    },
+    {
+     "text": "Forest smell",
+     "level": 2
+    },
+    {
+     "text": "Needle leaves",
+     "level": 3
+    },
+    {
+     "text": "Woody cones",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Oak",
+    "Fir",
+    "Spruce"
+   ]
+  },
+  {
+   "word": "Oak",
+   "hints": [
+    {
+     "text": "Tree",
+     "level": 1
+    },
+    {
+     "text": "Hardwood",
+     "level": 1
+    },
+    {
+     "text": "Mighty and old",
+     "level": 2
+    },
+    {
+     "text": "Furniture wood",
+     "level": 2
+    },
+    {
+     "text": "Acorns",
+     "level": 3
+    },
+    {
+     "text": "Lobed leaves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Maple",
+    "Pine",
+    "Elm"
+   ]
+  },
+  {
+   "word": "Maple",
+   "hints": [
+    {
+     "text": "Tree",
+     "level": 1
+    },
+    {
+     "text": "Hardwood",
+     "level": 1
+    },
+    {
+     "text": "Syrup source",
+     "level": 2
+    },
+    {
+     "text": "Canadian symbol",
+     "level": 2
+    },
+    {
+     "text": "Red autumn leaves",
+     "level": 3
+    },
+    {
+     "text": "Winged seeds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Oak",
+    "Birch",
+    "Elm"
+   ]
+  },
+  {
+   "word": "Bamboo",
+   "hints": [
+    {
+     "text": "Grass plant",
+     "level": 1
+    },
+    {
+     "text": "Fast grower",
+     "level": 1
+    },
+    {
+     "text": "Pandas eat it",
+     "level": 2
+    },
+    {
+     "text": "Building material",
+     "level": 2
+    },
+    {
+     "text": "Hollow green stalks",
+     "level": 3
+    },
+    {
+     "text": "Segmented",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Reed",
+    "Sugarcane",
+    "Palm"
+   ]
+  },
+  {
+   "word": "Rose",
+   "hints": [
+    {
+     "text": "Flower",
+     "level": 1
+    },
+    {
+     "text": "Romantic bloom",
+     "level": 1
+    },
+    {
+     "text": "Valentine gift",
+     "level": 2
+    },
+    {
+     "text": "Love symbol",
+     "level": 2
+    },
+    {
+     "text": "Thorny stems",
+     "level": 3
+    },
+    {
+     "text": "Red petals",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tulip",
+    "Lily",
+    "Carnation"
+   ]
+  },
+  {
+   "word": "Sunflower",
+   "hints": [
+    {
+     "text": "Garden plant",
+     "level": 1
+    },
+    {
+     "text": "Tall bloom",
+     "level": 1
+    },
+    {
+     "text": "Follows daylight",
+     "level": 2
+    },
+    {
+     "text": "Seeds as snack",
+     "level": 2
+    },
+    {
+     "text": "Huge yellow head",
+     "level": 3
+    },
+    {
+     "text": "Brown center",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Daisy",
+    "Marigold",
+    "Tulip"
+   ]
+  },
+  {
+   "word": "Tulip",
+   "hints": [
+    {
+     "text": "Flower",
+     "level": 1
+    },
+    {
+     "text": "Spring bloom",
+     "level": 1
+    },
+    {
+     "text": "Dutch fields",
+     "level": 2
+    },
+    {
+     "text": "Bulb planted",
+     "level": 2
+    },
+    {
+     "text": "Cup shaped petals",
+     "level": 3
+    },
+    {
+     "text": "Bright colors",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rose",
+    "Lily",
+    "Daffodil"
+   ]
+  },
+  {
+   "word": "Lotus",
+   "hints": [
+    {
+     "text": "Flower",
+     "level": 1
+    },
+    {
+     "text": "Sacred bloom",
+     "level": 1
+    },
+    {
+     "text": "Grows in mud",
+     "level": 2
+    },
+    {
+     "text": "Spiritual symbol",
+     "level": 2
+    },
+    {
+     "text": "Floats on ponds",
+     "level": 3
+    },
+    {
+     "text": "Pink petals",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lily",
+    "Water lily",
+    "Rose"
+   ]
+  },
+  {
+   "word": "Daisy",
+   "hints": [
+    {
+     "text": "Flower",
+     "level": 1
+    },
+    {
+     "text": "Simple bloom",
+     "level": 1
+    },
+    {
+     "text": "Petal picking game",
+     "level": 2
+    },
+    {
+     "text": "Chains",
+     "level": 2
+    },
+    {
+     "text": "White petals",
+     "level": 3
+    },
+    {
+     "text": "Yellow center",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sunflower",
+    "Daffodil",
+    "Buttercup"
+   ]
+  },
+  {
+   "word": "Lily",
+   "hints": [
+    {
+     "text": "Flower",
+     "level": 1
+    },
+    {
+     "text": "Elegant bloom",
+     "level": 1
+    },
+    {
+     "text": "Funerals and weddings",
+     "level": 2
+    },
+    {
+     "text": "Fragrant",
+     "level": 2
+    },
+    {
+     "text": "Trumpet shape",
+     "level": 3
+    },
+    {
+     "text": "Long stamens",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tulip",
+    "Rose",
+    "Orchid"
+   ]
+  },
+  {
+   "word": "Orchid",
+   "hints": [
+    {
+     "text": "Flower",
+     "level": 1
+    },
+    {
+     "text": "Exotic bloom",
+     "level": 1
+    },
+    {
+     "text": "Expensive houseplant",
+     "level": 2
+    },
+    {
+     "text": "Delicate care",
+     "level": 2
+    },
+    {
+     "text": "Unusual shape",
+     "level": 3
+    },
+    {
+     "text": "Long lasting",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lily",
+    "Rose",
+    "Iris"
+   ]
+  },
+  {
+   "word": "Mushroom",
+   "hints": [
+    {
+     "text": "Fungus",
+     "level": 1
+    },
+    {
+     "text": "Forest growth",
+     "level": 1
+    },
+    {
+     "text": "Fairy rings",
+     "level": 2
+    },
+    {
+     "text": "Pizza topping",
+     "level": 2
+    },
+    {
+     "text": "Cap and stem",
+     "level": 3
+    },
+    {
+     "text": "Grows in damp",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Toadstool",
+    "Truffle",
+    "Moss"
+   ]
+  },
+  {
+   "word": "Rock",
+   "hints": [
+    {
+     "text": "Natural object",
+     "level": 1
+    },
+    {
+     "text": "Solid mineral",
+     "level": 1
+    },
+    {
+     "text": "Skimmed on lakes",
+     "level": 2
+    },
+    {
+     "text": "Collected by geologists",
+     "level": 2
+    },
+    {
+     "text": "Hard and heavy",
+     "level": 3
+    },
+    {
+     "text": "Grey stone",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pebble",
+    "Boulder",
+    "Sand"
+   ]
+  },
+  {
+   "word": "Pebble",
+   "hints": [
+    {
+     "text": "Small stone",
+     "level": 1
+    },
+    {
+     "text": "Smooth rock",
+     "level": 1
+    },
+    {
+     "text": "Beach collecting",
+     "level": 2
+    },
+    {
+     "text": "Skipping on water",
+     "level": 2
+    },
+    {
+     "text": "Rounded by water",
+     "level": 3
+    },
+    {
+     "text": "Fits in palm",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rock",
+    "Sand",
+    "Shell"
+   ]
+  },
+  {
+   "word": "Sand",
+   "hints": [
+    {
+     "text": "Granular material",
+     "level": 1
+    },
+    {
+     "text": "Beach ground",
+     "level": 1
+    },
+    {
+     "text": "Beach castles",
+     "level": 2
+    },
+    {
+     "text": "Hourglasses",
+     "level": 2
+    },
+    {
+     "text": "Tiny grains",
+     "level": 3
+    },
+    {
+     "text": "Gets everywhere",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Soil",
+    "Pebble",
+    "Dust"
+   ]
+  },
+  {
+   "word": "Mud",
+   "hints": [
+    {
+     "text": "Wet earth",
+     "level": 1
+    },
+    {
+     "text": "Sticky ground",
+     "level": 1
+    },
+    {
+     "text": "Pigs roll in it",
+     "level": 2
+    },
+    {
+     "text": "Rainy fields",
+     "level": 2
+    },
+    {
+     "text": "Brown and squelchy",
+     "level": 3
+    },
+    {
+     "text": "Messy boots",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Clay",
+    "Sand",
+    "Soil"
+   ]
+  },
+  {
+   "word": "Soil",
+   "hints": [
+    {
+     "text": "Ground material",
+     "level": 1
+    },
+    {
+     "text": "Earth",
+     "level": 1
+    },
+    {
+     "text": "Gardens grow in it",
+     "level": 2
+    },
+    {
+     "text": "Worms live there",
+     "level": 2
+    },
+    {
+     "text": "Dark and crumbly",
+     "level": 3
+    },
+    {
+     "text": "Rich nutrients",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sand",
+    "Mud",
+    "Clay"
+   ]
+  },
+  {
+   "word": "Seashell",
+   "hints": [
+    {
+     "text": "Beach find",
+     "level": 1
+    },
+    {
+     "text": "Sea creature home",
+     "level": 1
+    },
+    {
+     "text": "Hear the ocean",
+     "level": 2
+    },
+    {
+     "text": "Collected on holidays",
+     "level": 2
+    },
+    {
+     "text": "Spiral or fan",
+     "level": 3
+    },
+    {
+     "text": "Pearly inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pebble",
+    "Starfish",
+    "Coral"
+   ]
+  },
+  {
+   "word": "Coral reef",
+   "hints": [
+    {
+     "text": "Marine habitat",
+     "level": 1
+    },
+    {
+     "text": "Underwater ecosystem",
+     "level": 1
+    },
+    {
+     "text": "Snorkeling spots",
+     "level": 2
+    },
+    {
+     "text": "Colorful fish",
+     "level": 2
+    },
+    {
+     "text": "Polyps",
+     "level": 3
+    },
+    {
+     "text": "Bleaching threat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kelp forest",
+    "Lagoon",
+    "Atoll"
+   ]
+  },
+  {
+   "word": "Wave",
+   "hints": [
+    {
+     "text": "Ocean motion",
+     "level": 1
+    },
+    {
+     "text": "Water swell",
+     "level": 1
+    },
+    {
+     "text": "Surfers ride them",
+     "level": 2
+    },
+    {
+     "text": "Crash on shore",
+     "level": 2
+    },
+    {
+     "text": "Crests and troughs",
+     "level": 3
+    },
+    {
+     "text": "White foam",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tide",
+    "Current",
+    "Ripple"
+   ]
+  },
+  {
+   "word": "Tide",
+   "hints": [
+    {
+     "text": "Ocean movement",
+     "level": 1
+    },
+    {
+     "text": "Sea level change",
+     "level": 1
+    },
+    {
+     "text": "Twice daily",
+     "level": 2
+    },
+    {
+     "text": "Moon pulls it",
+     "level": 2
+    },
+    {
+     "text": "High and low",
+     "level": 3
+    },
+    {
+     "text": "Rock pools appear",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wave",
+    "Current",
+    "Flood"
+   ]
+  },
+  {
+   "word": "Breeze",
+   "hints": [
+    {
+     "text": "Gentle wind",
+     "level": 1
+    },
+    {
+     "text": "Light air",
+     "level": 1
+    },
+    {
+     "text": "Cools summer days",
+     "level": 2
+    },
+    {
+     "text": "Rustles leaves",
+     "level": 2
+    },
+    {
+     "text": "Soft gust",
+     "level": 3
+    },
+    {
+     "text": "Refreshing",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wind",
+    "Gale",
+    "Draft"
+   ]
+  },
+  {
+   "word": "Sunrise",
+   "hints": [
+    {
+     "text": "Morning event",
+     "level": 1
+    },
+    {
+     "text": "Dawn",
+     "level": 1
+    },
+    {
+     "text": "Early risers",
+     "level": 2
+    },
+    {
+     "text": "Roosters crow",
+     "level": 2
+    },
+    {
+     "text": "Golden horizon",
+     "level": 3
+    },
+    {
+     "text": "Sky turns pink",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sunset",
+    "Dusk",
+    "Noon"
+   ]
+  },
+  {
+   "word": "Sunset",
+   "hints": [
+    {
+     "text": "Evening event",
+     "level": 1
+    },
+    {
+     "text": "Dusk",
+     "level": 1
+    },
+    {
+     "text": "Romantic walks",
+     "level": 2
+    },
+    {
+     "text": "Photographers love it",
+     "level": 2
+    },
+    {
+     "text": "Orange sky",
+     "level": 3
+    },
+    {
+     "text": "Sun dips low",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sunrise",
+    "Dawn",
+    "Twilight"
+   ]
+  },
+  {
+   "word": "Aurora",
+   "hints": [
+    {
+     "text": "Sky lights",
+     "level": 1
+    },
+    {
+     "text": "Polar display",
+     "level": 1
+    },
+    {
+     "text": "Seen up north",
+     "level": 2
+    },
+    {
+     "text": "Bucket list sight",
+     "level": 2
+    },
+    {
+     "text": "Green ribbons",
+     "level": 3
+    },
+    {
+     "text": "Dancing glow",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rainbow",
+    "Comet",
+    "Fireworks"
+   ]
+  },
+  {
+   "word": "Eclipse",
+   "hints": [
+    {
+     "text": "Sky event",
+     "level": 1
+    },
+    {
+     "text": "Celestial alignment",
+     "level": 1
+    },
+    {
+     "text": "Special glasses needed",
+     "level": 2
+    },
+    {
+     "text": "Rare event",
+     "level": 2
+    },
+    {
+     "text": "Moon blocks sun",
+     "level": 3
+    },
+    {
+     "text": "Daytime darkness",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sunset",
+    "Comet",
+    "Meteor"
+   ]
+  },
+  {
+   "word": "Meteor",
+   "hints": [
+    {
+     "text": "Space rock",
+     "level": 1
+    },
+    {
+     "text": "Shooting star",
+     "level": 1
+    },
+    {
+     "text": "Make a wish",
+     "level": 2
+    },
+    {
+     "text": "Sky showers",
+     "level": 2
+    },
+    {
+     "text": "Streak of light",
+     "level": 3
+    },
+    {
+     "text": "Burns up",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Comet",
+    "Asteroid",
+    "Star"
+   ]
+  },
+  {
+   "word": "Cloud",
+   "hints": [
+    {
+     "text": "Sky object",
+     "level": 1
+    },
+    {
+     "text": "Water vapor",
+     "level": 1
+    },
+    {
+     "text": "Shapes like animals",
+     "level": 2
+    },
+    {
+     "text": "Brings rain",
+     "level": 2
+    },
+    {
+     "text": "Fluffy white",
+     "level": 3
+    },
+    {
+     "text": "Floats overhead",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fog",
+    "Smoke",
+    "Mist"
+   ]
+  },
+  {
+   "word": "Puddle",
+   "hints": [
+    {
+     "text": "Small water",
+     "level": 1
+    },
+    {
+     "text": "Rain leftover",
+     "level": 1
+    },
+    {
+     "text": "Kids jump in",
+     "level": 2
+    },
+    {
+     "text": "Splashes cars",
+     "level": 2
+    },
+    {
+     "text": "Shallow pool",
+     "level": 3
+    },
+    {
+     "text": "Reflects sky",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pond",
+    "Lake",
+    "Mud"
+   ]
+  },
+  {
+   "word": "Pond",
+   "hints": [
+    {
+     "text": "Small lake",
+     "level": 1
+    },
+    {
+     "text": "Still water",
+     "level": 1
+    },
+    {
+     "text": "Ducks and frogs",
+     "level": 2
+    },
+    {
+     "text": "Garden feature",
+     "level": 2
+    },
+    {
+     "text": "Lily pads",
+     "level": 3
+    },
+    {
+     "text": "Reeds around",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lake",
+    "Puddle",
+    "Swamp"
+   ]
+  },
+  {
+   "word": "Stream",
+   "hints": [
+    {
+     "text": "Small river",
+     "level": 1
+    },
+    {
+     "text": "Flowing water",
+     "level": 1
+    },
+    {
+     "text": "Hikers cross it",
+     "level": 2
+    },
+    {
+     "text": "Babbling sound",
+     "level": 2
+    },
+    {
+     "text": "Narrow and shallow",
+     "level": 3
+    },
+    {
+     "text": "Pebbly bed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "River",
+    "Brook",
+    "Canal"
+   ]
+  },
+  {
+   "word": "Geyser",
+   "hints": [
+    {
+     "text": "Hot spring",
+     "level": 1
+    },
+    {
+     "text": "Natural fountain",
+     "level": 1
+    },
+    {
+     "text": "Erupts on schedule",
+     "level": 2
+    },
+    {
+     "text": "Tourist attraction",
+     "level": 2
+    },
+    {
+     "text": "Steam blast",
+     "level": 3
+    },
+    {
+     "text": "Boiling water",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Volcano",
+    "Waterfall",
+    "Fountain"
+   ]
+  },
+  {
+   "word": "Hot spring",
+   "hints": [
+    {
+     "text": "Natural pool",
+     "level": 1
+    },
+    {
+     "text": "Warm water",
+     "level": 1
+    },
+    {
+     "text": "Relaxing soak",
+     "level": 2
+    },
+    {
+     "text": "Volcanic areas",
+     "level": 2
+    },
+    {
+     "text": "Steaming pools",
+     "level": 3
+    },
+    {
+     "text": "Mineral rich",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Geyser",
+    "Lake",
+    "Sauna"
+   ]
+  },
+  {
+   "word": "Oasis",
+   "hints": [
+    {
+     "text": "Desert haven",
+     "level": 1
+    },
+    {
+     "text": "Water source",
+     "level": 1
+    },
+    {
+     "text": "Camels rest there",
+     "level": 2
+    },
+    {
+     "text": "Mirage myth",
+     "level": 2
+    },
+    {
+     "text": "Palm trees",
+     "level": 3
+    },
+    {
+     "text": "Pool in sand",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lake",
+    "Spring",
+    "Island"
+   ]
+  },
+  {
+   "word": "Prairie",
+   "hints": [
+    {
+     "text": "Grassland",
+     "level": 1
+    },
+    {
+     "text": "Open plains",
+     "level": 1
+    },
+    {
+     "text": "Bison roamed",
+     "level": 2
+    },
+    {
+     "text": "Wheat farms",
+     "level": 2
+    },
+    {
+     "text": "Endless grass",
+     "level": 3
+    },
+    {
+     "text": "Big sky",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Meadow",
+    "Savanna",
+    "Steppe"
+   ]
+  },
+  {
+   "word": "Savanna",
+   "hints": [
+    {
+     "text": "Grassland",
+     "level": 1
+    },
+    {
+     "text": "African plains",
+     "level": 1
+    },
+    {
+     "text": "Lions and zebras",
+     "level": 2
+    },
+    {
+     "text": "Safari trips",
+     "level": 2
+    },
+    {
+     "text": "Scattered trees",
+     "level": 3
+    },
+    {
+     "text": "Dry season",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Prairie",
+    "Jungle",
+    "Desert"
+   ]
+  },
+  {
+   "word": "Tundra",
+   "hints": [
+    {
+     "text": "Cold biome",
+     "level": 1
+    },
+    {
+     "text": "Frozen plain",
+     "level": 1
+    },
+    {
+     "text": "Reindeer graze",
+     "level": 2
+    },
+    {
+     "text": "Permafrost",
+     "level": 2
+    },
+    {
+     "text": "Treeless land",
+     "level": 3
+    },
+    {
+     "text": "Short summers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Desert",
+    "Glacier",
+    "Taiga"
+   ]
+  },
+  {
+   "word": "Rainforest",
+   "hints": [
+    {
+     "text": "Tropical biome",
+     "level": 1
+    },
+    {
+     "text": "Rich biome",
+     "level": 1
+    },
+    {
+     "text": "Huge biodiversity",
+     "level": 2
+    },
+    {
+     "text": "Endangered habitat",
+     "level": 2
+    },
+    {
+     "text": "Constant downpours",
+     "level": 3
+    },
+    {
+     "text": "Tall canopy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jungle",
+    "Swamp",
+    "Savanna"
+   ]
+  },
+  {
+   "word": "Coral",
+   "hints": [
+    {
+     "text": "Marine organism",
+     "level": 1
+    },
+    {
+     "text": "Reef builder",
+     "level": 1
+    },
+    {
+     "text": "Snorkelers admire",
+     "level": 2
+    },
+    {
+     "text": "Bleaching threat",
+     "level": 2
+    },
+    {
+     "text": "Colorful branches",
+     "level": 3
+    },
+    {
+     "text": "Hard skeleton",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Seaweed",
+    "Shell",
+    "Sponge"
+   ]
+  },
+  {
+   "word": "Seaweed",
+   "hints": [
+    {
+     "text": "Marine plant",
+     "level": 1
+    },
+    {
+     "text": "Algae",
+     "level": 1
+    },
+    {
+     "text": "Wrapped around sushi",
+     "level": 2
+    },
+    {
+     "text": "Washes ashore",
+     "level": 2
+    },
+    {
+     "text": "Slimy green fronds",
+     "level": 3
+    },
+    {
+     "text": "Floats in water",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kelp",
+    "Moss",
+    "Coral"
+   ]
+  },
+  {
+   "word": "Kelp",
+   "hints": [
+    {
+     "text": "Marine algae",
+     "level": 1
+    },
+    {
+     "text": "Underwater plant",
+     "level": 1
+    },
+    {
+     "text": "Otters wrap in it",
+     "level": 2
+    },
+    {
+     "text": "Forests underwater",
+     "level": 2
+    },
+    {
+     "text": "Tall brown fronds",
+     "level": 3
+    },
+    {
+     "text": "Gas bladders",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Seaweed",
+    "Coral",
+    "Bamboo"
+   ]
+  },
+  {
+   "word": "Acorn",
+   "hints": [
+    {
+     "text": "Tree seed",
+     "level": 1
+    },
+    {
+     "text": "Nut",
+     "level": 1
+    },
+    {
+     "text": "Squirrels bury them",
+     "level": 2
+    },
+    {
+     "text": "Autumn find",
+     "level": 2
+    },
+    {
+     "text": "Little cap",
+     "level": 3
+    },
+    {
+     "text": "From oak trees",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pinecone",
+    "Chestnut",
+    "Walnut"
+   ]
+  },
+  {
+   "word": "Pinecone",
+   "hints": [
+    {
+     "text": "Tree seed",
+     "level": 1
+    },
+    {
+     "text": "Conifer fruit",
+     "level": 1
+    },
+    {
+     "text": "Christmas crafts",
+     "level": 2
+    },
+    {
+     "text": "Forest floor",
+     "level": 2
+    },
+    {
+     "text": "Woody scales",
+     "level": 3
+    },
+    {
+     "text": "Opens when dry",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Acorn",
+    "Chestnut",
+    "Seed"
+   ]
+  },
+  {
+   "word": "Seed",
+   "hints": [
+    {
+     "text": "Plant start",
+     "level": 1
+    },
+    {
+     "text": "Tiny grain",
+     "level": 1
+    },
+    {
+     "text": "Planted in spring",
+     "level": 2
+    },
+    {
+     "text": "Sprouts",
+     "level": 2
+    },
+    {
+     "text": "Tiny shell",
+     "level": 3
+    },
+    {
+     "text": "Grows into plant",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bulb",
+    "Nut",
+    "Spore"
+   ]
+  },
+  {
+   "word": "Root",
+   "hints": [
+    {
+     "text": "Plant part",
+     "level": 1
+    },
+    {
+     "text": "Underground part",
+     "level": 1
+    },
+    {
+     "text": "Absorbs water",
+     "level": 2
+    },
+    {
+     "text": "Anchors plants",
+     "level": 2
+    },
+    {
+     "text": "Grows downward",
+     "level": 3
+    },
+    {
+     "text": "Tangled strands",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Stem",
+    "Branch",
+    "Bulb"
+   ]
+  },
+  {
+   "word": "Branch",
+   "hints": [
+    {
+     "text": "Tree part",
+     "level": 1
+    },
+    {
+     "text": "Limb",
+     "level": 1
+    },
+    {
+     "text": "Birds perch",
+     "level": 2
+    },
+    {
+     "text": "Swings hang from it",
+     "level": 2
+    },
+    {
+     "text": "Woody arm",
+     "level": 3
+    },
+    {
+     "text": "Leafy twigs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Trunk",
+    "Root",
+    "Twig"
+   ]
+  },
+  {
+   "word": "Thorn",
+   "hints": [
+    {
+     "text": "Plant defense",
+     "level": 1
+    },
+    {
+     "text": "Sharp point",
+     "level": 1
+    },
+    {
+     "text": "Roses have them",
+     "level": 2
+    },
+    {
+     "text": "Pricks fingers",
+     "level": 2
+    },
+    {
+     "text": "Pointy spike",
+     "level": 3
+    },
+    {
+     "text": "On stems",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spine",
+    "Needle",
+    "Splinter"
+   ]
+  },
+  {
+   "word": "Petal",
+   "hints": [
+    {
+     "text": "Flower part",
+     "level": 1
+    },
+    {
+     "text": "Colorful piece",
+     "level": 1
+    },
+    {
+     "text": "Love me not game",
+     "level": 2
+    },
+    {
+     "text": "Wedding confetti",
+     "level": 2
+    },
+    {
+     "text": "Soft and colorful",
+     "level": 3
+    },
+    {
+     "text": "Falls off",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Leaf",
+    "Sepal",
+    "Stem"
+   ]
+  },
+  {
+   "word": "Pollen",
+   "hints": [
+    {
+     "text": "Plant powder",
+     "level": 1
+    },
+    {
+     "text": "Flower dust",
+     "level": 1
+    },
+    {
+     "text": "Causes allergies",
+     "level": 2
+    },
+    {
+     "text": "Bees carry it",
+     "level": 2
+    },
+    {
+     "text": "Yellow dust",
+     "level": 3
+    },
+    {
+     "text": "Sneezing season",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Seed",
+    "Nectar",
+    "Spore"
+   ]
+  },
+  {
+   "word": "Nectar",
+   "hints": [
+    {
+     "text": "Flower juice",
+     "level": 1
+    },
+    {
+     "text": "Sweet liquid",
+     "level": 1
+    },
+    {
+     "text": "Bees collect it",
+     "level": 2
+    },
+    {
+     "text": "Hummingbird food",
+     "level": 2
+    },
+    {
+     "text": "Sugary fluid",
+     "level": 3
+    },
+    {
+     "text": "Inside blooms",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Honey",
+    "Pollen",
+    "Sap"
+   ]
+  },
+  {
+   "word": "Sap",
+   "hints": [
+    {
+     "text": "Tree fluid",
+     "level": 1
+    },
+    {
+     "text": "Sticky liquid",
+     "level": 1
+    },
+    {
+     "text": "Maple syrup source",
+     "level": 2
+    },
+    {
+     "text": "Oozes from bark",
+     "level": 2
+    },
+    {
+     "text": "Golden sticky",
+     "level": 3
+    },
+    {
+     "text": "Runs in spring",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Resin",
+    "Nectar",
+    "Honey"
+   ]
+  },
+  {
+   "word": "Bark",
+   "hints": [
+    {
+     "text": "Tree skin",
+     "level": 1
+    },
+    {
+     "text": "Outer layer",
+     "level": 1
+    },
+    {
+     "text": "Rubbing for crafts",
+     "level": 2
+    },
+    {
+     "text": "Trees shed it",
+     "level": 2
+    },
+    {
+     "text": "Rough texture",
+     "level": 3
+    },
+    {
+     "text": "Protects trunk",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Trunk",
+    "Leaf",
+    "Root"
+   ]
+  },
+  {
+   "word": "Twig",
+   "hints": [
+    {
+     "text": "Small stick",
+     "level": 1
+    },
+    {
+     "text": "Tree piece",
+     "level": 1
+    },
+    {
+     "text": "Nests built with them",
+     "level": 2
+    },
+    {
+     "text": "Snaps underfoot",
+     "level": 2
+    },
+    {
+     "text": "Thin and dry",
+     "level": 3
+    },
+    {
+     "text": "Forest floor",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Branch",
+    "Stick",
+    "Log"
+   ]
+  },
+  {
+   "word": "Log",
+   "hints": [
+    {
+     "text": "Fallen tree",
+     "level": 1
+    },
+    {
+     "text": "Wood piece",
+     "level": 1
+    },
+    {
+     "text": "Campfire fuel",
+     "level": 2
+    },
+    {
+     "text": "Sat on outdoors",
+     "level": 2
+    },
+    {
+     "text": "Heavy cylinder",
+     "level": 3
+    },
+    {
+     "text": "Bark covered",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Branch",
+    "Stump",
+    "Plank"
+   ]
+  },
+  {
+   "word": "Stump",
+   "hints": [
+    {
+     "text": "Tree remains",
+     "level": 1
+    },
+    {
+     "text": "Cut base",
+     "level": 1
+    },
+    {
+     "text": "Rings show age",
+     "level": 2
+    },
+    {
+     "text": "Seat in woods",
+     "level": 2
+    },
+    {
+     "text": "Flat top",
+     "level": 3
+    },
+    {
+     "text": "Roots below",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Log",
+    "Trunk",
+    "Root"
+   ]
+  },
+  {
+   "word": "Vine",
+   "hints": [
+    {
+     "text": "Climbing plant",
+     "level": 1
+    },
+    {
+     "text": "Creeper",
+     "level": 1
+    },
+    {
+     "text": "Tarzan swings",
+     "level": 2
+    },
+    {
+     "text": "Grapes grow",
+     "level": 2
+    },
+    {
+     "text": "Twisting stems",
+     "level": 3
+    },
+    {
+     "text": "Wraps around",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ivy",
+    "Branch",
+    "Rope"
+   ]
+  },
+  {
+   "word": "Ivy",
+   "hints": [
+    {
+     "text": "Climbing plant",
+     "level": 1
+    },
+    {
+     "text": "Evergreen creeper",
+     "level": 1
+    },
+    {
+     "text": "Covers old walls",
+     "level": 2
+    },
+    {
+     "text": "College buildings",
+     "level": 2
+    },
+    {
+     "text": "Green leaves",
+     "level": 3
+    },
+    {
+     "text": "Clings to bricks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Vine",
+    "Moss",
+    "Fern"
+   ]
+  },
+  {
+   "word": "Weed",
+   "hints": [
+    {
+     "text": "Unwanted plant",
+     "level": 1
+    },
+    {
+     "text": "Garden pest",
+     "level": 1
+    },
+    {
+     "text": "Pulled by gardeners",
+     "level": 2
+    },
+    {
+     "text": "Grows anywhere",
+     "level": 2
+    },
+    {
+     "text": "Dandelions",
+     "level": 3
+    },
+    {
+     "text": "Invasive roots",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Grass",
+    "Flower",
+    "Moss"
+   ]
+  },
+  {
+   "word": "Dandelion",
+   "hints": [
+    {
+     "text": "Wildflower",
+     "level": 1
+    },
+    {
+     "text": "Common weed",
+     "level": 1
+    },
+    {
+     "text": "Blown for wishes",
+     "level": 2
+    },
+    {
+     "text": "Lawn invader",
+     "level": 2
+    },
+    {
+     "text": "Fluffy seed head",
+     "level": 3
+    },
+    {
+     "text": "Yellow bloom",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Daisy",
+    "Buttercup",
+    "Clover"
+   ]
+  },
+  {
+   "word": "Clover",
+   "hints": [
+    {
+     "text": "Small plant",
+     "level": 1
+    },
+    {
+     "text": "Lucky charm",
+     "level": 1
+    },
+    {
+     "text": "Four leaf luck",
+     "level": 2
+    },
+    {
+     "text": "Bees adore it",
+     "level": 2
+    },
+    {
+     "text": "Three round leaves",
+     "level": 3
+    },
+    {
+     "text": "White blooms",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shamrock",
+    "Dandelion",
+    "Moss"
+   ]
+  },
+  {
+   "word": "Willow",
+   "hints": [
+    {
+     "text": "Tree",
+     "level": 1
+    },
+    {
+     "text": "Riverside tree",
+     "level": 1
+    },
+    {
+     "text": "Weeping branches",
+     "level": 2
+    },
+    {
+     "text": "Cricket bats",
+     "level": 2
+    },
+    {
+     "text": "Drooping limbs",
+     "level": 3
+    },
+    {
+     "text": "Long thin leaves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Oak",
+    "Birch",
+    "Poplar"
+   ]
+  },
+  {
+   "word": "Birch",
+   "hints": [
+    {
+     "text": "Tree",
+     "level": 1
+    },
+    {
+     "text": "Slender tree",
+     "level": 1
+    },
+    {
+     "text": "Northern forests",
+     "level": 2
+    },
+    {
+     "text": "Canoe bark",
+     "level": 2
+    },
+    {
+     "text": "White papery bark",
+     "level": 3
+    },
+    {
+     "text": "Thin trunk",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Oak",
+    "Maple",
+    "Aspen"
+   ]
+  },
+  {
+   "word": "Redwood",
+   "hints": [
+    {
+     "text": "Tree",
+     "level": 1
+    },
+    {
+     "text": "Giant tree",
+     "level": 1
+    },
+    {
+     "text": "Tallest trees",
+     "level": 2
+    },
+    {
+     "text": "Ancient forests",
+     "level": 2
+    },
+    {
+     "text": "Reddish bark",
+     "level": 3
+    },
+    {
+     "text": "Huge trunks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sequoia",
+    "Pine",
+    "Oak"
+   ]
+  },
+  {
+   "word": "Baobab",
+   "hints": [
+    {
+     "text": "Tree",
+     "level": 1
+    },
+    {
+     "text": "African tree",
+     "level": 1
+    },
+    {
+     "text": "Upside down tree",
+     "level": 2
+    },
+    {
+     "text": "Stores water",
+     "level": 2
+    },
+    {
+     "text": "Fat trunk",
+     "level": 3
+    },
+    {
+     "text": "Stubby branches",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Redwood",
+    "Palm",
+    "Acacia"
+   ]
+  },
+  {
+   "word": "Coconut palm",
+   "hints": [
+    {
+     "text": "Tropical tree",
+     "level": 1
+    },
+    {
+     "text": "Beach tree",
+     "level": 1
+    },
+    {
+     "text": "Island postcards",
+     "level": 2
+    },
+    {
+     "text": "Climbers harvest",
+     "level": 2
+    },
+    {
+     "text": "Fruit cluster up top",
+     "level": 3
+    },
+    {
+     "text": "Feathery fronds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Date palm",
+    "Pine",
+    "Bamboo"
+   ]
+  },
+  {
+   "word": "Bonsai",
+   "hints": [
+    {
+     "text": "Miniature tree",
+     "level": 1
+    },
+    {
+     "text": "Japanese art",
+     "level": 1
+    },
+    {
+     "text": "Patient pruning",
+     "level": 2
+    },
+    {
+     "text": "Indoor display",
+     "level": 2
+    },
+    {
+     "text": "Tiny trunk",
+     "level": 3
+    },
+    {
+     "text": "Shallow pot",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sapling",
+    "Shrub",
+    "Topiary"
+   ]
+  },
+  {
+   "word": "Hedge",
+   "hints": [
+    {
+     "text": "Garden border",
+     "level": 1
+    },
+    {
+     "text": "Shrub row",
+     "level": 1
+    },
+    {
+     "text": "Trimmed neatly",
+     "level": 2
+    },
+    {
+     "text": "Privacy wall",
+     "level": 2
+    },
+    {
+     "text": "Dense leaves",
+     "level": 3
+    },
+    {
+     "text": "Clipped shape",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fence",
+    "Bush",
+    "Wall"
+   ]
+  },
+  {
+   "word": "Bush",
+   "hints": [
+    {
+     "text": "Shrub",
+     "level": 1
+    },
+    {
+     "text": "Small plant",
+     "level": 1
+    },
+    {
+     "text": "Garden borders",
+     "level": 2
+    },
+    {
+     "text": "Berries grow",
+     "level": 2
+    },
+    {
+     "text": "Many stems",
+     "level": 3
+    },
+    {
+     "text": "Low and round",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tree",
+    "Hedge",
+    "Fern"
+   ]
+  },
+  {
+   "word": "Lavender",
+   "hints": [
+    {
+     "text": "Herb plant",
+     "level": 1
+    },
+    {
+     "text": "Purple flower",
+     "level": 1
+    },
+    {
+     "text": "Calming scent",
+     "level": 2
+    },
+    {
+     "text": "Soap and oils",
+     "level": 2
+    },
+    {
+     "text": "Purple spikes",
+     "level": 3
+    },
+    {
+     "text": "Fragrant fields",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rosemary",
+    "Lilac",
+    "Sage"
+   ]
+  },
+  {
+   "word": "Jasmine",
+   "hints": [
+    {
+     "text": "Flowering vine",
+     "level": 1
+    },
+    {
+     "text": "Fragrant bloom",
+     "level": 1
+    },
+    {
+     "text": "Night scent",
+     "level": 2
+    },
+    {
+     "text": "Garlands",
+     "level": 2
+    },
+    {
+     "text": "Small white stars",
+     "level": 3
+    },
+    {
+     "text": "Sweet perfume",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lily",
+    "Lavender",
+    "Gardenia"
+   ]
+  },
+  {
+   "word": "Marigold",
+   "hints": [
+    {
+     "text": "Flower",
+     "level": 1
+    },
+    {
+     "text": "Festival bloom",
+     "level": 1
+    },
+    {
+     "text": "Garlands for festivals",
+     "level": 2
+    },
+    {
+     "text": "Pest repellent",
+     "level": 2
+    },
+    {
+     "text": "Orange ruffles",
+     "level": 3
+    },
+    {
+     "text": "Strong smell",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sunflower",
+    "Daisy",
+    "Carnation"
+   ]
+  },
+  {
+   "word": "Hibiscus",
+   "hints": [
+    {
+     "text": "Tropical flower",
+     "level": 1
+    },
+    {
+     "text": "Bright bloom",
+     "level": 1
+    },
+    {
+     "text": "Hawaiian shirts",
+     "level": 2
+    },
+    {
+     "text": "Herbal tea",
+     "level": 2
+    },
+    {
+     "text": "Big red petals",
+     "level": 3
+    },
+    {
+     "text": "Long stamen",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rose",
+    "Orchid",
+    "Lily"
+   ]
+  },
+  {
+   "word": "Snowflake",
+   "hints": [
+    {
+     "text": "Ice crystal",
+     "level": 1
+    },
+    {
+     "text": "Winter symbol",
+     "level": 1
+    },
+    {
+     "text": "No two alike",
+     "level": 2
+    },
+    {
+     "text": "Caught on tongues",
+     "level": 2
+    },
+    {
+     "text": "Six sided",
+     "level": 3
+    },
+    {
+     "text": "Delicate pattern",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hailstone",
+    "Raindrop",
+    "Frost"
+   ]
+  },
+  {
+   "word": "Icicle",
+   "hints": [
+    {
+     "text": "Frozen drip",
+     "level": 1
+    },
+    {
+     "text": "Winter feature",
+     "level": 1
+    },
+    {
+     "text": "Hangs from roofs",
+     "level": 2
+    },
+    {
+     "text": "Melts in sun",
+     "level": 2
+    },
+    {
+     "text": "Pointed ice spike",
+     "level": 3
+    },
+    {
+     "text": "Glistens",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Stalactite",
+    "Snowflake",
+    "Frost"
+   ]
+  },
+  {
+   "word": "Frost",
+   "hints": [
+    {
+     "text": "Ice coating",
+     "level": 1
+    },
+    {
+     "text": "Cold morning",
+     "level": 1
+    },
+    {
+     "text": "Scrape the windshield",
+     "level": 2
+    },
+    {
+     "text": "Kills plants",
+     "level": 2
+    },
+    {
+     "text": "White crystals",
+     "level": 3
+    },
+    {
+     "text": "Sparkly grass",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Snow",
+    "Dew",
+    "Ice"
+   ]
+  },
+  {
+   "word": "Dew",
+   "hints": [
+    {
+     "text": "Morning moisture",
+     "level": 1
+    },
+    {
+     "text": "Water droplets",
+     "level": 1
+    },
+    {
+     "text": "Wet grass at dawn",
+     "level": 2
+    },
+    {
+     "text": "Spider webs sparkle",
+     "level": 2
+    },
+    {
+     "text": "Tiny beads",
+     "level": 3
+    },
+    {
+     "text": "Condensation",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Frost",
+    "Rain",
+    "Mist"
+   ]
+  },
+  {
+   "word": "Mist",
+   "hints": [
+    {
+     "text": "Light fog",
+     "level": 1
+    },
+    {
+     "text": "Fine droplets",
+     "level": 1
+    },
+    {
+     "text": "Mysterious mornings",
+     "level": 2
+    },
+    {
+     "text": "Waterfalls create it",
+     "level": 2
+    },
+    {
+     "text": "Hazy air",
+     "level": 3
+    },
+    {
+     "text": "Damp feeling",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fog",
+    "Steam",
+    "Dew"
+   ]
+  },
+  {
+   "word": "Storm",
+   "hints": [
+    {
+     "text": "Weather event",
+     "level": 1
+    },
+    {
+     "text": "Bad weather",
+     "level": 1
+    },
+    {
+     "text": "Cancel plans",
+     "level": 2
+    },
+    {
+     "text": "Power cuts",
+     "level": 2
+    },
+    {
+     "text": "Thunder and rain",
+     "level": 3
+    },
+    {
+     "text": "Dark clouds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Breeze",
+    "Drizzle",
+    "Rainbow"
+   ]
+  },
+  {
+   "word": "Blizzard",
+   "hints": [
+    {
+     "text": "Snowstorm",
+     "level": 1
+    },
+    {
+     "text": "Winter weather",
+     "level": 1
+    },
+    {
+     "text": "Snowed in",
+     "level": 2
+    },
+    {
+     "text": "Whiteout",
+     "level": 2
+    },
+    {
+     "text": "Howling wind",
+     "level": 3
+    },
+    {
+     "text": "Heavy snowfall",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hailstorm",
+    "Avalanche",
+    "Hurricane"
+   ]
+  },
+  {
+   "word": "Monsoon",
+   "hints": [
+    {
+     "text": "Seasonal rain",
+     "level": 1
+    },
+    {
+     "text": "Wet season",
+     "level": 1
+    },
+    {
+     "text": "South asian summer",
+     "level": 2
+    },
+    {
+     "text": "Floods",
+     "level": 2
+    },
+    {
+     "text": "Heavy downpours",
+     "level": 3
+    },
+    {
+     "text": "Humid winds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Drought",
+    "Hurricane",
+    "Drizzle"
+   ]
+  },
+  {
+   "word": "Heatwave",
+   "hints": [
+    {
+     "text": "Hot weather",
+     "level": 1
+    },
+    {
+     "text": "Extreme temperatures",
+     "level": 1
+    },
+    {
+     "text": "Fans sell out",
+     "level": 2
+    },
+    {
+     "text": "Stay hydrated",
+     "level": 2
+    },
+    {
+     "text": "Scorching days",
+     "level": 3
+    },
+    {
+     "text": "Warm nights",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Drought",
+    "Monsoon",
+    "Blizzard"
+   ]
+  },
+  {
+   "word": "Constellation",
+   "hints": [
+    {
+     "text": "Star pattern",
+     "level": 1
+    },
+    {
+     "text": "Night sky shape",
+     "level": 1
+    },
+    {
+     "text": "Zodiac signs",
+     "level": 2
+    },
+    {
+     "text": "Sailors navigated",
+     "level": 2
+    },
+    {
+     "text": "Connect the dots",
+     "level": 3
+    },
+    {
+     "text": "Named shapes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Galaxy",
+    "Planet",
+    "Comet"
+   ]
+  },
+  {
+   "word": "Galaxy",
+   "hints": [
+    {
+     "text": "Star system",
+     "level": 1
+    },
+    {
+     "text": "Cosmic structure",
+     "level": 1
+    },
+    {
+     "text": "Milky way",
+     "level": 2
+    },
+    {
+     "text": "Billions of stars",
+     "level": 2
+    },
+    {
+     "text": "Spiral arms",
+     "level": 3
+    },
+    {
+     "text": "Distant glow",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nebula",
+    "Constellation",
+    "Universe"
+   ]
+  },
+  {
+   "word": "Nebula",
+   "hints": [
+    {
+     "text": "Space cloud",
+     "level": 1
+    },
+    {
+     "text": "Cosmic dust",
+     "level": 1
+    },
+    {
+     "text": "Star nurseries",
+     "level": 2
+    },
+    {
+     "text": "Telescope photos",
+     "level": 2
+    },
+    {
+     "text": "Colorful gas",
+     "level": 3
+    },
+    {
+     "text": "Glowing clouds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Galaxy",
+    "Comet",
+    "Supernova"
+   ]
+  },
+  {
+   "word": "Asteroid",
+   "hints": [
+    {
+     "text": "Space rock",
+     "level": 1
+    },
+    {
+     "text": "Minor body",
+     "level": 1
+    },
+    {
+     "text": "Dinosaur extinction",
+     "level": 2
+    },
+    {
+     "text": "Belt between planets",
+     "level": 2
+    },
+    {
+     "text": "Rocky lump",
+     "level": 3
+    },
+    {
+     "text": "Craters",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Comet",
+    "Meteor",
+    "Moon"
+   ]
+  },
+  {
+   "word": "Black hole",
+   "hints": [
+    {
+     "text": "Space mystery",
+     "level": 1
+    },
+    {
+     "text": "Collapsed star",
+     "level": 1
+    },
+    {
+     "text": "Nothing escapes",
+     "level": 2
+    },
+    {
+     "text": "Bends light",
+     "level": 2
+    },
+    {
+     "text": "Event horizon",
+     "level": 3
+    },
+    {
+     "text": "Spaghettification",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Supernova",
+    "Galaxy",
+    "Wormhole"
+   ]
+  },
+  {
+   "word": "Supernova",
+   "hints": [
+    {
+     "text": "Star explosion",
+     "level": 1
+    },
+    {
+     "text": "Cosmic blast",
+     "level": 1
+    },
+    {
+     "text": "Brightest event",
+     "level": 2
+    },
+    {
+     "text": "Creates elements",
+     "level": 2
+    },
+    {
+     "text": "Dying giant star",
+     "level": 3
+    },
+    {
+     "text": "Shockwave",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nebula",
+    "Black hole",
+    "Comet"
+   ]
+  },
+  {
+   "word": "Atoll",
+   "hints": [
+    {
+     "text": "Coral island",
+     "level": 1
+    },
+    {
+     "text": "Ring reef",
+     "level": 1
+    },
+    {
+     "text": "Pacific paradise",
+     "level": 2
+    },
+    {
+     "text": "Lagoon inside",
+     "level": 2
+    },
+    {
+     "text": "Circular reef",
+     "level": 3
+    },
+    {
+     "text": "Low lying",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Island",
+    "Reef",
+    "Peninsula"
+   ]
+  },
+  {
+   "word": "Peninsula",
+   "hints": [
+    {
+     "text": "Landform",
+     "level": 1
+    },
+    {
+     "text": "Almost island",
+     "level": 1
+    },
+    {
+     "text": "Water on three sides",
+     "level": 2
+    },
+    {
+     "text": "Coastal towns",
+     "level": 2
+    },
+    {
+     "text": "Jutting land",
+     "level": 3
+    },
+    {
+     "text": "Connected to mainland",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Island",
+    "Cape",
+    "Isthmus"
+   ]
+  },
+  {
+   "word": "Delta",
+   "hints": [
+    {
+     "text": "River mouth",
+     "level": 1
+    },
+    {
+     "text": "Wetland",
+     "level": 1
+    },
+    {
+     "text": "Fertile farmland",
+     "level": 2
+    },
+    {
+     "text": "Bird habitat",
+     "level": 2
+    },
+    {
+     "text": "Fan shaped",
+     "level": 3
+    },
+    {
+     "text": "Many channels",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Estuary",
+    "Lagoon",
+    "Valley"
+   ]
+  },
+  {
+   "word": "Lagoon",
+   "hints": [
+    {
+     "text": "Shallow water",
+     "level": 1
+    },
+    {
+     "text": "Coastal pool",
+     "level": 1
+    },
+    {
+     "text": "Calm swimming",
+     "level": 2
+    },
+    {
+     "text": "Tropical resorts",
+     "level": 2
+    },
+    {
+     "text": "Separated by reef",
+     "level": 3
+    },
+    {
+     "text": "Turquoise",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lake",
+    "Bay",
+    "Pond"
+   ]
+  },
+  {
+   "word": "Bay",
+   "hints": [
+    {
+     "text": "Coastal inlet",
+     "level": 1
+    },
+    {
+     "text": "Curved shore",
+     "level": 1
+    },
+    {
+     "text": "Harbors and boats",
+     "level": 2
+    },
+    {
+     "text": "Calm waters",
+     "level": 2
+    },
+    {
+     "text": "Curving coastline",
+     "level": 3
+    },
+    {
+     "text": "Sheltered",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lagoon",
+    "Gulf",
+    "Cove"
+   ]
+  },
+  {
+   "word": "Gorge",
+   "hints": [
+    {
+     "text": "Narrow valley",
+     "level": 1
+    },
+    {
+     "text": "Ravine",
+     "level": 1
+    },
+    {
+     "text": "River rapids",
+     "level": 2
+    },
+    {
+     "text": "Rafting trips",
+     "level": 2
+    },
+    {
+     "text": "Steep rock walls",
+     "level": 3
+    },
+    {
+     "text": "Deep cut",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Canyon",
+    "Valley",
+    "Cave"
+   ]
+  },
+  {
+   "word": "Plateau",
+   "hints": [
+    {
+     "text": "Landform",
+     "level": 1
+    },
+    {
+     "text": "Flat highland",
+     "level": 1
+    },
+    {
+     "text": "Tablelands",
+     "level": 2
+    },
+    {
+     "text": "High farms",
+     "level": 2
+    },
+    {
+     "text": "Raised flat land",
+     "level": 3
+    },
+    {
+     "text": "Steep sides",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mesa",
+    "Valley",
+    "Hill"
+   ]
+  },
+  {
+   "word": "Marsh",
+   "hints": [
+    {
+     "text": "Wetland",
+     "level": 1
+    },
+    {
+     "text": "Grassy swamp",
+     "level": 1
+    },
+    {
+     "text": "Birds nest",
+     "level": 2
+    },
+    {
+     "text": "Reeds sway",
+     "level": 2
+    },
+    {
+     "text": "Soggy ground",
+     "level": 3
+    },
+    {
+     "text": "Tall reeds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Swamp",
+    "Bog",
+    "Meadow"
+   ]
+  },
+  {
+   "word": "Bog",
+   "hints": [
+    {
+     "text": "Wetland",
+     "level": 1
+    },
+    {
+     "text": "Peat land",
+     "level": 1
+    },
+    {
+     "text": "Ancient preserved finds",
+     "level": 2
+    },
+    {
+     "text": "Cranberries grow",
+     "level": 2
+    },
+    {
+     "text": "Spongy moss",
+     "level": 3
+    },
+    {
+     "text": "Acidic water",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Marsh",
+    "Swamp",
+    "Fen"
+   ]
+  },
+  {
+   "word": "Dune",
+   "hints": [
+    {
+     "text": "Sand hill",
+     "level": 1
+    },
+    {
+     "text": "Desert feature",
+     "level": 1
+    },
+    {
+     "text": "Sandboarding",
+     "level": 2
+    },
+    {
+     "text": "Shifts with wind",
+     "level": 2
+    },
+    {
+     "text": "Rippled sand",
+     "level": 3
+    },
+    {
+     "text": "Curved crest",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hill",
+    "Beach",
+    "Ridge"
+   ]
+  },
+  {
+   "word": "Crater",
+   "hints": [
+    {
+     "text": "Landform",
+     "level": 1
+    },
+    {
+     "text": "Impact hole",
+     "level": 1
+    },
+    {
+     "text": "Meteor strikes",
+     "level": 2
+    },
+    {
+     "text": "Moon surface",
+     "level": 2
+    },
+    {
+     "text": "Round bowl",
+     "level": 3
+    },
+    {
+     "text": "Raised rim",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Volcano",
+    "Pit",
+    "Canyon"
+   ]
+  },
+  {
+   "word": "Fossil",
+   "hints": [
+    {
+     "text": "Ancient remains",
+     "level": 1
+    },
+    {
+     "text": "Preserved life",
+     "level": 1
+    },
+    {
+     "text": "Dinosaur bones",
+     "level": 2
+    },
+    {
+     "text": "Museum displays",
+     "level": 2
+    },
+    {
+     "text": "Imprint in rock",
+     "level": 3
+    },
+    {
+     "text": "Millions of years",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Skeleton",
+    "Amber",
+    "Shell"
+   ]
+  },
+  {
+   "word": "Amber",
+   "hints": [
+    {
+     "text": "Fossil resin",
+     "level": 1
+    },
+    {
+     "text": "Golden gem",
+     "level": 1
+    },
+    {
+     "text": "Insects trapped",
+     "level": 2
+    },
+    {
+     "text": "Jewelry",
+     "level": 2
+    },
+    {
+     "text": "Honey colored",
+     "level": 3
+    },
+    {
+     "text": "Translucent",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fossil",
+    "Crystal",
+    "Pearl"
+   ]
+  },
+  {
+   "word": "Crystal",
+   "hints": [
+    {
+     "text": "Mineral formation",
+     "level": 1
+    },
+    {
+     "text": "Shiny stone",
+     "level": 1
+    },
+    {
+     "text": "Healing claims",
+     "level": 2
+    },
+    {
+     "text": "Geode centers",
+     "level": 2
+    },
+    {
+     "text": "Sharp facets",
+     "level": 3
+    },
+    {
+     "text": "Clear and glinting",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Diamond",
+    "Glass",
+    "Ice"
+   ]
+  },
+  {
+   "word": "Diamond",
+   "hints": [
+    {
+     "text": "Gemstone",
+     "level": 1
+    },
+    {
+     "text": "Precious stone",
+     "level": 1
+    },
+    {
+     "text": "Engagement rings",
+     "level": 2
+    },
+    {
+     "text": "Hardest substance",
+     "level": 2
+    },
+    {
+     "text": "Sparkly facets",
+     "level": 3
+    },
+    {
+     "text": "Made from carbon",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ruby",
+    "Crystal",
+    "Emerald"
+   ]
+  },
+  {
+   "word": "Pearl",
+   "hints": [
+    {
+     "text": "Gem",
+     "level": 1
+    },
+    {
+     "text": "Oyster treasure",
+     "level": 1
+    },
+    {
+     "text": "Necklaces",
+     "level": 2
+    },
+    {
+     "text": "Divers search",
+     "level": 2
+    },
+    {
+     "text": "Round and white",
+     "level": 3
+    },
+    {
+     "text": "Lustrous",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Diamond",
+    "Shell",
+    "Bead"
+   ]
+  },
+  {
+   "word": "Gold",
+   "hints": [
+    {
+     "text": "Precious metal",
+     "level": 1
+    },
+    {
+     "text": "Valuable element",
+     "level": 1
+    },
+    {
+     "text": "Medals and jewelry",
+     "level": 2
+    },
+    {
+     "text": "Prospectors rush",
+     "level": 2
+    },
+    {
+     "text": "Shiny yellow",
+     "level": 3
+    },
+    {
+     "text": "Does not rust",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Silver",
+    "Bronze",
+    "Copper"
+   ]
+  },
+  {
+   "word": "Spider web",
+   "hints": [
+    {
+     "text": "Silk trap",
+     "level": 1
+    },
+    {
+     "text": "Natural net",
+     "level": 1
+    },
+    {
+     "text": "Catches flies",
+     "level": 2
+    },
+    {
+     "text": "Halloween decor",
+     "level": 2
+    },
+    {
+     "text": "Sticky threads",
+     "level": 3
+    },
+    {
+     "text": "Dew covered",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cocoon",
+    "Net",
+    "Nest"
+   ]
+  },
+  {
+   "word": "Nest",
+   "hints": [
+    {
+     "text": "Bird home",
+     "level": 1
+    },
+    {
+     "text": "Animal shelter",
+     "level": 1
+    },
+    {
+     "text": "Eggs hatch",
+     "level": 2
+    },
+    {
+     "text": "Built in trees",
+     "level": 2
+    },
+    {
+     "text": "Woven twigs",
+     "level": 3
+    },
+    {
+     "text": "Cup shaped",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Burrow",
+    "Hive",
+    "Den"
+   ]
+  },
+  {
+   "word": "Beehive",
+   "hints": [
+    {
+     "text": "Insect home",
+     "level": 1
+    },
+    {
+     "text": "Honey factory",
+     "level": 1
+    },
+    {
+     "text": "Buzzing colony",
+     "level": 2
+    },
+    {
+     "text": "Beekeepers",
+     "level": 2
+    },
+    {
+     "text": "Hexagon cells",
+     "level": 3
+    },
+    {
+     "text": "Wax combs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nest",
+    "Anthill",
+    "Wasp nest"
+   ]
+  },
+  {
+   "word": "Anthill",
+   "hints": [
+    {
+     "text": "Insect home",
+     "level": 1
+    },
+    {
+     "text": "Colony mound",
+     "level": 1
+    },
+    {
+     "text": "Tunnels underground",
+     "level": 2
+    },
+    {
+     "text": "Busy workers",
+     "level": 2
+    },
+    {
+     "text": "Mound of dirt",
+     "level": 3
+    },
+    {
+     "text": "Tiny entrance",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Beehive",
+    "Molehill",
+    "Termite mound"
+   ]
+  },
+  {
+   "word": "Burrow",
+   "hints": [
+    {
+     "text": "Animal home",
+     "level": 1
+    },
+    {
+     "text": "Underground hole",
+     "level": 1
+    },
+    {
+     "text": "Rabbits live there",
+     "level": 2
+    },
+    {
+     "text": "Dug by moles",
+     "level": 2
+    },
+    {
+     "text": "Tunnel entrance",
+     "level": 3
+    },
+    {
+     "text": "Dark and cosy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nest",
+    "Den",
+    "Cave"
+   ]
+  },
+  {
+   "word": "Den",
+   "hints": [
+    {
+     "text": "Animal home",
+     "level": 1
+    },
+    {
+     "text": "Lair",
+     "level": 1
+    },
+    {
+     "text": "Bears hibernate",
+     "level": 2
+    },
+    {
+     "text": "Fox cubs",
+     "level": 2
+    },
+    {
+     "text": "Hidden hollow",
+     "level": 3
+    },
+    {
+     "text": "Rocky shelter",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Burrow",
+    "Nest",
+    "Cave"
+   ]
+  }
+ ]
+}

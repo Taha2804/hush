@@ -1,0 +1,5208 @@
+{
+ "id": "countries",
+ "name": "Countries",
+ "words": [
+  {
+   "word": "India",
+   "hints": [
+    {
+     "text": "Asian nation",
+     "level": 1
+    },
+    {
+     "text": "Huge population",
+     "level": 1
+    },
+    {
+     "text": "Cricket crazy",
+     "level": 2
+    },
+    {
+     "text": "Land of spices",
+     "level": 2
+    },
+    {
+     "text": "Taj mahal home",
+     "level": 3
+    },
+    {
+     "text": "Saris and curries",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pakistan",
+    "Nepal",
+    "Bangladesh"
+   ]
+  },
+  {
+   "word": "China",
+   "hints": [
+    {
+     "text": "Asian nation",
+     "level": 1
+    },
+    {
+     "text": "Most populous",
+     "level": 1
+    },
+    {
+     "text": "Ancient dynasties",
+     "level": 2
+    },
+    {
+     "text": "Invented paper",
+     "level": 2
+    },
+    {
+     "text": "Great wall home",
+     "level": 3
+    },
+    {
+     "text": "Giant pandas",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Japan",
+    "Korea",
+    "Mongolia"
+   ]
+  },
+  {
+   "word": "Japan",
+   "hints": [
+    {
+     "text": "Island nation",
+     "level": 1
+    },
+    {
+     "text": "Asian country",
+     "level": 1
+    },
+    {
+     "text": "Bullet trains",
+     "level": 2
+    },
+    {
+     "text": "Cherry blossoms",
+     "level": 2
+    },
+    {
+     "text": "Sushi and samurai",
+     "level": 3
+    },
+    {
+     "text": "Rising sun flag",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "China",
+    "Korea",
+    "Taiwan"
+   ]
+  },
+  {
+   "word": "France",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Romantic country",
+     "level": 1
+    },
+    {
+     "text": "Famous for cuisine",
+     "level": 2
+    },
+    {
+     "text": "Fashion capital home",
+     "level": 2
+    },
+    {
+     "text": "Eiffel tower",
+     "level": 3
+    },
+    {
+     "text": "Croissants and baguettes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Italy",
+    "Belgium",
+    "Spain"
+   ]
+  },
+  {
+   "word": "Italy",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Mediterranean country",
+     "level": 1
+    },
+    {
+     "text": "Pasta and pizza",
+     "level": 2
+    },
+    {
+     "text": "Ancient empire",
+     "level": 2
+    },
+    {
+     "text": "Boot shaped",
+     "level": 3
+    },
+    {
+     "text": "Leaning tower",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Greece",
+    "Spain",
+    "France"
+   ]
+  },
+  {
+   "word": "Spain",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Sunny country",
+     "level": 1
+    },
+    {
+     "text": "Flamenco dancing",
+     "level": 2
+    },
+    {
+     "text": "Afternoon siesta",
+     "level": 2
+    },
+    {
+     "text": "Paella and tapas",
+     "level": 3
+    },
+    {
+     "text": "Bullfighting tradition",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Portugal",
+    "Mexico",
+    "Italy"
+   ]
+  },
+  {
+   "word": "Germany",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Industrial country",
+     "level": 1
+    },
+    {
+     "text": "Famous for cars",
+     "level": 2
+    },
+    {
+     "text": "Oktoberfest home",
+     "level": 2
+    },
+    {
+     "text": "Pretzels and sausages",
+     "level": 3
+    },
+    {
+     "text": "Autobahn highways",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Austria",
+    "Switzerland",
+    "Netherlands"
+   ]
+  },
+  {
+   "word": "Brazil",
+   "hints": [
+    {
+     "text": "South american nation",
+     "level": 1
+    },
+    {
+     "text": "Huge country",
+     "level": 1
+    },
+    {
+     "text": "Football legends",
+     "level": 2
+    },
+    {
+     "text": "Carnival parades",
+     "level": 2
+    },
+    {
+     "text": "Amazon rainforest",
+     "level": 3
+    },
+    {
+     "text": "Speaks portuguese",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Argentina",
+    "Portugal",
+    "Colombia"
+   ]
+  },
+  {
+   "word": "Mexico",
+   "hints": [
+    {
+     "text": "North american nation",
+     "level": 1
+    },
+    {
+     "text": "Latin country",
+     "level": 1
+    },
+    {
+     "text": "Tacos and burritos",
+     "level": 2
+    },
+    {
+     "text": "Day of the dead",
+     "level": 2
+    },
+    {
+     "text": "Ancient pyramids",
+     "level": 3
+    },
+    {
+     "text": "Sombreros and mariachi",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spain",
+    "Brazil",
+    "Colombia"
+   ]
+  },
+  {
+   "word": "Canada",
+   "hints": [
+    {
+     "text": "North american nation",
+     "level": 1
+    },
+    {
+     "text": "Cold country",
+     "level": 1
+    },
+    {
+     "text": "Very polite people",
+     "level": 2
+    },
+    {
+     "text": "Hockey crazy",
+     "level": 2
+    },
+    {
+     "text": "Maple leaf flag",
+     "level": 3
+    },
+    {
+     "text": "Moose and mounties",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Alaska",
+    "Norway",
+    "Sweden"
+   ]
+  },
+  {
+   "word": "Australia",
+   "hints": [
+    {
+     "text": "Island continent",
+     "level": 1
+    },
+    {
+     "text": "Southern nation",
+     "level": 1
+    },
+    {
+     "text": "Kangaroos and koalas",
+     "level": 2
+    },
+    {
+     "text": "Outback desert",
+     "level": 2
+    },
+    {
+     "text": "Opera house",
+     "level": 3
+    },
+    {
+     "text": "Barrier reef",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "New zealand",
+    "Fiji",
+    "Indonesia"
+   ]
+  },
+  {
+   "word": "Russia",
+   "hints": [
+    {
+     "text": "Huge nation",
+     "level": 1
+    },
+    {
+     "text": "Eurasian country",
+     "level": 1
+    },
+    {
+     "text": "Freezing winters",
+     "level": 2
+    },
+    {
+     "text": "Ballet tradition",
+     "level": 2
+    },
+    {
+     "text": "Nesting dolls",
+     "level": 3
+    },
+    {
+     "text": "Onion domes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ukraine",
+    "Kazakhstan",
+    "Finland"
+   ]
+  },
+  {
+   "word": "Egypt",
+   "hints": [
+    {
+     "text": "African nation",
+     "level": 1
+    },
+    {
+     "text": "Desert country",
+     "level": 1
+    },
+    {
+     "text": "Ancient pharaohs",
+     "level": 2
+    },
+    {
+     "text": "Hieroglyphics",
+     "level": 2
+    },
+    {
+     "text": "Pyramids and sphinx",
+     "level": 3
+    },
+    {
+     "text": "Along the nile",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Morocco",
+    "Jordan",
+    "Sudan"
+   ]
+  },
+  {
+   "word": "Greece",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Ancient civilization",
+     "level": 1
+    },
+    {
+     "text": "Birthplace of democracy",
+     "level": 2
+    },
+    {
+     "text": "Olympic origins",
+     "level": 2
+    },
+    {
+     "text": "White and blue houses",
+     "level": 3
+    },
+    {
+     "text": "Island hopping",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Italy",
+    "Turkey",
+    "Cyprus"
+   ]
+  },
+  {
+   "word": "Turkey",
+   "hints": [
+    {
+     "text": "Transcontinental nation",
+     "level": 1
+    },
+    {
+     "text": "Bridge country",
+     "level": 1
+    },
+    {
+     "text": "Grand bazaars",
+     "level": 2
+    },
+    {
+     "text": "Strong coffee",
+     "level": 2
+    },
+    {
+     "text": "Hot air balloons",
+     "level": 3
+    },
+    {
+     "text": "Kebabs and delight",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Greece",
+    "Iran",
+    "Egypt"
+   ]
+  },
+  {
+   "word": "Thailand",
+   "hints": [
+    {
+     "text": "Asian nation",
+     "level": 1
+    },
+    {
+     "text": "Tropical country",
+     "level": 1
+    },
+    {
+     "text": "Smiling people",
+     "level": 2
+    },
+    {
+     "text": "Street food heaven",
+     "level": 2
+    },
+    {
+     "text": "Tuk tuks",
+     "level": 3
+    },
+    {
+     "text": "Golden temples",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Vietnam",
+    "Cambodia",
+    "Laos"
+   ]
+  },
+  {
+   "word": "Vietnam",
+   "hints": [
+    {
+     "text": "Asian nation",
+     "level": 1
+    },
+    {
+     "text": "Long country",
+     "level": 1
+    },
+    {
+     "text": "Rice paddies",
+     "level": 2
+    },
+    {
+     "text": "Motorbike streets",
+     "level": 2
+    },
+    {
+     "text": "Conical hats",
+     "level": 3
+    },
+    {
+     "text": "Pho noodles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Thailand",
+    "Cambodia",
+    "Laos"
+   ]
+  },
+  {
+   "word": "Indonesia",
+   "hints": [
+    {
+     "text": "Island nation",
+     "level": 1
+    },
+    {
+     "text": "Asian archipelago",
+     "level": 1
+    },
+    {
+     "text": "Thousands of islands",
+     "level": 2
+    },
+    {
+     "text": "Volcanic land",
+     "level": 2
+    },
+    {
+     "text": "Bali beaches",
+     "level": 3
+    },
+    {
+     "text": "Komodo dragons",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Malaysia",
+    "Philippines",
+    "Thailand"
+   ]
+  },
+  {
+   "word": "Philippines",
+   "hints": [
+    {
+     "text": "Island nation",
+     "level": 1
+    },
+    {
+     "text": "Asian archipelago",
+     "level": 1
+    },
+    {
+     "text": "Thousands of islands",
+     "level": 2
+    },
+    {
+     "text": "Karaoke lovers",
+     "level": 2
+    },
+    {
+     "text": "Jeepney rides",
+     "level": 3
+    },
+    {
+     "text": "Tropical beaches",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Indonesia",
+    "Malaysia",
+    "Vietnam"
+   ]
+  },
+  {
+   "word": "Nepal",
+   "hints": [
+    {
+     "text": "Mountain nation",
+     "level": 1
+    },
+    {
+     "text": "Himalayan country",
+     "level": 1
+    },
+    {
+     "text": "Trekking paradise",
+     "level": 2
+    },
+    {
+     "text": "Landlocked",
+     "level": 2
+    },
+    {
+     "text": "Highest peak home",
+     "level": 3
+    },
+    {
+     "text": "Prayer flags",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bhutan",
+    "Tibet",
+    "India"
+   ]
+  },
+  {
+   "word": "Pakistan",
+   "hints": [
+    {
+     "text": "Asian nation",
+     "level": 1
+    },
+    {
+     "text": "South asian country",
+     "level": 1
+    },
+    {
+     "text": "Cricket rivalry",
+     "level": 2
+    },
+    {
+     "text": "Mountain ranges",
+     "level": 2
+    },
+    {
+     "text": "Green crescent flag",
+     "level": 3
+    },
+    {
+     "text": "Biryani lovers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "India",
+    "Afghanistan",
+    "Iran"
+   ]
+  },
+  {
+   "word": "Bangladesh",
+   "hints": [
+    {
+     "text": "South asian nation",
+     "level": 1
+    },
+    {
+     "text": "River country",
+     "level": 1
+    },
+    {
+     "text": "Densely populated",
+     "level": 2
+    },
+    {
+     "text": "Monsoon floods",
+     "level": 2
+    },
+    {
+     "text": "Bengal tigers",
+     "level": 3
+    },
+    {
+     "text": "Green and red flag",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "India",
+    "Myanmar",
+    "Nepal"
+   ]
+  },
+  {
+   "word": "Sri lanka",
+   "hints": [
+    {
+     "text": "Island nation",
+     "level": 1
+    },
+    {
+     "text": "South asian country",
+     "level": 1
+    },
+    {
+     "text": "Famous for tea",
+     "level": 2
+    },
+    {
+     "text": "Teardrop island",
+     "level": 2
+    },
+    {
+     "text": "Elephants and temples",
+     "level": 3
+    },
+    {
+     "text": "Golden beaches",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Maldives",
+    "India",
+    "Thailand"
+   ]
+  },
+  {
+   "word": "Maldives",
+   "hints": [
+    {
+     "text": "Island nation",
+     "level": 1
+    },
+    {
+     "text": "Tropical paradise",
+     "level": 1
+    },
+    {
+     "text": "Honeymoon destination",
+     "level": 2
+    },
+    {
+     "text": "Low lying islands",
+     "level": 2
+    },
+    {
+     "text": "Overwater villas",
+     "level": 3
+    },
+    {
+     "text": "Coral atolls",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Seychelles",
+    "Mauritius",
+    "Sri lanka"
+   ]
+  },
+  {
+   "word": "South korea",
+   "hints": [
+    {
+     "text": "Asian nation",
+     "level": 1
+    },
+    {
+     "text": "Peninsula country",
+     "level": 1
+    },
+    {
+     "text": "Pop music craze",
+     "level": 2
+    },
+    {
+     "text": "Tech giants",
+     "level": 2
+    },
+    {
+     "text": "Kimchi lovers",
+     "level": 3
+    },
+    {
+     "text": "Northern border tension",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Japan",
+    "China",
+    "Taiwan"
+   ]
+  },
+  {
+   "word": "North korea",
+   "hints": [
+    {
+     "text": "Asian nation",
+     "level": 1
+    },
+    {
+     "text": "Secretive country",
+     "level": 1
+    },
+    {
+     "text": "Very isolated",
+     "level": 2
+    },
+    {
+     "text": "Strict regime",
+     "level": 2
+    },
+    {
+     "text": "Military parades",
+     "level": 3
+    },
+    {
+     "text": "Divided peninsula",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cuba",
+    "China",
+    "Mongolia"
+   ]
+  },
+  {
+   "word": "Mongolia",
+   "hints": [
+    {
+     "text": "Asian nation",
+     "level": 1
+    },
+    {
+     "text": "Landlocked country",
+     "level": 1
+    },
+    {
+     "text": "Nomadic herders",
+     "level": 2
+    },
+    {
+     "text": "Vast steppes",
+     "level": 2
+    },
+    {
+     "text": "Gers or yurts",
+     "level": 3
+    },
+    {
+     "text": "Horseback culture",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kazakhstan",
+    "China",
+    "Tibet"
+   ]
+  },
+  {
+   "word": "Kazakhstan",
+   "hints": [
+    {
+     "text": "Central asian nation",
+     "level": 1
+    },
+    {
+     "text": "Steppe country",
+     "level": 1
+    },
+    {
+     "text": "Largest landlocked",
+     "level": 2
+    },
+    {
+     "text": "Space launch site",
+     "level": 2
+    },
+    {
+     "text": "Eagle hunters",
+     "level": 3
+    },
+    {
+     "text": "Vast grasslands",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mongolia",
+    "Uzbekistan",
+    "Russia"
+   ]
+  },
+  {
+   "word": "Iran",
+   "hints": [
+    {
+     "text": "Middle eastern nation",
+     "level": 1
+    },
+    {
+     "text": "Ancient persia",
+     "level": 1
+    },
+    {
+     "text": "Persian rugs",
+     "level": 2
+    },
+    {
+     "text": "Saffron producer",
+     "level": 2
+    },
+    {
+     "text": "Ancient ruins",
+     "level": 3
+    },
+    {
+     "text": "Poetry tradition",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Iraq",
+    "Turkey",
+    "Afghanistan"
+   ]
+  },
+  {
+   "word": "Iraq",
+   "hints": [
+    {
+     "text": "Middle eastern nation",
+     "level": 1
+    },
+    {
+     "text": "Ancient land",
+     "level": 1
+    },
+    {
+     "text": "Cradle of civilization",
+     "level": 2
+    },
+    {
+     "text": "Two great rivers",
+     "level": 2
+    },
+    {
+     "text": "Ancient babylon",
+     "level": 3
+    },
+    {
+     "text": "Date palms",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Iran",
+    "Syria",
+    "Jordan"
+   ]
+  },
+  {
+   "word": "Saudi arabia",
+   "hints": [
+    {
+     "text": "Middle eastern nation",
+     "level": 1
+    },
+    {
+     "text": "Desert kingdom",
+     "level": 1
+    },
+    {
+     "text": "Oil rich",
+     "level": 2
+    },
+    {
+     "text": "Holy cities",
+     "level": 2
+    },
+    {
+     "text": "Vast sand dunes",
+     "level": 3
+    },
+    {
+     "text": "Green flag",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Oman",
+    "Yemen",
+    "Kuwait"
+   ]
+  },
+  {
+   "word": "Israel",
+   "hints": [
+    {
+     "text": "Middle eastern nation",
+     "level": 1
+    },
+    {
+     "text": "Small country",
+     "level": 1
+    },
+    {
+     "text": "Ancient holy land",
+     "level": 2
+    },
+    {
+     "text": "Tech hub",
+     "level": 2
+    },
+    {
+     "text": "Dead sea floating",
+     "level": 3
+    },
+    {
+     "text": "Desert farming",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jordan",
+    "Lebanon",
+    "Cyprus"
+   ]
+  },
+  {
+   "word": "Jordan",
+   "hints": [
+    {
+     "text": "Middle eastern nation",
+     "level": 1
+    },
+    {
+     "text": "Desert kingdom",
+     "level": 1
+    },
+    {
+     "text": "Ancient rose city",
+     "level": 2
+    },
+    {
+     "text": "Bedouin culture",
+     "level": 2
+    },
+    {
+     "text": "Floating in salty sea",
+     "level": 3
+    },
+    {
+     "text": "Red rock canyons",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Israel",
+    "Egypt",
+    "Lebanon"
+   ]
+  },
+  {
+   "word": "Morocco",
+   "hints": [
+    {
+     "text": "North african nation",
+     "level": 1
+    },
+    {
+     "text": "Desert country",
+     "level": 1
+    },
+    {
+     "text": "Colorful souks",
+     "level": 2
+    },
+    {
+     "text": "Mint tea culture",
+     "level": 2
+    },
+    {
+     "text": "Blue painted town",
+     "level": 3
+    },
+    {
+     "text": "Tagine dishes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Egypt",
+    "Tunisia",
+    "Algeria"
+   ]
+  },
+  {
+   "word": "Kenya",
+   "hints": [
+    {
+     "text": "East african nation",
+     "level": 1
+    },
+    {
+     "text": "Safari country",
+     "level": 1
+    },
+    {
+     "text": "Marathon runners",
+     "level": 2
+    },
+    {
+     "text": "Great migration",
+     "level": 2
+    },
+    {
+     "text": "Maasai warriors",
+     "level": 3
+    },
+    {
+     "text": "Savanna wildlife",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tanzania",
+    "Uganda",
+    "Ethiopia"
+   ]
+  },
+  {
+   "word": "Nigeria",
+   "hints": [
+    {
+     "text": "West african nation",
+     "level": 1
+    },
+    {
+     "text": "Populous country",
+     "level": 1
+    },
+    {
+     "text": "Movie industry giant",
+     "level": 2
+    },
+    {
+     "text": "Oil producer",
+     "level": 2
+    },
+    {
+     "text": "Jollof rice",
+     "level": 3
+    },
+    {
+     "text": "Afrobeats music",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ghana",
+    "Cameroon",
+    "Kenya"
+   ]
+  },
+  {
+   "word": "South africa",
+   "hints": [
+    {
+     "text": "Continental tip nation",
+     "level": 1
+    },
+    {
+     "text": "Rainbow nation",
+     "level": 1
+    },
+    {
+     "text": "Three capital cities",
+     "level": 2
+    },
+    {
+     "text": "Safari parks",
+     "level": 2
+    },
+    {
+     "text": "Table mountain",
+     "level": 3
+    },
+    {
+     "text": "Penguins on beaches",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Namibia",
+    "Botswana",
+    "Zimbabwe"
+   ]
+  },
+  {
+   "word": "Ethiopia",
+   "hints": [
+    {
+     "text": "East african nation",
+     "level": 1
+    },
+    {
+     "text": "Ancient country",
+     "level": 1
+    },
+    {
+     "text": "Birthplace of coffee",
+     "level": 2
+    },
+    {
+     "text": "Never colonized",
+     "level": 2
+    },
+    {
+     "text": "Injera bread",
+     "level": 3
+    },
+    {
+     "text": "Unique calendar",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kenya",
+    "Eritrea",
+    "Somalia"
+   ]
+  },
+  {
+   "word": "Ghana",
+   "hints": [
+    {
+     "text": "West african nation",
+     "level": 1
+    },
+    {
+     "text": "Golden coast",
+     "level": 1
+    },
+    {
+     "text": "Cocoa producer",
+     "level": 2
+    },
+    {
+     "text": "Friendly people",
+     "level": 2
+    },
+    {
+     "text": "Kente cloth",
+     "level": 3
+    },
+    {
+     "text": "Jollof debates",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nigeria",
+    "Ivory coast",
+    "Togo"
+   ]
+  },
+  {
+   "word": "Tanzania",
+   "hints": [
+    {
+     "text": "East african nation",
+     "level": 1
+    },
+    {
+     "text": "Safari country",
+     "level": 1
+    },
+    {
+     "text": "Tallest african mountain",
+     "level": 2
+    },
+    {
+     "text": "Great migration",
+     "level": 2
+    },
+    {
+     "text": "Zanzibar spices",
+     "level": 3
+    },
+    {
+     "text": "Serengeti plains",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kenya",
+    "Uganda",
+    "Mozambique"
+   ]
+  },
+  {
+   "word": "Madagascar",
+   "hints": [
+    {
+     "text": "Island nation",
+     "level": 1
+    },
+    {
+     "text": "African island",
+     "level": 1
+    },
+    {
+     "text": "Unique wildlife",
+     "level": 2
+    },
+    {
+     "text": "Vanilla producer",
+     "level": 2
+    },
+    {
+     "text": "Lemurs everywhere",
+     "level": 3
+    },
+    {
+     "text": "Baobab trees",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mauritius",
+    "Mozambique",
+    "Comoros"
+   ]
+  },
+  {
+   "word": "Argentina",
+   "hints": [
+    {
+     "text": "South american nation",
+     "level": 1
+    },
+    {
+     "text": "Southern country",
+     "level": 1
+    },
+    {
+     "text": "Tango dancing",
+     "level": 2
+    },
+    {
+     "text": "Football legends",
+     "level": 2
+    },
+    {
+     "text": "Beef and asado",
+     "level": 3
+    },
+    {
+     "text": "Glaciers in south",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chile",
+    "Uruguay",
+    "Brazil"
+   ]
+  },
+  {
+   "word": "Chile",
+   "hints": [
+    {
+     "text": "South american nation",
+     "level": 1
+    },
+    {
+     "text": "Long thin country",
+     "level": 1
+    },
+    {
+     "text": "Desert to glaciers",
+     "level": 2
+    },
+    {
+     "text": "Vineyard region",
+     "level": 2
+    },
+    {
+     "text": "Easter island statues",
+     "level": 3
+    },
+    {
+     "text": "Andes border",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Argentina",
+    "Peru",
+    "Bolivia"
+   ]
+  },
+  {
+   "word": "Peru",
+   "hints": [
+    {
+     "text": "South american nation",
+     "level": 1
+    },
+    {
+     "text": "Andean country",
+     "level": 1
+    },
+    {
+     "text": "Ancient incas",
+     "level": 2
+    },
+    {
+     "text": "Llamas and alpacas",
+     "level": 2
+    },
+    {
+     "text": "Mountain citadel ruins",
+     "level": 3
+    },
+    {
+     "text": "Ceviche dish",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bolivia",
+    "Ecuador",
+    "Chile"
+   ]
+  },
+  {
+   "word": "Colombia",
+   "hints": [
+    {
+     "text": "South american nation",
+     "level": 1
+    },
+    {
+     "text": "Tropical country",
+     "level": 1
+    },
+    {
+     "text": "Coffee growers",
+     "level": 2
+    },
+    {
+     "text": "Emerald mines",
+     "level": 2
+    },
+    {
+     "text": "Salsa dancing",
+     "level": 3
+    },
+    {
+     "text": "Two coastlines",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Venezuela",
+    "Ecuador",
+    "Peru"
+   ]
+  },
+  {
+   "word": "Venezuela",
+   "hints": [
+    {
+     "text": "South american nation",
+     "level": 1
+    },
+    {
+     "text": "Oil country",
+     "level": 1
+    },
+    {
+     "text": "Beauty pageant winners",
+     "level": 2
+    },
+    {
+     "text": "Tallest waterfall",
+     "level": 2
+    },
+    {
+     "text": "Arepas",
+     "level": 3
+    },
+    {
+     "text": "Caribbean coast",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Colombia",
+    "Ecuador",
+    "Guyana"
+   ]
+  },
+  {
+   "word": "Cuba",
+   "hints": [
+    {
+     "text": "Caribbean nation",
+     "level": 1
+    },
+    {
+     "text": "Island country",
+     "level": 1
+    },
+    {
+     "text": "Classic old cars",
+     "level": 2
+    },
+    {
+     "text": "Salsa music",
+     "level": 2
+    },
+    {
+     "text": "Famous cigars",
+     "level": 3
+    },
+    {
+     "text": "Colorful havana",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jamaica",
+    "Puerto rico",
+    "Haiti"
+   ]
+  },
+  {
+   "word": "Jamaica",
+   "hints": [
+    {
+     "text": "Caribbean nation",
+     "level": 1
+    },
+    {
+     "text": "Island country",
+     "level": 1
+    },
+    {
+     "text": "Reggae music",
+     "level": 2
+    },
+    {
+     "text": "Sprinting legends",
+     "level": 2
+    },
+    {
+     "text": "Jerk chicken",
+     "level": 3
+    },
+    {
+     "text": "Rasta colors",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cuba",
+    "Barbados",
+    "Bahamas"
+   ]
+  },
+  {
+   "word": "Ireland",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Emerald isle",
+     "level": 1
+    },
+    {
+     "text": "Lucky charms",
+     "level": 2
+    },
+    {
+     "text": "Pub culture",
+     "level": 2
+    },
+    {
+     "text": "Shamrocks",
+     "level": 3
+    },
+    {
+     "text": "Rolling green hills",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Scotland",
+    "Wales",
+    "Iceland"
+   ]
+  },
+  {
+   "word": "Scotland",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Northern territory",
+     "level": 1
+    },
+    {
+     "text": "Bagpipes",
+     "level": 2
+    },
+    {
+     "text": "Highland games",
+     "level": 2
+    },
+    {
+     "text": "Kilts and tartan",
+     "level": 3
+    },
+    {
+     "text": "Lake monster legend",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ireland",
+    "Wales",
+    "Norway"
+   ]
+  },
+  {
+   "word": "England",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Island country",
+     "level": 1
+    },
+    {
+     "text": "Royal family",
+     "level": 2
+    },
+    {
+     "text": "Afternoon tea",
+     "level": 2
+    },
+    {
+     "text": "Red phone boxes",
+     "level": 3
+    },
+    {
+     "text": "Rainy weather",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Scotland",
+    "Wales",
+    "Ireland"
+   ]
+  },
+  {
+   "word": "Wales",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Small country",
+     "level": 1
+    },
+    {
+     "text": "Rugby crazy",
+     "level": 2
+    },
+    {
+     "text": "Singing tradition",
+     "level": 2
+    },
+    {
+     "text": "Red dragon flag",
+     "level": 3
+    },
+    {
+     "text": "Many castles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Scotland",
+    "Ireland",
+    "England"
+   ]
+  },
+  {
+   "word": "Netherlands",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Low country",
+     "level": 1
+    },
+    {
+     "text": "Windmills and canals",
+     "level": 2
+    },
+    {
+     "text": "Bicycles everywhere",
+     "level": 2
+    },
+    {
+     "text": "Tulip fields",
+     "level": 3
+    },
+    {
+     "text": "Wooden clogs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Belgium",
+    "Denmark",
+    "Germany"
+   ]
+  },
+  {
+   "word": "Belgium",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Small country",
+     "level": 1
+    },
+    {
+     "text": "Waffles and chocolate",
+     "level": 2
+    },
+    {
+     "text": "Comic strip home",
+     "level": 2
+    },
+    {
+     "text": "Famous fries",
+     "level": 3
+    },
+    {
+     "text": "Peeing boy statue",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Netherlands",
+    "France",
+    "Luxembourg"
+   ]
+  },
+  {
+   "word": "Switzerland",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Alpine country",
+     "level": 1
+    },
+    {
+     "text": "Neutral country",
+     "level": 2
+    },
+    {
+     "text": "Banking hub",
+     "level": 2
+    },
+    {
+     "text": "Cheese with holes",
+     "level": 3
+    },
+    {
+     "text": "Precise watches",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Austria",
+    "Norway",
+    "Liechtenstein"
+   ]
+  },
+  {
+   "word": "Austria",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Alpine country",
+     "level": 1
+    },
+    {
+     "text": "Classical composers",
+     "level": 2
+    },
+    {
+     "text": "Ski resorts",
+     "level": 2
+    },
+    {
+     "text": "Waltzes and opera",
+     "level": 3
+    },
+    {
+     "text": "Schnitzel",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Switzerland",
+    "Germany",
+    "Hungary"
+   ]
+  },
+  {
+   "word": "Sweden",
+   "hints": [
+    {
+     "text": "Nordic nation",
+     "level": 1
+    },
+    {
+     "text": "Scandinavian country",
+     "level": 1
+    },
+    {
+     "text": "Flat pack furniture",
+     "level": 2
+    },
+    {
+     "text": "Pop music exports",
+     "level": 2
+    },
+    {
+     "text": "Meatballs",
+     "level": 3
+    },
+    {
+     "text": "Northern lights",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Norway",
+    "Finland",
+    "Denmark"
+   ]
+  },
+  {
+   "word": "Norway",
+   "hints": [
+    {
+     "text": "Nordic nation",
+     "level": 1
+    },
+    {
+     "text": "Scandinavian country",
+     "level": 1
+    },
+    {
+     "text": "Fjords",
+     "level": 2
+    },
+    {
+     "text": "Oil wealth",
+     "level": 2
+    },
+    {
+     "text": "Midnight sun",
+     "level": 3
+    },
+    {
+     "text": "Viking history",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sweden",
+    "Iceland",
+    "Denmark"
+   ]
+  },
+  {
+   "word": "Denmark",
+   "hints": [
+    {
+     "text": "Nordic nation",
+     "level": 1
+    },
+    {
+     "text": "Scandinavian country",
+     "level": 1
+    },
+    {
+     "text": "Happiest people",
+     "level": 2
+    },
+    {
+     "text": "Cycling culture",
+     "level": 2
+    },
+    {
+     "text": "Building bricks toy",
+     "level": 3
+    },
+    {
+     "text": "Little mermaid statue",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sweden",
+    "Norway",
+    "Netherlands"
+   ]
+  },
+  {
+   "word": "Finland",
+   "hints": [
+    {
+     "text": "Nordic nation",
+     "level": 1
+    },
+    {
+     "text": "Lakeland nation",
+     "level": 1
+    },
+    {
+     "text": "Saunas everywhere",
+     "level": 2
+    },
+    {
+     "text": "Great education",
+     "level": 2
+    },
+    {
+     "text": "Santa village",
+     "level": 3
+    },
+    {
+     "text": "Thousands of lakes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sweden",
+    "Estonia",
+    "Norway"
+   ]
+  },
+  {
+   "word": "Iceland",
+   "hints": [
+    {
+     "text": "Nordic nation",
+     "level": 1
+    },
+    {
+     "text": "Island country",
+     "level": 1
+    },
+    {
+     "text": "Volcanoes and glaciers",
+     "level": 2
+    },
+    {
+     "text": "Northern lights",
+     "level": 2
+    },
+    {
+     "text": "Geysers and hot springs",
+     "level": 3
+    },
+    {
+     "text": "Fire and ice",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Norway",
+    "Greenland",
+    "Ireland"
+   ]
+  },
+  {
+   "word": "Poland",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Central country",
+     "level": 1
+    },
+    {
+     "text": "Pierogi dumplings",
+     "level": 2
+    },
+    {
+     "text": "Rich history",
+     "level": 2
+    },
+    {
+     "text": "Famous composer home",
+     "level": 3
+    },
+    {
+     "text": "Salt mine",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Czechia",
+    "Ukraine",
+    "Hungary"
+   ]
+  },
+  {
+   "word": "Portugal",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Coastal country",
+     "level": 1
+    },
+    {
+     "text": "Explorer history",
+     "level": 2
+    },
+    {
+     "text": "Famous footballer home",
+     "level": 2
+    },
+    {
+     "text": "Custard tarts",
+     "level": 3
+    },
+    {
+     "text": "Fado music",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spain",
+    "Brazil",
+    "Italy"
+   ]
+  },
+  {
+   "word": "Ukraine",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Breadbasket country",
+     "level": 1
+    },
+    {
+     "text": "Sunflower fields",
+     "level": 2
+    },
+    {
+     "text": "Golden domes",
+     "level": 2
+    },
+    {
+     "text": "Borscht soup",
+     "level": 3
+    },
+    {
+     "text": "Blue and yellow flag",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Poland",
+    "Russia",
+    "Belarus"
+   ]
+  },
+  {
+   "word": "Hungary",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Central country",
+     "level": 1
+    },
+    {
+     "text": "Thermal baths",
+     "level": 2
+    },
+    {
+     "text": "Paprika lovers",
+     "level": 2
+    },
+    {
+     "text": "Goulash stew",
+     "level": 3
+    },
+    {
+     "text": "Danube river capital",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Austria",
+    "Poland",
+    "Romania"
+   ]
+  },
+  {
+   "word": "Czechia",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Central country",
+     "level": 1
+    },
+    {
+     "text": "Castles everywhere",
+     "level": 2
+    },
+    {
+     "text": "Fairytale capital",
+     "level": 2
+    },
+    {
+     "text": "Astronomical clock",
+     "level": 3
+    },
+    {
+     "text": "Puppet tradition",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Slovakia",
+    "Poland",
+    "Austria"
+   ]
+  },
+  {
+   "word": "Romania",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Eastern country",
+     "level": 1
+    },
+    {
+     "text": "Vampire legends",
+     "level": 2
+    },
+    {
+     "text": "Carpathian mountains",
+     "level": 2
+    },
+    {
+     "text": "Painted monasteries",
+     "level": 3
+    },
+    {
+     "text": "Castle tours",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bulgaria",
+    "Hungary",
+    "Moldova"
+   ]
+  },
+  {
+   "word": "Croatia",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Coastal country",
+     "level": 1
+    },
+    {
+     "text": "Island hopping",
+     "level": 2
+    },
+    {
+     "text": "Football finals",
+     "level": 2
+    },
+    {
+     "text": "Walled old town",
+     "level": 3
+    },
+    {
+     "text": "Dalmatian dogs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Slovenia",
+    "Serbia",
+    "Greece"
+   ]
+  },
+  {
+   "word": "Singapore",
+   "hints": [
+    {
+     "text": "City state",
+     "level": 1
+    },
+    {
+     "text": "Asian island",
+     "level": 1
+    },
+    {
+     "text": "Very clean",
+     "level": 2
+    },
+    {
+     "text": "Strict rules",
+     "level": 2
+    },
+    {
+     "text": "Lion city",
+     "level": 3
+    },
+    {
+     "text": "Hawker food",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Malaysia",
+    "Hong kong",
+    "Brunei"
+   ]
+  },
+  {
+   "word": "Malaysia",
+   "hints": [
+    {
+     "text": "Asian nation",
+     "level": 1
+    },
+    {
+     "text": "Tropical country",
+     "level": 1
+    },
+    {
+     "text": "Twin towers",
+     "level": 2
+    },
+    {
+     "text": "Diverse cultures",
+     "level": 2
+    },
+    {
+     "text": "Rainforests",
+     "level": 3
+    },
+    {
+     "text": "Nasi lemak",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Singapore",
+    "Indonesia",
+    "Thailand"
+   ]
+  },
+  {
+   "word": "New zealand",
+   "hints": [
+    {
+     "text": "Island nation",
+     "level": 1
+    },
+    {
+     "text": "Southern country",
+     "level": 1
+    },
+    {
+     "text": "Movie fantasy filming",
+     "level": 2
+    },
+    {
+     "text": "Rugby legends",
+     "level": 2
+    },
+    {
+     "text": "Kiwi birds",
+     "level": 3
+    },
+    {
+     "text": "More sheep than people",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Australia",
+    "Fiji",
+    "Tonga"
+   ]
+  },
+  {
+   "word": "Fiji",
+   "hints": [
+    {
+     "text": "Island nation",
+     "level": 1
+    },
+    {
+     "text": "Pacific country",
+     "level": 1
+    },
+    {
+     "text": "Tropical resorts",
+     "level": 2
+    },
+    {
+     "text": "Rugby sevens",
+     "level": 2
+    },
+    {
+     "text": "Coral reefs",
+     "level": 3
+    },
+    {
+     "text": "Bula greeting",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Samoa",
+    "Tonga",
+    "Vanuatu"
+   ]
+  },
+  {
+   "word": "Bhutan",
+   "hints": [
+    {
+     "text": "Himalayan nation",
+     "level": 1
+    },
+    {
+     "text": "Small kingdom",
+     "level": 1
+    },
+    {
+     "text": "Measures happiness",
+     "level": 2
+    },
+    {
+     "text": "Carbon negative",
+     "level": 2
+    },
+    {
+     "text": "Thunder dragon flag",
+     "level": 3
+    },
+    {
+     "text": "Cliff monasteries",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nepal",
+    "Tibet",
+    "Sikkim"
+   ]
+  },
+  {
+   "word": "Afghanistan",
+   "hints": [
+    {
+     "text": "Central asian nation",
+     "level": 1
+    },
+    {
+     "text": "Mountain country",
+     "level": 1
+    },
+    {
+     "text": "Ancient silk road",
+     "level": 2
+    },
+    {
+     "text": "Rugged terrain",
+     "level": 2
+    },
+    {
+     "text": "Kite flying",
+     "level": 3
+    },
+    {
+     "text": "Pomegranate fields",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pakistan",
+    "Iran",
+    "Tajikistan"
+   ]
+  },
+  {
+   "word": "Myanmar",
+   "hints": [
+    {
+     "text": "Southeast asian nation",
+     "level": 1
+    },
+    {
+     "text": "Golden land",
+     "level": 1
+    },
+    {
+     "text": "Thousands of pagodas",
+     "level": 2
+    },
+    {
+     "text": "Formerly burma",
+     "level": 2
+    },
+    {
+     "text": "Balloons over temples",
+     "level": 3
+    },
+    {
+     "text": "Longyi skirts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Thailand",
+    "Laos",
+    "Bangladesh"
+   ]
+  },
+  {
+   "word": "Cambodia",
+   "hints": [
+    {
+     "text": "Southeast asian nation",
+     "level": 1
+    },
+    {
+     "text": "Ancient kingdom",
+     "level": 1
+    },
+    {
+     "text": "Temple ruins",
+     "level": 2
+    },
+    {
+     "text": "River life",
+     "level": 2
+    },
+    {
+     "text": "Angkor temples",
+     "level": 3
+    },
+    {
+     "text": "Floating villages",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Thailand",
+    "Vietnam",
+    "Laos"
+   ]
+  },
+  {
+   "word": "Laos",
+   "hints": [
+    {
+     "text": "Southeast asian nation",
+     "level": 1
+    },
+    {
+     "text": "Landlocked country",
+     "level": 1
+    },
+    {
+     "text": "Mekong river",
+     "level": 2
+    },
+    {
+     "text": "Sticky rice",
+     "level": 2
+    },
+    {
+     "text": "Monk alms giving",
+     "level": 3
+    },
+    {
+     "text": "Waterfalls",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cambodia",
+    "Thailand",
+    "Vietnam"
+   ]
+  },
+  {
+   "word": "Taiwan",
+   "hints": [
+    {
+     "text": "Island nation",
+     "level": 1
+    },
+    {
+     "text": "Asian island",
+     "level": 1
+    },
+    {
+     "text": "Night markets",
+     "level": 2
+    },
+    {
+     "text": "Tech chips",
+     "level": 2
+    },
+    {
+     "text": "Bubble tea birthplace",
+     "level": 3
+    },
+    {
+     "text": "Tall tower",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Japan",
+    "Hong kong",
+    "Philippines"
+   ]
+  },
+  {
+   "word": "Qatar",
+   "hints": [
+    {
+     "text": "Gulf nation",
+     "level": 1
+    },
+    {
+     "text": "Desert country",
+     "level": 1
+    },
+    {
+     "text": "Very rich",
+     "level": 2
+    },
+    {
+     "text": "Hosted world cup",
+     "level": 2
+    },
+    {
+     "text": "Futuristic skyline",
+     "level": 3
+    },
+    {
+     "text": "Pearl diving history",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bahrain",
+    "Kuwait",
+    "Oman"
+   ]
+  },
+  {
+   "word": "Oman",
+   "hints": [
+    {
+     "text": "Gulf nation",
+     "level": 1
+    },
+    {
+     "text": "Desert country",
+     "level": 1
+    },
+    {
+     "text": "Frankincense trade",
+     "level": 2
+    },
+    {
+     "text": "Ancient forts",
+     "level": 2
+    },
+    {
+     "text": "Rugged mountains",
+     "level": 3
+    },
+    {
+     "text": "Dhow boats",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Yemen",
+    "Qatar",
+    "Bahrain"
+   ]
+  },
+  {
+   "word": "Kuwait",
+   "hints": [
+    {
+     "text": "Gulf nation",
+     "level": 1
+    },
+    {
+     "text": "Small country",
+     "level": 1
+    },
+    {
+     "text": "Oil rich",
+     "level": 2
+    },
+    {
+     "text": "Desert heat",
+     "level": 2
+    },
+    {
+     "text": "Iconic water towers",
+     "level": 3
+    },
+    {
+     "text": "Gulf coast",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Qatar",
+    "Bahrain",
+    "Oman"
+   ]
+  },
+  {
+   "word": "Lebanon",
+   "hints": [
+    {
+     "text": "Middle eastern nation",
+     "level": 1
+    },
+    {
+     "text": "Mediterranean country",
+     "level": 1
+    },
+    {
+     "text": "Cedar trees",
+     "level": 2
+    },
+    {
+     "text": "Mountain and sea",
+     "level": 2
+    },
+    {
+     "text": "Hummus and tabbouleh",
+     "level": 3
+    },
+    {
+     "text": "Ancient ports",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Syria",
+    "Jordan",
+    "Cyprus"
+   ]
+  },
+  {
+   "word": "Syria",
+   "hints": [
+    {
+     "text": "Middle eastern nation",
+     "level": 1
+    },
+    {
+     "text": "Ancient land",
+     "level": 1
+    },
+    {
+     "text": "Ancient trade cities",
+     "level": 2
+    },
+    {
+     "text": "Old souks",
+     "level": 2
+    },
+    {
+     "text": "Rose water",
+     "level": 3
+    },
+    {
+     "text": "Ancient columns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lebanon",
+    "Iraq",
+    "Jordan"
+   ]
+  },
+  {
+   "word": "Algeria",
+   "hints": [
+    {
+     "text": "North african nation",
+     "level": 1
+    },
+    {
+     "text": "Largest african country",
+     "level": 1
+    },
+    {
+     "text": "Sahara desert",
+     "level": 2
+    },
+    {
+     "text": "French colonial past",
+     "level": 2
+    },
+    {
+     "text": "Couscous dishes",
+     "level": 3
+    },
+    {
+     "text": "Green white flag",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Morocco",
+    "Tunisia",
+    "Libya"
+   ]
+  },
+  {
+   "word": "Tunisia",
+   "hints": [
+    {
+     "text": "North african nation",
+     "level": 1
+    },
+    {
+     "text": "Mediterranean country",
+     "level": 1
+    },
+    {
+     "text": "Desert movie sets",
+     "level": 2
+    },
+    {
+     "text": "Blue and white town",
+     "level": 2
+    },
+    {
+     "text": "Couscous",
+     "level": 3
+    },
+    {
+     "text": "Ancient carthage",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Morocco",
+    "Algeria",
+    "Libya"
+   ]
+  },
+  {
+   "word": "Libya",
+   "hints": [
+    {
+     "text": "North african nation",
+     "level": 1
+    },
+    {
+     "text": "Desert country",
+     "level": 1
+    },
+    {
+     "text": "Mostly sahara",
+     "level": 2
+    },
+    {
+     "text": "Oil rich",
+     "level": 2
+    },
+    {
+     "text": "Ancient ruins",
+     "level": 3
+    },
+    {
+     "text": "Mediterranean coast",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Egypt",
+    "Tunisia",
+    "Chad"
+   ]
+  },
+  {
+   "word": "Sudan",
+   "hints": [
+    {
+     "text": "African nation",
+     "level": 1
+    },
+    {
+     "text": "Nile country",
+     "level": 1
+    },
+    {
+     "text": "Many pyramids",
+     "level": 2
+    },
+    {
+     "text": "Desert land",
+     "level": 2
+    },
+    {
+     "text": "Two niles meet",
+     "level": 3
+    },
+    {
+     "text": "Hot climate",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Egypt",
+    "Chad",
+    "Ethiopia"
+   ]
+  },
+  {
+   "word": "Uganda",
+   "hints": [
+    {
+     "text": "East african nation",
+     "level": 1
+    },
+    {
+     "text": "Pearl of africa",
+     "level": 1
+    },
+    {
+     "text": "Mountain gorillas",
+     "level": 2
+    },
+    {
+     "text": "Source of the nile",
+     "level": 2
+    },
+    {
+     "text": "Lake victoria",
+     "level": 3
+    },
+    {
+     "text": "Crested crane",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kenya",
+    "Rwanda",
+    "Tanzania"
+   ]
+  },
+  {
+   "word": "Rwanda",
+   "hints": [
+    {
+     "text": "East african nation",
+     "level": 1
+    },
+    {
+     "text": "Land of hills",
+     "level": 1
+    },
+    {
+     "text": "Mountain gorillas",
+     "level": 2
+    },
+    {
+     "text": "Very clean",
+     "level": 2
+    },
+    {
+     "text": "Thousand hills",
+     "level": 3
+    },
+    {
+     "text": "Coffee farms",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Uganda",
+    "Burundi",
+    "Kenya"
+   ]
+  },
+  {
+   "word": "Zimbabwe",
+   "hints": [
+    {
+     "text": "Southern african nation",
+     "level": 1
+    },
+    {
+     "text": "Landlocked country",
+     "level": 1
+    },
+    {
+     "text": "Giant waterfall",
+     "level": 2
+    },
+    {
+     "text": "Ancient stone ruins",
+     "level": 2
+    },
+    {
+     "text": "Mighty falls",
+     "level": 3
+    },
+    {
+     "text": "Rich wildlife",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Zambia",
+    "Botswana",
+    "Mozambique"
+   ]
+  },
+  {
+   "word": "Zambia",
+   "hints": [
+    {
+     "text": "Southern african nation",
+     "level": 1
+    },
+    {
+     "text": "Landlocked country",
+     "level": 1
+    },
+    {
+     "text": "Shares giant falls",
+     "level": 2
+    },
+    {
+     "text": "Copper mining",
+     "level": 2
+    },
+    {
+     "text": "Walking safaris",
+     "level": 3
+    },
+    {
+     "text": "River rafting",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Zimbabwe",
+    "Malawi",
+    "Botswana"
+   ]
+  },
+  {
+   "word": "Botswana",
+   "hints": [
+    {
+     "text": "Southern african nation",
+     "level": 1
+    },
+    {
+     "text": "Safari country",
+     "level": 1
+    },
+    {
+     "text": "Elephant haven",
+     "level": 2
+    },
+    {
+     "text": "Diamond mines",
+     "level": 2
+    },
+    {
+     "text": "River delta",
+     "level": 3
+    },
+    {
+     "text": "Kalahari desert",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Namibia",
+    "Zimbabwe",
+    "Zambia"
+   ]
+  },
+  {
+   "word": "Namibia",
+   "hints": [
+    {
+     "text": "Southern african nation",
+     "level": 1
+    },
+    {
+     "text": "Desert country",
+     "level": 1
+    },
+    {
+     "text": "Tall red dunes",
+     "level": 2
+    },
+    {
+     "text": "Skeleton coast",
+     "level": 2
+    },
+    {
+     "text": "Desert elephants",
+     "level": 3
+    },
+    {
+     "text": "Oldest desert",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Botswana",
+    "Angola",
+    "South africa"
+   ]
+  },
+  {
+   "word": "Senegal",
+   "hints": [
+    {
+     "text": "West african nation",
+     "level": 1
+    },
+    {
+     "text": "Coastal country",
+     "level": 1
+    },
+    {
+     "text": "Pink lake",
+     "level": 2
+    },
+    {
+     "text": "Wrestling sport",
+     "level": 2
+    },
+    {
+     "text": "Colorful fabrics",
+     "level": 3
+    },
+    {
+     "text": "Thieboudienne dish",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gambia",
+    "Mali",
+    "Ghana"
+   ]
+  },
+  {
+   "word": "Cameroon",
+   "hints": [
+    {
+     "text": "Central african nation",
+     "level": 1
+    },
+    {
+     "text": "Diverse country",
+     "level": 1
+    },
+    {
+     "text": "Africa in miniature",
+     "level": 2
+    },
+    {
+     "text": "Football lions",
+     "level": 2
+    },
+    {
+     "text": "Rainforests and volcano",
+     "level": 3
+    },
+    {
+     "text": "Many languages",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nigeria",
+    "Gabon",
+    "Chad"
+   ]
+  },
+  {
+   "word": "Somalia",
+   "hints": [
+    {
+     "text": "East african nation",
+     "level": 1
+    },
+    {
+     "text": "Horn of africa",
+     "level": 1
+    },
+    {
+     "text": "Longest african coastline",
+     "level": 2
+    },
+    {
+     "text": "Camel herders",
+     "level": 2
+    },
+    {
+     "text": "Pirate history",
+     "level": 3
+    },
+    {
+     "text": "Arid land",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ethiopia",
+    "Kenya",
+    "Yemen"
+   ]
+  },
+  {
+   "word": "Ecuador",
+   "hints": [
+    {
+     "text": "South american nation",
+     "level": 1
+    },
+    {
+     "text": "Equator country",
+     "level": 1
+    },
+    {
+     "text": "Unique island wildlife",
+     "level": 2
+    },
+    {
+     "text": "Banana exporter",
+     "level": 2
+    },
+    {
+     "text": "Giant tortoises",
+     "level": 3
+    },
+    {
+     "text": "Volcano avenue",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Peru",
+    "Colombia",
+    "Bolivia"
+   ]
+  },
+  {
+   "word": "Bolivia",
+   "hints": [
+    {
+     "text": "South american nation",
+     "level": 1
+    },
+    {
+     "text": "Landlocked country",
+     "level": 1
+    },
+    {
+     "text": "Salt flats",
+     "level": 2
+    },
+    {
+     "text": "High altitude capital",
+     "level": 2
+    },
+    {
+     "text": "Llamas",
+     "level": 3
+    },
+    {
+     "text": "Bowler hats",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Peru",
+    "Paraguay",
+    "Chile"
+   ]
+  },
+  {
+   "word": "Uruguay",
+   "hints": [
+    {
+     "text": "South american nation",
+     "level": 1
+    },
+    {
+     "text": "Small country",
+     "level": 1
+    },
+    {
+     "text": "First world cup host",
+     "level": 2
+    },
+    {
+     "text": "Mate drinkers",
+     "level": 2
+    },
+    {
+     "text": "Beef lovers",
+     "level": 3
+    },
+    {
+     "text": "Beach resorts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Argentina",
+    "Paraguay",
+    "Brazil"
+   ]
+  },
+  {
+   "word": "Paraguay",
+   "hints": [
+    {
+     "text": "South american nation",
+     "level": 1
+    },
+    {
+     "text": "Landlocked country",
+     "level": 1
+    },
+    {
+     "text": "Huge dam",
+     "level": 2
+    },
+    {
+     "text": "Two languages",
+     "level": 2
+    },
+    {
+     "text": "Harp music",
+     "level": 3
+    },
+    {
+     "text": "Lace weaving",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Uruguay",
+    "Bolivia",
+    "Argentina"
+   ]
+  },
+  {
+   "word": "Panama",
+   "hints": [
+    {
+     "text": "Central american nation",
+     "level": 1
+    },
+    {
+     "text": "Isthmus country",
+     "level": 1
+    },
+    {
+     "text": "Famous canal",
+     "level": 2
+    },
+    {
+     "text": "Links two oceans",
+     "level": 2
+    },
+    {
+     "text": "Straw hats",
+     "level": 3
+    },
+    {
+     "text": "Rainforest",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Costa rica",
+    "Colombia",
+    "Nicaragua"
+   ]
+  },
+  {
+   "word": "Costa rica",
+   "hints": [
+    {
+     "text": "Central isthmus nation",
+     "level": 1
+    },
+    {
+     "text": "Green country",
+     "level": 1
+    },
+    {
+     "text": "No army",
+     "level": 2
+    },
+    {
+     "text": "Pura vida",
+     "level": 2
+    },
+    {
+     "text": "Cloud forests",
+     "level": 3
+    },
+    {
+     "text": "Sloths and toucans",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Panama",
+    "Nicaragua",
+    "Belize"
+   ]
+  },
+  {
+   "word": "Guatemala",
+   "hints": [
+    {
+     "text": "Central american nation",
+     "level": 1
+    },
+    {
+     "text": "Mayan country",
+     "level": 1
+    },
+    {
+     "text": "Mayan ruins",
+     "level": 2
+    },
+    {
+     "text": "Colorful textiles",
+     "level": 2
+    },
+    {
+     "text": "Volcano lakes",
+     "level": 3
+    },
+    {
+     "text": "Quetzal bird",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Honduras",
+    "Mexico",
+    "Belize"
+   ]
+  },
+  {
+   "word": "Honduras",
+   "hints": [
+    {
+     "text": "Central american nation",
+     "level": 1
+    },
+    {
+     "text": "Tropical country",
+     "level": 1
+    },
+    {
+     "text": "Mayan ruins",
+     "level": 2
+    },
+    {
+     "text": "Coral reef islands",
+     "level": 2
+    },
+    {
+     "text": "Banana plantations",
+     "level": 3
+    },
+    {
+     "text": "Rainforest",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Guatemala",
+    "Nicaragua",
+    "Belize"
+   ]
+  },
+  {
+   "word": "Haiti",
+   "hints": [
+    {
+     "text": "Caribbean nation",
+     "level": 1
+    },
+    {
+     "text": "Island country",
+     "level": 1
+    },
+    {
+     "text": "First black republic",
+     "level": 2
+    },
+    {
+     "text": "Vibrant art",
+     "level": 2
+    },
+    {
+     "text": "Shares an island",
+     "level": 3
+    },
+    {
+     "text": "Mountain land",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cuba",
+    "Jamaica",
+    "Dominica"
+   ]
+  },
+  {
+   "word": "Bahamas",
+   "hints": [
+    {
+     "text": "Caribbean nation",
+     "level": 1
+    },
+    {
+     "text": "Island chain",
+     "level": 1
+    },
+    {
+     "text": "Swimming pigs",
+     "level": 2
+    },
+    {
+     "text": "Clear water",
+     "level": 2
+    },
+    {
+     "text": "Pink sand beaches",
+     "level": 3
+    },
+    {
+     "text": "Coral reefs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jamaica",
+    "Bermuda",
+    "Cuba"
+   ]
+  },
+  {
+   "word": "Barbados",
+   "hints": [
+    {
+     "text": "Caribbean nation",
+     "level": 1
+    },
+    {
+     "text": "Island country",
+     "level": 1
+    },
+    {
+     "text": "Cricket lovers",
+     "level": 2
+    },
+    {
+     "text": "Pop star home",
+     "level": 2
+    },
+    {
+     "text": "Flying fish",
+     "level": 3
+    },
+    {
+     "text": "Sugarcane history",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jamaica",
+    "Trinidad",
+    "Bahamas"
+   ]
+  },
+  {
+   "word": "Belarus",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Landlocked country",
+     "level": 1
+    },
+    {
+     "text": "Ancient forests",
+     "level": 2
+    },
+    {
+     "text": "Bison reserve",
+     "level": 2
+    },
+    {
+     "text": "Red and green flag",
+     "level": 3
+    },
+    {
+     "text": "Flat lands",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ukraine",
+    "Poland",
+    "Lithuania"
+   ]
+  },
+  {
+   "word": "Lithuania",
+   "hints": [
+    {
+     "text": "Baltic nation",
+     "level": 1
+    },
+    {
+     "text": "European country",
+     "level": 1
+    },
+    {
+     "text": "Basketball crazy",
+     "level": 2
+    },
+    {
+     "text": "Hill of crosses",
+     "level": 2
+    },
+    {
+     "text": "Amber jewelry",
+     "level": 3
+    },
+    {
+     "text": "Baltic coast",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Latvia",
+    "Estonia",
+    "Poland"
+   ]
+  },
+  {
+   "word": "Latvia",
+   "hints": [
+    {
+     "text": "Baltic nation",
+     "level": 1
+    },
+    {
+     "text": "European country",
+     "level": 1
+    },
+    {
+     "text": "Art nouveau buildings",
+     "level": 2
+    },
+    {
+     "text": "Song festivals",
+     "level": 2
+    },
+    {
+     "text": "Amber coast",
+     "level": 3
+    },
+    {
+     "text": "Dense forests",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lithuania",
+    "Estonia",
+    "Finland"
+   ]
+  },
+  {
+   "word": "Estonia",
+   "hints": [
+    {
+     "text": "Baltic nation",
+     "level": 1
+    },
+    {
+     "text": "Digital country",
+     "level": 1
+    },
+    {
+     "text": "Online voting",
+     "level": 2
+    },
+    {
+     "text": "Startup hub",
+     "level": 2
+    },
+    {
+     "text": "Medieval old town",
+     "level": 3
+    },
+    {
+     "text": "Saunas",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Latvia",
+    "Finland",
+    "Lithuania"
+   ]
+  },
+  {
+   "word": "Slovakia",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Central country",
+     "level": 1
+    },
+    {
+     "text": "Many castles",
+     "level": 2
+    },
+    {
+     "text": "Mountain hiking",
+     "level": 2
+    },
+    {
+     "text": "Folk traditions",
+     "level": 3
+    },
+    {
+     "text": "Wooden churches",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Czechia",
+    "Hungary",
+    "Slovenia"
+   ]
+  },
+  {
+   "word": "Slovenia",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Green country",
+     "level": 1
+    },
+    {
+     "text": "Lake with island church",
+     "level": 2
+    },
+    {
+     "text": "Caves",
+     "level": 2
+    },
+    {
+     "text": "Alpine meadows",
+     "level": 3
+    },
+    {
+     "text": "Honey bees",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Croatia",
+    "Slovakia",
+    "Austria"
+   ]
+  },
+  {
+   "word": "Serbia",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Balkan country",
+     "level": 1
+    },
+    {
+     "text": "Tennis star home",
+     "level": 2
+    },
+    {
+     "text": "Lively nightlife",
+     "level": 2
+    },
+    {
+     "text": "Grilled meats",
+     "level": 3
+    },
+    {
+     "text": "Danube rivers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Croatia",
+    "Bosnia",
+    "Bulgaria"
+   ]
+  },
+  {
+   "word": "Bulgaria",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Balkan country",
+     "level": 1
+    },
+    {
+     "text": "Rose oil producer",
+     "level": 2
+    },
+    {
+     "text": "Yogurt origins",
+     "level": 2
+    },
+    {
+     "text": "Black sea coast",
+     "level": 3
+    },
+    {
+     "text": "Painted monasteries",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Romania",
+    "Serbia",
+    "Greece"
+   ]
+  },
+  {
+   "word": "Albania",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Balkan country",
+     "level": 1
+    },
+    {
+     "text": "Concrete bunkers",
+     "level": 2
+    },
+    {
+     "text": "Hidden beaches",
+     "level": 2
+    },
+    {
+     "text": "Double headed eagle",
+     "level": 3
+    },
+    {
+     "text": "Mountain villages",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Greece",
+    "Kosovo",
+    "Montenegro"
+   ]
+  },
+  {
+   "word": "Montenegro",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Small country",
+     "level": 1
+    },
+    {
+     "text": "Dramatic bay",
+     "level": 2
+    },
+    {
+     "text": "Black mountains",
+     "level": 2
+    },
+    {
+     "text": "Walled coastal towns",
+     "level": 3
+    },
+    {
+     "text": "Adriatic beaches",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Albania",
+    "Croatia",
+    "Serbia"
+   ]
+  },
+  {
+   "word": "Cyprus",
+   "hints": [
+    {
+     "text": "Island nation",
+     "level": 1
+    },
+    {
+     "text": "Mediterranean country",
+     "level": 1
+    },
+    {
+     "text": "Divided island",
+     "level": 2
+    },
+    {
+     "text": "Sunny beaches",
+     "level": 2
+    },
+    {
+     "text": "Halloumi cheese",
+     "level": 3
+    },
+    {
+     "text": "Ancient mosaics",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Greece",
+    "Malta",
+    "Lebanon"
+   ]
+  },
+  {
+   "word": "Malta",
+   "hints": [
+    {
+     "text": "Island nation",
+     "level": 1
+    },
+    {
+     "text": "Tiny country",
+     "level": 1
+    },
+    {
+     "text": "Knights history",
+     "level": 2
+    },
+    {
+     "text": "Ancient temples",
+     "level": 2
+    },
+    {
+     "text": "Golden limestone",
+     "level": 3
+    },
+    {
+     "text": "Blue lagoon",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cyprus",
+    "Sicily",
+    "Greece"
+   ]
+  },
+  {
+   "word": "Luxembourg",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Tiny country",
+     "level": 1
+    },
+    {
+     "text": "Very rich",
+     "level": 2
+    },
+    {
+     "text": "Banking hub",
+     "level": 2
+    },
+    {
+     "text": "Grand duchy",
+     "level": 3
+    },
+    {
+     "text": "Castle towns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Belgium",
+    "Monaco",
+    "Liechtenstein"
+   ]
+  },
+  {
+   "word": "Monaco",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Tiny country",
+     "level": 1
+    },
+    {
+     "text": "Glamorous casinos",
+     "level": 2
+    },
+    {
+     "text": "Super rich",
+     "level": 2
+    },
+    {
+     "text": "Racing grand prix",
+     "level": 3
+    },
+    {
+     "text": "Royal palace",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Luxembourg",
+    "Andorra",
+    "San marino"
+   ]
+  },
+  {
+   "word": "Vatican",
+   "hints": [
+    {
+     "text": "City state",
+     "level": 1
+    },
+    {
+     "text": "Smallest country",
+     "level": 1
+    },
+    {
+     "text": "Home of the pope",
+     "level": 2
+    },
+    {
+     "text": "Holy see",
+     "level": 2
+    },
+    {
+     "text": "Famous painted ceiling",
+     "level": 3
+    },
+    {
+     "text": "Swiss guards",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Monaco",
+    "Malta",
+    "San marino"
+   ]
+  },
+  {
+   "word": "Andorra",
+   "hints": [
+    {
+     "text": "European nation",
+     "level": 1
+    },
+    {
+     "text": "Mountain country",
+     "level": 1
+    },
+    {
+     "text": "Duty free shopping",
+     "level": 2
+    },
+    {
+     "text": "Ski slopes",
+     "level": 2
+    },
+    {
+     "text": "Between two countries",
+     "level": 3
+    },
+    {
+     "text": "Tiny principality",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Monaco",
+    "Liechtenstein",
+    "Luxembourg"
+   ]
+  },
+  {
+   "word": "Georgia",
+   "hints": [
+    {
+     "text": "Caucasus nation",
+     "level": 1
+    },
+    {
+     "text": "Mountain country",
+     "level": 1
+    },
+    {
+     "text": "Vineyard cradle",
+     "level": 2
+    },
+    {
+     "text": "Ancient churches",
+     "level": 2
+    },
+    {
+     "text": "Cheesy bread",
+     "level": 3
+    },
+    {
+     "text": "Polyphonic singing",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Armenia",
+    "Azerbaijan",
+    "Turkey"
+   ]
+  },
+  {
+   "word": "Armenia",
+   "hints": [
+    {
+     "text": "Caucasus nation",
+     "level": 1
+    },
+    {
+     "text": "Ancient country",
+     "level": 1
+    },
+    {
+     "text": "First christian nation",
+     "level": 2
+    },
+    {
+     "text": "Ancient alphabet",
+     "level": 2
+    },
+    {
+     "text": "Apricot symbol",
+     "level": 3
+    },
+    {
+     "text": "Mountain monasteries",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Georgia",
+    "Azerbaijan",
+    "Iran"
+   ]
+  },
+  {
+   "word": "Azerbaijan",
+   "hints": [
+    {
+     "text": "Caucasus nation",
+     "level": 1
+    },
+    {
+     "text": "Land of fire",
+     "level": 1
+    },
+    {
+     "text": "Oil fields",
+     "level": 2
+    },
+    {
+     "text": "Flame towers",
+     "level": 2
+    },
+    {
+     "text": "Burning hillsides",
+     "level": 3
+    },
+    {
+     "text": "Carpet weaving",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Georgia",
+    "Armenia",
+    "Turkey"
+   ]
+  },
+  {
+   "word": "Uzbekistan",
+   "hints": [
+    {
+     "text": "Central asian nation",
+     "level": 1
+    },
+    {
+     "text": "Silk road country",
+     "level": 1
+    },
+    {
+     "text": "Blue tiled cities",
+     "level": 2
+    },
+    {
+     "text": "Ancient caravan routes",
+     "level": 2
+    },
+    {
+     "text": "Plov rice",
+     "level": 3
+    },
+    {
+     "text": "Domed mosques",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kazakhstan",
+    "Tajikistan",
+    "Turkmenistan"
+   ]
+  },
+  {
+   "word": "Tajikistan",
+   "hints": [
+    {
+     "text": "Central asian nation",
+     "level": 1
+    },
+    {
+     "text": "Mountain country",
+     "level": 1
+    },
+    {
+     "text": "Roof of the world",
+     "level": 2
+    },
+    {
+     "text": "Mostly mountains",
+     "level": 2
+    },
+    {
+     "text": "High passes",
+     "level": 3
+    },
+    {
+     "text": "Turquoise lakes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kyrgyzstan",
+    "Uzbekistan",
+    "Afghanistan"
+   ]
+  },
+  {
+   "word": "Kyrgyzstan",
+   "hints": [
+    {
+     "text": "Central asian nation",
+     "level": 1
+    },
+    {
+     "text": "Mountain country",
+     "level": 1
+    },
+    {
+     "text": "Nomadic yurts",
+     "level": 2
+    },
+    {
+     "text": "Horse games",
+     "level": 2
+    },
+    {
+     "text": "Alpine lakes",
+     "level": 3
+    },
+    {
+     "text": "Felt carpets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kazakhstan",
+    "Tajikistan",
+    "Mongolia"
+   ]
+  },
+  {
+   "word": "Turkmenistan",
+   "hints": [
+    {
+     "text": "Central asian nation",
+     "level": 1
+    },
+    {
+     "text": "Desert country",
+     "level": 1
+    },
+    {
+     "text": "Gas crater",
+     "level": 2
+    },
+    {
+     "text": "Marble city",
+     "level": 2
+    },
+    {
+     "text": "Burning crater",
+     "level": 3
+    },
+    {
+     "text": "Carpet traditions",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Uzbekistan",
+    "Kazakhstan",
+    "Iran"
+   ]
+  },
+  {
+   "word": "Brunei",
+   "hints": [
+    {
+     "text": "Asian nation",
+     "level": 1
+    },
+    {
+     "text": "Small sultanate",
+     "level": 1
+    },
+    {
+     "text": "Oil rich",
+     "level": 2
+    },
+    {
+     "text": "Water villages",
+     "level": 2
+    },
+    {
+     "text": "Golden domed mosque",
+     "level": 3
+    },
+    {
+     "text": "Rainforest",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Malaysia",
+    "Singapore",
+    "Qatar"
+   ]
+  },
+  {
+   "word": "Samoa",
+   "hints": [
+    {
+     "text": "Island nation",
+     "level": 1
+    },
+    {
+     "text": "Pacific country",
+     "level": 1
+    },
+    {
+     "text": "Rugby lovers",
+     "level": 2
+    },
+    {
+     "text": "Traditional tattoos",
+     "level": 2
+    },
+    {
+     "text": "Open sided huts",
+     "level": 3
+    },
+    {
+     "text": "Lush volcanic islands",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tonga",
+    "Fiji",
+    "Tahiti"
+   ]
+  },
+  {
+   "word": "Tonga",
+   "hints": [
+    {
+     "text": "Island nation",
+     "level": 1
+    },
+    {
+     "text": "Pacific kingdom",
+     "level": 1
+    },
+    {
+     "text": "Rugby lovers",
+     "level": 2
+    },
+    {
+     "text": "Royal family",
+     "level": 2
+    },
+    {
+     "text": "Humpback whales",
+     "level": 3
+    },
+    {
+     "text": "Coral islands",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Samoa",
+    "Fiji",
+    "Vanuatu"
+   ]
+  },
+  {
+   "word": "Vanuatu",
+   "hints": [
+    {
+     "text": "Island nation",
+     "level": 1
+    },
+    {
+     "text": "Pacific country",
+     "level": 1
+    },
+    {
+     "text": "Active volcanoes",
+     "level": 2
+    },
+    {
+     "text": "Land diving ritual",
+     "level": 2
+    },
+    {
+     "text": "Coral reefs",
+     "level": 3
+    },
+    {
+     "text": "Tribal villages",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fiji",
+    "Samoa",
+    "Tonga"
+   ]
+  },
+  {
+   "word": "Greenland",
+   "hints": [
+    {
+     "text": "Arctic island",
+     "level": 1
+    },
+    {
+     "text": "Largest island",
+     "level": 1
+    },
+    {
+     "text": "Mostly ice",
+     "level": 2
+    },
+    {
+     "text": "Inuit culture",
+     "level": 2
+    },
+    {
+     "text": "Glaciers and icebergs",
+     "level": 3
+    },
+    {
+     "text": "Northern lights",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Iceland",
+    "Canada",
+    "Norway"
+   ]
+  },
+  {
+   "word": "Mauritius",
+   "hints": [
+    {
+     "text": "Island nation",
+     "level": 1
+    },
+    {
+     "text": "Indian ocean country",
+     "level": 1
+    },
+    {
+     "text": "Extinct dodo bird",
+     "level": 2
+    },
+    {
+     "text": "Luxury resorts",
+     "level": 2
+    },
+    {
+     "text": "Underwater waterfall illusion",
+     "level": 3
+    },
+    {
+     "text": "Sugarcane fields",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Maldives",
+    "Seychelles",
+    "Madagascar"
+   ]
+  },
+  {
+   "word": "Seychelles",
+   "hints": [
+    {
+     "text": "Island nation",
+     "level": 1
+    },
+    {
+     "text": "Indian ocean country",
+     "level": 1
+    },
+    {
+     "text": "Giant tortoises",
+     "level": 2
+    },
+    {
+     "text": "Granite boulders",
+     "level": 2
+    },
+    {
+     "text": "Coco de mer palm",
+     "level": 3
+    },
+    {
+     "text": "Turquoise beaches",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Maldives",
+    "Mauritius",
+    "Comoros"
+   ]
+  },
+  {
+   "word": "United states",
+   "hints": [
+    {
+     "text": "North american nation",
+     "level": 1
+    },
+    {
+     "text": "Superpower",
+     "level": 1
+    },
+    {
+     "text": "Fifty regions",
+     "level": 2
+    },
+    {
+     "text": "Hollywood movies",
+     "level": 2
+    },
+    {
+     "text": "Stars and stripes",
+     "level": 3
+    },
+    {
+     "text": "Statue of liberty",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Canada",
+    "Mexico",
+    "England"
+   ]
+  },
+  {
+   "word": "Chad",
+   "hints": [
+    {
+     "text": "Central african nation",
+     "level": 1
+    },
+    {
+     "text": "Landlocked country",
+     "level": 1
+    },
+    {
+     "text": "Shrinking lake",
+     "level": 2
+    },
+    {
+     "text": "Sahara edge",
+     "level": 2
+    },
+    {
+     "text": "Desert nomads",
+     "level": 3
+    },
+    {
+     "text": "Blue yellow red",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Niger",
+    "Sudan",
+    "Libya"
+   ]
+  },
+  {
+   "word": "Mali",
+   "hints": [
+    {
+     "text": "West african nation",
+     "level": 1
+    },
+    {
+     "text": "Desert country",
+     "level": 1
+    },
+    {
+     "text": "Ancient mud mosques",
+     "level": 2
+    },
+    {
+     "text": "Historic trade city",
+     "level": 2
+    },
+    {
+     "text": "Timbuktu legend",
+     "level": 3
+    },
+    {
+     "text": "Niger river",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Niger",
+    "Senegal",
+    "Chad"
+   ]
+  },
+  {
+   "word": "Niger",
+   "hints": [
+    {
+     "text": "West african nation",
+     "level": 1
+    },
+    {
+     "text": "Landlocked country",
+     "level": 1
+    },
+    {
+     "text": "Mostly desert",
+     "level": 2
+    },
+    {
+     "text": "Giraffe reserves",
+     "level": 2
+    },
+    {
+     "text": "Tuareg nomads",
+     "level": 3
+    },
+    {
+     "text": "Orange disc flag",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mali",
+    "Chad",
+    "Burkina faso"
+   ]
+  },
+  {
+   "word": "Angola",
+   "hints": [
+    {
+     "text": "Southern african nation",
+     "level": 1
+    },
+    {
+     "text": "Coastal country",
+     "level": 1
+    },
+    {
+     "text": "Oil producer",
+     "level": 2
+    },
+    {
+     "text": "Portuguese speaking",
+     "level": 2
+    },
+    {
+     "text": "Huge waterfalls",
+     "level": 3
+    },
+    {
+     "text": "Kizomba dance",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Namibia",
+    "Zambia",
+    "Mozambique"
+   ]
+  },
+  {
+   "word": "Mozambique",
+   "hints": [
+    {
+     "text": "Southeast african nation",
+     "level": 1
+    },
+    {
+     "text": "Coastal country",
+     "level": 1
+    },
+    {
+     "text": "Long coastline",
+     "level": 2
+    },
+    {
+     "text": "Portuguese speaking",
+     "level": 2
+    },
+    {
+     "text": "Rifle on flag",
+     "level": 3
+    },
+    {
+     "text": "Island archipelagos",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tanzania",
+    "Madagascar",
+    "Malawi"
+   ]
+  },
+  {
+   "word": "Malawi",
+   "hints": [
+    {
+     "text": "Southeast african nation",
+     "level": 1
+    },
+    {
+     "text": "Warm heart",
+     "level": 1
+    },
+    {
+     "text": "Huge lake",
+     "level": 2
+    },
+    {
+     "text": "Very friendly",
+     "level": 2
+    },
+    {
+     "text": "Colorful cichlid fish",
+     "level": 3
+    },
+    {
+     "text": "Rising sun flag",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Zambia",
+    "Mozambique",
+    "Tanzania"
+   ]
+  },
+  {
+   "word": "Ivory coast",
+   "hints": [
+    {
+     "text": "West african nation",
+     "level": 1
+    },
+    {
+     "text": "Cocoa giant",
+     "level": 1
+    },
+    {
+     "text": "Football stars",
+     "level": 2
+    },
+    {
+     "text": "Cocoa exporter",
+     "level": 2
+    },
+    {
+     "text": "Huge basilica",
+     "level": 3
+    },
+    {
+     "text": "Orange white green",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ghana",
+    "Liberia",
+    "Senegal"
+   ]
+  },
+  {
+   "word": "Eritrea",
+   "hints": [
+    {
+     "text": "East african nation",
+     "level": 1
+    },
+    {
+     "text": "Red sea country",
+     "level": 1
+    },
+    {
+     "text": "Art deco capital",
+     "level": 2
+    },
+    {
+     "text": "Coffee ceremonies",
+     "level": 2
+    },
+    {
+     "text": "Italian heritage",
+     "level": 3
+    },
+    {
+     "text": "Red sea coast",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ethiopia",
+    "Djibouti",
+    "Sudan"
+   ]
+  },
+  {
+   "word": "Liberia",
+   "hints": [
+    {
+     "text": "West african nation",
+     "level": 1
+    },
+    {
+     "text": "Founded by freed people",
+     "level": 1
+    },
+    {
+     "text": "Lone star flag",
+     "level": 2
+    },
+    {
+     "text": "Rubber plantations",
+     "level": 2
+    },
+    {
+     "text": "Atlantic beaches",
+     "level": 3
+    },
+    {
+     "text": "Rainforests",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sierra leone",
+    "Ghana",
+    "Guinea"
+   ]
+  },
+  {
+   "word": "Sierra leone",
+   "hints": [
+    {
+     "text": "West african nation",
+     "level": 1
+    },
+    {
+     "text": "Coastal country",
+     "level": 1
+    },
+    {
+     "text": "Diamond mines",
+     "level": 2
+    },
+    {
+     "text": "Freetown capital",
+     "level": 2
+    },
+    {
+     "text": "Lion mountains",
+     "level": 3
+    },
+    {
+     "text": "Sandy beaches",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Liberia",
+    "Guinea",
+    "Gambia"
+   ]
+  },
+  {
+   "word": "Gambia",
+   "hints": [
+    {
+     "text": "West african nation",
+     "level": 1
+    },
+    {
+     "text": "Smallest mainland",
+     "level": 1
+    },
+    {
+     "text": "Follows a river",
+     "level": 2
+    },
+    {
+     "text": "Bird watching",
+     "level": 2
+    },
+    {
+     "text": "Thin river shape",
+     "level": 3
+    },
+    {
+     "text": "Smiling coast",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Senegal",
+    "Guinea",
+    "Sierra leone"
+   ]
+  },
+  {
+   "word": "Gabon",
+   "hints": [
+    {
+     "text": "Central african nation",
+     "level": 1
+    },
+    {
+     "text": "Rainforest country",
+     "level": 1
+    },
+    {
+     "text": "Surfing hippos",
+     "level": 2
+    },
+    {
+     "text": "National parks",
+     "level": 2
+    },
+    {
+     "text": "Dense forests",
+     "level": 3
+    },
+    {
+     "text": "Lowland gorillas",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cameroon",
+    "Congo",
+    "Angola"
+   ]
+  },
+  {
+   "word": "Nicaragua",
+   "hints": [
+    {
+     "text": "Central american nation",
+     "level": 1
+    },
+    {
+     "text": "Lakes and volcanoes",
+     "level": 1
+    },
+    {
+     "text": "Colonial towns",
+     "level": 2
+    },
+    {
+     "text": "Volcano boarding",
+     "level": 2
+    },
+    {
+     "text": "Huge freshwater lake",
+     "level": 3
+    },
+    {
+     "text": "Ash slopes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Honduras",
+    "Costa rica",
+    "Panama"
+   ]
+  },
+  {
+   "word": "El salvador",
+   "hints": [
+    {
+     "text": "Central american nation",
+     "level": 1
+    },
+    {
+     "text": "Smallest isthmus country",
+     "level": 1
+    },
+    {
+     "text": "Surfing beaches",
+     "level": 2
+    },
+    {
+     "text": "Pupusas",
+     "level": 2
+    },
+    {
+     "text": "Volcano chain",
+     "level": 3
+    },
+    {
+     "text": "Coffee farms",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Honduras",
+    "Guatemala",
+    "Nicaragua"
+   ]
+  },
+  {
+   "word": "Belize",
+   "hints": [
+    {
+     "text": "Central american nation",
+     "level": 1
+    },
+    {
+     "text": "Caribbean coast",
+     "level": 1
+    },
+    {
+     "text": "Barrier reef",
+     "level": 2
+    },
+    {
+     "text": "English speaking",
+     "level": 2
+    },
+    {
+     "text": "Blue hole dive",
+     "level": 3
+    },
+    {
+     "text": "Mayan ruins",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Guatemala",
+    "Honduras",
+    "Jamaica"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+@id jobs
+@name Jobs
+Doctor | Medical job; Health professional | Works in hospitals; Long shifts | Stethoscope; White coat | Nurse; Surgeon; Dentist
+Nurse | Medical job; Caring profession | Works night shifts; Helps patients | Scrubs; Takes your temperature | Doctor; Paramedic; Midwife
+Teacher | Education job; School worker | Grades papers; Has summer break | Blackboard; Apple on desk | Principal; Tutor; Professor
+Police officer | Public service; Law job | Patrols streets; Wears a badge | Handcuffs; Siren car | Firefighter; Detective; Guard
+Firefighter | Rescue job; Brave profession | Slides down poles; Saves cats | Red truck; Hose and helmet | Police officer; Paramedic; Lifeguard
+Chef | Kitchen job; Food profession | Runs a kitchen; Yells orders | Tall white hat; Sharp knives | Baker; Waiter; Butcher
+Pilot | Aviation job; Travel profession | Flies planes; Talks to passengers | Cockpit controls; Captain hat | Astronaut; Flight attendant; Driver
+Astronaut | Space job; Science profession | Trains for years; Floats in orbit | Space suit; Rocket launch | Pilot; Scientist; Diver
+Farmer | Agriculture job; Rural worker | Wakes at dawn; Drives tractors | Plants crops; Milks cows | Gardener; Rancher; Shepherd
+Dentist | Medical job; Oral care | Checks your teeth; Says open wide | Drill and mirror; Floss advice | Doctor; Orthodontist; Hygienist
+Lawyer | Legal job; Court profession | Argues cases; Charges by hour | Suit and briefcase; Objection | Judge; Detective; Banker
+Judge | Legal job; Court authority | Gives verdicts; Very respected | Gavel; Black robe | Lawyer; Jury; Police officer
+Engineer | Technical job; Problem solver | Designs things; Uses math | Hard hat; Blueprints | Architect; Scientist; Mechanic
+Architect | Design job; Building profession | Plans skyscrapers; Draws designs | Blueprints; Scale models | Engineer; Builder; Designer
+Scientist | Research job; Lab worker | Runs experiments; Publishes papers | Lab coat; Test tubes | Doctor; Engineer; Professor
+Artist | Creative job; Visual profession | Paints canvases; Sells at galleries | Easel and brushes; Paint splatters | Designer; Sculptor; Photographer
+Musician | Creative job; Performing profession | Plays concerts; Records albums | Instruments; Rehearsals | Singer; Composer; Dancer
+Singer | Performing job; Vocal artist | Sings on stage; Records songs | Microphone; Hits high notes | Musician; Actor; Dancer
+Actor | Performing job; Entertainment profession | Memorizes lines; Red carpet events | Movie sets; Stage makeup | Singer; Director; Dancer
+Dancer | Performing job; Movement artist | Rehearses daily; Performs on stage | Ballet shoes; Mirrored studios | Actor; Gymnast; Singer
+Photographer | Creative job; Visual profession | Shoots weddings; Edits pictures | Camera lens; Flash | Artist; Videographer; Journalist
+Journalist | Media job; News profession | Interviews people; Meets deadlines | Notepad and pen; Press pass | Writer; Reporter; Editor
+Writer | Creative job; Word profession | Writes books; Blank page fear | Keyboard or notebook; Manuscripts | Journalist; Poet; Editor
+Librarian | Book job; Quiet profession | Shushes people; Organizes shelves | Library cards; Due dates | Teacher; Archivist; Bookseller
+Mechanic | Repair job; Garage worker | Fixes cars; Greasy hands | Wrench; Oil changes | Engineer; Plumber; Electrician
+Plumber | Repair job; Trade profession | Fixes leaks; Unclogs drains | Pipe wrench; Toilet repairs | Electrician; Mechanic; Carpenter
+Electrician | Trade job; Wiring expert | Fixes power; Safety first | Wires and cables; Voltage tester | Plumber; Engineer; Mechanic
+Carpenter | Trade job; Wood worker | Builds furniture; Measures twice | Hammer and nails; Saw dust | Plumber; Builder; Woodcarver
+Builder | Construction job; Trade worker | Lays bricks; Builds houses | Hard hat; Cement mixer | Carpenter; Architect; Plumber
+Baker | Food job; Early riser | Makes bread; Works before dawn | Flour and ovens; Fresh loaves | Chef; Butcher; Confectioner
+Butcher | Food job; Meat seller | Cuts meat; Works in shops | Cleaver; Bloody apron | Baker; Chef; Fishmonger
+Waiter | Service job; Restaurant worker | Takes orders; Earns tips | Carries trays; Notepad for orders | Chef; Bartender; Host
+Cashier | Retail job; Store worker | Scans items; Handles money | Till drawer; Receipts | Waiter; Clerk; Accountant
+Accountant | Finance job; Number cruncher | Does taxes; Busy in spring | Spreadsheets; Balance sheets | Banker; Cashier; Auditor
+Banker | Finance job; Money profession | Approves loans; Works in vaults | Suits and ties; Interest rates | Accountant; Lawyer; Cashier
+Programmer | Tech job; Software profession | Writes code; Fixes bugs | Keyboard and screens; Lots of coffee | Engineer; Designer; Hacker
+Designer | Creative job; Visual profession | Creates layouts; Picks fonts | Sketches and mood boards; Color palettes | Artist; Architect; Programmer
+Hairdresser | Beauty job; Salon worker | Cuts and styles; Chats with clients | Scissors and combs; Blow dryer | Barber; Stylist; Makeup artist
+Barber | Grooming job; Shop worker | Trims beards; Gives fades | Striped pole; Straight razor | Hairdresser; Stylist; Tailor
+Tailor | Clothing job; Craft profession | Takes measurements; Alters suits | Needle and thread; Tape measure | Seamstress; Designer; Cobbler
+Cobbler | Repair job; Shoe worker | Fixes heels; Small shop | Leather and glue; Shoe last | Tailor; Blacksmith; Carpenter
+Blacksmith | Craft job; Metal worker | Forges tools; Hot workshop | Anvil and hammer; Glowing iron | Carpenter; Welder; Cobbler
+Gardener | Outdoor job; Plant worker | Mows lawns; Plants flowers | Shears and trowel; Muddy gloves | Farmer; Florist; Landscaper
+Florist | Retail job; Flower seller | Makes bouquets; Busy on valentines | Fresh flowers; Ribbons and vases | Gardener; Baker; Decorator
+Veterinarian | Animal job; Medical profession | Treats pets; Rescues animals | Pet clinic; Vaccines for dogs | Doctor; Zookeeper; Groomer
+Zookeeper | Animal job; Caretaker | Feeds lions; Cleans enclosures | Buckets of fish; Khaki uniform | Veterinarian; Farmer; Ranger
+Lifeguard | Safety job; Beach worker | Watches swimmers; Rescues people | Red float; Whistle and tower | Firefighter; Coach; Paramedic
+Paramedic | Medical job; Emergency responder | Rides ambulances; First on scene | Stretcher; Defibrillator | Nurse; Doctor; Firefighter
+Surgeon | Medical job; Specialist doctor | Operates on patients; Long surgeries | Scalpel; Operating theatre | Doctor; Dentist; Nurse
+Pharmacist | Medical job; Medicine expert | Fills prescriptions; Gives advice | Pills and labels; Drug store counter | Doctor; Nurse; Chemist
+Psychologist | Mental health job; Therapy profession | Listens carefully; Helps with feelings | Couch sessions; Notebook | Doctor; Counselor; Psychiatrist
+Soldier | Military job; Defense profession | Serves country; Follows orders | Camouflage; Salutes officers | Police officer; Guard; Sailor
+Sailor | Navy job; Sea worker | Lives on ships; Ties knots | Anchors and ropes; White uniform | Pilot; Fisherman; Soldier
+Fisherman | Sea job; Boat worker | Casts nets; Early mornings | Rods and bait; Rubber boots | Sailor; Farmer; Butcher
+Truck driver | Transport job; Road worker | Long hauls; Highway life | Big rig; Radio chatter | Bus driver; Pilot; Courier
+Taxi driver | Transport job; City worker | Drives passengers; Knows shortcuts | Meter running; Yellow cab | Bus driver; Chauffeur; Pilot
+Bus driver | Transport job; Public service | Fixed routes; Collects fares | Big steering wheel; Stops on schedule | Taxi driver; Train driver; Pilot
+Mail carrier | Postal job; Delivery worker | Walks routes; Dogs chase them | Envelopes and parcels; Shoulder satchel | Courier; Driver; Paperboy
+Courier | Delivery job; Fast service | Rides bikes; Rushes packages | Parcels; Signature needed | Mail carrier; Driver; Messenger
+Detective | Investigation job; Crime solver | Finds clues; Solves mysteries | Magnifying glass; Trench coat | Police officer; Spy; Lawyer
+Spy | Secret job; Intelligence agent | Uses disguises; Gathers secrets | Gadgets; Secret codes | Detective; Soldier; Diplomat
+Security guard | Safety job; Protection worker | Night shifts; Checks badges | Walkie talkie; Flashlight | Police officer; Bouncer; Soldier
+Janitor | Cleaning job; Building worker | Mops floors; Works after hours | Keys on belt; Cleaning cart | Cleaner; Caretaker; Gardener
+Clown | Entertainment job; Circus performer | Makes kids laugh; Birthday parties | Red nose; Big shoes | Magician; Juggler; Mime
+Magician | Entertainment job; Stage performer | Card tricks; Never reveals secrets | Top hat; Pulls rabbits | Clown; Juggler; Illusionist
+Comedian | Entertainment job; Stand up performer | Tells jokes; Comedy clubs | Microphone stand; Punchlines | Actor; Clown; Host
+Professor | Education job; University teacher | Gives lectures; Does research | Tweed jacket; Office hours | Teacher; Scientist; Tutor
+Principal | School job; Education leader | Runs the school; Detention threats | Office visits; Morning announcements | Teacher; Dean; Professor
+Tutor | Education job; Private teacher | Helps with homework; Private sessions | Extra lessons; Exam prep | Teacher; Coach; Mentor
+Coach | Sports job; Team leader | Trains athletes; Yells from sidelines | Whistle and clipboard; Halftime talks | Referee; Teacher; Captain
+Referee | Sports job; Match official | Blows whistle; Makes calls | Striped shirt; Yellow cards | Coach; Umpire; Judge
+Athlete | Sports job; Competitor | Trains daily; Wins medals | Sports drinks; Stadium crowds | Coach; Referee; Trainer
+Model | Fashion job; Runway worker | Poses for cameras; Fashion shows | Catwalk; Photo shoots | Actor; Designer; Dancer
+Influencer | Online job; Social media worker | Posts content; Gains followers | Ring light; Sponsored posts | Blogger; Model; Streamer
+Streamer | Online job; Live broadcaster | Plays games live; Chats with viewers | Webcam and headset; Donations | Influencer; Gamer; Youtuber
+Translator | Language job; Word profession | Converts languages; Works with documents | Dictionaries; Bilingual skills | Interpreter; Writer; Teacher
+Diplomat | Government job; Foreign relations | Negotiates treaties; Works at embassies | Formal dinners; Passports | Politician; Spy; Ambassador
+Politician | Government job; Public figure | Gives speeches; Campaigns for votes | Election posters; Kissing babies | Diplomat; Lawyer; Mayor
+Mayor | Government job; City leader | Cuts ribbons; Runs the city | Town hall; Official chain | Politician; Governor; Judge
+Priest | Religious job; Spiritual leader | Leads ceremonies; Gives blessings | Collar and robes; Holy books | Monk; Teacher; Counselor
+Monk | Religious life; Spiritual devotee | Lives in monastery; Meditates daily | Shaved head; Simple robes | Priest; Nun; Hermit
+Miner | Underground job; Dangerous work | Digs for coal; Works in tunnels | Headlamp helmet; Pickaxe | Farmer; Builder; Driller
+Welder | Trade job; Metal worker | Joins metal; Bright sparks | Dark visor mask; Torch | Blacksmith; Mechanic; Plumber
+Painter | Trade job; Decorating work | Paints walls; Climbs ladders | Rollers and brushes; Drop cloths | Artist; Builder; Decorator
+Cleaner | Service job; Housekeeping | Tidies homes; Dusts shelves | Mop and bucket; Rubber gloves | Janitor; Maid; Gardener
+Receptionist | Office job; Front desk | Answers phones; Greets visitors | Appointment book; Headset | Secretary; Cashier; Host
+Secretary | Office job; Admin worker | Schedules meetings; Takes notes | Typing fast; Phone calls | Receptionist; Assistant; Clerk
+Manager | Office job; Team leader | Runs meetings; Sets targets | Performance reviews; Corner office | Boss; Director; Supervisor
+Chief executive | Business job; Top boss | Runs the company; Big decisions | Boardroom; Huge salary | Manager; Founder; Chairman
+Entrepreneur | Business job; Startup founder | Takes risks; Pitches investors | Business plan; Own company | Manager; Investor; Inventor
+Inventor | Creative job; Innovation profession | Creates new things; Files patents | Workshop gadgets; Prototypes | Scientist; Engineer; Entrepreneur
+Archaeologist | Research job; History digger | Digs up ruins; Studies ancient things | Brushes and trowels; Fossils and bones | Historian; Geologist; Explorer
+Geologist | Science job; Earth expert | Studies rocks; Field trips | Rock hammer; Mineral samples | Archaeologist; Scientist; Miner
+Astronomer | Science job; Space watcher | Studies stars; Works at night | Telescope; Observatory | Astronaut; Physicist; Scientist
+Biologist | Science job; Life expert | Studies living things; Lab work | Microscope; Petri dishes | Chemist; Doctor; Zoologist
+Chemist | Science job; Lab expert | Mixes compounds; Runs reactions | Beakers and flasks; Safety goggles | Biologist; Pharmacist; Physicist
+Pilot instructor | Aviation teacher; Flight trainer | Teaches flying; Sits beside students | Training aircraft; Logbooks | Coach; Professor; Examiner
+Flight attendant | Aviation job; Cabin crew | Serves snacks; Safety demonstrations | Trolley cart; Uniform and scarf | Pilot; Waiter; Receptionist
+Tour guide | Travel job; Sightseeing leader | Leads groups; Tells history | Raised umbrella; Microphone headset | Teacher; Driver; Host
+Travel agent | Holiday planner; Booking expert | Plans holidays; Finds deals | Brochures; Flight tickets | Tour guide; Receptionist; Clerk
+Realtor | Property job; Sales profession | Shows houses; Earns commission | Open houses; For sale signs | Banker; Architect; Salesman
+Salesperson | Retail job; Persuasive worker | Meets targets; Pitches products | Name badge; Commission | Cashier; Marketer; Shopkeeper
+Shopkeeper | Retail job; Small business | Runs a store; Knows customers | Counter and till; Open sign | Cashier; Salesperson; Merchant
+Delivery rider | Gig job; Takeout runner | Rides scooters; Brings meals | Insulated backpack; Phone mount | Courier; Taxi driver; Waiter
+Bartender | Service job; Drink mixer | Mixes cocktails; Night shifts | Shaker and glasses; Behind counter | Waiter; Barista; Chef
+Barista | Cafe job; Coffee maker | Makes lattes; Early shifts | Espresso machine; Latte art | Bartender; Waiter; Baker
+Apprentice | Trainee worker; Learner | Carries tools; Learns a trade | Watches the master; Low pay | Intern; Assistant; Student
+Ranger | Outdoor job; Park protector | Guards forests; Leads nature walks | Wide brimmed hat; Watch tower | Zookeeper; Gardener; Guard
+Shepherd | Rural job; Flock keeper | Tends sheep; Lives outdoors | Crook staff; Herding dogs | Farmer; Cowboy; Rancher
+Cowboy | Ranch job; Western worker | Herds cattle; Rides horses | Lasso; Wide hat and boots | Shepherd; Rancher; Sheriff
+Sheriff | Law job; County officer | Keeps the peace; Western towns | Star badge; Holster | Police officer; Cowboy; Judge
+Lumberjack | Forest job; Wood worker | Fells trees; Plaid shirts | Axe; Chainsaw | Carpenter; Farmer; Ranger
+Glassblower | Craft job; Artisan | Shapes molten sand; Blowpipe skills | Glowing furnace; Molten blobs | Potter; Blacksmith; Sculptor
+Potter | Craft job; Clay artist | Shapes bowls; Muddy hands | Spinning wheel; Kiln | Sculptor; Glassblower; Painter
+Sculptor | Creative job; Stone artist | Carves statues; Works with marble | Chisel and mallet; Clay models | Potter; Painter; Carpenter
+Jeweler | Craft job; Precious work | Sets diamonds; Repairs watches | Loupe magnifier; Gold rings | Goldsmith; Watchmaker; Tailor
+Watchmaker | Craft job; Precision work | Repairs clocks; Tiny gears | Loupe and tweezers; Ticking parts | Jeweler; Mechanic; Engineer
+Locksmith | Trade job; Security worker | Opens jammed doors; Cuts keys | Picks and tension tools; Key blanks | Carpenter; Security guard; Mechanic
+Disc jockey | Music job; Party worker | Plays club sets; Reads the crowd | Turntables; Headphones on one ear | Musician; Singer; Producer
+Composer | Music job; Creative profession | Writes symphonies; Film scores | Sheet music; Piano sketches | Musician; Conductor; Songwriter
+Conductor | Music job; Orchestra leader | Leads musicians; Waves arms | Baton; Podium | Composer; Musician; Director
+Director | Film job; Creative leader | Calls action; Leads the crew | Clapperboard; Megaphone | Actor; Producer; Writer
+Producer | Film job; Project boss | Funds movies; Manages budgets | Schedules and contracts; Big decisions | Director; Actor; Banker
+Animator | Creative job; Cartoon maker | Draws frames; Brings drawings alive | Storyboards; Keyframes | Illustrator; Designer; Director
+Illustrator | Creative job; Drawing profession | Draws book pictures; Comic art | Pens and tablets; Character sketches | Animator; Painter; Designer
+Editor | Media job; Word fixer | Checks drafts; Cuts mistakes | Red pen; Deadlines | Writer; Journalist; Proofreader
+Reporter | Media job; News gatherer | Covers stories; On the scene | Microphone; Camera crew | Journalist; Anchor; Writer
+News anchor | Media job; Television host | Reads headlines; Live broadcasts | Teleprompter; Studio desk | Reporter; Host; Journalist
+Radio host | Media job; Broadcast voice | Talks on air; Plays music | Studio microphone; Call ins | Disc jockey; Podcaster; News anchor
+Podcaster | Online job; Audio creator | Records episodes; Interviews guests | Microphone foam; Audio editing | Radio host; Streamer; Blogger
+Blogger | Online job; Web writer | Posts articles; Builds an audience | Personal website; Comments section | Influencer; Journalist; Writer
+Nanny | Childcare job; Family helper | Looks after kids; Lives with family | Strollers and snacks; Bedtime stories | Babysitter; Teacher; Nurse
+Babysitter | Childcare job; Part time work | Evenings with kids; Teen job | Bedtime routines; Emergency numbers | Nanny; Tutor; Teacher
+Midwife | Medical job; Birth helper | Delivers babies; Supports mothers | Birth plans; Maternity ward | Nurse; Doctor; Doula
+Optometrist | Medical job; Eye specialist | Tests eyesight; Prescribes glasses | Reading chart; Eye drops | Doctor; Dentist; Optician
+Physiotherapist | Medical job; Movement healer | Treats injuries; Rehab exercises | Massage tables; Resistance bands | Doctor; Coach; Chiropractor
+Dietitian | Health job; Food expert | Plans meals; Advises on nutrition | Meal charts; Calorie counts | Doctor; Trainer; Chef
+Personal trainer | Fitness job; Gym coach | Plans workouts; Motivates clients | Dumbbells; Stopwatch | Coach; Dietitian; Athlete
+Decorator | Home job; Home stylist | Picks furniture; Chooses colors | Fabric swatches; Mood boards | Architect; Florist; Painter
+Fashion designer | Creative job; Clothing creator | Runway collections; Sketches outfits | Mannequins; Fabric rolls | Tailor; Model; Stylist
+Makeup artist | Beauty job; Face painter | Prepares actors; Wedding glam | Brushes and palettes; Foundation | Hairdresser; Stylist; Painter
+Stuntman | Film job; Risky performer | Does dangerous scenes; Falls from heights | Crash pads; Fire suits | Actor; Athlete; Acrobat
+Acrobat | Circus job; Flexible performer | Flips and balances; Big top shows | Trapeze; Tightrope | Gymnast; Clown; Juggler
+Juggler | Circus job; Street performer | Keeps things in air; Busking | Balls and pins; Flaming torches | Acrobat; Clown; Magician
+Ringmaster | Circus job; Show host | Introduces acts; Commands the stage | Top hat and whip; Red tailcoat | Clown; Magician; Acrobat
+Astrologer | Fortune job; Star reader | Reads horoscopes; Predicts futures | Zodiac charts; Birth dates | Astronomer; Psychic; Priest

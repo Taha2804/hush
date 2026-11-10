@@ -1,0 +1,146 @@
+@id instruments
+@name Musical Instruments
+Piano | Keyboard instrument; Classical staple | Lessons for kids; Concert halls | Black and white keys; Pedals underneath | Organ; Harpsichord; Keyboard
+Guitar | String instrument; Rock staple | Campfire songs; Strummed chords | Six strings; Frets on neck | Ukulele; Banjo; Mandolin
+Violin | String instrument; Orchestra staple | Played with a bow; Classical solos | Tucked under chin; Four strings | Viola; Cello; Fiddle
+Cello | String instrument; Large fiddle | Deep mellow tones; Seated players | Rests on floor; Spike at bottom | Violin; Double bass; Viola
+Drums | Percussion instrument; Rhythm section | Rock bands; Loud practice | Sticks and cymbals; Kick pedal | Tambourine; Bongos; Xylophone
+Flute | Woodwind instrument; Breathy sound | Played sideways; Orchestra solos | Silver tube; Finger keys | Clarinet; Piccolo; Recorder
+Trumpet | Brass instrument; Loud horn | Jazz bands; Military calls | Three valves; Flared bell | Trombone; Cornet; Bugle
+Saxophone | Woodwind instrument; Jazz horn | Smooth jazz; Late night clubs | Curved brass body; Reed mouthpiece | Clarinet; Trumpet; Oboe
+Clarinet | Woodwind instrument; Reed instrument | School bands; Klezmer music | Black tube; Single reed | Oboe; Flute; Saxophone
+Trombone | Brass instrument; Slide horn | Marching bands; Comic slides | Long slide; Big bell | Trumpet; Tuba; Euphonium
+Tuba | Brass instrument; Huge horn | Oompah bands; Bass notes | Massive coiled tubing; Upward bell | Trombone; Sousaphone; Euphonium
+Harp | String instrument; Plucked frame | Angels play it; Heavenly sound | Tall triangle; Many strings | Lyre; Zither; Piano
+Accordion | Squeezebox; Bellows instrument | Polka music; Street performers | Pleated folds; Buttons and keys | Harmonica; Concertina; Bagpipes
+Harmonica | Mouth organ; Pocket instrument | Blues players; Campfire tunes | Small metal bar; Blow and draw | Kazoo; Accordion; Whistle
+Banjo | String instrument; Country twang | Bluegrass music; Southern porches | Round drum body; Plucky sound | Guitar; Ukulele; Mandolin
+Ukulele | String instrument; Small guitar | Hawaiian music; Beach songs | Four strings; Tiny body | Guitar; Banjo; Mandolin
+Xylophone | Percussion instrument; Mallet instrument | Kids toy version; Plinky notes | Wooden bars; Struck with mallets | Glockenspiel; Marimba; Vibraphone
+Tambourine | Percussion instrument; Hand drum | Shaken at concerts; Folk dances | Jingling discs; Round frame | Maracas; Triangle; Drums
+Maracas | Percussion instrument; Shakers | Latin music; Party rhythms | Pair of gourds; Rattling seeds | Tambourine; Castanets; Bongos
+Triangle | Percussion instrument; Metal chime | Orchestra joke; Single ting | Bent steel rod; Struck with beater | Bell; Cymbal; Chime
+Cymbal | Percussion instrument; Metal disc | Crash in drum kits; Big finales | Brass plate; Shimmering crash | Gong; Triangle; Drum
+Gong | Percussion instrument; Large disc | Temple ceremonies; Dramatic entrance | Hanging bronze plate; Deep boom | Cymbal; Bell; Drum
+Bagpipes | Wind instrument; Highland instrument | Scottish parades; Funeral laments | Air bag; Droning tubes | Accordion; Flute; Horn
+Organ | Keyboard instrument; Church instrument | Wedding marches; Cathedral music | Huge pipes; Many keyboards | Piano; Harpsichord; Accordion
+Recorder | Woodwind instrument; School instrument | Kids learn it first; Squeaky notes | Plastic tube; Thumb hole | Flute; Whistle; Ocarina
+Oboe | Woodwind instrument; Double reed | Tunes the orchestra; Nasal tone | Black body; Thin reed | Clarinet; Bassoon; Flute
+Bassoon | Woodwind instrument; Low reed | Grandfather sound; Comic parts | Tall wooden tube; Bent crook | Oboe; Clarinet; Tuba
+Piccolo | Woodwind instrument; Tiny flute | Marching bands; Highest pitch | Short silver tube; Shrill notes | Flute; Recorder; Whistle
+French horn | Brass instrument; Coiled brass | Orchestra brass; Hand in bell | Circular tubing; Rotary valves | Tuba; Trumpet; Bugle
+Bugle | Brass instrument; Military horn | Morning wake up call; Army camps | No valves; Simple tube | Trumpet; Cornet; Horn
+Double bass | String instrument; Biggest fiddle | Jazz grooves; Plucked or bowed | Taller than player; Deep notes | Cello; Bass guitar; Viola
+Viola | String instrument; Middle fiddle | Orchestra alto; Mellow tone | Slightly bigger body; Under chin | Violin; Cello; Fiddle
+Mandolin | String instrument; Folk lute | Italian serenades; Bluegrass | Teardrop body; Paired strings | Banjo; Ukulele; Lute
+Lute | String instrument; Medieval instrument | Renaissance minstrels; Courtly songs | Pear shaped body; Bent neck | Mandolin; Harp; Lyre
+Lyre | String instrument; Ancient instrument | Greek myths; Poets played it | U shaped frame; Plucked strings | Harp; Lute; Zither
+Sitar | String instrument; Indian instrument | Classical ragas; Sixties rock | Long neck; Gourd body | Veena; Sarod; Tanpura
+Tabla | Percussion instrument; Indian drums | Classical rhythms; Played with fingers | Pair of drums; Black center spot | Dholak; Mridangam; Bongos
+Veena | String instrument; Indian lute | Carnatic music; Goddess holds it | Two gourds; Long fretted neck | Sitar; Sarod; Tanpura
+Bansuri | Bamboo pipe; Indian woodwind | Krishna plays it; Soulful tunes | Hollow bamboo; Six holes | Shehnai; Recorder; Piccolo
+Shehnai | Wind instrument; Indian oboe | Weddings in india; Auspicious music | Flared bell; Double reed | Nadaswaram; Oboe; Clarinet
+Harmonium | Keyboard instrument; Reed organ | Devotional songs; Qawwali | Hand pumped bellows; Small keyboard | Accordion; Organ; Piano
+Dhol | Percussion instrument; Barrel drum | Bhangra dancing; Weddings | Two sided drum; Hung from shoulder | Tabla; Taiko; Bass drum
+Mridangam | Percussion instrument; South indian drum | Carnatic concerts; Ancient rhythms | Double headed barrel; Played sideways | Tabla; Dholak; Ghatam
+Sarod | String instrument; Indian lute | Classical ragas; Fretless | Metal fingerboard; Skin covered body | Sitar; Veena; Rubab
+Santoor | String instrument; Hammered dulcimer | Kashmiri music; Soothing tones | Trapezoid box; Tiny mallets | Dulcimer; Zither; Harp
+Tanpura | String instrument; Drone lute | Accompanies singers; Constant hum | Long neck; No frets | Sitar; Veena; Sarod
+Didgeridoo | Wind instrument; Aboriginal horn | Australian outback; Circular breathing | Long hollow log; Droning buzz | Alphorn; Bagpipes; Tuba
+Bongos | Percussion instrument; Hand drums | Latin rhythms; Beach jams | Pair of small drums; Held between knees | Congas; Tabla; Djembe
+Congas | Percussion instrument; Tall drums | Salsa bands; Afro cuban music | Barrel shaped; Slapped by hand | Bongos; Djembe; Timbales
+Djembe | Percussion instrument; African drum | Drum circles; West african music | Goblet shape; Goatskin head | Bongos; Congas; Tabla
+Castanets | Percussion instrument; Clappers | Flamenco dancers; Spanish rhythms | Shell pairs; Clicked in palm | Maracas; Tambourine; Spoons
+Kazoo | Toy instrument; Humming tube | Party noise; Silly buzz | Paper membrane; Hum into it | Whistle; Harmonica; Recorder
+Ocarina | Wind instrument; Vessel flute | Video game fame; Ancient origins | Egg shaped clay; Finger holes | Recorder; Flute; Whistle
+Glockenspiel | Percussion instrument; Bell lyre | Christmas music; Twinkly notes | Metal bars; Small mallets | Xylophone; Marimba; Celesta
+Marimba | Percussion instrument; Wooden mallet instrument | Latin and african music; Warm tones | Wide wooden bars; Resonator tubes | Xylophone; Vibraphone; Glockenspiel
+Vibraphone | Percussion instrument; Jazz mallets | Shimmering tones; Cool jazz | Metal bars; Spinning fans | Marimba; Xylophone; Glockenspiel
+Harpsichord | Keyboard instrument; Baroque keyboard | Bach era; Royal courts | Plucked strings; Two keyboards | Piano; Organ; Clavichord
+Synthesizer | Electronic instrument; Sound generator | Eighties pop; Dance music | Knobs and sliders; Electronic sounds | Keyboard; Organ; Theremin
+Keyboard | Electronic instrument; Portable piano | School music rooms; Preset rhythms | Plastic keys; Built in speakers | Piano; Synthesizer; Organ
+Electric guitar | Amplified instrument; Rock axe | Shredding solos; Stadium concerts | Solid body; Pickups and amp | Bass guitar; Acoustic guitar; Banjo
+Bass guitar | String instrument; Low rhythm | Funky grooves; Band backbone | Four thick strings; Long neck | Double bass; Electric guitar; Cello
+Acoustic guitar | String instrument; Wooden strummer | Campfire songs; Unplugged sessions | Hollow body; Sound hole | Electric guitar; Ukulele; Banjo
+Fiddle | String instrument; Folk violin | Country dances; Irish jigs | Bowed strings; Hoedown music | Violin; Banjo; Mandolin
+Theremin | Electronic instrument; Touchless instrument | Spooky movie sounds; Hand waving | Two antennas; Eerie whine | Synthesizer; Saw; Organ
+Steel drum | Percussion instrument; Caribbean pan | Calypso music; Beach parties | Dimpled metal pan; Bright ringing | Marimba; Bongos; Gong
+Snare drum | Percussion instrument; Marching percussion | Military rolls; Kit staple | Rattling wires; Crisp crack | Bass drum; Tom; Bongos
+Bass drum | Percussion instrument; Big boomer | Marching bands; Kick pedal | Deep boom; Large round shell | Snare drum; Timpani; Dhol
+Timpani | Percussion instrument; Kettle drums | Orchestra climaxes; Thunder effects | Copper bowls; Tuning pedals | Bass drum; Gong; Snare drum
+Cowbell | Percussion instrument; Metal clanker | Rock songs; Need more of it | Clanky metal; Struck with stick | Triangle; Gong; Woodblock
+Chimes | Percussion instrument; Tubular bells | Church sounds; Orchestra effects | Hanging metal tubes; Ringing tones | Bells; Gong; Glockenspiel
+Bells | Percussion instrument; Ringing metal | Church towers; Holiday songs | Cup shaped; Clappers inside | Chimes; Gong; Cymbal
+Handbell | Percussion instrument; Held ringer | Ringing choirs; Christmas concerts | Polished brass; Leather handle | Chimes; Triangle; Cowbell
+Washboard | Percussion instrument; Folk rhythm | Zydeco music; Jug bands | Ridged metal; Thimbles scrape | Spoons; Cowbell; Tambourine
+Spoons | Folk percussion; Household rhythm | Kitchen jam sessions; Irish music | Two utensils clicked; Back to back | Castanets; Washboard; Bones
+Jaw harp | Mouth instrument; Twangy plucker | Folk music; Boing sounds | Metal frame; Flexible tongue | Harmonica; Kazoo; Didgeridoo
+Pan flute | Wind instrument; Tube pipes | Andean music; Greek myth god | Row of tubes; Blown across top | Recorder; Ocarina; Whistle
+Alphorn | Wind instrument; Swiss trumpet | Alpine valleys; Herders call | Very long wooden tube; Upturned bell | Didgeridoo; Bugle; Tuba
+Sousaphone | Brass instrument; Marching tuba | Football halftime; Wrapped around player | Huge front bell; Circular coil | Tuba; Trombone; French horn
+Euphonium | Brass instrument; Small tuba | Brass bands; Mellow solos | Tenor range; Upright valves | Tuba; Trombone; Baritone
+Cornet | Brass instrument; Compact trumpet | Brass bands; Mellow tone | Shorter body; Three valves | Trumpet; Bugle; Flugelhorn
+Flugelhorn | Brass instrument; Wide trumpet | Jazz ballads; Dark tone | Conical bore; Large bell | Trumpet; Cornet; French horn
+Zither | String instrument; Flat box | Folk music; Laid on lap | Many strings; Flat soundboard | Dulcimer; Harp; Lyre
+Dulcimer | String instrument; Folk box | Appalachian music; Lap played | Hourglass body; Strummed or hammered | Zither; Santoor; Lute
+Koto | String instrument; Japanese zither | Traditional japanese music; Kneeling players | Long wooden body; Movable bridges | Shamisen; Guzheng; Harp
+Shamisen | String instrument; Japanese lute | Kabuki theater; Three strings | Square body; Large plectrum | Koto; Banjo; Lute
+Erhu | String instrument; Chinese fiddle | Mournful melodies; Two strings | Snake skin body; Bow between strings | Violin; Pipa; Sarangi
+Pipa | String instrument; Chinese lute | Ancient chinese music; Rapid plucking | Pear shaped; Many frets | Lute; Erhu; Koto
+Guzheng | String instrument; Chinese zither | Flowing melodies; Plucked with picks | Long board; Many strings | Koto; Zither; Harp
+Taiko | Percussion instrument; Japanese drum | Thundering festivals; Group drumming | Huge barrel drum; Thick sticks | Dhol; Bass drum; Timpani
+Sarangi | String instrument; Indian fiddle | Accompanies singers; Weeping sound | Bowed strings; Carved wood block | Erhu; Violin; Sarod
+Nadaswaram | Wind instrument; South indian horn | Temple processions; Weddings | Long wooden pipe; Loud reed | Shehnai; Oboe; Clarinet
+Ghatam | Percussion instrument; Clay pot | Carnatic concerts; Played on lap | Earthenware pot; Finger taps | Mridangam; Tabla; Udu
+Dholak | Percussion instrument; Folk drum | Wedding songs; Indian folk | Two sided barrel; Rope tuned | Mridangam; Tabla; Bongos
+Damru | Percussion instrument; Hourglass drum | Shiva holds it; Street monkey shows | Tiny hourglass; Bead strikers | Dhol; Tabla; Tambourine
+Ektara | String instrument; One string | Folk singers; Baul music | Single string; Bamboo neck | Sitar; Tanpura; Banjo
+Morsing | Mouth instrument; Indian jaw harp | Carnatic percussion; Twangy | Metal frame; Held in teeth | Jaw harp; Harmonica; Kazoo
+Practice chanter | Learner reed; Melody tube | Highland beginners; Fingered tune | Reed tube; Finger holes | Recorder; Whistle; Flute
+Tin whistle | Wind instrument; Cheap pipe | Irish folk; Cheap and cheerful | Metal tube; Six holes | Recorder; Flute; Piccolo
+Melodica | Keyboard instrument; Blow organ | School music class; Reggae | Mouthpiece tube; Small keys | Harmonica; Accordion; Keyboard
+Concertina | Squeezebox; Small accordion | Sea shanties; Irish music | Hexagonal ends; Buttons | Accordion; Harmonium; Bandoneon
+Bandoneon | Squeezebox; Tango instrument | Argentine tango; Buenos aires | Square bellows; Many buttons | Accordion; Concertina; Harmonium
+Banjolele | String instrument; Hybrid uke | Music hall songs; Plinky | Drum body; Four strings | Ukulele; Mandolin; Lute
+Lap steel | String instrument; Slide guitar | Hawaiian sound; Country weeping | Laid flat; Metal bar slide | Dobro; Banjo; Pedal steel
+Cajon | Percussion instrument; Box drum | Unplugged sessions; Flamenco | Wooden box; Sit on it | Bongos; Djembe; Snare drum
+Rainstick | Percussion instrument; Shaker tube | Relaxing sound; Shower imitation | Cactus tube; Pebbles inside | Maracas; Ocean drum; Shaker
+Woodblock | Percussion instrument; Wooden clapper | Clip clop effects; Orchestra | Hollow chamber; Struck with stick | Cowbell; Claves; Castanets
+Claves | Percussion instrument; Rhythm sticks | Salsa rhythms; Latin pattern | Two wooden dowels; Sharp click | Woodblock; Castanets; Spoons
+Shaker | Percussion instrument; Rattle | Acoustic gigs; Egg shaped | Filled with beads; Shaken rhythm | Maracas; Tambourine; Rainstick
+Guiro | Percussion instrument; Scraper | Latin music; Raspy sound | Ridged gourd; Scraped with stick | Washboard; Maracas; Claves
+Vuvuzela | Horn; Stadium trumpet | World cup buzz; Very loud | Long plastic horn; Monotone blare | Bugle; Kazoo; Whistle
+Conch shell | Wind instrument; Ocean horn | Temple rituals; Ancient signal | Spiral sea spiral; Deep blast | Bugle; Horn; Didgeridoo
+Whistle | Wind instrument; Signal pipe | Referees blow it; Shrill sound | Tiny metal; Pea inside | Kazoo; Recorder; Horn
+Music box | Mechanical instrument; Wind up toy | Ballerina spins; Lullabies | Turning cylinder; Metal comb | Jukebox; Chimes; Gramophone
+Hurdy gurdy | String instrument; Crank instrument | Medieval fairs; Buzzing drone | Turning wheel; Keyed strings | Bagpipes; Violin; Accordion
+Celesta | Keyboard instrument; Bell piano | Sugar plum fairy; Twinkly | Hammers hit metal plates; Small keys | Glockenspiel; Piano; Harpsichord
+Clavichord | Keyboard instrument; Early keyboard | Baroque practice; Very quiet | Struck strings; Small box | Harpsichord; Piano; Organ
+Pipe organ | Keyboard instrument; Cathedral giant | Weddings and funerals; Thunderous | Hundreds of tubes; Stops and pedals | Harmonium; Piano; Harpsichord
+Turntable | Dj equipment; Record player | Scratching sounds; Hip hop roots | Spinning platter; Needle arm | Synthesizer; Drum machine; Mixer
+Drum machine | Electronic instrument; Beat maker | Hip hop beats; Dance music | Pads and buttons; Programmed rhythm | Synthesizer; Sampler; Turntable
+Electric violin | Amplified instrument; Modern fiddle | Crossover music; Neon designs | Skeletal body; Plugged in | Cello; Viola; Electric guitar
+Acoustic bass | String instrument; Hollow low end | Unplugged gigs; Folk bands | Big hollow body; Four strings | Double bass; Bass guitar; Cello
+Twelve string | Fretted instrument; Jangly guitar | Folk rock shimmer; Rich chime | Doubled courses; Wide neck | Mandolin; Banjo; Ukulele
+Tenor sax | Woodwind instrument; Jazz horn | Smoky solos; Rock and roll | Curved neck; Big brass body | Alto sax; Clarinet; Trumpet
+Alto sax | Woodwind instrument; Jazz horn | School bands; Bright solos | Smaller brass body; Single reed | Tenor sax; Clarinet; Oboe
+Steel guitar | String instrument; Country sound | Weeping notes; Nashville | Pedals and knees; Slide bar | Banjo; Dobro; Fiddle
+Dobro | String instrument; Resonator guitar | Bluegrass slides; Metallic tone | Metal cone; Played flat | Banjo; Steel guitar; Mandolin
+Balalaika | String instrument; Russian lute | Folk dances; Triangular body | Three strings; Triangle shape | Mandolin; Banjo; Domra
+Bouzouki | String instrument; Greek lute | Taverna music; Zorba dance | Long neck; Round back | Mandolin; Lute; Banjo
+Oud | String instrument; Arabic lute | Middle eastern music; Fretless | Bowl back; Short neck | Lute; Bouzouki; Sitar
+Kalimba | Thumb piano; African instrument | Soothing plinks; Pocket music | Metal tines; Wooden board | Music box; Xylophone; Glockenspiel
+Hang drum | Percussion instrument; Handpan | Meditative tones; Street buskers | Flying saucer shape; Dimpled steel | Steel drum; Gong; Bongos
+Tongue drum | Percussion instrument; Steel percussion | Relaxing tones; Kids play easily | Cut steel tabs; Round body | Hang drum; Kalimba; Xylophone
+Gamelan | Percussion ensemble; Indonesian orchestra | Bali ceremonies; Shimmering tones | Bronze gongs; Metal keys | Orchestra; Steel band; Marimba
+Bodhran | Percussion instrument; Irish frame drum | Celtic music; Pub sessions | Goatskin frame; Double ended stick | Tambourine; Snare drum; Djembe
+Timbales | Percussion instrument; Latin drums | Salsa music; Shallow shells | Metal drums on stand; Cowbell attached | Bongos; Congas; Snare drum
+Tom drum | Percussion instrument; Kit piece | Rolling fills; Rock kits | Mounted cylinders; Tuned pitches | Snare drum; Bass drum; Bongos
+Hi hat | Percussion instrument; Pedal cymbals | Disco beats; Tight ticks | Paired cymbals; Foot pedal | Ride cymbal; Snare drum; Cowbell
+Ride cymbal | Percussion instrument; Large bronze | Jazz patterns; Steady pinging | Big bronze disc; Bell center | Crash cymbal; Gong; Hi hat
+Glass harp | Musical goblets; Friction instrument | Wet finger rims; Eerie tones | Stemmed goblets; Water levels | Glockenspiel; Chimes; Celesta
+Singing bowl | Meditation instrument; Tibetan instrument | Yoga classes; Healing sound | Metal vessel; Rubbed wooden stick | Gong; Bell; Chimes
+Musical saw | Odd instrument; Bowed blade | Spooky wail; Folk oddity | Bent handsaw; Bow on edge | Theremin; Violin; Glass harp
+Steel pan | Percussion instrument; Trinidad drum | Carnival bands; Bright plinks | Hammered oil barrel; Note bumps | Hang drum; Marimba; Gong
+Lyre harp | String instrument; Compact strummer | Folk tunes; Easy to learn | Few strings; Wooden frame | Zither; Dulcimer; Lute
+Recorder flute | Woodwind instrument; School pipe | Music class; Squeaky notes | Plastic tube; Thumb hole | Tin whistle; Ocarina; Piccolo

@@ -1,0 +1,160 @@
+@id nature
+@name Nature
+Mountain | Landform; High ground | Climbers conquer it; Snowy peaks | Steep slopes; Summit at top | Hill; Volcano; Cliff
+River | Water body; Flowing water | Boats and fishing; Ends at sea | Banks on both sides; Current | Lake; Stream; Canal
+Ocean | Water body; Vast sea | Covers most of earth; Whales live there | Salty waves; Deep blue | Lake; River; Pond
+Lake | Water body; Still water | Summer cabins; Boating trips | Surrounded by land; Calm surface | Pond; River; Ocean
+Forest | Wooded area; Natural habitat | Hiking trails; Animals hide | Dense trees; Leafy canopy | Jungle; Park; Meadow
+Jungle | Tropical habitat; Dense wilderness | Monkeys and parrots; Explorers | Thick vines; Humid air | Forest; Swamp; Savanna
+Desert | Dry land; Arid region | Camels cross it; Mirages | Sand dunes; Cactus plants | Beach; Tundra; Prairie
+Beach | Coastline; Seaside | Summer holidays; Sandcastles | Sand and waves; Seashells | Desert; Cliff; Harbor
+Island | Landform; Isolated ground | Castaway stories; Holiday resorts | Surrounded by sea; Palm trees | Peninsula; Reef; Atoll
+Volcano | Landform; Fiery mountain | Erupts lava; Ash clouds | Crater at top; Molten rock | Geyser; Mountain; Earthquake
+Waterfall | River feature; Natural wonder | Tourist attraction; Rainbows in mist | Cascading torrent; Plunge pool | Rapids; River; Fountain
+Cave | Natural shelter; Underground space | Bats live inside; Explorers with torches | Stalactites; Dark and damp | Tunnel; Mine; Burrow
+Cliff | Landform; Steep drop | Coastal views; Climbers scale it | Sheer rock face; Edge warning | Canyon; Hill; Ridge
+Canyon | Landform; Deep valley | Carved by rivers; Tourist lookouts | Steep red walls; Echoes | Valley; Gorge; Cliff
+Valley | Landform; Low land | Between mountains; Rivers flow through | Green and fertile; Sheltered | Canyon; Plain; Hill
+Hill | Landform; Small rise | Rolling countryside; Sledding spot | Gentle slope; Grassy top | Mountain; Mound; Valley
+Meadow | Grassland; Open field | Picnic spot; Wildflowers bloom | Tall grass; Butterflies | Prairie; Field; Forest
+Swamp | Wetland; Marshy land | Alligators lurk; Mosquitoes | Murky water; Mossy trees | Marsh; Bog; Jungle
+Glacier | Ice mass; Frozen river | Melting with warming; Carves valleys | Blue ice; Slow moving | Iceberg; Snowfield; Avalanche
+Iceberg | Floating ice; Polar hazard | Sank a famous ship; Mostly underwater | Tip shows above; White and blue | Glacier; Floe; Snowman
+Rainbow | Sky display; Weather wonder | After showers; Pot of gold | Seven colors; Arc shape | Aurora; Sunset; Prism
+Thunder | Weather sound; Storm noise | Scares pets; Follows lightning | Loud rumble; Booming crash | Lightning; Rain; Wind
+Lightning | Weather event; Electric flash | Storms at night; Strikes tall things | Zigzag bolt; Bright flash | Thunder; Rainbow; Spark
+Rain | Weather; Falling water | Umbrellas out; Puddles form | Droplets from clouds; Pitter patter | Snow; Hail; Mist
+Snow | Weather; Frozen flakes | Winter fights; School closures | White blanket; Cold and fluffy | Rain; Hail; Frost
+Hail | Weather; Ice pellets | Dents cars; Sudden storms | Bouncing ice balls; Rattles roofs | Snow; Sleet; Rain
+Fog | Weather; Low cloud | Airport delays; Spooky mornings | Thick grey mist; Low visibility | Smoke; Mist; Smog
+Wind | Weather; Moving air | Flies kites; Blows hats away | Gusts and breezes; Invisible | Storm; Breeze; Tornado
+Tornado | Weather event; Violent storm | Storm chasers; Midwest plains | Spinning funnel; Destroys houses | Hurricane; Cyclone; Dust devil
+Hurricane | Weather event; Tropical storm | Named storms; Evacuations | Eye in center; Huge spiral | Tornado; Typhoon; Monsoon
+Earthquake | Natural disaster; Ground shaking | Measured on scales; Buildings collapse | Tectonic plates; Aftershocks | Volcano; Tsunami; Landslide
+Tsunami | Natural disaster; Giant wave | Follows undersea quakes; Coastal warnings | Wall of water; Sea retreats first | Hurricane; Flood; Earthquake
+Flood | Natural disaster; Rising water | Heavy rains; Sandbags | Submerged streets; Overflowing rivers | Drought; Tsunami; Storm
+Drought | Natural disaster; Arid period | No showers for months; Crops fail | Cracked earth; Empty riverbeds | Flood; Famine; Heatwave
+Avalanche | Natural disaster; Snow slide | Mountain danger; Skiers warned | Rushing snow; Buries everything | Landslide; Blizzard; Glacier
+Sun | Star; Sky object | Gives daylight; Sunscreen needed | Hot and bright; Center of solar system | Moon; Star; Planet
+Moon | Satellite; Night sky object | Phases monthly; Controls tides | Craters; Silver glow | Sun; Star; Planet
+Star | Night light; Celestial body | Make a wish; Twinkle twinkle | Shines far away; Constellations | Planet; Moon; Comet
+Comet | Space object; Icy wanderer | Rare sightings; Ancient omens | Glowing tail; Orbits the sun | Meteor; Asteroid; Star
+Planet | Celestial body; Orbiting world | Eight in our system; Explored by probes | Round world; Circles a star | Star; Moon; Asteroid
+Tree | Plant; Woody plant | Gives shade; Climbed by kids | Trunk and branches; Leaves | Bush; Shrub; Flower
+Flower | Plant part; Blossom | Given on valentines; Bees visit | Petals; Sweet smell | Leaf; Tree; Weed
+Leaf | Plant part; Green part | Falls in autumn; Photosynthesis | Veins and stem; Flat and green | Flower; Branch; Petal
+Grass | Plant; Ground cover | Mowed on weekends; Cows eat it | Green blades; Lawns | Moss; Hay; Weed
+Moss | Small plant; Ground cover | Grows in shade; Soft carpet | Green fuzz; Damp rocks | Grass; Lichen; Fern
+Fern | Plant; Ancient plant | Shady forests; Houseplant | Feathery fronds; Spores underneath | Moss; Palm; Bush
+Cactus | Desert plant; Succulent | Stores water; Hard to kill | Sharp spines; Thick stems | Aloe; Palm; Yucca
+Palm tree | Tropical plant; Beach plant | Island holidays; Coconuts hang | Long trunk; Fan leaves | Pine; Banana plant; Bamboo
+Pine tree | Evergreen; Conifer | Holiday decoration; Forest smell | Needle leaves; Woody cones | Oak; Fir; Spruce
+Oak | Tree; Hardwood | Mighty and old; Furniture wood | Acorns; Lobed leaves | Maple; Pine; Elm
+Maple | Tree; Hardwood | Syrup source; Canadian symbol | Red autumn leaves; Winged seeds | Oak; Birch; Elm
+Bamboo | Grass plant; Fast grower | Pandas eat it; Building material | Hollow green stalks; Segmented | Reed; Sugarcane; Palm
+Rose | Flower; Romantic bloom | Valentine gift; Love symbol | Thorny stems; Red petals | Tulip; Lily; Carnation
+Sunflower | Garden plant; Tall bloom | Follows daylight; Seeds as snack | Huge yellow head; Brown center | Daisy; Marigold; Tulip
+Tulip | Flower; Spring bloom | Dutch fields; Bulb planted | Cup shaped petals; Bright colors | Rose; Lily; Daffodil
+Lotus | Flower; Sacred bloom | Grows in mud; Spiritual symbol | Floats on ponds; Pink petals | Lily; Water lily; Rose
+Daisy | Flower; Simple bloom | Petal picking game; Chains | White petals; Yellow center | Sunflower; Daffodil; Buttercup
+Lily | Flower; Elegant bloom | Funerals and weddings; Fragrant | Trumpet shape; Long stamens | Tulip; Rose; Orchid
+Orchid | Flower; Exotic bloom | Expensive houseplant; Delicate care | Unusual shape; Long lasting | Lily; Rose; Iris
+Mushroom | Fungus; Forest growth | Fairy rings; Pizza topping | Cap and stem; Grows in damp | Toadstool; Truffle; Moss
+Rock | Natural object; Solid mineral | Skimmed on lakes; Collected by geologists | Hard and heavy; Grey stone | Pebble; Boulder; Sand
+Pebble | Small stone; Smooth rock | Beach collecting; Skipping on water | Rounded by water; Fits in palm | Rock; Sand; Shell
+Sand | Granular material; Beach ground | Beach castles; Hourglasses | Tiny grains; Gets everywhere | Soil; Pebble; Dust
+Mud | Wet earth; Sticky ground | Pigs roll in it; Rainy fields | Brown and squelchy; Messy boots | Clay; Sand; Soil
+Soil | Ground material; Earth | Gardens grow in it; Worms live there | Dark and crumbly; Rich nutrients | Sand; Mud; Clay
+Seashell | Beach find; Sea creature home | Hear the ocean; Collected on holidays | Spiral or fan; Pearly inside | Pebble; Starfish; Coral
+Coral reef | Marine habitat; Underwater ecosystem | Snorkeling spots; Colorful fish | Polyps; Bleaching threat | Kelp forest; Lagoon; Atoll
+Wave | Ocean motion; Water swell | Surfers ride them; Crash on shore | Crests and troughs; White foam | Tide; Current; Ripple
+Tide | Ocean movement; Sea level change | Twice daily; Moon pulls it | High and low; Rock pools appear | Wave; Current; Flood
+Breeze | Gentle wind; Light air | Cools summer days; Rustles leaves | Soft gust; Refreshing | Wind; Gale; Draft
+Sunrise | Morning event; Dawn | Early risers; Roosters crow | Golden horizon; Sky turns pink | Sunset; Dusk; Noon
+Sunset | Evening event; Dusk | Romantic walks; Photographers love it | Orange sky; Sun dips low | Sunrise; Dawn; Twilight
+Aurora | Sky lights; Polar display | Seen up north; Bucket list sight | Green ribbons; Dancing glow | Rainbow; Comet; Fireworks
+Eclipse | Sky event; Celestial alignment | Special glasses needed; Rare event | Moon blocks sun; Daytime darkness | Sunset; Comet; Meteor
+Meteor | Space rock; Shooting star | Make a wish; Sky showers | Streak of light; Burns up | Comet; Asteroid; Star
+Cloud | Sky object; Water vapor | Shapes like animals; Brings rain | Fluffy white; Floats overhead | Fog; Smoke; Mist
+Puddle | Small water; Rain leftover | Kids jump in; Splashes cars | Shallow pool; Reflects sky | Pond; Lake; Mud
+Pond | Small lake; Still water | Ducks and frogs; Garden feature | Lily pads; Reeds around | Lake; Puddle; Swamp
+Stream | Small river; Flowing water | Hikers cross it; Babbling sound | Narrow and shallow; Pebbly bed | River; Brook; Canal
+Geyser | Hot spring; Natural fountain | Erupts on schedule; Tourist attraction | Steam blast; Boiling water | Volcano; Waterfall; Fountain
+Hot spring | Natural pool; Warm water | Relaxing soak; Volcanic areas | Steaming pools; Mineral rich | Geyser; Lake; Sauna
+Oasis | Desert haven; Water source | Camels rest there; Mirage myth | Palm trees; Pool in sand | Lake; Spring; Island
+Prairie | Grassland; Open plains | Bison roamed; Wheat farms | Endless grass; Big sky | Meadow; Savanna; Steppe
+Savanna | Grassland; African plains | Lions and zebras; Safari trips | Scattered trees; Dry season | Prairie; Jungle; Desert
+Tundra | Cold biome; Frozen plain | Reindeer graze; Permafrost | Treeless land; Short summers | Desert; Glacier; Taiga
+Rainforest | Tropical biome; Rich biome | Huge biodiversity; Endangered habitat | Constant downpours; Tall canopy | Jungle; Swamp; Savanna
+Coral | Marine organism; Reef builder | Snorkelers admire; Bleaching threat | Colorful branches; Hard skeleton | Seaweed; Shell; Sponge
+Seaweed | Marine plant; Algae | Wrapped around sushi; Washes ashore | Slimy green fronds; Floats in water | Kelp; Moss; Coral
+Kelp | Marine algae; Underwater plant | Otters wrap in it; Forests underwater | Tall brown fronds; Gas bladders | Seaweed; Coral; Bamboo
+Acorn | Tree seed; Nut | Squirrels bury them; Autumn find | Little cap; From oak trees | Pinecone; Chestnut; Walnut
+Pinecone | Tree seed; Conifer fruit | Christmas crafts; Forest floor | Woody scales; Opens when dry | Acorn; Chestnut; Seed
+Seed | Plant start; Tiny grain | Planted in spring; Sprouts | Tiny shell; Grows into plant | Bulb; Nut; Spore
+Root | Plant part; Underground part | Absorbs water; Anchors plants | Grows downward; Tangled strands | Stem; Branch; Bulb
+Branch | Tree part; Limb | Birds perch; Swings hang from it | Woody arm; Leafy twigs | Trunk; Root; Twig
+Thorn | Plant defense; Sharp point | Roses have them; Pricks fingers | Pointy spike; On stems | Spine; Needle; Splinter
+Petal | Flower part; Colorful piece | Love me not game; Wedding confetti | Soft and colorful; Falls off | Leaf; Sepal; Stem
+Pollen | Plant powder; Flower dust | Causes allergies; Bees carry it | Yellow dust; Sneezing season | Seed; Nectar; Spore
+Nectar | Flower juice; Sweet liquid | Bees collect it; Hummingbird food | Sugary fluid; Inside blooms | Honey; Pollen; Sap
+Sap | Tree fluid; Sticky liquid | Maple syrup source; Oozes from bark | Golden sticky; Runs in spring | Resin; Nectar; Honey
+Bark | Tree skin; Outer layer | Rubbing for crafts; Trees shed it | Rough texture; Protects trunk | Trunk; Leaf; Root
+Twig | Small stick; Tree piece | Nests built with them; Snaps underfoot | Thin and dry; Forest floor | Branch; Stick; Log
+Log | Fallen tree; Wood piece | Campfire fuel; Sat on outdoors | Heavy cylinder; Bark covered | Branch; Stump; Plank
+Stump | Tree remains; Cut base | Rings show age; Seat in woods | Flat top; Roots below | Log; Trunk; Root
+Vine | Climbing plant; Creeper | Tarzan swings; Grapes grow | Twisting stems; Wraps around | Ivy; Branch; Rope
+Ivy | Climbing plant; Evergreen creeper | Covers old walls; College buildings | Green leaves; Clings to bricks | Vine; Moss; Fern
+Weed | Unwanted plant; Garden pest | Pulled by gardeners; Grows anywhere | Dandelions; Invasive roots | Grass; Flower; Moss
+Dandelion | Wildflower; Common weed | Blown for wishes; Lawn invader | Fluffy seed head; Yellow bloom | Daisy; Buttercup; Clover
+Clover | Small plant; Lucky charm | Four leaf luck; Bees adore it | Three round leaves; White blooms | Shamrock; Dandelion; Moss
+Willow | Tree; Riverside tree | Weeping branches; Cricket bats | Drooping limbs; Long thin leaves | Oak; Birch; Poplar
+Birch | Tree; Slender tree | Northern forests; Canoe bark | White papery bark; Thin trunk | Oak; Maple; Aspen
+Redwood | Tree; Giant tree | Tallest trees; Ancient forests | Reddish bark; Huge trunks | Sequoia; Pine; Oak
+Baobab | Tree; African tree | Upside down tree; Stores water | Fat trunk; Stubby branches | Redwood; Palm; Acacia
+Coconut palm | Tropical tree; Beach tree | Island postcards; Climbers harvest | Fruit cluster up top; Feathery fronds | Date palm; Pine; Bamboo
+Bonsai | Miniature tree; Japanese art | Patient pruning; Indoor display | Tiny trunk; Shallow pot | Sapling; Shrub; Topiary
+Hedge | Garden border; Shrub row | Trimmed neatly; Privacy wall | Dense leaves; Clipped shape | Fence; Bush; Wall
+Bush | Shrub; Small plant | Garden borders; Berries grow | Many stems; Low and round | Tree; Hedge; Fern
+Lavender | Herb plant; Purple flower | Calming scent; Soap and oils | Purple spikes; Fragrant fields | Rosemary; Lilac; Sage
+Jasmine | Flowering vine; Fragrant bloom | Night scent; Garlands | Small white stars; Sweet perfume | Lily; Lavender; Gardenia
+Marigold | Flower; Festival bloom | Garlands for festivals; Pest repellent | Orange ruffles; Strong smell | Sunflower; Daisy; Carnation
+Hibiscus | Tropical flower; Bright bloom | Hawaiian shirts; Herbal tea | Big red petals; Long stamen | Rose; Orchid; Lily
+Snowflake | Ice crystal; Winter symbol | No two alike; Caught on tongues | Six sided; Delicate pattern | Hailstone; Raindrop; Frost
+Icicle | Frozen drip; Winter feature | Hangs from roofs; Melts in sun | Pointed ice spike; Glistens | Stalactite; Snowflake; Frost
+Frost | Ice coating; Cold morning | Scrape the windshield; Kills plants | White crystals; Sparkly grass | Snow; Dew; Ice
+Dew | Morning moisture; Water droplets | Wet grass at dawn; Spider webs sparkle | Tiny beads; Condensation | Frost; Rain; Mist
+Mist | Light fog; Fine droplets | Mysterious mornings; Waterfalls create it | Hazy air; Damp feeling | Fog; Steam; Dew
+Storm | Weather event; Bad weather | Cancel plans; Power cuts | Thunder and rain; Dark clouds | Breeze; Drizzle; Rainbow
+Blizzard | Snowstorm; Winter weather | Snowed in; Whiteout | Howling wind; Heavy snowfall | Hailstorm; Avalanche; Hurricane
+Monsoon | Seasonal rain; Wet season | South asian summer; Floods | Heavy downpours; Humid winds | Drought; Hurricane; Drizzle
+Heatwave | Hot weather; Extreme temperatures | Fans sell out; Stay hydrated | Scorching days; Warm nights | Drought; Monsoon; Blizzard
+Constellation | Star pattern; Night sky shape | Zodiac signs; Sailors navigated | Connect the dots; Named shapes | Galaxy; Planet; Comet
+Galaxy | Star system; Cosmic structure | Milky way; Billions of stars | Spiral arms; Distant glow | Nebula; Constellation; Universe
+Nebula | Space cloud; Cosmic dust | Star nurseries; Telescope photos | Colorful gas; Glowing clouds | Galaxy; Comet; Supernova
+Asteroid | Space rock; Minor body | Dinosaur extinction; Belt between planets | Rocky lump; Craters | Comet; Meteor; Moon
+Black hole | Space mystery; Collapsed star | Nothing escapes; Bends light | Event horizon; Spaghettification | Supernova; Galaxy; Wormhole
+Supernova | Star explosion; Cosmic blast | Brightest event; Creates elements | Dying giant star; Shockwave | Nebula; Black hole; Comet
+Atoll | Coral island; Ring reef | Pacific paradise; Lagoon inside | Circular reef; Low lying | Island; Reef; Peninsula
+Peninsula | Landform; Almost island | Water on three sides; Coastal towns | Jutting land; Connected to mainland | Island; Cape; Isthmus
+Delta | River mouth; Wetland | Fertile farmland; Bird habitat | Fan shaped; Many channels | Estuary; Lagoon; Valley
+Lagoon | Shallow water; Coastal pool | Calm swimming; Tropical resorts | Separated by reef; Turquoise | Lake; Bay; Pond
+Bay | Coastal inlet; Curved shore | Harbors and boats; Calm waters | Curving coastline; Sheltered | Lagoon; Gulf; Cove
+Gorge | Narrow valley; Ravine | River rapids; Rafting trips | Steep rock walls; Deep cut | Canyon; Valley; Cave
+Plateau | Landform; Flat highland | Tablelands; High farms | Raised flat land; Steep sides | Mesa; Valley; Hill
+Marsh | Wetland; Grassy swamp | Birds nest; Reeds sway | Soggy ground; Tall reeds | Swamp; Bog; Meadow
+Bog | Wetland; Peat land | Ancient preserved finds; Cranberries grow | Spongy moss; Acidic water | Marsh; Swamp; Fen
+Dune | Sand hill; Desert feature | Sandboarding; Shifts with wind | Rippled sand; Curved crest | Hill; Beach; Ridge
+Crater | Landform; Impact hole | Meteor strikes; Moon surface | Round bowl; Raised rim | Volcano; Pit; Canyon
+Fossil | Ancient remains; Preserved life | Dinosaur bones; Museum displays | Imprint in rock; Millions of years | Skeleton; Amber; Shell
+Amber | Fossil resin; Golden gem | Insects trapped; Jewelry | Honey colored; Translucent | Fossil; Crystal; Pearl
+Crystal | Mineral formation; Shiny stone | Healing claims; Geode centers | Sharp facets; Clear and glinting | Diamond; Glass; Ice
+Diamond | Gemstone; Precious stone | Engagement rings; Hardest substance | Sparkly facets; Made from carbon | Ruby; Crystal; Emerald
+Pearl | Gem; Oyster treasure | Necklaces; Divers search | Round and white; Lustrous | Diamond; Shell; Bead
+Gold | Precious metal; Valuable element | Medals and jewelry; Prospectors rush | Shiny yellow; Does not rust | Silver; Bronze; Copper
+Spider web | Silk trap; Natural net | Catches flies; Halloween decor | Sticky threads; Dew covered | Cocoon; Net; Nest
+Nest | Bird home; Animal shelter | Eggs hatch; Built in trees | Woven twigs; Cup shaped | Burrow; Hive; Den
+Beehive | Insect home; Honey factory | Buzzing colony; Beekeepers | Hexagon cells; Wax combs | Nest; Anthill; Wasp nest
+Anthill | Insect home; Colony mound | Tunnels underground; Busy workers | Mound of dirt; Tiny entrance | Beehive; Molehill; Termite mound
+Burrow | Animal home; Underground hole | Rabbits live there; Dug by moles | Tunnel entrance; Dark and cosy | Nest; Den; Cave
+Den | Animal home; Lair | Bears hibernate; Fox cubs | Hidden hollow; Rocky shelter | Burrow; Nest; Cave

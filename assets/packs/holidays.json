@@ -1,0 +1,5174 @@
+{
+ "id": "holidays",
+ "name": "Holidays & Festivals",
+ "words": [
+  {
+   "word": "Christmas",
+   "hints": [
+    {
+     "text": "Winter holiday",
+     "level": 1
+    },
+    {
+     "text": "December festival",
+     "level": 1
+    },
+    {
+     "text": "Gifts under a tree",
+     "level": 2
+    },
+    {
+     "text": "Family dinners",
+     "level": 2
+    },
+    {
+     "text": "Stockings and carols",
+     "level": 3
+    },
+    {
+     "text": "Reindeer and sleigh",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Thanksgiving",
+    "Hanukkah",
+    "Easter"
+   ]
+  },
+  {
+   "word": "Diwali",
+   "hints": [
+    {
+     "text": "Festival of lights",
+     "level": 1
+    },
+    {
+     "text": "Hindu festival",
+     "level": 1
+    },
+    {
+     "text": "Fireworks and sweets",
+     "level": 2
+    },
+    {
+     "text": "Cleaning homes",
+     "level": 2
+    },
+    {
+     "text": "Oil lamps",
+     "level": 3
+    },
+    {
+     "text": "Rangoli patterns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Holi",
+    "Navratri",
+    "Dussehra"
+   ]
+  },
+  {
+   "word": "Holi",
+   "hints": [
+    {
+     "text": "Spring festival",
+     "level": 1
+    },
+    {
+     "text": "Color festival",
+     "level": 1
+    },
+    {
+     "text": "Throwing powder",
+     "level": 2
+    },
+    {
+     "text": "Water balloons",
+     "level": 2
+    },
+    {
+     "text": "Bright pigments",
+     "level": 3
+    },
+    {
+     "text": "Splashed clothes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Diwali",
+    "Lohri",
+    "Songkran"
+   ]
+  },
+  {
+   "word": "Eid",
+   "hints": [
+    {
+     "text": "Religious festival",
+     "level": 1
+    },
+    {
+     "text": "Celebration day",
+     "level": 1
+    },
+    {
+     "text": "Ends a holy month",
+     "level": 2
+    },
+    {
+     "text": "New clothes",
+     "level": 2
+    },
+    {
+     "text": "Sweet vermicelli",
+     "level": 3
+    },
+    {
+     "text": "Moon sighting",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Diwali",
+    "Christmas",
+    "Hanukkah"
+   ]
+  },
+  {
+   "word": "Easter",
+   "hints": [
+    {
+     "text": "Spring holiday",
+     "level": 1
+    },
+    {
+     "text": "Religious feast",
+     "level": 1
+    },
+    {
+     "text": "Egg hunts",
+     "level": 2
+    },
+    {
+     "text": "Chocolate treats",
+     "level": 2
+    },
+    {
+     "text": "Painted eggs",
+     "level": 3
+    },
+    {
+     "text": "Bunny mascot",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Christmas",
+    "Passover",
+    "Thanksgiving"
+   ]
+  },
+  {
+   "word": "Halloween",
+   "hints": [
+    {
+     "text": "Autumn holiday",
+     "level": 1
+    },
+    {
+     "text": "Spooky night",
+     "level": 1
+    },
+    {
+     "text": "Trick or treat",
+     "level": 2
+    },
+    {
+     "text": "Costume parties",
+     "level": 2
+    },
+    {
+     "text": "Carved pumpkins",
+     "level": 3
+    },
+    {
+     "text": "Witches and ghosts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Samhain",
+    "Bonfire night",
+    "Carnival"
+   ]
+  },
+  {
+   "word": "Thanksgiving",
+   "hints": [
+    {
+     "text": "Autumn holiday",
+     "level": 1
+    },
+    {
+     "text": "Harvest feast",
+     "level": 1
+    },
+    {
+     "text": "Family gathering",
+     "level": 2
+    },
+    {
+     "text": "Expressing gratitude",
+     "level": 2
+    },
+    {
+     "text": "Roast turkey",
+     "level": 3
+    },
+    {
+     "text": "Pumpkin pie",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Christmas",
+    "Harvest festival",
+    "Easter"
+   ]
+  },
+  {
+   "word": "New year",
+   "hints": [
+    {
+     "text": "Annual celebration",
+     "level": 1
+    },
+    {
+     "text": "Calendar start",
+     "level": 1
+    },
+    {
+     "text": "Midnight countdown",
+     "level": 2
+    },
+    {
+     "text": "Resolutions",
+     "level": 2
+    },
+    {
+     "text": "Fireworks",
+     "level": 3
+    },
+    {
+     "text": "Champagne toasts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Christmas",
+    "Birthday",
+    "Diwali"
+   ]
+  },
+  {
+   "word": "Tet",
+   "hints": [
+    {
+     "text": "Vietnamese festival",
+     "level": 1
+    },
+    {
+     "text": "Lunar celebration",
+     "level": 1
+    },
+    {
+     "text": "Red envelopes",
+     "level": 2
+    },
+    {
+     "text": "Family reunions",
+     "level": 2
+    },
+    {
+     "text": "Peach blossoms",
+     "level": 3
+    },
+    {
+     "text": "Sticky rice cakes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Diwali",
+    "Mid autumn",
+    "Songkran"
+   ]
+  },
+  {
+   "word": "Hanukkah",
+   "hints": [
+    {
+     "text": "Winter holiday",
+     "level": 1
+    },
+    {
+     "text": "Jewish festival",
+     "level": 1
+    },
+    {
+     "text": "Eight nights",
+     "level": 2
+    },
+    {
+     "text": "Spinning tops",
+     "level": 2
+    },
+    {
+     "text": "Menorah candles",
+     "level": 3
+    },
+    {
+     "text": "Potato pancakes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Christmas",
+    "Passover",
+    "Diwali"
+   ]
+  },
+  {
+   "word": "Passover",
+   "hints": [
+    {
+     "text": "Spring holiday",
+     "level": 1
+    },
+    {
+     "text": "Jewish festival",
+     "level": 1
+    },
+    {
+     "text": "Seder dinner",
+     "level": 2
+    },
+    {
+     "text": "Story retold",
+     "level": 2
+    },
+    {
+     "text": "Unleavened bread",
+     "level": 3
+    },
+    {
+     "text": "Four cups",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Easter",
+    "Hanukkah",
+    "Sukkot"
+   ]
+  },
+  {
+   "word": "Ramadan",
+   "hints": [
+    {
+     "text": "Holy month",
+     "level": 1
+    },
+    {
+     "text": "Fasting period",
+     "level": 1
+    },
+    {
+     "text": "Dawn to dusk fasting",
+     "level": 2
+    },
+    {
+     "text": "Night prayers",
+     "level": 2
+    },
+    {
+     "text": "Iftar meals",
+     "level": 3
+    },
+    {
+     "text": "Crescent moon",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lent",
+    "Eid",
+    "Navratri"
+   ]
+  },
+  {
+   "word": "Valentines day",
+   "hints": [
+    {
+     "text": "Romantic holiday",
+     "level": 1
+    },
+    {
+     "text": "February celebration",
+     "level": 1
+    },
+    {
+     "text": "Cards and roses",
+     "level": 2
+    },
+    {
+     "text": "Dinner dates",
+     "level": 2
+    },
+    {
+     "text": "Heart shapes",
+     "level": 3
+    },
+    {
+     "text": "Chocolates",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mothers day",
+    "Anniversary",
+    "Galentines"
+   ]
+  },
+  {
+   "word": "Mothers day",
+   "hints": [
+    {
+     "text": "Family holiday",
+     "level": 1
+    },
+    {
+     "text": "Parent appreciation",
+     "level": 1
+    },
+    {
+     "text": "Breakfast in bed",
+     "level": 2
+    },
+    {
+     "text": "Flowers",
+     "level": 2
+    },
+    {
+     "text": "Handmade cards",
+     "level": 3
+    },
+    {
+     "text": "Hugs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fathers day",
+    "Valentines day",
+    "Birthday"
+   ]
+  },
+  {
+   "word": "Fathers day",
+   "hints": [
+    {
+     "text": "Family holiday",
+     "level": 1
+    },
+    {
+     "text": "Parent appreciation",
+     "level": 1
+    },
+    {
+     "text": "Ties and tools gifts",
+     "level": 2
+    },
+    {
+     "text": "Barbecues",
+     "level": 2
+    },
+    {
+     "text": "Handmade cards",
+     "level": 3
+    },
+    {
+     "text": "Golf outings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mothers day",
+    "Birthday",
+    "Labor day"
+   ]
+  },
+  {
+   "word": "Birthday",
+   "hints": [
+    {
+     "text": "Personal celebration",
+     "level": 1
+    },
+    {
+     "text": "Annual party",
+     "level": 1
+    },
+    {
+     "text": "Cake and candles",
+     "level": 2
+    },
+    {
+     "text": "Gifts",
+     "level": 2
+    },
+    {
+     "text": "Party hats",
+     "level": 3
+    },
+    {
+     "text": "Singing to you",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Anniversary",
+    "New year",
+    "Wedding"
+   ]
+  },
+  {
+   "word": "Anniversary",
+   "hints": [
+    {
+     "text": "Celebration",
+     "level": 1
+    },
+    {
+     "text": "Yearly milestone",
+     "level": 1
+    },
+    {
+     "text": "Couples celebrate",
+     "level": 2
+    },
+    {
+     "text": "Romantic dinners",
+     "level": 2
+    },
+    {
+     "text": "Gifts by year",
+     "level": 3
+    },
+    {
+     "text": "Toasting",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Birthday",
+    "Wedding",
+    "Valentines day"
+   ]
+  },
+  {
+   "word": "Wedding",
+   "hints": [
+    {
+     "text": "Ceremony",
+     "level": 1
+    },
+    {
+     "text": "Celebration of marriage",
+     "level": 1
+    },
+    {
+     "text": "Vows and rings",
+     "level": 2
+    },
+    {
+     "text": "Dancing reception",
+     "level": 2
+    },
+    {
+     "text": "White gown",
+     "level": 3
+    },
+    {
+     "text": "Tiered cake",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Engagement",
+    "Anniversary",
+    "Birthday"
+   ]
+  },
+  {
+   "word": "Graduation",
+   "hints": [
+    {
+     "text": "Ceremony",
+     "level": 1
+    },
+    {
+     "text": "Academic milestone",
+     "level": 1
+    },
+    {
+     "text": "Caps tossed",
+     "level": 2
+    },
+    {
+     "text": "Proud families",
+     "level": 2
+    },
+    {
+     "text": "Gowns and diplomas",
+     "level": 3
+    },
+    {
+     "text": "Stage walk",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Prom",
+    "Wedding",
+    "Birthday"
+   ]
+  },
+  {
+   "word": "Carnival",
+   "hints": [
+    {
+     "text": "Festival",
+     "level": 1
+    },
+    {
+     "text": "Street party",
+     "level": 1
+    },
+    {
+     "text": "Parades and costumes",
+     "level": 2
+    },
+    {
+     "text": "Samba dancers",
+     "level": 2
+    },
+    {
+     "text": "Feathered outfits",
+     "level": 3
+    },
+    {
+     "text": "Floats",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mardi gras",
+    "Halloween",
+    "Parade"
+   ]
+  },
+  {
+   "word": "Mardi gras",
+   "hints": [
+    {
+     "text": "Festival",
+     "level": 1
+    },
+    {
+     "text": "Party season",
+     "level": 1
+    },
+    {
+     "text": "Bead throwing",
+     "level": 2
+    },
+    {
+     "text": "Masked revelers",
+     "level": 2
+    },
+    {
+     "text": "Purple green gold",
+     "level": 3
+    },
+    {
+     "text": "Pancake tuesday",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Carnival",
+    "Halloween",
+    "New year"
+   ]
+  },
+  {
+   "word": "Oktoberfest",
+   "hints": [
+    {
+     "text": "Autumn festival",
+     "level": 1
+    },
+    {
+     "text": "Bavarian fair",
+     "level": 1
+    },
+    {
+     "text": "Lederhosen",
+     "level": 2
+    },
+    {
+     "text": "Oompah bands",
+     "level": 2
+    },
+    {
+     "text": "Pretzels and sausages",
+     "level": 3
+    },
+    {
+     "text": "Huge tents",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Carnival",
+    "Harvest festival",
+    "Fair"
+   ]
+  },
+  {
+   "word": "Navratri",
+   "hints": [
+    {
+     "text": "Hindu festival",
+     "level": 1
+    },
+    {
+     "text": "Nine nights",
+     "level": 1
+    },
+    {
+     "text": "Garba dancing",
+     "level": 2
+    },
+    {
+     "text": "Fasting",
+     "level": 2
+    },
+    {
+     "text": "Colorful chaniya choli",
+     "level": 3
+    },
+    {
+     "text": "Dandiya sticks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Durga puja",
+    "Diwali",
+    "Dussehra"
+   ]
+  },
+  {
+   "word": "Durga puja",
+   "hints": [
+    {
+     "text": "Hindu festival",
+     "level": 1
+    },
+    {
+     "text": "Bengali festival",
+     "level": 1
+    },
+    {
+     "text": "Pandal hopping",
+     "level": 2
+    },
+    {
+     "text": "Goddess worship",
+     "level": 2
+    },
+    {
+     "text": "Clay idols",
+     "level": 3
+    },
+    {
+     "text": "Drumming dhak",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Navratri",
+    "Diwali",
+    "Ganesh chaturthi"
+   ]
+  },
+  {
+   "word": "Dussehra",
+   "hints": [
+    {
+     "text": "Hindu festival",
+     "level": 1
+    },
+    {
+     "text": "Victory day",
+     "level": 1
+    },
+    {
+     "text": "Good over evil",
+     "level": 2
+    },
+    {
+     "text": "Theater plays",
+     "level": 2
+    },
+    {
+     "text": "Burning effigies",
+     "level": 3
+    },
+    {
+     "text": "Bow and arrow",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Diwali",
+    "Navratri",
+    "Holi"
+   ]
+  },
+  {
+   "word": "Ganesh chaturthi",
+   "hints": [
+    {
+     "text": "Hindu festival",
+     "level": 1
+    },
+    {
+     "text": "Elephant god celebration",
+     "level": 1
+    },
+    {
+     "text": "Idols in homes",
+     "level": 2
+    },
+    {
+     "text": "Immersion processions",
+     "level": 2
+    },
+    {
+     "text": "Modak sweets",
+     "level": 3
+    },
+    {
+     "text": "Clay statues",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Durga puja",
+    "Diwali",
+    "Janmashtami"
+   ]
+  },
+  {
+   "word": "Janmashtami",
+   "hints": [
+    {
+     "text": "Hindu festival",
+     "level": 1
+    },
+    {
+     "text": "Birthday celebration",
+     "level": 1
+    },
+    {
+     "text": "Midnight prayers",
+     "level": 2
+    },
+    {
+     "text": "Pot breaking",
+     "level": 2
+    },
+    {
+     "text": "Butter pots",
+     "level": 3
+    },
+    {
+     "text": "Human pyramids",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ganesh chaturthi",
+    "Ram navami",
+    "Holi"
+   ]
+  },
+  {
+   "word": "Raksha bandhan",
+   "hints": [
+    {
+     "text": "Indian festival",
+     "level": 1
+    },
+    {
+     "text": "Sibling celebration",
+     "level": 1
+    },
+    {
+     "text": "Sisters tie threads",
+     "level": 2
+    },
+    {
+     "text": "Brothers promise",
+     "level": 2
+    },
+    {
+     "text": "Decorative bracelet",
+     "level": 3
+    },
+    {
+     "text": "Sweets exchange",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bhai dooj",
+    "Diwali",
+    "Karva chauth"
+   ]
+  },
+  {
+   "word": "Pongal",
+   "hints": [
+    {
+     "text": "Harvest festival",
+     "level": 1
+    },
+    {
+     "text": "South indian celebration",
+     "level": 1
+    },
+    {
+     "text": "Boiling rice pots",
+     "level": 2
+    },
+    {
+     "text": "Cattle decorated",
+     "level": 2
+    },
+    {
+     "text": "Sugarcane stalks",
+     "level": 3
+    },
+    {
+     "text": "Kolam drawings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Onam",
+    "Makar sankranti",
+    "Lohri"
+   ]
+  },
+  {
+   "word": "Onam",
+   "hints": [
+    {
+     "text": "Harvest festival",
+     "level": 1
+    },
+    {
+     "text": "Kerala celebration",
+     "level": 1
+    },
+    {
+     "text": "Boat races",
+     "level": 2
+    },
+    {
+     "text": "Flower carpets",
+     "level": 2
+    },
+    {
+     "text": "Banana leaf feast",
+     "level": 3
+    },
+    {
+     "text": "Pookalam",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pongal",
+    "Vishu",
+    "Diwali"
+   ]
+  },
+  {
+   "word": "Lohri",
+   "hints": [
+    {
+     "text": "Winter festival",
+     "level": 1
+    },
+    {
+     "text": "Punjabi celebration",
+     "level": 1
+    },
+    {
+     "text": "Bonfire dancing",
+     "level": 2
+    },
+    {
+     "text": "Folk songs",
+     "level": 2
+    },
+    {
+     "text": "Popcorn and peanuts",
+     "level": 3
+    },
+    {
+     "text": "Bonfire circles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Makar sankranti",
+    "Pongal",
+    "Baisakhi"
+   ]
+  },
+  {
+   "word": "Baisakhi",
+   "hints": [
+    {
+     "text": "Harvest festival",
+     "level": 1
+    },
+    {
+     "text": "Punjabi new year",
+     "level": 1
+    },
+    {
+     "text": "Bhangra dancing",
+     "level": 2
+    },
+    {
+     "text": "Fairs",
+     "level": 2
+    },
+    {
+     "text": "Golden wheat",
+     "level": 3
+    },
+    {
+     "text": "Drums",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lohri",
+    "Holi",
+    "Pongal"
+   ]
+  },
+  {
+   "word": "Makar sankranti",
+   "hints": [
+    {
+     "text": "Harvest festival",
+     "level": 1
+    },
+    {
+     "text": "Kite festival",
+     "level": 1
+    },
+    {
+     "text": "Kite battles on rooftops",
+     "level": 2
+    },
+    {
+     "text": "Sesame sweets",
+     "level": 2
+    },
+    {
+     "text": "Til ladoos",
+     "level": 3
+    },
+    {
+     "text": "Sun festival",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lohri",
+    "Pongal",
+    "Baisakhi"
+   ]
+  },
+  {
+   "word": "Christmas eve",
+   "hints": [
+    {
+     "text": "Holiday night",
+     "level": 1
+    },
+    {
+     "text": "Festive evening",
+     "level": 1
+    },
+    {
+     "text": "Hanging stockings",
+     "level": 2
+    },
+    {
+     "text": "Midnight mass",
+     "level": 2
+    },
+    {
+     "text": "Cookies for visitors",
+     "level": 3
+    },
+    {
+     "text": "Wrapped presents",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hogmanay",
+    "Boxing day",
+    "Epiphany"
+   ]
+  },
+  {
+   "word": "Boxing day",
+   "hints": [
+    {
+     "text": "Post holiday",
+     "level": 1
+    },
+    {
+     "text": "Shopping spree",
+     "level": 1
+    },
+    {
+     "text": "Big sales",
+     "level": 2
+    },
+    {
+     "text": "Leftover turkey",
+     "level": 2
+    },
+    {
+     "text": "After the feast",
+     "level": 3
+    },
+    {
+     "text": "Football matches",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Black friday",
+    "Christmas eve",
+    "New year"
+   ]
+  },
+  {
+   "word": "Black friday",
+   "hints": [
+    {
+     "text": "Shopping event",
+     "level": 1
+    },
+    {
+     "text": "Sale day",
+     "level": 1
+    },
+    {
+     "text": "Huge discounts",
+     "level": 2
+    },
+    {
+     "text": "Store stampedes",
+     "level": 2
+    },
+    {
+     "text": "Doorbusters",
+     "level": 3
+    },
+    {
+     "text": "Long queues",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cyber monday",
+    "Boxing day",
+    "Thanksgiving"
+   ]
+  },
+  {
+   "word": "Independence day",
+   "hints": [
+    {
+     "text": "National holiday",
+     "level": 1
+    },
+    {
+     "text": "Freedom celebration",
+     "level": 1
+    },
+    {
+     "text": "Flag hoisting",
+     "level": 2
+    },
+    {
+     "text": "Parades",
+     "level": 2
+    },
+    {
+     "text": "Fireworks",
+     "level": 3
+    },
+    {
+     "text": "National anthem",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Republic day",
+    "Labor day",
+    "Memorial day"
+   ]
+  },
+  {
+   "word": "Republic day",
+   "hints": [
+    {
+     "text": "National holiday",
+     "level": 1
+    },
+    {
+     "text": "Constitution anniversary",
+     "level": 1
+    },
+    {
+     "text": "Military parades",
+     "level": 2
+    },
+    {
+     "text": "Flag ceremonies",
+     "level": 2
+    },
+    {
+     "text": "Marching troops",
+     "level": 3
+    },
+    {
+     "text": "Tableaux",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Independence day",
+    "Labor day",
+    "Victory day"
+   ]
+  },
+  {
+   "word": "Labor day",
+   "hints": [
+    {
+     "text": "Public holiday",
+     "level": 1
+    },
+    {
+     "text": "Workers holiday",
+     "level": 1
+    },
+    {
+     "text": "Long weekend",
+     "level": 2
+    },
+    {
+     "text": "End of summer",
+     "level": 2
+    },
+    {
+     "text": "Barbecues",
+     "level": 3
+    },
+    {
+     "text": "Parades",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "May day",
+    "Memorial day",
+    "Independence day"
+   ]
+  },
+  {
+   "word": "Memorial day",
+   "hints": [
+    {
+     "text": "Remembrance holiday",
+     "level": 1
+    },
+    {
+     "text": "Honoring fallen",
+     "level": 1
+    },
+    {
+     "text": "Veterans honored",
+     "level": 2
+    },
+    {
+     "text": "Long weekend",
+     "level": 2
+    },
+    {
+     "text": "Poppies or flags",
+     "level": 3
+    },
+    {
+     "text": "Cemeteries",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Veterans day",
+    "Labor day",
+    "Independence day"
+   ]
+  },
+  {
+   "word": "Earth day",
+   "hints": [
+    {
+     "text": "Environmental holiday",
+     "level": 1
+    },
+    {
+     "text": "Green holiday",
+     "level": 1
+    },
+    {
+     "text": "Tree planting",
+     "level": 2
+    },
+    {
+     "text": "Clean ups",
+     "level": 2
+    },
+    {
+     "text": "Recycling drives",
+     "level": 3
+    },
+    {
+     "text": "Nature walks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Arbor day",
+    "Ocean day",
+    "Wildlife day"
+   ]
+  },
+  {
+   "word": "April fools",
+   "hints": [
+    {
+     "text": "Prank day",
+     "level": 1
+    },
+    {
+     "text": "Silly holiday",
+     "level": 1
+    },
+    {
+     "text": "Practical jokes",
+     "level": 2
+    },
+    {
+     "text": "Fake news",
+     "level": 2
+    },
+    {
+     "text": "Whoopee cushions",
+     "level": 3
+    },
+    {
+     "text": "Gotcha",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Halloween",
+    "Birthday",
+    "Mardi gras"
+   ]
+  },
+  {
+   "word": "Samhain",
+   "hints": [
+    {
+     "text": "Gaelic festival",
+     "level": 1
+    },
+    {
+     "text": "Ancient harvest end",
+     "level": 1
+    },
+    {
+     "text": "Bonfires lit",
+     "level": 2
+    },
+    {
+     "text": "Spirits wander",
+     "level": 2
+    },
+    {
+     "text": "Turnip lanterns",
+     "level": 3
+    },
+    {
+     "text": "Celtic calendar",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Halloween",
+    "Beltane",
+    "Midsummer"
+   ]
+  },
+  {
+   "word": "Saint patrick",
+   "hints": [
+    {
+     "text": "Irish holiday",
+     "level": 1
+    },
+    {
+     "text": "Green celebration",
+     "level": 1
+    },
+    {
+     "text": "Parades",
+     "level": 2
+    },
+    {
+     "text": "Shamrocks",
+     "level": 2
+    },
+    {
+     "text": "Leprechauns",
+     "level": 3
+    },
+    {
+     "text": "Green rivers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mardi gras",
+    "Halloween",
+    "Easter"
+   ]
+  },
+  {
+   "word": "Bonfire night",
+   "hints": [
+    {
+     "text": "British festival",
+     "level": 1
+    },
+    {
+     "text": "November fireworks",
+     "level": 1
+    },
+    {
+     "text": "Guy figures burned",
+     "level": 2
+    },
+    {
+     "text": "Sparklers",
+     "level": 2
+    },
+    {
+     "text": "Burning effigies",
+     "level": 3
+    },
+    {
+     "text": "Toffee apples",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Halloween",
+    "Diwali",
+    "New year"
+   ]
+  },
+  {
+   "word": "Midsummer",
+   "hints": [
+    {
+     "text": "Solstice festival",
+     "level": 1
+    },
+    {
+     "text": "Nordic celebration",
+     "level": 1
+    },
+    {
+     "text": "Maypole dancing",
+     "level": 2
+    },
+    {
+     "text": "Flower crowns",
+     "level": 2
+    },
+    {
+     "text": "Longest day",
+     "level": 3
+    },
+    {
+     "text": "Herring feasts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Easter",
+    "Harvest festival",
+    "Solstice"
+   ]
+  },
+  {
+   "word": "Solstice",
+   "hints": [
+    {
+     "text": "Seasonal event",
+     "level": 1
+    },
+    {
+     "text": "Sky milestone",
+     "level": 1
+    },
+    {
+     "text": "Longest or shortest day",
+     "level": 2
+    },
+    {
+     "text": "Ancient rituals",
+     "level": 2
+    },
+    {
+     "text": "Stone circles",
+     "level": 3
+    },
+    {
+     "text": "Sunrise gatherings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Equinox",
+    "Eclipse",
+    "Midsummer"
+   ]
+  },
+  {
+   "word": "Harvest festival",
+   "hints": [
+    {
+     "text": "Autumn celebration",
+     "level": 1
+    },
+    {
+     "text": "Thanksgiving feast",
+     "level": 1
+    },
+    {
+     "text": "Crops gathered",
+     "level": 2
+    },
+    {
+     "text": "Church displays",
+     "level": 2
+    },
+    {
+     "text": "Corn and pumpkins",
+     "level": 3
+    },
+    {
+     "text": "Baskets of produce",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Thanksgiving",
+    "Oktoberfest",
+    "Pongal"
+   ]
+  },
+  {
+   "word": "Mid autumn",
+   "hints": [
+    {
+     "text": "Asian festival",
+     "level": 1
+    },
+    {
+     "text": "Moon festival",
+     "level": 1
+    },
+    {
+     "text": "Lanterns",
+     "level": 2
+    },
+    {
+     "text": "Family gatherings",
+     "level": 2
+    },
+    {
+     "text": "Mooncakes",
+     "level": 3
+    },
+    {
+     "text": "Full moon viewing",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tet",
+    "Diwali",
+    "Lantern festival"
+   ]
+  },
+  {
+   "word": "Lantern festival",
+   "hints": [
+    {
+     "text": "Asian celebration",
+     "level": 1
+    },
+    {
+     "text": "Light celebration",
+     "level": 1
+    },
+    {
+     "text": "Riddle games",
+     "level": 2
+    },
+    {
+     "text": "Glowing parades",
+     "level": 2
+    },
+    {
+     "text": "Paper glow",
+     "level": 3
+    },
+    {
+     "text": "Sweet dumplings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mid autumn",
+    "Diwali",
+    "Loy krathong"
+   ]
+  },
+  {
+   "word": "Songkran",
+   "hints": [
+    {
+     "text": "Thai festival",
+     "level": 1
+    },
+    {
+     "text": "New year celebration",
+     "level": 1
+    },
+    {
+     "text": "Water fights",
+     "level": 2
+    },
+    {
+     "text": "Temple visits",
+     "level": 2
+    },
+    {
+     "text": "Splashing buckets",
+     "level": 3
+    },
+    {
+     "text": "Water guns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Holi",
+    "Tet",
+    "Loy krathong"
+   ]
+  },
+  {
+   "word": "Loy krathong",
+   "hints": [
+    {
+     "text": "Thai festival",
+     "level": 1
+    },
+    {
+     "text": "Floating lights",
+     "level": 1
+    },
+    {
+     "text": "River offerings",
+     "level": 2
+    },
+    {
+     "text": "Romantic wishes",
+     "level": 2
+    },
+    {
+     "text": "Banana leaf boats",
+     "level": 3
+    },
+    {
+     "text": "Candles on water",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Songkran",
+    "Lantern festival",
+    "Diwali"
+   ]
+  },
+  {
+   "word": "Obon",
+   "hints": [
+    {
+     "text": "Japanese festival",
+     "level": 1
+    },
+    {
+     "text": "Ancestor celebration",
+     "level": 1
+    },
+    {
+     "text": "Dancing in circles",
+     "level": 2
+    },
+    {
+     "text": "Family returns",
+     "level": 2
+    },
+    {
+     "text": "Floating lanterns",
+     "level": 3
+    },
+    {
+     "text": "Taiko drums",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Samhain",
+    "Lantern festival",
+    "Hanami"
+   ]
+  },
+  {
+   "word": "Hanami",
+   "hints": [
+    {
+     "text": "Japanese tradition",
+     "level": 1
+    },
+    {
+     "text": "Blossom viewing",
+     "level": 1
+    },
+    {
+     "text": "Picnics under trees",
+     "level": 2
+    },
+    {
+     "text": "Spring parties",
+     "level": 2
+    },
+    {
+     "text": "Pink petals",
+     "level": 3
+    },
+    {
+     "text": "Paper lanterns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Obon",
+    "Tet",
+    "Midsummer"
+   ]
+  },
+  {
+   "word": "Kwanzaa",
+   "hints": [
+    {
+     "text": "Cultural holiday",
+     "level": 1
+    },
+    {
+     "text": "African american festival",
+     "level": 1
+    },
+    {
+     "text": "Seven principles",
+     "level": 2
+    },
+    {
+     "text": "Week long",
+     "level": 2
+    },
+    {
+     "text": "Kinara candles",
+     "level": 3
+    },
+    {
+     "text": "Unity cup",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hanukkah",
+    "Christmas",
+    "Juneteenth"
+   ]
+  },
+  {
+   "word": "Juneteenth",
+   "hints": [
+    {
+     "text": "American holiday",
+     "level": 1
+    },
+    {
+     "text": "Freedom day",
+     "level": 1
+    },
+    {
+     "text": "Emancipation celebrated",
+     "level": 2
+    },
+    {
+     "text": "Red foods",
+     "level": 2
+    },
+    {
+     "text": "Cookouts",
+     "level": 3
+    },
+    {
+     "text": "Parades",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Independence day",
+    "Kwanzaa",
+    "Memorial day"
+   ]
+  },
+  {
+   "word": "Bastille day",
+   "hints": [
+    {
+     "text": "French holiday",
+     "level": 1
+    },
+    {
+     "text": "National holiday",
+     "level": 1
+    },
+    {
+     "text": "Military parade",
+     "level": 2
+    },
+    {
+     "text": "Fireworks",
+     "level": 2
+    },
+    {
+     "text": "Tricolor flags",
+     "level": 3
+    },
+    {
+     "text": "Storming history",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Independence day",
+    "Republic day",
+    "Labor day"
+   ]
+  },
+  {
+   "word": "Australia day",
+   "hints": [
+    {
+     "text": "National holiday",
+     "level": 1
+    },
+    {
+     "text": "Summer celebration",
+     "level": 1
+    },
+    {
+     "text": "Beach barbecues",
+     "level": 2
+    },
+    {
+     "text": "Citizenship ceremonies",
+     "level": 2
+    },
+    {
+     "text": "Flags and fireworks",
+     "level": 3
+    },
+    {
+     "text": "Hot weather",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Independence day",
+    "New year",
+    "Waitangi day"
+   ]
+  },
+  {
+   "word": "Canada day",
+   "hints": [
+    {
+     "text": "National holiday",
+     "level": 1
+    },
+    {
+     "text": "Summer celebration",
+     "level": 1
+    },
+    {
+     "text": "Maple leaf flags",
+     "level": 2
+    },
+    {
+     "text": "Fireworks",
+     "level": 2
+    },
+    {
+     "text": "Red and white",
+     "level": 3
+    },
+    {
+     "text": "Parades",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Independence day",
+    "Labor day",
+    "Victoria day"
+   ]
+  },
+  {
+   "word": "Fiesta",
+   "hints": [
+    {
+     "text": "Spanish party",
+     "level": 1
+    },
+    {
+     "text": "Street celebration",
+     "level": 1
+    },
+    {
+     "text": "Mariachi music",
+     "level": 2
+    },
+    {
+     "text": "Parades",
+     "level": 2
+    },
+    {
+     "text": "Sombreros",
+     "level": 3
+    },
+    {
+     "text": "Papel picado",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Carnival",
+    "Samhain",
+    "Parade"
+   ]
+  },
+  {
+   "word": "Spring festival",
+   "hints": [
+    {
+     "text": "Lunar holiday",
+     "level": 1
+    },
+    {
+     "text": "Chinese celebration",
+     "level": 1
+    },
+    {
+     "text": "Red packets",
+     "level": 2
+    },
+    {
+     "text": "Family reunion",
+     "level": 2
+    },
+    {
+     "text": "Lion dances",
+     "level": 3
+    },
+    {
+     "text": "Firecrackers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mid autumn",
+    "Diwali",
+    "Songkran"
+   ]
+  },
+  {
+   "word": "Rosh hashanah",
+   "hints": [
+    {
+     "text": "Jewish new year",
+     "level": 1
+    },
+    {
+     "text": "High holiday",
+     "level": 1
+    },
+    {
+     "text": "Apples and honey",
+     "level": 2
+    },
+    {
+     "text": "Synagogue services",
+     "level": 2
+    },
+    {
+     "text": "Blowing the shofar",
+     "level": 3
+    },
+    {
+     "text": "Round bread",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Yom kippur",
+    "Passover",
+    "Hanukkah"
+   ]
+  },
+  {
+   "word": "Yom kippur",
+   "hints": [
+    {
+     "text": "Jewish holy day",
+     "level": 1
+    },
+    {
+     "text": "Day of atonement",
+     "level": 1
+    },
+    {
+     "text": "Fasting all day",
+     "level": 2
+    },
+    {
+     "text": "Prayers",
+     "level": 2
+    },
+    {
+     "text": "White clothing",
+     "level": 3
+    },
+    {
+     "text": "Shofar finale",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rosh hashanah",
+    "Passover",
+    "Sukkot"
+   ]
+  },
+  {
+   "word": "Lent",
+   "hints": [
+    {
+     "text": "Religious season",
+     "level": 1
+    },
+    {
+     "text": "Forty days",
+     "level": 1
+    },
+    {
+     "text": "Giving something up",
+     "level": 2
+    },
+    {
+     "text": "Before easter",
+     "level": 2
+    },
+    {
+     "text": "Ash marks",
+     "level": 3
+    },
+    {
+     "text": "Fish fridays",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ramadan",
+    "Advent",
+    "Easter"
+   ]
+  },
+  {
+   "word": "Advent",
+   "hints": [
+    {
+     "text": "Religious season",
+     "level": 1
+    },
+    {
+     "text": "Pre christmas period",
+     "level": 1
+    },
+    {
+     "text": "Counting down",
+     "level": 2
+    },
+    {
+     "text": "Chocolate calendars",
+     "level": 2
+    },
+    {
+     "text": "Wreath candles",
+     "level": 3
+    },
+    {
+     "text": "Little doors",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lent",
+    "Christmas eve",
+    "Epiphany"
+   ]
+  },
+  {
+   "word": "Epiphany",
+   "hints": [
+    {
+     "text": "Christian holiday",
+     "level": 1
+    },
+    {
+     "text": "Twelfth night",
+     "level": 1
+    },
+    {
+     "text": "Three kings",
+     "level": 2
+    },
+    {
+     "text": "Kings cake",
+     "level": 2
+    },
+    {
+     "text": "Star following",
+     "level": 3
+    },
+    {
+     "text": "Gifts of gold",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Christmas",
+    "Advent",
+    "Easter"
+   ]
+  },
+  {
+   "word": "Good friday",
+   "hints": [
+    {
+     "text": "Christian holy day",
+     "level": 1
+    },
+    {
+     "text": "Solemn day",
+     "level": 1
+    },
+    {
+     "text": "Before easter",
+     "level": 2
+    },
+    {
+     "text": "Church services",
+     "level": 2
+    },
+    {
+     "text": "Hot cross buns",
+     "level": 3
+    },
+    {
+     "text": "Cross processions",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Easter",
+    "Christmas eve",
+    "Lent"
+   ]
+  },
+  {
+   "word": "Gurpurab",
+   "hints": [
+    {
+     "text": "Sikh festival",
+     "level": 1
+    },
+    {
+     "text": "Founder birthday",
+     "level": 1
+    },
+    {
+     "text": "Processions",
+     "level": 2
+    },
+    {
+     "text": "Community kitchens",
+     "level": 2
+    },
+    {
+     "text": "Gurdwara lights",
+     "level": 3
+    },
+    {
+     "text": "Hymns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Baisakhi",
+    "Diwali",
+    "Lohri"
+   ]
+  },
+  {
+   "word": "Buddha purnima",
+   "hints": [
+    {
+     "text": "Buddhist festival",
+     "level": 1
+    },
+    {
+     "text": "Enlightenment day",
+     "level": 1
+    },
+    {
+     "text": "Temple visits",
+     "level": 2
+    },
+    {
+     "text": "Lanterns",
+     "level": 2
+    },
+    {
+     "text": "Full moon",
+     "level": 3
+    },
+    {
+     "text": "Monks chanting",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Diwali",
+    "Vesak",
+    "Lantern festival"
+   ]
+  },
+  {
+   "word": "Mahashivratri",
+   "hints": [
+    {
+     "text": "Hindu festival",
+     "level": 1
+    },
+    {
+     "text": "Night of worship",
+     "level": 1
+    },
+    {
+     "text": "All night vigils",
+     "level": 2
+    },
+    {
+     "text": "Fasting",
+     "level": 2
+    },
+    {
+     "text": "Milk offerings",
+     "level": 3
+    },
+    {
+     "text": "Bel leaves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Navratri",
+    "Janmashtami",
+    "Diwali"
+   ]
+  },
+  {
+   "word": "Karva chauth",
+   "hints": [
+    {
+     "text": "Hindu festival",
+     "level": 1
+    },
+    {
+     "text": "Fasting day",
+     "level": 1
+    },
+    {
+     "text": "Wives fast",
+     "level": 2
+    },
+    {
+     "text": "Moon sighting",
+     "level": 2
+    },
+    {
+     "text": "Sieve and lamp",
+     "level": 3
+    },
+    {
+     "text": "Henna hands",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Raksha bandhan",
+    "Teej",
+    "Diwali"
+   ]
+  },
+  {
+   "word": "Teej",
+   "hints": [
+    {
+     "text": "Hindu festival",
+     "level": 1
+    },
+    {
+     "text": "Monsoon celebration",
+     "level": 1
+    },
+    {
+     "text": "Swings decorated",
+     "level": 2
+    },
+    {
+     "text": "Women gather",
+     "level": 2
+    },
+    {
+     "text": "Green bangles",
+     "level": 3
+    },
+    {
+     "text": "Henna",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Karva chauth",
+    "Navratri",
+    "Holi"
+   ]
+  },
+  {
+   "word": "Bihu",
+   "hints": [
+    {
+     "text": "Assamese festival",
+     "level": 1
+    },
+    {
+     "text": "Harvest celebration",
+     "level": 1
+    },
+    {
+     "text": "Folk dance",
+     "level": 2
+    },
+    {
+     "text": "Feasts",
+     "level": 2
+    },
+    {
+     "text": "Dhol drums",
+     "level": 3
+    },
+    {
+     "text": "Silk outfits",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pongal",
+    "Onam",
+    "Baisakhi"
+   ]
+  },
+  {
+   "word": "Ugadi",
+   "hints": [
+    {
+     "text": "Telugu new year",
+     "level": 1
+    },
+    {
+     "text": "Spring festival",
+     "level": 1
+    },
+    {
+     "text": "Bitter and sweet chutney",
+     "level": 2
+    },
+    {
+     "text": "New beginnings",
+     "level": 2
+    },
+    {
+     "text": "Mango leaves",
+     "level": 3
+    },
+    {
+     "text": "Rangoli",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gudi padwa",
+    "Pongal",
+    "Vishu"
+   ]
+  },
+  {
+   "word": "Gudi padwa",
+   "hints": [
+    {
+     "text": "Marathi new year",
+     "level": 1
+    },
+    {
+     "text": "Spring festival",
+     "level": 1
+    },
+    {
+     "text": "Flags outside homes",
+     "level": 2
+    },
+    {
+     "text": "Processions",
+     "level": 2
+    },
+    {
+     "text": "Silk cloth pole",
+     "level": 3
+    },
+    {
+     "text": "Neem leaves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ugadi",
+    "Baisakhi",
+    "Diwali"
+   ]
+  },
+  {
+   "word": "Vishu",
+   "hints": [
+    {
+     "text": "Kerala new year",
+     "level": 1
+    },
+    {
+     "text": "Spring festival",
+     "level": 1
+    },
+    {
+     "text": "Morning sight ritual",
+     "level": 2
+    },
+    {
+     "text": "Firecrackers",
+     "level": 2
+    },
+    {
+     "text": "Golden flowers",
+     "level": 3
+    },
+    {
+     "text": "Fruit arrangement",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Onam",
+    "Ugadi",
+    "Pongal"
+   ]
+  },
+  {
+   "word": "Bhai dooj",
+   "hints": [
+    {
+     "text": "Indian festival",
+     "level": 1
+    },
+    {
+     "text": "Sibling day",
+     "level": 1
+    },
+    {
+     "text": "Sisters bless brothers",
+     "level": 2
+    },
+    {
+     "text": "After diwali",
+     "level": 2
+    },
+    {
+     "text": "Forehead mark",
+     "level": 3
+    },
+    {
+     "text": "Sweets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Raksha bandhan",
+    "Diwali",
+    "Karva chauth"
+   ]
+  },
+  {
+   "word": "Christmas tree",
+   "hints": [
+    {
+     "text": "Holiday decoration",
+     "level": 1
+    },
+    {
+     "text": "Festive centerpiece",
+     "level": 1
+    },
+    {
+     "text": "Decorated in december",
+     "level": 2
+    },
+    {
+     "text": "Gifts underneath",
+     "level": 2
+    },
+    {
+     "text": "Tinsel and baubles",
+     "level": 3
+    },
+    {
+     "text": "Star on top",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wreath",
+    "Menorah",
+    "Mistletoe"
+   ]
+  },
+  {
+   "word": "Fireworks",
+   "hints": [
+    {
+     "text": "Celebration display",
+     "level": 1
+    },
+    {
+     "text": "Night lights",
+     "level": 1
+    },
+    {
+     "text": "New year skies",
+     "level": 2
+    },
+    {
+     "text": "Festival nights",
+     "level": 2
+    },
+    {
+     "text": "Rockets and sparklers",
+     "level": 3
+    },
+    {
+     "text": "Loud bangs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bonfire",
+    "Lanterns",
+    "Confetti"
+   ]
+  },
+  {
+   "word": "Confetti",
+   "hints": [
+    {
+     "text": "Party decoration",
+     "level": 1
+    },
+    {
+     "text": "Celebration paper",
+     "level": 1
+    },
+    {
+     "text": "Weddings",
+     "level": 2
+    },
+    {
+     "text": "Parades",
+     "level": 2
+    },
+    {
+     "text": "Tiny paper bits",
+     "level": 3
+    },
+    {
+     "text": "Thrown in air",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Streamers",
+    "Glitter",
+    "Balloons"
+   ]
+  },
+  {
+   "word": "Balloon",
+   "hints": [
+    {
+     "text": "Party decoration",
+     "level": 1
+    },
+    {
+     "text": "Inflatable",
+     "level": 1
+    },
+    {
+     "text": "Birthdays",
+     "level": 2
+    },
+    {
+     "text": "Pops loudly",
+     "level": 2
+    },
+    {
+     "text": "Helium filled",
+     "level": 3
+    },
+    {
+     "text": "Tied with string",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Confetti",
+    "Streamer",
+    "Kite"
+   ]
+  },
+  {
+   "word": "Party hat",
+   "hints": [
+    {
+     "text": "Celebration accessory",
+     "level": 1
+    },
+    {
+     "text": "Cone topper",
+     "level": 1
+    },
+    {
+     "text": "Birthdays",
+     "level": 2
+    },
+    {
+     "text": "New year",
+     "level": 2
+    },
+    {
+     "text": "Elastic strap",
+     "level": 3
+    },
+    {
+     "text": "Pointed cone",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Crown",
+    "Tiara",
+    "Balloon"
+   ]
+  },
+  {
+   "word": "Streamer",
+   "hints": [
+    {
+     "text": "Party decoration",
+     "level": 1
+    },
+    {
+     "text": "Paper ribbon",
+     "level": 1
+    },
+    {
+     "text": "Hung from ceilings",
+     "level": 2
+    },
+    {
+     "text": "Party favors",
+     "level": 2
+    },
+    {
+     "text": "Curly crepe paper",
+     "level": 3
+    },
+    {
+     "text": "Colorful twists",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Confetti",
+    "Balloon",
+    "Bunting"
+   ]
+  },
+  {
+   "word": "Pinata",
+   "hints": [
+    {
+     "text": "Party game",
+     "level": 1
+    },
+    {
+     "text": "Candy container",
+     "level": 1
+    },
+    {
+     "text": "Blindfolded swinging",
+     "level": 2
+    },
+    {
+     "text": "Kids birthdays",
+     "level": 2
+    },
+    {
+     "text": "Paper donkey",
+     "level": 3
+    },
+    {
+     "text": "Bursts with sweets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Balloon",
+    "Gift box",
+    "Lucky dip"
+   ]
+  },
+  {
+   "word": "Gift",
+   "hints": [
+    {
+     "text": "Present",
+     "level": 1
+    },
+    {
+     "text": "Celebration item",
+     "level": 1
+    },
+    {
+     "text": "Wrapped with ribbon",
+     "level": 2
+    },
+    {
+     "text": "Birthdays",
+     "level": 2
+    },
+    {
+     "text": "Bow on top",
+     "level": 3
+    },
+    {
+     "text": "Surprise inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Card",
+    "Balloon",
+    "Bouquet"
+   ]
+  },
+  {
+   "word": "Greeting card",
+   "hints": [
+    {
+     "text": "Celebration paper",
+     "level": 1
+    },
+    {
+     "text": "Message note",
+     "level": 1
+    },
+    {
+     "text": "Birthday wishes",
+     "level": 2
+    },
+    {
+     "text": "Mailed to friends",
+     "level": 2
+    },
+    {
+     "text": "Folded with message",
+     "level": 3
+    },
+    {
+     "text": "Envelope",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gift",
+    "Letter",
+    "Postcard"
+   ]
+  },
+  {
+   "word": "Parade",
+   "hints": [
+    {
+     "text": "Street event",
+     "level": 1
+    },
+    {
+     "text": "Celebration march",
+     "level": 1
+    },
+    {
+     "text": "Floats and bands",
+     "level": 2
+    },
+    {
+     "text": "Crowds lining streets",
+     "level": 2
+    },
+    {
+     "text": "Marching bands",
+     "level": 3
+    },
+    {
+     "text": "Waving flags",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Carnival",
+    "Festival",
+    "Concert"
+   ]
+  },
+  {
+   "word": "Festival",
+   "hints": [
+    {
+     "text": "Celebration event",
+     "level": 1
+    },
+    {
+     "text": "Community party",
+     "level": 1
+    },
+    {
+     "text": "Music and food",
+     "level": 2
+    },
+    {
+     "text": "Crowds",
+     "level": 2
+    },
+    {
+     "text": "Stalls and stages",
+     "level": 3
+    },
+    {
+     "text": "Tents",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fair",
+    "Carnival",
+    "Concert"
+   ]
+  },
+  {
+   "word": "Fair",
+   "hints": [
+    {
+     "text": "Community event",
+     "level": 1
+    },
+    {
+     "text": "Outdoor festival",
+     "level": 1
+    },
+    {
+     "text": "Rides and games",
+     "level": 2
+    },
+    {
+     "text": "Cotton candy",
+     "level": 2
+    },
+    {
+     "text": "Ferris wheel",
+     "level": 3
+    },
+    {
+     "text": "Prize booths",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Carnival",
+    "Festival",
+    "Market"
+   ]
+  },
+  {
+   "word": "Feast",
+   "hints": [
+    {
+     "text": "Big meal",
+     "level": 1
+    },
+    {
+     "text": "Celebration dinner",
+     "level": 1
+    },
+    {
+     "text": "Holiday tables",
+     "level": 2
+    },
+    {
+     "text": "Family gatherings",
+     "level": 2
+    },
+    {
+     "text": "Many dishes",
+     "level": 3
+    },
+    {
+     "text": "Overeating",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Banquet",
+    "Picnic",
+    "Buffet"
+   ]
+  },
+  {
+   "word": "Picnic",
+   "hints": [
+    {
+     "text": "Outdoor meal",
+     "level": 1
+    },
+    {
+     "text": "Leisure event",
+     "level": 1
+    },
+    {
+     "text": "Parks and blankets",
+     "level": 2
+    },
+    {
+     "text": "Summer days",
+     "level": 2
+    },
+    {
+     "text": "Baskets and sandwiches",
+     "level": 3
+    },
+    {
+     "text": "Ants",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Barbecue",
+    "Feast",
+    "Potluck"
+   ]
+  },
+  {
+   "word": "Potluck",
+   "hints": [
+    {
+     "text": "Shared meal",
+     "level": 1
+    },
+    {
+     "text": "Group dinner",
+     "level": 1
+    },
+    {
+     "text": "Everyone brings a dish",
+     "level": 2
+    },
+    {
+     "text": "Office parties",
+     "level": 2
+    },
+    {
+     "text": "Casserole dishes",
+     "level": 3
+    },
+    {
+     "text": "Mixed menu",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Picnic",
+    "Buffet",
+    "Feast"
+   ]
+  },
+  {
+   "word": "Barbecue",
+   "hints": [
+    {
+     "text": "Outdoor cookout",
+     "level": 1
+    },
+    {
+     "text": "Grill party",
+     "level": 1
+    },
+    {
+     "text": "Summer weekends",
+     "level": 2
+    },
+    {
+     "text": "Backyard gatherings",
+     "level": 2
+    },
+    {
+     "text": "Charcoal smoke",
+     "level": 3
+    },
+    {
+     "text": "Burgers and sausages",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Picnic",
+    "Potluck",
+    "Feast"
+   ]
+  },
+  {
+   "word": "Bonfire",
+   "hints": [
+    {
+     "text": "Outdoor blaze",
+     "level": 1
+    },
+    {
+     "text": "Night gathering",
+     "level": 1
+    },
+    {
+     "text": "Camping trips",
+     "level": 2
+    },
+    {
+     "text": "Marshmallow roasting",
+     "level": 2
+    },
+    {
+     "text": "Crackling logs",
+     "level": 3
+    },
+    {
+     "text": "Sparks rising",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Campfire",
+    "Fireworks",
+    "Candle"
+   ]
+  },
+  {
+   "word": "Lantern",
+   "hints": [
+    {
+     "text": "Light source",
+     "level": 1
+    },
+    {
+     "text": "Festival decoration",
+     "level": 1
+    },
+    {
+     "text": "Floating wishes",
+     "level": 2
+    },
+    {
+     "text": "Camping nights",
+     "level": 2
+    },
+    {
+     "text": "Paper or metal",
+     "level": 3
+    },
+    {
+     "text": "Glowing inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Candle",
+    "Torch",
+    "Lamp"
+   ]
+  },
+  {
+   "word": "Diya",
+   "hints": [
+    {
+     "text": "Clay lamp",
+     "level": 1
+    },
+    {
+     "text": "Festival light",
+     "level": 1
+    },
+    {
+     "text": "Lit on diwali",
+     "level": 2
+    },
+    {
+     "text": "Rows on doorsteps",
+     "level": 2
+    },
+    {
+     "text": "Oil and wick",
+     "level": 3
+    },
+    {
+     "text": "Small clay bowl",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Candle",
+    "Lantern",
+    "Lamp"
+   ]
+  },
+  {
+   "word": "Rangoli",
+   "hints": [
+    {
+     "text": "Floor art",
+     "level": 1
+    },
+    {
+     "text": "Festival decoration",
+     "level": 1
+    },
+    {
+     "text": "Drawn at doorsteps",
+     "level": 2
+    },
+    {
+     "text": "Diwali tradition",
+     "level": 2
+    },
+    {
+     "text": "Colored powder",
+     "level": 3
+    },
+    {
+     "text": "Geometric patterns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mehndi",
+    "Kolam",
+    "Mandala"
+   ]
+  },
+  {
+   "word": "Mehndi",
+   "hints": [
+    {
+     "text": "Body art",
+     "level": 1
+    },
+    {
+     "text": "Henna design",
+     "level": 1
+    },
+    {
+     "text": "Weddings and festivals",
+     "level": 2
+    },
+    {
+     "text": "Bridal hands",
+     "level": 2
+    },
+    {
+     "text": "Orange brown patterns",
+     "level": 3
+    },
+    {
+     "text": "Paste cones",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tattoo",
+    "Rangoli",
+    "Bindi"
+   ]
+  },
+  {
+   "word": "Mistletoe",
+   "hints": [
+    {
+     "text": "Holiday plant",
+     "level": 1
+    },
+    {
+     "text": "Kissing tradition",
+     "level": 1
+    },
+    {
+     "text": "Hung in doorways",
+     "level": 2
+    },
+    {
+     "text": "Christmas custom",
+     "level": 2
+    },
+    {
+     "text": "White berries",
+     "level": 3
+    },
+    {
+     "text": "Green sprig",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Holly",
+    "Wreath",
+    "Ivy"
+   ]
+  },
+  {
+   "word": "Wreath",
+   "hints": [
+    {
+     "text": "Holiday decoration",
+     "level": 1
+    },
+    {
+     "text": "Door decoration",
+     "level": 1
+    },
+    {
+     "text": "Christmas doors",
+     "level": 2
+    },
+    {
+     "text": "Funerals",
+     "level": 2
+    },
+    {
+     "text": "Circle of greenery",
+     "level": 3
+    },
+    {
+     "text": "Ribbon bow",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Garland",
+    "Christmas tree",
+    "Mistletoe"
+   ]
+  },
+  {
+   "word": "Menorah",
+   "hints": [
+    {
+     "text": "Candle holder",
+     "level": 1
+    },
+    {
+     "text": "Religious lamp",
+     "level": 1
+    },
+    {
+     "text": "Lit for eight nights",
+     "level": 2
+    },
+    {
+     "text": "Window displays",
+     "level": 2
+    },
+    {
+     "text": "Nine branches",
+     "level": 3
+    },
+    {
+     "text": "Center candle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Candelabra",
+    "Diya",
+    "Lantern"
+   ]
+  },
+  {
+   "word": "Easter egg",
+   "hints": [
+    {
+     "text": "Holiday treat",
+     "level": 1
+    },
+    {
+     "text": "Painted shell",
+     "level": 1
+    },
+    {
+     "text": "Hunts in gardens",
+     "level": 2
+    },
+    {
+     "text": "Chocolate versions",
+     "level": 2
+    },
+    {
+     "text": "Pastel colors",
+     "level": 3
+    },
+    {
+     "text": "Hidden in grass",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chocolate bunny",
+    "Basket",
+    "Jelly bean"
+   ]
+  },
+  {
+   "word": "Jackolantern",
+   "hints": [
+    {
+     "text": "Halloween decoration",
+     "level": 1
+    },
+    {
+     "text": "Carved gourd",
+     "level": 1
+    },
+    {
+     "text": "Glows on porches",
+     "level": 2
+    },
+    {
+     "text": "Scary faces",
+     "level": 2
+    },
+    {
+     "text": "Candle inside",
+     "level": 3
+    },
+    {
+     "text": "Orange gourd",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Scarecrow",
+    "Skeleton",
+    "Ghost"
+   ]
+  },
+  {
+   "word": "Guising",
+   "hints": [
+    {
+     "text": "Halloween custom",
+     "level": 1
+    },
+    {
+     "text": "Candy collecting",
+     "level": 1
+    },
+    {
+     "text": "Kids in costumes",
+     "level": 2
+    },
+    {
+     "text": "Door to door",
+     "level": 2
+    },
+    {
+     "text": "Candy bags",
+     "level": 3
+    },
+    {
+     "text": "Doorbell ringing",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Caroling",
+    "Egg hunt",
+    "Streamer"
+   ]
+  },
+  {
+   "word": "Caroling",
+   "hints": [
+    {
+     "text": "Holiday singing",
+     "level": 1
+    },
+    {
+     "text": "Door to door songs",
+     "level": 1
+    },
+    {
+     "text": "Winter evenings",
+     "level": 2
+    },
+    {
+     "text": "Groups of singers",
+     "level": 2
+    },
+    {
+     "text": "Song sheets",
+     "level": 3
+    },
+    {
+     "text": "Candles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Guising",
+    "Choir",
+    "Parade"
+   ]
+  },
+  {
+   "word": "Santa claus",
+   "hints": [
+    {
+     "text": "Holiday figure",
+     "level": 1
+    },
+    {
+     "text": "Gift giver",
+     "level": 1
+    },
+    {
+     "text": "Chimney visits",
+     "level": 2
+    },
+    {
+     "text": "Naughty list",
+     "level": 2
+    },
+    {
+     "text": "Red suit",
+     "level": 3
+    },
+    {
+     "text": "White beard",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Elf",
+    "Reindeer",
+    "Snowman"
+   ]
+  },
+  {
+   "word": "Snowman",
+   "hints": [
+    {
+     "text": "Winter figure",
+     "level": 1
+    },
+    {
+     "text": "Frosty sculpture",
+     "level": 1
+    },
+    {
+     "text": "Built by kids",
+     "level": 2
+    },
+    {
+     "text": "Melts in sun",
+     "level": 2
+    },
+    {
+     "text": "Carrot nose",
+     "level": 3
+    },
+    {
+     "text": "Coal eyes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Santa claus",
+    "Igloo",
+    "Scarecrow"
+   ]
+  },
+  {
+   "word": "Reindeer",
+   "hints": [
+    {
+     "text": "Arctic animal",
+     "level": 1
+    },
+    {
+     "text": "Sleigh puller",
+     "level": 1
+    },
+    {
+     "text": "Christmas legends",
+     "level": 2
+    },
+    {
+     "text": "Red nosed one",
+     "level": 2
+    },
+    {
+     "text": "Antlers",
+     "level": 3
+    },
+    {
+     "text": "Hooves on roofs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Moose",
+    "Elk",
+    "Caribou"
+   ]
+  },
+  {
+   "word": "Elf",
+   "hints": [
+    {
+     "text": "Holiday helper",
+     "level": 1
+    },
+    {
+     "text": "Workshop worker",
+     "level": 1
+    },
+    {
+     "text": "Makes toys",
+     "level": 2
+    },
+    {
+     "text": "North pole",
+     "level": 2
+    },
+    {
+     "text": "Pointy ears",
+     "level": 3
+    },
+    {
+     "text": "Green outfit",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Santa claus",
+    "Gnome",
+    "Fairy"
+   ]
+  },
+  {
+   "word": "Turkey dinner",
+   "hints": [
+    {
+     "text": "Holiday meal",
+     "level": 1
+    },
+    {
+     "text": "Festive roast",
+     "level": 1
+    },
+    {
+     "text": "Thanksgiving tradition",
+     "level": 2
+    },
+    {
+     "text": "Carving at table",
+     "level": 2
+    },
+    {
+     "text": "Stuffing and gravy",
+     "level": 3
+    },
+    {
+     "text": "Cranberry sauce",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Roast chicken",
+    "Ham",
+    "Feast"
+   ]
+  },
+  {
+   "word": "Pumpkin pie",
+   "hints": [
+    {
+     "text": "Holiday dessert",
+     "level": 1
+    },
+    {
+     "text": "Autumn dessert",
+     "level": 1
+    },
+    {
+     "text": "Thanksgiving tables",
+     "level": 2
+    },
+    {
+     "text": "Whipped cream",
+     "level": 2
+    },
+    {
+     "text": "Spiced orange filling",
+     "level": 3
+    },
+    {
+     "text": "Flaky crust",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Apple pie",
+    "Pecan pie",
+    "Cheesecake"
+   ]
+  },
+  {
+   "word": "Gingerbread",
+   "hints": [
+    {
+     "text": "Holiday cookie",
+     "level": 1
+    },
+    {
+     "text": "Spiced treat",
+     "level": 1
+    },
+    {
+     "text": "Houses built from it",
+     "level": 2
+    },
+    {
+     "text": "Christmas baking",
+     "level": 2
+    },
+    {
+     "text": "Icing decorations",
+     "level": 3
+    },
+    {
+     "text": "Little man shape",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shortbread",
+    "Fruitcake",
+    "Cookie"
+   ]
+  },
+  {
+   "word": "Fruitcake",
+   "hints": [
+    {
+     "text": "Holiday loaf",
+     "level": 1
+    },
+    {
+     "text": "Dense dessert",
+     "level": 1
+    },
+    {
+     "text": "Regifted jokes",
+     "level": 2
+    },
+    {
+     "text": "Christmas tradition",
+     "level": 2
+    },
+    {
+     "text": "Candied fruits",
+     "level": 3
+    },
+    {
+     "text": "Heavy loaf",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gingerbread",
+    "Pudding",
+    "Stollen"
+   ]
+  },
+  {
+   "word": "Simnel",
+   "hints": [
+    {
+     "text": "Easter cake",
+     "level": 1
+    },
+    {
+     "text": "Fruit loaf",
+     "level": 1
+    },
+    {
+     "text": "Good friday tradition",
+     "level": 2
+    },
+    {
+     "text": "Marzipan layers",
+     "level": 2
+    },
+    {
+     "text": "Eleven marzipan balls",
+     "level": 3
+    },
+    {
+     "text": "Raisins inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fruitcake",
+    "Scone",
+    "Stollen"
+   ]
+  },
+  {
+   "word": "Mooncake",
+   "hints": [
+    {
+     "text": "Festival pastry",
+     "level": 1
+    },
+    {
+     "text": "Chinese treat",
+     "level": 1
+    },
+    {
+     "text": "Mid autumn gifts",
+     "level": 2
+    },
+    {
+     "text": "Shared with family",
+     "level": 2
+    },
+    {
+     "text": "Round and dense",
+     "level": 3
+    },
+    {
+     "text": "Lotus paste",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dumpling",
+    "Pie",
+    "Tart"
+   ]
+  },
+  {
+   "word": "Modak",
+   "hints": [
+    {
+     "text": "Indian sweet",
+     "level": 1
+    },
+    {
+     "text": "Festival dumpling",
+     "level": 1
+    },
+    {
+     "text": "Offered to elephant god",
+     "level": 2
+    },
+    {
+     "text": "Steamed",
+     "level": 2
+    },
+    {
+     "text": "Coconut jaggery filling",
+     "level": 3
+    },
+    {
+     "text": "Pleated top",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ladoo",
+    "Barfi",
+    "Dumpling"
+   ]
+  },
+  {
+   "word": "Gujiya",
+   "hints": [
+    {
+     "text": "Indian sweet",
+     "level": 1
+    },
+    {
+     "text": "Holi treat",
+     "level": 1
+    },
+    {
+     "text": "Fried crescent",
+     "level": 2
+    },
+    {
+     "text": "Festive snack",
+     "level": 2
+    },
+    {
+     "text": "Sweet filling",
+     "level": 3
+    },
+    {
+     "text": "Crimped edges",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Samosa",
+    "Modak",
+    "Ladoo"
+   ]
+  },
+  {
+   "word": "Sweets box",
+   "hints": [
+    {
+     "text": "Festival gift",
+     "level": 1
+    },
+    {
+     "text": "Treat package",
+     "level": 1
+    },
+    {
+     "text": "Shared on diwali",
+     "level": 2
+    },
+    {
+     "text": "Visiting relatives",
+     "level": 2
+    },
+    {
+     "text": "Assorted mithai",
+     "level": 3
+    },
+    {
+     "text": "Silver foil",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gift basket",
+    "Chocolate box",
+    "Hamper"
+   ]
+  },
+  {
+   "word": "Hamper",
+   "hints": [
+    {
+     "text": "Gift basket",
+     "level": 1
+    },
+    {
+     "text": "Festive package",
+     "level": 1
+    },
+    {
+     "text": "Corporate gifts",
+     "level": 2
+    },
+    {
+     "text": "Holiday treats",
+     "level": 2
+    },
+    {
+     "text": "Wicker basket",
+     "level": 3
+    },
+    {
+     "text": "Ribbon wrapped",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gift",
+    "Sweets box",
+    "Picnic basket"
+   ]
+  },
+  {
+   "word": "Secret santa",
+   "hints": [
+    {
+     "text": "Gift exchange",
+     "level": 1
+    },
+    {
+     "text": "Office tradition",
+     "level": 1
+    },
+    {
+     "text": "Draw names",
+     "level": 2
+    },
+    {
+     "text": "Budget limit",
+     "level": 2
+    },
+    {
+     "text": "Anonymous presents",
+     "level": 3
+    },
+    {
+     "text": "Reveal moment",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "White elephant",
+    "Potluck",
+    "Raffle"
+   ]
+  },
+  {
+   "word": "Countdown",
+   "hints": [
+    {
+     "text": "New year ritual",
+     "level": 1
+    },
+    {
+     "text": "Number chant",
+     "level": 1
+    },
+    {
+     "text": "Crowds in squares",
+     "level": 2
+    },
+    {
+     "text": "Ball drop",
+     "level": 2
+    },
+    {
+     "text": "Ten to one",
+     "level": 3
+    },
+    {
+     "text": "Midnight cheer",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Toast",
+    "Fireworks",
+    "Resolution"
+   ]
+  },
+  {
+   "word": "Resolution",
+   "hints": [
+    {
+     "text": "New year promise",
+     "level": 1
+    },
+    {
+     "text": "Goal",
+     "level": 1
+    },
+    {
+     "text": "Gym memberships",
+     "level": 2
+    },
+    {
+     "text": "Broken by february",
+     "level": 2
+    },
+    {
+     "text": "Self improvement",
+     "level": 3
+    },
+    {
+     "text": "Fresh start",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Countdown",
+    "Wish",
+    "Prayer"
+   ]
+  },
+  {
+   "word": "Toast",
+   "hints": [
+    {
+     "text": "Celebration speech",
+     "level": 1
+    },
+    {
+     "text": "Raised glasses",
+     "level": 1
+    },
+    {
+     "text": "Weddings and dinners",
+     "level": 2
+    },
+    {
+     "text": "Cheers",
+     "level": 2
+    },
+    {
+     "text": "Clinking glasses",
+     "level": 3
+    },
+    {
+     "text": "Speech",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Resolution",
+    "Prayer",
+    "Applause"
+   ]
+  },
+  {
+   "word": "Costume party",
+   "hints": [
+    {
+     "text": "Dress up event",
+     "level": 1
+    },
+    {
+     "text": "Themed bash",
+     "level": 1
+    },
+    {
+     "text": "Halloween favorite",
+     "level": 2
+    },
+    {
+     "text": "Prizes for best",
+     "level": 2
+    },
+    {
+     "text": "Masks and wigs",
+     "level": 3
+    },
+    {
+     "text": "Character outfits",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Masquerade",
+    "Prom",
+    "Carnival"
+   ]
+  },
+  {
+   "word": "Masquerade",
+   "hints": [
+    {
+     "text": "Masked ball",
+     "level": 1
+    },
+    {
+     "text": "Formal party",
+     "level": 1
+    },
+    {
+     "text": "Mystery guests",
+     "level": 2
+    },
+    {
+     "text": "Venetian style",
+     "level": 2
+    },
+    {
+     "text": "Feathered masks",
+     "level": 3
+    },
+    {
+     "text": "Ballgowns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Costume party",
+    "Carnival",
+    "Prom"
+   ]
+  },
+  {
+   "word": "Baby shower",
+   "hints": [
+    {
+     "text": "Celebration",
+     "level": 1
+    },
+    {
+     "text": "Pregnancy party",
+     "level": 1
+    },
+    {
+     "text": "Gifts for newborn",
+     "level": 2
+    },
+    {
+     "text": "Silly games",
+     "level": 2
+    },
+    {
+     "text": "Pastel decorations",
+     "level": 3
+    },
+    {
+     "text": "Diaper cakes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bridal shower",
+    "Birthday",
+    "Gender reveal"
+   ]
+  },
+  {
+   "word": "Bridal shower",
+   "hints": [
+    {
+     "text": "Pre wedding party",
+     "level": 1
+    },
+    {
+     "text": "Celebration",
+     "level": 1
+    },
+    {
+     "text": "Gifts for the bride",
+     "level": 2
+    },
+    {
+     "text": "Games",
+     "level": 2
+    },
+    {
+     "text": "Flowers and tea",
+     "level": 3
+    },
+    {
+     "text": "Veil props",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Baby shower",
+    "Bachelorette",
+    "Engagement"
+   ]
+  },
+  {
+   "word": "Engagement",
+   "hints": [
+    {
+     "text": "Celebration",
+     "level": 1
+    },
+    {
+     "text": "Proposal event",
+     "level": 1
+    },
+    {
+     "text": "Ring on knee",
+     "level": 2
+    },
+    {
+     "text": "Families meet",
+     "level": 2
+    },
+    {
+     "text": "Diamond ring",
+     "level": 3
+    },
+    {
+     "text": "Party",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wedding",
+    "Anniversary",
+    "Valentines day"
+   ]
+  },
+  {
+   "word": "Housewarming",
+   "hints": [
+    {
+     "text": "Celebration",
+     "level": 1
+    },
+    {
+     "text": "New home party",
+     "level": 1
+    },
+    {
+     "text": "Friends visit",
+     "level": 2
+    },
+    {
+     "text": "Gifts for home",
+     "level": 2
+    },
+    {
+     "text": "Plants and candles",
+     "level": 3
+    },
+    {
+     "text": "Tour of rooms",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Birthday",
+    "Potluck",
+    "Baby shower"
+   ]
+  },
+  {
+   "word": "Reunion",
+   "hints": [
+    {
+     "text": "Gathering",
+     "level": 1
+    },
+    {
+     "text": "Family meetup",
+     "level": 1
+    },
+    {
+     "text": "Long lost relatives",
+     "level": 2
+    },
+    {
+     "text": "Class of years ago",
+     "level": 2
+    },
+    {
+     "text": "Name tags",
+     "level": 3
+    },
+    {
+     "text": "Group photos",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Party",
+    "Wedding",
+    "Picnic"
+   ]
+  },
+  {
+   "word": "Sports day",
+   "hints": [
+    {
+     "text": "School event",
+     "level": 1
+    },
+    {
+     "text": "Athletic celebration",
+     "level": 1
+    },
+    {
+     "text": "Sack races",
+     "level": 2
+    },
+    {
+     "text": "Parents cheer",
+     "level": 2
+    },
+    {
+     "text": "Medals and ribbons",
+     "level": 3
+    },
+    {
+     "text": "Track events",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Picnic",
+    "Fair",
+    "Olympics"
+   ]
+  },
+  {
+   "word": "Talent show",
+   "hints": [
+    {
+     "text": "Performance event",
+     "level": 1
+    },
+    {
+     "text": "School performance",
+     "level": 1
+    },
+    {
+     "text": "Singing and magic",
+     "level": 2
+    },
+    {
+     "text": "Judges",
+     "level": 2
+    },
+    {
+     "text": "Stage and spotlight",
+     "level": 3
+    },
+    {
+     "text": "Applause",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Concert",
+    "Recital",
+    "Parade"
+   ]
+  },
+  {
+   "word": "Recital",
+   "hints": [
+    {
+     "text": "Performance",
+     "level": 1
+    },
+    {
+     "text": "Music show",
+     "level": 1
+    },
+    {
+     "text": "Piano students",
+     "level": 2
+    },
+    {
+     "text": "Proud parents",
+     "level": 2
+    },
+    {
+     "text": "Sheet music",
+     "level": 3
+    },
+    {
+     "text": "Bowing",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Concert",
+    "Talent show",
+    "Rehearsal"
+   ]
+  },
+  {
+   "word": "Concert",
+   "hints": [
+    {
+     "text": "Music event",
+     "level": 1
+    },
+    {
+     "text": "Live show",
+     "level": 1
+    },
+    {
+     "text": "Fans singing along",
+     "level": 2
+    },
+    {
+     "text": "Encores",
+     "level": 2
+    },
+    {
+     "text": "Stage lights",
+     "level": 3
+    },
+    {
+     "text": "Amplifiers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Recital",
+    "Festival",
+    "Rave"
+   ]
+  },
+  {
+   "word": "Bachelor party",
+   "hints": [
+    {
+     "text": "Pre wedding bash",
+     "level": 1
+    },
+    {
+     "text": "Celebration",
+     "level": 1
+    },
+    {
+     "text": "Friends weekend",
+     "level": 2
+    },
+    {
+     "text": "Pranks",
+     "level": 2
+    },
+    {
+     "text": "Road trips",
+     "level": 3
+    },
+    {
+     "text": "Matching shirts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bridal shower",
+    "Reunion",
+    "Stag do"
+   ]
+  },
+  {
+   "word": "Gender reveal",
+   "hints": [
+    {
+     "text": "Pregnancy celebration",
+     "level": 1
+    },
+    {
+     "text": "Surprise party",
+     "level": 1
+    },
+    {
+     "text": "Pink or blue",
+     "level": 2
+    },
+    {
+     "text": "Cake cutting",
+     "level": 2
+    },
+    {
+     "text": "Colored smoke",
+     "level": 3
+    },
+    {
+     "text": "Balloons popped",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Baby shower",
+    "Birthday",
+    "Housewarming"
+   ]
+  },
+  {
+   "word": "Book fair",
+   "hints": [
+    {
+     "text": "School event",
+     "level": 1
+    },
+    {
+     "text": "Reading festival",
+     "level": 1
+    },
+    {
+     "text": "Buying novels",
+     "level": 2
+    },
+    {
+     "text": "Author visits",
+     "level": 2
+    },
+    {
+     "text": "Stalls of stories",
+     "level": 3
+    },
+    {
+     "text": "Posters",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Carnival",
+    "Library",
+    "Market"
+   ]
+  },
+  {
+   "word": "Science fair",
+   "hints": [
+    {
+     "text": "School event",
+     "level": 1
+    },
+    {
+     "text": "Project showcase",
+     "level": 1
+    },
+    {
+     "text": "Volcano models",
+     "level": 2
+    },
+    {
+     "text": "Judges",
+     "level": 2
+    },
+    {
+     "text": "Trifold posters",
+     "level": 3
+    },
+    {
+     "text": "Ribbons",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Book fair",
+    "Talent show",
+    "Exhibition"
+   ]
+  },
+  {
+   "word": "Easter bunny",
+   "hints": [
+    {
+     "text": "Holiday mascot",
+     "level": 1
+    },
+    {
+     "text": "Egg bringer",
+     "level": 1
+    },
+    {
+     "text": "Hides eggs",
+     "level": 2
+    },
+    {
+     "text": "Spring visitor",
+     "level": 2
+    },
+    {
+     "text": "Long ears",
+     "level": 3
+    },
+    {
+     "text": "Basket of treats",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Santa claus",
+    "Tooth fairy",
+    "Reindeer"
+   ]
+  },
+  {
+   "word": "Tooth fairy",
+   "hints": [
+    {
+     "text": "Childhood figure",
+     "level": 1
+    },
+    {
+     "text": "Night visitor",
+     "level": 1
+    },
+    {
+     "text": "Coins under pillow",
+     "level": 2
+    },
+    {
+     "text": "Lost teeth",
+     "level": 2
+    },
+    {
+     "text": "Tiny wings",
+     "level": 3
+    },
+    {
+     "text": "Sparkly",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Easter bunny",
+    "Santa claus",
+    "Sandman"
+   ]
+  },
+  {
+   "word": "Groundhog day",
+   "hints": [
+    {
+     "text": "Weather tradition",
+     "level": 1
+    },
+    {
+     "text": "February custom",
+     "level": 1
+    },
+    {
+     "text": "Shadow prediction",
+     "level": 2
+    },
+    {
+     "text": "Six more weeks",
+     "level": 2
+    },
+    {
+     "text": "Burrowing rodent",
+     "level": 3
+    },
+    {
+     "text": "Small town crowds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "April fools",
+    "Earth day",
+    "Leap day"
+   ]
+  },
+  {
+   "word": "Leap day",
+   "hints": [
+    {
+     "text": "Rare date",
+     "level": 1
+    },
+    {
+     "text": "Calendar quirk",
+     "level": 1
+    },
+    {
+     "text": "Every four years",
+     "level": 2
+    },
+    {
+     "text": "Rare birthdays",
+     "level": 2
+    },
+    {
+     "text": "Twenty ninth february",
+     "level": 3
+    },
+    {
+     "text": "Bonus date",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "New year",
+    "Solstice",
+    "Groundhog day"
+   ]
+  },
+  {
+   "word": "Hogmanay",
+   "hints": [
+    {
+     "text": "Scottish celebration",
+     "level": 1
+    },
+    {
+     "text": "Year end party",
+     "level": 1
+    },
+    {
+     "text": "First footing visitors",
+     "level": 2
+    },
+    {
+     "text": "Street parties",
+     "level": 2
+    },
+    {
+     "text": "Bagpipes at midnight",
+     "level": 3
+    },
+    {
+     "text": "Torchlight procession",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Christmas eve",
+    "Bonfire night",
+    "Burns night"
+   ]
+  },
+  {
+   "word": "Burns night",
+   "hints": [
+    {
+     "text": "Scottish celebration",
+     "level": 1
+    },
+    {
+     "text": "Poetry supper",
+     "level": 1
+    },
+    {
+     "text": "Haggis is piped in",
+     "level": 2
+    },
+    {
+     "text": "Recited verses",
+     "level": 2
+    },
+    {
+     "text": "Kilts and tartan",
+     "level": 3
+    },
+    {
+     "text": "Address to haggis",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hogmanay",
+    "Saint patrick",
+    "Bonfire night"
+   ]
+  },
+  {
+   "word": "Beltane",
+   "hints": [
+    {
+     "text": "Gaelic festival",
+     "level": 1
+    },
+    {
+     "text": "Spring celebration",
+     "level": 1
+    },
+    {
+     "text": "Bonfires on hills",
+     "level": 2
+    },
+    {
+     "text": "Maypole dances",
+     "level": 2
+    },
+    {
+     "text": "Flower crowns",
+     "level": 3
+    },
+    {
+     "text": "Ancient rites",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Samhain",
+    "Midsummer",
+    "Easter"
+   ]
+  },
+  {
+   "word": "Vesak",
+   "hints": [
+    {
+     "text": "Buddhist festival",
+     "level": 1
+    },
+    {
+     "text": "Enlightenment celebration",
+     "level": 1
+    },
+    {
+     "text": "Temple visits",
+     "level": 2
+    },
+    {
+     "text": "Releasing birds",
+     "level": 2
+    },
+    {
+     "text": "Paper lanterns",
+     "level": 3
+    },
+    {
+     "text": "Monks chanting",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Buddha purnima",
+    "Diwali",
+    "Lantern festival"
+   ]
+  },
+  {
+   "word": "Navroz",
+   "hints": [
+    {
+     "text": "Persian new year",
+     "level": 1
+    },
+    {
+     "text": "Spring celebration",
+     "level": 1
+    },
+    {
+     "text": "Table of seven items",
+     "level": 2
+    },
+    {
+     "text": "Jumping over fires",
+     "level": 2
+    },
+    {
+     "text": "Sprouted grains",
+     "level": 3
+    },
+    {
+     "text": "Painted eggs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Diwali",
+    "Tet",
+    "Baisakhi"
+   ]
+  },
+  {
+   "word": "Sukkot",
+   "hints": [
+    {
+     "text": "Jewish festival",
+     "level": 1
+    },
+    {
+     "text": "Harvest celebration",
+     "level": 1
+    },
+    {
+     "text": "Eating in huts",
+     "level": 2
+    },
+    {
+     "text": "Week long",
+     "level": 2
+    },
+    {
+     "text": "Leafy roofs",
+     "level": 3
+    },
+    {
+     "text": "Palm fronds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Passover",
+    "Hanukkah",
+    "Purim"
+   ]
+  },
+  {
+   "word": "Purim",
+   "hints": [
+    {
+     "text": "Jewish festival",
+     "level": 1
+    },
+    {
+     "text": "Costume celebration",
+     "level": 1
+    },
+    {
+     "text": "Reading a scroll",
+     "level": 2
+    },
+    {
+     "text": "Noisemakers",
+     "level": 2
+    },
+    {
+     "text": "Triangle cookies",
+     "level": 3
+    },
+    {
+     "text": "Gift baskets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hanukkah",
+    "Passover",
+    "Sukkot"
+   ]
+  },
+  {
+   "word": "Thaipusam",
+   "hints": [
+    {
+     "text": "Hindu festival",
+     "level": 1
+    },
+    {
+     "text": "Tamil celebration",
+     "level": 1
+    },
+    {
+     "text": "Pilgrimage to temples",
+     "level": 2
+    },
+    {
+     "text": "Devotional piercings",
+     "level": 2
+    },
+    {
+     "text": "Milk pots carried",
+     "level": 3
+    },
+    {
+     "text": "Peacock feathers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pongal",
+    "Navratri",
+    "Onam"
+   ]
+  },
+  {
+   "word": "Yuletide",
+   "hints": [
+    {
+     "text": "Holiday season",
+     "level": 1
+    },
+    {
+     "text": "Winter festivities",
+     "level": 1
+    },
+    {
+     "text": "Kids wake early",
+     "level": 2
+    },
+    {
+     "text": "Pajamas all day",
+     "level": 2
+    },
+    {
+     "text": "Torn wrapping paper",
+     "level": 3
+    },
+    {
+     "text": "Stockings emptied",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Boxing day",
+    "Hogmanay",
+    "Epiphany"
+   ]
+  },
+  {
+   "word": "Diwali sweets",
+   "hints": [
+    {
+     "text": "Festival treats",
+     "level": 1
+    },
+    {
+     "text": "Indian desserts",
+     "level": 1
+    },
+    {
+     "text": "Shared with neighbors",
+     "level": 2
+    },
+    {
+     "text": "Silver leaf",
+     "level": 2
+    },
+    {
+     "text": "Barfi and ladoo",
+     "level": 3
+    },
+    {
+     "text": "Boxes stacked",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gift hamper",
+    "Chocolate box",
+    "Fruitcake"
+   ]
+  }
+ ]
+}

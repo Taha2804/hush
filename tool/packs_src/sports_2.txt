@@ -1,0 +1,14 @@
+@id sports
+@name Sports
+Golf putt | Short stroke; Green finish | Reading the slope; Nervous moment | Flat club face; Rolling into cup | Drive; Chip; Swing
+Penalty kick | Football moment; Set piece | Goalkeeper guesses; Tense crowd | Spot on the pitch; One on keeper | Free kick; Corner; Header
+Slam dunk | Basketball move; Highlight play | Crowd goes wild; Tall leapers | Hanging on rim; Jumping throw down | Layup; Three pointer; Rebound
+Home run | Baseball moment; Big hit | Crowd stands up; Rounds the bases | Over the fence; Bat flip | Strikeout; Touchdown; Goal
+Touchdown | Gridiron score; Big play | Spiking celebrations; End zone dance | Six points; Crossing the line | Home run; Goal; Try
+Hat trick | Scoring feat; Triple achievement | Three goals; Fans throw caps | Same match triple; Rare and special | Brace; Double; Treble
+Knockout | Boxing finish; Fight ending | Count to ten; Crowd erupts | Fighter hits canvas; Lights out | Submission; Tapout; Decision
+Olympics | Sports festival; Global event | Every four years; Opening ceremony | Five rings; Gold medals | World cup; Paralympics; Asian games
+World cup | Football tournament; Global event | Every four years; National teams | Golden trophy; Penalty shootouts | Olympics; Champions league; Super bowl
+Super bowl | Gridiron final; Big game | Halftime show; Expensive ads | Championship rings; Sunday party | World cup; Grand final; Olympics
+Stadium | Sports venue; Huge arena | Thousands of fans; Floodlights | Tiered seating; Hot dog stands | Arena; Gym; Court
+Trophy | Winning prize; Shiny award | Lifted overhead; Kept in cabinets | Golden cup; Engraved names | Medal; Ribbon; Plaque

@@ -1,0 +1,8 @@
+@id movies
+@name Movies
+Ensemble cast | Film style; Many stars | Interwoven stories; Big posters | Dozens of actors; Equal billing | Solo lead; Cameo; Duo
+Antihero | Story role; Flawed protagonist | Morally grey; Fans love them | Breaks rules; Reluctant savior | Villain; Rogue; Sidekick
+Henchman | Movie role; Villain helper | Easily defeated; Matching uniforms | Hired muscle; Falls first | Sidekick; Mentor; Bodyguard
+Bodyguard | Movie role; Protector | Shields the star; Sunglasses indoors | Earpiece; Stern face | Henchman; Sidekick; Chauffeur
+Chase scene | Action sequence; Pursuit | Rooftop runs; Market stalls toppled | Running and jumping; Heart pounding | Car chase; Shootout; Montage
+Opening scene | Story start; First moments | Hooks the audience; Sets the tone | Establishing shot; Title card | Finale; Credits; Trailer

@@ -1,0 +1,150 @@
+@id transport
+@name Transport
+Car | Vehicle; Road transport | Daily commute; Needs fuel | Four wheels; Steering wheel | Truck; Van; Bus
+Bus | Public transport; Big vehicle | School trips; Fixed routes | Many seats; Ring bell to stop | Tram; Coach; Train
+Train | Rail transport; Long vehicle | Station platforms; Tickets checked | Carriages; Runs on tracks | Tram; Subway; Bus
+Airplane | Air transport; Flying machine | Airport security; Window seats | Wings and engines; Takes off | Helicopter; Rocket; Glider
+Helicopter | Air transport; Hovering craft | Rescue missions; Traffic reports | Spinning rotors; Lands on roofs | Airplane; Drone; Jet
+Bicycle | Pedal transport; Two wheeler | Kids learn to ride; Eco friendly | Chain and pedals; Handlebars | Scooter; Motorcycle; Tricycle
+Motorcycle | Two wheeler; Engine vehicle | Leather jackets; Weaves through traffic | Helmet required; Revving engine | Bicycle; Scooter; Moped
+Scooter | Two wheeler; City ride | Kick to go; Electric rentals | Small wheels; Footboard | Bicycle; Skateboard; Moped
+Boat | Water transport; Floating vessel | Lake trips; Fishing outings | Hull and deck; Rocks on waves | Ship; Raft; Canoe
+Ship | Water transport; Ocean vessel | Crosses oceans; Cargo or cruise | Huge hull; Anchor and deck | Boat; Ferry; Submarine
+Submarine | Underwater vessel; Navy craft | Dives deep; Secret missions | Periscope; Sonar pings | Ship; Diving bell; Torpedo
+Truck | Heavy vehicle; Road hauler | Delivers goods; Highway trips | Big cargo bed; Loud horn | Van; Lorry; Bus
+Van | Road vehicle; Delivery vehicle | Moving house; Family trips | Sliding door; Boxy shape | Truck; Minibus; Car
+Taxi | Hired ride; City transport | Hail from curb; Meter running | Yellow paint; Roof sign | Bus; Limo; Rickshaw
+Ambulance | Emergency vehicle; Medical transport | Rushes to hospital; Flashing lights | Siren; Stretcher inside | Fire engine; Police car; Van
+Fire engine | Emergency vehicle; Rescue truck | Rushes to blazes; Kids love it | Red paint; Long ladder | Ambulance; Police car; Truck
+Police car | Emergency vehicle; Patrol vehicle | Chases speeders; Flashing lights | Siren on roof; Black and white | Ambulance; Taxi; Fire engine
+Tractor | Farm vehicle; Heavy machine | Plows fields; Slow on roads | Huge back tires; Pulls trailers | Bulldozer; Truck; Combine
+Bulldozer | Construction vehicle; Heavy machine | Clears land; Building sites | Big front blade; Caterpillar tracks | Excavator; Tractor; Crane
+Excavator | Construction vehicle; Digger | Digs foundations; Building sites | Long arm; Toothed bucket | Bulldozer; Crane; Tractor
+Crane | Construction machine; Lifting machine | Builds skyscrapers; Towers over sites | Long boom; Hook and cable | Forklift; Excavator; Elevator
+Forklift | Warehouse vehicle; Lifting machine | Moves pallets; Beeps reversing | Twin prongs; Small cab | Crane; Tractor; Trolley
+Tram | Rail transport; Street car | City streets; Overhead wires | Runs on tracks; Ding ding bell | Bus; Train; Trolleybus
+Subway | Underground rail; City transport | Rush hour crowds; Tunnel stations | Turnstiles; Map with lines | Tram; Train; Bus
+Monorail | Elevated transport; Single beam | Theme parks; Airport shuttles | Elevated beam; Futuristic look | Tram; Subway; Cable car
+Cable car | Hill transport; Suspended cabin | Mountain views; Ski resorts | Hanging from wires; Swaying cabin | Gondola; Chairlift; Funicular
+Balloon flight | Sky transport; Floating craft | Sunrise rides; Festival skies | Wicker basket; Burner flame | Blimp; Glider; Parachute
+Blimp | Airship; Floating craft | Stadium views; Slow flyer | Gas filled; Cigar shape | Balloon flight; Zeppelin; Glider
+Glider | Air craft; Engineless plane | Silent flights; Rides thermals | Long thin wings; Towed up | Airplane; Kite; Biplane
+Jet | Fast aircraft; Air transport | Supersonic speed; Fighter pilots | Turbine engines; Contrails | Helicopter; Rocket; Glider
+Rocket | Space vehicle; Launch craft | Countdown liftoff; Astronauts ride | Fiery exhaust; Tall and pointy | Spaceship; Jet; Missile
+Spaceship | Galactic vehicle; Science fiction craft | Travels to stars; Alien movies | Warp drive; Cockpit windows | Rocket; Satellite; Space station
+Ferry | Water transport; Passenger boat | Crosses rivers; Carries cars | Regular schedule; Car deck | Ship; Barge; Boat
+Yacht | Luxury boat; Sailing vessel | Billionaire toy; Marina parties | Sleek hull; Tall mast | Sailboat; Cruise ship; Speedboat
+Canoe | Paddle boat; Narrow vessel | Lake adventures; Summer camp | Single paddle; Pointed ends | Kayak; Raft; Rowboat
+Kayak | Paddle boat; Narrow vessel | River rapids; Sea trips | Double paddle; Sit inside | Canoe; Raft; Paddleboard
+Raft | Floating platform; Simple boat | River rapids; Castaway escape | Logs tied together; Inflatable | Canoe; Boat; Pontoon
+Gondola | Canal boat; Italian boat | Romantic rides; Singing rowers | Long black boat; Single oar | Canoe; Punt; Rowboat
+Sailboat | Wind powered vessel; Water vessel | Weekend regattas; Breezy days | Mast and sails; Tiller steering | Yacht; Canoe; Ferry
+Speedboat | Fast vessel; Motor vessel | Water skiing; Spray and splash | Powerful outboard; Sleek hull | Jet ski; Yacht; Ferry
+Cruise ship | Holiday vessel; Floating hotel | Buffets and pools; Island hopping | Many decks; Huge white hull | Ferry; Yacht; Ocean liner
+Rickshaw | Small vehicle; City ride | Asian streets; Pulled or pedaled | Two wheels; Canopy seat | Taxi; Tuk tuk; Pedicab
+Auto rickshaw | Three wheeler; City taxi | Indian streets; Bargain fares | Green and yellow; Open sides | Taxi; Tuk tuk; Scooter
+Limousine | Luxury car; Long vehicle | Proms and weddings; Celebrities | Stretch body; Chauffeur | Taxi; Sedan; Bus
+Skateboard | Wheeled plank; Street ride | Concrete bowls; Tricks | Four small wheels; Grip tape | Scooter; Surfboard; Rollerblades
+Rollerblades | Wheeled boots; Skating gear | Boardwalk fun; Retro trend | Inline wheels; Brake pad | Skateboard; Ice skates; Scooter
+Segway | Two wheeled device; Personal transporter | Tourist tours; Mall cops | Self balancing; Lean to go | Scooter; Hoverboard; Bicycle
+Hoverboard | Self balancing gadget; Gizmo | Teen gift; Futuristic toy | Two wheels; Foot controlled | Segway; Skateboard; Scooter
+Unicycle | Single wheel; Circus ride | Jugglers ride it; Hard to balance | One wheel; Seat on pole | Bicycle; Tricycle; Pogo stick
+Tricycle | Three wheeler; Kids ride | Toddler toy; First bike | Three wheels; Front pedals | Bicycle; Unicycle; Scooter
+Tandem | Shared bicycle; Two seater | Couples ride; Teamwork | Two seats; Long frame | Tricycle; Bicycle; Rickshaw
+Moped | Small motorbike; City ride | Delivery riders; Beeps through traffic | Small engine; Step through | Scooter; Motorcycle; Bicycle
+Sedan | Car type; Family car | Daily commute; Four doors | Separate trunk; Low roof | Hatchback; Coupe; Wagon
+Convertible | Car type; Open top car | Sunny drives; Wind in hair | Folding roof; Sporty look | Sedan; Coupe; Jeep
+Jeep | Off road vehicle; Rugged car | Safari trips; Muddy trails | Open top; Big tires | Truck; Tractor; Van
+Pickup truck | Light hauler; Utility vehicle | Farm hauling; Country roads | Open cargo bed; Tailgate | Van; Jeep; Lorry
+Minivan | Family vehicle; People carrier | School runs; Soccer moms | Sliding doors; Seven seats | Van; Bus; Sedan
+Camper van | Holiday vehicle; Home on wheels | Road trips; Campsites | Tiny kitchen; Pop up roof | Caravan; Bus; Truck
+Caravan | Towed home; Holiday trailer | Campsites; Pulled by car | Fold out beds; Hitch | Camper van; Tent; Trailer
+Trailer | Towed cart; Hauling unit | Moves boats; Hooked to cars | Hitch; No engine | Caravan; Wagon; Cart
+Lorry | Heavy truck; Freight vehicle | Highway freight; Long journeys | Huge trailer; Many wheels | Truck; Van; Tanker
+Tanker | Liquid carrier; Big vehicle | Carries fuel; Ocean or road | Round drum; Hazard signs | Lorry; Barge; Container ship
+Tow truck | Recovery vehicle; Road rescue | Breakdowns; Illegal parking | Winch and hook; Flashing amber | Ambulance; Lorry; Bulldozer
+Garbage truck | Municipal vehicle; Waste collector | Weekly pickups; Smelly job | Crushing compactor; Bins lifted | Recycling van; Dump truck; Street sweeper
+Dump truck | Construction vehicle; Hauler | Carries gravel; Tips loads | Tilting bed; Huge tires | Bulldozer; Lorry; Tractor
+Cement mixer | Construction vehicle; Mixing truck | Building sites; Never stops turning | Rotating drum; Wet concrete | Dump truck; Bulldozer; Tanker
+Steamroller | Construction vehicle; Road flattener | Paves roads; Very slow | Huge front drum; Flattens asphalt | Bulldozer; Tractor; Grader
+Snowplow | Winter vehicle; Road clearer | Clears blizzards; Early mornings | Angled front blade; Salt spreader | Bulldozer; Tractor; Snowmobile
+Snowmobile | Winter vehicle; Arctic ride | Arctic trips; Mountain trails | Skis in front; Tracked back | Sled; Jet ski; Quad bike
+Sled | Snow transport; Winter ride | Pulled by dogs; Hills in winter | Runners underneath; Rope to pull | Toboggan; Sleigh; Snowmobile
+Sleigh | Snow carriage; Festive ride | Santa rides one; Pulled by reindeer | Jingle bells; Curved runners | Sled; Carriage; Wagon
+Carriage | Horse drawn; Old transport | Royal processions; Fairy tales | Big wheels; Coachman seat | Wagon; Cart; Sleigh
+Wagon | Horse drawn; Wild west transport | Pioneers; Hay rides | Canvas cover; Wooden wheels | Cart; Carriage; Trailer
+Cart | Small vehicle; Pushed or pulled | Shopping or farm; Rickety wheels | Two wheels; Wooden bed | Wagon; Wheelbarrow; Trolley
+Bullock cart | Animal drawn; Rural transport | Village roads; Farm hauling | Pulled by oxen; Wooden wheels | Horse cart; Wagon; Tractor
+Camel caravan | Desert travel; Animal convoy | Silk road traders; Sand dunes | Line of humped animals; Laden packs | Wagon train; Horse cart; Jeep
+Horse | Animal ride; Old transport | Riding lessons; Cowboys | Saddle and reins; Galloping | Donkey; Camel; Pony
+Elephant ride | Animal journey; Tourist trek | Royal processions; Jungle treks | Howdah seat; Huge steps | Camel ride; Horseback; Rickshaw
+Escalator | Moving stairs; Mall transport | Shopping centers; Stand on right | Metal steps; Moving handrail | Elevator; Stairs; Conveyor
+Elevator | Vertical transport; Lift | Skyscrapers; Awkward silence | Buttons for floors; Sliding doors | Escalator; Stairs; Crane
+Travelator | Moving walkway; Airport transport | Long terminals; Walk faster | Flat belt; Moving handrail | Escalator; Elevator; Conveyor
+Funicular | Hill railway; Cable railway | Steep slopes; Tourist ride | Counterweighted cars; Inclined track | Cable car; Tram; Monorail
+Chairlift | Slope transport; Mountain ride | Ski resorts; Dangling legs | Open seats; Safety bar | Cable car; Gondola; Elevator
+Bullet train | High speed rail; Fast rail | Japanese icon; Punctual service | Sleek nose; Very fast | Monorail; Subway; Tram
+Steam train | Old locomotive; Heritage rail | Puffs smoke; Choo choo | Coal fired engine; Whistle | Diesel train; Tram; Bullet train
+Freight train | Cargo rail; Long locomotive | Carries goods; Very long | Box cars; Container wagons | Passenger train; Tram; Lorry
+Metro | City rail; Rapid transit | Daily commute; Smart cards | Underground tunnels; Station maps | Subway; Tram; Bus
+Coach | Long distance bus; Tour bus | School trips; Comfy seats | Luggage hold; Reclining seats | Bus; Train; Minibus
+Double decker | Two level bus; City bus | Tourist tours; Upstairs views | Two floors; Red paint | Bus; Tram; Coach
+School bus | Kids transport; Yellow vehicle | Morning pickups; Stop sign arm | Bright yellow; Rows of seats | Coach; Van; Minibus
+Minibus | Small bus; Group transport | Airport shuttles; Sports teams | Fifteen seats; Sliding door | Van; Bus; Coach
+Shuttle | Connecting transport; Short trip ride | Airport hotels; Free service | Loops a route; Small bus | Taxi; Coach; Tram
+Jet ski | Water vehicle; Personal watercraft | Beach rentals; Sprays water | Handlebars; Sit astride | Speedboat; Kayak; Surfboard
+Hovercraft | Air cushion vehicle; Amphibious vessel | Crosses water and land; Loud fans | Rubber skirt; Floats on air | Ferry; Boat; Jet ski
+Barge | Cargo boat; Flat vessel | Canal transport; Slow moving | Flat bottom; Pushed by tugs | Ferry; Raft; Tanker
+Tugboat | Harbor vessel; Small powerful vessel | Pushes big ships; Docking help | Big fenders; Chunky hull | Barge; Ferry; Speedboat
+Houseboat | Floating home; Lake vessel | Kerala backwaters; Kashmir lakes | Bedrooms aboard; Moored | Yacht; Barge; Cruise ship
+Rowboat | Small vessel; Oar powered | Lake outings; Romantic rows | Two oars; Wooden seats | Canoe; Kayak; Raft
+Paddleboard | Water craft; Standing sport | Calm lakes; Yoga on water | Long plank; Single oar | Surfboard; Kayak; Canoe
+Surfboard | Wave rider; Beach craft | Beach culture; Catches waves | Fin underneath; Waxed top | Skateboard; Paddleboard; Bodyboard
+Pirate ship | Old vessel; Adventure vessel | Treasure hunts; Walk the plank | Skull flag; Cannons | Galleon; Yacht; Raft
+Galleon | Old ship; Sailing warship | Spanish treasure; Age of sail | Tall masts; Wooden decks | Pirate ship; Frigate; Yacht
+Aircraft carrier | Navy ship; Floating runway | Jets take off; Huge crew | Flat deck; Catapult launch | Battleship; Submarine; Destroyer
+Battleship | Navy vessel; Warship | Big guns; Naval combat | Armored hull; Gun turrets | Aircraft carrier; Submarine; Destroyer
+Fighter jet | Military aircraft; Fast plane | Air shows; Sonic boom | Afterburner; Missiles under wings | Bomber; Helicopter; Drone
+Drone | Unmanned aircraft; Flying gadget | Aerial photos; Package delivery | Four rotors; Remote controlled | Helicopter; Kite; Plane
+Seaplane | Water aircraft; Float aircraft | Island hopping; Lands on lakes | Pontoons; Propeller | Airplane; Glider; Helicopter
+Biplane | Old aircraft; Vintage aircraft | Air shows; Crop dusting | Two wings stacked; Open cockpit | Glider; Jet; Seaplane
+Paraglider | Air sport craft; Wing canopy | Mountain launches; Soaring | Fabric wing; Harness seat | Kite; Hang glider; Parachute
+Parachute | Descent device; Air safety | Skydivers; Emergency exit | Canopy; Ripcord | Paraglider; Glider; Balloon
+Space shuttle | Reusable orbiter; Orbital vehicle | Retired program; Glided home | Orange fuel tank; Winged orbiter | Rocket; Space station; Capsule
+Satellite | Orbiting object; Space device | Weather forecasts; Gps signals | Solar panels; Circles the planet | Space station; Rocket; Moon
+Space station | Orbiting lab; Orbital base | Astronauts live there; Science experiments | Solar arrays; Docking ports | Satellite; Space shuttle; Rocket
+Lunar rover | Moon vehicle; Space buggy | Driven by astronauts; Moon missions | Mesh wheels; Antenna dish | Mars rover; Jeep; Space shuttle
+Go kart | Small car; Racing toy | Birthday parties; Track fun | Low seat; Small engine | Bumper car; Race car; Quad bike
+Bumper car | Fairground ride; Toy vehicle | Crash for fun; Amusement parks | Rubber edges; Pole to ceiling | Go kart; Dodgem; Carousel
+Race car | Fast vehicle; Sports vehicle | Grand prix; Pit stops | Slick tires; Spoiler wing | Go kart; Sports car; Rally car
+Sports car | Fast vehicle; Luxury vehicle | Midlife crisis; Roaring engine | Low and sleek; Two doors | Race car; Convertible; Sedan
+Electric car | Battery vehicle; Green vehicle | Charging stations; Silent motor | No exhaust; Plug in | Hybrid; Petrol car; Scooter
+Quad bike | Off road vehicle; Four wheeler | Beach rides; Farm use | Handlebars; Chunky tires | Dirt bike; Go kart; Jeep
+Dirt bike | Off road motorcycle; Trail machine | Muddy tracks; Big jumps | Knobby tires; High fenders | Motorcycle; Quad bike; Bicycle
+Tuk tuk | Three wheeler; Asian taxi | Thai streets; Noisy engine | Open sides; Colorful canopy | Rickshaw; Taxi; Scooter
+Pedicab | Bicycle taxi; Pedal rickshaw | Tourist rides; Eco friendly | Rider in front; Passenger seat behind | Rickshaw; Tricycle; Taxi
+Wheelchair | Mobility aid; Personal transport | Hospital use; Accessibility | Two big wheels; Push rims | Walker; Scooter; Stretcher
+Stretcher | Medical carrier; Patient transport | Ambulance crews; Carry injured | Flat bed; Folding legs | Wheelchair; Bed; Cot
+Stroller | Baby carrier; Pushed chair | Park walks; Parents push it | Canopy; Small wheels | Pram; Wheelchair; Wagon
+Pram | Baby carriage; Old pushchair | Victorian nannies; Newborns lie in it | Hooded bassinet; Big wheels | Stroller; Cot; Wagon
+Shopping cart | Store trolley; Wheeled basket | Supermarkets; Wonky wheel | Wire basket; Child seat | Basket; Wheelbarrow; Wagon
+Conveyor belt | Moving strip; Factory transport | Airport luggage; Checkout lanes | Rubber surface; Rollers | Escalator; Travelator; Elevator
+Zipline | Adventure ride; Cable slide | Jungle canopies; Thrill seekers | Harness and pulley; Steel cable | Cable car; Chairlift; Swing
+Ox cart | Animal drawn; Farm transport | Rural villages; Slow pace | Pair of oxen; Yoke | Wagon; Horse cart; Tractor
+Dog sled | Snow transport; Arctic ride | Races in alaska; Mushing | Team of huskies; Wooden runners | Snowmobile; Sleigh; Toboggan
+Toboggan | Snow sled; Winter ride | Snowy hills; Family fun | Curled front; Flat wooden base | Sled; Luge; Snowboard
+Zeppelin | Airship; Rigid balloon | Early aviation; Floating giants | Metal frame; Gondola underneath | Blimp; Balloon flight; Glider
+Ocean liner | Passenger ship; Grand vessel | Transatlantic crossings; Historic voyages | Funnels; Many decks | Cruise ship; Ferry; Yacht
+Container ship | Cargo vessel; Freight vessel | Global trade; Huge ports | Stacked boxes; Giant cranes | Tanker; Barge; Ferry
+Fishing boat | Work vessel; Trawler | Early morning catch; Harbor docks | Nets and winches; Seagulls follow | Ferry; Yacht; Tugboat
+Lifeboat | Rescue vessel; Safety vessel | Emergency at sea; Coast guards | Bright orange; Hanging from ship | Raft; Dinghy; Tugboat
+Dinghy | Small boat; Inflatable boat | Yacht tender; Lake fun | Rubber sides; Outboard motor | Raft; Canoe; Rowboat
+Catamaran | Twin hull boat; Sailing vessel | Island cruises; Stable ride | Two parallel hulls; Netting deck | Yacht; Ferry; Trimaran
+Airship | Lighter than air; Floating craft | Early aviation; Slow cruises | Gas envelope; Cabin underneath | Blimp; Zeppelin; Balloon
+Mail truck | Delivery vehicle; Postal van | Daily rounds; Right hand drive | Boxy shape; Sliding door | Food truck; Garbage truck; Minivan
+Treat van | Dessert vehicle; Summer vehicle | Chimes a tune; Kids chase it | Serving window; Cone sign | Food truck; Mail truck; Minivan
+Food truck | Mobile kitchen; Street vendor | Festival snacks; Office lunches | Serving hatch; Menu board | Treat van; Mail truck; Camper van
+Rickshaw puller | Old city transport; Human drawn cart | Kolkata streets; Tourist rides | Long poles; Barefoot runner | Pedicab; Tuk tuk; Taxi
+Horse carriage | Animal drawn ride; Romantic ride | City park tours; Weddings | Coachman; Clip clop hooves | Sleigh; Wagon; Limousine
+Penny farthing | Old bicycle; Victorian ride | Hard to mount; Museum piece | Huge front wheel; Tiny back wheel | Unicycle; Tandem; Tricycle
+Airport shuttle | Terminal transport; Courtesy bus | Hotel pickups; Free rides | Luggage racks; Frequent loops | Taxi; Coach; Minibus

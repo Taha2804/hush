@@ -1,0 +1,15 @@
+@id cities
+@name Cities
+Dallas | American city; Texan metropolis | Cowboys and rodeos; Big business | Steakhouses; Wide highways | Houston; Austin; Denver
+Austin | American city; Texan capital | Live music capital; Tech scene | Bat bridge; Food trucks | Dallas; Nashville; Portland
+Portland | American city; Quirky city | Craft coffee; Bike friendly | Food carts; Rose gardens | Seattle; Austin; Denver
+San diego | American city; Coastal city | Famous zoo; Sunny weather | Navy harbor; Fish tacos | Los angeles; Phoenix; Tijuana
+Phoenix | American city; Desert city | Very hot summers; Golf resorts | Saguaro cactus; Red rocks nearby | Tucson; Las vegas; Denver
+Detroit | American city; Motor city | Car industry; Soul music label | Assembly lines; Riverfront | Chicago; Cleveland; Toronto
+Glasgow | Scottish city; Industrial city | Football rivalry; Music scene | Victorian buildings; River clyde | Edinburgh; Manchester; Dublin
+Manchester | English city; Industrial city | Football giants; Music scene | Red brick mills; Rainy days | Liverpool; London; Glasgow
+Liverpool | English city; Port city | Famous band birthplace; Football rivals | Docks; Ferry crossing | Manchester; London; Belfast
+Oxford | English city; University city | Dreaming spires; Famous colleges | Punting boats; Ancient libraries | Cambridge; London; Bath
+Cambridge | English city; University city | Famous college; Science history | Punting on river; Bicycles | Oxford; London; Norwich
+Granada | Spanish city; Moorish city | Flamenco caves; Free tapas | Red fortress palace; Snowy mountains | Seville; Cordoba; Madrid
+Valencia | Spanish city; Coastal city | Paella birthplace; Orange groves | Futuristic arts complex; Fire festival | Barcelona; Seville; Madrid

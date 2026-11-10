@@ -1,0 +1,10 @@
+@id jobs
+@name Jobs
+Mason | Construction job; Stone worker | Builds walls; Lays foundations | Trowel and mortar; Cut stone blocks | Carpenter; Builder; Sculptor
+Auditor | Finance job; Inspector | Checks the books; Feared by companies | Spreadsheets and receipts; Compliance reports | Accountant; Banker; Inspector
+Umpire | Sports job; Match official | Makes close calls; Raises finger | Stands behind stumps; Wide brimmed hat | Referee; Judge; Coach
+Usher | Venue job; Seating guide | Shows you to seats; Theater worker | Flashlight in aisle; Ticket checks | Waiter; Host; Guard
+Hacker | Tech role; Code breaker | Finds security holes; Hoodie stereotype | Green terminal text; Late nights | Programmer; Spy; Engineer
+Gamer | Hobby role; Pro player | Plays tournaments; Streams online | Headset and controller; Fast reflexes | Streamer; Athlete; Programmer
+Optician | Eyewear job; Shop specialist | Fits glasses; Adjusts frames | Lens displays; Tiny screwdrivers | Optometrist; Jeweler; Pharmacist
+Dispatcher | Coordination job; Radio worker | Sends out crews; High stress | Headset and maps; Emergency calls | Operator; Receptionist; Controller

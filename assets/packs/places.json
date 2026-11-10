@@ -1,0 +1,5276 @@
+{
+ "id": "places",
+ "name": "Places",
+ "words": [
+  {
+   "word": "Hospital",
+   "hints": [
+    {
+     "text": "Medical building",
+     "level": 1
+    },
+    {
+     "text": "Care center",
+     "level": 1
+    },
+    {
+     "text": "Doctors and nurses",
+     "level": 2
+    },
+    {
+     "text": "Emergency room",
+     "level": 2
+    },
+    {
+     "text": "Beds and wards",
+     "level": 3
+    },
+    {
+     "text": "Ambulances arrive",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Clinic",
+    "Pharmacy",
+    "Hotel"
+   ]
+  },
+  {
+   "word": "School",
+   "hints": [
+    {
+     "text": "Education building",
+     "level": 1
+    },
+    {
+     "text": "Learning place",
+     "level": 1
+    },
+    {
+     "text": "Kids attend daily",
+     "level": 2
+    },
+    {
+     "text": "Homework given",
+     "level": 2
+    },
+    {
+     "text": "Classrooms and bells",
+     "level": 3
+    },
+    {
+     "text": "Teachers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "College",
+    "Library",
+    "Daycare"
+   ]
+  },
+  {
+   "word": "Library",
+   "hints": [
+    {
+     "text": "Book building",
+     "level": 1
+    },
+    {
+     "text": "Quiet place",
+     "level": 1
+    },
+    {
+     "text": "Borrow novels",
+     "level": 2
+    },
+    {
+     "text": "Study sessions",
+     "level": 2
+    },
+    {
+     "text": "Shelves of books",
+     "level": 3
+    },
+    {
+     "text": "Shushing",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bookstore",
+    "School",
+    "Museum"
+   ]
+  },
+  {
+   "word": "Museum",
+   "hints": [
+    {
+     "text": "Culture building",
+     "level": 1
+    },
+    {
+     "text": "Exhibit hall",
+     "level": 1
+    },
+    {
+     "text": "Field trips",
+     "level": 2
+    },
+    {
+     "text": "Ancient artifacts",
+     "level": 2
+    },
+    {
+     "text": "Display cases",
+     "level": 3
+    },
+    {
+     "text": "Dinosaur bones",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gallery",
+    "Library",
+    "Zoo"
+   ]
+  },
+  {
+   "word": "Airport",
+   "hints": [
+    {
+     "text": "Travel hub",
+     "level": 1
+    },
+    {
+     "text": "Flight terminal",
+     "level": 1
+    },
+    {
+     "text": "Security checks",
+     "level": 2
+    },
+    {
+     "text": "Boarding passes",
+     "level": 2
+    },
+    {
+     "text": "Runways and gates",
+     "level": 3
+    },
+    {
+     "text": "Baggage claim",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Train station",
+    "Harbor",
+    "Bus depot"
+   ]
+  },
+  {
+   "word": "Train station",
+   "hints": [
+    {
+     "text": "Travel hub",
+     "level": 1
+    },
+    {
+     "text": "Rail terminal",
+     "level": 1
+    },
+    {
+     "text": "Platforms and tickets",
+     "level": 2
+    },
+    {
+     "text": "Departure boards",
+     "level": 2
+    },
+    {
+     "text": "Railway tracks",
+     "level": 3
+    },
+    {
+     "text": "Announcements",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Airport",
+    "Bus stop",
+    "Subway"
+   ]
+  },
+  {
+   "word": "Supermarket",
+   "hints": [
+    {
+     "text": "Shopping place",
+     "level": 1
+    },
+    {
+     "text": "Grocery store",
+     "level": 1
+    },
+    {
+     "text": "Weekly shopping",
+     "level": 2
+    },
+    {
+     "text": "Checkout queues",
+     "level": 2
+    },
+    {
+     "text": "Aisles and carts",
+     "level": 3
+    },
+    {
+     "text": "Barcode scanners",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bakery",
+    "Grocer",
+    "Mall"
+   ]
+  },
+  {
+   "word": "Mall",
+   "hints": [
+    {
+     "text": "Shopping center",
+     "level": 1
+    },
+    {
+     "text": "Retail complex",
+     "level": 1
+    },
+    {
+     "text": "Teen hangout",
+     "level": 2
+    },
+    {
+     "text": "Food courts",
+     "level": 2
+    },
+    {
+     "text": "Escalators",
+     "level": 3
+    },
+    {
+     "text": "Many shops",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Market",
+    "Supermarket",
+    "Plaza"
+   ]
+  },
+  {
+   "word": "Restaurant",
+   "hints": [
+    {
+     "text": "Dining place",
+     "level": 1
+    },
+    {
+     "text": "Eatery",
+     "level": 1
+    },
+    {
+     "text": "Date nights",
+     "level": 2
+    },
+    {
+     "text": "Menus and waiters",
+     "level": 2
+    },
+    {
+     "text": "Tables and tips",
+     "level": 3
+    },
+    {
+     "text": "Kitchen behind",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cafe",
+    "Diner",
+    "Canteen"
+   ]
+  },
+  {
+   "word": "Cafe",
+   "hints": [
+    {
+     "text": "Coffee shop",
+     "level": 1
+    },
+    {
+     "text": "Casual eatery",
+     "level": 1
+    },
+    {
+     "text": "Laptop workers",
+     "level": 2
+    },
+    {
+     "text": "Pastries",
+     "level": 2
+    },
+    {
+     "text": "Espresso machine",
+     "level": 3
+    },
+    {
+     "text": "Small tables",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Restaurant",
+    "Bakery",
+    "Diner"
+   ]
+  },
+  {
+   "word": "Bakery",
+   "hints": [
+    {
+     "text": "Bread shop",
+     "level": 1
+    },
+    {
+     "text": "Food store",
+     "level": 1
+    },
+    {
+     "text": "Fresh morning smell",
+     "level": 2
+    },
+    {
+     "text": "Birthday cakes",
+     "level": 2
+    },
+    {
+     "text": "Ovens and pastries",
+     "level": 3
+    },
+    {
+     "text": "Display cases",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cafe",
+    "Butcher",
+    "Patisserie"
+   ]
+  },
+  {
+   "word": "Bank",
+   "hints": [
+    {
+     "text": "Money building",
+     "level": 1
+    },
+    {
+     "text": "Financial place",
+     "level": 1
+    },
+    {
+     "text": "Deposits and loans",
+     "level": 2
+    },
+    {
+     "text": "Long queues",
+     "level": 2
+    },
+    {
+     "text": "Vaults and tellers",
+     "level": 3
+    },
+    {
+     "text": "Safety boxes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Post office",
+    "Office",
+    "Treasury"
+   ]
+  },
+  {
+   "word": "Post office",
+   "hints": [
+    {
+     "text": "Mail building",
+     "level": 1
+    },
+    {
+     "text": "Parcel service",
+     "level": 1
+    },
+    {
+     "text": "Sending parcels",
+     "level": 2
+    },
+    {
+     "text": "Buying stamps",
+     "level": 2
+    },
+    {
+     "text": "Counters and scales",
+     "level": 3
+    },
+    {
+     "text": "Mailbags",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bank",
+    "Courier office",
+    "Library"
+   ]
+  },
+  {
+   "word": "Police station",
+   "hints": [
+    {
+     "text": "Law building",
+     "level": 1
+    },
+    {
+     "text": "Precinct",
+     "level": 1
+    },
+    {
+     "text": "Reports filed",
+     "level": 2
+    },
+    {
+     "text": "Holding cells",
+     "level": 2
+    },
+    {
+     "text": "Badges and desks",
+     "level": 3
+    },
+    {
+     "text": "Patrol cars outside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fire station",
+    "Courthouse",
+    "Jail"
+   ]
+  },
+  {
+   "word": "Fire station",
+   "hints": [
+    {
+     "text": "Emergency building",
+     "level": 1
+    },
+    {
+     "text": "Rescue base",
+     "level": 1
+    },
+    {
+     "text": "Sliding poles",
+     "level": 2
+    },
+    {
+     "text": "Dalmatians",
+     "level": 2
+    },
+    {
+     "text": "Red engines",
+     "level": 3
+    },
+    {
+     "text": "Hoses hanging",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Police station",
+    "Hospital",
+    "Garage"
+   ]
+  },
+  {
+   "word": "Courthouse",
+   "hints": [
+    {
+     "text": "Legal building",
+     "level": 1
+    },
+    {
+     "text": "Hall of justice",
+     "level": 1
+    },
+    {
+     "text": "Trials and verdicts",
+     "level": 2
+    },
+    {
+     "text": "Lawyers argue",
+     "level": 2
+    },
+    {
+     "text": "Judge's bench",
+     "level": 3
+    },
+    {
+     "text": "Jury box",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Police station",
+    "Prison",
+    "Town hall"
+   ]
+  },
+  {
+   "word": "Prison",
+   "hints": [
+    {
+     "text": "Secure building",
+     "level": 1
+    },
+    {
+     "text": "Jail",
+     "level": 1
+    },
+    {
+     "text": "Inmates serve time",
+     "level": 2
+    },
+    {
+     "text": "Guards patrol",
+     "level": 2
+    },
+    {
+     "text": "Bars and cells",
+     "level": 3
+    },
+    {
+     "text": "High walls",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Courthouse",
+    "Police station",
+    "Fortress"
+   ]
+  },
+  {
+   "word": "Church",
+   "hints": [
+    {
+     "text": "Religious building",
+     "level": 1
+    },
+    {
+     "text": "Place of worship",
+     "level": 1
+    },
+    {
+     "text": "Sunday services",
+     "level": 2
+    },
+    {
+     "text": "Weddings",
+     "level": 2
+    },
+    {
+     "text": "Steeple and bells",
+     "level": 3
+    },
+    {
+     "text": "Stained glass",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Temple",
+    "Mosque",
+    "Chapel"
+   ]
+  },
+  {
+   "word": "Temple",
+   "hints": [
+    {
+     "text": "Religious building",
+     "level": 1
+    },
+    {
+     "text": "Sacred place",
+     "level": 1
+    },
+    {
+     "text": "Prayers and offerings",
+     "level": 2
+    },
+    {
+     "text": "Festivals",
+     "level": 2
+    },
+    {
+     "text": "Bells and idols",
+     "level": 3
+    },
+    {
+     "text": "Incense smoke",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Church",
+    "Mosque",
+    "Shrine"
+   ]
+  },
+  {
+   "word": "Mosque",
+   "hints": [
+    {
+     "text": "Religious building",
+     "level": 1
+    },
+    {
+     "text": "Place of prayer",
+     "level": 1
+    },
+    {
+     "text": "Friday prayers",
+     "level": 2
+    },
+    {
+     "text": "Call to prayer",
+     "level": 2
+    },
+    {
+     "text": "Domes and minarets",
+     "level": 3
+    },
+    {
+     "text": "Prayer rugs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Temple",
+    "Church",
+    "Synagogue"
+   ]
+  },
+  {
+   "word": "Park",
+   "hints": [
+    {
+     "text": "Green space",
+     "level": 1
+    },
+    {
+     "text": "Public area",
+     "level": 1
+    },
+    {
+     "text": "Picnics and jogging",
+     "level": 2
+    },
+    {
+     "text": "Dog walks",
+     "level": 2
+    },
+    {
+     "text": "Benches and trees",
+     "level": 3
+    },
+    {
+     "text": "Playground",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Garden",
+    "Forest",
+    "Zoo"
+   ]
+  },
+  {
+   "word": "Zoo",
+   "hints": [
+    {
+     "text": "Animal park",
+     "level": 1
+    },
+    {
+     "text": "Wildlife place",
+     "level": 1
+    },
+    {
+     "text": "Family outings",
+     "level": 2
+    },
+    {
+     "text": "Feeding times",
+     "level": 2
+    },
+    {
+     "text": "Cages and enclosures",
+     "level": 3
+    },
+    {
+     "text": "Lions and penguins",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Aquarium",
+    "Safari",
+    "Farm"
+   ]
+  },
+  {
+   "word": "Aquarium",
+   "hints": [
+    {
+     "text": "Marine exhibit",
+     "level": 1
+    },
+    {
+     "text": "Fish place",
+     "level": 1
+    },
+    {
+     "text": "School trips",
+     "level": 2
+    },
+    {
+     "text": "Shark tunnels",
+     "level": 2
+    },
+    {
+     "text": "Glass tanks",
+     "level": 3
+    },
+    {
+     "text": "Jellyfish displays",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Zoo",
+    "Museum",
+    "Pool"
+   ]
+  },
+  {
+   "word": "Beach",
+   "hints": [
+    {
+     "text": "Seaside place",
+     "level": 1
+    },
+    {
+     "text": "Sandy shore",
+     "level": 1
+    },
+    {
+     "text": "Sunbathing",
+     "level": 2
+    },
+    {
+     "text": "Sandcastles",
+     "level": 2
+    },
+    {
+     "text": "Waves and umbrellas",
+     "level": 3
+    },
+    {
+     "text": "Lifeguard towers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pool",
+    "Lake",
+    "Desert"
+   ]
+  },
+  {
+   "word": "Swimming pool",
+   "hints": [
+    {
+     "text": "Water place",
+     "level": 1
+    },
+    {
+     "text": "Leisure facility",
+     "level": 1
+    },
+    {
+     "text": "Summer splashing",
+     "level": 2
+    },
+    {
+     "text": "Lap lanes",
+     "level": 2
+    },
+    {
+     "text": "Diving boards",
+     "level": 3
+    },
+    {
+     "text": "Chlorine smell",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Beach",
+    "Lake",
+    "Spa"
+   ]
+  },
+  {
+   "word": "Gym",
+   "hints": [
+    {
+     "text": "Fitness place",
+     "level": 1
+    },
+    {
+     "text": "Workout center",
+     "level": 1
+    },
+    {
+     "text": "New year resolutions",
+     "level": 2
+    },
+    {
+     "text": "Personal trainers",
+     "level": 2
+    },
+    {
+     "text": "Treadmills and weights",
+     "level": 3
+    },
+    {
+     "text": "Mirrors",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Stadium",
+    "Spa",
+    "Yoga studio"
+   ]
+  },
+  {
+   "word": "Stadium",
+   "hints": [
+    {
+     "text": "Sports venue",
+     "level": 1
+    },
+    {
+     "text": "Arena",
+     "level": 1
+    },
+    {
+     "text": "Big matches",
+     "level": 2
+    },
+    {
+     "text": "Concerts",
+     "level": 2
+    },
+    {
+     "text": "Floodlights",
+     "level": 3
+    },
+    {
+     "text": "Thousands of seats",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gym",
+    "Theater",
+    "Arena"
+   ]
+  },
+  {
+   "word": "Theater",
+   "hints": [
+    {
+     "text": "Performance venue",
+     "level": 1
+    },
+    {
+     "text": "Stage hall",
+     "level": 1
+    },
+    {
+     "text": "Plays and musicals",
+     "level": 2
+    },
+    {
+     "text": "Curtain calls",
+     "level": 2
+    },
+    {
+     "text": "Velvet seats",
+     "level": 3
+    },
+    {
+     "text": "Orchestra pit",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cinema",
+    "Opera house",
+    "Stadium"
+   ]
+  },
+  {
+   "word": "Cinema",
+   "hints": [
+    {
+     "text": "Movie theater",
+     "level": 1
+    },
+    {
+     "text": "Film venue",
+     "level": 1
+    },
+    {
+     "text": "Date nights",
+     "level": 2
+    },
+    {
+     "text": "Popcorn",
+     "level": 2
+    },
+    {
+     "text": "Big screen",
+     "level": 3
+    },
+    {
+     "text": "Dark rows",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Theater",
+    "Arcade",
+    "Drive in"
+   ]
+  },
+  {
+   "word": "Hotel",
+   "hints": [
+    {
+     "text": "Lodging place",
+     "level": 1
+    },
+    {
+     "text": "Guest building",
+     "level": 1
+    },
+    {
+     "text": "Vacations and trips",
+     "level": 2
+    },
+    {
+     "text": "Room service",
+     "level": 2
+    },
+    {
+     "text": "Reception desk",
+     "level": 3
+    },
+    {
+     "text": "Room keys",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hostel",
+    "Motel",
+    "Resort"
+   ]
+  },
+  {
+   "word": "Hostel",
+   "hints": [
+    {
+     "text": "Budget lodging",
+     "level": 1
+    },
+    {
+     "text": "Backpacker stay",
+     "level": 1
+    },
+    {
+     "text": "Shared rooms",
+     "level": 2
+    },
+    {
+     "text": "Young travelers",
+     "level": 2
+    },
+    {
+     "text": "Bunk beds",
+     "level": 3
+    },
+    {
+     "text": "Common kitchen",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hotel",
+    "Motel",
+    "Dormitory"
+   ]
+  },
+  {
+   "word": "Office",
+   "hints": [
+    {
+     "text": "Work place",
+     "level": 1
+    },
+    {
+     "text": "Business building",
+     "level": 1
+    },
+    {
+     "text": "Nine to five",
+     "level": 2
+    },
+    {
+     "text": "Meetings",
+     "level": 2
+    },
+    {
+     "text": "Desks and computers",
+     "level": 3
+    },
+    {
+     "text": "Water cooler",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Factory",
+    "Bank",
+    "School"
+   ]
+  },
+  {
+   "word": "Factory",
+   "hints": [
+    {
+     "text": "Industrial building",
+     "level": 1
+    },
+    {
+     "text": "Production place",
+     "level": 1
+    },
+    {
+     "text": "Assembly lines",
+     "level": 2
+    },
+    {
+     "text": "Shift workers",
+     "level": 2
+    },
+    {
+     "text": "Machines and smokestacks",
+     "level": 3
+    },
+    {
+     "text": "Conveyor belts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Warehouse",
+    "Workshop",
+    "Office"
+   ]
+  },
+  {
+   "word": "Warehouse",
+   "hints": [
+    {
+     "text": "Storage building",
+     "level": 1
+    },
+    {
+     "text": "Depot",
+     "level": 1
+    },
+    {
+     "text": "Forklifts",
+     "level": 2
+    },
+    {
+     "text": "Stacked pallets",
+     "level": 2
+    },
+    {
+     "text": "Huge shelves",
+     "level": 3
+    },
+    {
+     "text": "Loading docks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Factory",
+    "Garage",
+    "Barn"
+   ]
+  },
+  {
+   "word": "Farm",
+   "hints": [
+    {
+     "text": "Rural place",
+     "level": 1
+    },
+    {
+     "text": "Agricultural land",
+     "level": 1
+    },
+    {
+     "text": "Crops and animals",
+     "level": 2
+    },
+    {
+     "text": "Early mornings",
+     "level": 2
+    },
+    {
+     "text": "Barns and tractors",
+     "level": 3
+    },
+    {
+     "text": "Fields",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ranch",
+    "Orchard",
+    "Garden"
+   ]
+  },
+  {
+   "word": "Barn",
+   "hints": [
+    {
+     "text": "Farm building",
+     "level": 1
+    },
+    {
+     "text": "Storage shed",
+     "level": 1
+    },
+    {
+     "text": "Hay bales",
+     "level": 2
+    },
+    {
+     "text": "Animals sleep",
+     "level": 2
+    },
+    {
+     "text": "Red walls",
+     "level": 3
+    },
+    {
+     "text": "Big doors",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Stable",
+    "Shed",
+    "Silo"
+   ]
+  },
+  {
+   "word": "Castle",
+   "hints": [
+    {
+     "text": "Fortress",
+     "level": 1
+    },
+    {
+     "text": "Royal residence",
+     "level": 1
+    },
+    {
+     "text": "Kings and knights",
+     "level": 2
+    },
+    {
+     "text": "Medieval history",
+     "level": 2
+    },
+    {
+     "text": "Towers and moat",
+     "level": 3
+    },
+    {
+     "text": "Drawbridge",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Palace",
+    "Fort",
+    "Manor"
+   ]
+  },
+  {
+   "word": "Palace",
+   "hints": [
+    {
+     "text": "Royal residence",
+     "level": 1
+    },
+    {
+     "text": "Grand building",
+     "level": 1
+    },
+    {
+     "text": "Kings and queens live",
+     "level": 2
+    },
+    {
+     "text": "Tourist tours",
+     "level": 2
+    },
+    {
+     "text": "Gilded halls",
+     "level": 3
+    },
+    {
+     "text": "Grand gardens",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Castle",
+    "Mansion",
+    "Embassy"
+   ]
+  },
+  {
+   "word": "Lighthouse",
+   "hints": [
+    {
+     "text": "Coastal tower",
+     "level": 1
+    },
+    {
+     "text": "Navigation aid",
+     "level": 1
+    },
+    {
+     "text": "Guides ships",
+     "level": 2
+    },
+    {
+     "text": "Stormy nights",
+     "level": 2
+    },
+    {
+     "text": "Rotating lamp",
+     "level": 3
+    },
+    {
+     "text": "Striped tower",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Watchtower",
+    "Beacon",
+    "Windmill"
+   ]
+  },
+  {
+   "word": "Windmill",
+   "hints": [
+    {
+     "text": "Farm structure",
+     "level": 1
+    },
+    {
+     "text": "Breeze powered grinder",
+     "level": 1
+    },
+    {
+     "text": "Grinds grain",
+     "level": 2
+    },
+    {
+     "text": "Dutch countryside",
+     "level": 2
+    },
+    {
+     "text": "Turning sails",
+     "level": 3
+    },
+    {
+     "text": "Wooden tower",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lighthouse",
+    "Watermill",
+    "Turbine"
+   ]
+  },
+  {
+   "word": "Bridge",
+   "hints": [
+    {
+     "text": "Structure",
+     "level": 1
+    },
+    {
+     "text": "River crossing",
+     "level": 1
+    },
+    {
+     "text": "Connects two sides",
+     "level": 2
+    },
+    {
+     "text": "Traffic flows",
+     "level": 2
+    },
+    {
+     "text": "Arches or cables",
+     "level": 3
+    },
+    {
+     "text": "Spans water",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tunnel",
+    "Dam",
+    "Pier"
+   ]
+  },
+  {
+   "word": "Tunnel",
+   "hints": [
+    {
+     "text": "Underground passage",
+     "level": 1
+    },
+    {
+     "text": "Structure",
+     "level": 1
+    },
+    {
+     "text": "Trains go through",
+     "level": 2
+    },
+    {
+     "text": "Under mountains",
+     "level": 2
+    },
+    {
+     "text": "Dark and echoing",
+     "level": 3
+    },
+    {
+     "text": "Lights inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bridge",
+    "Cave",
+    "Subway"
+   ]
+  },
+  {
+   "word": "Harbor",
+   "hints": [
+    {
+     "text": "Port area",
+     "level": 1
+    },
+    {
+     "text": "Ship dock",
+     "level": 1
+    },
+    {
+     "text": "Boats moored",
+     "level": 2
+    },
+    {
+     "text": "Fishing village",
+     "level": 2
+    },
+    {
+     "text": "Piers and cranes",
+     "level": 3
+    },
+    {
+     "text": "Seagulls",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Marina",
+    "Beach",
+    "Canal"
+   ]
+  },
+  {
+   "word": "Marina",
+   "hints": [
+    {
+     "text": "Boat dock",
+     "level": 1
+    },
+    {
+     "text": "Yacht harbor",
+     "level": 1
+    },
+    {
+     "text": "Weekend sailors",
+     "level": 2
+    },
+    {
+     "text": "Luxury boats",
+     "level": 2
+    },
+    {
+     "text": "Rows of masts",
+     "level": 3
+    },
+    {
+     "text": "Floating docks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Harbor",
+    "Pier",
+    "Lagoon"
+   ]
+  },
+  {
+   "word": "Pier",
+   "hints": [
+    {
+     "text": "Wooden walkway",
+     "level": 1
+    },
+    {
+     "text": "Seaside structure",
+     "level": 1
+    },
+    {
+     "text": "Fishing from it",
+     "level": 2
+    },
+    {
+     "text": "Amusement rides",
+     "level": 2
+    },
+    {
+     "text": "Planks over water",
+     "level": 3
+    },
+    {
+     "text": "Posts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Harbor",
+    "Bridge",
+    "Boardwalk"
+   ]
+  },
+  {
+   "word": "Market",
+   "hints": [
+    {
+     "text": "Shopping place",
+     "level": 1
+    },
+    {
+     "text": "Bazaar",
+     "level": 1
+    },
+    {
+     "text": "Bargaining",
+     "level": 2
+    },
+    {
+     "text": "Fresh produce",
+     "level": 2
+    },
+    {
+     "text": "Stalls and vendors",
+     "level": 3
+    },
+    {
+     "text": "Crowds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mall",
+    "Grocer",
+    "Fair"
+   ]
+  },
+  {
+   "word": "Bazaar",
+   "hints": [
+    {
+     "text": "Market place",
+     "level": 1
+    },
+    {
+     "text": "Trading hub",
+     "level": 1
+    },
+    {
+     "text": "Haggling prices",
+     "level": 2
+    },
+    {
+     "text": "Spices and rugs",
+     "level": 2
+    },
+    {
+     "text": "Narrow lanes",
+     "level": 3
+    },
+    {
+     "text": "Colorful stalls",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Market",
+    "Mall",
+    "Fair"
+   ]
+  },
+  {
+   "word": "Pharmacy",
+   "hints": [
+    {
+     "text": "Medicine shop",
+     "level": 1
+    },
+    {
+     "text": "Health store",
+     "level": 1
+    },
+    {
+     "text": "Prescriptions filled",
+     "level": 2
+    },
+    {
+     "text": "Cough syrup",
+     "level": 2
+    },
+    {
+     "text": "Pill bottles",
+     "level": 3
+    },
+    {
+     "text": "White counter",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hospital",
+    "Clinic",
+    "Supermarket"
+   ]
+  },
+  {
+   "word": "Clinic",
+   "hints": [
+    {
+     "text": "Medical office",
+     "level": 1
+    },
+    {
+     "text": "Small hospital",
+     "level": 1
+    },
+    {
+     "text": "Checkups",
+     "level": 2
+    },
+    {
+     "text": "Vaccinations",
+     "level": 2
+    },
+    {
+     "text": "Waiting room",
+     "level": 3
+    },
+    {
+     "text": "Examination bed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hospital",
+    "Pharmacy",
+    "Dentist"
+   ]
+  },
+  {
+   "word": "Dentist office",
+   "hints": [
+    {
+     "text": "Dental clinic",
+     "level": 1
+    },
+    {
+     "text": "Medical place",
+     "level": 1
+    },
+    {
+     "text": "Checkups twice yearly",
+     "level": 2
+    },
+    {
+     "text": "Nervous patients",
+     "level": 2
+    },
+    {
+     "text": "Reclining chair",
+     "level": 3
+    },
+    {
+     "text": "Drill sound",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Clinic",
+    "Pharmacy",
+    "Barber"
+   ]
+  },
+  {
+   "word": "Barbershop",
+   "hints": [
+    {
+     "text": "Grooming place",
+     "level": 1
+    },
+    {
+     "text": "Hair salon",
+     "level": 1
+    },
+    {
+     "text": "Weekly trims",
+     "level": 2
+    },
+    {
+     "text": "Local gossip",
+     "level": 2
+    },
+    {
+     "text": "Spinning pole",
+     "level": 3
+    },
+    {
+     "text": "Swivel chairs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Salon",
+    "Spa",
+    "Tailor"
+   ]
+  },
+  {
+   "word": "Salon",
+   "hints": [
+    {
+     "text": "Beauty place",
+     "level": 1
+    },
+    {
+     "text": "Hair studio",
+     "level": 1
+    },
+    {
+     "text": "Haircuts and color",
+     "level": 2
+    },
+    {
+     "text": "Wedding prep",
+     "level": 2
+    },
+    {
+     "text": "Hair dryers",
+     "level": 3
+    },
+    {
+     "text": "Big mirrors",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Barbershop",
+    "Spa",
+    "Boutique"
+   ]
+  },
+  {
+   "word": "Spa",
+   "hints": [
+    {
+     "text": "Relaxation place",
+     "level": 1
+    },
+    {
+     "text": "Wellness center",
+     "level": 1
+    },
+    {
+     "text": "Massages",
+     "level": 2
+    },
+    {
+     "text": "Facials",
+     "level": 2
+    },
+    {
+     "text": "Robes and cucumber slices",
+     "level": 3
+    },
+    {
+     "text": "Steam rooms",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Salon",
+    "Gym",
+    "Sauna"
+   ]
+  },
+  {
+   "word": "Gas station",
+   "hints": [
+    {
+     "text": "Fuel stop",
+     "level": 1
+    },
+    {
+     "text": "Roadside place",
+     "level": 1
+    },
+    {
+     "text": "Road trips",
+     "level": 2
+    },
+    {
+     "text": "Snacks and coffee",
+     "level": 2
+    },
+    {
+     "text": "Pumps and nozzles",
+     "level": 3
+    },
+    {
+     "text": "Price signs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Garage",
+    "Car wash",
+    "Rest stop"
+   ]
+  },
+  {
+   "word": "Car wash",
+   "hints": [
+    {
+     "text": "Cleaning place",
+     "level": 1
+    },
+    {
+     "text": "Auto service",
+     "level": 1
+    },
+    {
+     "text": "Weekend chore",
+     "level": 2
+    },
+    {
+     "text": "Soap suds",
+     "level": 2
+    },
+    {
+     "text": "Spinning brushes",
+     "level": 3
+    },
+    {
+     "text": "Water jets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gas station",
+    "Garage",
+    "Laundromat"
+   ]
+  },
+  {
+   "word": "Garage",
+   "hints": [
+    {
+     "text": "Car shelter",
+     "level": 1
+    },
+    {
+     "text": "Workshop",
+     "level": 1
+    },
+    {
+     "text": "Parked cars",
+     "level": 2
+    },
+    {
+     "text": "Tool storage",
+     "level": 2
+    },
+    {
+     "text": "Roll up door",
+     "level": 3
+    },
+    {
+     "text": "Oil stains",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shed",
+    "Driveway",
+    "Barn"
+   ]
+  },
+  {
+   "word": "Laundromat",
+   "hints": [
+    {
+     "text": "Laundry place",
+     "level": 1
+    },
+    {
+     "text": "Coin washers",
+     "level": 1
+    },
+    {
+     "text": "Weekly washing",
+     "level": 2
+    },
+    {
+     "text": "Waiting around",
+     "level": 2
+    },
+    {
+     "text": "Rows of machines",
+     "level": 3
+    },
+    {
+     "text": "Folding tables",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dry cleaner",
+    "Car wash",
+    "Launderette"
+   ]
+  },
+  {
+   "word": "Bookstore",
+   "hints": [
+    {
+     "text": "Novel shop",
+     "level": 1
+    },
+    {
+     "text": "Retail outlet",
+     "level": 1
+    },
+    {
+     "text": "Browsing novels",
+     "level": 2
+    },
+    {
+     "text": "Author signings",
+     "level": 2
+    },
+    {
+     "text": "Shelves and armchairs",
+     "level": 3
+    },
+    {
+     "text": "Bestseller table",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Library",
+    "Cafe",
+    "Stationery shop"
+   ]
+  },
+  {
+   "word": "Toy store",
+   "hints": [
+    {
+     "text": "Kids shop",
+     "level": 1
+    },
+    {
+     "text": "Play retail",
+     "level": 1
+    },
+    {
+     "text": "Birthday gifts",
+     "level": 2
+    },
+    {
+     "text": "Excited children",
+     "level": 2
+    },
+    {
+     "text": "Shelves of games",
+     "level": 3
+    },
+    {
+     "text": "Teddy bears",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bookstore",
+    "Candy shop",
+    "Arcade"
+   ]
+  },
+  {
+   "word": "Candy shop",
+   "hints": [
+    {
+     "text": "Sweet store",
+     "level": 1
+    },
+    {
+     "text": "Treat store",
+     "level": 1
+    },
+    {
+     "text": "Kids drool",
+     "level": 2
+    },
+    {
+     "text": "Jars of sweets",
+     "level": 2
+    },
+    {
+     "text": "Lollipops",
+     "level": 3
+    },
+    {
+     "text": "Pick and mix",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bakery",
+    "Toy store",
+    "Gelateria"
+   ]
+  },
+  {
+   "word": "Gelateria",
+   "hints": [
+    {
+     "text": "Dessert shop",
+     "level": 1
+    },
+    {
+     "text": "Treat place",
+     "level": 1
+    },
+    {
+     "text": "Summer outings",
+     "level": 2
+    },
+    {
+     "text": "Sundaes",
+     "level": 2
+    },
+    {
+     "text": "Scoops and cones",
+     "level": 3
+    },
+    {
+     "text": "Freezer display",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Candy shop",
+    "Cafe",
+    "Bakery"
+   ]
+  },
+  {
+   "word": "Butcher shop",
+   "hints": [
+    {
+     "text": "Meat store",
+     "level": 1
+    },
+    {
+     "text": "Food store",
+     "level": 1
+    },
+    {
+     "text": "Fresh cuts",
+     "level": 2
+    },
+    {
+     "text": "Sausages",
+     "level": 2
+    },
+    {
+     "text": "Hanging meats",
+     "level": 3
+    },
+    {
+     "text": "Cleavers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bakery",
+    "Fishmonger",
+    "Deli"
+   ]
+  },
+  {
+   "word": "Flower shop",
+   "hints": [
+    {
+     "text": "Florist",
+     "level": 1
+    },
+    {
+     "text": "Plant store",
+     "level": 1
+    },
+    {
+     "text": "Valentines rush",
+     "level": 2
+    },
+    {
+     "text": "Wedding bouquets",
+     "level": 2
+    },
+    {
+     "text": "Buckets of blooms",
+     "level": 3
+    },
+    {
+     "text": "Ribbons",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Garden center",
+    "Bakery",
+    "Gift shop"
+   ]
+  },
+  {
+   "word": "Pet shop",
+   "hints": [
+    {
+     "text": "Animal store",
+     "level": 1
+    },
+    {
+     "text": "Animal supplies",
+     "level": 1
+    },
+    {
+     "text": "Puppies in windows",
+     "level": 2
+    },
+    {
+     "text": "Fish tanks",
+     "level": 2
+    },
+    {
+     "text": "Bags of food",
+     "level": 3
+    },
+    {
+     "text": "Hamster cages",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Vet clinic",
+    "Zoo",
+    "Farm"
+   ]
+  },
+  {
+   "word": "Vet clinic",
+   "hints": [
+    {
+     "text": "Animal hospital",
+     "level": 1
+    },
+    {
+     "text": "Pet doctor place",
+     "level": 1
+    },
+    {
+     "text": "Vaccinations",
+     "level": 2
+    },
+    {
+     "text": "Nervous dogs",
+     "level": 2
+    },
+    {
+     "text": "Exam tables",
+     "level": 3
+    },
+    {
+     "text": "Pet carriers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pet shop",
+    "Hospital",
+    "Zoo"
+   ]
+  },
+  {
+   "word": "Playground",
+   "hints": [
+    {
+     "text": "Recess area",
+     "level": 1
+    },
+    {
+     "text": "Kids park",
+     "level": 1
+    },
+    {
+     "text": "Recess fun",
+     "level": 2
+    },
+    {
+     "text": "Swing pushes",
+     "level": 2
+    },
+    {
+     "text": "Slides and seesaws",
+     "level": 3
+    },
+    {
+     "text": "Sandbox",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Park",
+    "Schoolyard",
+    "Garden"
+   ]
+  },
+  {
+   "word": "Amusement park",
+   "hints": [
+    {
+     "text": "Theme attraction",
+     "level": 1
+    },
+    {
+     "text": "Fun fair",
+     "level": 1
+    },
+    {
+     "text": "Roller coasters",
+     "level": 2
+    },
+    {
+     "text": "Cotton candy",
+     "level": 2
+    },
+    {
+     "text": "Ferris wheel",
+     "level": 3
+    },
+    {
+     "text": "Long queues",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Zoo",
+    "Water park",
+    "Circus"
+   ]
+  },
+  {
+   "word": "Water park",
+   "hints": [
+    {
+     "text": "Splash zone",
+     "level": 1
+    },
+    {
+     "text": "Theme attraction",
+     "level": 1
+    },
+    {
+     "text": "Summer fun",
+     "level": 2
+    },
+    {
+     "text": "Wave pools",
+     "level": 2
+    },
+    {
+     "text": "Twisty slides",
+     "level": 3
+    },
+    {
+     "text": "Lazy river",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Amusement park",
+    "Beach",
+    "Swimming pool"
+   ]
+  },
+  {
+   "word": "Circus",
+   "hints": [
+    {
+     "text": "Big top",
+     "level": 1
+    },
+    {
+     "text": "Traveling show",
+     "level": 1
+    },
+    {
+     "text": "Clowns and acrobats",
+     "level": 2
+    },
+    {
+     "text": "Ringmaster",
+     "level": 2
+    },
+    {
+     "text": "Striped tent",
+     "level": 3
+    },
+    {
+     "text": "Trapeze",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Carnival",
+    "Zoo",
+    "Theater"
+   ]
+  },
+  {
+   "word": "Campsite",
+   "hints": [
+    {
+     "text": "Outdoor stay",
+     "level": 1
+    },
+    {
+     "text": "Camping spot",
+     "level": 1
+    },
+    {
+     "text": "Tents and campfires",
+     "level": 2
+    },
+    {
+     "text": "Star gazing",
+     "level": 2
+    },
+    {
+     "text": "Fire pits",
+     "level": 3
+    },
+    {
+     "text": "Picnic tables",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Caravan park",
+    "Hostel",
+    "Cabin"
+   ]
+  },
+  {
+   "word": "Cabin",
+   "hints": [
+    {
+     "text": "Wooden house",
+     "level": 1
+    },
+    {
+     "text": "Forest retreat",
+     "level": 1
+    },
+    {
+     "text": "Weekend getaways",
+     "level": 2
+    },
+    {
+     "text": "Fireplace cozy",
+     "level": 2
+    },
+    {
+     "text": "Log walls",
+     "level": 3
+    },
+    {
+     "text": "Lakeside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cottage",
+    "Hut",
+    "Chalet"
+   ]
+  },
+  {
+   "word": "Cottage",
+   "hints": [
+    {
+     "text": "Small house",
+     "level": 1
+    },
+    {
+     "text": "Country home",
+     "level": 1
+    },
+    {
+     "text": "Rose gardens",
+     "level": 2
+    },
+    {
+     "text": "Thatched roofs",
+     "level": 2
+    },
+    {
+     "text": "Quaint windows",
+     "level": 3
+    },
+    {
+     "text": "Fireplace",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cabin",
+    "Bungalow",
+    "Villa"
+   ]
+  },
+  {
+   "word": "Mansion",
+   "hints": [
+    {
+     "text": "Large house",
+     "level": 1
+    },
+    {
+     "text": "Luxury home",
+     "level": 1
+    },
+    {
+     "text": "Rich families",
+     "level": 2
+    },
+    {
+     "text": "Butlers",
+     "level": 2
+    },
+    {
+     "text": "Grand staircase",
+     "level": 3
+    },
+    {
+     "text": "Many rooms",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Palace",
+    "Villa",
+    "Cottage"
+   ]
+  },
+  {
+   "word": "Apartment",
+   "hints": [
+    {
+     "text": "Home unit",
+     "level": 1
+    },
+    {
+     "text": "Flat",
+     "level": 1
+    },
+    {
+     "text": "City living",
+     "level": 2
+    },
+    {
+     "text": "Neighbors upstairs",
+     "level": 2
+    },
+    {
+     "text": "Building floors",
+     "level": 3
+    },
+    {
+     "text": "Balcony",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "House",
+    "Condo",
+    "Studio"
+   ]
+  },
+  {
+   "word": "Skyscraper",
+   "hints": [
+    {
+     "text": "Tall building",
+     "level": 1
+    },
+    {
+     "text": "High rise",
+     "level": 1
+    },
+    {
+     "text": "City skylines",
+     "level": 2
+    },
+    {
+     "text": "Office towers",
+     "level": 2
+    },
+    {
+     "text": "Elevators",
+     "level": 3
+    },
+    {
+     "text": "Hundreds of floors",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tower",
+    "Apartment",
+    "Office"
+   ]
+  },
+  {
+   "word": "Village",
+   "hints": [
+    {
+     "text": "Small settlement",
+     "level": 1
+    },
+    {
+     "text": "Rural community",
+     "level": 1
+    },
+    {
+     "text": "Everyone knows each other",
+     "level": 2
+    },
+    {
+     "text": "Quiet life",
+     "level": 2
+    },
+    {
+     "text": "Cottages and church",
+     "level": 3
+    },
+    {
+     "text": "Common green",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Town",
+    "City",
+    "Hamlet"
+   ]
+  },
+  {
+   "word": "City",
+   "hints": [
+    {
+     "text": "Large settlement",
+     "level": 1
+    },
+    {
+     "text": "Urban area",
+     "level": 1
+    },
+    {
+     "text": "Busy streets",
+     "level": 2
+    },
+    {
+     "text": "Night life",
+     "level": 2
+    },
+    {
+     "text": "Skyscrapers",
+     "level": 3
+    },
+    {
+     "text": "Public transport",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Town",
+    "Village",
+    "Suburb"
+   ]
+  },
+  {
+   "word": "Suburb",
+   "hints": [
+    {
+     "text": "Residential area",
+     "level": 1
+    },
+    {
+     "text": "Outer town",
+     "level": 1
+    },
+    {
+     "text": "Commuter families",
+     "level": 2
+    },
+    {
+     "text": "Lawns",
+     "level": 2
+    },
+    {
+     "text": "Cul de sacs",
+     "level": 3
+    },
+    {
+     "text": "Similar houses",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "City",
+    "Village",
+    "Countryside"
+   ]
+  },
+  {
+   "word": "Countryside",
+   "hints": [
+    {
+     "text": "Rural area",
+     "level": 1
+    },
+    {
+     "text": "Open land",
+     "level": 1
+    },
+    {
+     "text": "Fresh air",
+     "level": 2
+    },
+    {
+     "text": "Farms",
+     "level": 2
+    },
+    {
+     "text": "Rolling hills",
+     "level": 3
+    },
+    {
+     "text": "Hedgerows",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "City",
+    "Suburb",
+    "Village"
+   ]
+  },
+  {
+   "word": "Desert island",
+   "hints": [
+    {
+     "text": "Remote place",
+     "level": 1
+    },
+    {
+     "text": "Castaway spot",
+     "level": 1
+    },
+    {
+     "text": "Stranded stories",
+     "level": 2
+    },
+    {
+     "text": "Message in bottle",
+     "level": 2
+    },
+    {
+     "text": "Palm tree",
+     "level": 3
+    },
+    {
+     "text": "Sandy shore",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Peninsula",
+    "Lagoon",
+    "Oasis"
+   ]
+  },
+  {
+   "word": "Jungle camp",
+   "hints": [
+    {
+     "text": "Wild base",
+     "level": 1
+    },
+    {
+     "text": "Explorer stay",
+     "level": 1
+    },
+    {
+     "text": "Expeditions",
+     "level": 2
+    },
+    {
+     "text": "Insect bites",
+     "level": 2
+    },
+    {
+     "text": "Tents in canopy",
+     "level": 3
+    },
+    {
+     "text": "Mosquito nets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Campsite",
+    "Safari lodge",
+    "Treehouse"
+   ]
+  },
+  {
+   "word": "Treehouse",
+   "hints": [
+    {
+     "text": "Branch home",
+     "level": 1
+    },
+    {
+     "text": "Kids hideout",
+     "level": 1
+    },
+    {
+     "text": "Secret clubs",
+     "level": 2
+    },
+    {
+     "text": "Rope ladder",
+     "level": 2
+    },
+    {
+     "text": "Wooden platform",
+     "level": 3
+    },
+    {
+     "text": "Branches around",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cabin",
+    "Fort",
+    "Playground"
+   ]
+  },
+  {
+   "word": "Igloo",
+   "hints": [
+    {
+     "text": "Snow house",
+     "level": 1
+    },
+    {
+     "text": "Arctic shelter",
+     "level": 1
+    },
+    {
+     "text": "Inuit tradition",
+     "level": 2
+    },
+    {
+     "text": "Ice block home",
+     "level": 2
+    },
+    {
+     "text": "Dome shape",
+     "level": 3
+    },
+    {
+     "text": "Tunnel entrance",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tent",
+    "Hut",
+    "Cabin"
+   ]
+  },
+  {
+   "word": "Tent",
+   "hints": [
+    {
+     "text": "Camping shelter",
+     "level": 1
+    },
+    {
+     "text": "Portable home",
+     "level": 1
+    },
+    {
+     "text": "Outdoor trips",
+     "level": 2
+    },
+    {
+     "text": "Pitched poles",
+     "level": 2
+    },
+    {
+     "text": "Fabric walls",
+     "level": 3
+    },
+    {
+     "text": "Zip door",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cabin",
+    "Igloo",
+    "Hut"
+   ]
+  },
+  {
+   "word": "Embassy",
+   "hints": [
+    {
+     "text": "Diplomatic building",
+     "level": 1
+    },
+    {
+     "text": "Foreign office",
+     "level": 1
+    },
+    {
+     "text": "Visa applications",
+     "level": 2
+    },
+    {
+     "text": "Diplomats",
+     "level": 2
+    },
+    {
+     "text": "Flags outside",
+     "level": 3
+    },
+    {
+     "text": "Guarded gates",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Consulate",
+    "Palace",
+    "Town hall"
+   ]
+  },
+  {
+   "word": "Town hall",
+   "hints": [
+    {
+     "text": "Government building",
+     "level": 1
+    },
+    {
+     "text": "Civic center",
+     "level": 1
+    },
+    {
+     "text": "Council meetings",
+     "level": 2
+    },
+    {
+     "text": "Mayor's office",
+     "level": 2
+    },
+    {
+     "text": "Clock tower",
+     "level": 3
+    },
+    {
+     "text": "Steps and pillars",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Courthouse",
+    "Embassy",
+    "Library"
+   ]
+  },
+  {
+   "word": "Parliament",
+   "hints": [
+    {
+     "text": "Government building",
+     "level": 1
+    },
+    {
+     "text": "Legislature",
+     "level": 1
+    },
+    {
+     "text": "Laws debated",
+     "level": 2
+    },
+    {
+     "text": "Politicians",
+     "level": 2
+    },
+    {
+     "text": "Big chambers",
+     "level": 3
+    },
+    {
+     "text": "Benches",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Town hall",
+    "Palace",
+    "Courthouse"
+   ]
+  },
+  {
+   "word": "University",
+   "hints": [
+    {
+     "text": "Higher education",
+     "level": 1
+    },
+    {
+     "text": "Campus",
+     "level": 1
+    },
+    {
+     "text": "Degrees and lectures",
+     "level": 2
+    },
+    {
+     "text": "Dorms",
+     "level": 2
+    },
+    {
+     "text": "Libraries and quads",
+     "level": 3
+    },
+    {
+     "text": "Graduation",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "School",
+    "College",
+    "Academy"
+   ]
+  },
+  {
+   "word": "Laboratory",
+   "hints": [
+    {
+     "text": "Science room",
+     "level": 1
+    },
+    {
+     "text": "Research place",
+     "level": 1
+    },
+    {
+     "text": "Experiments",
+     "level": 2
+    },
+    {
+     "text": "Lab coats",
+     "level": 2
+    },
+    {
+     "text": "Test tubes",
+     "level": 3
+    },
+    {
+     "text": "Microscopes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hospital",
+    "Workshop",
+    "Classroom"
+   ]
+  },
+  {
+   "word": "Observatory",
+   "hints": [
+    {
+     "text": "Astronomy building",
+     "level": 1
+    },
+    {
+     "text": "Star watching place",
+     "level": 1
+    },
+    {
+     "text": "Night sky research",
+     "level": 2
+    },
+    {
+     "text": "Domes",
+     "level": 2
+    },
+    {
+     "text": "Giant telescope",
+     "level": 3
+    },
+    {
+     "text": "Rotating roof",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Planetarium",
+    "Lighthouse",
+    "Laboratory"
+   ]
+  },
+  {
+   "word": "Planetarium",
+   "hints": [
+    {
+     "text": "Star theater",
+     "level": 1
+    },
+    {
+     "text": "Space show",
+     "level": 1
+    },
+    {
+     "text": "School trips",
+     "level": 2
+    },
+    {
+     "text": "Dome projections",
+     "level": 2
+    },
+    {
+     "text": "Reclining seats",
+     "level": 3
+    },
+    {
+     "text": "Starry ceiling",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Observatory",
+    "Cinema",
+    "Museum"
+   ]
+  },
+  {
+   "word": "Art gallery",
+   "hints": [
+    {
+     "text": "Exhibition space",
+     "level": 1
+    },
+    {
+     "text": "Painting venue",
+     "level": 1
+    },
+    {
+     "text": "Paintings displayed",
+     "level": 2
+    },
+    {
+     "text": "Openings",
+     "level": 2
+    },
+    {
+     "text": "White walls",
+     "level": 3
+    },
+    {
+     "text": "Framed canvases",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Museum",
+    "Studio",
+    "Auction house"
+   ]
+  },
+  {
+   "word": "Studio",
+   "hints": [
+    {
+     "text": "Creative space",
+     "level": 1
+    },
+    {
+     "text": "Work room",
+     "level": 1
+    },
+    {
+     "text": "Artists or recording",
+     "level": 2
+    },
+    {
+     "text": "Photo shoots",
+     "level": 2
+    },
+    {
+     "text": "Lights and equipment",
+     "level": 3
+    },
+    {
+     "text": "Easels",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gallery",
+    "Office",
+    "Workshop"
+   ]
+  },
+  {
+   "word": "Workshop",
+   "hints": [
+    {
+     "text": "Craft room",
+     "level": 1
+    },
+    {
+     "text": "Tool space",
+     "level": 1
+    },
+    {
+     "text": "Building things",
+     "level": 2
+    },
+    {
+     "text": "Tools everywhere",
+     "level": 2
+    },
+    {
+     "text": "Workbench",
+     "level": 3
+    },
+    {
+     "text": "Sawdust",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Garage",
+    "Factory",
+    "Studio"
+   ]
+  },
+  {
+   "word": "Shed",
+   "hints": [
+    {
+     "text": "Garden building",
+     "level": 1
+    },
+    {
+     "text": "Storage hut",
+     "level": 1
+    },
+    {
+     "text": "Tools and bikes",
+     "level": 2
+    },
+    {
+     "text": "Backyard",
+     "level": 2
+    },
+    {
+     "text": "Wooden walls",
+     "level": 3
+    },
+    {
+     "text": "Padlocked door",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Garage",
+    "Barn",
+    "Cabin"
+   ]
+  },
+  {
+   "word": "Greenhouse",
+   "hints": [
+    {
+     "text": "Plant shelter",
+     "level": 1
+    },
+    {
+     "text": "Glass building",
+     "level": 1
+    },
+    {
+     "text": "Growing tomatoes",
+     "level": 2
+    },
+    {
+     "text": "Warm inside",
+     "level": 2
+    },
+    {
+     "text": "Glass panes",
+     "level": 3
+    },
+    {
+     "text": "Humid air",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Garden",
+    "Nursery",
+    "Conservatory"
+   ]
+  },
+  {
+   "word": "Orchard",
+   "hints": [
+    {
+     "text": "Fruit farm",
+     "level": 1
+    },
+    {
+     "text": "Tree grove",
+     "level": 1
+    },
+    {
+     "text": "Apple picking",
+     "level": 2
+    },
+    {
+     "text": "Autumn harvest",
+     "level": 2
+    },
+    {
+     "text": "Rows of trees",
+     "level": 3
+    },
+    {
+     "text": "Ladders",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Farm",
+    "Vineyard",
+    "Garden"
+   ]
+  },
+  {
+   "word": "Vineyard",
+   "hints": [
+    {
+     "text": "Grape farm",
+     "level": 1
+    },
+    {
+     "text": "Harvest country",
+     "level": 1
+    },
+    {
+     "text": "Harvest season",
+     "level": 2
+    },
+    {
+     "text": "Tasting tours",
+     "level": 2
+    },
+    {
+     "text": "Rows of vines",
+     "level": 3
+    },
+    {
+     "text": "Rolling hills",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Orchard",
+    "Farm",
+    "Garden"
+   ]
+  },
+  {
+   "word": "Cemetery",
+   "hints": [
+    {
+     "text": "Burial ground",
+     "level": 1
+    },
+    {
+     "text": "Graveyard",
+     "level": 1
+    },
+    {
+     "text": "Visiting loved ones",
+     "level": 2
+    },
+    {
+     "text": "Quiet paths",
+     "level": 2
+    },
+    {
+     "text": "Headstones",
+     "level": 3
+    },
+    {
+     "text": "Flowers left",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Church",
+    "Park",
+    "Monument"
+   ]
+  },
+  {
+   "word": "Monument",
+   "hints": [
+    {
+     "text": "Memorial structure",
+     "level": 1
+    },
+    {
+     "text": "Landmark",
+     "level": 1
+    },
+    {
+     "text": "Tourist photos",
+     "level": 2
+    },
+    {
+     "text": "Historic events",
+     "level": 2
+    },
+    {
+     "text": "Statues and plaques",
+     "level": 3
+    },
+    {
+     "text": "Stone pillars",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Statue",
+    "Museum",
+    "Cemetery"
+   ]
+  },
+  {
+   "word": "Fountain",
+   "hints": [
+    {
+     "text": "Water feature",
+     "level": 1
+    },
+    {
+     "text": "Plaza centerpiece",
+     "level": 1
+    },
+    {
+     "text": "Throw coins",
+     "level": 2
+    },
+    {
+     "text": "Summer splashing",
+     "level": 2
+    },
+    {
+     "text": "Spraying jets",
+     "level": 3
+    },
+    {
+     "text": "Stone basin",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pool",
+    "Statue",
+    "Waterfall"
+   ]
+  },
+  {
+   "word": "Plaza",
+   "hints": [
+    {
+     "text": "Public square",
+     "level": 1
+    },
+    {
+     "text": "Open space",
+     "level": 1
+    },
+    {
+     "text": "Street performers",
+     "level": 2
+    },
+    {
+     "text": "Pigeons",
+     "level": 2
+    },
+    {
+     "text": "Fountain center",
+     "level": 3
+    },
+    {
+     "text": "Cafes around",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Park",
+    "Market",
+    "Mall"
+   ]
+  },
+  {
+   "word": "Alley",
+   "hints": [
+    {
+     "text": "Narrow lane",
+     "level": 1
+    },
+    {
+     "text": "Back street",
+     "level": 1
+    },
+    {
+     "text": "Shortcuts",
+     "level": 2
+    },
+    {
+     "text": "Graffiti",
+     "level": 2
+    },
+    {
+     "text": "Dumpsters",
+     "level": 3
+    },
+    {
+     "text": "Between buildings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Street",
+    "Avenue",
+    "Tunnel"
+   ]
+  },
+  {
+   "word": "Highway",
+   "hints": [
+    {
+     "text": "Major road",
+     "level": 1
+    },
+    {
+     "text": "Motorway",
+     "level": 1
+    },
+    {
+     "text": "Road trips",
+     "level": 2
+    },
+    {
+     "text": "Fast traffic",
+     "level": 2
+    },
+    {
+     "text": "Many lanes",
+     "level": 3
+    },
+    {
+     "text": "Exits and signs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Street",
+    "Bridge",
+    "Railway"
+   ]
+  },
+  {
+   "word": "Crossroads",
+   "hints": [
+    {
+     "text": "Street junction",
+     "level": 1
+    },
+    {
+     "text": "Intersection",
+     "level": 1
+    },
+    {
+     "text": "Decisions metaphor",
+     "level": 2
+    },
+    {
+     "text": "Traffic lights",
+     "level": 2
+    },
+    {
+     "text": "Four way meeting",
+     "level": 3
+    },
+    {
+     "text": "Stop signs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Roundabout",
+    "Highway",
+    "Bridge"
+   ]
+  },
+  {
+   "word": "Roundabout",
+   "hints": [
+    {
+     "text": "Traffic circle",
+     "level": 1
+    },
+    {
+     "text": "Road junction",
+     "level": 1
+    },
+    {
+     "text": "Confuses drivers",
+     "level": 2
+    },
+    {
+     "text": "Give way",
+     "level": 2
+    },
+    {
+     "text": "Circular road",
+     "level": 3
+    },
+    {
+     "text": "Central island",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Crossroads",
+    "Highway",
+    "Bridge"
+   ]
+  },
+  {
+   "word": "Parking lot",
+   "hints": [
+    {
+     "text": "Vehicle area",
+     "level": 1
+    },
+    {
+     "text": "Open area",
+     "level": 1
+    },
+    {
+     "text": "Searching for spaces",
+     "level": 2
+    },
+    {
+     "text": "Supermarket trips",
+     "level": 2
+    },
+    {
+     "text": "Painted lines",
+     "level": 3
+    },
+    {
+     "text": "Ticket machines",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Garage",
+    "Driveway",
+    "Plaza"
+   ]
+  },
+  {
+   "word": "Bus stop",
+   "hints": [
+    {
+     "text": "Transit point",
+     "level": 1
+    },
+    {
+     "text": "Waiting spot",
+     "level": 1
+    },
+    {
+     "text": "Morning commute",
+     "level": 2
+    },
+    {
+     "text": "Timetables",
+     "level": 2
+    },
+    {
+     "text": "Shelter and bench",
+     "level": 3
+    },
+    {
+     "text": "Sign pole",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Train station",
+    "Taxi stand",
+    "Airport"
+   ]
+  },
+  {
+   "word": "Subway station",
+   "hints": [
+    {
+     "text": "Underground stop",
+     "level": 1
+    },
+    {
+     "text": "Metro stop",
+     "level": 1
+    },
+    {
+     "text": "Rush hour crowds",
+     "level": 2
+    },
+    {
+     "text": "Turnstiles",
+     "level": 2
+    },
+    {
+     "text": "Platforms and tunnels",
+     "level": 3
+    },
+    {
+     "text": "Maps",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Train station",
+    "Bus stop",
+    "Airport"
+   ]
+  },
+  {
+   "word": "Port",
+   "hints": [
+    {
+     "text": "Shipping hub",
+     "level": 1
+    },
+    {
+     "text": "Cargo harbor",
+     "level": 1
+    },
+    {
+     "text": "Container ships",
+     "level": 2
+    },
+    {
+     "text": "Customs",
+     "level": 2
+    },
+    {
+     "text": "Cranes and docks",
+     "level": 3
+    },
+    {
+     "text": "Shipping boxes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Harbor",
+    "Marina",
+    "Warehouse"
+   ]
+  },
+  {
+   "word": "Dam",
+   "hints": [
+    {
+     "text": "Water barrier",
+     "level": 1
+    },
+    {
+     "text": "Engineering structure",
+     "level": 1
+    },
+    {
+     "text": "Hydroelectric power",
+     "level": 2
+    },
+    {
+     "text": "Reservoir",
+     "level": 2
+    },
+    {
+     "text": "Concrete wall",
+     "level": 3
+    },
+    {
+     "text": "Spillways",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bridge",
+    "Lock",
+    "Levee"
+   ]
+  },
+  {
+   "word": "Mine",
+   "hints": [
+    {
+     "text": "Underground site",
+     "level": 1
+    },
+    {
+     "text": "Digging place",
+     "level": 1
+    },
+    {
+     "text": "Coal or gold",
+     "level": 2
+    },
+    {
+     "text": "Diggers",
+     "level": 2
+    },
+    {
+     "text": "Shafts and tunnels",
+     "level": 3
+    },
+    {
+     "text": "Headlamps",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Quarry",
+    "Cave",
+    "Tunnel"
+   ]
+  },
+  {
+   "word": "Quarry",
+   "hints": [
+    {
+     "text": "Stone pit",
+     "level": 1
+    },
+    {
+     "text": "Excavation site",
+     "level": 1
+    },
+    {
+     "text": "Blasting rock",
+     "level": 2
+    },
+    {
+     "text": "Construction materials",
+     "level": 2
+    },
+    {
+     "text": "Open pit",
+     "level": 3
+    },
+    {
+     "text": "Terraced walls",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mine",
+    "Canyon",
+    "Cliff"
+   ]
+  },
+  {
+   "word": "Oil rig",
+   "hints": [
+    {
+     "text": "Offshore platform",
+     "level": 1
+    },
+    {
+     "text": "Drilling site",
+     "level": 1
+    },
+    {
+     "text": "Ocean workers",
+     "level": 2
+    },
+    {
+     "text": "Fuel production",
+     "level": 2
+    },
+    {
+     "text": "Steel towers at sea",
+     "level": 3
+    },
+    {
+     "text": "Flames",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lighthouse",
+    "Factory",
+    "Mine"
+   ]
+  },
+  {
+   "word": "Space station",
+   "hints": [
+    {
+     "text": "Orbiting base",
+     "level": 1
+    },
+    {
+     "text": "Astronaut home",
+     "level": 1
+    },
+    {
+     "text": "Science experiments",
+     "level": 2
+    },
+    {
+     "text": "Zero gravity",
+     "level": 2
+    },
+    {
+     "text": "Solar panels",
+     "level": 3
+    },
+    {
+     "text": "Docking ports",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Satellite",
+    "Observatory",
+    "Rocket"
+   ]
+  },
+  {
+   "word": "Army base",
+   "hints": [
+    {
+     "text": "Military site",
+     "level": 1
+    },
+    {
+     "text": "Barracks",
+     "level": 1
+    },
+    {
+     "text": "Soldiers train",
+     "level": 2
+    },
+    {
+     "text": "Salutes",
+     "level": 2
+    },
+    {
+     "text": "Fences and gates",
+     "level": 3
+    },
+    {
+     "text": "Drill grounds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fort",
+    "Camp",
+    "Airport"
+   ]
+  },
+  {
+   "word": "Fort",
+   "hints": [
+    {
+     "text": "Military building",
+     "level": 1
+    },
+    {
+     "text": "Stronghold",
+     "level": 1
+    },
+    {
+     "text": "Defends territory",
+     "level": 2
+    },
+    {
+     "text": "Historic battles",
+     "level": 2
+    },
+    {
+     "text": "Thick walls",
+     "level": 3
+    },
+    {
+     "text": "Cannons",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Castle",
+    "Army base",
+    "Tower"
+   ]
+  },
+  {
+   "word": "Ruins",
+   "hints": [
+    {
+     "text": "Old remains",
+     "level": 1
+    },
+    {
+     "text": "Ancient site",
+     "level": 1
+    },
+    {
+     "text": "Archaeologists dig",
+     "level": 2
+    },
+    {
+     "text": "Tourist visits",
+     "level": 2
+    },
+    {
+     "text": "Crumbling stones",
+     "level": 3
+    },
+    {
+     "text": "Broken columns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Castle",
+    "Monument",
+    "Temple"
+   ]
+  },
+  {
+   "word": "Pyramid",
+   "hints": [
+    {
+     "text": "Ancient monument",
+     "level": 1
+    },
+    {
+     "text": "Tomb",
+     "level": 1
+    },
+    {
+     "text": "Pharaohs buried",
+     "level": 2
+    },
+    {
+     "text": "Desert wonder",
+     "level": 2
+    },
+    {
+     "text": "Triangular sides",
+     "level": 3
+    },
+    {
+     "text": "Stone blocks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Temple",
+    "Sphinx",
+    "Ziggurat"
+   ]
+  },
+  {
+   "word": "Tower",
+   "hints": [
+    {
+     "text": "Tall structure",
+     "level": 1
+    },
+    {
+     "text": "Lookout",
+     "level": 1
+    },
+    {
+     "text": "Views from top",
+     "level": 2
+    },
+    {
+     "text": "Clock or bell",
+     "level": 2
+    },
+    {
+     "text": "Spiral stairs",
+     "level": 3
+    },
+    {
+     "text": "Narrow building",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Skyscraper",
+    "Lighthouse",
+    "Castle"
+   ]
+  },
+  {
+   "word": "Bell tower",
+   "hints": [
+    {
+     "text": "Church steeple",
+     "level": 1
+    },
+    {
+     "text": "Campanile",
+     "level": 1
+    },
+    {
+     "text": "Rings for services",
+     "level": 2
+    },
+    {
+     "text": "Pigeons nest",
+     "level": 2
+    },
+    {
+     "text": "Hanging chimes",
+     "level": 3
+    },
+    {
+     "text": "Ropes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lighthouse",
+    "Clock tower",
+    "Steeple"
+   ]
+  },
+  {
+   "word": "Food court",
+   "hints": [
+    {
+     "text": "Dining area",
+     "level": 1
+    },
+    {
+     "text": "Shopping break",
+     "level": 1
+    },
+    {
+     "text": "Many cuisines",
+     "level": 2
+    },
+    {
+     "text": "Teens gather",
+     "level": 2
+    },
+    {
+     "text": "Shared tables",
+     "level": 3
+    },
+    {
+     "text": "Tray returns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cafeteria",
+    "Restaurant",
+    "Canteen"
+   ]
+  },
+  {
+   "word": "Canteen",
+   "hints": [
+    {
+     "text": "Dining hall",
+     "level": 1
+    },
+    {
+     "text": "Workplace eatery",
+     "level": 1
+    },
+    {
+     "text": "Lunch breaks",
+     "level": 2
+    },
+    {
+     "text": "Cheap meals",
+     "level": 2
+    },
+    {
+     "text": "Trays and counters",
+     "level": 3
+    },
+    {
+     "text": "Long tables",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cafeteria",
+    "Cafe",
+    "Restaurant"
+   ]
+  },
+  {
+   "word": "Diner",
+   "hints": [
+    {
+     "text": "Casual restaurant",
+     "level": 1
+    },
+    {
+     "text": "Roadside eatery",
+     "level": 1
+    },
+    {
+     "text": "Pancakes all day",
+     "level": 2
+    },
+    {
+     "text": "Milkshakes",
+     "level": 2
+    },
+    {
+     "text": "Booths and counter",
+     "level": 3
+    },
+    {
+     "text": "Jukebox",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cafe",
+    "Restaurant",
+    "Canteen"
+   ]
+  },
+  {
+   "word": "Food truck",
+   "hints": [
+    {
+     "text": "Mobile eatery",
+     "level": 1
+    },
+    {
+     "text": "Street vendor",
+     "level": 1
+    },
+    {
+     "text": "Festival snacks",
+     "level": 2
+    },
+    {
+     "text": "Lunch lines",
+     "level": 2
+    },
+    {
+     "text": "Serving window",
+     "level": 3
+    },
+    {
+     "text": "Menu board",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cafe",
+    "Diner",
+    "Market"
+   ]
+  },
+  {
+   "word": "Night club",
+   "hints": [
+    {
+     "text": "Party venue",
+     "level": 1
+    },
+    {
+     "text": "Dance venue",
+     "level": 1
+    },
+    {
+     "text": "Until dawn",
+     "level": 2
+    },
+    {
+     "text": "DJ sets",
+     "level": 2
+    },
+    {
+     "text": "Flashing lights",
+     "level": 3
+    },
+    {
+     "text": "Dance floor",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bar",
+    "Concert hall",
+    "Theater"
+   ]
+  },
+  {
+   "word": "Concert hall",
+   "hints": [
+    {
+     "text": "Music venue",
+     "level": 1
+    },
+    {
+     "text": "Performance venue",
+     "level": 1
+    },
+    {
+     "text": "Orchestras play",
+     "level": 2
+    },
+    {
+     "text": "Ticketed shows",
+     "level": 2
+    },
+    {
+     "text": "Acoustic ceiling",
+     "level": 3
+    },
+    {
+     "text": "Grand stage",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Theater",
+    "Stadium",
+    "Opera house"
+   ]
+  },
+  {
+   "word": "Opera house",
+   "hints": [
+    {
+     "text": "Music venue",
+     "level": 1
+    },
+    {
+     "text": "Performance hall",
+     "level": 1
+    },
+    {
+     "text": "Sopranos sing",
+     "level": 2
+    },
+    {
+     "text": "Evening dress",
+     "level": 2
+    },
+    {
+     "text": "Balconies",
+     "level": 3
+    },
+    {
+     "text": "Chandeliers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Theater",
+    "Concert hall",
+    "Cinema"
+   ]
+  },
+  {
+   "word": "Arcade",
+   "hints": [
+    {
+     "text": "Game hall",
+     "level": 1
+    },
+    {
+     "text": "Fun center",
+     "level": 1
+    },
+    {
+     "text": "Tokens and tickets",
+     "level": 2
+    },
+    {
+     "text": "Teens hang out",
+     "level": 2
+    },
+    {
+     "text": "Flashing cabinets",
+     "level": 3
+    },
+    {
+     "text": "Claw machines",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Casino",
+    "Bowling alley",
+    "Cinema"
+   ]
+  },
+  {
+   "word": "Bowling alley",
+   "hints": [
+    {
+     "text": "Leisure venue",
+     "level": 1
+    },
+    {
+     "text": "Sports hall",
+     "level": 1
+    },
+    {
+     "text": "Birthday parties",
+     "level": 2
+    },
+    {
+     "text": "League nights",
+     "level": 2
+    },
+    {
+     "text": "Lanes and pins",
+     "level": 3
+    },
+    {
+     "text": "Rental shoes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Arcade",
+    "Gym",
+    "Billiards hall"
+   ]
+  },
+  {
+   "word": "Ski resort",
+   "hints": [
+    {
+     "text": "Winter destination",
+     "level": 1
+    },
+    {
+     "text": "Mountain lodge",
+     "level": 1
+    },
+    {
+     "text": "Winter holidays",
+     "level": 2
+    },
+    {
+     "text": "Hot cocoa",
+     "level": 2
+    },
+    {
+     "text": "Chairlifts",
+     "level": 3
+    },
+    {
+     "text": "Snowy slopes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spa",
+    "Campsite",
+    "Cabin"
+   ]
+  },
+  {
+   "word": "Resort",
+   "hints": [
+    {
+     "text": "Holiday place",
+     "level": 1
+    },
+    {
+     "text": "Vacation complex",
+     "level": 1
+    },
+    {
+     "text": "All inclusive",
+     "level": 2
+    },
+    {
+     "text": "Pool bars",
+     "level": 2
+    },
+    {
+     "text": "Beach loungers",
+     "level": 3
+    },
+    {
+     "text": "Spa",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hotel",
+    "Hostel",
+    "Campsite"
+   ]
+  },
+  {
+   "word": "Motel",
+   "hints": [
+    {
+     "text": "Roadside lodging",
+     "level": 1
+    },
+    {
+     "text": "Budget hotel",
+     "level": 1
+    },
+    {
+     "text": "Road trips",
+     "level": 2
+    },
+    {
+     "text": "Neon vacancy sign",
+     "level": 2
+    },
+    {
+     "text": "Parking by doors",
+     "level": 3
+    },
+    {
+     "text": "Ice machine",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hotel",
+    "Hostel",
+    "Inn"
+   ]
+  },
+  {
+   "word": "Inn",
+   "hints": [
+    {
+     "text": "Small hotel",
+     "level": 1
+    },
+    {
+     "text": "Old lodging",
+     "level": 1
+    },
+    {
+     "text": "Countryside stays",
+     "level": 2
+    },
+    {
+     "text": "Cozy rooms",
+     "level": 2
+    },
+    {
+     "text": "Fireplace lounge",
+     "level": 3
+    },
+    {
+     "text": "Wooden beams",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hotel",
+    "Motel",
+    "Tavern"
+   ]
+  },
+  {
+   "word": "Palace garden",
+   "hints": [
+    {
+     "text": "Royal grounds",
+     "level": 1
+    },
+    {
+     "text": "Formal park",
+     "level": 1
+    },
+    {
+     "text": "Hedge mazes",
+     "level": 2
+    },
+    {
+     "text": "Fountains",
+     "level": 2
+    },
+    {
+     "text": "Topiary",
+     "level": 3
+    },
+    {
+     "text": "Gravel paths",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Park",
+    "Greenhouse",
+    "Orchard"
+   ]
+  },
+  {
+   "word": "Botanical garden",
+   "hints": [
+    {
+     "text": "Plant collection",
+     "level": 1
+    },
+    {
+     "text": "Green attraction",
+     "level": 1
+    },
+    {
+     "text": "Rare flowers",
+     "level": 2
+    },
+    {
+     "text": "Glasshouses",
+     "level": 2
+    },
+    {
+     "text": "Labeled plants",
+     "level": 3
+    },
+    {
+     "text": "Winding paths",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Park",
+    "Greenhouse",
+    "Zoo"
+   ]
+  },
+  {
+   "word": "Nursery",
+   "hints": [
+    {
+     "text": "Plant shop",
+     "level": 1
+    },
+    {
+     "text": "Garden center",
+     "level": 1
+    },
+    {
+     "text": "Buying saplings",
+     "level": 2
+    },
+    {
+     "text": "Spring rush",
+     "level": 2
+    },
+    {
+     "text": "Rows of pots",
+     "level": 3
+    },
+    {
+     "text": "Compost bags",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Greenhouse",
+    "Florist",
+    "Orchard"
+   ]
+  },
+  {
+   "word": "Daycare",
+   "hints": [
+    {
+     "text": "Toddler center",
+     "level": 1
+    },
+    {
+     "text": "Kids center",
+     "level": 1
+    },
+    {
+     "text": "Working parents",
+     "level": 2
+    },
+    {
+     "text": "Nap time",
+     "level": 2
+    },
+    {
+     "text": "Colorful toys",
+     "level": 3
+    },
+    {
+     "text": "Tiny chairs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "School",
+    "Nursery",
+    "Playground"
+   ]
+  },
+  {
+   "word": "Retirement home",
+   "hints": [
+    {
+     "text": "Elderly residence",
+     "level": 1
+    },
+    {
+     "text": "Senior living",
+     "level": 1
+    },
+    {
+     "text": "Bingo nights",
+     "level": 2
+    },
+    {
+     "text": "Visiting grandkids",
+     "level": 2
+    },
+    {
+     "text": "Nurses on call",
+     "level": 3
+    },
+    {
+     "text": "Common room",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hospital",
+    "Hotel",
+    "Hostel"
+   ]
+  },
+  {
+   "word": "Orphanage",
+   "hints": [
+    {
+     "text": "Children's home",
+     "level": 1
+    },
+    {
+     "text": "Care shelter",
+     "level": 1
+    },
+    {
+     "text": "Adoption hopes",
+     "level": 2
+    },
+    {
+     "text": "Caretakers",
+     "level": 2
+    },
+    {
+     "text": "Dormitory beds",
+     "level": 3
+    },
+    {
+     "text": "Shared meals",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Daycare",
+    "School",
+    "Boarding school"
+   ]
+  },
+  {
+   "word": "Shelter",
+   "hints": [
+    {
+     "text": "Refuge",
+     "level": 1
+    },
+    {
+     "text": "Safe place",
+     "level": 1
+    },
+    {
+     "text": "Homeless or animals",
+     "level": 2
+    },
+    {
+     "text": "Charity",
+     "level": 2
+    },
+    {
+     "text": "Cots and blankets",
+     "level": 3
+    },
+    {
+     "text": "Volunteers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hostel",
+    "Hospital",
+    "Orphanage"
+   ]
+  },
+  {
+   "word": "Recycling center",
+   "hints": [
+    {
+     "text": "Waste facility",
+     "level": 1
+    },
+    {
+     "text": "Sorting site",
+     "level": 1
+    },
+    {
+     "text": "Bottles and cans",
+     "level": 2
+    },
+    {
+     "text": "Eco friendly",
+     "level": 2
+    },
+    {
+     "text": "Colored bins",
+     "level": 3
+    },
+    {
+     "text": "Compactors",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dump",
+    "Factory",
+    "Warehouse"
+   ]
+  },
+  {
+   "word": "Landfill",
+   "hints": [
+    {
+     "text": "Waste site",
+     "level": 1
+    },
+    {
+     "text": "Garbage dump",
+     "level": 1
+    },
+    {
+     "text": "Trash trucks",
+     "level": 2
+    },
+    {
+     "text": "Seagulls circle",
+     "level": 2
+    },
+    {
+     "text": "Mounds of rubbish",
+     "level": 3
+    },
+    {
+     "text": "Bulldozers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Recycling center",
+    "Quarry",
+    "Junkyard"
+   ]
+  },
+  {
+   "word": "Junkyard",
+   "hints": [
+    {
+     "text": "Scrap heap",
+     "level": 1
+    },
+    {
+     "text": "Salvage place",
+     "level": 1
+    },
+    {
+     "text": "Old cars",
+     "level": 2
+    },
+    {
+     "text": "Guard dogs",
+     "level": 2
+    },
+    {
+     "text": "Rusted metal piles",
+     "level": 3
+    },
+    {
+     "text": "Crushers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Landfill",
+    "Garage",
+    "Warehouse"
+   ]
+  },
+  {
+   "word": "Cave",
+   "hints": [
+    {
+     "text": "Natural shelter",
+     "level": 1
+    },
+    {
+     "text": "Underground space",
+     "level": 1
+    },
+    {
+     "text": "Explorers with torches",
+     "level": 2
+    },
+    {
+     "text": "Bats",
+     "level": 2
+    },
+    {
+     "text": "Stalactites",
+     "level": 3
+    },
+    {
+     "text": "Damp darkness",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tunnel",
+    "Mine",
+    "Grotto"
+   ]
+  },
+  {
+   "word": "Hut",
+   "hints": [
+    {
+     "text": "Simple shelter",
+     "level": 1
+    },
+    {
+     "text": "Small dwelling",
+     "level": 1
+    },
+    {
+     "text": "Mountain trails",
+     "level": 2
+    },
+    {
+     "text": "Villages",
+     "level": 2
+    },
+    {
+     "text": "Thatched roof",
+     "level": 3
+    },
+    {
+     "text": "One room",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cabin",
+    "Tent",
+    "Shed"
+   ]
+  },
+  {
+   "word": "Bungalow",
+   "hints": [
+    {
+     "text": "Single story house",
+     "level": 1
+    },
+    {
+     "text": "Holiday home",
+     "level": 1
+    },
+    {
+     "text": "Retirees",
+     "level": 2
+    },
+    {
+     "text": "Beach rentals",
+     "level": 2
+    },
+    {
+     "text": "Wide porch",
+     "level": 3
+    },
+    {
+     "text": "No stairs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cottage",
+    "Villa",
+    "Cabin"
+   ]
+  },
+  {
+   "word": "Villa",
+   "hints": [
+    {
+     "text": "Luxury house",
+     "level": 1
+    },
+    {
+     "text": "Holiday home",
+     "level": 1
+    },
+    {
+     "text": "Mediterranean vacations",
+     "level": 2
+    },
+    {
+     "text": "Private pools",
+     "level": 2
+    },
+    {
+     "text": "Terracotta roof",
+     "level": 3
+    },
+    {
+     "text": "Gardens",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mansion",
+    "Bungalow",
+    "Cottage"
+   ]
+  },
+  {
+   "word": "Condo",
+   "hints": [
+    {
+     "text": "Owned apartment",
+     "level": 1
+    },
+    {
+     "text": "Residential unit",
+     "level": 1
+    },
+    {
+     "text": "Downtown living",
+     "level": 2
+    },
+    {
+     "text": "Shared amenities",
+     "level": 2
+    },
+    {
+     "text": "Building complex",
+     "level": 3
+    },
+    {
+     "text": "Balcony",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Apartment",
+    "Townhouse",
+    "Villa"
+   ]
+  },
+  {
+   "word": "Penthouse",
+   "hints": [
+    {
+     "text": "Top floor flat",
+     "level": 1
+    },
+    {
+     "text": "Luxury apartment",
+     "level": 1
+    },
+    {
+     "text": "City views",
+     "level": 2
+    },
+    {
+     "text": "Rooftop parties",
+     "level": 2
+    },
+    {
+     "text": "Floor to ceiling windows",
+     "level": 3
+    },
+    {
+     "text": "Elevator access",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mansion",
+    "Condo",
+    "Loft"
+   ]
+  },
+  {
+   "word": "Hair salon",
+   "hints": [
+    {
+     "text": "Beauty spot",
+     "level": 1
+    },
+    {
+     "text": "Styling studio",
+     "level": 1
+    },
+    {
+     "text": "Weekly blowouts",
+     "level": 2
+    },
+    {
+     "text": "Gossip sessions",
+     "level": 2
+    },
+    {
+     "text": "Mirrors and dryers",
+     "level": 3
+    },
+    {
+     "text": "Color foils",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Barbershop",
+    "Spa",
+    "Boutique"
+   ]
+  },
+  {
+   "word": "Boutique",
+   "hints": [
+    {
+     "text": "Small shop",
+     "level": 1
+    },
+    {
+     "text": "Fashion store",
+     "level": 1
+    },
+    {
+     "text": "Designer pieces",
+     "level": 2
+    },
+    {
+     "text": "Window displays",
+     "level": 2
+    },
+    {
+     "text": "Mannequins",
+     "level": 3
+    },
+    {
+     "text": "Changing rooms",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mall",
+    "Market",
+    "Salon"
+   ]
+  },
+  {
+   "word": "Casino",
+   "hints": [
+    {
+     "text": "Gambling venue",
+     "level": 1
+    },
+    {
+     "text": "Entertainment hall",
+     "level": 1
+    },
+    {
+     "text": "Slot machines",
+     "level": 2
+    },
+    {
+     "text": "High rollers",
+     "level": 2
+    },
+    {
+     "text": "Roulette wheels",
+     "level": 3
+    },
+    {
+     "text": "Poker chips",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Arcade",
+    "Bowling alley",
+    "Stadium"
+   ]
+  },
+  {
+   "word": "Racetrack",
+   "hints": [
+    {
+     "text": "Racing venue",
+     "level": 1
+    },
+    {
+     "text": "Speed circuit",
+     "level": 1
+    },
+    {
+     "text": "Horse or car races",
+     "level": 2
+    },
+    {
+     "text": "Cheering crowds",
+     "level": 2
+    },
+    {
+     "text": "Grandstands",
+     "level": 3
+    },
+    {
+     "text": "Finish line",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Stadium",
+    "Arena",
+    "Highway"
+   ]
+  },
+  {
+   "word": "Lagoon resort",
+   "hints": [
+    {
+     "text": "Island stay",
+     "level": 1
+    },
+    {
+     "text": "Tropical getaway",
+     "level": 1
+    },
+    {
+     "text": "Overwater bungalows",
+     "level": 2
+    },
+    {
+     "text": "Snorkel trips",
+     "level": 2
+    },
+    {
+     "text": "Turquoise water",
+     "level": 3
+    },
+    {
+     "text": "Palm shade",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hotel",
+    "Hostel",
+    "Campsite"
+   ]
+  }
+ ]
+}

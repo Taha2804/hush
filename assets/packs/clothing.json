@@ -1,0 +1,5208 @@
+{
+ "id": "clothing",
+ "name": "Clothing",
+ "words": [
+  {
+   "word": "Shirt",
+   "hints": [
+    {
+     "text": "Top garment",
+     "level": 1
+    },
+    {
+     "text": "Everyday wear",
+     "level": 1
+    },
+    {
+     "text": "Office outfit",
+     "level": 2
+    },
+    {
+     "text": "Ironed on sundays",
+     "level": 2
+    },
+    {
+     "text": "Collar and buttons",
+     "level": 3
+    },
+    {
+     "text": "Long sleeves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Blouse",
+    "Sweater",
+    "Jacket"
+   ]
+  },
+  {
+   "word": "T-shirt",
+   "hints": [
+    {
+     "text": "Casual top",
+     "level": 1
+    },
+    {
+     "text": "Cotton wear",
+     "level": 1
+    },
+    {
+     "text": "Band merch",
+     "level": 2
+    },
+    {
+     "text": "Summer staple",
+     "level": 2
+    },
+    {
+     "text": "Short sleeves",
+     "level": 3
+    },
+    {
+     "text": "Printed designs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tank top",
+    "Polo",
+    "Sweater"
+   ]
+  },
+  {
+   "word": "Jeans",
+   "hints": [
+    {
+     "text": "Casual pants",
+     "level": 1
+    },
+    {
+     "text": "Denim wear",
+     "level": 1
+    },
+    {
+     "text": "Everyday staple",
+     "level": 2
+    },
+    {
+     "text": "Faded over time",
+     "level": 2
+    },
+    {
+     "text": "Blue fabric",
+     "level": 3
+    },
+    {
+     "text": "Rivets and pockets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Trousers",
+    "Shorts",
+    "Leggings"
+   ]
+  },
+  {
+   "word": "Trousers",
+   "hints": [
+    {
+     "text": "Leg garment",
+     "level": 1
+    },
+    {
+     "text": "Formal wear",
+     "level": 1
+    },
+    {
+     "text": "Office attire",
+     "level": 2
+    },
+    {
+     "text": "Pressed creases",
+     "level": 2
+    },
+    {
+     "text": "Belt loops",
+     "level": 3
+    },
+    {
+     "text": "Long legs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jeans",
+    "Shorts",
+    "Skirt"
+   ]
+  },
+  {
+   "word": "Shorts",
+   "hints": [
+    {
+     "text": "Summer wear",
+     "level": 1
+    },
+    {
+     "text": "Leg garment",
+     "level": 1
+    },
+    {
+     "text": "Beach days",
+     "level": 2
+    },
+    {
+     "text": "Gym class",
+     "level": 2
+    },
+    {
+     "text": "Above the knee",
+     "level": 3
+    },
+    {
+     "text": "Elastic waist",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Trousers",
+    "Skirt",
+    "Swimsuit"
+   ]
+  },
+  {
+   "word": "Skirt",
+   "hints": [
+    {
+     "text": "Lower garment",
+     "level": 1
+    },
+    {
+     "text": "Feminine wear",
+     "level": 1
+    },
+    {
+     "text": "School uniform",
+     "level": 2
+    },
+    {
+     "text": "Twirls when spinning",
+     "level": 2
+    },
+    {
+     "text": "Pleated or straight",
+     "level": 3
+    },
+    {
+     "text": "Hangs from waist",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dress",
+    "Shorts",
+    "Kilt"
+   ]
+  },
+  {
+   "word": "Dress",
+   "hints": [
+    {
+     "text": "One piece outfit",
+     "level": 1
+    },
+    {
+     "text": "Feminine wear",
+     "level": 1
+    },
+    {
+     "text": "Parties and weddings",
+     "level": 2
+    },
+    {
+     "text": "Summer favorite",
+     "level": 2
+    },
+    {
+     "text": "Flowing fabric",
+     "level": 3
+    },
+    {
+     "text": "Zip at back",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Skirt",
+    "Gown",
+    "Blouse"
+   ]
+  },
+  {
+   "word": "Sweater",
+   "hints": [
+    {
+     "text": "Warm top",
+     "level": 1
+    },
+    {
+     "text": "Knitwear",
+     "level": 1
+    },
+    {
+     "text": "Winter wear",
+     "level": 2
+    },
+    {
+     "text": "Grandma knitted",
+     "level": 2
+    },
+    {
+     "text": "Woolly fabric",
+     "level": 3
+    },
+    {
+     "text": "Ribbed cuffs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hoodie",
+    "Cardigan",
+    "Jacket"
+   ]
+  },
+  {
+   "word": "Hoodie",
+   "hints": [
+    {
+     "text": "Casual top",
+     "level": 1
+    },
+    {
+     "text": "Comfy wear",
+     "level": 1
+    },
+    {
+     "text": "Lazy days",
+     "level": 2
+    },
+    {
+     "text": "Student uniform",
+     "level": 2
+    },
+    {
+     "text": "Front pocket",
+     "level": 3
+    },
+    {
+     "text": "Drawstring cowl",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sweater",
+    "Jacket",
+    "Tracksuit"
+   ]
+  },
+  {
+   "word": "Jacket",
+   "hints": [
+    {
+     "text": "Outer layer",
+     "level": 1
+    },
+    {
+     "text": "Outerwear",
+     "level": 1
+    },
+    {
+     "text": "Chilly evenings",
+     "level": 2
+    },
+    {
+     "text": "Hung by the door",
+     "level": 2
+    },
+    {
+     "text": "Zip or buttons",
+     "level": 3
+    },
+    {
+     "text": "Pockets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Coat",
+    "Blazer",
+    "Hoodie"
+   ]
+  },
+  {
+   "word": "Coat",
+   "hints": [
+    {
+     "text": "Outer garment",
+     "level": 1
+    },
+    {
+     "text": "Winter wear",
+     "level": 1
+    },
+    {
+     "text": "Keeps you warm",
+     "level": 2
+    },
+    {
+     "text": "Hung in hallways",
+     "level": 2
+    },
+    {
+     "text": "Long and heavy",
+     "level": 3
+    },
+    {
+     "text": "Big buttons",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jacket",
+    "Cloak",
+    "Parka"
+   ]
+  },
+  {
+   "word": "Raincoat",
+   "hints": [
+    {
+     "text": "Wet weather gear",
+     "level": 1
+    },
+    {
+     "text": "Outerwear",
+     "level": 1
+    },
+    {
+     "text": "Wet weather",
+     "level": 2
+    },
+    {
+     "text": "Puddle splashing",
+     "level": 2
+    },
+    {
+     "text": "Waterproof fabric",
+     "level": 3
+    },
+    {
+     "text": "Bright yellow",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Umbrella",
+    "Poncho",
+    "Jacket"
+   ]
+  },
+  {
+   "word": "Suit",
+   "hints": [
+    {
+     "text": "Formal wear",
+     "level": 1
+    },
+    {
+     "text": "Business outfit",
+     "level": 1
+    },
+    {
+     "text": "Job interviews",
+     "level": 2
+    },
+    {
+     "text": "Weddings",
+     "level": 2
+    },
+    {
+     "text": "Matching jacket and trousers",
+     "level": 3
+    },
+    {
+     "text": "Tie included",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tuxedo",
+    "Blazer",
+    "Uniform"
+   ]
+  },
+  {
+   "word": "Tuxedo",
+   "hints": [
+    {
+     "text": "Formal wear",
+     "level": 1
+    },
+    {
+     "text": "Evening outfit",
+     "level": 1
+    },
+    {
+     "text": "Black tie events",
+     "level": 2
+    },
+    {
+     "text": "Prom night",
+     "level": 2
+    },
+    {
+     "text": "Satin lapels",
+     "level": 3
+    },
+    {
+     "text": "Bow tie",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Suit",
+    "Gown",
+    "Blazer"
+   ]
+  },
+  {
+   "word": "Blazer",
+   "hints": [
+    {
+     "text": "Smart jacket",
+     "level": 1
+    },
+    {
+     "text": "Formal wear",
+     "level": 1
+    },
+    {
+     "text": "School uniform",
+     "level": 2
+    },
+    {
+     "text": "Office smart",
+     "level": 2
+    },
+    {
+     "text": "Tailored fit",
+     "level": 3
+    },
+    {
+     "text": "Crest on pocket",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jacket",
+    "Suit",
+    "Cardigan"
+   ]
+  },
+  {
+   "word": "Tie",
+   "hints": [
+    {
+     "text": "Neckwear",
+     "level": 1
+    },
+    {
+     "text": "Formal accessory",
+     "level": 1
+    },
+    {
+     "text": "Office dress code",
+     "level": 2
+    },
+    {
+     "text": "Fathers day gift",
+     "level": 2
+    },
+    {
+     "text": "Long strip",
+     "level": 3
+    },
+    {
+     "text": "Knotted at collar",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cravat",
+    "Scarf",
+    "Belt"
+   ]
+  },
+  {
+   "word": "Bow tie",
+   "hints": [
+    {
+     "text": "Neckwear",
+     "level": 1
+    },
+    {
+     "text": "Formal accessory",
+     "level": 1
+    },
+    {
+     "text": "Tuxedo partner",
+     "level": 2
+    },
+    {
+     "text": "Quirky style",
+     "level": 2
+    },
+    {
+     "text": "Butterfly shape",
+     "level": 3
+    },
+    {
+     "text": "Tied at neck",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Necktie",
+    "Scarf",
+    "Brooch"
+   ]
+  },
+  {
+   "word": "Scarf",
+   "hints": [
+    {
+     "text": "Neckwear",
+     "level": 1
+    },
+    {
+     "text": "Winter accessory",
+     "level": 1
+    },
+    {
+     "text": "Wrapped around neck",
+     "level": 2
+    },
+    {
+     "text": "Knitted gift",
+     "level": 2
+    },
+    {
+     "text": "Long fabric strip",
+     "level": 3
+    },
+    {
+     "text": "Fringed ends",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shawl",
+    "Tie",
+    "Bandana"
+   ]
+  },
+  {
+   "word": "Gloves",
+   "hints": [
+    {
+     "text": "Hand wear",
+     "level": 1
+    },
+    {
+     "text": "Winter accessory",
+     "level": 1
+    },
+    {
+     "text": "Keep fingers warm",
+     "level": 2
+    },
+    {
+     "text": "Lost in pairs",
+     "level": 2
+    },
+    {
+     "text": "Five fingers",
+     "level": 3
+    },
+    {
+     "text": "Woolly or leather",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mittens",
+    "Socks",
+    "Muffs"
+   ]
+  },
+  {
+   "word": "Mittens",
+   "hints": [
+    {
+     "text": "Hand wear",
+     "level": 1
+    },
+    {
+     "text": "Winter accessory",
+     "level": 1
+    },
+    {
+     "text": "Kids in snow",
+     "level": 2
+    },
+    {
+     "text": "Strung through sleeves",
+     "level": 2
+    },
+    {
+     "text": "Thumb pocket only",
+     "level": 3
+    },
+    {
+     "text": "Fluffy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gloves",
+    "Socks",
+    "Earmuffs"
+   ]
+  },
+  {
+   "word": "Socks",
+   "hints": [
+    {
+     "text": "Footwear",
+     "level": 1
+    },
+    {
+     "text": "Underlayer",
+     "level": 1
+    },
+    {
+     "text": "Lost in laundry",
+     "level": 2
+    },
+    {
+     "text": "Holiday gift",
+     "level": 2
+    },
+    {
+     "text": "Pulled over feet",
+     "level": 3
+    },
+    {
+     "text": "Come in pairs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Stockings",
+    "Slippers",
+    "Shoes"
+   ]
+  },
+  {
+   "word": "Shoes",
+   "hints": [
+    {
+     "text": "Footwear",
+     "level": 1
+    },
+    {
+     "text": "Everyday wear",
+     "level": 1
+    },
+    {
+     "text": "Laces and soles",
+     "level": 2
+    },
+    {
+     "text": "Taken off at door",
+     "level": 2
+    },
+    {
+     "text": "Pair for feet",
+     "level": 3
+    },
+    {
+     "text": "Left and right",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Boots",
+    "Sandals",
+    "Slippers"
+   ]
+  },
+  {
+   "word": "Sneakers",
+   "hints": [
+    {
+     "text": "Footwear",
+     "level": 1
+    },
+    {
+     "text": "Sports shoes",
+     "level": 1
+    },
+    {
+     "text": "Running and gym",
+     "level": 2
+    },
+    {
+     "text": "Collected by fans",
+     "level": 2
+    },
+    {
+     "text": "Rubber soles",
+     "level": 3
+    },
+    {
+     "text": "Laces",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Boots",
+    "Loafers",
+    "Sandals"
+   ]
+  },
+  {
+   "word": "Boots",
+   "hints": [
+    {
+     "text": "Footwear",
+     "level": 1
+    },
+    {
+     "text": "Sturdy shoes",
+     "level": 1
+    },
+    {
+     "text": "Rainy days",
+     "level": 2
+    },
+    {
+     "text": "Hiking trails",
+     "level": 2
+    },
+    {
+     "text": "Ankle high",
+     "level": 3
+    },
+    {
+     "text": "Thick soles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sneakers",
+    "Sandals",
+    "Wellies"
+   ]
+  },
+  {
+   "word": "Sandals",
+   "hints": [
+    {
+     "text": "Summer footwear",
+     "level": 1
+    },
+    {
+     "text": "Open shoes",
+     "level": 1
+    },
+    {
+     "text": "Beach days",
+     "level": 2
+    },
+    {
+     "text": "Hot weather",
+     "level": 2
+    },
+    {
+     "text": "Straps",
+     "level": 3
+    },
+    {
+     "text": "Toes showing",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Slippers",
+    "Flip flops",
+    "Sneakers"
+   ]
+  },
+  {
+   "word": "Flip flops",
+   "hints": [
+    {
+     "text": "Beach footwear",
+     "level": 1
+    },
+    {
+     "text": "Summer shoes",
+     "level": 1
+    },
+    {
+     "text": "Pool side",
+     "level": 2
+    },
+    {
+     "text": "Snapping sound",
+     "level": 2
+    },
+    {
+     "text": "Thong between toes",
+     "level": 3
+    },
+    {
+     "text": "Rubber soles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sandals",
+    "Slippers",
+    "Crocs"
+   ]
+  },
+  {
+   "word": "Slippers",
+   "hints": [
+    {
+     "text": "Indoor footwear",
+     "level": 1
+    },
+    {
+     "text": "Comfy shoes",
+     "level": 1
+    },
+    {
+     "text": "Worn at home",
+     "level": 2
+    },
+    {
+     "text": "Cozy mornings",
+     "level": 2
+    },
+    {
+     "text": "Fluffy lining",
+     "level": 3
+    },
+    {
+     "text": "Slide on",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Socks",
+    "Sandals",
+    "Moccasins"
+   ]
+  },
+  {
+   "word": "High heels",
+   "hints": [
+    {
+     "text": "Formal footwear",
+     "level": 1
+    },
+    {
+     "text": "Fancy shoes",
+     "level": 1
+    },
+    {
+     "text": "Parties and galas",
+     "level": 2
+    },
+    {
+     "text": "Hard to walk in",
+     "level": 2
+    },
+    {
+     "text": "Tall pointed spike",
+     "level": 3
+    },
+    {
+     "text": "Clicking sound",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wedges",
+    "Boots",
+    "Flats"
+   ]
+  },
+  {
+   "word": "Hat",
+   "hints": [
+    {
+     "text": "Headwear",
+     "level": 1
+    },
+    {
+     "text": "Accessory",
+     "level": 1
+    },
+    {
+     "text": "Shade from sun",
+     "level": 2
+    },
+    {
+     "text": "Tipped politely",
+     "level": 2
+    },
+    {
+     "text": "Brim around",
+     "level": 3
+    },
+    {
+     "text": "Sits on head",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cap",
+    "Helmet",
+    "Beanie"
+   ]
+  },
+  {
+   "word": "Cap",
+   "hints": [
+    {
+     "text": "Headwear",
+     "level": 1
+    },
+    {
+     "text": "Casual accessory",
+     "level": 1
+    },
+    {
+     "text": "Sports teams",
+     "level": 2
+    },
+    {
+     "text": "Worn backwards",
+     "level": 2
+    },
+    {
+     "text": "Peak at front",
+     "level": 3
+    },
+    {
+     "text": "Adjustable strap",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Beanie",
+    "Visor",
+    "Bandana"
+   ]
+  },
+  {
+   "word": "Beanie",
+   "hints": [
+    {
+     "text": "Headwear",
+     "level": 1
+    },
+    {
+     "text": "Winter accessory",
+     "level": 1
+    },
+    {
+     "text": "Snowy days",
+     "level": 2
+    },
+    {
+     "text": "Skater style",
+     "level": 2
+    },
+    {
+     "text": "Knitted wool",
+     "level": 3
+    },
+    {
+     "text": "Pom pom on top",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cap",
+    "Hood",
+    "Beret"
+   ]
+  },
+  {
+   "word": "Beret",
+   "hints": [
+    {
+     "text": "Headwear",
+     "level": 1
+    },
+    {
+     "text": "Artist accessory",
+     "level": 1
+    },
+    {
+     "text": "Painters and poets",
+     "level": 2
+    },
+    {
+     "text": "Military units",
+     "level": 2
+    },
+    {
+     "text": "Soft and flat",
+     "level": 3
+    },
+    {
+     "text": "Tilted on side",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Beanie",
+    "Cap",
+    "Fedora"
+   ]
+  },
+  {
+   "word": "Helmet",
+   "hints": [
+    {
+     "text": "Protective headwear",
+     "level": 1
+    },
+    {
+     "text": "Safety gear",
+     "level": 1
+    },
+    {
+     "text": "Cyclists and bikers",
+     "level": 2
+    },
+    {
+     "text": "Construction sites",
+     "level": 2
+    },
+    {
+     "text": "Hard shell",
+     "level": 3
+    },
+    {
+     "text": "Chin strap",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cap",
+    "Hood",
+    "Visor"
+   ]
+  },
+  {
+   "word": "Belt",
+   "hints": [
+    {
+     "text": "Waist accessory",
+     "level": 1
+    },
+    {
+     "text": "Leather strip",
+     "level": 1
+    },
+    {
+     "text": "Holds up trousers",
+     "level": 2
+    },
+    {
+     "text": "Notches tighten",
+     "level": 2
+    },
+    {
+     "text": "Buckle",
+     "level": 3
+    },
+    {
+     "text": "Through loops",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Suspenders",
+    "Sash",
+    "Strap"
+   ]
+  },
+  {
+   "word": "Suspenders",
+   "hints": [
+    {
+     "text": "Trouser holders",
+     "level": 1
+    },
+    {
+     "text": "Accessory",
+     "level": 1
+    },
+    {
+     "text": "Old fashioned style",
+     "level": 2
+    },
+    {
+     "text": "Over shoulders",
+     "level": 2
+    },
+    {
+     "text": "Elastic straps",
+     "level": 3
+    },
+    {
+     "text": "Clip on",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Belt",
+    "Sash",
+    "Harness"
+   ]
+  },
+  {
+   "word": "Pajamas",
+   "hints": [
+    {
+     "text": "Sleepwear",
+     "level": 1
+    },
+    {
+     "text": "Night clothes",
+     "level": 1
+    },
+    {
+     "text": "Bedtime outfit",
+     "level": 2
+    },
+    {
+     "text": "Sleepovers",
+     "level": 2
+    },
+    {
+     "text": "Matching top and bottoms",
+     "level": 3
+    },
+    {
+     "text": "Soft cotton",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Robe",
+    "Nightgown",
+    "Tracksuit"
+   ]
+  },
+  {
+   "word": "Robe",
+   "hints": [
+    {
+     "text": "Loungewear",
+     "level": 1
+    },
+    {
+     "text": "Bathroom wear",
+     "level": 1
+    },
+    {
+     "text": "After showers",
+     "level": 2
+    },
+    {
+     "text": "Hotel luxury",
+     "level": 2
+    },
+    {
+     "text": "Tie belt",
+     "level": 3
+    },
+    {
+     "text": "Fluffy towelling",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pajamas",
+    "Towel",
+    "Kimono"
+   ]
+  },
+  {
+   "word": "Swimsuit",
+   "hints": [
+    {
+     "text": "Beachwear",
+     "level": 1
+    },
+    {
+     "text": "Water clothing",
+     "level": 1
+    },
+    {
+     "text": "Pool parties",
+     "level": 2
+    },
+    {
+     "text": "Summer vacation",
+     "level": 2
+    },
+    {
+     "text": "Stretchy fabric",
+     "level": 3
+    },
+    {
+     "text": "Quick drying",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shorts",
+    "Wetsuit",
+    "Leotard"
+   ]
+  },
+  {
+   "word": "Bikini",
+   "hints": [
+    {
+     "text": "Beachwear",
+     "level": 1
+    },
+    {
+     "text": "Two piece",
+     "level": 1
+    },
+    {
+     "text": "Sunbathing",
+     "level": 2
+    },
+    {
+     "text": "Summer holidays",
+     "level": 2
+    },
+    {
+     "text": "Top and bottom",
+     "level": 3
+    },
+    {
+     "text": "Bright prints",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Swimsuit",
+    "Sarong",
+    "Shorts"
+   ]
+  },
+  {
+   "word": "Wetsuit",
+   "hints": [
+    {
+     "text": "Water gear",
+     "level": 1
+    },
+    {
+     "text": "Diving outfit",
+     "level": 1
+    },
+    {
+     "text": "Surfers wear it",
+     "level": 2
+    },
+    {
+     "text": "Cold water",
+     "level": 2
+    },
+    {
+     "text": "Thick neoprene",
+     "level": 3
+    },
+    {
+     "text": "Zip at back",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Swimsuit",
+    "Drysuit",
+    "Overalls"
+   ]
+  },
+  {
+   "word": "Uniform",
+   "hints": [
+    {
+     "text": "Work clothing",
+     "level": 1
+    },
+    {
+     "text": "Matching outfit",
+     "level": 1
+    },
+    {
+     "text": "Schools and armies",
+     "level": 2
+    },
+    {
+     "text": "Dress code",
+     "level": 2
+    },
+    {
+     "text": "Same for everyone",
+     "level": 3
+    },
+    {
+     "text": "Badges and crests",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Suit",
+    "Costume",
+    "Overalls"
+   ]
+  },
+  {
+   "word": "Overalls",
+   "hints": [
+    {
+     "text": "Work wear",
+     "level": 1
+    },
+    {
+     "text": "One piece",
+     "level": 1
+    },
+    {
+     "text": "Farmers and painters",
+     "level": 2
+    },
+    {
+     "text": "Bib front",
+     "level": 2
+    },
+    {
+     "text": "Shoulder straps",
+     "level": 3
+    },
+    {
+     "text": "Big pockets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jumpsuit",
+    "Dungarees",
+    "Boilersuit"
+   ]
+  },
+  {
+   "word": "Jumpsuit",
+   "hints": [
+    {
+     "text": "One piece outfit",
+     "level": 1
+    },
+    {
+     "text": "Fashion wear",
+     "level": 1
+    },
+    {
+     "text": "Pilots and mechanics",
+     "level": 2
+    },
+    {
+     "text": "Trendy style",
+     "level": 2
+    },
+    {
+     "text": "Top and trousers joined",
+     "level": 3
+    },
+    {
+     "text": "Zip front",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Overalls",
+    "Dress",
+    "Romper"
+   ]
+  },
+  {
+   "word": "Leggings",
+   "hints": [
+    {
+     "text": "Stretchy pants",
+     "level": 1
+    },
+    {
+     "text": "Activewear",
+     "level": 1
+    },
+    {
+     "text": "Yoga classes",
+     "level": 2
+    },
+    {
+     "text": "Comfy wear",
+     "level": 2
+    },
+    {
+     "text": "Skin tight",
+     "level": 3
+    },
+    {
+     "text": "Elastic waistband",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jeans",
+    "Tights",
+    "Trousers"
+   ]
+  },
+  {
+   "word": "Tights",
+   "hints": [
+    {
+     "text": "Legwear",
+     "level": 1
+    },
+    {
+     "text": "Stretchy hosiery",
+     "level": 1
+    },
+    {
+     "text": "Under skirts",
+     "level": 2
+    },
+    {
+     "text": "Ballet class",
+     "level": 2
+    },
+    {
+     "text": "Sheer nylon",
+     "level": 3
+    },
+    {
+     "text": "Full leg",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Leggings",
+    "Stockings",
+    "Socks"
+   ]
+  },
+  {
+   "word": "Cardigan",
+   "hints": [
+    {
+     "text": "Knitwear",
+     "level": 1
+    },
+    {
+     "text": "Light layer",
+     "level": 1
+    },
+    {
+     "text": "Grandpa style",
+     "level": 2
+    },
+    {
+     "text": "Over shirts",
+     "level": 2
+    },
+    {
+     "text": "Buttons down front",
+     "level": 3
+    },
+    {
+     "text": "Woolly",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sweater",
+    "Blazer",
+    "Shawl"
+   ]
+  },
+  {
+   "word": "Vest",
+   "hints": [
+    {
+     "text": "Sleeveless top",
+     "level": 1
+    },
+    {
+     "text": "Layering piece",
+     "level": 1
+    },
+    {
+     "text": "Under shirts",
+     "level": 2
+    },
+    {
+     "text": "Three piece suits",
+     "level": 2
+    },
+    {
+     "text": "No sleeves",
+     "level": 3
+    },
+    {
+     "text": "Buttons or pullover",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tank top",
+    "Waistcoat",
+    "Jacket"
+   ]
+  },
+  {
+   "word": "Tank top",
+   "hints": [
+    {
+     "text": "Sleeveless shirt",
+     "level": 1
+    },
+    {
+     "text": "Summer wear",
+     "level": 1
+    },
+    {
+     "text": "Gym workouts",
+     "level": 2
+    },
+    {
+     "text": "Hot days",
+     "level": 2
+    },
+    {
+     "text": "Thin straps",
+     "level": 3
+    },
+    {
+     "text": "Bare arms",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "T-shirt",
+    "Vest",
+    "Crop top"
+   ]
+  },
+  {
+   "word": "Polo shirt",
+   "hints": [
+    {
+     "text": "Casual top",
+     "level": 1
+    },
+    {
+     "text": "Sporty top",
+     "level": 1
+    },
+    {
+     "text": "Golf outfits",
+     "level": 2
+    },
+    {
+     "text": "Smart casual",
+     "level": 2
+    },
+    {
+     "text": "Short collar",
+     "level": 3
+    },
+    {
+     "text": "Few buttons",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "T-shirt",
+    "Blouse",
+    "Sweater"
+   ]
+  },
+  {
+   "word": "Blouse",
+   "hints": [
+    {
+     "text": "Ladies top",
+     "level": 1
+    },
+    {
+     "text": "Smart wear",
+     "level": 1
+    },
+    {
+     "text": "Office wear",
+     "level": 2
+    },
+    {
+     "text": "Tucked in",
+     "level": 2
+    },
+    {
+     "text": "Soft fabric",
+     "level": 3
+    },
+    {
+     "text": "Buttons or bow",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shirt",
+    "Top",
+    "Tunic"
+   ]
+  },
+  {
+   "word": "Kimono",
+   "hints": [
+    {
+     "text": "Japanese garment",
+     "level": 1
+    },
+    {
+     "text": "Traditional robe",
+     "level": 1
+    },
+    {
+     "text": "Tea ceremonies",
+     "level": 2
+    },
+    {
+     "text": "Festivals",
+     "level": 2
+    },
+    {
+     "text": "Wide sleeves",
+     "level": 3
+    },
+    {
+     "text": "Sash belt",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Robe",
+    "Sari",
+    "Hanbok"
+   ]
+  },
+  {
+   "word": "Sari",
+   "hints": [
+    {
+     "text": "Indian garment",
+     "level": 1
+    },
+    {
+     "text": "Traditional drape",
+     "level": 1
+    },
+    {
+     "text": "Weddings and festivals",
+     "level": 2
+    },
+    {
+     "text": "Elegant wear",
+     "level": 2
+    },
+    {
+     "text": "Long draped fabric",
+     "level": 3
+    },
+    {
+     "text": "Blouse underneath",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lehenga",
+    "Kimono",
+    "Salwar"
+   ]
+  },
+  {
+   "word": "Kurta",
+   "hints": [
+    {
+     "text": "Indian garment",
+     "level": 1
+    },
+    {
+     "text": "Long tunic",
+     "level": 1
+    },
+    {
+     "text": "Festive wear",
+     "level": 2
+    },
+    {
+     "text": "Comfortable cotton",
+     "level": 2
+    },
+    {
+     "text": "Knee length",
+     "level": 3
+    },
+    {
+     "text": "Collarless",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sherwani",
+    "Tunic",
+    "Shirt"
+   ]
+  },
+  {
+   "word": "Lehenga",
+   "hints": [
+    {
+     "text": "Indian garment",
+     "level": 1
+    },
+    {
+     "text": "Bridal wear",
+     "level": 1
+    },
+    {
+     "text": "Weddings",
+     "level": 2
+    },
+    {
+     "text": "Festive dances",
+     "level": 2
+    },
+    {
+     "text": "Flared skirt",
+     "level": 3
+    },
+    {
+     "text": "Heavy embroidery",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sari",
+    "Gown",
+    "Sharara"
+   ]
+  },
+  {
+   "word": "Sherwani",
+   "hints": [
+    {
+     "text": "Indian garment",
+     "level": 1
+    },
+    {
+     "text": "Groom wear",
+     "level": 1
+    },
+    {
+     "text": "Wedding outfit",
+     "level": 2
+    },
+    {
+     "text": "Royal look",
+     "level": 2
+    },
+    {
+     "text": "Long coat",
+     "level": 3
+    },
+    {
+     "text": "Embroidered",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kurta",
+    "Suit",
+    "Tuxedo"
+   ]
+  },
+  {
+   "word": "Dhoti",
+   "hints": [
+    {
+     "text": "Indian garment",
+     "level": 1
+    },
+    {
+     "text": "Traditional wrap",
+     "level": 1
+    },
+    {
+     "text": "Temple wear",
+     "level": 2
+    },
+    {
+     "text": "Rural wear",
+     "level": 2
+    },
+    {
+     "text": "Unstitched cloth",
+     "level": 3
+    },
+    {
+     "text": "Tied at waist",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lungi",
+    "Sarong",
+    "Pajamas"
+   ]
+  },
+  {
+   "word": "Turban",
+   "hints": [
+    {
+     "text": "Headwear",
+     "level": 1
+    },
+    {
+     "text": "Traditional wrap",
+     "level": 1
+    },
+    {
+     "text": "Religious significance",
+     "level": 2
+    },
+    {
+     "text": "Weddings",
+     "level": 2
+    },
+    {
+     "text": "Long cloth wound",
+     "level": 3
+    },
+    {
+     "text": "Colorful folds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hat",
+    "Scarf",
+    "Headband"
+   ]
+  },
+  {
+   "word": "Kilt",
+   "hints": [
+    {
+     "text": "Scottish garment",
+     "level": 1
+    },
+    {
+     "text": "Tartan skirt",
+     "level": 1
+    },
+    {
+     "text": "Highland games",
+     "level": 2
+    },
+    {
+     "text": "Bagpipers",
+     "level": 2
+    },
+    {
+     "text": "Pleated wool",
+     "level": 3
+    },
+    {
+     "text": "Sporran pouch",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Skirt",
+    "Sarong",
+    "Shorts"
+   ]
+  },
+  {
+   "word": "Poncho",
+   "hints": [
+    {
+     "text": "Outerwear",
+     "level": 1
+    },
+    {
+     "text": "Blanket wrap",
+     "level": 1
+    },
+    {
+     "text": "Rain cover",
+     "level": 2
+    },
+    {
+     "text": "Festival wear",
+     "level": 2
+    },
+    {
+     "text": "Head hole in middle",
+     "level": 3
+    },
+    {
+     "text": "Fringed edges",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cape",
+    "Raincoat",
+    "Shawl"
+   ]
+  },
+  {
+   "word": "Cape",
+   "hints": [
+    {
+     "text": "Outerwear",
+     "level": 1
+    },
+    {
+     "text": "Flowing cloak",
+     "level": 1
+    },
+    {
+     "text": "Superheroes",
+     "level": 2
+    },
+    {
+     "text": "Magicians",
+     "level": 2
+    },
+    {
+     "text": "Tied at neck",
+     "level": 3
+    },
+    {
+     "text": "Billowing fabric",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cloak",
+    "Poncho",
+    "Shawl"
+   ]
+  },
+  {
+   "word": "Cloak",
+   "hints": [
+    {
+     "text": "Outerwear",
+     "level": 1
+    },
+    {
+     "text": "Hooded wrap",
+     "level": 1
+    },
+    {
+     "text": "Wizards and knights",
+     "level": 2
+    },
+    {
+     "text": "Medieval wear",
+     "level": 2
+    },
+    {
+     "text": "Long and flowing",
+     "level": 3
+    },
+    {
+     "text": "Hooded",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cape",
+    "Coat",
+    "Robe"
+   ]
+  },
+  {
+   "word": "Shawl",
+   "hints": [
+    {
+     "text": "Shoulder wrap",
+     "level": 1
+    },
+    {
+     "text": "Accessory",
+     "level": 1
+    },
+    {
+     "text": "Chilly evenings",
+     "level": 2
+    },
+    {
+     "text": "Elegant cover",
+     "level": 2
+    },
+    {
+     "text": "Draped fabric",
+     "level": 3
+    },
+    {
+     "text": "Fringe edges",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Scarf",
+    "Cardigan",
+    "Poncho"
+   ]
+  },
+  {
+   "word": "Apron",
+   "hints": [
+    {
+     "text": "Kitchen wear",
+     "level": 1
+    },
+    {
+     "text": "Protective layer",
+     "level": 1
+    },
+    {
+     "text": "Cooking and baking",
+     "level": 2
+    },
+    {
+     "text": "Tied at back",
+     "level": 2
+    },
+    {
+     "text": "Front pocket",
+     "level": 3
+    },
+    {
+     "text": "Neck strap",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Overalls",
+    "Bib",
+    "Smock"
+   ]
+  },
+  {
+   "word": "Bib",
+   "hints": [
+    {
+     "text": "Baby item",
+     "level": 1
+    },
+    {
+     "text": "Protective cloth",
+     "level": 1
+    },
+    {
+     "text": "Messy eaters",
+     "level": 2
+    },
+    {
+     "text": "Lobster dinners",
+     "level": 2
+    },
+    {
+     "text": "Tied at neck",
+     "level": 3
+    },
+    {
+     "text": "Catches food",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Apron",
+    "Napkin",
+    "Scarf"
+   ]
+  },
+  {
+   "word": "Sunglasses",
+   "hints": [
+    {
+     "text": "Eyewear",
+     "level": 1
+    },
+    {
+     "text": "Summer accessory",
+     "level": 1
+    },
+    {
+     "text": "Bright days",
+     "level": 2
+    },
+    {
+     "text": "Cool look",
+     "level": 2
+    },
+    {
+     "text": "Dark lenses",
+     "level": 3
+    },
+    {
+     "text": "Block glare",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Goggles",
+    "Spectacles",
+    "Visor"
+   ]
+  },
+  {
+   "word": "Goggles",
+   "hints": [
+    {
+     "text": "Protective eyewear",
+     "level": 1
+    },
+    {
+     "text": "Sports gear",
+     "level": 1
+    },
+    {
+     "text": "Swimming and skiing",
+     "level": 2
+    },
+    {
+     "text": "Lab safety",
+     "level": 2
+    },
+    {
+     "text": "Strap around head",
+     "level": 3
+    },
+    {
+     "text": "Sealed lenses",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sunglasses",
+    "Mask",
+    "Visor"
+   ]
+  },
+  {
+   "word": "Watch",
+   "hints": [
+    {
+     "text": "Wrist accessory",
+     "level": 1
+    },
+    {
+     "text": "Timepiece",
+     "level": 1
+    },
+    {
+     "text": "Checks the time",
+     "level": 2
+    },
+    {
+     "text": "Gift for graduates",
+     "level": 2
+    },
+    {
+     "text": "Strap and face",
+     "level": 3
+    },
+    {
+     "text": "Ticking hands",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bracelet",
+    "Clock",
+    "Ring"
+   ]
+  },
+  {
+   "word": "Necklace",
+   "hints": [
+    {
+     "text": "Jewelry",
+     "level": 1
+    },
+    {
+     "text": "Throat accessory",
+     "level": 1
+    },
+    {
+     "text": "Gift on birthdays",
+     "level": 2
+    },
+    {
+     "text": "Pendants",
+     "level": 2
+    },
+    {
+     "text": "Delicate chain",
+     "level": 3
+    },
+    {
+     "text": "Clasp at back",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bracelet",
+    "Choker",
+    "Earrings"
+   ]
+  },
+  {
+   "word": "Bracelet",
+   "hints": [
+    {
+     "text": "Jewelry",
+     "level": 1
+    },
+    {
+     "text": "Wrist accessory",
+     "level": 1
+    },
+    {
+     "text": "Friendship gifts",
+     "level": 2
+    },
+    {
+     "text": "Charm collection",
+     "level": 2
+    },
+    {
+     "text": "Loop on wrist",
+     "level": 3
+    },
+    {
+     "text": "Beads or chain",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Necklace",
+    "Watch",
+    "Anklet"
+   ]
+  },
+  {
+   "word": "Earrings",
+   "hints": [
+    {
+     "text": "Jewelry",
+     "level": 1
+    },
+    {
+     "text": "Ear accessory",
+     "level": 1
+    },
+    {
+     "text": "Pierced ears",
+     "level": 2
+    },
+    {
+     "text": "Matching pair",
+     "level": 2
+    },
+    {
+     "text": "Studs or hoops",
+     "level": 3
+    },
+    {
+     "text": "Dangling",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Necklace",
+    "Nose ring",
+    "Bracelet"
+   ]
+  },
+  {
+   "word": "Ring",
+   "hints": [
+    {
+     "text": "Jewelry",
+     "level": 1
+    },
+    {
+     "text": "Finger accessory",
+     "level": 1
+    },
+    {
+     "text": "Engagement proposals",
+     "level": 2
+    },
+    {
+     "text": "Wedding vows",
+     "level": 2
+    },
+    {
+     "text": "Circle band",
+     "level": 3
+    },
+    {
+     "text": "Gemstone setting",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bracelet",
+    "Anklet",
+    "Watch"
+   ]
+  },
+  {
+   "word": "Crown",
+   "hints": [
+    {
+     "text": "Royal headwear",
+     "level": 1
+    },
+    {
+     "text": "Jewelled accessory",
+     "level": 1
+    },
+    {
+     "text": "Kings and queens",
+     "level": 2
+    },
+    {
+     "text": "Coronations",
+     "level": 2
+    },
+    {
+     "text": "Golden points",
+     "level": 3
+    },
+    {
+     "text": "Precious stones",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tiara",
+    "Helmet",
+    "Hat"
+   ]
+  },
+  {
+   "word": "Tiara",
+   "hints": [
+    {
+     "text": "Jewelled headwear",
+     "level": 1
+    },
+    {
+     "text": "Princess accessory",
+     "level": 1
+    },
+    {
+     "text": "Beauty pageants",
+     "level": 2
+    },
+    {
+     "text": "Brides",
+     "level": 2
+    },
+    {
+     "text": "Sparkly band",
+     "level": 3
+    },
+    {
+     "text": "Small arch",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Crown",
+    "Headband",
+    "Hairclip"
+   ]
+  },
+  {
+   "word": "Headband",
+   "hints": [
+    {
+     "text": "Hair accessory",
+     "level": 1
+    },
+    {
+     "text": "Sports accessory",
+     "level": 1
+    },
+    {
+     "text": "Keeps hair back",
+     "level": 2
+    },
+    {
+     "text": "Workout sweat",
+     "level": 2
+    },
+    {
+     "text": "Elastic loop",
+     "level": 3
+    },
+    {
+     "text": "Over forehead",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hairclip",
+    "Scarf",
+    "Bandana"
+   ]
+  },
+  {
+   "word": "Bandana",
+   "hints": [
+    {
+     "text": "Head scarf",
+     "level": 1
+    },
+    {
+     "text": "Cotton square",
+     "level": 1
+    },
+    {
+     "text": "Cowboys and bikers",
+     "level": 2
+    },
+    {
+     "text": "Tied around neck",
+     "level": 2
+    },
+    {
+     "text": "Paisley pattern",
+     "level": 3
+    },
+    {
+     "text": "Folded triangle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Scarf",
+    "Headband",
+    "Handkerchief"
+   ]
+  },
+  {
+   "word": "Handkerchief",
+   "hints": [
+    {
+     "text": "Pocket cloth",
+     "level": 1
+    },
+    {
+     "text": "Small square",
+     "level": 1
+    },
+    {
+     "text": "Wipe your nose",
+     "level": 2
+    },
+    {
+     "text": "Breast pocket",
+     "level": 2
+    },
+    {
+     "text": "Folded square",
+     "level": 3
+    },
+    {
+     "text": "Embroidered corner",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Napkin",
+    "Tissue",
+    "Bandana"
+   ]
+  },
+  {
+   "word": "Wallet",
+   "hints": [
+    {
+     "text": "Pocket accessory",
+     "level": 1
+    },
+    {
+     "text": "Money holder",
+     "level": 1
+    },
+    {
+     "text": "Cards and cash",
+     "level": 2
+    },
+    {
+     "text": "Back pocket",
+     "level": 2
+    },
+    {
+     "text": "Folding leather",
+     "level": 3
+    },
+    {
+     "text": "Card slots",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Purse",
+    "Bag",
+    "Pouch"
+   ]
+  },
+  {
+   "word": "Handbag",
+   "hints": [
+    {
+     "text": "Fashion accessory",
+     "level": 1
+    },
+    {
+     "text": "Carry bag",
+     "level": 1
+    },
+    {
+     "text": "Holds essentials",
+     "level": 2
+    },
+    {
+     "text": "Designer labels",
+     "level": 2
+    },
+    {
+     "text": "Shoulder strap",
+     "level": 3
+    },
+    {
+     "text": "Zip closure",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Backpack",
+    "Wallet",
+    "Tote"
+   ]
+  },
+  {
+   "word": "Backpack",
+   "hints": [
+    {
+     "text": "Bag",
+     "level": 1
+    },
+    {
+     "text": "Carry sack",
+     "level": 1
+    },
+    {
+     "text": "School and hiking",
+     "level": 2
+    },
+    {
+     "text": "Worn behind",
+     "level": 2
+    },
+    {
+     "text": "Two straps",
+     "level": 3
+    },
+    {
+     "text": "Many pockets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Handbag",
+    "Suitcase",
+    "Satchel"
+   ]
+  },
+  {
+   "word": "Earmuffs",
+   "hints": [
+    {
+     "text": "Winter accessory",
+     "level": 1
+    },
+    {
+     "text": "Ear warmers",
+     "level": 1
+    },
+    {
+     "text": "Snowy days",
+     "level": 2
+    },
+    {
+     "text": "Ice skating",
+     "level": 2
+    },
+    {
+     "text": "Fluffy pads",
+     "level": 3
+    },
+    {
+     "text": "Headband",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Beanie",
+    "Headphones",
+    "Scarf"
+   ]
+  },
+  {
+   "word": "Leotard",
+   "hints": [
+    {
+     "text": "Dancewear",
+     "level": 1
+    },
+    {
+     "text": "Gym wear",
+     "level": 1
+    },
+    {
+     "text": "Ballet and gymnastics",
+     "level": 2
+    },
+    {
+     "text": "Stretchy fit",
+     "level": 2
+    },
+    {
+     "text": "Tight one piece",
+     "level": 3
+    },
+    {
+     "text": "No legs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Swimsuit",
+    "Tights",
+    "Unitard"
+   ]
+  },
+  {
+   "word": "Tutu",
+   "hints": [
+    {
+     "text": "Ballet costume",
+     "level": 1
+    },
+    {
+     "text": "Dancewear",
+     "level": 1
+    },
+    {
+     "text": "Ballerinas",
+     "level": 2
+    },
+    {
+     "text": "Little girls dress up",
+     "level": 2
+    },
+    {
+     "text": "Stiff netting skirt",
+     "level": 3
+    },
+    {
+     "text": "Frilly layers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Skirt",
+    "Leotard",
+    "Gown"
+   ]
+  },
+  {
+   "word": "Gown",
+   "hints": [
+    {
+     "text": "Formal dress",
+     "level": 1
+    },
+    {
+     "text": "Evening wear",
+     "level": 1
+    },
+    {
+     "text": "Red carpets",
+     "level": 2
+    },
+    {
+     "text": "Balls and proms",
+     "level": 2
+    },
+    {
+     "text": "Floor length",
+     "level": 3
+    },
+    {
+     "text": "Flowing fabric",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dress",
+    "Robe",
+    "Tuxedo"
+   ]
+  },
+  {
+   "word": "Wedding dress",
+   "hints": [
+    {
+     "text": "Bridal wear",
+     "level": 1
+    },
+    {
+     "text": "Special gown",
+     "level": 1
+    },
+    {
+     "text": "Walk down aisle",
+     "level": 2
+    },
+    {
+     "text": "Kept for years",
+     "level": 2
+    },
+    {
+     "text": "White lace",
+     "level": 3
+    },
+    {
+     "text": "Long train",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gown",
+    "Veil",
+    "Lehenga"
+   ]
+  },
+  {
+   "word": "Veil",
+   "hints": [
+    {
+     "text": "Bridal accessory",
+     "level": 1
+    },
+    {
+     "text": "Head covering",
+     "level": 1
+    },
+    {
+     "text": "Lifted at altar",
+     "level": 2
+    },
+    {
+     "text": "Wedding tradition",
+     "level": 2
+    },
+    {
+     "text": "Sheer fabric",
+     "level": 3
+    },
+    {
+     "text": "Over face",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tiara",
+    "Scarf",
+    "Hood"
+   ]
+  },
+  {
+   "word": "Corset",
+   "hints": [
+    {
+     "text": "Historical garment",
+     "level": 1
+    },
+    {
+     "text": "Fitted bodice",
+     "level": 1
+    },
+    {
+     "text": "Victorian fashion",
+     "level": 2
+    },
+    {
+     "text": "Tight lacing",
+     "level": 2
+    },
+    {
+     "text": "Boned panels",
+     "level": 3
+    },
+    {
+     "text": "Laced back",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Vest",
+    "Belt",
+    "Bodice"
+   ]
+  },
+  {
+   "word": "Waistcoat",
+   "hints": [
+    {
+     "text": "Smart layer",
+     "level": 1
+    },
+    {
+     "text": "Suit piece",
+     "level": 1
+    },
+    {
+     "text": "Three piece suits",
+     "level": 2
+    },
+    {
+     "text": "Wedding wear",
+     "level": 2
+    },
+    {
+     "text": "Sleeveless",
+     "level": 3
+    },
+    {
+     "text": "Buttons down front",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Vest",
+    "Blazer",
+    "Cardigan"
+   ]
+  },
+  {
+   "word": "Turtleneck",
+   "hints": [
+    {
+     "text": "Knitwear",
+     "level": 1
+    },
+    {
+     "text": "Warm top",
+     "level": 1
+    },
+    {
+     "text": "Intellectual look",
+     "level": 2
+    },
+    {
+     "text": "Winter layering",
+     "level": 2
+    },
+    {
+     "text": "Folded high collar",
+     "level": 3
+    },
+    {
+     "text": "Covers throat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sweater",
+    "Hoodie",
+    "Scarf"
+   ]
+  },
+  {
+   "word": "Parka",
+   "hints": [
+    {
+     "text": "Winter coat",
+     "level": 1
+    },
+    {
+     "text": "Outerwear",
+     "level": 1
+    },
+    {
+     "text": "Arctic weather",
+     "level": 2
+    },
+    {
+     "text": "Very warm",
+     "level": 2
+    },
+    {
+     "text": "Fur trimmed hood",
+     "level": 3
+    },
+    {
+     "text": "Padded",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Coat",
+    "Anorak",
+    "Poncho"
+   ]
+  },
+  {
+   "word": "Puffer jacket",
+   "hints": [
+    {
+     "text": "Winter layer",
+     "level": 1
+    },
+    {
+     "text": "Padded wear",
+     "level": 1
+    },
+    {
+     "text": "Very warm",
+     "level": 2
+    },
+    {
+     "text": "Puffy look",
+     "level": 2
+    },
+    {
+     "text": "Quilted sections",
+     "level": 3
+    },
+    {
+     "text": "Down filling",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Parka",
+    "Coat",
+    "Fleece"
+   ]
+  },
+  {
+   "word": "Fleece",
+   "hints": [
+    {
+     "text": "Warm layer",
+     "level": 1
+    },
+    {
+     "text": "Outdoor wear",
+     "level": 1
+    },
+    {
+     "text": "Camping trips",
+     "level": 2
+    },
+    {
+     "text": "Soft and cozy",
+     "level": 2
+    },
+    {
+     "text": "Synthetic fluff",
+     "level": 3
+    },
+    {
+     "text": "Zip up",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sweater",
+    "Hoodie",
+    "Cardigan"
+   ]
+  },
+  {
+   "word": "Tracksuit",
+   "hints": [
+    {
+     "text": "Sportswear",
+     "level": 1
+    },
+    {
+     "text": "Matching set",
+     "level": 1
+    },
+    {
+     "text": "Gym class",
+     "level": 2
+    },
+    {
+     "text": "Lazy weekends",
+     "level": 2
+    },
+    {
+     "text": "Zip jacket and joggers",
+     "level": 3
+    },
+    {
+     "text": "Stripes down side",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pajamas",
+    "Jumpsuit",
+    "Hoodie"
+   ]
+  },
+  {
+   "word": "Joggers",
+   "hints": [
+    {
+     "text": "Casual pants",
+     "level": 1
+    },
+    {
+     "text": "Sportswear",
+     "level": 1
+    },
+    {
+     "text": "Lounge and run",
+     "level": 2
+    },
+    {
+     "text": "Comfy wear",
+     "level": 2
+    },
+    {
+     "text": "Elastic cuffs",
+     "level": 3
+    },
+    {
+     "text": "Drawstring waist",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Leggings",
+    "Jeans",
+    "Shorts"
+   ]
+  },
+  {
+   "word": "Cargo pants",
+   "hints": [
+    {
+     "text": "Utility trousers",
+     "level": 1
+    },
+    {
+     "text": "Casual wear",
+     "level": 1
+    },
+    {
+     "text": "Hiking and travel",
+     "level": 2
+    },
+    {
+     "text": "Lots of storage",
+     "level": 2
+    },
+    {
+     "text": "Side pockets",
+     "level": 3
+    },
+    {
+     "text": "Baggy fit",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jeans",
+    "Joggers",
+    "Overalls"
+   ]
+  },
+  {
+   "word": "Loafers",
+   "hints": [
+    {
+     "text": "Smart shoes",
+     "level": 1
+    },
+    {
+     "text": "Slip ons",
+     "level": 1
+    },
+    {
+     "text": "Preppy style",
+     "level": 2
+    },
+    {
+     "text": "No laces",
+     "level": 2
+    },
+    {
+     "text": "Leather",
+     "level": 3
+    },
+    {
+     "text": "Tassels or penny slot",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sneakers",
+    "Oxfords",
+    "Moccasins"
+   ]
+  },
+  {
+   "word": "Wellies",
+   "hints": [
+    {
+     "text": "Rain boots",
+     "level": 1
+    },
+    {
+     "text": "Rubber footwear",
+     "level": 1
+    },
+    {
+     "text": "Muddy fields",
+     "level": 2
+    },
+    {
+     "text": "Puddle jumping",
+     "level": 2
+    },
+    {
+     "text": "Knee high",
+     "level": 3
+    },
+    {
+     "text": "Waterproof rubber",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Boots",
+    "Sneakers",
+    "Galoshes"
+   ]
+  },
+  {
+   "word": "Clogs",
+   "hints": [
+    {
+     "text": "Wooden shoes",
+     "level": 1
+    },
+    {
+     "text": "Dutch footwear",
+     "level": 1
+    },
+    {
+     "text": "Nurses wear them",
+     "level": 2
+    },
+    {
+     "text": "Tulip fields",
+     "level": 2
+    },
+    {
+     "text": "Carved wood",
+     "level": 3
+    },
+    {
+     "text": "Chunky sole",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sandals",
+    "Slippers",
+    "Loafers"
+   ]
+  },
+  {
+   "word": "Moccasins",
+   "hints": [
+    {
+     "text": "Soft shoes",
+     "level": 1
+    },
+    {
+     "text": "Leather footwear",
+     "level": 1
+    },
+    {
+     "text": "Native origins",
+     "level": 2
+    },
+    {
+     "text": "Indoor comfort",
+     "level": 2
+    },
+    {
+     "text": "Stitched toe",
+     "level": 3
+    },
+    {
+     "text": "Suede",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Slippers",
+    "Loafers",
+    "Sandals"
+   ]
+  },
+  {
+   "word": "Espadrilles",
+   "hints": [
+    {
+     "text": "Summer shoes",
+     "level": 1
+    },
+    {
+     "text": "Canvas footwear",
+     "level": 1
+    },
+    {
+     "text": "Beach towns",
+     "level": 2
+    },
+    {
+     "text": "Breezy",
+     "level": 2
+    },
+    {
+     "text": "Rope soles",
+     "level": 3
+    },
+    {
+     "text": "Canvas top",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sandals",
+    "Loafers",
+    "Sneakers"
+   ]
+  },
+  {
+   "word": "Ballet flats",
+   "hints": [
+    {
+     "text": "Low shoes",
+     "level": 1
+    },
+    {
+     "text": "Feminine footwear",
+     "level": 1
+    },
+    {
+     "text": "Office comfort",
+     "level": 2
+    },
+    {
+     "text": "Easy wear",
+     "level": 2
+    },
+    {
+     "text": "Rounded toe",
+     "level": 3
+    },
+    {
+     "text": "Thin sole",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Loafers",
+    "Heels",
+    "Sandals"
+   ]
+  },
+  {
+   "word": "Stockings",
+   "hints": [
+    {
+     "text": "Legwear",
+     "level": 1
+    },
+    {
+     "text": "Hosiery",
+     "level": 1
+    },
+    {
+     "text": "Christmas hanging",
+     "level": 2
+    },
+    {
+     "text": "Vintage fashion",
+     "level": 2
+    },
+    {
+     "text": "Thigh high",
+     "level": 3
+    },
+    {
+     "text": "Sheer nylon",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tights",
+    "Socks",
+    "Leggings"
+   ]
+  },
+  {
+   "word": "Hairclip",
+   "hints": [
+    {
+     "text": "Styling accessory",
+     "level": 1
+    },
+    {
+     "text": "Small clasp",
+     "level": 1
+    },
+    {
+     "text": "Holds locks back",
+     "level": 2
+    },
+    {
+     "text": "Kids love them",
+     "level": 2
+    },
+    {
+     "text": "Spring clasp",
+     "level": 3
+    },
+    {
+     "text": "Decorative",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Headband",
+    "Hairpin",
+    "Bobby pin"
+   ]
+  },
+  {
+   "word": "Brooch",
+   "hints": [
+    {
+     "text": "Jewelry",
+     "level": 1
+    },
+    {
+     "text": "Pin accessory",
+     "level": 1
+    },
+    {
+     "text": "Grandma style",
+     "level": 2
+    },
+    {
+     "text": "On lapels",
+     "level": 2
+    },
+    {
+     "text": "Decorative pin",
+     "level": 3
+    },
+    {
+     "text": "Clasp at back",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Badge",
+    "Pendant",
+    "Button"
+   ]
+  },
+  {
+   "word": "Cufflinks",
+   "hints": [
+    {
+     "text": "Shirt accessory",
+     "level": 1
+    },
+    {
+     "text": "Formal jewelry",
+     "level": 1
+    },
+    {
+     "text": "Fancy shirts",
+     "level": 2
+    },
+    {
+     "text": "Wedding gifts",
+     "level": 2
+    },
+    {
+     "text": "Pair of fasteners",
+     "level": 3
+    },
+    {
+     "text": "Through sleeve holes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Buttons",
+    "Tie clip",
+    "Studs"
+   ]
+  },
+  {
+   "word": "Lanyard",
+   "hints": [
+    {
+     "text": "Neck strap",
+     "level": 1
+    },
+    {
+     "text": "Badge holder",
+     "level": 1
+    },
+    {
+     "text": "Conferences",
+     "level": 2
+    },
+    {
+     "text": "Office passes",
+     "level": 2
+    },
+    {
+     "text": "Ribbon loop",
+     "level": 3
+    },
+    {
+     "text": "Clip at end",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Keyring",
+    "Necklace",
+    "Strap"
+   ]
+  },
+  {
+   "word": "Tie clip",
+   "hints": [
+    {
+     "text": "Formal accessory",
+     "level": 1
+    },
+    {
+     "text": "Small clasp",
+     "level": 1
+    },
+    {
+     "text": "Keeps neckwear flat",
+     "level": 2
+    },
+    {
+     "text": "Office smart",
+     "level": 2
+    },
+    {
+     "text": "Metal bar",
+     "level": 3
+    },
+    {
+     "text": "Slides on",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cufflinks",
+    "Brooch",
+    "Pin"
+   ]
+  },
+  {
+   "word": "Romper",
+   "hints": [
+    {
+     "text": "One piece outfit",
+     "level": 1
+    },
+    {
+     "text": "Summer wear",
+     "level": 1
+    },
+    {
+     "text": "Toddlers and adults",
+     "level": 2
+    },
+    {
+     "text": "Playful style",
+     "level": 2
+    },
+    {
+     "text": "Shorts and top joined",
+     "level": 3
+    },
+    {
+     "text": "Buttons",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jumpsuit",
+    "Dress",
+    "Overalls"
+   ]
+  },
+  {
+   "word": "Sarong",
+   "hints": [
+    {
+     "text": "Wrap garment",
+     "level": 1
+    },
+    {
+     "text": "Beachwear",
+     "level": 1
+    },
+    {
+     "text": "Tropical holidays",
+     "level": 2
+    },
+    {
+     "text": "Tied at waist",
+     "level": 2
+    },
+    {
+     "text": "Colorful cloth",
+     "level": 3
+    },
+    {
+     "text": "Knotted side",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kilt",
+    "Skirt",
+    "Lungi"
+   ]
+  },
+  {
+   "word": "Hanbok",
+   "hints": [
+    {
+     "text": "Korean garment",
+     "level": 1
+    },
+    {
+     "text": "Traditional dress",
+     "level": 1
+    },
+    {
+     "text": "Festivals and weddings",
+     "level": 2
+    },
+    {
+     "text": "Bright colors",
+     "level": 2
+    },
+    {
+     "text": "High waist skirt",
+     "level": 3
+    },
+    {
+     "text": "Short jacket",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kimono",
+    "Sari",
+    "Qipao"
+   ]
+  },
+  {
+   "word": "Qipao",
+   "hints": [
+    {
+     "text": "Chinese dress",
+     "level": 1
+    },
+    {
+     "text": "Traditional gown",
+     "level": 1
+    },
+    {
+     "text": "Lunar festivities",
+     "level": 2
+    },
+    {
+     "text": "Elegant fit",
+     "level": 2
+    },
+    {
+     "text": "High collar",
+     "level": 3
+    },
+    {
+     "text": "Side slits",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kimono",
+    "Hanbok",
+    "Sari"
+   ]
+  },
+  {
+   "word": "Sombrero",
+   "hints": [
+    {
+     "text": "Mexican hat",
+     "level": 1
+    },
+    {
+     "text": "Wide hat",
+     "level": 1
+    },
+    {
+     "text": "Mariachi bands",
+     "level": 2
+    },
+    {
+     "text": "Sun protection",
+     "level": 2
+    },
+    {
+     "text": "Huge brim",
+     "level": 3
+    },
+    {
+     "text": "Pointed crown",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cowboy hat",
+    "Fedora",
+    "Beret"
+   ]
+  },
+  {
+   "word": "Fedora",
+   "hints": [
+    {
+     "text": "Classic hat",
+     "level": 1
+    },
+    {
+     "text": "Felt hat",
+     "level": 1
+    },
+    {
+     "text": "Detective style",
+     "level": 2
+    },
+    {
+     "text": "Jazz age",
+     "level": 2
+    },
+    {
+     "text": "Pinched crown",
+     "level": 3
+    },
+    {
+     "text": "Ribbon band",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Trilby",
+    "Beret",
+    "Bowler"
+   ]
+  },
+  {
+   "word": "Top hat",
+   "hints": [
+    {
+     "text": "Formal headwear",
+     "level": 1
+    },
+    {
+     "text": "Tall headwear",
+     "level": 1
+    },
+    {
+     "text": "Magicians and gentlemen",
+     "level": 2
+    },
+    {
+     "text": "Victorian style",
+     "level": 2
+    },
+    {
+     "text": "Tall cylinder",
+     "level": 3
+    },
+    {
+     "text": "Silk finish",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bowler",
+    "Fedora",
+    "Crown"
+   ]
+  },
+  {
+   "word": "Bowler",
+   "hints": [
+    {
+     "text": "Rounded hat",
+     "level": 1
+    },
+    {
+     "text": "Classic hat",
+     "level": 1
+    },
+    {
+     "text": "City gentlemen",
+     "level": 2
+    },
+    {
+     "text": "Comedy icons",
+     "level": 2
+    },
+    {
+     "text": "Hard dome",
+     "level": 3
+    },
+    {
+     "text": "Short brim",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fedora",
+    "Trilby",
+    "Beret"
+   ]
+  },
+  {
+   "word": "Cowboy hat",
+   "hints": [
+    {
+     "text": "Western headwear",
+     "level": 1
+    },
+    {
+     "text": "Wide headwear",
+     "level": 1
+    },
+    {
+     "text": "Ranchers",
+     "level": 2
+    },
+    {
+     "text": "Rodeos",
+     "level": 2
+    },
+    {
+     "text": "Wide curled brim",
+     "level": 3
+    },
+    {
+     "text": "Felt crown",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sombrero",
+    "Fedora",
+    "Helmet"
+   ]
+  },
+  {
+   "word": "Visor",
+   "hints": [
+    {
+     "text": "Sun shield",
+     "level": 1
+    },
+    {
+     "text": "Sport headwear",
+     "level": 1
+    },
+    {
+     "text": "Tennis and golf",
+     "level": 2
+    },
+    {
+     "text": "Open top",
+     "level": 2
+    },
+    {
+     "text": "Curved peak",
+     "level": 3
+    },
+    {
+     "text": "Headband style",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cap",
+    "Sunglasses",
+    "Helmet"
+   ]
+  },
+  {
+   "word": "Balaclava",
+   "hints": [
+    {
+     "text": "Winter headwear",
+     "level": 1
+    },
+    {
+     "text": "Face cover",
+     "level": 1
+    },
+    {
+     "text": "Skiing",
+     "level": 2
+    },
+    {
+     "text": "Very cold days",
+     "level": 2
+    },
+    {
+     "text": "Covers whole head",
+     "level": 3
+    },
+    {
+     "text": "Eye holes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Beanie",
+    "Scarf",
+    "Mask"
+   ]
+  },
+  {
+   "word": "Mask",
+   "hints": [
+    {
+     "text": "Face covering",
+     "level": 1
+    },
+    {
+     "text": "Accessory",
+     "level": 1
+    },
+    {
+     "text": "Costume parties",
+     "level": 2
+    },
+    {
+     "text": "Health protection",
+     "level": 2
+    },
+    {
+     "text": "Covers face",
+     "level": 3
+    },
+    {
+     "text": "Elastic loops",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Veil",
+    "Scarf",
+    "Visor"
+   ]
+  },
+  {
+   "word": "Costume",
+   "hints": [
+    {
+     "text": "Dress up outfit",
+     "level": 1
+    },
+    {
+     "text": "Fancy dress",
+     "level": 1
+    },
+    {
+     "text": "Halloween",
+     "level": 2
+    },
+    {
+     "text": "School plays",
+     "level": 2
+    },
+    {
+     "text": "Character outfit",
+     "level": 3
+    },
+    {
+     "text": "Props and wigs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Uniform",
+    "Mask",
+    "Disguise"
+   ]
+  },
+  {
+   "word": "Wig",
+   "hints": [
+    {
+     "text": "Fake hair",
+     "level": 1
+    },
+    {
+     "text": "Costume piece",
+     "level": 1
+    },
+    {
+     "text": "Theater and parties",
+     "level": 2
+    },
+    {
+     "text": "Hair loss",
+     "level": 2
+    },
+    {
+     "text": "Mesh cap",
+     "level": 3
+    },
+    {
+     "text": "Synthetic strands",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hat",
+    "Hairpiece",
+    "Toupee"
+   ]
+  },
+  {
+   "word": "Snow boots",
+   "hints": [
+    {
+     "text": "Winter footwear",
+     "level": 1
+    },
+    {
+     "text": "Insulated footwear",
+     "level": 1
+    },
+    {
+     "text": "Mountain hikes",
+     "level": 2
+    },
+    {
+     "text": "Ski lodges",
+     "level": 2
+    },
+    {
+     "text": "Fur lining",
+     "level": 3
+    },
+    {
+     "text": "Thick treads",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wellies",
+    "Sneakers",
+    "Slippers"
+   ]
+  },
+  {
+   "word": "Nightgown",
+   "hints": [
+    {
+     "text": "Sleepwear",
+     "level": 1
+    },
+    {
+     "text": "Long nightie",
+     "level": 1
+    },
+    {
+     "text": "Victorian bedtime",
+     "level": 2
+    },
+    {
+     "text": "Flowing comfort",
+     "level": 2
+    },
+    {
+     "text": "Loose dress",
+     "level": 3
+    },
+    {
+     "text": "Cotton or silk",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pajamas",
+    "Robe",
+    "Slip"
+   ]
+  },
+  {
+   "word": "Underwear",
+   "hints": [
+    {
+     "text": "Inner garment",
+     "level": 1
+    },
+    {
+     "text": "Basic clothing",
+     "level": 1
+    },
+    {
+     "text": "Changed daily",
+     "level": 2
+    },
+    {
+     "text": "Drawer staple",
+     "level": 2
+    },
+    {
+     "text": "Elastic waistband",
+     "level": 3
+    },
+    {
+     "text": "Cotton",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Socks",
+    "Vest",
+    "Shorts"
+   ]
+  },
+  {
+   "word": "Bathrobe",
+   "hints": [
+    {
+     "text": "Loungewear",
+     "level": 1
+    },
+    {
+     "text": "After shower wear",
+     "level": 1
+    },
+    {
+     "text": "Spa days",
+     "level": 2
+    },
+    {
+     "text": "Sunday mornings",
+     "level": 2
+    },
+    {
+     "text": "Towelling fabric",
+     "level": 3
+    },
+    {
+     "text": "Tie belt",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pajamas",
+    "Towel",
+    "Kimono"
+   ]
+  },
+  {
+   "word": "Dungarees",
+   "hints": [
+    {
+     "text": "Work wear",
+     "level": 1
+    },
+    {
+     "text": "Bib trousers",
+     "level": 1
+    },
+    {
+     "text": "Kids and painters",
+     "level": 2
+    },
+    {
+     "text": "Denim style",
+     "level": 2
+    },
+    {
+     "text": "Shoulder straps",
+     "level": 3
+    },
+    {
+     "text": "Front bib",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jumpsuit",
+    "Jeans",
+    "Romper"
+   ]
+  },
+  {
+   "word": "Anorak",
+   "hints": [
+    {
+     "text": "Outerwear",
+     "level": 1
+    },
+    {
+     "text": "Weatherproof jacket",
+     "level": 1
+    },
+    {
+     "text": "Hiking trips",
+     "level": 2
+    },
+    {
+     "text": "Windy days",
+     "level": 2
+    },
+    {
+     "text": "Pull over hood",
+     "level": 3
+    },
+    {
+     "text": "Drawstring hem",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Parka",
+    "Raincoat",
+    "Fleece"
+   ]
+  },
+  {
+   "word": "Peacoat",
+   "hints": [
+    {
+     "text": "Winter outerwear",
+     "level": 1
+    },
+    {
+     "text": "Naval style",
+     "level": 1
+    },
+    {
+     "text": "Sailor origins",
+     "level": 2
+    },
+    {
+     "text": "Classic look",
+     "level": 2
+    },
+    {
+     "text": "Double breasted",
+     "level": 3
+    },
+    {
+     "text": "Wool",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Trench coat",
+    "Parka",
+    "Blazer"
+   ]
+  },
+  {
+   "word": "Trench coat",
+   "hints": [
+    {
+     "text": "Outerwear",
+     "level": 1
+    },
+    {
+     "text": "Belted outerwear",
+     "level": 1
+    },
+    {
+     "text": "Detective look",
+     "level": 2
+    },
+    {
+     "text": "Rainy cities",
+     "level": 2
+    },
+    {
+     "text": "Belted waist",
+     "level": 3
+    },
+    {
+     "text": "Epaulettes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Peacoat",
+    "Raincoat",
+    "Parka"
+   ]
+  },
+  {
+   "word": "Sports bra",
+   "hints": [
+    {
+     "text": "Activewear",
+     "level": 1
+    },
+    {
+     "text": "Support top",
+     "level": 1
+    },
+    {
+     "text": "Workouts",
+     "level": 2
+    },
+    {
+     "text": "Running",
+     "level": 2
+    },
+    {
+     "text": "Stretchy band",
+     "level": 3
+    },
+    {
+     "text": "Racerback",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tank top",
+    "Crop top",
+    "Bikini"
+   ]
+  },
+  {
+   "word": "Crop top",
+   "hints": [
+    {
+     "text": "Short shirt",
+     "level": 1
+    },
+    {
+     "text": "Trendy wear",
+     "level": 1
+    },
+    {
+     "text": "Summer fashion",
+     "level": 2
+    },
+    {
+     "text": "Shows midriff",
+     "level": 2
+    },
+    {
+     "text": "Short hem",
+     "level": 3
+    },
+    {
+     "text": "Fitted",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tank top",
+    "T-shirt",
+    "Bikini"
+   ]
+  },
+  {
+   "word": "Tunic",
+   "hints": [
+    {
+     "text": "Long top",
+     "level": 1
+    },
+    {
+     "text": "Loose garment",
+     "level": 1
+    },
+    {
+     "text": "Ancient romans",
+     "level": 2
+    },
+    {
+     "text": "Over leggings",
+     "level": 2
+    },
+    {
+     "text": "Hip length",
+     "level": 3
+    },
+    {
+     "text": "Simple cut",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kurta",
+    "Blouse",
+    "Dress"
+   ]
+  },
+  {
+   "word": "Sash",
+   "hints": [
+    {
+     "text": "Waist band",
+     "level": 1
+    },
+    {
+     "text": "Ceremonial strip",
+     "level": 1
+    },
+    {
+     "text": "Beauty pageants",
+     "level": 2
+    },
+    {
+     "text": "Martial arts",
+     "level": 2
+    },
+    {
+     "text": "Diagonal ribbon",
+     "level": 3
+    },
+    {
+     "text": "Tied bow",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Belt",
+    "Scarf",
+    "Ribbon"
+   ]
+  },
+  {
+   "word": "Hood",
+   "hints": [
+    {
+     "text": "Head cover",
+     "level": 1
+    },
+    {
+     "text": "Garment part",
+     "level": 1
+    },
+    {
+     "text": "Rainy walks",
+     "level": 2
+    },
+    {
+     "text": "Mystery look",
+     "level": 2
+    },
+    {
+     "text": "Attached to coat",
+     "level": 3
+    },
+    {
+     "text": "Drawstrings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hat",
+    "Cap",
+    "Scarf"
+   ]
+  },
+  {
+   "word": "Collar",
+   "hints": [
+    {
+     "text": "Garment part",
+     "level": 1
+    },
+    {
+     "text": "Neck edge",
+     "level": 1
+    },
+    {
+     "text": "Popped style",
+     "level": 2
+    },
+    {
+     "text": "Shirt feature",
+     "level": 2
+    },
+    {
+     "text": "Folded fabric",
+     "level": 3
+    },
+    {
+     "text": "Around neck",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cuff",
+    "Sleeve",
+    "Lapel"
+   ]
+  },
+  {
+   "word": "Pocket",
+   "hints": [
+    {
+     "text": "Garment part",
+     "level": 1
+    },
+    {
+     "text": "Small pouch",
+     "level": 1
+    },
+    {
+     "text": "Holds keys",
+     "level": 2
+    },
+    {
+     "text": "Hands inside",
+     "level": 2
+    },
+    {
+     "text": "Sewn pouch",
+     "level": 3
+    },
+    {
+     "text": "Jeans or jackets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Purse",
+    "Pouch",
+    "Wallet"
+   ]
+  },
+  {
+   "word": "Zipper",
+   "hints": [
+    {
+     "text": "Fastener",
+     "level": 1
+    },
+    {
+     "text": "Clothing part",
+     "level": 1
+    },
+    {
+     "text": "Jackets and bags",
+     "level": 2
+    },
+    {
+     "text": "Gets stuck",
+     "level": 2
+    },
+    {
+     "text": "Metal teeth",
+     "level": 3
+    },
+    {
+     "text": "Pull tab",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Button",
+    "Velcro strip",
+    "Snap"
+   ]
+  },
+  {
+   "word": "Button",
+   "hints": [
+    {
+     "text": "Fastener",
+     "level": 1
+    },
+    {
+     "text": "Small disc",
+     "level": 1
+    },
+    {
+     "text": "Shirts and coats",
+     "level": 2
+    },
+    {
+     "text": "Pops off",
+     "level": 2
+    },
+    {
+     "text": "Holes for thread",
+     "level": 3
+    },
+    {
+     "text": "Through slits",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Zipper",
+    "Snap",
+    "Buckle"
+   ]
+  },
+  {
+   "word": "Sweatband",
+   "hints": [
+    {
+     "text": "Sports accessory",
+     "level": 1
+    },
+    {
+     "text": "Wrist or head",
+     "level": 1
+    },
+    {
+     "text": "Tennis players",
+     "level": 2
+    },
+    {
+     "text": "Absorbs moisture",
+     "level": 2
+    },
+    {
+     "text": "Terry cloth loop",
+     "level": 3
+    },
+    {
+     "text": "Elastic",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Headband",
+    "Bracelet",
+    "Bandana"
+   ]
+  },
+  {
+   "word": "Slip",
+   "hints": [
+    {
+     "text": "Inner garment",
+     "level": 1
+    },
+    {
+     "text": "Under dress layer",
+     "level": 1
+    },
+    {
+     "text": "Prevents see through",
+     "level": 2
+    },
+    {
+     "text": "Vintage lingerie",
+     "level": 2
+    },
+    {
+     "text": "Silky fabric",
+     "level": 3
+    },
+    {
+     "text": "Thin straps",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nightgown",
+    "Camisole",
+    "Petticoat"
+   ]
+  },
+  {
+   "word": "Camisole",
+   "hints": [
+    {
+     "text": "Light top",
+     "level": 1
+    },
+    {
+     "text": "Inner layer",
+     "level": 1
+    },
+    {
+     "text": "Under blazers",
+     "level": 2
+    },
+    {
+     "text": "Summer layering",
+     "level": 2
+    },
+    {
+     "text": "Spaghetti straps",
+     "level": 3
+    },
+    {
+     "text": "Silky fabric",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tank top",
+    "Slip",
+    "Crop top"
+   ]
+  },
+  {
+   "word": "Petticoat",
+   "hints": [
+    {
+     "text": "Under skirt",
+     "level": 1
+    },
+    {
+     "text": "Vintage layer",
+     "level": 1
+    },
+    {
+     "text": "Adds volume",
+     "level": 2
+    },
+    {
+     "text": "Victorian fashion",
+     "level": 2
+    },
+    {
+     "text": "Frilly layers",
+     "level": 3
+    },
+    {
+     "text": "Worn beneath",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Slip",
+    "Tutu",
+    "Skirt"
+   ]
+  },
+  {
+   "word": "Mitts",
+   "hints": [
+    {
+     "text": "Hand wear",
+     "level": 1
+    },
+    {
+     "text": "Fingerless gloves",
+     "level": 1
+    },
+    {
+     "text": "Gamers and cyclists",
+     "level": 2
+    },
+    {
+     "text": "Winter typing",
+     "level": 2
+    },
+    {
+     "text": "Open fingertips",
+     "level": 3
+    },
+    {
+     "text": "Knitted wool",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gloves",
+    "Mittens",
+    "Wristbands"
+   ]
+  },
+  {
+   "word": "Anklet",
+   "hints": [
+    {
+     "text": "Jewelry",
+     "level": 1
+    },
+    {
+     "text": "Foot accessory",
+     "level": 1
+    },
+    {
+     "text": "Beach style",
+     "level": 2
+    },
+    {
+     "text": "Jingling bells",
+     "level": 2
+    },
+    {
+     "text": "Chain above foot",
+     "level": 3
+    },
+    {
+     "text": "Delicate loop",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bracelet",
+    "Necklace",
+    "Toe ring"
+   ]
+  },
+  {
+   "word": "Choker",
+   "hints": [
+    {
+     "text": "Jewelry",
+     "level": 1
+    },
+    {
+     "text": "Tight necklace",
+     "level": 1
+    },
+    {
+     "text": "Nineties trend",
+     "level": 2
+    },
+    {
+     "text": "Gothic style",
+     "level": 2
+    },
+    {
+     "text": "Snug band",
+     "level": 3
+    },
+    {
+     "text": "Velvet or lace",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Necklace",
+    "Collar",
+    "Scarf"
+   ]
+  },
+  {
+   "word": "Pendant",
+   "hints": [
+    {
+     "text": "Jewelry",
+     "level": 1
+    },
+    {
+     "text": "Hanging charm",
+     "level": 1
+    },
+    {
+     "text": "Locket photos",
+     "level": 2
+    },
+    {
+     "text": "Gift idea",
+     "level": 2
+    },
+    {
+     "text": "Dangling stone",
+     "level": 3
+    },
+    {
+     "text": "On a chain",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Brooch",
+    "Earring",
+    "Medal"
+   ]
+  },
+  {
+   "word": "Locket",
+   "hints": [
+    {
+     "text": "Jewelry",
+     "level": 1
+    },
+    {
+     "text": "Keepsake",
+     "level": 1
+    },
+    {
+     "text": "Holds a photo",
+     "level": 2
+    },
+    {
+     "text": "Opens on hinge",
+     "level": 2
+    },
+    {
+     "text": "Heart shaped",
+     "level": 3
+    },
+    {
+     "text": "Tiny clasp",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pendant",
+    "Brooch",
+    "Charm"
+   ]
+  },
+  {
+   "word": "Nose ring",
+   "hints": [
+    {
+     "text": "Jewelry",
+     "level": 1
+    },
+    {
+     "text": "Facial piercing",
+     "level": 1
+    },
+    {
+     "text": "Bridal adornment",
+     "level": 2
+    },
+    {
+     "text": "Trendy look",
+     "level": 2
+    },
+    {
+     "text": "Small hoop",
+     "level": 3
+    },
+    {
+     "text": "Stud on side",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Earrings",
+    "Bindi",
+    "Anklet"
+   ]
+  },
+  {
+   "word": "Toe ring",
+   "hints": [
+    {
+     "text": "Jewelry",
+     "level": 1
+    },
+    {
+     "text": "Foot accessory",
+     "level": 1
+    },
+    {
+     "text": "Married women tradition",
+     "level": 2
+    },
+    {
+     "text": "Beach wear",
+     "level": 2
+    },
+    {
+     "text": "Silver band",
+     "level": 3
+    },
+    {
+     "text": "Worn barefoot",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Anklet",
+    "Bangle",
+    "Bracelet"
+   ]
+  },
+  {
+   "word": "Cravat",
+   "hints": [
+    {
+     "text": "Neckwear",
+     "level": 1
+    },
+    {
+     "text": "Dapper accessory",
+     "level": 1
+    },
+    {
+     "text": "Victorian gentlemen",
+     "level": 2
+    },
+    {
+     "text": "Silk knot",
+     "level": 2
+    },
+    {
+     "text": "Folded silk",
+     "level": 3
+    },
+    {
+     "text": "Tucked into shirt",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tie",
+    "Scarf",
+    "Bow tie"
+   ]
+  },
+  {
+   "word": "Wristband",
+   "hints": [
+    {
+     "text": "Sport accessory",
+     "level": 1
+    },
+    {
+     "text": "Festival accessory",
+     "level": 1
+    },
+    {
+     "text": "Festival entry",
+     "level": 2
+    },
+    {
+     "text": "Charity colors",
+     "level": 2
+    },
+    {
+     "text": "Rubber or fabric",
+     "level": 3
+    },
+    {
+     "text": "Snug loop",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bracelet",
+    "Watch",
+    "Headband"
+   ]
+  },
+  {
+   "word": "Boilersuit",
+   "hints": [
+    {
+     "text": "Work wear",
+     "level": 1
+    },
+    {
+     "text": "One piece",
+     "level": 1
+    },
+    {
+     "text": "Mechanics and factory",
+     "level": 2
+    },
+    {
+     "text": "Utilitarian",
+     "level": 2
+    },
+    {
+     "text": "Zip front",
+     "level": 3
+    },
+    {
+     "text": "Long sleeves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jumpsuit",
+    "Overalls",
+    "Tracksuit"
+   ]
+  },
+  {
+   "word": "Knee pads",
+   "hints": [
+    {
+     "text": "Protective gear",
+     "level": 1
+    },
+    {
+     "text": "Sports gear",
+     "level": 1
+    },
+    {
+     "text": "Skating and volleyball",
+     "level": 2
+    },
+    {
+     "text": "Gardening",
+     "level": 2
+    },
+    {
+     "text": "Padded caps",
+     "level": 3
+    },
+    {
+     "text": "Strapped on",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Elbow pads",
+    "Shin guards",
+    "Helmet"
+   ]
+  },
+  {
+   "word": "Shin guards",
+   "hints": [
+    {
+     "text": "Protective gear",
+     "level": 1
+    },
+    {
+     "text": "Football gear",
+     "level": 1
+    },
+    {
+     "text": "Under socks",
+     "level": 2
+    },
+    {
+     "text": "Tackle protection",
+     "level": 2
+    },
+    {
+     "text": "Hard plastic",
+     "level": 3
+    },
+    {
+     "text": "Front of leg",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Knee pads",
+    "Socks",
+    "Boots"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,5276 @@
+{
+ "id": "fruits_vegetables",
+ "name": "Fruits & Vegetables",
+ "words": [
+  {
+   "word": "Apple",
+   "hints": [
+    {
+     "text": "Common fruit",
+     "level": 1
+    },
+    {
+     "text": "Orchard fruit",
+     "level": 1
+    },
+    {
+     "text": "Keeps the doctor away",
+     "level": 2
+    },
+    {
+     "text": "Lunchbox snack",
+     "level": 2
+    },
+    {
+     "text": "Red or green",
+     "level": 3
+    },
+    {
+     "text": "Crunchy bite",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pear",
+    "Peach",
+    "Quince"
+   ]
+  },
+  {
+   "word": "Banana",
+   "hints": [
+    {
+     "text": "Tropical fruit",
+     "level": 1
+    },
+    {
+     "text": "Yellow fruit",
+     "level": 1
+    },
+    {
+     "text": "Monkeys love it",
+     "level": 2
+    },
+    {
+     "text": "Potassium rich",
+     "level": 2
+    },
+    {
+     "text": "Peel it first",
+     "level": 3
+    },
+    {
+     "text": "Curved shape",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Plantain",
+    "Mango",
+    "Papaya"
+   ]
+  },
+  {
+   "word": "Orange",
+   "hints": [
+    {
+     "text": "Citrus fruit",
+     "level": 1
+    },
+    {
+     "text": "Juicy fruit",
+     "level": 1
+    },
+    {
+     "text": "Breakfast juice",
+     "level": 2
+    },
+    {
+     "text": "Full of vitamin c",
+     "level": 2
+    },
+    {
+     "text": "Peel in segments",
+     "level": 3
+    },
+    {
+     "text": "Dimpled skin",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tangerine",
+    "Grapefruit",
+    "Lemon"
+   ]
+  },
+  {
+   "word": "Mango",
+   "hints": [
+    {
+     "text": "Tropical fruit",
+     "level": 1
+    },
+    {
+     "text": "Summer fruit",
+     "level": 1
+    },
+    {
+     "text": "King of fruits",
+     "level": 2
+    },
+    {
+     "text": "Juicy and messy",
+     "level": 2
+    },
+    {
+     "text": "Big flat seed",
+     "level": 3
+    },
+    {
+     "text": "Golden flesh",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Papaya",
+    "Peach",
+    "Apricot"
+   ]
+  },
+  {
+   "word": "Grapes",
+   "hints": [
+    {
+     "text": "Small fruit",
+     "level": 1
+    },
+    {
+     "text": "Vine fruit",
+     "level": 1
+    },
+    {
+     "text": "Grow in bunches",
+     "level": 2
+    },
+    {
+     "text": "Made into raisins",
+     "level": 2
+    },
+    {
+     "text": "Green or purple",
+     "level": 3
+    },
+    {
+     "text": "Pop in mouth",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Berries",
+    "Cherries",
+    "Olives"
+   ]
+  },
+  {
+   "word": "Strawberry",
+   "hints": [
+    {
+     "text": "Red fruit",
+     "level": 1
+    },
+    {
+     "text": "Summer fruit",
+     "level": 1
+    },
+    {
+     "text": "Dipped in chocolate",
+     "level": 2
+    },
+    {
+     "text": "Picked in fields",
+     "level": 2
+    },
+    {
+     "text": "Seeds on outside",
+     "level": 3
+    },
+    {
+     "text": "Heart shaped",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Raspberry",
+    "Cherry",
+    "Blackberry"
+   ]
+  },
+  {
+   "word": "Blueberry",
+   "hints": [
+    {
+     "text": "Small fruit",
+     "level": 1
+    },
+    {
+     "text": "Superfood",
+     "level": 1
+    },
+    {
+     "text": "Baked in muffins",
+     "level": 2
+    },
+    {
+     "text": "Picked in summer",
+     "level": 2
+    },
+    {
+     "text": "Tiny and round",
+     "level": 3
+    },
+    {
+     "text": "Dusty indigo skin",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Blackberry",
+    "Grape",
+    "Cranberry"
+   ]
+  },
+  {
+   "word": "Raspberry",
+   "hints": [
+    {
+     "text": "Red fruit",
+     "level": 1
+    },
+    {
+     "text": "Soft fruit",
+     "level": 1
+    },
+    {
+     "text": "Used in jams",
+     "level": 2
+    },
+    {
+     "text": "Grows on canes",
+     "level": 2
+    },
+    {
+     "text": "Hollow middle",
+     "level": 3
+    },
+    {
+     "text": "Tiny bumps",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Strawberry",
+    "Blackberry",
+    "Cherry"
+   ]
+  },
+  {
+   "word": "Watermelon",
+   "hints": [
+    {
+     "text": "Summer fruit",
+     "level": 1
+    },
+    {
+     "text": "Big fruit",
+     "level": 1
+    },
+    {
+     "text": "Picnic favorite",
+     "level": 2
+    },
+    {
+     "text": "Seed spitting contests",
+     "level": 2
+    },
+    {
+     "text": "Green rind",
+     "level": 3
+    },
+    {
+     "text": "Juicy red flesh",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cantaloupe",
+    "Honeydew",
+    "Pumpkin"
+   ]
+  },
+  {
+   "word": "Pineapple",
+   "hints": [
+    {
+     "text": "Tropical fruit",
+     "level": 1
+    },
+    {
+     "text": "Spiky fruit",
+     "level": 1
+    },
+    {
+     "text": "Pizza debate",
+     "level": 2
+    },
+    {
+     "text": "Beach drinks",
+     "level": 2
+    },
+    {
+     "text": "Spiky crown",
+     "level": 3
+    },
+    {
+     "text": "Rough skin",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mango",
+    "Coconut",
+    "Papaya"
+   ]
+  },
+  {
+   "word": "Cherry",
+   "hints": [
+    {
+     "text": "Small fruit",
+     "level": 1
+    },
+    {
+     "text": "Stone fruit",
+     "level": 1
+    },
+    {
+     "text": "Tops a sundae",
+     "level": 2
+    },
+    {
+     "text": "Blossoms in spring",
+     "level": 2
+    },
+    {
+     "text": "Long stem",
+     "level": 3
+    },
+    {
+     "text": "Deep red",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Plum",
+    "Grape",
+    "Cranberry"
+   ]
+  },
+  {
+   "word": "Peach",
+   "hints": [
+    {
+     "text": "Stone fruit",
+     "level": 1
+    },
+    {
+     "text": "Summer fruit",
+     "level": 1
+    },
+    {
+     "text": "Grown in orchards",
+     "level": 2
+    },
+    {
+     "text": "Juicy and sweet",
+     "level": 2
+    },
+    {
+     "text": "Fuzzy skin",
+     "level": 3
+    },
+    {
+     "text": "Pink blush",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Apricot",
+    "Plum",
+    "Nectarine"
+   ]
+  },
+  {
+   "word": "Pear",
+   "hints": [
+    {
+     "text": "Orchard fruit",
+     "level": 1
+    },
+    {
+     "text": "Juicy fruit",
+     "level": 1
+    },
+    {
+     "text": "Ripens off the tree",
+     "level": 2
+    },
+    {
+     "text": "Lunchbox snack",
+     "level": 2
+    },
+    {
+     "text": "Bell shaped",
+     "level": 3
+    },
+    {
+     "text": "Grainy flesh",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Apple",
+    "Quince",
+    "Fig"
+   ]
+  },
+  {
+   "word": "Plum",
+   "hints": [
+    {
+     "text": "Stone fruit",
+     "level": 1
+    },
+    {
+     "text": "Purple fruit",
+     "level": 1
+    },
+    {
+     "text": "Dried into prunes",
+     "level": 2
+    },
+    {
+     "text": "Juicy and tart",
+     "level": 2
+    },
+    {
+     "text": "Smooth dark skin",
+     "level": 3
+    },
+    {
+     "text": "Pit inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Peach",
+    "Cherry",
+    "Apricot"
+   ]
+  },
+  {
+   "word": "Lemon",
+   "hints": [
+    {
+     "text": "Citrus fruit",
+     "level": 1
+    },
+    {
+     "text": "Sour fruit",
+     "level": 1
+    },
+    {
+     "text": "Squeezed on fish",
+     "level": 2
+    },
+    {
+     "text": "Squeezed into drinks",
+     "level": 2
+    },
+    {
+     "text": "Bright yellow",
+     "level": 3
+    },
+    {
+     "text": "Makes you pucker",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lime",
+    "Orange",
+    "Grapefruit"
+   ]
+  },
+  {
+   "word": "Lime",
+   "hints": [
+    {
+     "text": "Citrus fruit",
+     "level": 1
+    },
+    {
+     "text": "Sour fruit",
+     "level": 1
+    },
+    {
+     "text": "Used in tacos",
+     "level": 2
+    },
+    {
+     "text": "Garnish for drinks",
+     "level": 2
+    },
+    {
+     "text": "Small and green",
+     "level": 3
+    },
+    {
+     "text": "Very tart",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lemon",
+    "Orange",
+    "Kiwi"
+   ]
+  },
+  {
+   "word": "Coconut",
+   "hints": [
+    {
+     "text": "Tropical fruit",
+     "level": 1
+    },
+    {
+     "text": "Hard fruit",
+     "level": 1
+    },
+    {
+     "text": "Grows on palms",
+     "level": 2
+    },
+    {
+     "text": "Beach symbol",
+     "level": 2
+    },
+    {
+     "text": "Hairy brown shell",
+     "level": 3
+    },
+    {
+     "text": "White flesh inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pineapple",
+    "Walnut",
+    "Mango"
+   ]
+  },
+  {
+   "word": "Kiwi",
+   "hints": [
+    {
+     "text": "Small fruit",
+     "level": 1
+    },
+    {
+     "text": "Fuzzy fruit",
+     "level": 1
+    },
+    {
+     "text": "Named after a bird",
+     "level": 2
+    },
+    {
+     "text": "Rich in vitamins",
+     "level": 2
+    },
+    {
+     "text": "Brown fuzzy skin",
+     "level": 3
+    },
+    {
+     "text": "Green inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gooseberry",
+    "Fig",
+    "Passion fruit"
+   ]
+  },
+  {
+   "word": "Papaya",
+   "hints": [
+    {
+     "text": "Tropical fruit",
+     "level": 1
+    },
+    {
+     "text": "Orange fruit",
+     "level": 1
+    },
+    {
+     "text": "Good for digestion",
+     "level": 2
+    },
+    {
+     "text": "Breakfast fruit",
+     "level": 2
+    },
+    {
+     "text": "Black seeds inside",
+     "level": 3
+    },
+    {
+     "text": "Soft orange flesh",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mango",
+    "Melon",
+    "Guava"
+   ]
+  },
+  {
+   "word": "Guava",
+   "hints": [
+    {
+     "text": "Tropical fruit",
+     "level": 1
+    },
+    {
+     "text": "Green fruit",
+     "level": 1
+    },
+    {
+     "text": "Eaten with chili salt",
+     "level": 2
+    },
+    {
+     "text": "Very fragrant",
+     "level": 2
+    },
+    {
+     "text": "Pink or white inside",
+     "level": 3
+    },
+    {
+     "text": "Many small seeds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pear",
+    "Papaya",
+    "Feijoa"
+   ]
+  },
+  {
+   "word": "Pomegranate",
+   "hints": [
+    {
+     "text": "Ruby fruit",
+     "level": 1
+    },
+    {
+     "text": "Ancient fruit",
+     "level": 1
+    },
+    {
+     "text": "Hard to open",
+     "level": 2
+    },
+    {
+     "text": "Symbol of plenty",
+     "level": 2
+    },
+    {
+     "text": "Hundreds of seeds",
+     "level": 3
+    },
+    {
+     "text": "Crown on top",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Apple",
+    "Persimmon",
+    "Fig"
+   ]
+  },
+  {
+   "word": "Fig",
+   "hints": [
+    {
+     "text": "Ancient fruit",
+     "level": 1
+    },
+    {
+     "text": "Sweet fruit",
+     "level": 1
+    },
+    {
+     "text": "Dried as snack",
+     "level": 2
+    },
+    {
+     "text": "Grows in warm regions",
+     "level": 2
+    },
+    {
+     "text": "Teardrop shape",
+     "level": 3
+    },
+    {
+     "text": "Seedy pink inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Date",
+    "Plum",
+    "Prune"
+   ]
+  },
+  {
+   "word": "Date",
+   "hints": [
+    {
+     "text": "Desert fruit",
+     "level": 1
+    },
+    {
+     "text": "Sweet fruit",
+     "level": 1
+    },
+    {
+     "text": "Breaks the fast",
+     "level": 2
+    },
+    {
+     "text": "Grows on palms",
+     "level": 2
+    },
+    {
+     "text": "Sticky and brown",
+     "level": 3
+    },
+    {
+     "text": "Long pit",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fig",
+    "Prune",
+    "Raisin"
+   ]
+  },
+  {
+   "word": "Apricot",
+   "hints": [
+    {
+     "text": "Stone fruit",
+     "level": 1
+    },
+    {
+     "text": "Orange fruit",
+     "level": 1
+    },
+    {
+     "text": "Dried as snack",
+     "level": 2
+    },
+    {
+     "text": "Made into jam",
+     "level": 2
+    },
+    {
+     "text": "Velvety skin",
+     "level": 3
+    },
+    {
+     "text": "Small and golden",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Peach",
+    "Plum",
+    "Nectarine"
+   ]
+  },
+  {
+   "word": "Avocado",
+   "hints": [
+    {
+     "text": "Creamy fruit",
+     "level": 1
+    },
+    {
+     "text": "Green fruit",
+     "level": 1
+    },
+    {
+     "text": "Smashed on toast",
+     "level": 2
+    },
+    {
+     "text": "Trendy brunch item",
+     "level": 2
+    },
+    {
+     "text": "Big round pit",
+     "level": 3
+    },
+    {
+     "text": "Bumpy dark skin",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pear",
+    "Mango",
+    "Olive"
+   ]
+  },
+  {
+   "word": "Melon",
+   "hints": [
+    {
+     "text": "Summer fruit",
+     "level": 1
+    },
+    {
+     "text": "Juicy fruit",
+     "level": 1
+    },
+    {
+     "text": "Served at breakfast",
+     "level": 2
+    },
+    {
+     "text": "Cut into wedges",
+     "level": 2
+    },
+    {
+     "text": "Netted rind",
+     "level": 3
+    },
+    {
+     "text": "Sweet orange flesh",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pumpkin",
+    "Papaya",
+    "Squash"
+   ]
+  },
+  {
+   "word": "Cantaloupe",
+   "hints": [
+    {
+     "text": "Summer melon",
+     "level": 1
+    },
+    {
+     "text": "Orange fruit",
+     "level": 1
+    },
+    {
+     "text": "Breakfast buffet fruit",
+     "level": 2
+    },
+    {
+     "text": "Balled with scoops",
+     "level": 2
+    },
+    {
+     "text": "Netted rind",
+     "level": 3
+    },
+    {
+     "text": "Musky smell",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Honeydew",
+    "Watermelon",
+    "Papaya"
+   ]
+  },
+  {
+   "word": "Honeydew",
+   "hints": [
+    {
+     "text": "Summer melon",
+     "level": 1
+    },
+    {
+     "text": "Pale fruit",
+     "level": 1
+    },
+    {
+     "text": "Fruit salad filler",
+     "level": 2
+    },
+    {
+     "text": "Mild and sweet",
+     "level": 2
+    },
+    {
+     "text": "Smooth pale rind",
+     "level": 3
+    },
+    {
+     "text": "Light green flesh",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cantaloupe",
+    "Watermelon",
+    "Cucumber"
+   ]
+  },
+  {
+   "word": "Lychee",
+   "hints": [
+    {
+     "text": "Tropical fruit",
+     "level": 1
+    },
+    {
+     "text": "Asian fruit",
+     "level": 1
+    },
+    {
+     "text": "Summer treat",
+     "level": 2
+    },
+    {
+     "text": "Very fragrant",
+     "level": 2
+    },
+    {
+     "text": "Bumpy red shell",
+     "level": 3
+    },
+    {
+     "text": "Translucent white flesh",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rambutan",
+    "Longan",
+    "Grape"
+   ]
+  },
+  {
+   "word": "Passion fruit",
+   "hints": [
+    {
+     "text": "Tropical treat",
+     "level": 1
+    },
+    {
+     "text": "Tangy treat",
+     "level": 1
+    },
+    {
+     "text": "Used in desserts",
+     "level": 2
+    },
+    {
+     "text": "Very aromatic",
+     "level": 2
+    },
+    {
+     "text": "Wrinkly purple skin",
+     "level": 3
+    },
+    {
+     "text": "Seedy pulp",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Guava",
+    "Kiwi",
+    "Lychee"
+   ]
+  },
+  {
+   "word": "Dragon fruit",
+   "hints": [
+    {
+     "text": "Exotic produce",
+     "level": 1
+    },
+    {
+     "text": "Cactus produce",
+     "level": 1
+    },
+    {
+     "text": "Social media famous",
+     "level": 2
+    },
+    {
+     "text": "Mild flavor",
+     "level": 2
+    },
+    {
+     "text": "Pink scaly skin",
+     "level": 3
+    },
+    {
+     "text": "Speckled white flesh",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lychee",
+    "Pitaya",
+    "Kiwi"
+   ]
+  },
+  {
+   "word": "Blackberry",
+   "hints": [
+    {
+     "text": "Dark fruit",
+     "level": 1
+    },
+    {
+     "text": "Wild fruit",
+     "level": 1
+    },
+    {
+     "text": "Picked from brambles",
+     "level": 2
+    },
+    {
+     "text": "Stains fingers",
+     "level": 2
+    },
+    {
+     "text": "Cluster of bubbles",
+     "level": 3
+    },
+    {
+     "text": "Deep purple",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Raspberry",
+    "Blueberry",
+    "Mulberry"
+   ]
+  },
+  {
+   "word": "Cranberry",
+   "hints": [
+    {
+     "text": "Tart fruit",
+     "level": 1
+    },
+    {
+     "text": "Bog fruit",
+     "level": 1
+    },
+    {
+     "text": "Holiday sauce",
+     "level": 2
+    },
+    {
+     "text": "Grown in bogs",
+     "level": 2
+    },
+    {
+     "text": "Very sour",
+     "level": 3
+    },
+    {
+     "text": "Bounces when ripe",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cherry",
+    "Raspberry",
+    "Redcurrant"
+   ]
+  },
+  {
+   "word": "Grapefruit",
+   "hints": [
+    {
+     "text": "Breakfast citrus",
+     "level": 1
+    },
+    {
+     "text": "Big citrus",
+     "level": 1
+    },
+    {
+     "text": "Diet breakfast",
+     "level": 2
+    },
+    {
+     "text": "Very bitter",
+     "level": 2
+    },
+    {
+     "text": "Pink inside",
+     "level": 3
+    },
+    {
+     "text": "Eaten with spoon",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Orange",
+    "Pomelo",
+    "Lemon"
+   ]
+  },
+  {
+   "word": "Tangerine",
+   "hints": [
+    {
+     "text": "Citrus fruit",
+     "level": 1
+    },
+    {
+     "text": "Small citrus",
+     "level": 1
+    },
+    {
+     "text": "Easy to peel",
+     "level": 2
+    },
+    {
+     "text": "Winter fruit",
+     "level": 2
+    },
+    {
+     "text": "Loose skin",
+     "level": 3
+    },
+    {
+     "text": "Sweet segments",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Orange",
+    "Clementine",
+    "Lemon"
+   ]
+  },
+  {
+   "word": "Nectarine",
+   "hints": [
+    {
+     "text": "Stone fruit",
+     "level": 1
+    },
+    {
+     "text": "Summer fruit",
+     "level": 1
+    },
+    {
+     "text": "Juicy snack",
+     "level": 2
+    },
+    {
+     "text": "Grown in orchards",
+     "level": 2
+    },
+    {
+     "text": "Smooth skin",
+     "level": 3
+    },
+    {
+     "text": "Red and yellow",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Peach",
+    "Plum",
+    "Apricot"
+   ]
+  },
+  {
+   "word": "Persimmon",
+   "hints": [
+    {
+     "text": "Autumn fruit",
+     "level": 1
+    },
+    {
+     "text": "Orange fruit",
+     "level": 1
+    },
+    {
+     "text": "Popular in east asia",
+     "level": 2
+    },
+    {
+     "text": "Dried as treat",
+     "level": 2
+    },
+    {
+     "text": "Tomato shaped",
+     "level": 3
+    },
+    {
+     "text": "Leafy cap",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tomato",
+    "Apricot",
+    "Pomegranate"
+   ]
+  },
+  {
+   "word": "Jackfruit",
+   "hints": [
+    {
+     "text": "Huge produce",
+     "level": 1
+    },
+    {
+     "text": "Tropical produce",
+     "level": 1
+    },
+    {
+     "text": "Meat substitute",
+     "level": 2
+    },
+    {
+     "text": "Very fragrant",
+     "level": 2
+    },
+    {
+     "text": "Spiky green skin",
+     "level": 3
+    },
+    {
+     "text": "Sticky yellow pods",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Durian",
+    "Breadfruit",
+    "Pineapple"
+   ]
+  },
+  {
+   "word": "Durian",
+   "hints": [
+    {
+     "text": "Tropical fruit",
+     "level": 1
+    },
+    {
+     "text": "Smelly fruit",
+     "level": 1
+    },
+    {
+     "text": "Banned on trains",
+     "level": 2
+    },
+    {
+     "text": "Love it or hate",
+     "level": 2
+    },
+    {
+     "text": "Thorny husk",
+     "level": 3
+    },
+    {
+     "text": "Custard flesh",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jackfruit",
+    "Pineapple",
+    "Mangosteen"
+   ]
+  },
+  {
+   "word": "Gooseberry",
+   "hints": [
+    {
+     "text": "Tart fruit",
+     "level": 1
+    },
+    {
+     "text": "Small fruit",
+     "level": 1
+    },
+    {
+     "text": "Made into pickles",
+     "level": 2
+    },
+    {
+     "text": "Very sour",
+     "level": 2
+    },
+    {
+     "text": "Pale green",
+     "level": 3
+    },
+    {
+     "text": "Striped skin",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Grape",
+    "Kiwi",
+    "Currant"
+   ]
+  },
+  {
+   "word": "Mulberry",
+   "hints": [
+    {
+     "text": "Dark fruit",
+     "level": 1
+    },
+    {
+     "text": "Tree fruit",
+     "level": 1
+    },
+    {
+     "text": "Silkworms eat leaves",
+     "level": 2
+    },
+    {
+     "text": "Stains everything",
+     "level": 2
+    },
+    {
+     "text": "Long and bumpy",
+     "level": 3
+    },
+    {
+     "text": "Deep purple",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Blackberry",
+    "Raspberry",
+    "Fig"
+   ]
+  },
+  {
+   "word": "Quince",
+   "hints": [
+    {
+     "text": "Old fruit",
+     "level": 1
+    },
+    {
+     "text": "Hard fruit",
+     "level": 1
+    },
+    {
+     "text": "Made into jelly",
+     "level": 2
+    },
+    {
+     "text": "Must be cooked",
+     "level": 2
+    },
+    {
+     "text": "Lumpy yellow",
+     "level": 3
+    },
+    {
+     "text": "Very fragrant",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pear",
+    "Apple",
+    "Medlar"
+   ]
+  },
+  {
+   "word": "Starfruit",
+   "hints": [
+    {
+     "text": "Tropical produce",
+     "level": 1
+    },
+    {
+     "text": "Waxy produce",
+     "level": 1
+    },
+    {
+     "text": "Garnish for drinks",
+     "level": 2
+    },
+    {
+     "text": "Sweet and sour",
+     "level": 2
+    },
+    {
+     "text": "Five ridges",
+     "level": 3
+    },
+    {
+     "text": "Pointy slices",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kiwi",
+    "Lime",
+    "Papaya"
+   ]
+  },
+  {
+   "word": "Rambutan",
+   "hints": [
+    {
+     "text": "Tropical fruit",
+     "level": 1
+    },
+    {
+     "text": "Hairy fruit",
+     "level": 1
+    },
+    {
+     "text": "Southeast asian favorite",
+     "level": 2
+    },
+    {
+     "text": "Sweet and juicy",
+     "level": 2
+    },
+    {
+     "text": "Spiky red shell",
+     "level": 3
+    },
+    {
+     "text": "White flesh",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lychee",
+    "Longan",
+    "Grape"
+   ]
+  },
+  {
+   "word": "Tomato",
+   "hints": [
+    {
+     "text": "Vegetable",
+     "level": 1
+    },
+    {
+     "text": "Red fruit",
+     "level": 1
+    },
+    {
+     "text": "Base of ketchup",
+     "level": 2
+    },
+    {
+     "text": "Used in salads",
+     "level": 2
+    },
+    {
+     "text": "Round and juicy",
+     "level": 3
+    },
+    {
+     "text": "Grows on vines",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pepper",
+    "Cherry",
+    "Potato"
+   ]
+  },
+  {
+   "word": "Potato",
+   "hints": [
+    {
+     "text": "Root vegetable",
+     "level": 1
+    },
+    {
+     "text": "Starchy food",
+     "level": 1
+    },
+    {
+     "text": "Made into chips",
+     "level": 2
+    },
+    {
+     "text": "Mashed or fried",
+     "level": 2
+    },
+    {
+     "text": "Grows underground",
+     "level": 3
+    },
+    {
+     "text": "Brown skin",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Carrot",
+    "Turnip",
+    "Yam"
+   ]
+  },
+  {
+   "word": "Carrot",
+   "hints": [
+    {
+     "text": "Root vegetable",
+     "level": 1
+    },
+    {
+     "text": "Orange vegetable",
+     "level": 1
+    },
+    {
+     "text": "Good for eyesight",
+     "level": 2
+    },
+    {
+     "text": "Rabbits love it",
+     "level": 2
+    },
+    {
+     "text": "Long and pointed",
+     "level": 3
+    },
+    {
+     "text": "Leafy top",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Parsnip",
+    "Radish",
+    "Beetroot"
+   ]
+  },
+  {
+   "word": "Onion",
+   "hints": [
+    {
+     "text": "Bulb vegetable",
+     "level": 1
+    },
+    {
+     "text": "Kitchen staple",
+     "level": 1
+    },
+    {
+     "text": "Makes you cry",
+     "level": 2
+    },
+    {
+     "text": "Base of curries",
+     "level": 2
+    },
+    {
+     "text": "Papery skin",
+     "level": 3
+    },
+    {
+     "text": "Many layers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Garlic",
+    "Shallot",
+    "Leek"
+   ]
+  },
+  {
+   "word": "Garlic",
+   "hints": [
+    {
+     "text": "Bulb vegetable",
+     "level": 1
+    },
+    {
+     "text": "Strong flavor",
+     "level": 1
+    },
+    {
+     "text": "Scares vampires",
+     "level": 2
+    },
+    {
+     "text": "Bad breath",
+     "level": 2
+    },
+    {
+     "text": "Many cloves",
+     "level": 3
+    },
+    {
+     "text": "Papery white skin",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Onion",
+    "Ginger",
+    "Shallot"
+   ]
+  },
+  {
+   "word": "Ginger",
+   "hints": [
+    {
+     "text": "Root spice",
+     "level": 1
+    },
+    {
+     "text": "Spicy root",
+     "level": 1
+    },
+    {
+     "text": "Cure for nausea",
+     "level": 2
+    },
+    {
+     "text": "Used in tea",
+     "level": 2
+    },
+    {
+     "text": "Knobby shape",
+     "level": 3
+    },
+    {
+     "text": "Peppery bite",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Turmeric",
+    "Garlic",
+    "Horseradish"
+   ]
+  },
+  {
+   "word": "Cabbage",
+   "hints": [
+    {
+     "text": "Leafy vegetable",
+     "level": 1
+    },
+    {
+     "text": "Round vegetable",
+     "level": 1
+    },
+    {
+     "text": "Made into coleslaw",
+     "level": 2
+    },
+    {
+     "text": "Fermented into kimchi",
+     "level": 2
+    },
+    {
+     "text": "Tight leafy head",
+     "level": 3
+    },
+    {
+     "text": "Green or purple",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lettuce",
+    "Cauliflower",
+    "Kale"
+   ]
+  },
+  {
+   "word": "Lettuce",
+   "hints": [
+    {
+     "text": "Leafy vegetable",
+     "level": 1
+    },
+    {
+     "text": "Salad green",
+     "level": 1
+    },
+    {
+     "text": "Goes in burgers",
+     "level": 2
+    },
+    {
+     "text": "Very crunchy",
+     "level": 2
+    },
+    {
+     "text": "Pale green leaves",
+     "level": 3
+    },
+    {
+     "text": "Mostly water",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spinach",
+    "Cabbage",
+    "Kale"
+   ]
+  },
+  {
+   "word": "Spinach",
+   "hints": [
+    {
+     "text": "Leafy vegetable",
+     "level": 1
+    },
+    {
+     "text": "Dark green",
+     "level": 1
+    },
+    {
+     "text": "Makes sailors strong",
+     "level": 2
+    },
+    {
+     "text": "Rich in iron",
+     "level": 2
+    },
+    {
+     "text": "Wilts when cooked",
+     "level": 3
+    },
+    {
+     "text": "Tender leaves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kale",
+    "Lettuce",
+    "Chard"
+   ]
+  },
+  {
+   "word": "Broccoli",
+   "hints": [
+    {
+     "text": "Green vegetable",
+     "level": 1
+    },
+    {
+     "text": "Healthy vegetable",
+     "level": 1
+    },
+    {
+     "text": "Kids push it away",
+     "level": 2
+    },
+    {
+     "text": "Steamed side",
+     "level": 2
+    },
+    {
+     "text": "Tiny tree shape",
+     "level": 3
+    },
+    {
+     "text": "Green florets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cauliflower",
+    "Cabbage",
+    "Asparagus"
+   ]
+  },
+  {
+   "word": "Cauliflower",
+   "hints": [
+    {
+     "text": "White vegetable",
+     "level": 1
+    },
+    {
+     "text": "Cruciferous vegetable",
+     "level": 1
+    },
+    {
+     "text": "Low carb swap",
+     "level": 2
+    },
+    {
+     "text": "Roasted whole",
+     "level": 2
+    },
+    {
+     "text": "White florets",
+     "level": 3
+    },
+    {
+     "text": "Brain shaped head",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Broccoli",
+    "Cabbage",
+    "Turnip"
+   ]
+  },
+  {
+   "word": "Cucumber",
+   "hints": [
+    {
+     "text": "Green vegetable",
+     "level": 1
+    },
+    {
+     "text": "Cool vegetable",
+     "level": 1
+    },
+    {
+     "text": "Used in salads",
+     "level": 2
+    },
+    {
+     "text": "Spa eye slices",
+     "level": 2
+    },
+    {
+     "text": "Long and green",
+     "level": 3
+    },
+    {
+     "text": "Watery crunch",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Zucchini",
+    "Pickle",
+    "Celery"
+   ]
+  },
+  {
+   "word": "Pumpkin",
+   "hints": [
+    {
+     "text": "Orange vegetable",
+     "level": 1
+    },
+    {
+     "text": "Autumn vegetable",
+     "level": 1
+    },
+    {
+     "text": "Carved for halloween",
+     "level": 2
+    },
+    {
+     "text": "Pie filling",
+     "level": 2
+    },
+    {
+     "text": "Big and round",
+     "level": 3
+    },
+    {
+     "text": "Ribbed orange shell",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Squash",
+    "Melon",
+    "Gourd"
+   ]
+  },
+  {
+   "word": "Corn",
+   "hints": [
+    {
+     "text": "Grain vegetable",
+     "level": 1
+    },
+    {
+     "text": "Yellow vegetable",
+     "level": 1
+    },
+    {
+     "text": "Grilled at barbecues",
+     "level": 2
+    },
+    {
+     "text": "Popped for movies",
+     "level": 2
+    },
+    {
+     "text": "Golden kernels",
+     "level": 3
+    },
+    {
+     "text": "Eaten off the cob",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wheat",
+    "Peas",
+    "Rice"
+   ]
+  },
+  {
+   "word": "Peas",
+   "hints": [
+    {
+     "text": "Green vegetable",
+     "level": 1
+    },
+    {
+     "text": "Small vegetable",
+     "level": 1
+    },
+    {
+     "text": "Kids hide them",
+     "level": 2
+    },
+    {
+     "text": "Frozen in bags",
+     "level": 2
+    },
+    {
+     "text": "Grow in pods",
+     "level": 3
+    },
+    {
+     "text": "Tiny green balls",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Beans",
+    "Corn",
+    "Lentils"
+   ]
+  },
+  {
+   "word": "Green beans",
+   "hints": [
+    {
+     "text": "Garden vegetable",
+     "level": 1
+    },
+    {
+     "text": "Long vegetable",
+     "level": 1
+    },
+    {
+     "text": "Holiday casserole",
+     "level": 2
+    },
+    {
+     "text": "Snapped in half",
+     "level": 2
+    },
+    {
+     "text": "Thin pods",
+     "level": 3
+    },
+    {
+     "text": "Snap when bent",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Peas",
+    "Asparagus",
+    "Okra"
+   ]
+  },
+  {
+   "word": "Eggplant",
+   "hints": [
+    {
+     "text": "Purple vegetable",
+     "level": 1
+    },
+    {
+     "text": "Nightshade",
+     "level": 1
+    },
+    {
+     "text": "Used in curries",
+     "level": 2
+    },
+    {
+     "text": "Grilled or fried",
+     "level": 2
+    },
+    {
+     "text": "Glossy purple skin",
+     "level": 3
+    },
+    {
+     "text": "Spongy flesh",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Zucchini",
+    "Squash",
+    "Pepper"
+   ]
+  },
+  {
+   "word": "Bell pepper",
+   "hints": [
+    {
+     "text": "Crunchy vegetable",
+     "level": 1
+    },
+    {
+     "text": "Colorful vegetable",
+     "level": 1
+    },
+    {
+     "text": "Stuffed and baked",
+     "level": 2
+    },
+    {
+     "text": "Used in stir fry",
+     "level": 2
+    },
+    {
+     "text": "Hollow inside",
+     "level": 3
+    },
+    {
+     "text": "Red yellow or green",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chili",
+    "Tomato",
+    "Eggplant"
+   ]
+  },
+  {
+   "word": "Chili",
+   "hints": [
+    {
+     "text": "Spicy vegetable",
+     "level": 1
+    },
+    {
+     "text": "Hot pepper",
+     "level": 1
+    },
+    {
+     "text": "Makes eyes water",
+     "level": 2
+    },
+    {
+     "text": "Used in salsa",
+     "level": 2
+    },
+    {
+     "text": "Small and red",
+     "level": 3
+    },
+    {
+     "text": "Burns your tongue",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bell pepper",
+    "Jalapeno",
+    "Paprika"
+   ]
+  },
+  {
+   "word": "Mushroom",
+   "hints": [
+    {
+     "text": "Fungus",
+     "level": 1
+    },
+    {
+     "text": "Forest food",
+     "level": 1
+    },
+    {
+     "text": "Pizza topping",
+     "level": 2
+    },
+    {
+     "text": "Grows after rain",
+     "level": 2
+    },
+    {
+     "text": "Cap and stem",
+     "level": 3
+    },
+    {
+     "text": "Spongy gills",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Truffle",
+    "Toadstool",
+    "Onion"
+   ]
+  },
+  {
+   "word": "Celery",
+   "hints": [
+    {
+     "text": "Green vegetable",
+     "level": 1
+    },
+    {
+     "text": "Crunchy stalk",
+     "level": 1
+    },
+    {
+     "text": "Diet snack",
+     "level": 2
+    },
+    {
+     "text": "Soup base",
+     "level": 2
+    },
+    {
+     "text": "Long pale stalks",
+     "level": 3
+    },
+    {
+     "text": "Stringy crunch",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Asparagus",
+    "Rhubarb",
+    "Leek"
+   ]
+  },
+  {
+   "word": "Asparagus",
+   "hints": [
+    {
+     "text": "Green vegetable",
+     "level": 1
+    },
+    {
+     "text": "Spring vegetable",
+     "level": 1
+    },
+    {
+     "text": "Fancy side dish",
+     "level": 2
+    },
+    {
+     "text": "Grilled with butter",
+     "level": 2
+    },
+    {
+     "text": "Thin green spears",
+     "level": 3
+    },
+    {
+     "text": "Pointed tips",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Celery",
+    "Green beans",
+    "Leek"
+   ]
+  },
+  {
+   "word": "Zucchini",
+   "hints": [
+    {
+     "text": "Green vegetable",
+     "level": 1
+    },
+    {
+     "text": "Summer squash",
+     "level": 1
+    },
+    {
+     "text": "Grated into bread",
+     "level": 2
+    },
+    {
+     "text": "Grilled in slices",
+     "level": 2
+    },
+    {
+     "text": "Long and green",
+     "level": 3
+    },
+    {
+     "text": "Soft skin",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cucumber",
+    "Eggplant",
+    "Pumpkin"
+   ]
+  },
+  {
+   "word": "Radish",
+   "hints": [
+    {
+     "text": "Root vegetable",
+     "level": 1
+    },
+    {
+     "text": "Peppery vegetable",
+     "level": 1
+    },
+    {
+     "text": "Sliced in salads",
+     "level": 2
+    },
+    {
+     "text": "Fast growing",
+     "level": 2
+    },
+    {
+     "text": "Small and red",
+     "level": 3
+    },
+    {
+     "text": "White inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Turnip",
+    "Beetroot",
+    "Carrot"
+   ]
+  },
+  {
+   "word": "Beetroot",
+   "hints": [
+    {
+     "text": "Earthy vegetable",
+     "level": 1
+    },
+    {
+     "text": "Purple vegetable",
+     "level": 1
+    },
+    {
+     "text": "Stains your hands",
+     "level": 2
+    },
+    {
+     "text": "Made into soup",
+     "level": 2
+    },
+    {
+     "text": "Deep magenta",
+     "level": 3
+    },
+    {
+     "text": "Earthy sweet",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Radish",
+    "Turnip",
+    "Carrot"
+   ]
+  },
+  {
+   "word": "Turnip",
+   "hints": [
+    {
+     "text": "Root vegetable",
+     "level": 1
+    },
+    {
+     "text": "Winter vegetable",
+     "level": 1
+    },
+    {
+     "text": "Peasant food",
+     "level": 2
+    },
+    {
+     "text": "Mashed or roasted",
+     "level": 2
+    },
+    {
+     "text": "Purple top",
+     "level": 3
+    },
+    {
+     "text": "White bulb",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Radish",
+    "Parsnip",
+    "Potato"
+   ]
+  },
+  {
+   "word": "Sweet potato",
+   "hints": [
+    {
+     "text": "Root vegetable",
+     "level": 1
+    },
+    {
+     "text": "Orange tuber",
+     "level": 1
+    },
+    {
+     "text": "Holiday casserole",
+     "level": 2
+    },
+    {
+     "text": "Baked fries",
+     "level": 2
+    },
+    {
+     "text": "Orange flesh",
+     "level": 3
+    },
+    {
+     "text": "Long and tapered",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Yam",
+    "Pumpkin",
+    "Carrot"
+   ]
+  },
+  {
+   "word": "Kale",
+   "hints": [
+    {
+     "text": "Leafy vegetable",
+     "level": 1
+    },
+    {
+     "text": "Superfood",
+     "level": 1
+    },
+    {
+     "text": "Baked into chips",
+     "level": 2
+    },
+    {
+     "text": "Smoothie green",
+     "level": 2
+    },
+    {
+     "text": "Curly dark leaves",
+     "level": 3
+    },
+    {
+     "text": "Tough stems",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spinach",
+    "Cabbage",
+    "Chard"
+   ]
+  },
+  {
+   "word": "Okra",
+   "hints": [
+    {
+     "text": "Green vegetable",
+     "level": 1
+    },
+    {
+     "text": "Pod vegetable",
+     "level": 1
+    },
+    {
+     "text": "Used in gumbo",
+     "level": 2
+    },
+    {
+     "text": "Fried in curries",
+     "level": 2
+    },
+    {
+     "text": "Slimy inside",
+     "level": 3
+    },
+    {
+     "text": "Ridged green pods",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Green beans",
+    "Zucchini",
+    "Chili"
+   ]
+  },
+  {
+   "word": "Leek",
+   "hints": [
+    {
+     "text": "Allium vegetable",
+     "level": 1
+    },
+    {
+     "text": "Long vegetable",
+     "level": 1
+    },
+    {
+     "text": "Used in soups",
+     "level": 2
+    },
+    {
+     "text": "Welsh symbol",
+     "level": 2
+    },
+    {
+     "text": "White and green stalk",
+     "level": 3
+    },
+    {
+     "text": "Mild onion flavor",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Onion",
+    "Celery",
+    "Scallion"
+   ]
+  },
+  {
+   "word": "Artichoke",
+   "hints": [
+    {
+     "text": "Thistle vegetable",
+     "level": 1
+    },
+    {
+     "text": "Fancy vegetable",
+     "level": 1
+    },
+    {
+     "text": "Dipped in butter",
+     "level": 2
+    },
+    {
+     "text": "Hearts in jars",
+     "level": 2
+    },
+    {
+     "text": "Scaly green leaves",
+     "level": 3
+    },
+    {
+     "text": "Spiky tips",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Asparagus",
+    "Cabbage",
+    "Brussels sprouts"
+   ]
+  },
+  {
+   "word": "Brussels sprouts",
+   "hints": [
+    {
+     "text": "Green vegetable",
+     "level": 1
+    },
+    {
+     "text": "Mini cabbage",
+     "level": 1
+    },
+    {
+     "text": "Holiday side dish",
+     "level": 2
+    },
+    {
+     "text": "Kids dislike them",
+     "level": 2
+    },
+    {
+     "text": "Tiny round heads",
+     "level": 3
+    },
+    {
+     "text": "Roasted until crisp",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cabbage",
+    "Broccoli",
+    "Peas"
+   ]
+  },
+  {
+   "word": "Lentils",
+   "hints": [
+    {
+     "text": "Pulse",
+     "level": 1
+    },
+    {
+     "text": "Legume",
+     "level": 1
+    },
+    {
+     "text": "Cooked into dal",
+     "level": 2
+    },
+    {
+     "text": "Cheap protein",
+     "level": 2
+    },
+    {
+     "text": "Tiny flat discs",
+     "level": 3
+    },
+    {
+     "text": "Red or green",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Beans",
+    "Peas",
+    "Chickpeas"
+   ]
+  },
+  {
+   "word": "Chickpeas",
+   "hints": [
+    {
+     "text": "Legume",
+     "level": 1
+    },
+    {
+     "text": "Pulse",
+     "level": 1
+    },
+    {
+     "text": "Made into hummus",
+     "level": 2
+    },
+    {
+     "text": "Used in curries",
+     "level": 2
+    },
+    {
+     "text": "Round and beige",
+     "level": 3
+    },
+    {
+     "text": "Nutty bite",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lentils",
+    "Beans",
+    "Soybeans"
+   ]
+  },
+  {
+   "word": "Kidney beans",
+   "hints": [
+    {
+     "text": "Legume",
+     "level": 1
+    },
+    {
+     "text": "Red pulse",
+     "level": 1
+    },
+    {
+     "text": "Used in chili",
+     "level": 2
+    },
+    {
+     "text": "Cooked as rajma",
+     "level": 2
+    },
+    {
+     "text": "Dark red",
+     "level": 3
+    },
+    {
+     "text": "Organ shaped",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chickpeas",
+    "Lentils",
+    "Black beans"
+   ]
+  },
+  {
+   "word": "Yam",
+   "hints": [
+    {
+     "text": "Root vegetable",
+     "level": 1
+    },
+    {
+     "text": "Starchy tuber",
+     "level": 1
+    },
+    {
+     "text": "Staple in africa",
+     "level": 2
+    },
+    {
+     "text": "Boiled or pounded",
+     "level": 2
+    },
+    {
+     "text": "Rough bark skin",
+     "level": 3
+    },
+    {
+     "text": "White or purple flesh",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sweet potato",
+    "Potato",
+    "Taro"
+   ]
+  },
+  {
+   "word": "Parsnip",
+   "hints": [
+    {
+     "text": "Root vegetable",
+     "level": 1
+    },
+    {
+     "text": "Winter vegetable",
+     "level": 1
+    },
+    {
+     "text": "Roasted at holidays",
+     "level": 2
+    },
+    {
+     "text": "Sweet when cooked",
+     "level": 2
+    },
+    {
+     "text": "Pale and tapered",
+     "level": 3
+    },
+    {
+     "text": "Like a white carrot",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Turnip",
+    "Radish",
+    "Potato"
+   ]
+  },
+  {
+   "word": "Shallot",
+   "hints": [
+    {
+     "text": "Allium",
+     "level": 1
+    },
+    {
+     "text": "Small onion",
+     "level": 1
+    },
+    {
+     "text": "Used in french cooking",
+     "level": 2
+    },
+    {
+     "text": "Mild and sweet",
+     "level": 2
+    },
+    {
+     "text": "Copper skin",
+     "level": 3
+    },
+    {
+     "text": "Clustered bulbs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Onion",
+    "Garlic",
+    "Leek"
+   ]
+  },
+  {
+   "word": "Scallion",
+   "hints": [
+    {
+     "text": "Allium",
+     "level": 1
+    },
+    {
+     "text": "Green onion",
+     "level": 1
+    },
+    {
+     "text": "Garnish for noodles",
+     "level": 2
+    },
+    {
+     "text": "Mild flavor",
+     "level": 2
+    },
+    {
+     "text": "Long green tops",
+     "level": 3
+    },
+    {
+     "text": "White base",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Leek",
+    "Chives",
+    "Onion"
+   ]
+  },
+  {
+   "word": "Bitter gourd",
+   "hints": [
+    {
+     "text": "Sharp tasting vegetable",
+     "level": 1
+    },
+    {
+     "text": "Healthy vine vegetable",
+     "level": 1
+    },
+    {
+     "text": "Used in indian cooking",
+     "level": 2
+    },
+    {
+     "text": "Acquired taste",
+     "level": 2
+    },
+    {
+     "text": "Bumpy green skin",
+     "level": 3
+    },
+    {
+     "text": "Warty texture",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Okra",
+    "Cucumber",
+    "Zucchini"
+   ]
+  },
+  {
+   "word": "Bottle gourd",
+   "hints": [
+    {
+     "text": "Indian vegetable",
+     "level": 1
+    },
+    {
+     "text": "Pale vine vegetable",
+     "level": 1
+    },
+    {
+     "text": "Cooked as curry",
+     "level": 2
+    },
+    {
+     "text": "Very watery",
+     "level": 2
+    },
+    {
+     "text": "Long and pale green",
+     "level": 3
+    },
+    {
+     "text": "Smooth skin",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Zucchini",
+    "Cucumber",
+    "Pumpkin"
+   ]
+  },
+  {
+   "word": "Drumstick",
+   "hints": [
+    {
+     "text": "Indian vegetable",
+     "level": 1
+    },
+    {
+     "text": "Moringa pod",
+     "level": 1
+    },
+    {
+     "text": "Used in sambar",
+     "level": 2
+    },
+    {
+     "text": "Long woody pods",
+     "level": 2
+    },
+    {
+     "text": "Very long and thin",
+     "level": 3
+    },
+    {
+     "text": "Chewy fibers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Okra",
+    "Green beans",
+    "Asparagus"
+   ]
+  },
+  {
+   "word": "Taro",
+   "hints": [
+    {
+     "text": "Root vegetable",
+     "level": 1
+    },
+    {
+     "text": "Starchy tuber",
+     "level": 1
+    },
+    {
+     "text": "Purple bubble tea",
+     "level": 2
+    },
+    {
+     "text": "Eaten in islands",
+     "level": 2
+    },
+    {
+     "text": "Hairy brown skin",
+     "level": 3
+    },
+    {
+     "text": "Lilac flesh",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Yam",
+    "Potato",
+    "Cassava"
+   ]
+  },
+  {
+   "word": "Cassava",
+   "hints": [
+    {
+     "text": "Root vegetable",
+     "level": 1
+    },
+    {
+     "text": "Tropical tuber",
+     "level": 1
+    },
+    {
+     "text": "Made into tapioca",
+     "level": 2
+    },
+    {
+     "text": "Staple crop",
+     "level": 2
+    },
+    {
+     "text": "Long and woody",
+     "level": 3
+    },
+    {
+     "text": "Waxy brown skin",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Yam",
+    "Taro",
+    "Potato"
+   ]
+  },
+  {
+   "word": "Jalapeno",
+   "hints": [
+    {
+     "text": "Spicy pepper",
+     "level": 1
+    },
+    {
+     "text": "Green chili",
+     "level": 1
+    },
+    {
+     "text": "Topping for nachos",
+     "level": 2
+    },
+    {
+     "text": "Mexican favorite",
+     "level": 2
+    },
+    {
+     "text": "Small and green",
+     "level": 3
+    },
+    {
+     "text": "Pickled slices",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chili",
+    "Bell pepper",
+    "Paprika"
+   ]
+  },
+  {
+   "word": "Rhubarb",
+   "hints": [
+    {
+     "text": "Sour vegetable",
+     "level": 1
+    },
+    {
+     "text": "Spring stalk",
+     "level": 1
+    },
+    {
+     "text": "Baked in pies",
+     "level": 2
+    },
+    {
+     "text": "Paired with strawberry",
+     "level": 2
+    },
+    {
+     "text": "Pink stalks",
+     "level": 3
+    },
+    {
+     "text": "Poisonous leaves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Celery",
+    "Beetroot",
+    "Asparagus"
+   ]
+  },
+  {
+   "word": "Chard",
+   "hints": [
+    {
+     "text": "Leafy vegetable",
+     "level": 1
+    },
+    {
+     "text": "Colorful greens",
+     "level": 1
+    },
+    {
+     "text": "Sauteed with garlic",
+     "level": 2
+    },
+    {
+     "text": "Mild flavor",
+     "level": 2
+    },
+    {
+     "text": "Rainbow stems",
+     "level": 3
+    },
+    {
+     "text": "Big glossy leaves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spinach",
+    "Kale",
+    "Lettuce"
+   ]
+  },
+  {
+   "word": "Arugula",
+   "hints": [
+    {
+     "text": "Salad green",
+     "level": 1
+    },
+    {
+     "text": "Peppery leaf",
+     "level": 1
+    },
+    {
+     "text": "Pizza topping",
+     "level": 2
+    },
+    {
+     "text": "Fancy salads",
+     "level": 2
+    },
+    {
+     "text": "Small notched leaves",
+     "level": 3
+    },
+    {
+     "text": "Spicy bite",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lettuce",
+    "Spinach",
+    "Watercress"
+   ]
+  },
+  {
+   "word": "Fennel",
+   "hints": [
+    {
+     "text": "Aromatic vegetable",
+     "level": 1
+    },
+    {
+     "text": "Bulb vegetable",
+     "level": 1
+    },
+    {
+     "text": "Seeds chewed after meals",
+     "level": 2
+    },
+    {
+     "text": "Licorice flavor",
+     "level": 2
+    },
+    {
+     "text": "Pale bulb",
+     "level": 3
+    },
+    {
+     "text": "Feathery fronds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Celery",
+    "Onion",
+    "Dill"
+   ]
+  },
+  {
+   "word": "Plantain",
+   "hints": [
+    {
+     "text": "Starchy fruit",
+     "level": 1
+    },
+    {
+     "text": "Cooking banana",
+     "level": 1
+    },
+    {
+     "text": "Fried as chips",
+     "level": 2
+    },
+    {
+     "text": "Caribbean staple",
+     "level": 2
+    },
+    {
+     "text": "Green or black",
+     "level": 3
+    },
+    {
+     "text": "Bigger than banana",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Banana",
+    "Yam",
+    "Potato"
+   ]
+  },
+  {
+   "word": "Clementine",
+   "hints": [
+    {
+     "text": "Citrus fruit",
+     "level": 1
+    },
+    {
+     "text": "Small citrus",
+     "level": 1
+    },
+    {
+     "text": "Christmas stocking fruit",
+     "level": 2
+    },
+    {
+     "text": "Easy to peel",
+     "level": 2
+    },
+    {
+     "text": "Seedless segments",
+     "level": 3
+    },
+    {
+     "text": "Bright orange",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tangerine",
+    "Orange",
+    "Kumquat"
+   ]
+  },
+  {
+   "word": "Kumquat",
+   "hints": [
+    {
+     "text": "Citrus fruit",
+     "level": 1
+    },
+    {
+     "text": "Tiny citrus",
+     "level": 1
+    },
+    {
+     "text": "Eaten whole",
+     "level": 2
+    },
+    {
+     "text": "Lunar new year gift",
+     "level": 2
+    },
+    {
+     "text": "Sweet peel",
+     "level": 3
+    },
+    {
+     "text": "Sour inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Clementine",
+    "Lime",
+    "Grape"
+   ]
+  },
+  {
+   "word": "Pomelo",
+   "hints": [
+    {
+     "text": "Citrus fruit",
+     "level": 1
+    },
+    {
+     "text": "Giant citrus",
+     "level": 1
+    },
+    {
+     "text": "Asian festival fruit",
+     "level": 2
+    },
+    {
+     "text": "Thick pith",
+     "level": 2
+    },
+    {
+     "text": "Pale green skin",
+     "level": 3
+    },
+    {
+     "text": "Huge segments",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Grapefruit",
+    "Orange",
+    "Lemon"
+   ]
+  },
+  {
+   "word": "Longan",
+   "hints": [
+    {
+     "text": "Tropical fruit",
+     "level": 1
+    },
+    {
+     "text": "Asian fruit",
+     "level": 1
+    },
+    {
+     "text": "Called dragon eye",
+     "level": 2
+    },
+    {
+     "text": "Dried for soup",
+     "level": 2
+    },
+    {
+     "text": "Tan shell",
+     "level": 3
+    },
+    {
+     "text": "Clear juicy flesh",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lychee",
+    "Rambutan",
+    "Grape"
+   ]
+  },
+  {
+   "word": "Mangosteen",
+   "hints": [
+    {
+     "text": "Tropical fruit",
+     "level": 1
+    },
+    {
+     "text": "Purple fruit",
+     "level": 1
+    },
+    {
+     "text": "Queen of fruits",
+     "level": 2
+    },
+    {
+     "text": "Southeast asian treat",
+     "level": 2
+    },
+    {
+     "text": "Thick purple rind",
+     "level": 3
+    },
+    {
+     "text": "White segments",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lychee",
+    "Rambutan",
+    "Durian"
+   ]
+  },
+  {
+   "word": "Custard apple",
+   "hints": [
+    {
+     "text": "Tropical fruit",
+     "level": 1
+    },
+    {
+     "text": "Creamy fruit",
+     "level": 1
+    },
+    {
+     "text": "Eaten with spoon",
+     "level": 2
+    },
+    {
+     "text": "Winter fruit in india",
+     "level": 2
+    },
+    {
+     "text": "Knobby green skin",
+     "level": 3
+    },
+    {
+     "text": "Black seeds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Guava",
+    "Jackfruit",
+    "Cherimoya"
+   ]
+  },
+  {
+   "word": "Sapodilla",
+   "hints": [
+    {
+     "text": "Tropical fruit",
+     "level": 1
+    },
+    {
+     "text": "Brown fruit",
+     "level": 1
+    },
+    {
+     "text": "Called chikoo in india",
+     "level": 2
+    },
+    {
+     "text": "Very sweet",
+     "level": 2
+    },
+    {
+     "text": "Grainy brown flesh",
+     "level": 3
+    },
+    {
+     "text": "Malty taste",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fig",
+    "Date",
+    "Pear"
+   ]
+  },
+  {
+   "word": "Jamun",
+   "hints": [
+    {
+     "text": "Indian fruit",
+     "level": 1
+    },
+    {
+     "text": "Purple berry",
+     "level": 1
+    },
+    {
+     "text": "Stains your tongue",
+     "level": 2
+    },
+    {
+     "text": "Summer fruit",
+     "level": 2
+    },
+    {
+     "text": "Dark purple",
+     "level": 3
+    },
+    {
+     "text": "Astringent taste",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Plum",
+    "Blackberry",
+    "Grape"
+   ]
+  },
+  {
+   "word": "Raisin",
+   "hints": [
+    {
+     "text": "Dried fruit",
+     "level": 1
+    },
+    {
+     "text": "Sweet snack",
+     "level": 1
+    },
+    {
+     "text": "Baked into cookies",
+     "level": 2
+    },
+    {
+     "text": "Lunchbox snack",
+     "level": 2
+    },
+    {
+     "text": "Wrinkly and brown",
+     "level": 3
+    },
+    {
+     "text": "Dried grape",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Date",
+    "Prune",
+    "Currant"
+   ]
+  },
+  {
+   "word": "Prune",
+   "hints": [
+    {
+     "text": "Dried fruit",
+     "level": 1
+    },
+    {
+     "text": "Purple snack",
+     "level": 1
+    },
+    {
+     "text": "Good for digestion",
+     "level": 2
+    },
+    {
+     "text": "Grandparent favorite",
+     "level": 2
+    },
+    {
+     "text": "Wrinkly dark plum",
+     "level": 3
+    },
+    {
+     "text": "Sticky sweet",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Raisin",
+    "Date",
+    "Fig"
+   ]
+  },
+  {
+   "word": "Olive oil",
+   "hints": [
+    {
+     "text": "Cooking fat",
+     "level": 1
+    },
+    {
+     "text": "Mediterranean staple",
+     "level": 1
+    },
+    {
+     "text": "Drizzled on salads",
+     "level": 2
+    },
+    {
+     "text": "Pressed from fruit",
+     "level": 2
+    },
+    {
+     "text": "Golden green",
+     "level": 3
+    },
+    {
+     "text": "Extra virgin",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Butter",
+    "Vinegar",
+    "Sesame oil"
+   ]
+  },
+  {
+   "word": "Peanut",
+   "hints": [
+    {
+     "text": "Legume",
+     "level": 1
+    },
+    {
+     "text": "Snack nut",
+     "level": 1
+    },
+    {
+     "text": "Sold at ballparks",
+     "level": 2
+    },
+    {
+     "text": "Common allergy",
+     "level": 2
+    },
+    {
+     "text": "Grows underground",
+     "level": 3
+    },
+    {
+     "text": "Papery shell",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Almond",
+    "Cashew",
+    "Walnut"
+   ]
+  },
+  {
+   "word": "Almond",
+   "hints": [
+    {
+     "text": "Tree nut",
+     "level": 1
+    },
+    {
+     "text": "Healthy snack",
+     "level": 1
+    },
+    {
+     "text": "Made into milk",
+     "level": 2
+    },
+    {
+     "text": "Comes from blossoms",
+     "level": 2
+    },
+    {
+     "text": "Teardrop shape",
+     "level": 3
+    },
+    {
+     "text": "Brown skin",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cashew",
+    "Walnut",
+    "Peanut"
+   ]
+  },
+  {
+   "word": "Cashew",
+   "hints": [
+    {
+     "text": "Tree nut",
+     "level": 1
+    },
+    {
+     "text": "Creamy nut",
+     "level": 1
+    },
+    {
+     "text": "Used in curries",
+     "level": 2
+    },
+    {
+     "text": "Grows on fruit",
+     "level": 2
+    },
+    {
+     "text": "Curved shape",
+     "level": 3
+    },
+    {
+     "text": "Buttery taste",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Almond",
+    "Peanut",
+    "Pistachio"
+   ]
+  },
+  {
+   "word": "Walnut",
+   "hints": [
+    {
+     "text": "Tree nut",
+     "level": 1
+    },
+    {
+     "text": "Brain food",
+     "level": 1
+    },
+    {
+     "text": "Baked in brownies",
+     "level": 2
+    },
+    {
+     "text": "Hard to crack",
+     "level": 2
+    },
+    {
+     "text": "Wrinkly brain shape",
+     "level": 3
+    },
+    {
+     "text": "Hard shell",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pecan",
+    "Almond",
+    "Hazelnut"
+   ]
+  },
+  {
+   "word": "Pistachio",
+   "hints": [
+    {
+     "text": "Tree nut",
+     "level": 1
+    },
+    {
+     "text": "Green nut",
+     "level": 1
+    },
+    {
+     "text": "Ice cream flavor",
+     "level": 2
+    },
+    {
+     "text": "Salty snack",
+     "level": 2
+    },
+    {
+     "text": "Cracked open shell",
+     "level": 3
+    },
+    {
+     "text": "Green kernel",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cashew",
+    "Almond",
+    "Peanut"
+   ]
+  },
+  {
+   "word": "Hazelnut",
+   "hints": [
+    {
+     "text": "Tree nut",
+     "level": 1
+    },
+    {
+     "text": "Round nut",
+     "level": 1
+    },
+    {
+     "text": "Paired with chocolate",
+     "level": 2
+    },
+    {
+     "text": "Coffee flavor",
+     "level": 2
+    },
+    {
+     "text": "Small round",
+     "level": 3
+    },
+    {
+     "text": "Smooth brown shell",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Walnut",
+    "Almond",
+    "Chestnut"
+   ]
+  },
+  {
+   "word": "Chestnut",
+   "hints": [
+    {
+     "text": "Tree nut",
+     "level": 1
+    },
+    {
+     "text": "Winter treat",
+     "level": 1
+    },
+    {
+     "text": "Roasted on fires",
+     "level": 2
+    },
+    {
+     "text": "Sold on streets",
+     "level": 2
+    },
+    {
+     "text": "Shiny brown",
+     "level": 3
+    },
+    {
+     "text": "Spiky husk",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hazelnut",
+    "Walnut",
+    "Acorn"
+   ]
+  },
+  {
+   "word": "Pecan",
+   "hints": [
+    {
+     "text": "Tree nut",
+     "level": 1
+    },
+    {
+     "text": "Southern nut",
+     "level": 1
+    },
+    {
+     "text": "Baked in pies",
+     "level": 2
+    },
+    {
+     "text": "Sweet and buttery",
+     "level": 2
+    },
+    {
+     "text": "Long ridged kernel",
+     "level": 3
+    },
+    {
+     "text": "Smooth shell",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Walnut",
+    "Almond",
+    "Hazelnut"
+   ]
+  },
+  {
+   "word": "Sweet corn",
+   "hints": [
+    {
+     "text": "Yellow vegetable",
+     "level": 1
+    },
+    {
+     "text": "Summer crop",
+     "level": 1
+    },
+    {
+     "text": "Boiled and buttered",
+     "level": 2
+    },
+    {
+     "text": "Kids favorite",
+     "level": 2
+    },
+    {
+     "text": "Juicy kernels",
+     "level": 3
+    },
+    {
+     "text": "Silky threads",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Peas",
+    "Green beans",
+    "Popcorn"
+   ]
+  },
+  {
+   "word": "Spring onion",
+   "hints": [
+    {
+     "text": "Allium",
+     "level": 1
+    },
+    {
+     "text": "Salad allium",
+     "level": 1
+    },
+    {
+     "text": "Garnish for soups",
+     "level": 2
+    },
+    {
+     "text": "Chopped finely",
+     "level": 2
+    },
+    {
+     "text": "Thin white bulb",
+     "level": 3
+    },
+    {
+     "text": "Hollow green leaves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Leek",
+    "Chives",
+    "Shallot"
+   ]
+  },
+  {
+   "word": "Snow peas",
+   "hints": [
+    {
+     "text": "Pod vegetable",
+     "level": 1
+    },
+    {
+     "text": "Flat pods",
+     "level": 1
+    },
+    {
+     "text": "Used in stir fry",
+     "level": 2
+    },
+    {
+     "text": "Eaten whole",
+     "level": 2
+    },
+    {
+     "text": "Flat green pods",
+     "level": 3
+    },
+    {
+     "text": "Crunchy and sweet",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Green beans",
+    "Okra",
+    "Edamame"
+   ]
+  },
+  {
+   "word": "Edamame",
+   "hints": [
+    {
+     "text": "Soybean pod",
+     "level": 1
+    },
+    {
+     "text": "Japanese snack",
+     "level": 1
+    },
+    {
+     "text": "Served salted",
+     "level": 2
+    },
+    {
+     "text": "Popped from pods",
+     "level": 2
+    },
+    {
+     "text": "Fuzzy green pods",
+     "level": 3
+    },
+    {
+     "text": "Bright beans",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Peas",
+    "Snow peas",
+    "Green beans"
+   ]
+  },
+  {
+   "word": "Watercress",
+   "hints": [
+    {
+     "text": "Salad green",
+     "level": 1
+    },
+    {
+     "text": "Peppery leaf",
+     "level": 1
+    },
+    {
+     "text": "Grows in streams",
+     "level": 2
+    },
+    {
+     "text": "Tea sandwich filling",
+     "level": 2
+    },
+    {
+     "text": "Small round leaves",
+     "level": 3
+    },
+    {
+     "text": "Crisp stems",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Arugula",
+    "Spinach",
+    "Lettuce"
+   ]
+  },
+  {
+   "word": "Horseradish",
+   "hints": [
+    {
+     "text": "Root spice",
+     "level": 1
+    },
+    {
+     "text": "Fiery root",
+     "level": 1
+    },
+    {
+     "text": "Served with roast beef",
+     "level": 2
+    },
+    {
+     "text": "Clears sinuses",
+     "level": 2
+    },
+    {
+     "text": "White grated root",
+     "level": 3
+    },
+    {
+     "text": "Eye watering",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wasabi",
+    "Ginger",
+    "Mustard"
+   ]
+  },
+  {
+   "word": "Wasabi",
+   "hints": [
+    {
+     "text": "Japanese spice",
+     "level": 1
+    },
+    {
+     "text": "Green paste",
+     "level": 1
+    },
+    {
+     "text": "Served with sushi",
+     "level": 2
+    },
+    {
+     "text": "Clears sinuses",
+     "level": 2
+    },
+    {
+     "text": "Bright green",
+     "level": 3
+    },
+    {
+     "text": "Fiery kick",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Horseradish",
+    "Ginger",
+    "Mustard"
+   ]
+  },
+  {
+   "word": "Turmeric",
+   "hints": [
+    {
+     "text": "Golden spice",
+     "level": 1
+    },
+    {
+     "text": "Medicinal root",
+     "level": 1
+    },
+    {
+     "text": "Used in curries",
+     "level": 2
+    },
+    {
+     "text": "Stains everything",
+     "level": 2
+    },
+    {
+     "text": "Bright orange root",
+     "level": 3
+    },
+    {
+     "text": "Earthy flavor",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ginger",
+    "Saffron",
+    "Cumin"
+   ]
+  },
+  {
+   "word": "Basil",
+   "hints": [
+    {
+     "text": "Herb",
+     "level": 1
+    },
+    {
+     "text": "Fragrant leaf",
+     "level": 1
+    },
+    {
+     "text": "Used in pesto",
+     "level": 2
+    },
+    {
+     "text": "Pizza garnish",
+     "level": 2
+    },
+    {
+     "text": "Soft green leaves",
+     "level": 3
+    },
+    {
+     "text": "Sweet aroma",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mint",
+    "Oregano",
+    "Parsley"
+   ]
+  },
+  {
+   "word": "Mint",
+   "hints": [
+    {
+     "text": "Herb",
+     "level": 1
+    },
+    {
+     "text": "Cool leaf",
+     "level": 1
+    },
+    {
+     "text": "Used in drinks",
+     "level": 2
+    },
+    {
+     "text": "Freshens breath",
+     "level": 2
+    },
+    {
+     "text": "Bright green",
+     "level": 3
+    },
+    {
+     "text": "Cooling taste",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Basil",
+    "Parsley",
+    "Coriander"
+   ]
+  },
+  {
+   "word": "Coriander",
+   "hints": [
+    {
+     "text": "Herb",
+     "level": 1
+    },
+    {
+     "text": "Leafy garnish",
+     "level": 1
+    },
+    {
+     "text": "Soapy to some",
+     "level": 2
+    },
+    {
+     "text": "Used in curries",
+     "level": 2
+    },
+    {
+     "text": "Delicate leaves",
+     "level": 3
+    },
+    {
+     "text": "Citrusy aroma",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Parsley",
+    "Mint",
+    "Basil"
+   ]
+  },
+  {
+   "word": "Parsley",
+   "hints": [
+    {
+     "text": "Herb",
+     "level": 1
+    },
+    {
+     "text": "Garnish leaf",
+     "level": 1
+    },
+    {
+     "text": "Sprinkled on plates",
+     "level": 2
+    },
+    {
+     "text": "Mild and fresh",
+     "level": 2
+    },
+    {
+     "text": "Curly or flat",
+     "level": 3
+    },
+    {
+     "text": "Bright green",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Coriander",
+    "Basil",
+    "Dill"
+   ]
+  },
+  {
+   "word": "Dill",
+   "hints": [
+    {
+     "text": "Herb",
+     "level": 1
+    },
+    {
+     "text": "Feathery leaf",
+     "level": 1
+    },
+    {
+     "text": "Used with pickles",
+     "level": 2
+    },
+    {
+     "text": "Paired with fish",
+     "level": 2
+    },
+    {
+     "text": "Thin fronds",
+     "level": 3
+    },
+    {
+     "text": "Tangy aroma",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fennel",
+    "Parsley",
+    "Chives"
+   ]
+  },
+  {
+   "word": "Chives",
+   "hints": [
+    {
+     "text": "Herb",
+     "level": 1
+    },
+    {
+     "text": "Allium",
+     "level": 1
+    },
+    {
+     "text": "Sprinkled on baked potatoes",
+     "level": 2
+    },
+    {
+     "text": "Mild onion flavor",
+     "level": 2
+    },
+    {
+     "text": "Thin hollow stalks",
+     "level": 3
+    },
+    {
+     "text": "Purple flowers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Scallion",
+    "Leek",
+    "Dill"
+   ]
+  },
+  {
+   "word": "Rosemary",
+   "hints": [
+    {
+     "text": "Herb",
+     "level": 1
+    },
+    {
+     "text": "Woody herb",
+     "level": 1
+    },
+    {
+     "text": "Used with roast lamb",
+     "level": 2
+    },
+    {
+     "text": "Strong aroma",
+     "level": 2
+    },
+    {
+     "text": "Needle like leaves",
+     "level": 3
+    },
+    {
+     "text": "Woody stems",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Thyme",
+    "Sage",
+    "Basil"
+   ]
+  },
+  {
+   "word": "Thyme",
+   "hints": [
+    {
+     "text": "Herb",
+     "level": 1
+    },
+    {
+     "text": "Tiny leaf",
+     "level": 1
+    },
+    {
+     "text": "Used in stews",
+     "level": 2
+    },
+    {
+     "text": "Earthy aroma",
+     "level": 2
+    },
+    {
+     "text": "Tiny leaves on twigs",
+     "level": 3
+    },
+    {
+     "text": "Hardy plant",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rosemary",
+    "Oregano",
+    "Sage"
+   ]
+  },
+  {
+   "word": "Oregano",
+   "hints": [
+    {
+     "text": "Herb",
+     "level": 1
+    },
+    {
+     "text": "Pizza herb",
+     "level": 1
+    },
+    {
+     "text": "Sprinkled on pizza",
+     "level": 2
+    },
+    {
+     "text": "Dried in jars",
+     "level": 2
+    },
+    {
+     "text": "Small oval leaves",
+     "level": 3
+    },
+    {
+     "text": "Peppery aroma",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Basil",
+    "Thyme",
+    "Marjoram"
+   ]
+  },
+  {
+   "word": "Sage",
+   "hints": [
+    {
+     "text": "Herb",
+     "level": 1
+    },
+    {
+     "text": "Soft leaf",
+     "level": 1
+    },
+    {
+     "text": "Used in stuffing",
+     "level": 2
+    },
+    {
+     "text": "Burned for cleansing",
+     "level": 2
+    },
+    {
+     "text": "Velvety grey leaves",
+     "level": 3
+    },
+    {
+     "text": "Earthy aroma",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rosemary",
+    "Thyme",
+    "Mint"
+   ]
+  },
+  {
+   "word": "Bok choy",
+   "hints": [
+    {
+     "text": "Asian vegetable",
+     "level": 1
+    },
+    {
+     "text": "Leafy greens",
+     "level": 1
+    },
+    {
+     "text": "Used in stir fry",
+     "level": 2
+    },
+    {
+     "text": "Mild flavor",
+     "level": 2
+    },
+    {
+     "text": "White stalks",
+     "level": 3
+    },
+    {
+     "text": "Dark green leaves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cabbage",
+    "Chard",
+    "Spinach"
+   ]
+  },
+  {
+   "word": "Lemongrass",
+   "hints": [
+    {
+     "text": "Herb stalk",
+     "level": 1
+    },
+    {
+     "text": "Citrus herb",
+     "level": 1
+    },
+    {
+     "text": "Used in thai curries",
+     "level": 2
+    },
+    {
+     "text": "Brewed as tea",
+     "level": 2
+    },
+    {
+     "text": "Long woody stalk",
+     "level": 3
+    },
+    {
+     "text": "Lemony aroma",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ginger",
+    "Scallion",
+    "Leek"
+   ]
+  },
+  {
+   "word": "Gourd",
+   "hints": [
+    {
+     "text": "Vine vegetable",
+     "level": 1
+    },
+    {
+     "text": "Hard fruit",
+     "level": 1
+    },
+    {
+     "text": "Dried as containers",
+     "level": 2
+    },
+    {
+     "text": "Autumn decoration",
+     "level": 2
+    },
+    {
+     "text": "Bumpy shell",
+     "level": 3
+    },
+    {
+     "text": "Odd shapes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pumpkin",
+    "Squash",
+    "Melon"
+   ]
+  },
+  {
+   "word": "Squash",
+   "hints": [
+    {
+     "text": "Vine vegetable",
+     "level": 1
+    },
+    {
+     "text": "Autumn vegetable",
+     "level": 1
+    },
+    {
+     "text": "Roasted in winter",
+     "level": 2
+    },
+    {
+     "text": "Made into soup",
+     "level": 2
+    },
+    {
+     "text": "Hard rind",
+     "level": 3
+    },
+    {
+     "text": "Orange flesh",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pumpkin",
+    "Zucchini",
+    "Gourd"
+   ]
+  },
+  {
+   "word": "Mustard greens",
+   "hints": [
+    {
+     "text": "Leafy vegetable",
+     "level": 1
+    },
+    {
+     "text": "Peppery leaves",
+     "level": 1
+    },
+    {
+     "text": "Cooked as saag",
+     "level": 2
+    },
+    {
+     "text": "Winter vegetable",
+     "level": 2
+    },
+    {
+     "text": "Frilly leaves",
+     "level": 3
+    },
+    {
+     "text": "Spicy bite",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spinach",
+    "Kale",
+    "Chard"
+   ]
+  },
+  {
+   "word": "Corn cob",
+   "hints": [
+    {
+     "text": "Grain vegetable",
+     "level": 1
+    },
+    {
+     "text": "Summer snack",
+     "level": 1
+    },
+    {
+     "text": "Grilled on charcoal",
+     "level": 2
+    },
+    {
+     "text": "Sold by vendors",
+     "level": 2
+    },
+    {
+     "text": "Golden rows",
+     "level": 3
+    },
+    {
+     "text": "Buttered and salted",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wheat",
+    "Peas",
+    "Potato"
+   ]
+  },
+  {
+   "word": "Bean sprouts",
+   "hints": [
+    {
+     "text": "Crunchy vegetable",
+     "level": 1
+    },
+    {
+     "text": "Asian topping",
+     "level": 1
+    },
+    {
+     "text": "Added to pho",
+     "level": 2
+    },
+    {
+     "text": "Grown in jars",
+     "level": 2
+    },
+    {
+     "text": "White shoots",
+     "level": 3
+    },
+    {
+     "text": "Tiny tails",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Edamame",
+    "Lentils",
+    "Peas"
+   ]
+  },
+  {
+   "word": "Cherry tomato",
+   "hints": [
+    {
+     "text": "Small vegetable",
+     "level": 1
+    },
+    {
+     "text": "Salad favorite",
+     "level": 1
+    },
+    {
+     "text": "Grows in clusters",
+     "level": 2
+    },
+    {
+     "text": "Bursts when bitten",
+     "level": 2
+    },
+    {
+     "text": "Bite sized red",
+     "level": 3
+    },
+    {
+     "text": "Sweet and juicy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Grape",
+    "Radish",
+    "Olive"
+   ]
+  },
+  {
+   "word": "Pumpkin seeds",
+   "hints": [
+    {
+     "text": "Crunchy snack",
+     "level": 1
+    },
+    {
+     "text": "Healthy snack",
+     "level": 1
+    },
+    {
+     "text": "Roasted after carving",
+     "level": 2
+    },
+    {
+     "text": "Salty crunch",
+     "level": 2
+    },
+    {
+     "text": "Flat green kernels",
+     "level": 3
+    },
+    {
+     "text": "White husks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sunflower seeds",
+    "Peanuts",
+    "Almonds"
+   ]
+  },
+  {
+   "word": "Sunflower seeds",
+   "hints": [
+    {
+     "text": "Shelled snack",
+     "level": 1
+    },
+    {
+     "text": "Baseball snack",
+     "level": 1
+    },
+    {
+     "text": "Spit out shells",
+     "level": 2
+    },
+    {
+     "text": "Salty crunch",
+     "level": 2
+    },
+    {
+     "text": "Striped shells",
+     "level": 3
+    },
+    {
+     "text": "Grey kernels",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pumpkin seeds",
+    "Peanuts",
+    "Pistachio"
+   ]
+  },
+  {
+   "word": "Soybean",
+   "hints": [
+    {
+     "text": "Legume",
+     "level": 1
+    },
+    {
+     "text": "Protein crop",
+     "level": 1
+    },
+    {
+     "text": "Made into tofu",
+     "level": 2
+    },
+    {
+     "text": "Pressed for oil",
+     "level": 2
+    },
+    {
+     "text": "Small round beans",
+     "level": 3
+    },
+    {
+     "text": "Fuzzy pods",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chickpea",
+    "Lentil",
+    "Peanut"
+   ]
+  },
+  {
+   "word": "Black beans",
+   "hints": [
+    {
+     "text": "Legume",
+     "level": 1
+    },
+    {
+     "text": "Dark pulse",
+     "level": 1
+    },
+    {
+     "text": "Used in burritos",
+     "level": 2
+    },
+    {
+     "text": "Latin staple",
+     "level": 2
+    },
+    {
+     "text": "Tiny and dark",
+     "level": 3
+    },
+    {
+     "text": "Creamy inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kidney beans",
+    "Lentils",
+    "Chickpeas"
+   ]
+  },
+  {
+   "word": "Potato wedge",
+   "hints": [
+    {
+     "text": "Side dish",
+     "level": 1
+    },
+    {
+     "text": "Chunky fry",
+     "level": 1
+    },
+    {
+     "text": "Served with dips",
+     "level": 2
+    },
+    {
+     "text": "Oven baked",
+     "level": 2
+    },
+    {
+     "text": "Thick slices",
+     "level": 3
+    },
+    {
+     "text": "Skin on",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fries",
+    "Hash brown",
+    "Croquette"
+   ]
+  },
+  {
+   "word": "Iceberg lettuce",
+   "hints": [
+    {
+     "text": "Salad green",
+     "level": 1
+    },
+    {
+     "text": "Crunchy leaf",
+     "level": 1
+    },
+    {
+     "text": "Burger topping",
+     "level": 2
+    },
+    {
+     "text": "Very watery",
+     "level": 2
+    },
+    {
+     "text": "Pale round head",
+     "level": 3
+    },
+    {
+     "text": "Crisp leaves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cabbage",
+    "Romaine",
+    "Spinach"
+   ]
+  },
+  {
+   "word": "Romaine",
+   "hints": [
+    {
+     "text": "Salad green",
+     "level": 1
+    },
+    {
+     "text": "Long leaf",
+     "level": 1
+    },
+    {
+     "text": "Used in caesar salad",
+     "level": 2
+    },
+    {
+     "text": "Crunchy ribs",
+     "level": 2
+    },
+    {
+     "text": "Long upright leaves",
+     "level": 3
+    },
+    {
+     "text": "Dark green",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Iceberg",
+    "Spinach",
+    "Kale"
+   ]
+  },
+  {
+   "word": "Ginger root",
+   "hints": [
+    {
+     "text": "Kitchen spice",
+     "level": 1
+    },
+    {
+     "text": "Knobby rhizome",
+     "level": 1
+    },
+    {
+     "text": "Grated into tea",
+     "level": 2
+    },
+    {
+     "text": "Used in stir fry",
+     "level": 2
+    },
+    {
+     "text": "Beige skin",
+     "level": 3
+    },
+    {
+     "text": "Peppery bite",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Turmeric",
+    "Garlic",
+    "Horseradish"
+   ]
+  },
+  {
+   "word": "Sweet pepper",
+   "hints": [
+    {
+     "text": "Mild vegetable",
+     "level": 1
+    },
+    {
+     "text": "Colorful vegetable",
+     "level": 1
+    },
+    {
+     "text": "Sliced into salads",
+     "level": 2
+    },
+    {
+     "text": "Stuffed and roasted",
+     "level": 2
+    },
+    {
+     "text": "Bell shape",
+     "level": 3
+    },
+    {
+     "text": "Crunchy and juicy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chili",
+    "Tomato",
+    "Eggplant"
+   ]
+  },
+  {
+   "word": "Acorn squash",
+   "hints": [
+    {
+     "text": "Winter vegetable",
+     "level": 1
+    },
+    {
+     "text": "Ribbed gourd",
+     "level": 1
+    },
+    {
+     "text": "Roasted in halves",
+     "level": 2
+    },
+    {
+     "text": "Autumn harvest",
+     "level": 2
+    },
+    {
+     "text": "Dark green ridges",
+     "level": 3
+    },
+    {
+     "text": "Orange flesh",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pumpkin",
+    "Zucchini",
+    "Butternut"
+   ]
+  },
+  {
+   "word": "Butternut",
+   "hints": [
+    {
+     "text": "Winter vegetable",
+     "level": 1
+    },
+    {
+     "text": "Pear shaped gourd",
+     "level": 1
+    },
+    {
+     "text": "Made into soup",
+     "level": 2
+    },
+    {
+     "text": "Roasted in cubes",
+     "level": 2
+    },
+    {
+     "text": "Tan skin",
+     "level": 3
+    },
+    {
+     "text": "Sweet orange flesh",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pumpkin",
+    "Acorn squash",
+    "Sweet potato"
+   ]
+  },
+  {
+   "word": "Red cabbage",
+   "hints": [
+    {
+     "text": "Purple vegetable",
+     "level": 1
+    },
+    {
+     "text": "Leafy head",
+     "level": 1
+    },
+    {
+     "text": "Pickled or slawed",
+     "level": 2
+    },
+    {
+     "text": "Turns blue when cooked",
+     "level": 2
+    },
+    {
+     "text": "Deep purple leaves",
+     "level": 3
+    },
+    {
+     "text": "Tight layers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lettuce",
+    "Beetroot",
+    "Radicchio"
+   ]
+  },
+  {
+   "word": "Radicchio",
+   "hints": [
+    {
+     "text": "Bitter leaf",
+     "level": 1
+    },
+    {
+     "text": "Italian vegetable",
+     "level": 1
+    },
+    {
+     "text": "Grilled in halves",
+     "level": 2
+    },
+    {
+     "text": "Fancy salads",
+     "level": 2
+    },
+    {
+     "text": "Red and white leaves",
+     "level": 3
+    },
+    {
+     "text": "Small round head",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Red cabbage",
+    "Endive",
+    "Lettuce"
+   ]
+  },
+  {
+   "word": "Endive",
+   "hints": [
+    {
+     "text": "Bitter leaf",
+     "level": 1
+    },
+    {
+     "text": "Salad green",
+     "level": 1
+    },
+    {
+     "text": "Used as edible scoops",
+     "level": 2
+    },
+    {
+     "text": "Belgian favorite",
+     "level": 2
+    },
+    {
+     "text": "Pale torpedo shape",
+     "level": 3
+    },
+    {
+     "text": "Crisp leaves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Radicchio",
+    "Lettuce",
+    "Cabbage"
+   ]
+  },
+  {
+   "word": "Garlic chives",
+   "hints": [
+    {
+     "text": "Herb",
+     "level": 1
+    },
+    {
+     "text": "Flat allium",
+     "level": 1
+    },
+    {
+     "text": "Used in dumplings",
+     "level": 2
+    },
+    {
+     "text": "Asian kitchens",
+     "level": 2
+    },
+    {
+     "text": "Flat green blades",
+     "level": 3
+    },
+    {
+     "text": "Pungent aroma",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Scallion",
+    "Leek",
+    "Basil"
+   ]
+  },
+  {
+   "word": "Cucumber pickle",
+   "hints": [
+    {
+     "text": "Preserved vegetable",
+     "level": 1
+    },
+    {
+     "text": "Tangy side",
+     "level": 1
+    },
+    {
+     "text": "Served with burgers",
+     "level": 2
+    },
+    {
+     "text": "Kept in jars",
+     "level": 2
+    },
+    {
+     "text": "Briny and crunchy",
+     "level": 3
+    },
+    {
+     "text": "Dill flavor",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Olive",
+    "Relish",
+    "Kimchi"
+   ]
+  }
+ ]
+}

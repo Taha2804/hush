@@ -1,0 +1,143 @@
+@id mythical
+@name Mythical Creatures
+Dragon | Mythical beast; Legendary monster | Hoards gold; Knights fight it | Breathes fire; Scaly wings | Wyvern; Serpent; Griffin
+Unicorn | Mythical horse; Magical creature | Symbol of purity; Rainbow fantasies | Single horn; White coat | Pegasus; Alicorn; Kirin
+Phoenix | Mythical bird; Fire creature | Rises from ashes; Symbol of rebirth | Flaming feathers; Reborn eternally | Thunderbird; Griffin; Roc
+Griffin | Mythical beast; Hybrid creature | Guards treasure; Heraldry symbol | Eagle head; Lion body | Hippogriff; Sphinx; Manticore
+Mermaid | Sea creature; Mythical maiden | Lures sailors; Sings on rocks | Fish tail; Long flowing hair | Siren; Selkie; Nymph
+Centaur | Mythical hybrid; Greek creature | Skilled archers; Wise teachers | Horse body; Human torso | Minotaur; Satyr; Faun
+Minotaur | Greek monster; Hybrid beast | Lives in a labyrinth; Eats tributes | Bull head; Human body | Centaur; Cyclops; Satyr
+Cyclops | Greek giant; One eyed monster | Blinded by a hero; Forges thunderbolts | Single eye; Huge and strong | Titan; Ogre; Giant
+Hydra | Greek monster; Serpent beast | Heads grow back; Hero's labor | Many heads; Poisonous breath | Dragon; Kraken; Basilisk
+Kraken | Sea monster; Giant beast | Sinks ships; Sailor legends | Huge tentacles; Lurks in deep | Leviathan; Hydra; Sea serpent
+Yeti | Snow creature; Cryptid | Himalayan legend; Abominable snowman | White fur; Giant footprints | Bigfoot; Sasquatch; Wendigo
+Bigfoot | Forest cryptid; Hairy giant | Blurry photos; Hikers claim sightings | Huge footprints; Ape like | Yeti; Sasquatch; Yowie
+Vampire | Undead creature; Night stalker | Sleeps in coffins; Hates garlic | Sharp fangs; No reflection | Werewolf; Zombie; Ghost
+Werewolf | Shapeshifter; Night creature | Full moon transformation; Silver bullets | Howls; Hairy beast | Vampire; Wendigo; Skinwalker
+Ghost | Spirit; Haunting presence | Haunted houses; Moans at night | See through; White sheet | Spirit; Phantom; Poltergeist
+Zombie | Undead creature; Walking dead | Apocalypse stories; Craves brains | Shambling walk; Rotting flesh | Mummy; Ghoul; Vampire
+Mummy | Undead creature; Ancient corpse | Egyptian tombs; Pharaoh's curse | Wrapped in bandages; Shuffling | Zombie; Skeleton; Ghoul
+Goblin | Small monster; Mischievous creature | Lives in caves; Steals things | Green skin; Pointy ears | Gremlin; Imp; Troll
+Troll | Mythical brute; Bridge dweller | Demands tolls; Turns to stone | Huge and ugly; Lives under bridges | Ogre; Goblin; Giant
+Ogre | Giant brute; Fairy tale monster | Eats people; Lives in swamps | Huge and smelly; Club wielding | Troll; Giant; Cyclops
+Elf | Magical being; Woodland folk | Santa's helpers; Archers in fantasy | Pointy ears; Long life | Fairy; Dwarf; Pixie
+Dwarf | Mythical miner; Short folk | Mine for gems; Forge weapons | Long beard; Pickaxe | Elf; Gnome; Hobbit
+Fairy | Magical being; Tiny sprite | Grants wishes; Lives in gardens | Glittering wings; Magic wand | Pixie; Sprite; Elf
+Pixie | Magical sprite; Tiny folk | Mischief makers; Sparkly dust | Pointed hats; Tiny wings | Fairy; Sprite; Imp
+Gnome | Garden folk; Earth spirit | Garden statues; Guards treasure | Pointy red hat; White beard | Dwarf; Leprechaun; Elf
+Leprechaun | Irish fairy; Tiny cobbler | Pot of gold; Lucky charms | Green suit; Buckled hat | Gnome; Elf; Pixie
+Sphinx | Mythical riddler; Hybrid guardian | Asks riddles; Guards pyramids | Lion body; Human head | Griffin; Manticore; Chimera
+Pegasus | Winged horse; Greek creature | Born from a gorgon; Flies heroes | Feathered wings; White stallion | Unicorn; Hippogriff; Alicorn
+Chimera | Greek monster; Hybrid beast | Breathes fire; Slain by a hero | Lion goat serpent; Three heads | Manticore; Griffin; Hydra
+Basilisk | Serpent king; Deadly reptile | Deadly gaze; Petrifies victims | Crowned serpent; Venomous | Cockatrice; Hydra; Gorgon
+Cockatrice | Mythical beast; Rooster serpent | Hatched from egg; Deadly gaze | Rooster head; Serpent tail | Basilisk; Wyvern; Griffin
+Wyvern | Dragon kin; Winged reptile | Heraldry beast; Medieval legend | Two legs; Barbed tail | Dragon; Basilisk; Cockatrice
+Manticore | Persian monster; Hybrid beast | Man eater; Shoots spikes | Lion body; Scorpion tail | Chimera; Sphinx; Griffin
+Harpy | Greek monster; Bird woman | Snatches food; Storm spirits | Woman face; Bird body | Siren; Gorgon; Valkyrie
+Siren | Sea enchantress; Greek creature | Lures sailors; Deadly songs | Beautiful voice; Rocky islands | Mermaid; Harpy; Nymph
+Gorgon | Greek monster; Snake haired woman | Turns people to stone; Slain by a hero | Snakes for hair; Deadly gaze | Basilisk; Harpy; Siren
+Cerberus | Greek hound; Underworld guard | Guards the dead; Lulled by music | Three heads; Serpent tail | Hellhound; Fenrir; Chimera
+Satyr | Greek creature; Woodland spirit | Loves music and parties; Follows revelry god | Goat legs; Small horns | Faun; Centaur; Minotaur
+Faun | Roman spirit; Forest creature | Plays pipes; Gentle woodland dweller | Goat legs; Curly horns | Satyr; Centaur; Dryad
+Nymph | Nature spirit; Greek maiden | Lives in springs; Dances in woods | Beautiful maiden; Tied to nature | Dryad; Naiad; Siren
+Dryad | Tree spirit; Forest nymph | Lives in oaks; Dies with tree | Bark skin; Leafy hair | Nymph; Ent; Faun
+Selkie | Sea creature; Shapeshifter | Celtic legend; Sheds seal skin | Seal form; Human form | Mermaid; Kelpie; Siren
+Kelpie | Water spirit; Shapeshifting horse | Scottish lochs; Drowns riders | Horse form; Dripping mane | Selkie; Pegasus; Hippocamp
+Golem | Clay giant; Animated statue | Jewish folklore; Guards a city | Made of clay; Word on forehead | Gargoyle; Robot; Titan
+Genie | Magical spirit; Wish granter | Lives in a lamp; Three wishes | Smoke wisps; Rubbed lamp | Djinn; Fairy; Wizard
+Kitsune | Japanese spirit; Fox spirit | Shapeshifts into women; Trickster | Many tails; Glowing fur | Tanuki; Tengu; Werewolf
+Tengu | Japanese spirit; Mountain goblin | Masters of martial arts; Mischief | Long nose; Red face | Kappa; Oni; Kitsune
+Kappa | Japanese creature; River imp | Loves cucumbers; Drowns swimmers | Water dish on head; Turtle shell | Tengu; Kitsune; Goblin
+Oni | Japanese demon; Ogre | Festival masks; Carries club | Red or blue skin; Horns | Troll; Ogre; Tengu
+Naga | Serpent being; South asian deity | Guards treasures; Water realms | Cobra hood; Half snake | Basilisk; Lamia; Hydra
+Garuda | Bird deity; Hindu legend | Vishnu's mount; Enemy of serpents | Eagle like; Golden wings | Phoenix; Roc; Thunderbird
+Wendigo | Cryptid; Cannibal spirit | North woods legend; Endless hunger | Antlered skull; Gaunt body | Yeti; Skinwalker; Werewolf
+Chupacabra | Cryptid; Blood drinker | Latin american legend; Livestock attacks | Spiky back; Glowing eyes | Wendigo; Vampire; Jackalope
+Mothman | Cryptid; Winged humanoid | West virginia legend; Bridge sighting | Glowing red eyes; Large wings | Bigfoot; Jersey devil; Owlman
+Jackalope | Cryptid; Joke creature | Postcard prank; Wild west tall tale | Rabbit body; Antlers | Unicorn; Chupacabra; Wolpertinger
+Thunderbird | Mythical flyer; Native american legend | Creates storms; Totem poles | Giant wings; Lightning eyes | Phoenix; Roc; Garuda
+Roc | Giant bird; Arabian legend | Carries elephants; Sailor tales | Enormous wingspan; Huge eggs | Phoenix; Thunderbird; Garuda
+Hippogriff | Mythical beast; Hybrid flyer | Bow before riding; Fantasy steed | Eagle front; Horse back | Griffin; Pegasus; Unicorn
+Kirin | Asian beast; Auspicious creature | Appears for wise rulers; Gentle | Dragon scales; Deer body | Unicorn; Qilin; Dragon
+Banshee | Irish spirit; Wailing woman | Wails before death; Omen | Piercing scream; Ghostly figure | Ghost; Siren; Wraith
+Wraith | Ghostly being; Spectral figure | Dark fantasy villain; Drains life | Shadowy form; Hooded cloak | Ghost; Specter; Banshee
+Poltergeist | Noisy ghost; Haunting spirit | Throws objects; Bangs in night | Flying furniture; Unseen force | Ghost; Phantom; Demon
+Ghoul | Undead creature; Grave robber | Feeds on corpses; Lurks in cemeteries | Pale skin; Sharp claws | Zombie; Vampire; Mummy
+Imp | Small demon; Mischievous creature | Plays pranks; Pesky helper | Tiny horns; Bat wings | Goblin; Gremlin; Pixie
+Gremlin | Mischievous creature; Machine wrecker | Pilots blamed them; Breaks gadgets | Pointy ears; Grinning teeth | Goblin; Imp; Troll
+Hobgoblin | Household spirit; Puckish kin | Helpful or tricky; English folklore | Small and hairy; Mischievous grin | Gremlin; Brownie; Imp
+Brownie | Household spirit; Helpful fairy | Does chores at night; Leave out milk | Tiny and shaggy; Shy helper | Hobgoblin; Elf; Gnome
+Boggart | Household spirit; Shapeshifter | English folklore; Scares children | Takes feared forms; Hides in closets | Bogeyman; Poltergeist; Hobgoblin
+Bogeyman | Scary figure; Child fright | Hides under beds; Behave warning | Shadowy shape; Lurks in closets | Ghost; Boggart; Monster
+Sandman | Sleep spirit; Folklore figure | Brings dreams; Sprinkles sleepy dust | Sack of dust; Night visitor | Tooth fairy; Bogeyman; Elf
+Tooth fairy | Childhood spirit; Night visitor | Swaps teeth for coins; Under pillows | Tiny wings; Collects baby teeth | Sandman; Easter bunny; Elf
+Kobold | Household sprite; German goblin | Mines and kitchens; Mischief | Small and sneaky; Glowing eyes | Gnome; Goblin; Brownie
+Nixie | Water sprite; Shapeshifter | Lures to rivers; Germanic legend | Lives in rivers; Plays music | Naiad; Kelpie; Mermaid
+Sprite | Small spirit; Elemental being | Woodland mischief; Quick and light | Tiny glowing figure; Airy | Fairy; Pixie; Wisp
+Specter | Ghostly figure; Apparition | Haunts castles; Chilling presence | Transparent form; Cold air | Ghost; Wraith; Phantom
+Phantom | Ghostly figure; Apparition | Opera legend; Vanishes suddenly | Masked face; Shadowy | Ghost; Specter; Wraith
+Lich | Undead sorcerer; Dark wizard | Seeks immortality; Fantasy villain | Skeletal mage; Hidden soul jar | Wraith; Necromancer; Vampire
+Revenant | Undead returner; Vengeful corpse | Returns for revenge; Medieval legend | Decayed figure; Unfinished business | Zombie; Ghoul; Wraith
+Dullahan | Irish spirit; Headless rider | Omen of death; Black horse | Carries own head; Whip of spine | Banshee; Wraith; Phantom
+Lamia | Greek monster; Serpent woman | Devours children; Ancient legend | Snake lower body; Woman upper | Naga; Gorgon; Siren
+Sea serpent | Ocean monster; Giant snake | Sailor sightings; Ancient maps | Coiling body; Rises from waves | Kraken; Leviathan; Hydra
+Leviathan | Sea monster; Biblical beast | Ocean chaos; Ancient scripture | Colossal size; Scaly coils | Kraken; Behemoth; Sea serpent
+Behemoth | Land monster; Biblical beast | Ancient scripture; Unstoppable | Colossal size; Mighty tail | Leviathan; Titan; Giant
+Nessie | Lake monster; Scottish cryptid | Blurry photos; Tourist legend | Long neck; Humps in water | Kraken; Sea serpent; Bigfoot
+Hellhound | Demonic dog; Underworld beast | Hunts souls; Omen of death | Fiery eyes; Black fur | Cerberus; Werewolf; Barghest
+Fenrir | Norse wolf; Giant beast | Bound by gods; Swallows the sun | Enormous wolf; Broken chains | Cerberus; Werewolf; Hellhound
+Valkyrie | Norse warrior maiden; Battle spirit | Chooses the fallen; Rides to hall | Winged helmet; Flying horse | Harpy; Angel; Amazon
+Titan | Greek giant; Primordial god | Before the olympians; Overthrown | Colossal size; Ancient power | Giant; Cyclops; Golem
+Giant | Huge being; Fairy tale figure | Beanstalk story; Fee fi fo fum | Towering height; Stomps | Titan; Ogre; Troll
+Angel | Heavenly being; Divine messenger | Guardian protector; Christmas tree topper | Feathered wings; Halo | Cherub; Fairy; Valkyrie
+Cherub | Winged child; Heavenly being | Valentine imagery; Church paintings | Chubby baby; Tiny wings | Angel; Cupid; Fairy
+Demon | Evil spirit; Underworld being | Possession stories; Exorcisms | Horns and tail; Red eyes | Devil; Imp; Ghost
+Gargoyle | Stone creature; Cathedral guardian | Comes alive at night; Gothic buildings | Winged statue; Water spout | Golem; Statue; Demon
+Shapeshifter | Transforming being; Mythical changer | Mimics others; Folklore across cultures | Changes form; Hidden identity | Werewolf; Changeling; Doppelganger
+Changeling | Fairy child; Swapped baby | Left by fairies; Irish folklore | Strange behavior; Looks like a child | Shapeshifter; Elf; Pixie
+Doppelganger | Ghostly double; Look alike | Bad omen; Meeting yourself | Identical twin; Spooky copy | Shapeshifter; Twin; Clone
+Skinwalker | Shapeshifter; Navajo legend | Wears animal skins; Night terror | Eerie howls; Walks upright | Werewolf; Wendigo; Shapeshifter
+Rakshasa | Hindu demon; Shapeshifter | Epic villains; Man eater | Fangs and claws; Many forms | Asura; Ogre; Vampire
+Vetala | Hindu spirit; Corpse dweller | Riddles a king; Lives in cemeteries | Hangs from trees; Possesses bodies | Ghost; Vampire; Rakshasa
+Yaksha | Nature spirit; Treasure guardian | Hindu and buddhist lore; Guards wealth | Stout figure; Temple carvings | Gandharva; Naga; Genie
+Apsara | Celestial dancer; Heavenly nymph | Temple carvings; Divine courts | Graceful dancer; Jeweled crown | Nymph; Angel; Gandharva
+Makara | Sea creature; Hindu beast | River goddess mount; Temple gates | Crocodile body; Elephant snout | Naga; Kraken; Leviathan
+Kinnara | Celestial musician; Half bird being | Buddhist art; Heavenly songs | Human torso; Bird legs | Harpy; Apsara; Garuda
+Asura | Demon race; Power seekers | Fight the devas; Hindu epics | Many arms; Fierce faces | Rakshasa; Titan; Demon
+Djinn | Spirit being; Arabian legend | Made of smokeless fire; Grants wishes | Bound to lamps; Invisible | Genie; Ifrit; Demon
+Ifrit | Fire spirit; Arabian demon | Powerful djinn class; Feared | Flaming body; Smoky wings | Djinn; Genie; Demon
+Bunyip | Australian cryptid; Swamp monster | Aboriginal legend; Lurks in billabongs | Booming cry; Furry body | Yowie; Kelpie; Swamp thing
+Yowie | Australian cryptid; Hairy giant | Outback sightings; Blurry photos | Ape like; Big footprints | Bigfoot; Yeti; Bunyip
+Tikbalang | Filipino creature; Trickster | Leads travelers astray; Forest dweller | Horse head; Long limbs | Kapre; Aswang; Centaur
+Aswang | Filipino monster; Shapeshifter | Night terror; Village legend | Long tongue; Flying torso | Vampire; Ghoul; Tikbalang
+Baku | Dream eater; Japanese spirit | Eats nightmares; Pillow charm | Elephant trunk; Tiger paws | Tapir; Kirin; Kitsune
+Tanuki | Japanese creature; Raccoon dog spirit | Shapeshifting trickster; Statues outside shops | Big belly; Straw hat | Kitsune; Kappa; Raccoon
+Rusalka | Slavic spirit; Water maiden | Drowns young men; Haunts rivers | Pale maiden; Wet hair | Mermaid; Nixie; Siren
+Domovoi | Slavic spirit; House guardian | Lives behind stove; Protects home | Small bearded man; Hairy | Brownie; Kobold; Gnome
+Firebird | Slavic legend; Glowing creature | Russian fairy tales; Quest prize | Flaming plumage; Golden glow | Phoenix; Thunderbird; Roc
+Baba yaga | Slavic witch; Forest crone | Fairy tale villain; Eats children | Chicken leg hut; Flying mortar | Hag; Witch; Crone
+Zmey | Slavic dragon; Multi headed beast | Russian epics; Kidnaps princesses | Three heads; Breathes fire | Dragon; Hydra; Wyvern
+Alicorn | Winged unicorn; Fantasy creature | Royal ponies; Ultimate magic | Horn and wings; Shimmering coat | Unicorn; Pegasus; Hippogriff
+Peryton | Mythical beast; Deer bird | Casts human shadow; Atlantis myth | Stag body; Bird wings | Hippogriff; Griffin; Jackalope
+Amphisbaena | Serpent beast; Two headed snake | Ancient bestiary; Rolls like hoop | Head at each end; Glowing eyes | Basilisk; Hydra; Naga
+Ouroboros | Serpent symbol; Endless loop | Eternity sign; Alchemy emblem | Eats own tail; Circular | Dragon; Basilisk; Naga
+Hippocamp | Sea horse beast; Greek creature | Pulls sea god chariot; Fountains | Horse front; Fish tail | Kelpie; Mermaid; Pegasus
+Triton | Sea god; Merman | Blows conch shell; Calms waves | Fish tail; Trident | Mermaid; Siren; Selkie
+Merman | Sea creature; Male mermaid | Ocean kingdom; Fairy tales | Fish tail; Trident in hand | Mermaid; Triton; Selkie
+Ent | Tree giant; Forest shepherd | Fantasy novel; Slow speaking | Bark skin; Walking tree | Dryad; Golem; Troll
+Treant | Tree creature; Forest guardian | Fantasy games; Protects woods | Moving trunk; Branch arms | Ent; Dryad; Golem
+Wisp | Ghost light; Marsh spirit | Leads travelers astray; Swamp glow | Floating flame; Flickering | Sprite; Firefly; Phantom
+Hag | Old witch; Folklore crone | Curses villages; Fairy tale villain | Warty nose; Bent back | Witch; Crone; Banshee
+Witch | Magic user; Spell caster | Flies on broom; Brews potions | Pointy hat; Black cat | Wizard; Hag; Sorcerer
+Wizard | Magic user; Spellcaster | Casts spells; Wise mentor | Long beard; Pointed hat | Witch; Sorcerer; Warlock
+Sorcerer | Magic user; Dark mage | Commands spirits; Ancient tomes | Glowing staff; Dark robes | Wizard; Warlock; Witch
+Necromancer | Dark magician; Death mage | Raises the dead; Graveyard rituals | Skull staff; Hooded robe | Lich; Sorcerer; Wizard
+Grim reaper | Death figure; Soul collector | Comes for souls; Hourglass | Black hooded cloak; Scythe | Ghost; Banshee; Wraith
+Cupid | Love god; Winged archer | Valentines day icon; Matchmaker | Bow and arrows; Chubby wings | Cherub; Angel; Fairy
+Medusa | Gorgon queen; Greek monster | Defeated by a hero; Cursed beauty | Snakes for hair; Stone gaze | Gorgon; Harpy; Lamia
+Sasquatch | Forest cryptid; Hairy giant | Pacific northwest; Hiker legends | Ape like; Big feet | Bigfoot; Yeti; Yowie
+Water kelpie | Loch horse; Scottish spirit | Lures children; Lochs and rivers | Seaweed mane; Wet coat | Selkie; Hippocamp; Nixie
+Jersey devil | Cryptid; Winged creature | Pine barrens legend; Thirteenth child | Hooves and wings; Forked tail | Mothman; Chupacabra; Gargoyle
+Wolpertinger | Bavarian cryptid; Hybrid beast | Tourist joke; Taxidermy prank | Rabbit with wings; Antlers | Jackalope; Griffin; Chimera
+Bigfoot cousin | Cryptid kin; Hairy beast | Campfire tales; Blurry legend | Footprints in mud; Shaggy | Yeti; Yowie; Sasquatch
+Swamp monster | Bog creature; Cryptid | Bayou legends; Horror films | Slimy green; Moss covered | Bunyip; Kraken; Troll

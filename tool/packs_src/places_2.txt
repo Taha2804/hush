@@ -1,0 +1,7 @@
+@id places
+@name Places
+Hair salon | Beauty spot; Styling studio | Weekly blowouts; Gossip sessions | Mirrors and dryers; Color foils | Barbershop; Spa; Boutique
+Boutique | Small shop; Fashion store | Designer pieces; Window displays | Mannequins; Changing rooms | Mall; Market; Salon
+Casino | Gambling venue; Entertainment hall | Slot machines; High rollers | Roulette wheels; Poker chips | Arcade; Bowling alley; Stadium
+Racetrack | Racing venue; Speed circuit | Horse or car races; Cheering crowds | Grandstands; Finish line | Stadium; Arena; Highway
+Lagoon resort | Island stay; Tropical getaway | Overwater bungalows; Snorkel trips | Turquoise water; Palm shade | Hotel; Hostel; Campsite

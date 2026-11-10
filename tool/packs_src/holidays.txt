@@ -1,0 +1,144 @@
+@id holidays
+@name Holidays & Festivals
+Christmas | Winter holiday; December festival | Gifts under a tree; Family dinners | Stockings and carols; Reindeer and sleigh | Thanksgiving; Hanukkah; Easter
+Diwali | Festival of lights; Hindu festival | Fireworks and sweets; Cleaning homes | Oil lamps; Rangoli patterns | Holi; Navratri; Dussehra
+Holi | Spring festival; Color festival | Throwing powder; Water balloons | Bright pigments; Splashed clothes | Diwali; Lohri; Songkran
+Eid | Religious festival; Celebration day | Ends a holy month; New clothes | Sweet vermicelli; Moon sighting | Diwali; Christmas; Hanukkah
+Easter | Spring holiday; Religious feast | Egg hunts; Chocolate treats | Painted eggs; Bunny mascot | Christmas; Passover; Thanksgiving
+Halloween | Autumn holiday; Spooky night | Trick or treat; Costume parties | Carved pumpkins; Witches and ghosts | Samhain; Bonfire night; Carnival
+Thanksgiving | Autumn holiday; Harvest feast | Family gathering; Expressing gratitude | Roast turkey; Pumpkin pie | Christmas; Harvest festival; Easter
+New year | Annual celebration; Calendar start | Midnight countdown; Resolutions | Fireworks; Champagne toasts | Christmas; Birthday; Diwali
+Tet | Vietnamese festival; Lunar celebration | Red envelopes; Family reunions | Peach blossoms; Sticky rice cakes | Diwali; Mid autumn; Songkran
+Hanukkah | Winter holiday; Jewish festival | Eight nights; Spinning tops | Menorah candles; Potato pancakes | Christmas; Passover; Diwali
+Passover | Spring holiday; Jewish festival | Seder dinner; Story retold | Unleavened bread; Four cups | Easter; Hanukkah; Sukkot
+Ramadan | Holy month; Fasting period | Dawn to dusk fasting; Night prayers | Iftar meals; Crescent moon | Lent; Eid; Navratri
+Valentines day | Romantic holiday; February celebration | Cards and roses; Dinner dates | Heart shapes; Chocolates | Mothers day; Anniversary; Galentines
+Mothers day | Family holiday; Parent appreciation | Breakfast in bed; Flowers | Handmade cards; Hugs | Fathers day; Valentines day; Birthday
+Fathers day | Family holiday; Parent appreciation | Ties and tools gifts; Barbecues | Handmade cards; Golf outings | Mothers day; Birthday; Labor day
+Birthday | Personal celebration; Annual party | Cake and candles; Gifts | Party hats; Singing to you | Anniversary; New year; Wedding
+Anniversary | Celebration; Yearly milestone | Couples celebrate; Romantic dinners | Gifts by year; Toasting | Birthday; Wedding; Valentines day
+Wedding | Ceremony; Celebration of marriage | Vows and rings; Dancing reception | White gown; Tiered cake | Engagement; Anniversary; Birthday
+Graduation | Ceremony; Academic milestone | Caps tossed; Proud families | Gowns and diplomas; Stage walk | Prom; Wedding; Birthday
+Carnival | Festival; Street party | Parades and costumes; Samba dancers | Feathered outfits; Floats | Mardi gras; Halloween; Parade
+Mardi gras | Festival; Party season | Bead throwing; Masked revelers | Purple green gold; Pancake tuesday | Carnival; Halloween; New year
+Oktoberfest | Autumn festival; Bavarian fair | Lederhosen; Oompah bands | Pretzels and sausages; Huge tents | Carnival; Harvest festival; Fair
+Navratri | Hindu festival; Nine nights | Garba dancing; Fasting | Colorful chaniya choli; Dandiya sticks | Durga puja; Diwali; Dussehra
+Durga puja | Hindu festival; Bengali festival | Pandal hopping; Goddess worship | Clay idols; Drumming dhak | Navratri; Diwali; Ganesh chaturthi
+Dussehra | Hindu festival; Victory day | Good over evil; Theater plays | Burning effigies; Bow and arrow | Diwali; Navratri; Holi
+Ganesh chaturthi | Hindu festival; Elephant god celebration | Idols in homes; Immersion processions | Modak sweets; Clay statues | Durga puja; Diwali; Janmashtami
+Janmashtami | Hindu festival; Birthday celebration | Midnight prayers; Pot breaking | Butter pots; Human pyramids | Ganesh chaturthi; Ram navami; Holi
+Raksha bandhan | Indian festival; Sibling celebration | Sisters tie threads; Brothers promise | Decorative bracelet; Sweets exchange | Bhai dooj; Diwali; Karva chauth
+Pongal | Harvest festival; South indian celebration | Boiling rice pots; Cattle decorated | Sugarcane stalks; Kolam drawings | Onam; Makar sankranti; Lohri
+Onam | Harvest festival; Kerala celebration | Boat races; Flower carpets | Banana leaf feast; Pookalam | Pongal; Vishu; Diwali
+Lohri | Winter festival; Punjabi celebration | Bonfire dancing; Folk songs | Popcorn and peanuts; Bonfire circles | Makar sankranti; Pongal; Baisakhi
+Baisakhi | Harvest festival; Punjabi new year | Bhangra dancing; Fairs | Golden wheat; Drums | Lohri; Holi; Pongal
+Makar sankranti | Harvest festival; Kite festival | Kite battles on rooftops; Sesame sweets | Til ladoos; Sun festival | Lohri; Pongal; Baisakhi
+Christmas eve | Holiday night; Festive evening | Hanging stockings; Midnight mass | Cookies for visitors; Wrapped presents | Hogmanay; Boxing day; Epiphany
+Boxing day | Post holiday; Shopping spree | Big sales; Leftover turkey | After the feast; Football matches | Black friday; Christmas eve; New year
+Black friday | Shopping event; Sale day | Huge discounts; Store stampedes | Doorbusters; Long queues | Cyber monday; Boxing day; Thanksgiving
+Independence day | National holiday; Freedom celebration | Flag hoisting; Parades | Fireworks; National anthem | Republic day; Labor day; Memorial day
+Republic day | National holiday; Constitution anniversary | Military parades; Flag ceremonies | Marching troops; Tableaux | Independence day; Labor day; Victory day
+Labor day | Public holiday; Workers holiday | Long weekend; End of summer | Barbecues; Parades | May day; Memorial day; Independence day
+Memorial day | Remembrance holiday; Honoring fallen | Veterans honored; Long weekend | Poppies or flags; Cemeteries | Veterans day; Labor day; Independence day
+Earth day | Environmental holiday; Green holiday | Tree planting; Clean ups | Recycling drives; Nature walks | Arbor day; Ocean day; Wildlife day
+April fools | Prank day; Silly holiday | Practical jokes; Fake news | Whoopee cushions; Gotcha | Halloween; Birthday; Mardi gras
+Samhain | Gaelic festival; Ancient harvest end | Bonfires lit; Spirits wander | Turnip lanterns; Celtic calendar | Halloween; Beltane; Midsummer
+Saint patrick | Irish holiday; Green celebration | Parades; Shamrocks | Leprechauns; Green rivers | Mardi gras; Halloween; Easter
+Bonfire night | British festival; November fireworks | Guy figures burned; Sparklers | Burning effigies; Toffee apples | Halloween; Diwali; New year
+Midsummer | Solstice festival; Nordic celebration | Maypole dancing; Flower crowns | Longest day; Herring feasts | Easter; Harvest festival; Solstice
+Solstice | Seasonal event; Sky milestone | Longest or shortest day; Ancient rituals | Stone circles; Sunrise gatherings | Equinox; Eclipse; Midsummer
+Harvest festival | Autumn celebration; Thanksgiving feast | Crops gathered; Church displays | Corn and pumpkins; Baskets of produce | Thanksgiving; Oktoberfest; Pongal
+Mid autumn | Asian festival; Moon festival | Lanterns; Family gatherings | Mooncakes; Full moon viewing | Tet; Diwali; Lantern festival
+Lantern festival | Asian celebration; Light celebration | Riddle games; Glowing parades | Paper glow; Sweet dumplings | Mid autumn; Diwali; Loy krathong
+Songkran | Thai festival; New year celebration | Water fights; Temple visits | Splashing buckets; Water guns | Holi; Tet; Loy krathong
+Loy krathong | Thai festival; Floating lights | River offerings; Romantic wishes | Banana leaf boats; Candles on water | Songkran; Lantern festival; Diwali
+Obon | Japanese festival; Ancestor celebration | Dancing in circles; Family returns | Floating lanterns; Taiko drums | Samhain; Lantern festival; Hanami
+Hanami | Japanese tradition; Blossom viewing | Picnics under trees; Spring parties | Pink petals; Paper lanterns | Obon; Tet; Midsummer
+Kwanzaa | Cultural holiday; African american festival | Seven principles; Week long | Kinara candles; Unity cup | Hanukkah; Christmas; Juneteenth
+Juneteenth | American holiday; Freedom day | Emancipation celebrated; Red foods | Cookouts; Parades | Independence day; Kwanzaa; Memorial day
+Bastille day | French holiday; National holiday | Military parade; Fireworks | Tricolor flags; Storming history | Independence day; Republic day; Labor day
+Australia day | National holiday; Summer celebration | Beach barbecues; Citizenship ceremonies | Flags and fireworks; Hot weather | Independence day; New year; Waitangi day
+Canada day | National holiday; Summer celebration | Maple leaf flags; Fireworks | Red and white; Parades | Independence day; Labor day; Victoria day
+Fiesta | Spanish party; Street celebration | Mariachi music; Parades | Sombreros; Papel picado | Carnival; Samhain; Parade
+Spring festival | Lunar holiday; Chinese celebration | Red packets; Family reunion | Lion dances; Firecrackers | Mid autumn; Diwali; Songkran
+Rosh hashanah | Jewish new year; High holiday | Apples and honey; Synagogue services | Blowing the shofar; Round bread | Yom kippur; Passover; Hanukkah
+Yom kippur | Jewish holy day; Day of atonement | Fasting all day; Prayers | White clothing; Shofar finale | Rosh hashanah; Passover; Sukkot
+Lent | Religious season; Forty days | Giving something up; Before easter | Ash marks; Fish fridays | Ramadan; Advent; Easter
+Advent | Religious season; Pre christmas period | Counting down; Chocolate calendars | Wreath candles; Little doors | Lent; Christmas eve; Epiphany
+Epiphany | Christian holiday; Twelfth night | Three kings; Kings cake | Star following; Gifts of gold | Christmas; Advent; Easter
+Good friday | Christian holy day; Solemn day | Before easter; Church services | Hot cross buns; Cross processions | Easter; Christmas eve; Lent
+Gurpurab | Sikh festival; Founder birthday | Processions; Community kitchens | Gurdwara lights; Hymns | Baisakhi; Diwali; Lohri
+Buddha purnima | Buddhist festival; Enlightenment day | Temple visits; Lanterns | Full moon; Monks chanting | Diwali; Vesak; Lantern festival
+Mahashivratri | Hindu festival; Night of worship | All night vigils; Fasting | Milk offerings; Bel leaves | Navratri; Janmashtami; Diwali
+Karva chauth | Hindu festival; Fasting day | Wives fast; Moon sighting | Sieve and lamp; Henna hands | Raksha bandhan; Teej; Diwali
+Teej | Hindu festival; Monsoon celebration | Swings decorated; Women gather | Green bangles; Henna | Karva chauth; Navratri; Holi
+Bihu | Assamese festival; Harvest celebration | Folk dance; Feasts | Dhol drums; Silk outfits | Pongal; Onam; Baisakhi
+Ugadi | Telugu new year; Spring festival | Bitter and sweet chutney; New beginnings | Mango leaves; Rangoli | Gudi padwa; Pongal; Vishu
+Gudi padwa | Marathi new year; Spring festival | Flags outside homes; Processions | Silk cloth pole; Neem leaves | Ugadi; Baisakhi; Diwali
+Vishu | Kerala new year; Spring festival | Morning sight ritual; Firecrackers | Golden flowers; Fruit arrangement | Onam; Ugadi; Pongal
+Bhai dooj | Indian festival; Sibling day | Sisters bless brothers; After diwali | Forehead mark; Sweets | Raksha bandhan; Diwali; Karva chauth
+Christmas tree | Holiday decoration; Festive centerpiece | Decorated in december; Gifts underneath | Tinsel and baubles; Star on top | Wreath; Menorah; Mistletoe
+Fireworks | Celebration display; Night lights | New year skies; Festival nights | Rockets and sparklers; Loud bangs | Bonfire; Lanterns; Confetti
+Confetti | Party decoration; Celebration paper | Weddings; Parades | Tiny paper bits; Thrown in air | Streamers; Glitter; Balloons
+Balloon | Party decoration; Inflatable | Birthdays; Pops loudly | Helium filled; Tied with string | Confetti; Streamer; Kite
+Party hat | Celebration accessory; Cone topper | Birthdays; New year | Elastic strap; Pointed cone | Crown; Tiara; Balloon
+Streamer | Party decoration; Paper ribbon | Hung from ceilings; Party favors | Curly crepe paper; Colorful twists | Confetti; Balloon; Bunting
+Pinata | Party game; Candy container | Blindfolded swinging; Kids birthdays | Paper donkey; Bursts with sweets | Balloon; Gift box; Lucky dip
+Gift | Present; Celebration item | Wrapped with ribbon; Birthdays | Bow on top; Surprise inside | Card; Balloon; Bouquet
+Greeting card | Celebration paper; Message note | Birthday wishes; Mailed to friends | Folded with message; Envelope | Gift; Letter; Postcard
+Parade | Street event; Celebration march | Floats and bands; Crowds lining streets | Marching bands; Waving flags | Carnival; Festival; Concert
+Festival | Celebration event; Community party | Music and food; Crowds | Stalls and stages; Tents | Fair; Carnival; Concert
+Fair | Community event; Outdoor festival | Rides and games; Cotton candy | Ferris wheel; Prize booths | Carnival; Festival; Market
+Feast | Big meal; Celebration dinner | Holiday tables; Family gatherings | Many dishes; Overeating | Banquet; Picnic; Buffet
+Picnic | Outdoor meal; Leisure event | Parks and blankets; Summer days | Baskets and sandwiches; Ants | Barbecue; Feast; Potluck
+Potluck | Shared meal; Group dinner | Everyone brings a dish; Office parties | Casserole dishes; Mixed menu | Picnic; Buffet; Feast
+Barbecue | Outdoor cookout; Grill party | Summer weekends; Backyard gatherings | Charcoal smoke; Burgers and sausages | Picnic; Potluck; Feast
+Bonfire | Outdoor blaze; Night gathering | Camping trips; Marshmallow roasting | Crackling logs; Sparks rising | Campfire; Fireworks; Candle
+Lantern | Light source; Festival decoration | Floating wishes; Camping nights | Paper or metal; Glowing inside | Candle; Torch; Lamp
+Diya | Clay lamp; Festival light | Lit on diwali; Rows on doorsteps | Oil and wick; Small clay bowl | Candle; Lantern; Lamp
+Rangoli | Floor art; Festival decoration | Drawn at doorsteps; Diwali tradition | Colored powder; Geometric patterns | Mehndi; Kolam; Mandala
+Mehndi | Body art; Henna design | Weddings and festivals; Bridal hands | Orange brown patterns; Paste cones | Tattoo; Rangoli; Bindi
+Mistletoe | Holiday plant; Kissing tradition | Hung in doorways; Christmas custom | White berries; Green sprig | Holly; Wreath; Ivy
+Wreath | Holiday decoration; Door decoration | Christmas doors; Funerals | Circle of greenery; Ribbon bow | Garland; Christmas tree; Mistletoe
+Menorah | Candle holder; Religious lamp | Lit for eight nights; Window displays | Nine branches; Center candle | Candelabra; Diya; Lantern
+Easter egg | Holiday treat; Painted shell | Hunts in gardens; Chocolate versions | Pastel colors; Hidden in grass | Chocolate bunny; Basket; Jelly bean
+Jackolantern | Halloween decoration; Carved gourd | Glows on porches; Scary faces | Candle inside; Orange gourd | Scarecrow; Skeleton; Ghost
+Guising | Halloween custom; Candy collecting | Kids in costumes; Door to door | Candy bags; Doorbell ringing | Caroling; Egg hunt; Streamer
+Caroling | Holiday singing; Door to door songs | Winter evenings; Groups of singers | Song sheets; Candles | Guising; Choir; Parade
+Santa claus | Holiday figure; Gift giver | Chimney visits; Naughty list | Red suit; White beard | Elf; Reindeer; Snowman
+Snowman | Winter figure; Frosty sculpture | Built by kids; Melts in sun | Carrot nose; Coal eyes | Santa claus; Igloo; Scarecrow
+Reindeer | Arctic animal; Sleigh puller | Christmas legends; Red nosed one | Antlers; Hooves on roofs | Moose; Elk; Caribou
+Elf | Holiday helper; Workshop worker | Makes toys; North pole | Pointy ears; Green outfit | Santa claus; Gnome; Fairy
+Turkey dinner | Holiday meal; Festive roast | Thanksgiving tradition; Carving at table | Stuffing and gravy; Cranberry sauce | Roast chicken; Ham; Feast
+Pumpkin pie | Holiday dessert; Autumn dessert | Thanksgiving tables; Whipped cream | Spiced orange filling; Flaky crust | Apple pie; Pecan pie; Cheesecake
+Gingerbread | Holiday cookie; Spiced treat | Houses built from it; Christmas baking | Icing decorations; Little man shape | Shortbread; Fruitcake; Cookie
+Fruitcake | Holiday loaf; Dense dessert | Regifted jokes; Christmas tradition | Candied fruits; Heavy loaf | Gingerbread; Pudding; Stollen
+Simnel | Easter cake; Fruit loaf | Good friday tradition; Marzipan layers | Eleven marzipan balls; Raisins inside | Fruitcake; Scone; Stollen
+Mooncake | Festival pastry; Chinese treat | Mid autumn gifts; Shared with family | Round and dense; Lotus paste | Dumpling; Pie; Tart
+Modak | Indian sweet; Festival dumpling | Offered to elephant god; Steamed | Coconut jaggery filling; Pleated top | Ladoo; Barfi; Dumpling
+Gujiya | Indian sweet; Holi treat | Fried crescent; Festive snack | Sweet filling; Crimped edges | Samosa; Modak; Ladoo
+Sweets box | Festival gift; Treat package | Shared on diwali; Visiting relatives | Assorted mithai; Silver foil | Gift basket; Chocolate box; Hamper
+Hamper | Gift basket; Festive package | Corporate gifts; Holiday treats | Wicker basket; Ribbon wrapped | Gift; Sweets box; Picnic basket
+Secret santa | Gift exchange; Office tradition | Draw names; Budget limit | Anonymous presents; Reveal moment | White elephant; Potluck; Raffle
+Countdown | New year ritual; Number chant | Crowds in squares; Ball drop | Ten to one; Midnight cheer | Toast; Fireworks; Resolution
+Resolution | New year promise; Goal | Gym memberships; Broken by february | Self improvement; Fresh start | Countdown; Wish; Prayer
+Toast | Celebration speech; Raised glasses | Weddings and dinners; Cheers | Clinking glasses; Speech | Resolution; Prayer; Applause
+Costume party | Dress up event; Themed bash | Halloween favorite; Prizes for best | Masks and wigs; Character outfits | Masquerade; Prom; Carnival
+Masquerade | Masked ball; Formal party | Mystery guests; Venetian style | Feathered masks; Ballgowns | Costume party; Carnival; Prom
+Baby shower | Celebration; Pregnancy party | Gifts for newborn; Silly games | Pastel decorations; Diaper cakes | Bridal shower; Birthday; Gender reveal
+Bridal shower | Pre wedding party; Celebration | Gifts for the bride; Games | Flowers and tea; Veil props | Baby shower; Bachelorette; Engagement
+Engagement | Celebration; Proposal event | Ring on knee; Families meet | Diamond ring; Party | Wedding; Anniversary; Valentines day
+Housewarming | Celebration; New home party | Friends visit; Gifts for home | Plants and candles; Tour of rooms | Birthday; Potluck; Baby shower
+Reunion | Gathering; Family meetup | Long lost relatives; Class of years ago | Name tags; Group photos | Party; Wedding; Picnic
+Sports day | School event; Athletic celebration | Sack races; Parents cheer | Medals and ribbons; Track events | Picnic; Fair; Olympics
+Talent show | Performance event; School performance | Singing and magic; Judges | Stage and spotlight; Applause | Concert; Recital; Parade
+Recital | Performance; Music show | Piano students; Proud parents | Sheet music; Bowing | Concert; Talent show; Rehearsal
+Concert | Music event; Live show | Fans singing along; Encores | Stage lights; Amplifiers | Recital; Festival; Rave
+Bachelor party | Pre wedding bash; Celebration | Friends weekend; Pranks | Road trips; Matching shirts | Bridal shower; Reunion; Stag do
+Gender reveal | Pregnancy celebration; Surprise party | Pink or blue; Cake cutting | Colored smoke; Balloons popped | Baby shower; Birthday; Housewarming
+Book fair | School event; Reading festival | Buying novels; Author visits | Stalls of stories; Posters | Carnival; Library; Market
+Science fair | School event; Project showcase | Volcano models; Judges | Trifold posters; Ribbons | Book fair; Talent show; Exhibition
+Easter bunny | Holiday mascot; Egg bringer | Hides eggs; Spring visitor | Long ears; Basket of treats | Santa claus; Tooth fairy; Reindeer
+Tooth fairy | Childhood figure; Night visitor | Coins under pillow; Lost teeth | Tiny wings; Sparkly | Easter bunny; Santa claus; Sandman
+Groundhog day | Weather tradition; February custom | Shadow prediction; Six more weeks | Burrowing rodent; Small town crowds | April fools; Earth day; Leap day
+Leap day | Rare date; Calendar quirk | Every four years; Rare birthdays | Twenty ninth february; Bonus date | New year; Solstice; Groundhog day

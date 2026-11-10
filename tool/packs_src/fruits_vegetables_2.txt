@@ -1,0 +1,19 @@
+@id fruits_vegetables
+@name Fruits & Vegetables
+Cherry tomato | Small vegetable; Salad favorite | Grows in clusters; Bursts when bitten | Bite sized red; Sweet and juicy | Grape; Radish; Olive
+Pumpkin seeds | Crunchy snack; Healthy snack | Roasted after carving; Salty crunch | Flat green kernels; White husks | Sunflower seeds; Peanuts; Almonds
+Sunflower seeds | Shelled snack; Baseball snack | Spit out shells; Salty crunch | Striped shells; Grey kernels | Pumpkin seeds; Peanuts; Pistachio
+Soybean | Legume; Protein crop | Made into tofu; Pressed for oil | Small round beans; Fuzzy pods | Chickpea; Lentil; Peanut
+Black beans | Legume; Dark pulse | Used in burritos; Latin staple | Tiny and dark; Creamy inside | Kidney beans; Lentils; Chickpeas
+Potato wedge | Side dish; Chunky fry | Served with dips; Oven baked | Thick slices; Skin on | Fries; Hash brown; Croquette
+Iceberg lettuce | Salad green; Crunchy leaf | Burger topping; Very watery | Pale round head; Crisp leaves | Cabbage; Romaine; Spinach
+Romaine | Salad green; Long leaf | Used in caesar salad; Crunchy ribs | Long upright leaves; Dark green | Iceberg; Spinach; Kale
+Ginger root | Kitchen spice; Knobby rhizome | Grated into tea; Used in stir fry | Beige skin; Peppery bite | Turmeric; Garlic; Horseradish
+Sweet pepper | Mild vegetable; Colorful vegetable | Sliced into salads; Stuffed and roasted | Bell shape; Crunchy and juicy | Chili; Tomato; Eggplant
+Acorn squash | Winter vegetable; Ribbed gourd | Roasted in halves; Autumn harvest | Dark green ridges; Orange flesh | Pumpkin; Zucchini; Butternut
+Butternut | Winter vegetable; Pear shaped gourd | Made into soup; Roasted in cubes | Tan skin; Sweet orange flesh | Pumpkin; Acorn squash; Sweet potato
+Red cabbage | Purple vegetable; Leafy head | Pickled or slawed; Turns blue when cooked | Deep purple leaves; Tight layers | Lettuce; Beetroot; Radicchio
+Radicchio | Bitter leaf; Italian vegetable | Grilled in halves; Fancy salads | Red and white leaves; Small round head | Red cabbage; Endive; Lettuce
+Endive | Bitter leaf; Salad green | Used as edible scoops; Belgian favorite | Pale torpedo shape; Crisp leaves | Radicchio; Lettuce; Cabbage
+Garlic chives | Herb; Flat allium | Used in dumplings; Asian kitchens | Flat green blades; Pungent aroma | Scallion; Leek; Basil
+Cucumber pickle | Preserved vegetable; Tangy side | Served with burgers; Kept in jars | Briny and crunchy; Dill flavor | Olive; Relish; Kimchi

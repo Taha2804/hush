@@ -1,0 +1,5208 @@
+{
+ "id": "transport",
+ "name": "Transport",
+ "words": [
+  {
+   "word": "Car",
+   "hints": [
+    {
+     "text": "Vehicle",
+     "level": 1
+    },
+    {
+     "text": "Road transport",
+     "level": 1
+    },
+    {
+     "text": "Daily commute",
+     "level": 2
+    },
+    {
+     "text": "Needs fuel",
+     "level": 2
+    },
+    {
+     "text": "Four wheels",
+     "level": 3
+    },
+    {
+     "text": "Steering wheel",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Truck",
+    "Van",
+    "Bus"
+   ]
+  },
+  {
+   "word": "Bus",
+   "hints": [
+    {
+     "text": "Public transport",
+     "level": 1
+    },
+    {
+     "text": "Big vehicle",
+     "level": 1
+    },
+    {
+     "text": "School trips",
+     "level": 2
+    },
+    {
+     "text": "Fixed routes",
+     "level": 2
+    },
+    {
+     "text": "Many seats",
+     "level": 3
+    },
+    {
+     "text": "Ring bell to stop",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tram",
+    "Coach",
+    "Train"
+   ]
+  },
+  {
+   "word": "Train",
+   "hints": [
+    {
+     "text": "Rail transport",
+     "level": 1
+    },
+    {
+     "text": "Long vehicle",
+     "level": 1
+    },
+    {
+     "text": "Station platforms",
+     "level": 2
+    },
+    {
+     "text": "Tickets checked",
+     "level": 2
+    },
+    {
+     "text": "Carriages",
+     "level": 3
+    },
+    {
+     "text": "Runs on tracks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tram",
+    "Subway",
+    "Bus"
+   ]
+  },
+  {
+   "word": "Airplane",
+   "hints": [
+    {
+     "text": "Air transport",
+     "level": 1
+    },
+    {
+     "text": "Flying machine",
+     "level": 1
+    },
+    {
+     "text": "Airport security",
+     "level": 2
+    },
+    {
+     "text": "Window seats",
+     "level": 2
+    },
+    {
+     "text": "Wings and engines",
+     "level": 3
+    },
+    {
+     "text": "Takes off",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Helicopter",
+    "Rocket",
+    "Glider"
+   ]
+  },
+  {
+   "word": "Helicopter",
+   "hints": [
+    {
+     "text": "Air transport",
+     "level": 1
+    },
+    {
+     "text": "Hovering craft",
+     "level": 1
+    },
+    {
+     "text": "Rescue missions",
+     "level": 2
+    },
+    {
+     "text": "Traffic reports",
+     "level": 2
+    },
+    {
+     "text": "Spinning rotors",
+     "level": 3
+    },
+    {
+     "text": "Lands on roofs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Airplane",
+    "Drone",
+    "Jet"
+   ]
+  },
+  {
+   "word": "Bicycle",
+   "hints": [
+    {
+     "text": "Pedal transport",
+     "level": 1
+    },
+    {
+     "text": "Two wheeler",
+     "level": 1
+    },
+    {
+     "text": "Kids learn to ride",
+     "level": 2
+    },
+    {
+     "text": "Eco friendly",
+     "level": 2
+    },
+    {
+     "text": "Chain and pedals",
+     "level": 3
+    },
+    {
+     "text": "Handlebars",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Scooter",
+    "Motorcycle",
+    "Tricycle"
+   ]
+  },
+  {
+   "word": "Motorcycle",
+   "hints": [
+    {
+     "text": "Two wheeler",
+     "level": 1
+    },
+    {
+     "text": "Engine vehicle",
+     "level": 1
+    },
+    {
+     "text": "Leather jackets",
+     "level": 2
+    },
+    {
+     "text": "Weaves through traffic",
+     "level": 2
+    },
+    {
+     "text": "Helmet required",
+     "level": 3
+    },
+    {
+     "text": "Revving engine",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bicycle",
+    "Scooter",
+    "Moped"
+   ]
+  },
+  {
+   "word": "Scooter",
+   "hints": [
+    {
+     "text": "Two wheeler",
+     "level": 1
+    },
+    {
+     "text": "City ride",
+     "level": 1
+    },
+    {
+     "text": "Kick to go",
+     "level": 2
+    },
+    {
+     "text": "Electric rentals",
+     "level": 2
+    },
+    {
+     "text": "Small wheels",
+     "level": 3
+    },
+    {
+     "text": "Footboard",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bicycle",
+    "Skateboard",
+    "Moped"
+   ]
+  },
+  {
+   "word": "Boat",
+   "hints": [
+    {
+     "text": "Water transport",
+     "level": 1
+    },
+    {
+     "text": "Floating vessel",
+     "level": 1
+    },
+    {
+     "text": "Lake trips",
+     "level": 2
+    },
+    {
+     "text": "Fishing outings",
+     "level": 2
+    },
+    {
+     "text": "Hull and deck",
+     "level": 3
+    },
+    {
+     "text": "Rocks on waves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ship",
+    "Raft",
+    "Canoe"
+   ]
+  },
+  {
+   "word": "Ship",
+   "hints": [
+    {
+     "text": "Water transport",
+     "level": 1
+    },
+    {
+     "text": "Ocean vessel",
+     "level": 1
+    },
+    {
+     "text": "Crosses oceans",
+     "level": 2
+    },
+    {
+     "text": "Cargo or cruise",
+     "level": 2
+    },
+    {
+     "text": "Huge hull",
+     "level": 3
+    },
+    {
+     "text": "Anchor and deck",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Boat",
+    "Ferry",
+    "Submarine"
+   ]
+  },
+  {
+   "word": "Submarine",
+   "hints": [
+    {
+     "text": "Underwater vessel",
+     "level": 1
+    },
+    {
+     "text": "Navy craft",
+     "level": 1
+    },
+    {
+     "text": "Dives deep",
+     "level": 2
+    },
+    {
+     "text": "Secret missions",
+     "level": 2
+    },
+    {
+     "text": "Periscope",
+     "level": 3
+    },
+    {
+     "text": "Sonar pings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ship",
+    "Diving bell",
+    "Torpedo"
+   ]
+  },
+  {
+   "word": "Truck",
+   "hints": [
+    {
+     "text": "Heavy vehicle",
+     "level": 1
+    },
+    {
+     "text": "Road hauler",
+     "level": 1
+    },
+    {
+     "text": "Delivers goods",
+     "level": 2
+    },
+    {
+     "text": "Highway trips",
+     "level": 2
+    },
+    {
+     "text": "Big cargo bed",
+     "level": 3
+    },
+    {
+     "text": "Loud horn",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Van",
+    "Lorry",
+    "Bus"
+   ]
+  },
+  {
+   "word": "Van",
+   "hints": [
+    {
+     "text": "Road vehicle",
+     "level": 1
+    },
+    {
+     "text": "Delivery vehicle",
+     "level": 1
+    },
+    {
+     "text": "Moving house",
+     "level": 2
+    },
+    {
+     "text": "Family trips",
+     "level": 2
+    },
+    {
+     "text": "Sliding door",
+     "level": 3
+    },
+    {
+     "text": "Boxy shape",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Truck",
+    "Minibus",
+    "Car"
+   ]
+  },
+  {
+   "word": "Taxi",
+   "hints": [
+    {
+     "text": "Hired ride",
+     "level": 1
+    },
+    {
+     "text": "City transport",
+     "level": 1
+    },
+    {
+     "text": "Hail from curb",
+     "level": 2
+    },
+    {
+     "text": "Meter running",
+     "level": 2
+    },
+    {
+     "text": "Yellow paint",
+     "level": 3
+    },
+    {
+     "text": "Roof sign",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bus",
+    "Limo",
+    "Rickshaw"
+   ]
+  },
+  {
+   "word": "Ambulance",
+   "hints": [
+    {
+     "text": "Emergency vehicle",
+     "level": 1
+    },
+    {
+     "text": "Medical transport",
+     "level": 1
+    },
+    {
+     "text": "Rushes to hospital",
+     "level": 2
+    },
+    {
+     "text": "Flashing lights",
+     "level": 2
+    },
+    {
+     "text": "Siren",
+     "level": 3
+    },
+    {
+     "text": "Stretcher inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fire engine",
+    "Police car",
+    "Van"
+   ]
+  },
+  {
+   "word": "Fire engine",
+   "hints": [
+    {
+     "text": "Emergency vehicle",
+     "level": 1
+    },
+    {
+     "text": "Rescue truck",
+     "level": 1
+    },
+    {
+     "text": "Rushes to blazes",
+     "level": 2
+    },
+    {
+     "text": "Kids love it",
+     "level": 2
+    },
+    {
+     "text": "Red paint",
+     "level": 3
+    },
+    {
+     "text": "Long ladder",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ambulance",
+    "Police car",
+    "Truck"
+   ]
+  },
+  {
+   "word": "Police car",
+   "hints": [
+    {
+     "text": "Emergency vehicle",
+     "level": 1
+    },
+    {
+     "text": "Patrol vehicle",
+     "level": 1
+    },
+    {
+     "text": "Chases speeders",
+     "level": 2
+    },
+    {
+     "text": "Flashing lights",
+     "level": 2
+    },
+    {
+     "text": "Siren on roof",
+     "level": 3
+    },
+    {
+     "text": "Black and white",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ambulance",
+    "Taxi",
+    "Fire engine"
+   ]
+  },
+  {
+   "word": "Tractor",
+   "hints": [
+    {
+     "text": "Farm vehicle",
+     "level": 1
+    },
+    {
+     "text": "Heavy machine",
+     "level": 1
+    },
+    {
+     "text": "Plows fields",
+     "level": 2
+    },
+    {
+     "text": "Slow on roads",
+     "level": 2
+    },
+    {
+     "text": "Huge back tires",
+     "level": 3
+    },
+    {
+     "text": "Pulls trailers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bulldozer",
+    "Truck",
+    "Combine"
+   ]
+  },
+  {
+   "word": "Bulldozer",
+   "hints": [
+    {
+     "text": "Construction vehicle",
+     "level": 1
+    },
+    {
+     "text": "Heavy machine",
+     "level": 1
+    },
+    {
+     "text": "Clears land",
+     "level": 2
+    },
+    {
+     "text": "Building sites",
+     "level": 2
+    },
+    {
+     "text": "Big front blade",
+     "level": 3
+    },
+    {
+     "text": "Caterpillar tracks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Excavator",
+    "Tractor",
+    "Crane"
+   ]
+  },
+  {
+   "word": "Excavator",
+   "hints": [
+    {
+     "text": "Construction vehicle",
+     "level": 1
+    },
+    {
+     "text": "Digger",
+     "level": 1
+    },
+    {
+     "text": "Digs foundations",
+     "level": 2
+    },
+    {
+     "text": "Building sites",
+     "level": 2
+    },
+    {
+     "text": "Long arm",
+     "level": 3
+    },
+    {
+     "text": "Toothed bucket",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bulldozer",
+    "Crane",
+    "Tractor"
+   ]
+  },
+  {
+   "word": "Crane",
+   "hints": [
+    {
+     "text": "Construction machine",
+     "level": 1
+    },
+    {
+     "text": "Lifting machine",
+     "level": 1
+    },
+    {
+     "text": "Builds skyscrapers",
+     "level": 2
+    },
+    {
+     "text": "Towers over sites",
+     "level": 2
+    },
+    {
+     "text": "Long boom",
+     "level": 3
+    },
+    {
+     "text": "Hook and cable",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Forklift",
+    "Excavator",
+    "Elevator"
+   ]
+  },
+  {
+   "word": "Forklift",
+   "hints": [
+    {
+     "text": "Warehouse vehicle",
+     "level": 1
+    },
+    {
+     "text": "Lifting machine",
+     "level": 1
+    },
+    {
+     "text": "Moves pallets",
+     "level": 2
+    },
+    {
+     "text": "Beeps reversing",
+     "level": 2
+    },
+    {
+     "text": "Twin prongs",
+     "level": 3
+    },
+    {
+     "text": "Small cab",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Crane",
+    "Tractor",
+    "Trolley"
+   ]
+  },
+  {
+   "word": "Tram",
+   "hints": [
+    {
+     "text": "Rail transport",
+     "level": 1
+    },
+    {
+     "text": "Street car",
+     "level": 1
+    },
+    {
+     "text": "City streets",
+     "level": 2
+    },
+    {
+     "text": "Overhead wires",
+     "level": 2
+    },
+    {
+     "text": "Runs on tracks",
+     "level": 3
+    },
+    {
+     "text": "Ding ding bell",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bus",
+    "Train",
+    "Trolleybus"
+   ]
+  },
+  {
+   "word": "Subway",
+   "hints": [
+    {
+     "text": "Underground rail",
+     "level": 1
+    },
+    {
+     "text": "City transport",
+     "level": 1
+    },
+    {
+     "text": "Rush hour crowds",
+     "level": 2
+    },
+    {
+     "text": "Tunnel stations",
+     "level": 2
+    },
+    {
+     "text": "Turnstiles",
+     "level": 3
+    },
+    {
+     "text": "Map with lines",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tram",
+    "Train",
+    "Bus"
+   ]
+  },
+  {
+   "word": "Monorail",
+   "hints": [
+    {
+     "text": "Elevated transport",
+     "level": 1
+    },
+    {
+     "text": "Single beam",
+     "level": 1
+    },
+    {
+     "text": "Theme parks",
+     "level": 2
+    },
+    {
+     "text": "Airport shuttles",
+     "level": 2
+    },
+    {
+     "text": "Elevated beam",
+     "level": 3
+    },
+    {
+     "text": "Futuristic look",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tram",
+    "Subway",
+    "Cable car"
+   ]
+  },
+  {
+   "word": "Cable car",
+   "hints": [
+    {
+     "text": "Hill transport",
+     "level": 1
+    },
+    {
+     "text": "Suspended cabin",
+     "level": 1
+    },
+    {
+     "text": "Mountain views",
+     "level": 2
+    },
+    {
+     "text": "Ski resorts",
+     "level": 2
+    },
+    {
+     "text": "Hanging from wires",
+     "level": 3
+    },
+    {
+     "text": "Swaying cabin",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gondola",
+    "Chairlift",
+    "Funicular"
+   ]
+  },
+  {
+   "word": "Balloon flight",
+   "hints": [
+    {
+     "text": "Sky transport",
+     "level": 1
+    },
+    {
+     "text": "Floating craft",
+     "level": 1
+    },
+    {
+     "text": "Sunrise rides",
+     "level": 2
+    },
+    {
+     "text": "Festival skies",
+     "level": 2
+    },
+    {
+     "text": "Wicker basket",
+     "level": 3
+    },
+    {
+     "text": "Burner flame",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Blimp",
+    "Glider",
+    "Parachute"
+   ]
+  },
+  {
+   "word": "Blimp",
+   "hints": [
+    {
+     "text": "Airship",
+     "level": 1
+    },
+    {
+     "text": "Floating craft",
+     "level": 1
+    },
+    {
+     "text": "Stadium views",
+     "level": 2
+    },
+    {
+     "text": "Slow flyer",
+     "level": 2
+    },
+    {
+     "text": "Gas filled",
+     "level": 3
+    },
+    {
+     "text": "Cigar shape",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Balloon flight",
+    "Zeppelin",
+    "Glider"
+   ]
+  },
+  {
+   "word": "Glider",
+   "hints": [
+    {
+     "text": "Air craft",
+     "level": 1
+    },
+    {
+     "text": "Engineless plane",
+     "level": 1
+    },
+    {
+     "text": "Silent flights",
+     "level": 2
+    },
+    {
+     "text": "Rides thermals",
+     "level": 2
+    },
+    {
+     "text": "Long thin wings",
+     "level": 3
+    },
+    {
+     "text": "Towed up",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Airplane",
+    "Kite",
+    "Biplane"
+   ]
+  },
+  {
+   "word": "Jet",
+   "hints": [
+    {
+     "text": "Fast aircraft",
+     "level": 1
+    },
+    {
+     "text": "Air transport",
+     "level": 1
+    },
+    {
+     "text": "Supersonic speed",
+     "level": 2
+    },
+    {
+     "text": "Fighter pilots",
+     "level": 2
+    },
+    {
+     "text": "Turbine engines",
+     "level": 3
+    },
+    {
+     "text": "Contrails",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Helicopter",
+    "Rocket",
+    "Glider"
+   ]
+  },
+  {
+   "word": "Rocket",
+   "hints": [
+    {
+     "text": "Space vehicle",
+     "level": 1
+    },
+    {
+     "text": "Launch craft",
+     "level": 1
+    },
+    {
+     "text": "Countdown liftoff",
+     "level": 2
+    },
+    {
+     "text": "Astronauts ride",
+     "level": 2
+    },
+    {
+     "text": "Fiery exhaust",
+     "level": 3
+    },
+    {
+     "text": "Tall and pointy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spaceship",
+    "Jet",
+    "Missile"
+   ]
+  },
+  {
+   "word": "Spaceship",
+   "hints": [
+    {
+     "text": "Galactic vehicle",
+     "level": 1
+    },
+    {
+     "text": "Science fiction craft",
+     "level": 1
+    },
+    {
+     "text": "Travels to stars",
+     "level": 2
+    },
+    {
+     "text": "Alien movies",
+     "level": 2
+    },
+    {
+     "text": "Warp drive",
+     "level": 3
+    },
+    {
+     "text": "Cockpit windows",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rocket",
+    "Satellite",
+    "Space station"
+   ]
+  },
+  {
+   "word": "Ferry",
+   "hints": [
+    {
+     "text": "Water transport",
+     "level": 1
+    },
+    {
+     "text": "Passenger boat",
+     "level": 1
+    },
+    {
+     "text": "Crosses rivers",
+     "level": 2
+    },
+    {
+     "text": "Carries cars",
+     "level": 2
+    },
+    {
+     "text": "Regular schedule",
+     "level": 3
+    },
+    {
+     "text": "Car deck",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ship",
+    "Barge",
+    "Boat"
+   ]
+  },
+  {
+   "word": "Yacht",
+   "hints": [
+    {
+     "text": "Luxury boat",
+     "level": 1
+    },
+    {
+     "text": "Sailing vessel",
+     "level": 1
+    },
+    {
+     "text": "Billionaire toy",
+     "level": 2
+    },
+    {
+     "text": "Marina parties",
+     "level": 2
+    },
+    {
+     "text": "Sleek hull",
+     "level": 3
+    },
+    {
+     "text": "Tall mast",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sailboat",
+    "Cruise ship",
+    "Speedboat"
+   ]
+  },
+  {
+   "word": "Canoe",
+   "hints": [
+    {
+     "text": "Paddle boat",
+     "level": 1
+    },
+    {
+     "text": "Narrow vessel",
+     "level": 1
+    },
+    {
+     "text": "Lake adventures",
+     "level": 2
+    },
+    {
+     "text": "Summer camp",
+     "level": 2
+    },
+    {
+     "text": "Single paddle",
+     "level": 3
+    },
+    {
+     "text": "Pointed ends",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kayak",
+    "Raft",
+    "Rowboat"
+   ]
+  },
+  {
+   "word": "Kayak",
+   "hints": [
+    {
+     "text": "Paddle boat",
+     "level": 1
+    },
+    {
+     "text": "Narrow vessel",
+     "level": 1
+    },
+    {
+     "text": "River rapids",
+     "level": 2
+    },
+    {
+     "text": "Sea trips",
+     "level": 2
+    },
+    {
+     "text": "Double paddle",
+     "level": 3
+    },
+    {
+     "text": "Sit inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Canoe",
+    "Raft",
+    "Paddleboard"
+   ]
+  },
+  {
+   "word": "Raft",
+   "hints": [
+    {
+     "text": "Floating platform",
+     "level": 1
+    },
+    {
+     "text": "Simple boat",
+     "level": 1
+    },
+    {
+     "text": "River rapids",
+     "level": 2
+    },
+    {
+     "text": "Castaway escape",
+     "level": 2
+    },
+    {
+     "text": "Logs tied together",
+     "level": 3
+    },
+    {
+     "text": "Inflatable",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Canoe",
+    "Boat",
+    "Pontoon"
+   ]
+  },
+  {
+   "word": "Gondola",
+   "hints": [
+    {
+     "text": "Canal boat",
+     "level": 1
+    },
+    {
+     "text": "Italian boat",
+     "level": 1
+    },
+    {
+     "text": "Romantic rides",
+     "level": 2
+    },
+    {
+     "text": "Singing rowers",
+     "level": 2
+    },
+    {
+     "text": "Long black boat",
+     "level": 3
+    },
+    {
+     "text": "Single oar",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Canoe",
+    "Punt",
+    "Rowboat"
+   ]
+  },
+  {
+   "word": "Sailboat",
+   "hints": [
+    {
+     "text": "Wind powered vessel",
+     "level": 1
+    },
+    {
+     "text": "Water vessel",
+     "level": 1
+    },
+    {
+     "text": "Weekend regattas",
+     "level": 2
+    },
+    {
+     "text": "Breezy days",
+     "level": 2
+    },
+    {
+     "text": "Mast and sails",
+     "level": 3
+    },
+    {
+     "text": "Tiller steering",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Yacht",
+    "Canoe",
+    "Ferry"
+   ]
+  },
+  {
+   "word": "Speedboat",
+   "hints": [
+    {
+     "text": "Fast vessel",
+     "level": 1
+    },
+    {
+     "text": "Motor vessel",
+     "level": 1
+    },
+    {
+     "text": "Water skiing",
+     "level": 2
+    },
+    {
+     "text": "Spray and splash",
+     "level": 2
+    },
+    {
+     "text": "Powerful outboard",
+     "level": 3
+    },
+    {
+     "text": "Sleek hull",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jet ski",
+    "Yacht",
+    "Ferry"
+   ]
+  },
+  {
+   "word": "Cruise ship",
+   "hints": [
+    {
+     "text": "Holiday vessel",
+     "level": 1
+    },
+    {
+     "text": "Floating hotel",
+     "level": 1
+    },
+    {
+     "text": "Buffets and pools",
+     "level": 2
+    },
+    {
+     "text": "Island hopping",
+     "level": 2
+    },
+    {
+     "text": "Many decks",
+     "level": 3
+    },
+    {
+     "text": "Huge white hull",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ferry",
+    "Yacht",
+    "Ocean liner"
+   ]
+  },
+  {
+   "word": "Rickshaw",
+   "hints": [
+    {
+     "text": "Small vehicle",
+     "level": 1
+    },
+    {
+     "text": "City ride",
+     "level": 1
+    },
+    {
+     "text": "Asian streets",
+     "level": 2
+    },
+    {
+     "text": "Pulled or pedaled",
+     "level": 2
+    },
+    {
+     "text": "Two wheels",
+     "level": 3
+    },
+    {
+     "text": "Canopy seat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Taxi",
+    "Tuk tuk",
+    "Pedicab"
+   ]
+  },
+  {
+   "word": "Auto rickshaw",
+   "hints": [
+    {
+     "text": "Three wheeler",
+     "level": 1
+    },
+    {
+     "text": "City taxi",
+     "level": 1
+    },
+    {
+     "text": "Indian streets",
+     "level": 2
+    },
+    {
+     "text": "Bargain fares",
+     "level": 2
+    },
+    {
+     "text": "Green and yellow",
+     "level": 3
+    },
+    {
+     "text": "Open sides",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Taxi",
+    "Tuk tuk",
+    "Scooter"
+   ]
+  },
+  {
+   "word": "Limousine",
+   "hints": [
+    {
+     "text": "Luxury car",
+     "level": 1
+    },
+    {
+     "text": "Long vehicle",
+     "level": 1
+    },
+    {
+     "text": "Proms and weddings",
+     "level": 2
+    },
+    {
+     "text": "Celebrities",
+     "level": 2
+    },
+    {
+     "text": "Stretch body",
+     "level": 3
+    },
+    {
+     "text": "Chauffeur",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Taxi",
+    "Sedan",
+    "Bus"
+   ]
+  },
+  {
+   "word": "Skateboard",
+   "hints": [
+    {
+     "text": "Wheeled plank",
+     "level": 1
+    },
+    {
+     "text": "Street ride",
+     "level": 1
+    },
+    {
+     "text": "Concrete bowls",
+     "level": 2
+    },
+    {
+     "text": "Tricks",
+     "level": 2
+    },
+    {
+     "text": "Four small wheels",
+     "level": 3
+    },
+    {
+     "text": "Grip tape",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Scooter",
+    "Surfboard",
+    "Rollerblades"
+   ]
+  },
+  {
+   "word": "Rollerblades",
+   "hints": [
+    {
+     "text": "Wheeled boots",
+     "level": 1
+    },
+    {
+     "text": "Skating gear",
+     "level": 1
+    },
+    {
+     "text": "Boardwalk fun",
+     "level": 2
+    },
+    {
+     "text": "Retro trend",
+     "level": 2
+    },
+    {
+     "text": "Inline wheels",
+     "level": 3
+    },
+    {
+     "text": "Brake pad",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Skateboard",
+    "Ice skates",
+    "Scooter"
+   ]
+  },
+  {
+   "word": "Segway",
+   "hints": [
+    {
+     "text": "Two wheeled device",
+     "level": 1
+    },
+    {
+     "text": "Personal transporter",
+     "level": 1
+    },
+    {
+     "text": "Tourist tours",
+     "level": 2
+    },
+    {
+     "text": "Mall cops",
+     "level": 2
+    },
+    {
+     "text": "Self balancing",
+     "level": 3
+    },
+    {
+     "text": "Lean to go",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Scooter",
+    "Hoverboard",
+    "Bicycle"
+   ]
+  },
+  {
+   "word": "Hoverboard",
+   "hints": [
+    {
+     "text": "Self balancing gadget",
+     "level": 1
+    },
+    {
+     "text": "Gizmo",
+     "level": 1
+    },
+    {
+     "text": "Teen gift",
+     "level": 2
+    },
+    {
+     "text": "Futuristic toy",
+     "level": 2
+    },
+    {
+     "text": "Two wheels",
+     "level": 3
+    },
+    {
+     "text": "Foot controlled",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Segway",
+    "Skateboard",
+    "Scooter"
+   ]
+  },
+  {
+   "word": "Unicycle",
+   "hints": [
+    {
+     "text": "Single wheel",
+     "level": 1
+    },
+    {
+     "text": "Circus ride",
+     "level": 1
+    },
+    {
+     "text": "Jugglers ride it",
+     "level": 2
+    },
+    {
+     "text": "Hard to balance",
+     "level": 2
+    },
+    {
+     "text": "One wheel",
+     "level": 3
+    },
+    {
+     "text": "Seat on pole",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bicycle",
+    "Tricycle",
+    "Pogo stick"
+   ]
+  },
+  {
+   "word": "Tricycle",
+   "hints": [
+    {
+     "text": "Three wheeler",
+     "level": 1
+    },
+    {
+     "text": "Kids ride",
+     "level": 1
+    },
+    {
+     "text": "Toddler toy",
+     "level": 2
+    },
+    {
+     "text": "First bike",
+     "level": 2
+    },
+    {
+     "text": "Three wheels",
+     "level": 3
+    },
+    {
+     "text": "Front pedals",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bicycle",
+    "Unicycle",
+    "Scooter"
+   ]
+  },
+  {
+   "word": "Tandem",
+   "hints": [
+    {
+     "text": "Shared bicycle",
+     "level": 1
+    },
+    {
+     "text": "Two seater",
+     "level": 1
+    },
+    {
+     "text": "Couples ride",
+     "level": 2
+    },
+    {
+     "text": "Teamwork",
+     "level": 2
+    },
+    {
+     "text": "Two seats",
+     "level": 3
+    },
+    {
+     "text": "Long frame",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tricycle",
+    "Bicycle",
+    "Rickshaw"
+   ]
+  },
+  {
+   "word": "Moped",
+   "hints": [
+    {
+     "text": "Small motorbike",
+     "level": 1
+    },
+    {
+     "text": "City ride",
+     "level": 1
+    },
+    {
+     "text": "Delivery riders",
+     "level": 2
+    },
+    {
+     "text": "Beeps through traffic",
+     "level": 2
+    },
+    {
+     "text": "Small engine",
+     "level": 3
+    },
+    {
+     "text": "Step through",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Scooter",
+    "Motorcycle",
+    "Bicycle"
+   ]
+  },
+  {
+   "word": "Sedan",
+   "hints": [
+    {
+     "text": "Car type",
+     "level": 1
+    },
+    {
+     "text": "Family car",
+     "level": 1
+    },
+    {
+     "text": "Daily commute",
+     "level": 2
+    },
+    {
+     "text": "Four doors",
+     "level": 2
+    },
+    {
+     "text": "Separate trunk",
+     "level": 3
+    },
+    {
+     "text": "Low roof",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hatchback",
+    "Coupe",
+    "Wagon"
+   ]
+  },
+  {
+   "word": "Convertible",
+   "hints": [
+    {
+     "text": "Car type",
+     "level": 1
+    },
+    {
+     "text": "Open top car",
+     "level": 1
+    },
+    {
+     "text": "Sunny drives",
+     "level": 2
+    },
+    {
+     "text": "Wind in hair",
+     "level": 2
+    },
+    {
+     "text": "Folding roof",
+     "level": 3
+    },
+    {
+     "text": "Sporty look",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sedan",
+    "Coupe",
+    "Jeep"
+   ]
+  },
+  {
+   "word": "Jeep",
+   "hints": [
+    {
+     "text": "Off road vehicle",
+     "level": 1
+    },
+    {
+     "text": "Rugged car",
+     "level": 1
+    },
+    {
+     "text": "Safari trips",
+     "level": 2
+    },
+    {
+     "text": "Muddy trails",
+     "level": 2
+    },
+    {
+     "text": "Open top",
+     "level": 3
+    },
+    {
+     "text": "Big tires",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Truck",
+    "Tractor",
+    "Van"
+   ]
+  },
+  {
+   "word": "Pickup truck",
+   "hints": [
+    {
+     "text": "Light hauler",
+     "level": 1
+    },
+    {
+     "text": "Utility vehicle",
+     "level": 1
+    },
+    {
+     "text": "Farm hauling",
+     "level": 2
+    },
+    {
+     "text": "Country roads",
+     "level": 2
+    },
+    {
+     "text": "Open cargo bed",
+     "level": 3
+    },
+    {
+     "text": "Tailgate",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Van",
+    "Jeep",
+    "Lorry"
+   ]
+  },
+  {
+   "word": "Minivan",
+   "hints": [
+    {
+     "text": "Family vehicle",
+     "level": 1
+    },
+    {
+     "text": "People carrier",
+     "level": 1
+    },
+    {
+     "text": "School runs",
+     "level": 2
+    },
+    {
+     "text": "Soccer moms",
+     "level": 2
+    },
+    {
+     "text": "Sliding doors",
+     "level": 3
+    },
+    {
+     "text": "Seven seats",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Van",
+    "Bus",
+    "Sedan"
+   ]
+  },
+  {
+   "word": "Camper van",
+   "hints": [
+    {
+     "text": "Holiday vehicle",
+     "level": 1
+    },
+    {
+     "text": "Home on wheels",
+     "level": 1
+    },
+    {
+     "text": "Road trips",
+     "level": 2
+    },
+    {
+     "text": "Campsites",
+     "level": 2
+    },
+    {
+     "text": "Tiny kitchen",
+     "level": 3
+    },
+    {
+     "text": "Pop up roof",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Caravan",
+    "Bus",
+    "Truck"
+   ]
+  },
+  {
+   "word": "Caravan",
+   "hints": [
+    {
+     "text": "Towed home",
+     "level": 1
+    },
+    {
+     "text": "Holiday trailer",
+     "level": 1
+    },
+    {
+     "text": "Campsites",
+     "level": 2
+    },
+    {
+     "text": "Pulled by car",
+     "level": 2
+    },
+    {
+     "text": "Fold out beds",
+     "level": 3
+    },
+    {
+     "text": "Hitch",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Camper van",
+    "Tent",
+    "Trailer"
+   ]
+  },
+  {
+   "word": "Trailer",
+   "hints": [
+    {
+     "text": "Towed cart",
+     "level": 1
+    },
+    {
+     "text": "Hauling unit",
+     "level": 1
+    },
+    {
+     "text": "Moves boats",
+     "level": 2
+    },
+    {
+     "text": "Hooked to cars",
+     "level": 2
+    },
+    {
+     "text": "Hitch",
+     "level": 3
+    },
+    {
+     "text": "No engine",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Caravan",
+    "Wagon",
+    "Cart"
+   ]
+  },
+  {
+   "word": "Lorry",
+   "hints": [
+    {
+     "text": "Heavy truck",
+     "level": 1
+    },
+    {
+     "text": "Freight vehicle",
+     "level": 1
+    },
+    {
+     "text": "Highway freight",
+     "level": 2
+    },
+    {
+     "text": "Long journeys",
+     "level": 2
+    },
+    {
+     "text": "Huge trailer",
+     "level": 3
+    },
+    {
+     "text": "Many wheels",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Truck",
+    "Van",
+    "Tanker"
+   ]
+  },
+  {
+   "word": "Tanker",
+   "hints": [
+    {
+     "text": "Liquid carrier",
+     "level": 1
+    },
+    {
+     "text": "Big vehicle",
+     "level": 1
+    },
+    {
+     "text": "Carries fuel",
+     "level": 2
+    },
+    {
+     "text": "Ocean or road",
+     "level": 2
+    },
+    {
+     "text": "Round drum",
+     "level": 3
+    },
+    {
+     "text": "Hazard signs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lorry",
+    "Barge",
+    "Container ship"
+   ]
+  },
+  {
+   "word": "Tow truck",
+   "hints": [
+    {
+     "text": "Recovery vehicle",
+     "level": 1
+    },
+    {
+     "text": "Road rescue",
+     "level": 1
+    },
+    {
+     "text": "Breakdowns",
+     "level": 2
+    },
+    {
+     "text": "Illegal parking",
+     "level": 2
+    },
+    {
+     "text": "Winch and hook",
+     "level": 3
+    },
+    {
+     "text": "Flashing amber",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ambulance",
+    "Lorry",
+    "Bulldozer"
+   ]
+  },
+  {
+   "word": "Garbage truck",
+   "hints": [
+    {
+     "text": "Municipal vehicle",
+     "level": 1
+    },
+    {
+     "text": "Waste collector",
+     "level": 1
+    },
+    {
+     "text": "Weekly pickups",
+     "level": 2
+    },
+    {
+     "text": "Smelly job",
+     "level": 2
+    },
+    {
+     "text": "Crushing compactor",
+     "level": 3
+    },
+    {
+     "text": "Bins lifted",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Recycling van",
+    "Dump truck",
+    "Street sweeper"
+   ]
+  },
+  {
+   "word": "Dump truck",
+   "hints": [
+    {
+     "text": "Construction vehicle",
+     "level": 1
+    },
+    {
+     "text": "Hauler",
+     "level": 1
+    },
+    {
+     "text": "Carries gravel",
+     "level": 2
+    },
+    {
+     "text": "Tips loads",
+     "level": 2
+    },
+    {
+     "text": "Tilting bed",
+     "level": 3
+    },
+    {
+     "text": "Huge tires",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bulldozer",
+    "Lorry",
+    "Tractor"
+   ]
+  },
+  {
+   "word": "Cement mixer",
+   "hints": [
+    {
+     "text": "Construction vehicle",
+     "level": 1
+    },
+    {
+     "text": "Mixing truck",
+     "level": 1
+    },
+    {
+     "text": "Building sites",
+     "level": 2
+    },
+    {
+     "text": "Never stops turning",
+     "level": 2
+    },
+    {
+     "text": "Rotating drum",
+     "level": 3
+    },
+    {
+     "text": "Wet concrete",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dump truck",
+    "Bulldozer",
+    "Tanker"
+   ]
+  },
+  {
+   "word": "Steamroller",
+   "hints": [
+    {
+     "text": "Construction vehicle",
+     "level": 1
+    },
+    {
+     "text": "Road flattener",
+     "level": 1
+    },
+    {
+     "text": "Paves roads",
+     "level": 2
+    },
+    {
+     "text": "Very slow",
+     "level": 2
+    },
+    {
+     "text": "Huge front drum",
+     "level": 3
+    },
+    {
+     "text": "Flattens asphalt",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bulldozer",
+    "Tractor",
+    "Grader"
+   ]
+  },
+  {
+   "word": "Snowplow",
+   "hints": [
+    {
+     "text": "Winter vehicle",
+     "level": 1
+    },
+    {
+     "text": "Road clearer",
+     "level": 1
+    },
+    {
+     "text": "Clears blizzards",
+     "level": 2
+    },
+    {
+     "text": "Early mornings",
+     "level": 2
+    },
+    {
+     "text": "Angled front blade",
+     "level": 3
+    },
+    {
+     "text": "Salt spreader",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bulldozer",
+    "Tractor",
+    "Snowmobile"
+   ]
+  },
+  {
+   "word": "Snowmobile",
+   "hints": [
+    {
+     "text": "Winter vehicle",
+     "level": 1
+    },
+    {
+     "text": "Arctic ride",
+     "level": 1
+    },
+    {
+     "text": "Arctic trips",
+     "level": 2
+    },
+    {
+     "text": "Mountain trails",
+     "level": 2
+    },
+    {
+     "text": "Skis in front",
+     "level": 3
+    },
+    {
+     "text": "Tracked back",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sled",
+    "Jet ski",
+    "Quad bike"
+   ]
+  },
+  {
+   "word": "Sled",
+   "hints": [
+    {
+     "text": "Snow transport",
+     "level": 1
+    },
+    {
+     "text": "Winter ride",
+     "level": 1
+    },
+    {
+     "text": "Pulled by dogs",
+     "level": 2
+    },
+    {
+     "text": "Hills in winter",
+     "level": 2
+    },
+    {
+     "text": "Runners underneath",
+     "level": 3
+    },
+    {
+     "text": "Rope to pull",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Toboggan",
+    "Sleigh",
+    "Snowmobile"
+   ]
+  },
+  {
+   "word": "Sleigh",
+   "hints": [
+    {
+     "text": "Snow carriage",
+     "level": 1
+    },
+    {
+     "text": "Festive ride",
+     "level": 1
+    },
+    {
+     "text": "Santa rides one",
+     "level": 2
+    },
+    {
+     "text": "Pulled by reindeer",
+     "level": 2
+    },
+    {
+     "text": "Jingle bells",
+     "level": 3
+    },
+    {
+     "text": "Curved runners",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sled",
+    "Carriage",
+    "Wagon"
+   ]
+  },
+  {
+   "word": "Carriage",
+   "hints": [
+    {
+     "text": "Horse drawn",
+     "level": 1
+    },
+    {
+     "text": "Old transport",
+     "level": 1
+    },
+    {
+     "text": "Royal processions",
+     "level": 2
+    },
+    {
+     "text": "Fairy tales",
+     "level": 2
+    },
+    {
+     "text": "Big wheels",
+     "level": 3
+    },
+    {
+     "text": "Coachman seat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wagon",
+    "Cart",
+    "Sleigh"
+   ]
+  },
+  {
+   "word": "Wagon",
+   "hints": [
+    {
+     "text": "Horse drawn",
+     "level": 1
+    },
+    {
+     "text": "Wild west transport",
+     "level": 1
+    },
+    {
+     "text": "Pioneers",
+     "level": 2
+    },
+    {
+     "text": "Hay rides",
+     "level": 2
+    },
+    {
+     "text": "Canvas cover",
+     "level": 3
+    },
+    {
+     "text": "Wooden wheels",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cart",
+    "Carriage",
+    "Trailer"
+   ]
+  },
+  {
+   "word": "Cart",
+   "hints": [
+    {
+     "text": "Small vehicle",
+     "level": 1
+    },
+    {
+     "text": "Pushed or pulled",
+     "level": 1
+    },
+    {
+     "text": "Shopping or farm",
+     "level": 2
+    },
+    {
+     "text": "Rickety wheels",
+     "level": 2
+    },
+    {
+     "text": "Two wheels",
+     "level": 3
+    },
+    {
+     "text": "Wooden bed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wagon",
+    "Wheelbarrow",
+    "Trolley"
+   ]
+  },
+  {
+   "word": "Bullock cart",
+   "hints": [
+    {
+     "text": "Animal drawn",
+     "level": 1
+    },
+    {
+     "text": "Rural transport",
+     "level": 1
+    },
+    {
+     "text": "Village roads",
+     "level": 2
+    },
+    {
+     "text": "Farm hauling",
+     "level": 2
+    },
+    {
+     "text": "Pulled by oxen",
+     "level": 3
+    },
+    {
+     "text": "Wooden wheels",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Horse cart",
+    "Wagon",
+    "Tractor"
+   ]
+  },
+  {
+   "word": "Camel caravan",
+   "hints": [
+    {
+     "text": "Desert travel",
+     "level": 1
+    },
+    {
+     "text": "Animal convoy",
+     "level": 1
+    },
+    {
+     "text": "Silk road traders",
+     "level": 2
+    },
+    {
+     "text": "Sand dunes",
+     "level": 2
+    },
+    {
+     "text": "Line of humped animals",
+     "level": 3
+    },
+    {
+     "text": "Laden packs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wagon train",
+    "Horse cart",
+    "Jeep"
+   ]
+  },
+  {
+   "word": "Horse",
+   "hints": [
+    {
+     "text": "Animal ride",
+     "level": 1
+    },
+    {
+     "text": "Old transport",
+     "level": 1
+    },
+    {
+     "text": "Riding lessons",
+     "level": 2
+    },
+    {
+     "text": "Cowboys",
+     "level": 2
+    },
+    {
+     "text": "Saddle and reins",
+     "level": 3
+    },
+    {
+     "text": "Galloping",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Donkey",
+    "Camel",
+    "Pony"
+   ]
+  },
+  {
+   "word": "Elephant ride",
+   "hints": [
+    {
+     "text": "Animal journey",
+     "level": 1
+    },
+    {
+     "text": "Tourist trek",
+     "level": 1
+    },
+    {
+     "text": "Royal processions",
+     "level": 2
+    },
+    {
+     "text": "Jungle treks",
+     "level": 2
+    },
+    {
+     "text": "Howdah seat",
+     "level": 3
+    },
+    {
+     "text": "Huge steps",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Camel ride",
+    "Horseback",
+    "Rickshaw"
+   ]
+  },
+  {
+   "word": "Escalator",
+   "hints": [
+    {
+     "text": "Moving stairs",
+     "level": 1
+    },
+    {
+     "text": "Mall transport",
+     "level": 1
+    },
+    {
+     "text": "Shopping centers",
+     "level": 2
+    },
+    {
+     "text": "Stand on right",
+     "level": 2
+    },
+    {
+     "text": "Metal steps",
+     "level": 3
+    },
+    {
+     "text": "Moving handrail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Elevator",
+    "Stairs",
+    "Conveyor"
+   ]
+  },
+  {
+   "word": "Elevator",
+   "hints": [
+    {
+     "text": "Vertical transport",
+     "level": 1
+    },
+    {
+     "text": "Lift",
+     "level": 1
+    },
+    {
+     "text": "Skyscrapers",
+     "level": 2
+    },
+    {
+     "text": "Awkward silence",
+     "level": 2
+    },
+    {
+     "text": "Buttons for floors",
+     "level": 3
+    },
+    {
+     "text": "Sliding doors",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Escalator",
+    "Stairs",
+    "Crane"
+   ]
+  },
+  {
+   "word": "Travelator",
+   "hints": [
+    {
+     "text": "Moving walkway",
+     "level": 1
+    },
+    {
+     "text": "Airport transport",
+     "level": 1
+    },
+    {
+     "text": "Long terminals",
+     "level": 2
+    },
+    {
+     "text": "Walk faster",
+     "level": 2
+    },
+    {
+     "text": "Flat belt",
+     "level": 3
+    },
+    {
+     "text": "Moving handrail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Escalator",
+    "Elevator",
+    "Conveyor"
+   ]
+  },
+  {
+   "word": "Funicular",
+   "hints": [
+    {
+     "text": "Hill railway",
+     "level": 1
+    },
+    {
+     "text": "Cable railway",
+     "level": 1
+    },
+    {
+     "text": "Steep slopes",
+     "level": 2
+    },
+    {
+     "text": "Tourist ride",
+     "level": 2
+    },
+    {
+     "text": "Counterweighted cars",
+     "level": 3
+    },
+    {
+     "text": "Inclined track",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cable car",
+    "Tram",
+    "Monorail"
+   ]
+  },
+  {
+   "word": "Chairlift",
+   "hints": [
+    {
+     "text": "Slope transport",
+     "level": 1
+    },
+    {
+     "text": "Mountain ride",
+     "level": 1
+    },
+    {
+     "text": "Ski resorts",
+     "level": 2
+    },
+    {
+     "text": "Dangling legs",
+     "level": 2
+    },
+    {
+     "text": "Open seats",
+     "level": 3
+    },
+    {
+     "text": "Safety bar",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cable car",
+    "Gondola",
+    "Elevator"
+   ]
+  },
+  {
+   "word": "Bullet train",
+   "hints": [
+    {
+     "text": "High speed rail",
+     "level": 1
+    },
+    {
+     "text": "Fast rail",
+     "level": 1
+    },
+    {
+     "text": "Japanese icon",
+     "level": 2
+    },
+    {
+     "text": "Punctual service",
+     "level": 2
+    },
+    {
+     "text": "Sleek nose",
+     "level": 3
+    },
+    {
+     "text": "Very fast",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Monorail",
+    "Subway",
+    "Tram"
+   ]
+  },
+  {
+   "word": "Steam train",
+   "hints": [
+    {
+     "text": "Old locomotive",
+     "level": 1
+    },
+    {
+     "text": "Heritage rail",
+     "level": 1
+    },
+    {
+     "text": "Puffs smoke",
+     "level": 2
+    },
+    {
+     "text": "Choo choo",
+     "level": 2
+    },
+    {
+     "text": "Coal fired engine",
+     "level": 3
+    },
+    {
+     "text": "Whistle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Diesel train",
+    "Tram",
+    "Bullet train"
+   ]
+  },
+  {
+   "word": "Freight train",
+   "hints": [
+    {
+     "text": "Cargo rail",
+     "level": 1
+    },
+    {
+     "text": "Long locomotive",
+     "level": 1
+    },
+    {
+     "text": "Carries goods",
+     "level": 2
+    },
+    {
+     "text": "Very long",
+     "level": 2
+    },
+    {
+     "text": "Box cars",
+     "level": 3
+    },
+    {
+     "text": "Container wagons",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Passenger train",
+    "Tram",
+    "Lorry"
+   ]
+  },
+  {
+   "word": "Metro",
+   "hints": [
+    {
+     "text": "City rail",
+     "level": 1
+    },
+    {
+     "text": "Rapid transit",
+     "level": 1
+    },
+    {
+     "text": "Daily commute",
+     "level": 2
+    },
+    {
+     "text": "Smart cards",
+     "level": 2
+    },
+    {
+     "text": "Underground tunnels",
+     "level": 3
+    },
+    {
+     "text": "Station maps",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Subway",
+    "Tram",
+    "Bus"
+   ]
+  },
+  {
+   "word": "Coach",
+   "hints": [
+    {
+     "text": "Long distance bus",
+     "level": 1
+    },
+    {
+     "text": "Tour bus",
+     "level": 1
+    },
+    {
+     "text": "School trips",
+     "level": 2
+    },
+    {
+     "text": "Comfy seats",
+     "level": 2
+    },
+    {
+     "text": "Luggage hold",
+     "level": 3
+    },
+    {
+     "text": "Reclining seats",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bus",
+    "Train",
+    "Minibus"
+   ]
+  },
+  {
+   "word": "Double decker",
+   "hints": [
+    {
+     "text": "Two level bus",
+     "level": 1
+    },
+    {
+     "text": "City bus",
+     "level": 1
+    },
+    {
+     "text": "Tourist tours",
+     "level": 2
+    },
+    {
+     "text": "Upstairs views",
+     "level": 2
+    },
+    {
+     "text": "Two floors",
+     "level": 3
+    },
+    {
+     "text": "Red paint",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bus",
+    "Tram",
+    "Coach"
+   ]
+  },
+  {
+   "word": "School bus",
+   "hints": [
+    {
+     "text": "Kids transport",
+     "level": 1
+    },
+    {
+     "text": "Yellow vehicle",
+     "level": 1
+    },
+    {
+     "text": "Morning pickups",
+     "level": 2
+    },
+    {
+     "text": "Stop sign arm",
+     "level": 2
+    },
+    {
+     "text": "Bright yellow",
+     "level": 3
+    },
+    {
+     "text": "Rows of seats",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Coach",
+    "Van",
+    "Minibus"
+   ]
+  },
+  {
+   "word": "Minibus",
+   "hints": [
+    {
+     "text": "Small bus",
+     "level": 1
+    },
+    {
+     "text": "Group transport",
+     "level": 1
+    },
+    {
+     "text": "Airport shuttles",
+     "level": 2
+    },
+    {
+     "text": "Sports teams",
+     "level": 2
+    },
+    {
+     "text": "Fifteen seats",
+     "level": 3
+    },
+    {
+     "text": "Sliding door",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Van",
+    "Bus",
+    "Coach"
+   ]
+  },
+  {
+   "word": "Shuttle",
+   "hints": [
+    {
+     "text": "Connecting transport",
+     "level": 1
+    },
+    {
+     "text": "Short trip ride",
+     "level": 1
+    },
+    {
+     "text": "Airport hotels",
+     "level": 2
+    },
+    {
+     "text": "Free service",
+     "level": 2
+    },
+    {
+     "text": "Loops a route",
+     "level": 3
+    },
+    {
+     "text": "Small bus",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Taxi",
+    "Coach",
+    "Tram"
+   ]
+  },
+  {
+   "word": "Jet ski",
+   "hints": [
+    {
+     "text": "Water vehicle",
+     "level": 1
+    },
+    {
+     "text": "Personal watercraft",
+     "level": 1
+    },
+    {
+     "text": "Beach rentals",
+     "level": 2
+    },
+    {
+     "text": "Sprays water",
+     "level": 2
+    },
+    {
+     "text": "Handlebars",
+     "level": 3
+    },
+    {
+     "text": "Sit astride",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Speedboat",
+    "Kayak",
+    "Surfboard"
+   ]
+  },
+  {
+   "word": "Hovercraft",
+   "hints": [
+    {
+     "text": "Air cushion vehicle",
+     "level": 1
+    },
+    {
+     "text": "Amphibious vessel",
+     "level": 1
+    },
+    {
+     "text": "Crosses water and land",
+     "level": 2
+    },
+    {
+     "text": "Loud fans",
+     "level": 2
+    },
+    {
+     "text": "Rubber skirt",
+     "level": 3
+    },
+    {
+     "text": "Floats on air",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ferry",
+    "Boat",
+    "Jet ski"
+   ]
+  },
+  {
+   "word": "Barge",
+   "hints": [
+    {
+     "text": "Cargo boat",
+     "level": 1
+    },
+    {
+     "text": "Flat vessel",
+     "level": 1
+    },
+    {
+     "text": "Canal transport",
+     "level": 2
+    },
+    {
+     "text": "Slow moving",
+     "level": 2
+    },
+    {
+     "text": "Flat bottom",
+     "level": 3
+    },
+    {
+     "text": "Pushed by tugs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ferry",
+    "Raft",
+    "Tanker"
+   ]
+  },
+  {
+   "word": "Tugboat",
+   "hints": [
+    {
+     "text": "Harbor vessel",
+     "level": 1
+    },
+    {
+     "text": "Small powerful vessel",
+     "level": 1
+    },
+    {
+     "text": "Pushes big ships",
+     "level": 2
+    },
+    {
+     "text": "Docking help",
+     "level": 2
+    },
+    {
+     "text": "Big fenders",
+     "level": 3
+    },
+    {
+     "text": "Chunky hull",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Barge",
+    "Ferry",
+    "Speedboat"
+   ]
+  },
+  {
+   "word": "Houseboat",
+   "hints": [
+    {
+     "text": "Floating home",
+     "level": 1
+    },
+    {
+     "text": "Lake vessel",
+     "level": 1
+    },
+    {
+     "text": "Kerala backwaters",
+     "level": 2
+    },
+    {
+     "text": "Kashmir lakes",
+     "level": 2
+    },
+    {
+     "text": "Bedrooms aboard",
+     "level": 3
+    },
+    {
+     "text": "Moored",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Yacht",
+    "Barge",
+    "Cruise ship"
+   ]
+  },
+  {
+   "word": "Rowboat",
+   "hints": [
+    {
+     "text": "Small vessel",
+     "level": 1
+    },
+    {
+     "text": "Oar powered",
+     "level": 1
+    },
+    {
+     "text": "Lake outings",
+     "level": 2
+    },
+    {
+     "text": "Romantic rows",
+     "level": 2
+    },
+    {
+     "text": "Two oars",
+     "level": 3
+    },
+    {
+     "text": "Wooden seats",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Canoe",
+    "Kayak",
+    "Raft"
+   ]
+  },
+  {
+   "word": "Paddleboard",
+   "hints": [
+    {
+     "text": "Water craft",
+     "level": 1
+    },
+    {
+     "text": "Standing sport",
+     "level": 1
+    },
+    {
+     "text": "Calm lakes",
+     "level": 2
+    },
+    {
+     "text": "Yoga on water",
+     "level": 2
+    },
+    {
+     "text": "Long plank",
+     "level": 3
+    },
+    {
+     "text": "Single oar",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Surfboard",
+    "Kayak",
+    "Canoe"
+   ]
+  },
+  {
+   "word": "Surfboard",
+   "hints": [
+    {
+     "text": "Wave rider",
+     "level": 1
+    },
+    {
+     "text": "Beach craft",
+     "level": 1
+    },
+    {
+     "text": "Beach culture",
+     "level": 2
+    },
+    {
+     "text": "Catches waves",
+     "level": 2
+    },
+    {
+     "text": "Fin underneath",
+     "level": 3
+    },
+    {
+     "text": "Waxed top",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Skateboard",
+    "Paddleboard",
+    "Bodyboard"
+   ]
+  },
+  {
+   "word": "Pirate ship",
+   "hints": [
+    {
+     "text": "Old vessel",
+     "level": 1
+    },
+    {
+     "text": "Adventure vessel",
+     "level": 1
+    },
+    {
+     "text": "Treasure hunts",
+     "level": 2
+    },
+    {
+     "text": "Walk the plank",
+     "level": 2
+    },
+    {
+     "text": "Skull flag",
+     "level": 3
+    },
+    {
+     "text": "Cannons",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Galleon",
+    "Yacht",
+    "Raft"
+   ]
+  },
+  {
+   "word": "Galleon",
+   "hints": [
+    {
+     "text": "Old ship",
+     "level": 1
+    },
+    {
+     "text": "Sailing warship",
+     "level": 1
+    },
+    {
+     "text": "Spanish treasure",
+     "level": 2
+    },
+    {
+     "text": "Age of sail",
+     "level": 2
+    },
+    {
+     "text": "Tall masts",
+     "level": 3
+    },
+    {
+     "text": "Wooden decks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pirate ship",
+    "Frigate",
+    "Yacht"
+   ]
+  },
+  {
+   "word": "Aircraft carrier",
+   "hints": [
+    {
+     "text": "Navy ship",
+     "level": 1
+    },
+    {
+     "text": "Floating runway",
+     "level": 1
+    },
+    {
+     "text": "Jets take off",
+     "level": 2
+    },
+    {
+     "text": "Huge crew",
+     "level": 2
+    },
+    {
+     "text": "Flat deck",
+     "level": 3
+    },
+    {
+     "text": "Catapult launch",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Battleship",
+    "Submarine",
+    "Destroyer"
+   ]
+  },
+  {
+   "word": "Battleship",
+   "hints": [
+    {
+     "text": "Navy vessel",
+     "level": 1
+    },
+    {
+     "text": "Warship",
+     "level": 1
+    },
+    {
+     "text": "Big guns",
+     "level": 2
+    },
+    {
+     "text": "Naval combat",
+     "level": 2
+    },
+    {
+     "text": "Armored hull",
+     "level": 3
+    },
+    {
+     "text": "Gun turrets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Aircraft carrier",
+    "Submarine",
+    "Destroyer"
+   ]
+  },
+  {
+   "word": "Fighter jet",
+   "hints": [
+    {
+     "text": "Military aircraft",
+     "level": 1
+    },
+    {
+     "text": "Fast plane",
+     "level": 1
+    },
+    {
+     "text": "Air shows",
+     "level": 2
+    },
+    {
+     "text": "Sonic boom",
+     "level": 2
+    },
+    {
+     "text": "Afterburner",
+     "level": 3
+    },
+    {
+     "text": "Missiles under wings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bomber",
+    "Helicopter",
+    "Drone"
+   ]
+  },
+  {
+   "word": "Drone",
+   "hints": [
+    {
+     "text": "Unmanned aircraft",
+     "level": 1
+    },
+    {
+     "text": "Flying gadget",
+     "level": 1
+    },
+    {
+     "text": "Aerial photos",
+     "level": 2
+    },
+    {
+     "text": "Package delivery",
+     "level": 2
+    },
+    {
+     "text": "Four rotors",
+     "level": 3
+    },
+    {
+     "text": "Remote controlled",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Helicopter",
+    "Kite",
+    "Plane"
+   ]
+  },
+  {
+   "word": "Seaplane",
+   "hints": [
+    {
+     "text": "Water aircraft",
+     "level": 1
+    },
+    {
+     "text": "Float aircraft",
+     "level": 1
+    },
+    {
+     "text": "Island hopping",
+     "level": 2
+    },
+    {
+     "text": "Lands on lakes",
+     "level": 2
+    },
+    {
+     "text": "Pontoons",
+     "level": 3
+    },
+    {
+     "text": "Propeller",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Airplane",
+    "Glider",
+    "Helicopter"
+   ]
+  },
+  {
+   "word": "Biplane",
+   "hints": [
+    {
+     "text": "Old aircraft",
+     "level": 1
+    },
+    {
+     "text": "Vintage aircraft",
+     "level": 1
+    },
+    {
+     "text": "Air shows",
+     "level": 2
+    },
+    {
+     "text": "Crop dusting",
+     "level": 2
+    },
+    {
+     "text": "Two wings stacked",
+     "level": 3
+    },
+    {
+     "text": "Open cockpit",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Glider",
+    "Jet",
+    "Seaplane"
+   ]
+  },
+  {
+   "word": "Paraglider",
+   "hints": [
+    {
+     "text": "Air sport craft",
+     "level": 1
+    },
+    {
+     "text": "Wing canopy",
+     "level": 1
+    },
+    {
+     "text": "Mountain launches",
+     "level": 2
+    },
+    {
+     "text": "Soaring",
+     "level": 2
+    },
+    {
+     "text": "Fabric wing",
+     "level": 3
+    },
+    {
+     "text": "Harness seat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kite",
+    "Hang glider",
+    "Parachute"
+   ]
+  },
+  {
+   "word": "Parachute",
+   "hints": [
+    {
+     "text": "Descent device",
+     "level": 1
+    },
+    {
+     "text": "Air safety",
+     "level": 1
+    },
+    {
+     "text": "Skydivers",
+     "level": 2
+    },
+    {
+     "text": "Emergency exit",
+     "level": 2
+    },
+    {
+     "text": "Canopy",
+     "level": 3
+    },
+    {
+     "text": "Ripcord",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Paraglider",
+    "Glider",
+    "Balloon"
+   ]
+  },
+  {
+   "word": "Space shuttle",
+   "hints": [
+    {
+     "text": "Reusable orbiter",
+     "level": 1
+    },
+    {
+     "text": "Orbital vehicle",
+     "level": 1
+    },
+    {
+     "text": "Retired program",
+     "level": 2
+    },
+    {
+     "text": "Glided home",
+     "level": 2
+    },
+    {
+     "text": "Orange fuel tank",
+     "level": 3
+    },
+    {
+     "text": "Winged orbiter",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rocket",
+    "Space station",
+    "Capsule"
+   ]
+  },
+  {
+   "word": "Satellite",
+   "hints": [
+    {
+     "text": "Orbiting object",
+     "level": 1
+    },
+    {
+     "text": "Space device",
+     "level": 1
+    },
+    {
+     "text": "Weather forecasts",
+     "level": 2
+    },
+    {
+     "text": "Gps signals",
+     "level": 2
+    },
+    {
+     "text": "Solar panels",
+     "level": 3
+    },
+    {
+     "text": "Circles the planet",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Space station",
+    "Rocket",
+    "Moon"
+   ]
+  },
+  {
+   "word": "Space station",
+   "hints": [
+    {
+     "text": "Orbiting lab",
+     "level": 1
+    },
+    {
+     "text": "Orbital base",
+     "level": 1
+    },
+    {
+     "text": "Astronauts live there",
+     "level": 2
+    },
+    {
+     "text": "Science experiments",
+     "level": 2
+    },
+    {
+     "text": "Solar arrays",
+     "level": 3
+    },
+    {
+     "text": "Docking ports",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Satellite",
+    "Space shuttle",
+    "Rocket"
+   ]
+  },
+  {
+   "word": "Lunar rover",
+   "hints": [
+    {
+     "text": "Moon vehicle",
+     "level": 1
+    },
+    {
+     "text": "Space buggy",
+     "level": 1
+    },
+    {
+     "text": "Driven by astronauts",
+     "level": 2
+    },
+    {
+     "text": "Moon missions",
+     "level": 2
+    },
+    {
+     "text": "Mesh wheels",
+     "level": 3
+    },
+    {
+     "text": "Antenna dish",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mars rover",
+    "Jeep",
+    "Space shuttle"
+   ]
+  },
+  {
+   "word": "Go kart",
+   "hints": [
+    {
+     "text": "Small car",
+     "level": 1
+    },
+    {
+     "text": "Racing toy",
+     "level": 1
+    },
+    {
+     "text": "Birthday parties",
+     "level": 2
+    },
+    {
+     "text": "Track fun",
+     "level": 2
+    },
+    {
+     "text": "Low seat",
+     "level": 3
+    },
+    {
+     "text": "Small engine",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bumper car",
+    "Race car",
+    "Quad bike"
+   ]
+  },
+  {
+   "word": "Bumper car",
+   "hints": [
+    {
+     "text": "Fairground ride",
+     "level": 1
+    },
+    {
+     "text": "Toy vehicle",
+     "level": 1
+    },
+    {
+     "text": "Crash for fun",
+     "level": 2
+    },
+    {
+     "text": "Amusement parks",
+     "level": 2
+    },
+    {
+     "text": "Rubber edges",
+     "level": 3
+    },
+    {
+     "text": "Pole to ceiling",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Go kart",
+    "Dodgem",
+    "Carousel"
+   ]
+  },
+  {
+   "word": "Race car",
+   "hints": [
+    {
+     "text": "Fast vehicle",
+     "level": 1
+    },
+    {
+     "text": "Sports vehicle",
+     "level": 1
+    },
+    {
+     "text": "Grand prix",
+     "level": 2
+    },
+    {
+     "text": "Pit stops",
+     "level": 2
+    },
+    {
+     "text": "Slick tires",
+     "level": 3
+    },
+    {
+     "text": "Spoiler wing",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Go kart",
+    "Sports car",
+    "Rally car"
+   ]
+  },
+  {
+   "word": "Sports car",
+   "hints": [
+    {
+     "text": "Fast vehicle",
+     "level": 1
+    },
+    {
+     "text": "Luxury vehicle",
+     "level": 1
+    },
+    {
+     "text": "Midlife crisis",
+     "level": 2
+    },
+    {
+     "text": "Roaring engine",
+     "level": 2
+    },
+    {
+     "text": "Low and sleek",
+     "level": 3
+    },
+    {
+     "text": "Two doors",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Race car",
+    "Convertible",
+    "Sedan"
+   ]
+  },
+  {
+   "word": "Electric car",
+   "hints": [
+    {
+     "text": "Battery vehicle",
+     "level": 1
+    },
+    {
+     "text": "Green vehicle",
+     "level": 1
+    },
+    {
+     "text": "Charging stations",
+     "level": 2
+    },
+    {
+     "text": "Silent motor",
+     "level": 2
+    },
+    {
+     "text": "No exhaust",
+     "level": 3
+    },
+    {
+     "text": "Plug in",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hybrid",
+    "Petrol car",
+    "Scooter"
+   ]
+  },
+  {
+   "word": "Quad bike",
+   "hints": [
+    {
+     "text": "Off road vehicle",
+     "level": 1
+    },
+    {
+     "text": "Four wheeler",
+     "level": 1
+    },
+    {
+     "text": "Beach rides",
+     "level": 2
+    },
+    {
+     "text": "Farm use",
+     "level": 2
+    },
+    {
+     "text": "Handlebars",
+     "level": 3
+    },
+    {
+     "text": "Chunky tires",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dirt bike",
+    "Go kart",
+    "Jeep"
+   ]
+  },
+  {
+   "word": "Dirt bike",
+   "hints": [
+    {
+     "text": "Off road motorcycle",
+     "level": 1
+    },
+    {
+     "text": "Trail machine",
+     "level": 1
+    },
+    {
+     "text": "Muddy tracks",
+     "level": 2
+    },
+    {
+     "text": "Big jumps",
+     "level": 2
+    },
+    {
+     "text": "Knobby tires",
+     "level": 3
+    },
+    {
+     "text": "High fenders",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Motorcycle",
+    "Quad bike",
+    "Bicycle"
+   ]
+  },
+  {
+   "word": "Tuk tuk",
+   "hints": [
+    {
+     "text": "Three wheeler",
+     "level": 1
+    },
+    {
+     "text": "Asian taxi",
+     "level": 1
+    },
+    {
+     "text": "Thai streets",
+     "level": 2
+    },
+    {
+     "text": "Noisy engine",
+     "level": 2
+    },
+    {
+     "text": "Open sides",
+     "level": 3
+    },
+    {
+     "text": "Colorful canopy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rickshaw",
+    "Taxi",
+    "Scooter"
+   ]
+  },
+  {
+   "word": "Pedicab",
+   "hints": [
+    {
+     "text": "Bicycle taxi",
+     "level": 1
+    },
+    {
+     "text": "Pedal rickshaw",
+     "level": 1
+    },
+    {
+     "text": "Tourist rides",
+     "level": 2
+    },
+    {
+     "text": "Eco friendly",
+     "level": 2
+    },
+    {
+     "text": "Rider in front",
+     "level": 3
+    },
+    {
+     "text": "Passenger seat behind",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rickshaw",
+    "Tricycle",
+    "Taxi"
+   ]
+  },
+  {
+   "word": "Wheelchair",
+   "hints": [
+    {
+     "text": "Mobility aid",
+     "level": 1
+    },
+    {
+     "text": "Personal transport",
+     "level": 1
+    },
+    {
+     "text": "Hospital use",
+     "level": 2
+    },
+    {
+     "text": "Accessibility",
+     "level": 2
+    },
+    {
+     "text": "Two big wheels",
+     "level": 3
+    },
+    {
+     "text": "Push rims",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Walker",
+    "Scooter",
+    "Stretcher"
+   ]
+  },
+  {
+   "word": "Stretcher",
+   "hints": [
+    {
+     "text": "Medical carrier",
+     "level": 1
+    },
+    {
+     "text": "Patient transport",
+     "level": 1
+    },
+    {
+     "text": "Ambulance crews",
+     "level": 2
+    },
+    {
+     "text": "Carry injured",
+     "level": 2
+    },
+    {
+     "text": "Flat bed",
+     "level": 3
+    },
+    {
+     "text": "Folding legs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wheelchair",
+    "Bed",
+    "Cot"
+   ]
+  },
+  {
+   "word": "Stroller",
+   "hints": [
+    {
+     "text": "Baby carrier",
+     "level": 1
+    },
+    {
+     "text": "Pushed chair",
+     "level": 1
+    },
+    {
+     "text": "Park walks",
+     "level": 2
+    },
+    {
+     "text": "Parents push it",
+     "level": 2
+    },
+    {
+     "text": "Canopy",
+     "level": 3
+    },
+    {
+     "text": "Small wheels",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pram",
+    "Wheelchair",
+    "Wagon"
+   ]
+  },
+  {
+   "word": "Pram",
+   "hints": [
+    {
+     "text": "Baby carriage",
+     "level": 1
+    },
+    {
+     "text": "Old pushchair",
+     "level": 1
+    },
+    {
+     "text": "Victorian nannies",
+     "level": 2
+    },
+    {
+     "text": "Newborns lie in it",
+     "level": 2
+    },
+    {
+     "text": "Hooded bassinet",
+     "level": 3
+    },
+    {
+     "text": "Big wheels",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Stroller",
+    "Cot",
+    "Wagon"
+   ]
+  },
+  {
+   "word": "Shopping cart",
+   "hints": [
+    {
+     "text": "Store trolley",
+     "level": 1
+    },
+    {
+     "text": "Wheeled basket",
+     "level": 1
+    },
+    {
+     "text": "Supermarkets",
+     "level": 2
+    },
+    {
+     "text": "Wonky wheel",
+     "level": 2
+    },
+    {
+     "text": "Wire basket",
+     "level": 3
+    },
+    {
+     "text": "Child seat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Basket",
+    "Wheelbarrow",
+    "Wagon"
+   ]
+  },
+  {
+   "word": "Conveyor belt",
+   "hints": [
+    {
+     "text": "Moving strip",
+     "level": 1
+    },
+    {
+     "text": "Factory transport",
+     "level": 1
+    },
+    {
+     "text": "Airport luggage",
+     "level": 2
+    },
+    {
+     "text": "Checkout lanes",
+     "level": 2
+    },
+    {
+     "text": "Rubber surface",
+     "level": 3
+    },
+    {
+     "text": "Rollers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Escalator",
+    "Travelator",
+    "Elevator"
+   ]
+  },
+  {
+   "word": "Zipline",
+   "hints": [
+    {
+     "text": "Adventure ride",
+     "level": 1
+    },
+    {
+     "text": "Cable slide",
+     "level": 1
+    },
+    {
+     "text": "Jungle canopies",
+     "level": 2
+    },
+    {
+     "text": "Thrill seekers",
+     "level": 2
+    },
+    {
+     "text": "Harness and pulley",
+     "level": 3
+    },
+    {
+     "text": "Steel cable",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cable car",
+    "Chairlift",
+    "Swing"
+   ]
+  },
+  {
+   "word": "Ox cart",
+   "hints": [
+    {
+     "text": "Animal drawn",
+     "level": 1
+    },
+    {
+     "text": "Farm transport",
+     "level": 1
+    },
+    {
+     "text": "Rural villages",
+     "level": 2
+    },
+    {
+     "text": "Slow pace",
+     "level": 2
+    },
+    {
+     "text": "Pair of oxen",
+     "level": 3
+    },
+    {
+     "text": "Yoke",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wagon",
+    "Horse cart",
+    "Tractor"
+   ]
+  },
+  {
+   "word": "Dog sled",
+   "hints": [
+    {
+     "text": "Snow transport",
+     "level": 1
+    },
+    {
+     "text": "Arctic ride",
+     "level": 1
+    },
+    {
+     "text": "Races in alaska",
+     "level": 2
+    },
+    {
+     "text": "Mushing",
+     "level": 2
+    },
+    {
+     "text": "Team of huskies",
+     "level": 3
+    },
+    {
+     "text": "Wooden runners",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Snowmobile",
+    "Sleigh",
+    "Toboggan"
+   ]
+  },
+  {
+   "word": "Toboggan",
+   "hints": [
+    {
+     "text": "Snow sled",
+     "level": 1
+    },
+    {
+     "text": "Winter ride",
+     "level": 1
+    },
+    {
+     "text": "Snowy hills",
+     "level": 2
+    },
+    {
+     "text": "Family fun",
+     "level": 2
+    },
+    {
+     "text": "Curled front",
+     "level": 3
+    },
+    {
+     "text": "Flat wooden base",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sled",
+    "Luge",
+    "Snowboard"
+   ]
+  },
+  {
+   "word": "Zeppelin",
+   "hints": [
+    {
+     "text": "Airship",
+     "level": 1
+    },
+    {
+     "text": "Rigid balloon",
+     "level": 1
+    },
+    {
+     "text": "Early aviation",
+     "level": 2
+    },
+    {
+     "text": "Floating giants",
+     "level": 2
+    },
+    {
+     "text": "Metal frame",
+     "level": 3
+    },
+    {
+     "text": "Gondola underneath",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Blimp",
+    "Balloon flight",
+    "Glider"
+   ]
+  },
+  {
+   "word": "Ocean liner",
+   "hints": [
+    {
+     "text": "Passenger ship",
+     "level": 1
+    },
+    {
+     "text": "Grand vessel",
+     "level": 1
+    },
+    {
+     "text": "Transatlantic crossings",
+     "level": 2
+    },
+    {
+     "text": "Historic voyages",
+     "level": 2
+    },
+    {
+     "text": "Funnels",
+     "level": 3
+    },
+    {
+     "text": "Many decks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cruise ship",
+    "Ferry",
+    "Yacht"
+   ]
+  },
+  {
+   "word": "Container ship",
+   "hints": [
+    {
+     "text": "Cargo vessel",
+     "level": 1
+    },
+    {
+     "text": "Freight vessel",
+     "level": 1
+    },
+    {
+     "text": "Global trade",
+     "level": 2
+    },
+    {
+     "text": "Huge ports",
+     "level": 2
+    },
+    {
+     "text": "Stacked boxes",
+     "level": 3
+    },
+    {
+     "text": "Giant cranes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tanker",
+    "Barge",
+    "Ferry"
+   ]
+  },
+  {
+   "word": "Fishing boat",
+   "hints": [
+    {
+     "text": "Work vessel",
+     "level": 1
+    },
+    {
+     "text": "Trawler",
+     "level": 1
+    },
+    {
+     "text": "Early morning catch",
+     "level": 2
+    },
+    {
+     "text": "Harbor docks",
+     "level": 2
+    },
+    {
+     "text": "Nets and winches",
+     "level": 3
+    },
+    {
+     "text": "Seagulls follow",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ferry",
+    "Yacht",
+    "Tugboat"
+   ]
+  },
+  {
+   "word": "Lifeboat",
+   "hints": [
+    {
+     "text": "Rescue vessel",
+     "level": 1
+    },
+    {
+     "text": "Safety vessel",
+     "level": 1
+    },
+    {
+     "text": "Emergency at sea",
+     "level": 2
+    },
+    {
+     "text": "Coast guards",
+     "level": 2
+    },
+    {
+     "text": "Bright orange",
+     "level": 3
+    },
+    {
+     "text": "Hanging from ship",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Raft",
+    "Dinghy",
+    "Tugboat"
+   ]
+  },
+  {
+   "word": "Dinghy",
+   "hints": [
+    {
+     "text": "Small boat",
+     "level": 1
+    },
+    {
+     "text": "Inflatable boat",
+     "level": 1
+    },
+    {
+     "text": "Yacht tender",
+     "level": 2
+    },
+    {
+     "text": "Lake fun",
+     "level": 2
+    },
+    {
+     "text": "Rubber sides",
+     "level": 3
+    },
+    {
+     "text": "Outboard motor",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Raft",
+    "Canoe",
+    "Rowboat"
+   ]
+  },
+  {
+   "word": "Catamaran",
+   "hints": [
+    {
+     "text": "Twin hull boat",
+     "level": 1
+    },
+    {
+     "text": "Sailing vessel",
+     "level": 1
+    },
+    {
+     "text": "Island cruises",
+     "level": 2
+    },
+    {
+     "text": "Stable ride",
+     "level": 2
+    },
+    {
+     "text": "Two parallel hulls",
+     "level": 3
+    },
+    {
+     "text": "Netting deck",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Yacht",
+    "Ferry",
+    "Trimaran"
+   ]
+  },
+  {
+   "word": "Airship",
+   "hints": [
+    {
+     "text": "Lighter than air",
+     "level": 1
+    },
+    {
+     "text": "Floating craft",
+     "level": 1
+    },
+    {
+     "text": "Early aviation",
+     "level": 2
+    },
+    {
+     "text": "Slow cruises",
+     "level": 2
+    },
+    {
+     "text": "Gas envelope",
+     "level": 3
+    },
+    {
+     "text": "Cabin underneath",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Blimp",
+    "Zeppelin",
+    "Balloon"
+   ]
+  },
+  {
+   "word": "Mail truck",
+   "hints": [
+    {
+     "text": "Delivery vehicle",
+     "level": 1
+    },
+    {
+     "text": "Postal van",
+     "level": 1
+    },
+    {
+     "text": "Daily rounds",
+     "level": 2
+    },
+    {
+     "text": "Right hand drive",
+     "level": 2
+    },
+    {
+     "text": "Boxy shape",
+     "level": 3
+    },
+    {
+     "text": "Sliding door",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Food truck",
+    "Garbage truck",
+    "Minivan"
+   ]
+  },
+  {
+   "word": "Treat van",
+   "hints": [
+    {
+     "text": "Dessert vehicle",
+     "level": 1
+    },
+    {
+     "text": "Summer vehicle",
+     "level": 1
+    },
+    {
+     "text": "Chimes a tune",
+     "level": 2
+    },
+    {
+     "text": "Kids chase it",
+     "level": 2
+    },
+    {
+     "text": "Serving window",
+     "level": 3
+    },
+    {
+     "text": "Cone sign",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Food truck",
+    "Mail truck",
+    "Minivan"
+   ]
+  },
+  {
+   "word": "Food truck",
+   "hints": [
+    {
+     "text": "Mobile kitchen",
+     "level": 1
+    },
+    {
+     "text": "Street vendor",
+     "level": 1
+    },
+    {
+     "text": "Festival snacks",
+     "level": 2
+    },
+    {
+     "text": "Office lunches",
+     "level": 2
+    },
+    {
+     "text": "Serving hatch",
+     "level": 3
+    },
+    {
+     "text": "Menu board",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Treat van",
+    "Mail truck",
+    "Camper van"
+   ]
+  },
+  {
+   "word": "Rickshaw puller",
+   "hints": [
+    {
+     "text": "Old city transport",
+     "level": 1
+    },
+    {
+     "text": "Human drawn cart",
+     "level": 1
+    },
+    {
+     "text": "Kolkata streets",
+     "level": 2
+    },
+    {
+     "text": "Tourist rides",
+     "level": 2
+    },
+    {
+     "text": "Long poles",
+     "level": 3
+    },
+    {
+     "text": "Barefoot runner",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pedicab",
+    "Tuk tuk",
+    "Taxi"
+   ]
+  },
+  {
+   "word": "Horse carriage",
+   "hints": [
+    {
+     "text": "Animal drawn ride",
+     "level": 1
+    },
+    {
+     "text": "Romantic ride",
+     "level": 1
+    },
+    {
+     "text": "City park tours",
+     "level": 2
+    },
+    {
+     "text": "Weddings",
+     "level": 2
+    },
+    {
+     "text": "Coachman",
+     "level": 3
+    },
+    {
+     "text": "Clip clop hooves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sleigh",
+    "Wagon",
+    "Limousine"
+   ]
+  },
+  {
+   "word": "Penny farthing",
+   "hints": [
+    {
+     "text": "Old bicycle",
+     "level": 1
+    },
+    {
+     "text": "Victorian ride",
+     "level": 1
+    },
+    {
+     "text": "Hard to mount",
+     "level": 2
+    },
+    {
+     "text": "Museum piece",
+     "level": 2
+    },
+    {
+     "text": "Huge front wheel",
+     "level": 3
+    },
+    {
+     "text": "Tiny back wheel",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Unicycle",
+    "Tandem",
+    "Tricycle"
+   ]
+  },
+  {
+   "word": "Airport shuttle",
+   "hints": [
+    {
+     "text": "Terminal transport",
+     "level": 1
+    },
+    {
+     "text": "Courtesy bus",
+     "level": 1
+    },
+    {
+     "text": "Hotel pickups",
+     "level": 2
+    },
+    {
+     "text": "Free rides",
+     "level": 2
+    },
+    {
+     "text": "Luggage racks",
+     "level": 3
+    },
+    {
+     "text": "Frequent loops",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Taxi",
+    "Coach",
+    "Minibus"
+   ]
+  },
+  {
+   "word": "Hatchback",
+   "hints": [
+    {
+     "text": "Car type",
+     "level": 1
+    },
+    {
+     "text": "Compact car",
+     "level": 1
+    },
+    {
+     "text": "City parking",
+     "level": 2
+    },
+    {
+     "text": "First vehicle",
+     "level": 2
+    },
+    {
+     "text": "Rear lift door",
+     "level": 3
+    },
+    {
+     "text": "Short boot",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sedan",
+    "Coupe",
+    "Minivan"
+   ]
+  },
+  {
+   "word": "Coupe",
+   "hints": [
+    {
+     "text": "Car type",
+     "level": 1
+    },
+    {
+     "text": "Two door car",
+     "level": 1
+    },
+    {
+     "text": "Sporty look",
+     "level": 2
+    },
+    {
+     "text": "Sleek roofline",
+     "level": 2
+    },
+    {
+     "text": "Sloping back",
+     "level": 3
+    },
+    {
+     "text": "Low stance",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sedan",
+    "Convertible",
+    "Hatchback"
+   ]
+  },
+  {
+   "word": "Ambulance boat",
+   "hints": [
+    {
+     "text": "Rescue vessel",
+     "level": 1
+    },
+    {
+     "text": "Water medics",
+     "level": 1
+    },
+    {
+     "text": "Island emergencies",
+     "level": 2
+    },
+    {
+     "text": "Coastal medics",
+     "level": 2
+    },
+    {
+     "text": "Siren on deck",
+     "level": 3
+    },
+    {
+     "text": "Stretcher inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lifeboat",
+    "Ferry",
+    "Speedboat"
+   ]
+  },
+  {
+   "word": "Light rail",
+   "hints": [
+    {
+     "text": "City transit",
+     "level": 1
+    },
+    {
+     "text": "Modern tram",
+     "level": 1
+    },
+    {
+     "text": "Suburban lines",
+     "level": 2
+    },
+    {
+     "text": "Electric power",
+     "level": 2
+    },
+    {
+     "text": "Overhead wires",
+     "level": 3
+    },
+    {
+     "text": "Low floor carriages",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Subway",
+    "Monorail",
+    "Bus"
+   ]
+  },
+  {
+   "word": "Motorboat",
+   "hints": [
+    {
+     "text": "Engine vessel",
+     "level": 1
+    },
+    {
+     "text": "Leisure craft",
+     "level": 1
+    },
+    {
+     "text": "Lake weekends",
+     "level": 2
+    },
+    {
+     "text": "Waterskiing tows",
+     "level": 2
+    },
+    {
+     "text": "Outboard engine",
+     "level": 3
+    },
+    {
+     "text": "Steering wheel",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sailboat",
+    "Canoe",
+    "Jet ski"
+   ]
+  }
+ ]
+}

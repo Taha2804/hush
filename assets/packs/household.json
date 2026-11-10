@@ -1,0 +1,5276 @@
+{
+ "id": "household",
+ "name": "Household Objects",
+ "words": [
+  {
+   "word": "Chair",
+   "hints": [
+    {
+     "text": "Furniture",
+     "level": 1
+    },
+    {
+     "text": "Seat",
+     "level": 1
+    },
+    {
+     "text": "Found at desks",
+     "level": 2
+    },
+    {
+     "text": "Pulled up to tables",
+     "level": 2
+    },
+    {
+     "text": "Four legs",
+     "level": 3
+    },
+    {
+     "text": "Has a backrest",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Stool",
+    "Bench",
+    "Sofa"
+   ]
+  },
+  {
+   "word": "Table",
+   "hints": [
+    {
+     "text": "Furniture",
+     "level": 1
+    },
+    {
+     "text": "Flat surface",
+     "level": 1
+    },
+    {
+     "text": "Family meals",
+     "level": 2
+    },
+    {
+     "text": "Holds dishes",
+     "level": 2
+    },
+    {
+     "text": "Four legs",
+     "level": 3
+    },
+    {
+     "text": "Wooden top",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Desk",
+    "Counter",
+    "Bench"
+   ]
+  },
+  {
+   "word": "Sofa",
+   "hints": [
+    {
+     "text": "Furniture",
+     "level": 1
+    },
+    {
+     "text": "Living room seat",
+     "level": 1
+    },
+    {
+     "text": "Movie nights",
+     "level": 2
+    },
+    {
+     "text": "Naps on weekends",
+     "level": 2
+    },
+    {
+     "text": "Soft cushions",
+     "level": 3
+    },
+    {
+     "text": "Seats three",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Armchair",
+    "Bed",
+    "Bench"
+   ]
+  },
+  {
+   "word": "Bed",
+   "hints": [
+    {
+     "text": "Furniture",
+     "level": 1
+    },
+    {
+     "text": "Bedroom item",
+     "level": 1
+    },
+    {
+     "text": "Sleep every night",
+     "level": 2
+    },
+    {
+     "text": "Made each morning",
+     "level": 2
+    },
+    {
+     "text": "Mattress and pillows",
+     "level": 3
+    },
+    {
+     "text": "Headboard",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sofa",
+    "Hammock",
+    "Cot"
+   ]
+  },
+  {
+   "word": "Pillow",
+   "hints": [
+    {
+     "text": "Bedroom item",
+     "level": 1
+    },
+    {
+     "text": "Soft object",
+     "level": 1
+    },
+    {
+     "text": "Fights at sleepovers",
+     "level": 2
+    },
+    {
+     "text": "Under your head",
+     "level": 2
+    },
+    {
+     "text": "Feather stuffing",
+     "level": 3
+    },
+    {
+     "text": "Fluffed up",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cushion",
+    "Blanket",
+    "Mattress"
+   ]
+  },
+  {
+   "word": "Blanket",
+   "hints": [
+    {
+     "text": "Bedding",
+     "level": 1
+    },
+    {
+     "text": "Warm cover",
+     "level": 1
+    },
+    {
+     "text": "Snuggled on couch",
+     "level": 2
+    },
+    {
+     "text": "Kept in cupboards",
+     "level": 2
+    },
+    {
+     "text": "Woolly or fleecy",
+     "level": 3
+    },
+    {
+     "text": "Tucked in",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Quilt",
+    "Sheet",
+    "Towel"
+   ]
+  },
+  {
+   "word": "Lamp",
+   "hints": [
+    {
+     "text": "Light source",
+     "level": 1
+    },
+    {
+     "text": "Furniture",
+     "level": 1
+    },
+    {
+     "text": "Bedside reading",
+     "level": 2
+    },
+    {
+     "text": "Switched on at night",
+     "level": 2
+    },
+    {
+     "text": "Fabric shade",
+     "level": 3
+    },
+    {
+     "text": "Bulb inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Candle",
+    "Torch",
+    "Lantern"
+   ]
+  },
+  {
+   "word": "Mirror",
+   "hints": [
+    {
+     "text": "Reflective object",
+     "level": 1
+    },
+    {
+     "text": "Wall item",
+     "level": 1
+    },
+    {
+     "text": "Check your hair",
+     "level": 2
+    },
+    {
+     "text": "Bathroom fixture",
+     "level": 2
+    },
+    {
+     "text": "Glass surface",
+     "level": 3
+    },
+    {
+     "text": "Shows reflection",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Window",
+    "Picture frame",
+    "Glass"
+   ]
+  },
+  {
+   "word": "Clock",
+   "hints": [
+    {
+     "text": "Time keeper",
+     "level": 1
+    },
+    {
+     "text": "Wall item",
+     "level": 1
+    },
+    {
+     "text": "Ticks quietly",
+     "level": 2
+    },
+    {
+     "text": "Alarm in morning",
+     "level": 2
+    },
+    {
+     "text": "Hour and minute hands",
+     "level": 3
+    },
+    {
+     "text": "Round face",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Watch",
+    "Timer",
+    "Calendar"
+   ]
+  },
+  {
+   "word": "Television",
+   "hints": [
+    {
+     "text": "Electronic device",
+     "level": 1
+    },
+    {
+     "text": "Living room item",
+     "level": 1
+    },
+    {
+     "text": "Watch shows",
+     "level": 2
+    },
+    {
+     "text": "Family movie nights",
+     "level": 2
+    },
+    {
+     "text": "Remote control",
+     "level": 3
+    },
+    {
+     "text": "Big screen",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Radio",
+    "Computer",
+    "Projector"
+   ]
+  },
+  {
+   "word": "Refrigerator",
+   "hints": [
+    {
+     "text": "Kitchen appliance",
+     "level": 1
+    },
+    {
+     "text": "Cold box",
+     "level": 1
+    },
+    {
+     "text": "Keeps food fresh",
+     "level": 2
+    },
+    {
+     "text": "Magnets on door",
+     "level": 2
+    },
+    {
+     "text": "Hums quietly",
+     "level": 3
+    },
+    {
+     "text": "Ice cubes inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Freezer",
+    "Oven",
+    "Cooler"
+   ]
+  },
+  {
+   "word": "Oven",
+   "hints": [
+    {
+     "text": "Kitchen appliance",
+     "level": 1
+    },
+    {
+     "text": "Hot box",
+     "level": 1
+    },
+    {
+     "text": "Bakes cakes",
+     "level": 2
+    },
+    {
+     "text": "Roasts dinners",
+     "level": 2
+    },
+    {
+     "text": "Preheat first",
+     "level": 3
+    },
+    {
+     "text": "Glass door",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Microwave",
+    "Stove",
+    "Toaster"
+   ]
+  },
+  {
+   "word": "Microwave",
+   "hints": [
+    {
+     "text": "Kitchen appliance",
+     "level": 1
+    },
+    {
+     "text": "Quick heater",
+     "level": 1
+    },
+    {
+     "text": "Reheats leftovers",
+     "level": 2
+    },
+    {
+     "text": "Pops popcorn",
+     "level": 2
+    },
+    {
+     "text": "Spinning plate",
+     "level": 3
+    },
+    {
+     "text": "Beeps when done",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Oven",
+    "Toaster",
+    "Kettle"
+   ]
+  },
+  {
+   "word": "Toaster",
+   "hints": [
+    {
+     "text": "Kitchen appliance",
+     "level": 1
+    },
+    {
+     "text": "Breakfast gadget",
+     "level": 1
+    },
+    {
+     "text": "Pops up bread",
+     "level": 2
+    },
+    {
+     "text": "Morning routine",
+     "level": 2
+    },
+    {
+     "text": "Two slots",
+     "level": 3
+    },
+    {
+     "text": "Crumb tray",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Microwave",
+    "Kettle",
+    "Grill"
+   ]
+  },
+  {
+   "word": "Kettle",
+   "hints": [
+    {
+     "text": "Kitchen appliance",
+     "level": 1
+    },
+    {
+     "text": "Water heater",
+     "level": 1
+    },
+    {
+     "text": "Makes tea",
+     "level": 2
+    },
+    {
+     "text": "Whistles or clicks",
+     "level": 2
+    },
+    {
+     "text": "Spout and handle",
+     "level": 3
+    },
+    {
+     "text": "Boils water",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Toaster",
+    "Pot",
+    "Teapot"
+   ]
+  },
+  {
+   "word": "Blender",
+   "hints": [
+    {
+     "text": "Kitchen appliance",
+     "level": 1
+    },
+    {
+     "text": "Mixing machine",
+     "level": 1
+    },
+    {
+     "text": "Makes smoothies",
+     "level": 2
+    },
+    {
+     "text": "Very noisy",
+     "level": 2
+    },
+    {
+     "text": "Spinning blades",
+     "level": 3
+    },
+    {
+     "text": "Glass jug",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mixer",
+    "Juicer",
+    "Food processor"
+   ]
+  },
+  {
+   "word": "Dishwasher",
+   "hints": [
+    {
+     "text": "Kitchen appliance",
+     "level": 1
+    },
+    {
+     "text": "Cleaning machine",
+     "level": 1
+    },
+    {
+     "text": "Saves time after dinner",
+     "level": 2
+    },
+    {
+     "text": "Loaded with plates",
+     "level": 2
+    },
+    {
+     "text": "Racks and spray arms",
+     "level": 3
+    },
+    {
+     "text": "Detergent tablets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Washing machine",
+    "Sink",
+    "Dryer"
+   ]
+  },
+  {
+   "word": "Washing machine",
+   "hints": [
+    {
+     "text": "Laundry appliance",
+     "level": 1
+    },
+    {
+     "text": "Cleaning appliance",
+     "level": 1
+    },
+    {
+     "text": "Spins clothes",
+     "level": 2
+    },
+    {
+     "text": "Weekly chores",
+     "level": 2
+    },
+    {
+     "text": "Round door",
+     "level": 3
+    },
+    {
+     "text": "Detergent drawer",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dishwasher",
+    "Dryer",
+    "Iron"
+   ]
+  },
+  {
+   "word": "Vacuum cleaner",
+   "hints": [
+    {
+     "text": "Cleaning appliance",
+     "level": 1
+    },
+    {
+     "text": "Floor machine",
+     "level": 1
+    },
+    {
+     "text": "Very noisy",
+     "level": 2
+    },
+    {
+     "text": "Weekend chores",
+     "level": 2
+    },
+    {
+     "text": "Sucks dust",
+     "level": 3
+    },
+    {
+     "text": "Long hose",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Broom",
+    "Mop",
+    "Duster"
+   ]
+  },
+  {
+   "word": "Broom",
+   "hints": [
+    {
+     "text": "Cleaning tool",
+     "level": 1
+    },
+    {
+     "text": "Sweeping tool",
+     "level": 1
+    },
+    {
+     "text": "Witches ride them",
+     "level": 2
+    },
+    {
+     "text": "Kitchen corner",
+     "level": 2
+    },
+    {
+     "text": "Long handle",
+     "level": 3
+    },
+    {
+     "text": "Stiff bristles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mop",
+    "Vacuum",
+    "Rake"
+   ]
+  },
+  {
+   "word": "Mop",
+   "hints": [
+    {
+     "text": "Cleaning tool",
+     "level": 1
+    },
+    {
+     "text": "Floor cleaner",
+     "level": 1
+    },
+    {
+     "text": "Wet floor signs",
+     "level": 2
+    },
+    {
+     "text": "Bucket partner",
+     "level": 2
+    },
+    {
+     "text": "Stringy head",
+     "level": 3
+    },
+    {
+     "text": "Long handle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Broom",
+    "Sponge",
+    "Vacuum"
+   ]
+  },
+  {
+   "word": "Bucket",
+   "hints": [
+    {
+     "text": "Container",
+     "level": 1
+    },
+    {
+     "text": "Carrying pail",
+     "level": 1
+    },
+    {
+     "text": "Beach sandcastles",
+     "level": 2
+    },
+    {
+     "text": "Mop partner",
+     "level": 2
+    },
+    {
+     "text": "Metal handle",
+     "level": 3
+    },
+    {
+     "text": "Holds water",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Basin",
+    "Jug",
+    "Bowl"
+   ]
+  },
+  {
+   "word": "Sponge",
+   "hints": [
+    {
+     "text": "Cleaning item",
+     "level": 1
+    },
+    {
+     "text": "Soft scrubber",
+     "level": 1
+    },
+    {
+     "text": "Washing dishes",
+     "level": 2
+    },
+    {
+     "text": "Soaks up spills",
+     "level": 2
+    },
+    {
+     "text": "Yellow and green",
+     "level": 3
+    },
+    {
+     "text": "Full of holes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cloth",
+    "Brush",
+    "Towel"
+   ]
+  },
+  {
+   "word": "Towel",
+   "hints": [
+    {
+     "text": "Bathroom item",
+     "level": 1
+    },
+    {
+     "text": "Drying cloth",
+     "level": 1
+    },
+    {
+     "text": "After a shower",
+     "level": 2
+    },
+    {
+     "text": "Beach essential",
+     "level": 2
+    },
+    {
+     "text": "Fluffy cotton",
+     "level": 3
+    },
+    {
+     "text": "Hung on rails",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Blanket",
+    "Robe",
+    "Napkin"
+   ]
+  },
+  {
+   "word": "Soap",
+   "hints": [
+    {
+     "text": "Cleaning item",
+     "level": 1
+    },
+    {
+     "text": "Bathroom item",
+     "level": 1
+    },
+    {
+     "text": "Wash your hands",
+     "level": 2
+    },
+    {
+     "text": "Bubbles and lather",
+     "level": 2
+    },
+    {
+     "text": "Slippery bar",
+     "level": 3
+    },
+    {
+     "text": "Smells nice",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shampoo",
+    "Lotion",
+    "Sponge"
+   ]
+  },
+  {
+   "word": "Toothbrush",
+   "hints": [
+    {
+     "text": "Bathroom item",
+     "level": 1
+    },
+    {
+     "text": "Dental tool",
+     "level": 1
+    },
+    {
+     "text": "Use twice a day",
+     "level": 2
+    },
+    {
+     "text": "Replace often",
+     "level": 2
+    },
+    {
+     "text": "Small bristle head",
+     "level": 3
+    },
+    {
+     "text": "Long handle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Comb",
+    "Floss",
+    "Hairbrush"
+   ]
+  },
+  {
+   "word": "Toothpaste",
+   "hints": [
+    {
+     "text": "Bathroom item",
+     "level": 1
+    },
+    {
+     "text": "Dental product",
+     "level": 1
+    },
+    {
+     "text": "Squeezed from tube",
+     "level": 2
+    },
+    {
+     "text": "Minty fresh",
+     "level": 2
+    },
+    {
+     "text": "Fluoride",
+     "level": 3
+    },
+    {
+     "text": "Foamy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mouthwash",
+    "Soap",
+    "Floss"
+   ]
+  },
+  {
+   "word": "Shampoo",
+   "hints": [
+    {
+     "text": "Bathroom item",
+     "level": 1
+    },
+    {
+     "text": "Hair product",
+     "level": 1
+    },
+    {
+     "text": "Lather and rinse",
+     "level": 2
+    },
+    {
+     "text": "Shower routine",
+     "level": 2
+    },
+    {
+     "text": "Squeezy bottle",
+     "level": 3
+    },
+    {
+     "text": "Bubbly foam",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Conditioner",
+    "Soap",
+    "Lotion"
+   ]
+  },
+  {
+   "word": "Comb",
+   "hints": [
+    {
+     "text": "Grooming tool",
+     "level": 1
+    },
+    {
+     "text": "Hair tool",
+     "level": 1
+    },
+    {
+     "text": "Pocket sized",
+     "level": 2
+    },
+    {
+     "text": "Parting hair",
+     "level": 2
+    },
+    {
+     "text": "Row of teeth",
+     "level": 3
+    },
+    {
+     "text": "Plastic or wood",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Brush",
+    "Toothbrush",
+    "Rake"
+   ]
+  },
+  {
+   "word": "Hairdryer",
+   "hints": [
+    {
+     "text": "Grooming appliance",
+     "level": 1
+    },
+    {
+     "text": "Bathroom gadget",
+     "level": 1
+    },
+    {
+     "text": "Loud blowing",
+     "level": 2
+    },
+    {
+     "text": "After showers",
+     "level": 2
+    },
+    {
+     "text": "Hot air nozzle",
+     "level": 3
+    },
+    {
+     "text": "Handheld",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Straightener",
+    "Fan",
+    "Heater"
+   ]
+  },
+  {
+   "word": "Iron",
+   "hints": [
+    {
+     "text": "Laundry appliance",
+     "level": 1
+    },
+    {
+     "text": "Hot tool",
+     "level": 1
+    },
+    {
+     "text": "Removes wrinkles",
+     "level": 2
+    },
+    {
+     "text": "Pressing board",
+     "level": 2
+    },
+    {
+     "text": "Steam holes",
+     "level": 3
+    },
+    {
+     "text": "Flat hot plate",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Steamer",
+    "Hairdryer",
+    "Press"
+   ]
+  },
+  {
+   "word": "Fan",
+   "hints": [
+    {
+     "text": "Cooling device",
+     "level": 1
+    },
+    {
+     "text": "Electric appliance",
+     "level": 1
+    },
+    {
+     "text": "Summer relief",
+     "level": 2
+    },
+    {
+     "text": "Spins quietly",
+     "level": 2
+    },
+    {
+     "text": "Rotating blades",
+     "level": 3
+    },
+    {
+     "text": "Ceiling or desk",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Air conditioner",
+    "Heater",
+    "Vent"
+   ]
+  },
+  {
+   "word": "Heater",
+   "hints": [
+    {
+     "text": "Warming device",
+     "level": 1
+    },
+    {
+     "text": "Electric appliance",
+     "level": 1
+    },
+    {
+     "text": "Winter comfort",
+     "level": 2
+    },
+    {
+     "text": "Glowing coils",
+     "level": 2
+    },
+    {
+     "text": "Thermostat",
+     "level": 3
+    },
+    {
+     "text": "Warm air",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fan",
+    "Fireplace",
+    "Radiator"
+   ]
+  },
+  {
+   "word": "Air conditioner",
+   "hints": [
+    {
+     "text": "Cooling appliance",
+     "level": 1
+    },
+    {
+     "text": "Climate control",
+     "level": 1
+    },
+    {
+     "text": "Summer savior",
+     "level": 2
+    },
+    {
+     "text": "Remote control",
+     "level": 2
+    },
+    {
+     "text": "Wall unit",
+     "level": 3
+    },
+    {
+     "text": "Cold vents",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fan",
+    "Heater",
+    "Cooler"
+   ]
+  },
+  {
+   "word": "Curtain",
+   "hints": [
+    {
+     "text": "Window cover",
+     "level": 1
+    },
+    {
+     "text": "Fabric item",
+     "level": 1
+    },
+    {
+     "text": "Blocks sunlight",
+     "level": 2
+    },
+    {
+     "text": "Drawn at night",
+     "level": 2
+    },
+    {
+     "text": "Hung on rods",
+     "level": 3
+    },
+    {
+     "text": "Long fabric",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Blinds",
+    "Shutter",
+    "Drape"
+   ]
+  },
+  {
+   "word": "Rug",
+   "hints": [
+    {
+     "text": "Floor covering",
+     "level": 1
+    },
+    {
+     "text": "Decor item",
+     "level": 1
+    },
+    {
+     "text": "Under the coffee table",
+     "level": 2
+    },
+    {
+     "text": "Patterned",
+     "level": 2
+    },
+    {
+     "text": "Soft woven",
+     "level": 3
+    },
+    {
+     "text": "Rolled up",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Carpet",
+    "Mat",
+    "Blanket"
+   ]
+  },
+  {
+   "word": "Doormat",
+   "hints": [
+    {
+     "text": "Floor item",
+     "level": 1
+    },
+    {
+     "text": "Entrance item",
+     "level": 1
+    },
+    {
+     "text": "Wipe your feet",
+     "level": 2
+    },
+    {
+     "text": "Says welcome",
+     "level": 2
+    },
+    {
+     "text": "Bristly surface",
+     "level": 3
+    },
+    {
+     "text": "Front step",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rug",
+    "Carpet",
+    "Mat"
+   ]
+  },
+  {
+   "word": "Vase",
+   "hints": [
+    {
+     "text": "Decor item",
+     "level": 1
+    },
+    {
+     "text": "Flower holder",
+     "level": 1
+    },
+    {
+     "text": "Holds bouquets",
+     "level": 2
+    },
+    {
+     "text": "Placed on tables",
+     "level": 2
+    },
+    {
+     "text": "Glass or ceramic",
+     "level": 3
+    },
+    {
+     "text": "Narrow neck",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jar",
+    "Pot",
+    "Bowl"
+   ]
+  },
+  {
+   "word": "Candle",
+   "hints": [
+    {
+     "text": "Light source",
+     "level": 1
+    },
+    {
+     "text": "Decor item",
+     "level": 1
+    },
+    {
+     "text": "Birthday cakes",
+     "level": 2
+    },
+    {
+     "text": "Power outages",
+     "level": 2
+    },
+    {
+     "text": "Wax and wick",
+     "level": 3
+    },
+    {
+     "text": "Flickering flame",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lamp",
+    "Lantern",
+    "Torch"
+   ]
+  },
+  {
+   "word": "Picture frame",
+   "hints": [
+    {
+     "text": "Decor item",
+     "level": 1
+    },
+    {
+     "text": "Wall item",
+     "level": 1
+    },
+    {
+     "text": "Family photos",
+     "level": 2
+    },
+    {
+     "text": "Hung on walls",
+     "level": 2
+    },
+    {
+     "text": "Glass front",
+     "level": 3
+    },
+    {
+     "text": "Wooden border",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mirror",
+    "Canvas",
+    "Album"
+   ]
+  },
+  {
+   "word": "Bookshelf",
+   "hints": [
+    {
+     "text": "Furniture",
+     "level": 1
+    },
+    {
+     "text": "Storage",
+     "level": 1
+    },
+    {
+     "text": "Holds novels",
+     "level": 2
+    },
+    {
+     "text": "Library look",
+     "level": 2
+    },
+    {
+     "text": "Rows of planks",
+     "level": 3
+    },
+    {
+     "text": "Tall and wooden",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cupboard",
+    "Cabinet",
+    "Drawer"
+   ]
+  },
+  {
+   "word": "Wardrobe",
+   "hints": [
+    {
+     "text": "Furniture",
+     "level": 1
+    },
+    {
+     "text": "Clothes storage",
+     "level": 1
+    },
+    {
+     "text": "Holds hangers",
+     "level": 2
+    },
+    {
+     "text": "Bedroom item",
+     "level": 2
+    },
+    {
+     "text": "Tall doors",
+     "level": 3
+    },
+    {
+     "text": "Rail inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dresser",
+    "Cupboard",
+    "Closet"
+   ]
+  },
+  {
+   "word": "Drawer",
+   "hints": [
+    {
+     "text": "Furniture part",
+     "level": 1
+    },
+    {
+     "text": "Storage",
+     "level": 1
+    },
+    {
+     "text": "Socks and cutlery",
+     "level": 2
+    },
+    {
+     "text": "Pulled out",
+     "level": 2
+    },
+    {
+     "text": "Sliding box",
+     "level": 3
+    },
+    {
+     "text": "Knob or handle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cabinet",
+    "Shelf",
+    "Box"
+   ]
+  },
+  {
+   "word": "Cupboard",
+   "hints": [
+    {
+     "text": "Storage",
+     "level": 1
+    },
+    {
+     "text": "Kitchen furniture",
+     "level": 1
+    },
+    {
+     "text": "Holds dishes",
+     "level": 2
+    },
+    {
+     "text": "Above counters",
+     "level": 2
+    },
+    {
+     "text": "Wooden doors",
+     "level": 3
+    },
+    {
+     "text": "Shelves inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wardrobe",
+    "Pantry",
+    "Drawer"
+   ]
+  },
+  {
+   "word": "Desk",
+   "hints": [
+    {
+     "text": "Furniture",
+     "level": 1
+    },
+    {
+     "text": "Work surface",
+     "level": 1
+    },
+    {
+     "text": "Homework and offices",
+     "level": 2
+    },
+    {
+     "text": "Holds computers",
+     "level": 2
+    },
+    {
+     "text": "Drawers underneath",
+     "level": 3
+    },
+    {
+     "text": "Flat top",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Table",
+    "Counter",
+    "Bench"
+   ]
+  },
+  {
+   "word": "Stool",
+   "hints": [
+    {
+     "text": "Furniture",
+     "level": 1
+    },
+    {
+     "text": "Small seat",
+     "level": 1
+    },
+    {
+     "text": "Breakfast bars",
+     "level": 2
+    },
+    {
+     "text": "Pianists sit on it",
+     "level": 2
+    },
+    {
+     "text": "No backrest",
+     "level": 3
+    },
+    {
+     "text": "Three or four legs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chair",
+    "Bench",
+    "Ottoman"
+   ]
+  },
+  {
+   "word": "Bench",
+   "hints": [
+    {
+     "text": "Furniture",
+     "level": 1
+    },
+    {
+     "text": "Long seat",
+     "level": 1
+    },
+    {
+     "text": "Park seats",
+     "level": 2
+    },
+    {
+     "text": "Dining or garden",
+     "level": 2
+    },
+    {
+     "text": "Wooden slats",
+     "level": 3
+    },
+    {
+     "text": "Seats several",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sofa",
+    "Stool",
+    "Pew"
+   ]
+  },
+  {
+   "word": "Hammock",
+   "hints": [
+    {
+     "text": "Outdoor furniture",
+     "level": 1
+    },
+    {
+     "text": "Hanging bed",
+     "level": 1
+    },
+    {
+     "text": "Lazy afternoons",
+     "level": 2
+    },
+    {
+     "text": "Beach relaxing",
+     "level": 2
+    },
+    {
+     "text": "Tied between trees",
+     "level": 3
+    },
+    {
+     "text": "Rope netting",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Swing",
+    "Cot",
+    "Bed"
+   ]
+  },
+  {
+   "word": "Plate",
+   "hints": [
+    {
+     "text": "Kitchenware",
+     "level": 1
+    },
+    {
+     "text": "Dish",
+     "level": 1
+    },
+    {
+     "text": "Holds dinner",
+     "level": 2
+    },
+    {
+     "text": "Washed after meals",
+     "level": 2
+    },
+    {
+     "text": "Round and flat",
+     "level": 3
+    },
+    {
+     "text": "Ceramic",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bowl",
+    "Saucer",
+    "Tray"
+   ]
+  },
+  {
+   "word": "Bowl",
+   "hints": [
+    {
+     "text": "Kitchenware",
+     "level": 1
+    },
+    {
+     "text": "Dish",
+     "level": 1
+    },
+    {
+     "text": "Cereal and soup",
+     "level": 2
+    },
+    {
+     "text": "Mixing batter",
+     "level": 2
+    },
+    {
+     "text": "Round and deep",
+     "level": 3
+    },
+    {
+     "text": "Curved sides",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Plate",
+    "Cup",
+    "Pot"
+   ]
+  },
+  {
+   "word": "Cup",
+   "hints": [
+    {
+     "text": "Kitchenware",
+     "level": 1
+    },
+    {
+     "text": "Drinking vessel",
+     "level": 1
+    },
+    {
+     "text": "Morning tea",
+     "level": 2
+    },
+    {
+     "text": "Sits on a saucer",
+     "level": 2
+    },
+    {
+     "text": "Has a handle",
+     "level": 3
+    },
+    {
+     "text": "Holds hot drinks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mug",
+    "Glass",
+    "Bowl"
+   ]
+  },
+  {
+   "word": "Mug",
+   "hints": [
+    {
+     "text": "Kitchenware",
+     "level": 1
+    },
+    {
+     "text": "Drinking vessel",
+     "level": 1
+    },
+    {
+     "text": "Hot cocoa",
+     "level": 2
+    },
+    {
+     "text": "Office desk",
+     "level": 2
+    },
+    {
+     "text": "Thick handle",
+     "level": 3
+    },
+    {
+     "text": "Printed designs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cup",
+    "Glass",
+    "Jar"
+   ]
+  },
+  {
+   "word": "Glass",
+   "hints": [
+    {
+     "text": "Kitchenware",
+     "level": 1
+    },
+    {
+     "text": "Drinking vessel",
+     "level": 1
+    },
+    {
+     "text": "Holds water",
+     "level": 2
+    },
+    {
+     "text": "Clinked at toasts",
+     "level": 2
+    },
+    {
+     "text": "Clear and fragile",
+     "level": 3
+    },
+    {
+     "text": "Breaks easily",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cup",
+    "Mug",
+    "Bottle"
+   ]
+  },
+  {
+   "word": "Fork",
+   "hints": [
+    {
+     "text": "Cutlery",
+     "level": 1
+    },
+    {
+     "text": "Eating utensil",
+     "level": 1
+    },
+    {
+     "text": "Twirls spaghetti",
+     "level": 2
+    },
+    {
+     "text": "Left of plate",
+     "level": 2
+    },
+    {
+     "text": "Pronged tines",
+     "level": 3
+    },
+    {
+     "text": "Metal handle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spoon",
+    "Knife",
+    "Chopsticks"
+   ]
+  },
+  {
+   "word": "Spoon",
+   "hints": [
+    {
+     "text": "Cutlery",
+     "level": 1
+    },
+    {
+     "text": "Eating utensil",
+     "level": 1
+    },
+    {
+     "text": "Soup and cereal",
+     "level": 2
+    },
+    {
+     "text": "Stirs tea",
+     "level": 2
+    },
+    {
+     "text": "Round shallow bowl",
+     "level": 3
+    },
+    {
+     "text": "Metal handle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fork",
+    "Knife",
+    "Ladle"
+   ]
+  },
+  {
+   "word": "Knife",
+   "hints": [
+    {
+     "text": "Cutlery",
+     "level": 1
+    },
+    {
+     "text": "Cutting tool",
+     "level": 1
+    },
+    {
+     "text": "Slices bread",
+     "level": 2
+    },
+    {
+     "text": "Right of plate",
+     "level": 2
+    },
+    {
+     "text": "Sharp blade",
+     "level": 3
+    },
+    {
+     "text": "Serrated edge",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fork",
+    "Spoon",
+    "Scissors"
+   ]
+  },
+  {
+   "word": "Chopsticks",
+   "hints": [
+    {
+     "text": "Eating utensil",
+     "level": 1
+    },
+    {
+     "text": "Asian cutlery",
+     "level": 1
+    },
+    {
+     "text": "Used for sushi",
+     "level": 2
+    },
+    {
+     "text": "Tricky to learn",
+     "level": 2
+    },
+    {
+     "text": "Two thin rods",
+     "level": 3
+    },
+    {
+     "text": "Wood or bamboo",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fork",
+    "Spoon",
+    "Tongs"
+   ]
+  },
+  {
+   "word": "Frying pan",
+   "hints": [
+    {
+     "text": "Cookware",
+     "level": 1
+    },
+    {
+     "text": "Kitchen tool",
+     "level": 1
+    },
+    {
+     "text": "Cooks eggs",
+     "level": 2
+    },
+    {
+     "text": "Sizzling sounds",
+     "level": 2
+    },
+    {
+     "text": "Long handle",
+     "level": 3
+    },
+    {
+     "text": "Flat bottom",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pot",
+    "Wok",
+    "Griddle"
+   ]
+  },
+  {
+   "word": "Pot",
+   "hints": [
+    {
+     "text": "Cookware",
+     "level": 1
+    },
+    {
+     "text": "Cooking vessel",
+     "level": 1
+    },
+    {
+     "text": "Boils pasta",
+     "level": 2
+    },
+    {
+     "text": "Soups and stews",
+     "level": 2
+    },
+    {
+     "text": "Lid on top",
+     "level": 3
+    },
+    {
+     "text": "Two handles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pan",
+    "Kettle",
+    "Bowl"
+   ]
+  },
+  {
+   "word": "Wok",
+   "hints": [
+    {
+     "text": "Cookware",
+     "level": 1
+    },
+    {
+     "text": "Asian pan",
+     "level": 1
+    },
+    {
+     "text": "Stir fry",
+     "level": 2
+    },
+    {
+     "text": "High heat",
+     "level": 2
+    },
+    {
+     "text": "Deep curved bowl",
+     "level": 3
+    },
+    {
+     "text": "Tossing food",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pan",
+    "Pot",
+    "Skillet"
+   ]
+  },
+  {
+   "word": "Ladle",
+   "hints": [
+    {
+     "text": "Kitchen tool",
+     "level": 1
+    },
+    {
+     "text": "Serving spoon",
+     "level": 1
+    },
+    {
+     "text": "Serves soup",
+     "level": 2
+    },
+    {
+     "text": "Hangs on hooks",
+     "level": 2
+    },
+    {
+     "text": "Deep cup",
+     "level": 3
+    },
+    {
+     "text": "Long handle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spoon",
+    "Spatula",
+    "Whisk"
+   ]
+  },
+  {
+   "word": "Spatula",
+   "hints": [
+    {
+     "text": "Kitchen tool",
+     "level": 1
+    },
+    {
+     "text": "Flipping tool",
+     "level": 1
+    },
+    {
+     "text": "Flips pancakes",
+     "level": 2
+    },
+    {
+     "text": "Scrapes bowls",
+     "level": 2
+    },
+    {
+     "text": "Flat blade",
+     "level": 3
+    },
+    {
+     "text": "Long handle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ladle",
+    "Whisk",
+    "Tongs"
+   ]
+  },
+  {
+   "word": "Whisk",
+   "hints": [
+    {
+     "text": "Kitchen tool",
+     "level": 1
+    },
+    {
+     "text": "Mixing tool",
+     "level": 1
+    },
+    {
+     "text": "Beats eggs",
+     "level": 2
+    },
+    {
+     "text": "Whips cream",
+     "level": 2
+    },
+    {
+     "text": "Wire loops",
+     "level": 3
+    },
+    {
+     "text": "Balloon shape",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spatula",
+    "Fork",
+    "Mixer"
+   ]
+  },
+  {
+   "word": "Rolling pin",
+   "hints": [
+    {
+     "text": "Kitchen tool",
+     "level": 1
+    },
+    {
+     "text": "Baking tool",
+     "level": 1
+    },
+    {
+     "text": "Flattens dough",
+     "level": 2
+    },
+    {
+     "text": "Cookie making",
+     "level": 2
+    },
+    {
+     "text": "Wooden cylinder",
+     "level": 3
+    },
+    {
+     "text": "Two handles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Whisk",
+    "Spatula",
+    "Grater"
+   ]
+  },
+  {
+   "word": "Grater",
+   "hints": [
+    {
+     "text": "Kitchen tool",
+     "level": 1
+    },
+    {
+     "text": "Shredding tool",
+     "level": 1
+    },
+    {
+     "text": "Cheese and carrots",
+     "level": 2
+    },
+    {
+     "text": "Scraped knuckles",
+     "level": 2
+    },
+    {
+     "text": "Sharp holes",
+     "level": 3
+    },
+    {
+     "text": "Box shape",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Peeler",
+    "Knife",
+    "Sieve"
+   ]
+  },
+  {
+   "word": "Peeler",
+   "hints": [
+    {
+     "text": "Kitchen tool",
+     "level": 1
+    },
+    {
+     "text": "Prep tool",
+     "level": 1
+    },
+    {
+     "text": "Potatoes and carrots",
+     "level": 2
+    },
+    {
+     "text": "Removes skin",
+     "level": 2
+    },
+    {
+     "text": "Swivel blade",
+     "level": 3
+    },
+    {
+     "text": "Small handle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Grater",
+    "Knife",
+    "Corer"
+   ]
+  },
+  {
+   "word": "Can opener",
+   "hints": [
+    {
+     "text": "Kitchen tool",
+     "level": 1
+    },
+    {
+     "text": "Gadget",
+     "level": 1
+    },
+    {
+     "text": "Opens tins",
+     "level": 2
+    },
+    {
+     "text": "Hand cranked",
+     "level": 2
+    },
+    {
+     "text": "Rotating wheel",
+     "level": 3
+    },
+    {
+     "text": "Sharp cutter",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bottle opener",
+    "Scissors",
+    "Knife"
+   ]
+  },
+  {
+   "word": "Bottle opener",
+   "hints": [
+    {
+     "text": "Kitchen gadget",
+     "level": 1
+    },
+    {
+     "text": "Small tool",
+     "level": 1
+    },
+    {
+     "text": "Pops caps",
+     "level": 2
+    },
+    {
+     "text": "Party drawer item",
+     "level": 2
+    },
+    {
+     "text": "Metal lever",
+     "level": 3
+    },
+    {
+     "text": "Fits in pocket",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Corkscrew",
+    "Can opener",
+    "Keyring"
+   ]
+  },
+  {
+   "word": "Cutting board",
+   "hints": [
+    {
+     "text": "Kitchen tool",
+     "level": 1
+    },
+    {
+     "text": "Prep surface",
+     "level": 1
+    },
+    {
+     "text": "Chopping vegetables",
+     "level": 2
+    },
+    {
+     "text": "Wooden or plastic",
+     "level": 2
+    },
+    {
+     "text": "Flat slab",
+     "level": 3
+    },
+    {
+     "text": "Knife marks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Plate",
+    "Tray",
+    "Counter"
+   ]
+  },
+  {
+   "word": "Teapot",
+   "hints": [
+    {
+     "text": "Kitchenware",
+     "level": 1
+    },
+    {
+     "text": "Serving pot",
+     "level": 1
+    },
+    {
+     "text": "Afternoon tea",
+     "level": 2
+    },
+    {
+     "text": "Brews leaves",
+     "level": 2
+    },
+    {
+     "text": "Spout and lid",
+     "level": 3
+    },
+    {
+     "text": "Round and squat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kettle",
+    "Jug",
+    "Mug"
+   ]
+  },
+  {
+   "word": "Jug",
+   "hints": [
+    {
+     "text": "Kitchenware",
+     "level": 1
+    },
+    {
+     "text": "Pouring vessel",
+     "level": 1
+    },
+    {
+     "text": "Holds water or milk",
+     "level": 2
+    },
+    {
+     "text": "Table centerpiece",
+     "level": 2
+    },
+    {
+     "text": "Spout and handle",
+     "level": 3
+    },
+    {
+     "text": "Tall body",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pitcher",
+    "Bottle",
+    "Vase"
+   ]
+  },
+  {
+   "word": "Tray",
+   "hints": [
+    {
+     "text": "Serving item",
+     "level": 1
+    },
+    {
+     "text": "Flat carrier",
+     "level": 1
+    },
+    {
+     "text": "Breakfast in bed",
+     "level": 2
+    },
+    {
+     "text": "Carries drinks",
+     "level": 2
+    },
+    {
+     "text": "Raised edges",
+     "level": 3
+    },
+    {
+     "text": "Two handles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Plate",
+    "Board",
+    "Basket"
+   ]
+  },
+  {
+   "word": "Napkin",
+   "hints": [
+    {
+     "text": "Table item",
+     "level": 1
+    },
+    {
+     "text": "Cloth square",
+     "level": 1
+    },
+    {
+     "text": "Wipe your mouth",
+     "level": 2
+    },
+    {
+     "text": "Folded fancy",
+     "level": 2
+    },
+    {
+     "text": "Paper or cloth",
+     "level": 3
+    },
+    {
+     "text": "On your lap",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Towel",
+    "Tissue",
+    "Tablecloth"
+   ]
+  },
+  {
+   "word": "Tablecloth",
+   "hints": [
+    {
+     "text": "Dining item",
+     "level": 1
+    },
+    {
+     "text": "Fabric cover",
+     "level": 1
+    },
+    {
+     "text": "Holiday dinners",
+     "level": 2
+    },
+    {
+     "text": "Protects surface",
+     "level": 2
+    },
+    {
+     "text": "Large fabric sheet",
+     "level": 3
+    },
+    {
+     "text": "Checkered pattern",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Napkin",
+    "Curtain",
+    "Sheet"
+   ]
+  },
+  {
+   "word": "Trash can",
+   "hints": [
+    {
+     "text": "Waste bin",
+     "level": 1
+    },
+    {
+     "text": "Household item",
+     "level": 1
+    },
+    {
+     "text": "Taken out weekly",
+     "level": 2
+    },
+    {
+     "text": "Kitchen corner",
+     "level": 2
+    },
+    {
+     "text": "Foot pedal lid",
+     "level": 3
+    },
+    {
+     "text": "Liner bag",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Recycling bin",
+    "Bucket",
+    "Basket"
+   ]
+  },
+  {
+   "word": "Laundry basket",
+   "hints": [
+    {
+     "text": "Household item",
+     "level": 1
+    },
+    {
+     "text": "Clothes holder",
+     "level": 1
+    },
+    {
+     "text": "Dirty clothes",
+     "level": 2
+    },
+    {
+     "text": "Carried to washer",
+     "level": 2
+    },
+    {
+     "text": "Woven or plastic",
+     "level": 3
+    },
+    {
+     "text": "Two handles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hamper",
+    "Bucket",
+    "Bag"
+   ]
+  },
+  {
+   "word": "Ironing board",
+   "hints": [
+    {
+     "text": "Household item",
+     "level": 1
+    },
+    {
+     "text": "Folding stand",
+     "level": 1
+    },
+    {
+     "text": "Laundry day",
+     "level": 2
+    },
+    {
+     "text": "Folds flat",
+     "level": 2
+    },
+    {
+     "text": "Padded cover",
+     "level": 3
+    },
+    {
+     "text": "Metal legs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Table",
+    "Desk",
+    "Stool"
+   ]
+  },
+  {
+   "word": "Ladder",
+   "hints": [
+    {
+     "text": "Household tool",
+     "level": 1
+    },
+    {
+     "text": "Climbing tool",
+     "level": 1
+    },
+    {
+     "text": "Reach high shelves",
+     "level": 2
+    },
+    {
+     "text": "Changing bulbs",
+     "level": 2
+    },
+    {
+     "text": "Rungs",
+     "level": 3
+    },
+    {
+     "text": "Folding legs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Stool",
+    "Stairs",
+    "Rope"
+   ]
+  },
+  {
+   "word": "Hammer",
+   "hints": [
+    {
+     "text": "Tool",
+     "level": 1
+    },
+    {
+     "text": "Hand tool",
+     "level": 1
+    },
+    {
+     "text": "Hangs pictures",
+     "level": 2
+    },
+    {
+     "text": "Builder's best friend",
+     "level": 2
+    },
+    {
+     "text": "Claw end",
+     "level": 3
+    },
+    {
+     "text": "Hits nails",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mallet",
+    "Wrench",
+    "Screwdriver"
+   ]
+  },
+  {
+   "word": "Screwdriver",
+   "hints": [
+    {
+     "text": "Tool",
+     "level": 1
+    },
+    {
+     "text": "Hand tool",
+     "level": 1
+    },
+    {
+     "text": "Assembles furniture",
+     "level": 2
+    },
+    {
+     "text": "Fixes things",
+     "level": 2
+    },
+    {
+     "text": "Flat or cross tip",
+     "level": 3
+    },
+    {
+     "text": "Twisting",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hammer",
+    "Wrench",
+    "Pliers"
+   ]
+  },
+  {
+   "word": "Toolbox",
+   "hints": [
+    {
+     "text": "Storage",
+     "level": 1
+    },
+    {
+     "text": "Hardware holder",
+     "level": 1
+    },
+    {
+     "text": "Kept in garage",
+     "level": 2
+    },
+    {
+     "text": "Weekend fixes",
+     "level": 2
+    },
+    {
+     "text": "Handle on top",
+     "level": 3
+    },
+    {
+     "text": "Trays inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Drawer",
+    "Suitcase",
+    "Bucket"
+   ]
+  },
+  {
+   "word": "Flashlight",
+   "hints": [
+    {
+     "text": "Battery device",
+     "level": 1
+    },
+    {
+     "text": "Handheld device",
+     "level": 1
+    },
+    {
+     "text": "Power outages",
+     "level": 2
+    },
+    {
+     "text": "Camping trips",
+     "level": 2
+    },
+    {
+     "text": "Batteries inside",
+     "level": 3
+    },
+    {
+     "text": "Bright beam",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lantern",
+    "Candle",
+    "Lamp"
+   ]
+  },
+  {
+   "word": "Battery",
+   "hints": [
+    {
+     "text": "Power source",
+     "level": 1
+    },
+    {
+     "text": "Small cell",
+     "level": 1
+    },
+    {
+     "text": "Powers remotes",
+     "level": 2
+    },
+    {
+     "text": "Runs out",
+     "level": 2
+    },
+    {
+     "text": "Plus and minus",
+     "level": 3
+    },
+    {
+     "text": "Recharge or replace",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Charger",
+    "Plug",
+    "Fuse"
+   ]
+  },
+  {
+   "word": "Light bulb",
+   "hints": [
+    {
+     "text": "Electric part",
+     "level": 1
+    },
+    {
+     "text": "Glass object",
+     "level": 1
+    },
+    {
+     "text": "Screwed into lamps",
+     "level": 2
+    },
+    {
+     "text": "Idea symbol",
+     "level": 2
+    },
+    {
+     "text": "Glass globe",
+     "level": 3
+    },
+    {
+     "text": "Glowing filament",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Candle",
+    "Lamp",
+    "Torch"
+   ]
+  },
+  {
+   "word": "Extension cord",
+   "hints": [
+    {
+     "text": "Electrical item",
+     "level": 1
+    },
+    {
+     "text": "Power cable",
+     "level": 1
+    },
+    {
+     "text": "More outlets",
+     "level": 2
+    },
+    {
+     "text": "Trip hazard",
+     "level": 2
+    },
+    {
+     "text": "Long wire",
+     "level": 3
+    },
+    {
+     "text": "Multiple sockets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Charger",
+    "Plug",
+    "Battery"
+   ]
+  },
+  {
+   "word": "Remote control",
+   "hints": [
+    {
+     "text": "Gadget",
+     "level": 1
+    },
+    {
+     "text": "Handheld device",
+     "level": 1
+    },
+    {
+     "text": "Lost in sofa",
+     "level": 2
+    },
+    {
+     "text": "Changes channels",
+     "level": 2
+    },
+    {
+     "text": "Rubber buttons",
+     "level": 3
+    },
+    {
+     "text": "Points at screen",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Phone",
+    "Keyboard",
+    "Joystick"
+   ]
+  },
+  {
+   "word": "Doorbell",
+   "hints": [
+    {
+     "text": "Entrance device",
+     "level": 1
+    },
+    {
+     "text": "Chime",
+     "level": 1
+    },
+    {
+     "text": "Rings when guests arrive",
+     "level": 2
+    },
+    {
+     "text": "Ding dong",
+     "level": 2
+    },
+    {
+     "text": "Button by entrance",
+     "level": 3
+    },
+    {
+     "text": "Camera models",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Knocker",
+    "Alarm",
+    "Intercom"
+   ]
+  },
+  {
+   "word": "Lock",
+   "hints": [
+    {
+     "text": "Security device",
+     "level": 1
+    },
+    {
+     "text": "Door item",
+     "level": 1
+    },
+    {
+     "text": "Keeps burglars out",
+     "level": 2
+    },
+    {
+     "text": "Turned with key",
+     "level": 2
+    },
+    {
+     "text": "Keyhole",
+     "level": 3
+    },
+    {
+     "text": "Metal bolt",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chain",
+    "Latch",
+    "Bolt"
+   ]
+  },
+  {
+   "word": "Key",
+   "hints": [
+    {
+     "text": "Small tool",
+     "level": 1
+    },
+    {
+     "text": "Metal object",
+     "level": 1
+    },
+    {
+     "text": "Opens doors",
+     "level": 2
+    },
+    {
+     "text": "Often lost",
+     "level": 2
+    },
+    {
+     "text": "Jagged teeth",
+     "level": 3
+    },
+    {
+     "text": "Kept on rings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lock",
+    "Card",
+    "Code"
+   ]
+  },
+  {
+   "word": "Umbrella",
+   "hints": [
+    {
+     "text": "Rain gear",
+     "level": 1
+    },
+    {
+     "text": "Folding object",
+     "level": 1
+    },
+    {
+     "text": "Rainy days",
+     "level": 2
+    },
+    {
+     "text": "Left on trains",
+     "level": 2
+    },
+    {
+     "text": "Opens like a canopy",
+     "level": 3
+    },
+    {
+     "text": "Curved handle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Raincoat",
+    "Parasol",
+    "Hat"
+   ]
+  },
+  {
+   "word": "Coat hanger",
+   "hints": [
+    {
+     "text": "Closet item",
+     "level": 1
+    },
+    {
+     "text": "Clothes holder",
+     "level": 1
+    },
+    {
+     "text": "Hangs shirts",
+     "level": 2
+    },
+    {
+     "text": "Wire or wood",
+     "level": 2
+    },
+    {
+     "text": "Hook top",
+     "level": 3
+    },
+    {
+     "text": "Triangle shape",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hook",
+    "Rail",
+    "Peg"
+   ]
+  },
+  {
+   "word": "Clothespin",
+   "hints": [
+    {
+     "text": "Laundry item",
+     "level": 1
+    },
+    {
+     "text": "Small clip",
+     "level": 1
+    },
+    {
+     "text": "Hangs washing",
+     "level": 2
+    },
+    {
+     "text": "Outside line",
+     "level": 2
+    },
+    {
+     "text": "Spring clip",
+     "level": 3
+    },
+    {
+     "text": "Wooden pegs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hanger",
+    "Paperclip",
+    "Hook"
+   ]
+  },
+  {
+   "word": "Alarm clock",
+   "hints": [
+    {
+     "text": "Bedside item",
+     "level": 1
+    },
+    {
+     "text": "Wake up device",
+     "level": 1
+    },
+    {
+     "text": "Snooze button",
+     "level": 2
+    },
+    {
+     "text": "Annoying ring",
+     "level": 2
+    },
+    {
+     "text": "Ticking face",
+     "level": 3
+    },
+    {
+     "text": "Loud buzzer",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Watch",
+    "Phone",
+    "Timer"
+   ]
+  },
+  {
+   "word": "Cushion",
+   "hints": [
+    {
+     "text": "Decor item",
+     "level": 1
+    },
+    {
+     "text": "Soft object",
+     "level": 1
+    },
+    {
+     "text": "On sofas",
+     "level": 2
+    },
+    {
+     "text": "Thrown in fights",
+     "level": 2
+    },
+    {
+     "text": "Square and plump",
+     "level": 3
+    },
+    {
+     "text": "Decorative cover",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pillow",
+    "Blanket",
+    "Beanbag"
+   ]
+  },
+  {
+   "word": "Beanbag",
+   "hints": [
+    {
+     "text": "Furniture",
+     "level": 1
+    },
+    {
+     "text": "Squishy seat",
+     "level": 1
+    },
+    {
+     "text": "Gaming corners",
+     "level": 2
+    },
+    {
+     "text": "Kids rooms",
+     "level": 2
+    },
+    {
+     "text": "Filled with beads",
+     "level": 3
+    },
+    {
+     "text": "Shapeless",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sofa",
+    "Cushion",
+    "Hammock"
+   ]
+  },
+  {
+   "word": "Bathtub",
+   "hints": [
+    {
+     "text": "Bathroom fixture",
+     "level": 1
+    },
+    {
+     "text": "Washing tub",
+     "level": 1
+    },
+    {
+     "text": "Bubble baths",
+     "level": 2
+    },
+    {
+     "text": "Rubber ducks",
+     "level": 2
+    },
+    {
+     "text": "Fill with water",
+     "level": 3
+    },
+    {
+     "text": "Plug at bottom",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shower",
+    "Sink",
+    "Pool"
+   ]
+  },
+  {
+   "word": "Shower",
+   "hints": [
+    {
+     "text": "Bathroom fixture",
+     "level": 1
+    },
+    {
+     "text": "Washing area",
+     "level": 1
+    },
+    {
+     "text": "Morning routine",
+     "level": 2
+    },
+    {
+     "text": "Sing in it",
+     "level": 2
+    },
+    {
+     "text": "Water spray head",
+     "level": 3
+    },
+    {
+     "text": "Curtain or glass",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bathtub",
+    "Sink",
+    "Hose"
+   ]
+  },
+  {
+   "word": "Sink",
+   "hints": [
+    {
+     "text": "Kitchen fixture",
+     "level": 1
+    },
+    {
+     "text": "Basin",
+     "level": 1
+    },
+    {
+     "text": "Wash dishes",
+     "level": 2
+    },
+    {
+     "text": "Brush teeth",
+     "level": 2
+    },
+    {
+     "text": "Faucet",
+     "level": 3
+    },
+    {
+     "text": "Drain hole",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bathtub",
+    "Bucket",
+    "Basin"
+   ]
+  },
+  {
+   "word": "Toilet",
+   "hints": [
+    {
+     "text": "Bathroom fixture",
+     "level": 1
+    },
+    {
+     "text": "Porcelain throne",
+     "level": 1
+    },
+    {
+     "text": "Flushes",
+     "level": 2
+    },
+    {
+     "text": "Seat up or down",
+     "level": 2
+    },
+    {
+     "text": "Tank and bowl",
+     "level": 3
+    },
+    {
+     "text": "Paper roll nearby",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sink",
+    "Bathtub",
+    "Bidet"
+   ]
+  },
+  {
+   "word": "Faucet",
+   "hints": [
+    {
+     "text": "Plumbing fixture",
+     "level": 1
+    },
+    {
+     "text": "Water tap",
+     "level": 1
+    },
+    {
+     "text": "Drips at night",
+     "level": 2
+    },
+    {
+     "text": "Hot and cold",
+     "level": 2
+    },
+    {
+     "text": "Turn the handle",
+     "level": 3
+    },
+    {
+     "text": "Spout over sink",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shower",
+    "Hose",
+    "Pipe"
+   ]
+  },
+  {
+   "word": "Piggy bank",
+   "hints": [
+    {
+     "text": "Savings item",
+     "level": 1
+    },
+    {
+     "text": "Kids toy",
+     "level": 1
+    },
+    {
+     "text": "Saves coins",
+     "level": 2
+    },
+    {
+     "text": "Shaken to check",
+     "level": 2
+    },
+    {
+     "text": "Slot on back",
+     "level": 3
+    },
+    {
+     "text": "Ceramic animal",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wallet",
+    "Jar",
+    "Safe"
+   ]
+  },
+  {
+   "word": "Safe",
+   "hints": [
+    {
+     "text": "Security box",
+     "level": 1
+    },
+    {
+     "text": "Storage",
+     "level": 1
+    },
+    {
+     "text": "Keeps valuables",
+     "level": 2
+    },
+    {
+     "text": "Hidden in closets",
+     "level": 2
+    },
+    {
+     "text": "Combination dial",
+     "level": 3
+    },
+    {
+     "text": "Heavy steel",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lockbox",
+    "Vault",
+    "Drawer"
+   ]
+  },
+  {
+   "word": "Calendar",
+   "hints": [
+    {
+     "text": "Planning item",
+     "level": 1
+    },
+    {
+     "text": "Wall item",
+     "level": 1
+    },
+    {
+     "text": "Marks birthdays",
+     "level": 2
+    },
+    {
+     "text": "Flip each month",
+     "level": 2
+    },
+    {
+     "text": "Grid of days",
+     "level": 3
+    },
+    {
+     "text": "Holidays listed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Clock",
+    "Diary",
+    "Planner"
+   ]
+  },
+  {
+   "word": "Notebook",
+   "hints": [
+    {
+     "text": "Stationery",
+     "level": 1
+    },
+    {
+     "text": "Paper item",
+     "level": 1
+    },
+    {
+     "text": "School notes",
+     "level": 2
+    },
+    {
+     "text": "Journaling",
+     "level": 2
+    },
+    {
+     "text": "Spiral bound",
+     "level": 3
+    },
+    {
+     "text": "Lined pages",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Diary",
+    "Folder",
+    "Sketchbook"
+   ]
+  },
+  {
+   "word": "Scissors",
+   "hints": [
+    {
+     "text": "Cutting tool",
+     "level": 1
+    },
+    {
+     "text": "Office item",
+     "level": 1
+    },
+    {
+     "text": "Cuts paper",
+     "level": 2
+    },
+    {
+     "text": "Never run with them",
+     "level": 2
+    },
+    {
+     "text": "Two blades",
+     "level": 3
+    },
+    {
+     "text": "Finger loops",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Knife",
+    "Stapler",
+    "Cutter"
+   ]
+  },
+  {
+   "word": "Tape",
+   "hints": [
+    {
+     "text": "Sticky item",
+     "level": 1
+    },
+    {
+     "text": "Office supply",
+     "level": 1
+    },
+    {
+     "text": "Wraps gifts",
+     "level": 2
+    },
+    {
+     "text": "Fixes tears",
+     "level": 2
+    },
+    {
+     "text": "Clear roll",
+     "level": 3
+    },
+    {
+     "text": "Dispenser",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Glue",
+    "Staples",
+    "Ribbon"
+   ]
+  },
+  {
+   "word": "Glue",
+   "hints": [
+    {
+     "text": "Sticky item",
+     "level": 1
+    },
+    {
+     "text": "Craft supply",
+     "level": 1
+    },
+    {
+     "text": "School projects",
+     "level": 2
+    },
+    {
+     "text": "Bonds things",
+     "level": 2
+    },
+    {
+     "text": "Squeeze bottle",
+     "level": 3
+    },
+    {
+     "text": "Dries clear",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tape",
+    "Paste",
+    "Staples"
+   ]
+  },
+  {
+   "word": "Stapler",
+   "hints": [
+    {
+     "text": "Office tool",
+     "level": 1
+    },
+    {
+     "text": "Fastening tool",
+     "level": 1
+    },
+    {
+     "text": "Joins papers",
+     "level": 2
+    },
+    {
+     "text": "Office desk",
+     "level": 2
+    },
+    {
+     "text": "Metal staples",
+     "level": 3
+    },
+    {
+     "text": "Press down",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tape",
+    "Hole punch",
+    "Paperclip"
+   ]
+  },
+  {
+   "word": "Paperclip",
+   "hints": [
+    {
+     "text": "Office item",
+     "level": 1
+    },
+    {
+     "text": "Small fastener",
+     "level": 1
+    },
+    {
+     "text": "Holds sheets",
+     "level": 2
+    },
+    {
+     "text": "Bent when bored",
+     "level": 2
+    },
+    {
+     "text": "Twisted wire",
+     "level": 3
+    },
+    {
+     "text": "Silver loop",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Staple",
+    "Pin",
+    "Bulldog"
+   ]
+  },
+  {
+   "word": "Pen",
+   "hints": [
+    {
+     "text": "Writing tool",
+     "level": 1
+    },
+    {
+     "text": "Stationery",
+     "level": 1
+    },
+    {
+     "text": "Signs documents",
+     "level": 2
+    },
+    {
+     "text": "Clicks open",
+     "level": 2
+    },
+    {
+     "text": "Ink inside",
+     "level": 3
+    },
+    {
+     "text": "Ballpoint tip",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pencil",
+    "Marker",
+    "Crayon"
+   ]
+  },
+  {
+   "word": "Pencil",
+   "hints": [
+    {
+     "text": "Writing tool",
+     "level": 1
+    },
+    {
+     "text": "Stationery",
+     "level": 1
+    },
+    {
+     "text": "School tests",
+     "level": 2
+    },
+    {
+     "text": "Erasable",
+     "level": 2
+    },
+    {
+     "text": "Graphite core",
+     "level": 3
+    },
+    {
+     "text": "Rubber on end",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pen",
+    "Crayon",
+    "Marker"
+   ]
+  },
+  {
+   "word": "Basket",
+   "hints": [
+    {
+     "text": "Container",
+     "level": 1
+    },
+    {
+     "text": "Woven item",
+     "level": 1
+    },
+    {
+     "text": "Picnics",
+     "level": 2
+    },
+    {
+     "text": "Laundry or shopping",
+     "level": 2
+    },
+    {
+     "text": "Woven wicker",
+     "level": 3
+    },
+    {
+     "text": "Handle on top",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Box",
+    "Bag",
+    "Bucket"
+   ]
+  },
+  {
+   "word": "Jar",
+   "hints": [
+    {
+     "text": "Container",
+     "level": 1
+    },
+    {
+     "text": "Glass item",
+     "level": 1
+    },
+    {
+     "text": "Stores jam",
+     "level": 2
+    },
+    {
+     "text": "Twist lid",
+     "level": 2
+    },
+    {
+     "text": "Glass body",
+     "level": 3
+    },
+    {
+     "text": "Screw top",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bottle",
+    "Tin",
+    "Box"
+   ]
+  },
+  {
+   "word": "Bottle",
+   "hints": [
+    {
+     "text": "Container",
+     "level": 1
+    },
+    {
+     "text": "Liquid holder",
+     "level": 1
+    },
+    {
+     "text": "Water on the go",
+     "level": 2
+    },
+    {
+     "text": "Recyclable",
+     "level": 2
+    },
+    {
+     "text": "Narrow neck",
+     "level": 3
+    },
+    {
+     "text": "Screw cap",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jar",
+    "Can",
+    "Flask"
+   ]
+  },
+  {
+   "word": "Thermos",
+   "hints": [
+    {
+     "text": "Insulated flask",
+     "level": 1
+    },
+    {
+     "text": "Travel item",
+     "level": 1
+    },
+    {
+     "text": "Keeps soup hot",
+     "level": 2
+    },
+    {
+     "text": "Picnics and hikes",
+     "level": 2
+    },
+    {
+     "text": "Double walled",
+     "level": 3
+    },
+    {
+     "text": "Screw lid",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bottle",
+    "Mug",
+    "Jug"
+   ]
+  },
+  {
+   "word": "Lunchbox",
+   "hints": [
+    {
+     "text": "Container",
+     "level": 1
+    },
+    {
+     "text": "School item",
+     "level": 1
+    },
+    {
+     "text": "Packed sandwiches",
+     "level": 2
+    },
+    {
+     "text": "Cartoon designs",
+     "level": 2
+    },
+    {
+     "text": "Clip lid",
+     "level": 3
+    },
+    {
+     "text": "Compartments",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bag",
+    "Tin",
+    "Basket"
+   ]
+  },
+  {
+   "word": "Cooler",
+   "hints": [
+    {
+     "text": "Insulated box",
+     "level": 1
+    },
+    {
+     "text": "Picnic item",
+     "level": 1
+    },
+    {
+     "text": "Keeps drinks cold",
+     "level": 2
+    },
+    {
+     "text": "Beach trips",
+     "level": 2
+    },
+    {
+     "text": "Ice packs inside",
+     "level": 3
+    },
+    {
+     "text": "Lid and handle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fridge",
+    "Basket",
+    "Box"
+   ]
+  },
+  {
+   "word": "Extinguisher",
+   "hints": [
+    {
+     "text": "Safety device",
+     "level": 1
+    },
+    {
+     "text": "Emergency tool",
+     "level": 1
+    },
+    {
+     "text": "Kitchen flames",
+     "level": 2
+    },
+    {
+     "text": "Red cylinder",
+     "level": 2
+    },
+    {
+     "text": "Pull the pin",
+     "level": 3
+    },
+    {
+     "text": "Spray nozzle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hose",
+    "Bucket",
+    "Alarm"
+   ]
+  },
+  {
+   "word": "Smoke detector",
+   "hints": [
+    {
+     "text": "Safety device",
+     "level": 1
+    },
+    {
+     "text": "Ceiling gadget",
+     "level": 1
+    },
+    {
+     "text": "Beeps when toast burns",
+     "level": 2
+    },
+    {
+     "text": "Test monthly",
+     "level": 2
+    },
+    {
+     "text": "Round disc",
+     "level": 3
+    },
+    {
+     "text": "Battery chirp",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Alarm",
+    "Sprinkler",
+    "Thermostat"
+   ]
+  },
+  {
+   "word": "Thermostat",
+   "hints": [
+    {
+     "text": "Climate control",
+     "level": 1
+    },
+    {
+     "text": "Wall device",
+     "level": 1
+    },
+    {
+     "text": "Sets temperature",
+     "level": 2
+    },
+    {
+     "text": "Family arguments",
+     "level": 2
+    },
+    {
+     "text": "Dial or screen",
+     "level": 3
+    },
+    {
+     "text": "Degrees display",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Heater",
+    "Fan",
+    "Clock"
+   ]
+  },
+  {
+   "word": "Plant pot",
+   "hints": [
+    {
+     "text": "Garden item",
+     "level": 1
+    },
+    {
+     "text": "Container",
+     "level": 1
+    },
+    {
+     "text": "Holds greenery",
+     "level": 2
+    },
+    {
+     "text": "Drainage hole",
+     "level": 2
+    },
+    {
+     "text": "Terracotta clay",
+     "level": 3
+    },
+    {
+     "text": "Saucer under",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Vase",
+    "Bucket",
+    "Bowl"
+   ]
+  },
+  {
+   "word": "Watering can",
+   "hints": [
+    {
+     "text": "Garden tool",
+     "level": 1
+    },
+    {
+     "text": "Container",
+     "level": 1
+    },
+    {
+     "text": "Sprinkles flowers",
+     "level": 2
+    },
+    {
+     "text": "Kids garden toy",
+     "level": 2
+    },
+    {
+     "text": "Long spout",
+     "level": 3
+    },
+    {
+     "text": "Sprinkle rose",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hose",
+    "Bucket",
+    "Jug"
+   ]
+  },
+  {
+   "word": "Hose",
+   "hints": [
+    {
+     "text": "Garden tool",
+     "level": 1
+    },
+    {
+     "text": "Water pipe",
+     "level": 1
+    },
+    {
+     "text": "Washes cars",
+     "level": 2
+    },
+    {
+     "text": "Summer sprinklers",
+     "level": 2
+    },
+    {
+     "text": "Long rubber tube",
+     "level": 3
+    },
+    {
+     "text": "Spray nozzle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sprinkler",
+    "Pipe",
+    "Bucket"
+   ]
+  },
+  {
+   "word": "Lawn mower",
+   "hints": [
+    {
+     "text": "Garden machine",
+     "level": 1
+    },
+    {
+     "text": "Grass cutter",
+     "level": 1
+    },
+    {
+     "text": "Weekend chores",
+     "level": 2
+    },
+    {
+     "text": "Loud engine",
+     "level": 2
+    },
+    {
+     "text": "Spinning blades",
+     "level": 3
+    },
+    {
+     "text": "Grass catcher",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Trimmer",
+    "Rake",
+    "Tractor"
+   ]
+  },
+  {
+   "word": "Rake",
+   "hints": [
+    {
+     "text": "Garden tool",
+     "level": 1
+    },
+    {
+     "text": "Leaf tool",
+     "level": 1
+    },
+    {
+     "text": "Autumn leaves",
+     "level": 2
+    },
+    {
+     "text": "Stepping prank",
+     "level": 2
+    },
+    {
+     "text": "Long handle",
+     "level": 3
+    },
+    {
+     "text": "Metal tines",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Broom",
+    "Shovel",
+    "Hoe"
+   ]
+  },
+  {
+   "word": "Shovel",
+   "hints": [
+    {
+     "text": "Garden tool",
+     "level": 1
+    },
+    {
+     "text": "Digging tool",
+     "level": 1
+    },
+    {
+     "text": "Digs holes",
+     "level": 2
+    },
+    {
+     "text": "Snow clearing",
+     "level": 2
+    },
+    {
+     "text": "Flat blade",
+     "level": 3
+    },
+    {
+     "text": "Long handle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spade",
+    "Rake",
+    "Hoe"
+   ]
+  },
+  {
+   "word": "Wheelbarrow",
+   "hints": [
+    {
+     "text": "Garden tool",
+     "level": 1
+    },
+    {
+     "text": "Cart",
+     "level": 1
+    },
+    {
+     "text": "Moves soil",
+     "level": 2
+    },
+    {
+     "text": "Building sites",
+     "level": 2
+    },
+    {
+     "text": "Single tire",
+     "level": 3
+    },
+    {
+     "text": "Two handles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cart",
+    "Trolley",
+    "Wagon"
+   ]
+  },
+  {
+   "word": "Mailbox",
+   "hints": [
+    {
+     "text": "Outdoor item",
+     "level": 1
+    },
+    {
+     "text": "Post slot",
+     "level": 1
+    },
+    {
+     "text": "Delivered daily",
+     "level": 2
+    },
+    {
+     "text": "Flag on side",
+     "level": 2
+    },
+    {
+     "text": "Slot or door",
+     "level": 3
+    },
+    {
+     "text": "Post outside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Doorbell",
+    "Basket",
+    "Locker"
+   ]
+  },
+  {
+   "word": "Coat rack",
+   "hints": [
+    {
+     "text": "Hallway item",
+     "level": 1
+    },
+    {
+     "text": "Stand",
+     "level": 1
+    },
+    {
+     "text": "Hang jackets",
+     "level": 2
+    },
+    {
+     "text": "By the door",
+     "level": 2
+    },
+    {
+     "text": "Hooks on pole",
+     "level": 3
+    },
+    {
+     "text": "Wooden stand",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hanger",
+    "Wardrobe",
+    "Shelf"
+   ]
+  },
+  {
+   "word": "Shoe rack",
+   "hints": [
+    {
+     "text": "Storage",
+     "level": 1
+    },
+    {
+     "text": "Hallway item",
+     "level": 1
+    },
+    {
+     "text": "Organizes sneakers",
+     "level": 2
+    },
+    {
+     "text": "By the door",
+     "level": 2
+    },
+    {
+     "text": "Slanted shelves",
+     "level": 3
+    },
+    {
+     "text": "Pairs lined up",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shelf",
+    "Basket",
+    "Wardrobe"
+   ]
+  },
+  {
+   "word": "Fireplace",
+   "hints": [
+    {
+     "text": "Living room feature",
+     "level": 1
+    },
+    {
+     "text": "Hearth",
+     "level": 1
+    },
+    {
+     "text": "Cozy winters",
+     "level": 2
+    },
+    {
+     "text": "Stockings hung",
+     "level": 2
+    },
+    {
+     "text": "Crackling logs",
+     "level": 3
+    },
+    {
+     "text": "Chimney above",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Stove",
+    "Heater",
+    "Oven"
+   ]
+  },
+  {
+   "word": "Chimney",
+   "hints": [
+    {
+     "text": "House part",
+     "level": 1
+    },
+    {
+     "text": "Smoke outlet",
+     "level": 1
+    },
+    {
+     "text": "Santa climbs down",
+     "level": 2
+    },
+    {
+     "text": "Sweeps clean it",
+     "level": 2
+    },
+    {
+     "text": "Brick stack",
+     "level": 3
+    },
+    {
+     "text": "On the roof",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fireplace",
+    "Vent",
+    "Pipe"
+   ]
+  },
+  {
+   "word": "Ceiling fan",
+   "hints": [
+    {
+     "text": "Cooling device",
+     "level": 1
+    },
+    {
+     "text": "Overhead fixture",
+     "level": 1
+    },
+    {
+     "text": "Spins in summer",
+     "level": 2
+    },
+    {
+     "text": "Hangs overhead",
+     "level": 2
+    },
+    {
+     "text": "Large blades",
+     "level": 3
+    },
+    {
+     "text": "Pull chain",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Air conditioner",
+    "Chandelier",
+    "Heater"
+   ]
+  },
+  {
+   "word": "Chandelier",
+   "hints": [
+    {
+     "text": "Light fixture",
+     "level": 1
+    },
+    {
+     "text": "Fancy decor",
+     "level": 1
+    },
+    {
+     "text": "Grand ballrooms",
+     "level": 2
+    },
+    {
+     "text": "Hanging from ceiling",
+     "level": 2
+    },
+    {
+     "text": "Crystal drops",
+     "level": 3
+    },
+    {
+     "text": "Many bulbs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lamp",
+    "Lantern",
+    "Candelabra"
+   ]
+  },
+  {
+   "word": "Bunk bed",
+   "hints": [
+    {
+     "text": "Furniture",
+     "level": 1
+    },
+    {
+     "text": "Kids sleeping",
+     "level": 1
+    },
+    {
+     "text": "Siblings share",
+     "level": 2
+    },
+    {
+     "text": "Sleepovers",
+     "level": 2
+    },
+    {
+     "text": "Ladder up",
+     "level": 3
+    },
+    {
+     "text": "Two levels",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cot",
+    "Sofa",
+    "Hammock"
+   ]
+  },
+  {
+   "word": "Crib",
+   "hints": [
+    {
+     "text": "Baby furniture",
+     "level": 1
+    },
+    {
+     "text": "Infant bed",
+     "level": 1
+    },
+    {
+     "text": "Nursery item",
+     "level": 2
+    },
+    {
+     "text": "Rocked to sleep",
+     "level": 2
+    },
+    {
+     "text": "Wooden bars",
+     "level": 3
+    },
+    {
+     "text": "Mobile above",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cot",
+    "Cradle",
+    "Playpen"
+   ]
+  },
+  {
+   "word": "Rocking chair",
+   "hints": [
+    {
+     "text": "Furniture",
+     "level": 1
+    },
+    {
+     "text": "Porch seat",
+     "level": 1
+    },
+    {
+     "text": "Grandparents relax",
+     "level": 2
+    },
+    {
+     "text": "Knitting time",
+     "level": 2
+    },
+    {
+     "text": "Curved runners",
+     "level": 3
+    },
+    {
+     "text": "Sways back and forth",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Armchair",
+    "Hammock",
+    "Swing"
+   ]
+  },
+  {
+   "word": "Armchair",
+   "hints": [
+    {
+     "text": "Furniture",
+     "level": 1
+    },
+    {
+     "text": "Comfy seat",
+     "level": 1
+    },
+    {
+     "text": "Reading corner",
+     "level": 2
+    },
+    {
+     "text": "Fireside seat",
+     "level": 2
+    },
+    {
+     "text": "Padded arms",
+     "level": 3
+    },
+    {
+     "text": "Single seat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sofa",
+    "Recliner",
+    "Stool"
+   ]
+  },
+  {
+   "word": "Recliner",
+   "hints": [
+    {
+     "text": "Furniture",
+     "level": 1
+    },
+    {
+     "text": "Lounge seat",
+     "level": 1
+    },
+    {
+     "text": "Movie marathons",
+     "level": 2
+    },
+    {
+     "text": "Leans back",
+     "level": 2
+    },
+    {
+     "text": "Footrest pops up",
+     "level": 3
+    },
+    {
+     "text": "Lever on side",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Armchair",
+    "Sofa",
+    "Hammock"
+   ]
+  },
+  {
+   "word": "Coffee table",
+   "hints": [
+    {
+     "text": "Furniture",
+     "level": 1
+    },
+    {
+     "text": "Low surface",
+     "level": 1
+    },
+    {
+     "text": "In living rooms",
+     "level": 2
+    },
+    {
+     "text": "Holds magazines",
+     "level": 2
+    },
+    {
+     "text": "Low and flat",
+     "level": 3
+    },
+    {
+     "text": "In front of sofa",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Desk",
+    "Stool",
+    "Shelf"
+   ]
+  },
+  {
+   "word": "Nightstand",
+   "hints": [
+    {
+     "text": "Furniture",
+     "level": 1
+    },
+    {
+     "text": "Bedside table",
+     "level": 1
+    },
+    {
+     "text": "Holds a lamp",
+     "level": 2
+    },
+    {
+     "text": "Phone charger spot",
+     "level": 2
+    },
+    {
+     "text": "Small drawer",
+     "level": 3
+    },
+    {
+     "text": "By the bed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dresser",
+    "Shelf",
+    "Stool"
+   ]
+  },
+  {
+   "word": "Dresser",
+   "hints": [
+    {
+     "text": "Furniture",
+     "level": 1
+    },
+    {
+     "text": "Bedroom storage",
+     "level": 1
+    },
+    {
+     "text": "Folded clothes",
+     "level": 2
+    },
+    {
+     "text": "Mirror on top",
+     "level": 2
+    },
+    {
+     "text": "Stack of drawers",
+     "level": 3
+    },
+    {
+     "text": "Wooden chest",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wardrobe",
+    "Cupboard",
+    "Nightstand"
+   ]
+  },
+  {
+   "word": "Keyring",
+   "hints": [
+    {
+     "text": "Small accessory",
+     "level": 1
+    },
+    {
+     "text": "Key holder",
+     "level": 1
+    },
+    {
+     "text": "Jingles in pockets",
+     "level": 2
+    },
+    {
+     "text": "Souvenir trinket",
+     "level": 2
+    },
+    {
+     "text": "Metal loop",
+     "level": 3
+    },
+    {
+     "text": "Dangling charm",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lanyard",
+    "Wallet",
+    "Clip"
+   ]
+  },
+  {
+   "word": "Photo album",
+   "hints": [
+    {
+     "text": "Memory book",
+     "level": 1
+    },
+    {
+     "text": "Keepsake",
+     "level": 1
+    },
+    {
+     "text": "Family history",
+     "level": 2
+    },
+    {
+     "text": "Wedding pictures",
+     "level": 2
+    },
+    {
+     "text": "Plastic sleeves",
+     "level": 3
+    },
+    {
+     "text": "Thick pages",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Scrapbook",
+    "Diary",
+    "Frame"
+   ]
+  },
+  {
+   "word": "Sewing machine",
+   "hints": [
+    {
+     "text": "Craft appliance",
+     "level": 1
+    },
+    {
+     "text": "Stitching appliance",
+     "level": 1
+    },
+    {
+     "text": "Hems trousers",
+     "level": 2
+    },
+    {
+     "text": "Home tailoring",
+     "level": 2
+    },
+    {
+     "text": "Needle and bobbin",
+     "level": 3
+    },
+    {
+     "text": "Foot pedal",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Iron",
+    "Loom",
+    "Printer"
+   ]
+  },
+  {
+   "word": "Clothesline",
+   "hints": [
+    {
+     "text": "Laundry item",
+     "level": 1
+    },
+    {
+     "text": "Outdoor rope",
+     "level": 1
+    },
+    {
+     "text": "Sun dried washing",
+     "level": 2
+    },
+    {
+     "text": "Backyard",
+     "level": 2
+    },
+    {
+     "text": "Stretched rope",
+     "level": 3
+    },
+    {
+     "text": "Pegs along it",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hanger",
+    "Rack",
+    "Hook"
+   ]
+  },
+  {
+   "word": "Doorstop",
+   "hints": [
+    {
+     "text": "Small object",
+     "level": 1
+    },
+    {
+     "text": "Entrance holder",
+     "level": 1
+    },
+    {
+     "text": "Keeps entrances open",
+     "level": 2
+    },
+    {
+     "text": "Wedge shape",
+     "level": 2
+    },
+    {
+     "text": "Rubber wedge",
+     "level": 3
+    },
+    {
+     "text": "Floor level",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hinge",
+    "Latch",
+    "Hook"
+   ]
+  },
+  {
+   "word": "Welcome mat",
+   "hints": [
+    {
+     "text": "Entrance item",
+     "level": 1
+    },
+    {
+     "text": "Floor covering",
+     "level": 1
+    },
+    {
+     "text": "Greets guests",
+     "level": 2
+    },
+    {
+     "text": "Wipe your shoes",
+     "level": 2
+    },
+    {
+     "text": "Printed greeting",
+     "level": 3
+    },
+    {
+     "text": "Coir bristles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rug",
+    "Carpet",
+    "Towel"
+   ]
+  },
+  {
+   "word": "Plunger",
+   "hints": [
+    {
+     "text": "Bathroom tool",
+     "level": 1
+    },
+    {
+     "text": "Plumbing tool",
+     "level": 1
+    },
+    {
+     "text": "Unclogs toilets",
+     "level": 2
+    },
+    {
+     "text": "Embarrassing moments",
+     "level": 2
+    },
+    {
+     "text": "Rubber cup",
+     "level": 3
+    },
+    {
+     "text": "Wooden handle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Brush",
+    "Mop",
+    "Hose"
+   ]
+  },
+  {
+   "word": "Coaster",
+   "hints": [
+    {
+     "text": "Table item",
+     "level": 1
+    },
+    {
+     "text": "Drink mat",
+     "level": 1
+    },
+    {
+     "text": "Protects furniture",
+     "level": 2
+    },
+    {
+     "text": "Stops water rings",
+     "level": 2
+    },
+    {
+     "text": "Small square",
+     "level": 3
+    },
+    {
+     "text": "Cork or stone",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Placemat",
+    "Napkin",
+    "Tray"
+   ]
+  },
+  {
+   "word": "Placemat",
+   "hints": [
+    {
+     "text": "Dining item",
+     "level": 1
+    },
+    {
+     "text": "Table mat",
+     "level": 1
+    },
+    {
+     "text": "Under plates",
+     "level": 2
+    },
+    {
+     "text": "Kids drawings",
+     "level": 2
+    },
+    {
+     "text": "Woven or plastic",
+     "level": 3
+    },
+    {
+     "text": "One per seat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Coaster",
+    "Tablecloth",
+    "Napkin"
+   ]
+  },
+  {
+   "word": "Salt shaker",
+   "hints": [
+    {
+     "text": "Table item",
+     "level": 1
+    },
+    {
+     "text": "Seasoning holder",
+     "level": 1
+    },
+    {
+     "text": "Passed at dinner",
+     "level": 2
+    },
+    {
+     "text": "Pepper partner",
+     "level": 2
+    },
+    {
+     "text": "Holes on top",
+     "level": 3
+    },
+    {
+     "text": "Tiny white grains",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pepper mill",
+    "Sugar bowl",
+    "Spice jar"
+   ]
+  },
+  {
+   "word": "Pepper mill",
+   "hints": [
+    {
+     "text": "Kitchen gadget",
+     "level": 1
+    },
+    {
+     "text": "Spice grinder",
+     "level": 1
+    },
+    {
+     "text": "Twisted over pasta",
+     "level": 2
+    },
+    {
+     "text": "Fancy restaurants",
+     "level": 2
+    },
+    {
+     "text": "Grinding top",
+     "level": 3
+    },
+    {
+     "text": "Black corns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Salt shaker",
+    "Grater",
+    "Mortar"
+   ]
+  },
+  {
+   "word": "Colander",
+   "hints": [
+    {
+     "text": "Kitchen tool",
+     "level": 1
+    },
+    {
+     "text": "Strainer",
+     "level": 1
+    },
+    {
+     "text": "Drains pasta",
+     "level": 2
+    },
+    {
+     "text": "Washes berries",
+     "level": 2
+    },
+    {
+     "text": "Bowl with holes",
+     "level": 3
+    },
+    {
+     "text": "Two handles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sieve",
+    "Bowl",
+    "Basket"
+   ]
+  },
+  {
+   "word": "Mortar",
+   "hints": [
+    {
+     "text": "Kitchen tool",
+     "level": 1
+    },
+    {
+     "text": "Grinding bowl",
+     "level": 1
+    },
+    {
+     "text": "Crushes spices",
+     "level": 2
+    },
+    {
+     "text": "Ancient tool",
+     "level": 2
+    },
+    {
+     "text": "Stone bowl",
+     "level": 3
+    },
+    {
+     "text": "Pestle partner",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Blender",
+    "Grater",
+    "Bowl"
+   ]
+  }
+ ]
+}

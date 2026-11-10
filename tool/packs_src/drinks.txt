@@ -1,0 +1,141 @@
+@id drinks
+@name Drinks
+Water | Basic need; Clear liquid | Keeps you hydrated; Comes from taps | No taste; Drink eight glasses | Juice; Milk; Soda
+Sparkling water | Fizzy drink; Bubbly liquid | Fancy restaurant order; Sugar free | Carbonated bubbles; Tingles on tongue | Tonic; Soda; Lemonade
+Coconut water | Tropical drink; Natural refresher | Sipped from the shell; Beach favorite | Clear and slightly sweet; Rich in electrolytes | Lemonade; Juice; Milk
+Milk | Dairy drink; White liquid | Good for bones; Poured on cereal | Comes from cows; Leaves a mustache | Yogurt; Cream; Juice
+Chocolate milk | Sweet drink; Dairy drink | Kids lunch drink; After school treat | Cocoa flavored; Brown and creamy | Milkshake; Hot cocoa; Coffee
+Buttermilk | Dairy drink; Cooling drink | Summer refresher; Served after meals | Thin and tangy; Leftover from churning | Lassi; Yogurt; Kefir
+Lassi | Indian drink; Yogurt drink | Summer favorite; Served in clay cups | Thick and creamy; Sweet or salty | Smoothie; Buttermilk; Milkshake
+Mango lassi | Indian drink; Fruity drink | Restaurant favorite; Summer cooler | Yogurt and pulp; Bright orange | Smoothie; Milkshake; Juice
+Chai | Hot drink; Indian drink | Served at stalls; Shared with biscuits | Spiced and milky; Boiled with ginger | Coffee; Cocoa; Latte
+Green tea | Hot drink; Healthy drink | Full of antioxidants; Popular in east asia | Light and grassy; Pale color | Coffee; Herbal tea; Lemonade
+Black tea | Hot drink; Classic brew | British breakfast staple; Served with milk | Strong and dark; Steeped leaves | Coffee; Cocoa; Green tea
+Iced tea | Cold drink; Summer drink | Sipped on porches; Served in pitchers | Chilled brew; Lemon slice | Lemonade; Juice; Soda
+Herbal tea | Hot drink; Caffeine free | Calms you down; Bedtime drink | Dried flowers and herbs; Steeped in bags | Coffee; Cocoa; Broth
+Mint tea | Hot drink; Refreshing brew | North african tradition; Poured from height | Fresh green leaves; Cool aftertaste | Green tea; Coffee; Chamomile
+Chamomile | Herbal drink; Calming brew | Helps you sleep; Soothes nerves | Daisy like flowers; Golden color | Peppermint; Lavender; Rooibos
+Matcha | Japanese drink; Powdered tea | Whisked in bowls; Ceremony drink | Bright green; Earthy taste | Espresso; Cocoa; Chai
+Bubble tea | Sweet drink; Taiwanese drink | Sipped through fat straws; Trendy cafes | Chewy tapioca pearls; Milky and sweet | Milkshake; Smoothie; Slushie
+Kombucha | Fermented drink; Health drink | Trendy wellness drink; Homebrewed | Tangy and fizzy; Made with scoby | Kefir; Soda; Vinegar
+Coffee | Hot drink; Morning drink | Wakes you up; Served at cafes | Roasted beans; Full of caffeine | Tea; Cocoa; Chai
+Espresso | Coffee drink; Italian drink | Quick shot; Served in tiny cups | Strong and concentrated; Crema on top | Latte; Americano; Cocoa
+Cappuccino | Coffee drink; Italian drink | Breakfast order; Cafe classic | Thick milk foam; Cocoa dusting | Latte; Mocha; Macchiato
+Latte | Coffee drink; Milky drink | Cafe favorite; Leaf patterns on top | Lots of steamed milk; Mild coffee taste | Cappuccino; Mocha; Chai
+Americano | Coffee drink; Black coffee | Simple cafe order; Long and mild | Espresso with water; No milk | Latte; Espresso; Mocha
+Mocha | Coffee drink; Sweet drink | Cafe treat; Topped with cream | Chocolate and espresso; Rich and brown | Latte; Hot cocoa; Cappuccino
+Macchiato | Coffee drink; Italian drink | Small cafe order; Strong flavor | Espresso marked with foam; Layered look | Cappuccino; Latte; Cortado
+Cold brew | Coffee drink; Chilled drink | Steeped overnight; Smooth and strong | Served over ice; Low acidity | Iced latte; Espresso; Iced tea
+Iced coffee | Cold drink; Cafe drink | Summer pick me up; Served in tall glasses | Chilled with cubes; Sipped through straws | Cold brew; Iced tea; Frappe
+Frappe | Cold drink; Blended coffee | Summer cafe order; Sweet and frothy | Blended with ice; Whipped topping | Milkshake; Iced coffee; Smoothie
+Hot chocolate | Warm drink; Winter drink | Cozy evening treat; Kids favorite | Topped with marshmallows; Rich cocoa | Coffee; Chai; Warm milk
+Milkshake | Sweet drink; Diner drink | Served with straws; Thick and cold | Blended ice cream; Topped with cherry | Smoothie; Lassi; Float
+Smoothie | Healthy drink; Blended drink | Breakfast on the go; Gym favorite | Blended fruit; Thick texture | Milkshake; Juice; Lassi
+Orange juice | Breakfast drink; Fruit drink | Full of vitamin c; Served at brunch | Freshly squeezed; Pulp or no pulp | Apple juice; Lemonade; Grapefruit
+Apple juice | Fruit drink; Kids drink | Lunchbox staple; Served in boxes | Pale gold; Pressed fruit | Orange juice; Cider; Pear nectar
+Grape juice | Fruit drink; Purple drink | Kids party drink; Stains clothes | Deep purple; Very sweet | Cranberry; Plum juice; Punch
+Lemonade | Cold drink; Summer drink | Sold at kids stands; Picnic favorite | Sour and sweet; Squeezed citrus | Iced tea; Limeade; Soda
+Limeade | Cold drink; Citrus drink | Summer cooler; Tart refresher | Green citrus; Sugar and water | Lemonade; Soda; Mojito
+Pineapple juice | Tropical drink; Fruit drink | Beach drink; Sweet and tangy | Yellow and frothy; Pressed tropical fruit | Mango juice; Orange juice; Coconut water
+Mango juice | Tropical drink; Fruit drink | Summer favorite; Sold in cartons | Thick and orange; Very sweet pulp | Pineapple juice; Orange juice; Lassi
+Tomato juice | Vegetable drink; Savory drink | Airplane drink; Seasoned with salt | Thick and red; Made from vines | Carrot juice; Gazpacho; Ketchup
+Carrot juice | Vegetable drink; Healthy drink | Good for eyesight; Health bar order | Bright orange; Earthy sweet | Tomato juice; Beet juice; Orange juice
+Cranberry juice | Fruit drink; Tart drink | Good for health; Holiday drink | Deep red; Sour berries | Grape juice; Cherry juice; Pomegranate
+Watermelon juice | Summer drink; Fruit drink | Super refreshing; Beach cooler | Pink and watery; Made from melons | Lemonade; Strawberry shake; Coconut water
+Sugarcane juice | Street drink; Sweet drink | Pressed by roadside carts; Summer cooler | Crushed stalks; Green and frothy | Coconut water; Lemonade; Lassi
+Pomegranate | Fruit drink; Healthy drink | Rich in antioxidants; Pricey drink | Deep ruby red; Made from seeds | Cranberry juice; Grape juice; Cherry juice
+Almond milk | Plant based; Dairy alternative | Vegan favorite; Used in lattes | Made from nuts; Nutty taste | Soy milk; Oat milk; Coconut milk
+Soy milk | Plant based; Dairy alternative | Vegan staple; High in protein | Made from beans; Creamy beige | Almond milk; Oat milk; Rice milk
+Oat milk | Plant based; Dairy alternative | Barista favorite; Creamy in coffee | Made from grains; Slightly sweet | Almond milk; Soy milk; Rice milk
+Cola | Soft drink; Fizzy drink | Served with pizza; Famous secret recipe | Dark brown; Lots of sugar | Lemonade; Ginger ale; Cream soda
+Ginger ale | Soft drink; Fizzy drink | Settles your stomach; Served on planes | Pale gold; Spicy root flavor | Cola; Tonic water; Lemonade
+Cream soda | Soft drink; Sweet drink | Old fashioned fizz; Diner favorite | Vanilla flavor; Fizzy and smooth | Cola; Ginger ale; Root float
+Orange soda | Soft drink; Fizzy drink | Kids party drink; Bright and sweet | Neon colored; Citrus flavored | Cola; Lemonade; Grape soda
+Tonic water | Fizzy drink; Mixer | Glows under blacklight; Slightly bitter | Contains quinine; Clear and bubbly | Soda water; Ginger ale; Seltzer
+Energy drink | Canned beverage; Caffeinated beverage | Student all nighter; Gamer fuel | Taurine and sugar; Tall slim can | Coffee; Sports drink; Soda
+Sports drink | Workout beverage; Hydration beverage | Athletes gulp it; Sold at gyms | Electrolytes; Neon colors | Energy drink; Water; Juice
+Protein shake | Gym drink; Workout drink | After lifting weights; Mixed in bottles | Powder mixed with milk; Muscle builder | Smoothie; Milkshake; Sports drink
+Eggnog | Holiday drink; Creamy drink | Winter tradition; Served at parties | Nutmeg on top; Thick and eggy | Custard; Milkshake; Hot cocoa
+Fruit punch | Party drink; Sweet drink | Served in big bowls; Kids birthday drink | Mixed berry flavors; Bright red | Lemonade; Juice; Soda
+Slushie | Frozen drink; Summer treat | Gives brain freeze; Sold at stores | Crushed ice; Neon syrup | Snow cone; Smoothie; Milkshake
+Horchata | Latin drink; Sweet drink | Served at taco stands; Very refreshing | Rice and cinnamon; Milky white | Lassi; Milkshake; Chai
+Jaljeera | Indian drink; Spicy cooler | Summer refresher; Aids digestion | Cumin and mint; Tangy and salty | Buttermilk; Lemonade; Aam panna
+Aam panna | Indian drink; Summer cooler | Beats the heat; Homemade remedy | Raw mango pulp; Tangy and green | Jaljeera; Lemonade; Mango juice
+Thandai | Indian drink; Festive drink | Spring festival favorite; Served chilled | Milk with nuts; Saffron and fennel | Lassi; Milkshake; Kheer
+Nimbu pani | Indian drink; Citrus cooler | Street stall favorite; Summer staple | Lemon with salt; Sometimes fizzy | Lemonade; Jaljeera; Soda
+Rose milk | Indian drink; Sweet drink | South indian favorite; Served chilled | Pink and floral; Flavored syrup | Badam milk; Strawberry shake; Falooda
+Badam milk | Indian drink; Nutty drink | Served hot or cold; Healthy treat | Ground almonds; Saffron tinted | Rose milk; Thandai; Milkshake
+Falooda | Indian dessert drink; Layered drink | Summer treat; Served in tall glasses | Vermicelli and basil seeds; Topped with kulfi | Milkshake; Sundae; Bubble tea
+Sharbat | Sweet drink; Traditional cooler | Served to guests; Ramadan favorite | Fruit or flower syrup; Diluted with water | Lemonade; Squash; Cordial
+Ayran | Yogurt drink; Turkish drink | Served with kebabs; Salty refresher | Frothy and white; Yogurt and water | Buttermilk; Lassi; Kefir
+Kefir | Fermented drink; Dairy drink | Gut health favorite; Tangy probiotic | Grains and milk; Slightly fizzy | Yogurt; Kombucha; Buttermilk
+Milk tea | Sweet drink; Asian drink | Sold at cafes; Hot or iced | Creamy and sweet; Brewed leaves and cream | Bubble tea; Chai; Latte
+Thai tea | Sweet drink; Asian drink | Street food partner; Served over ice | Bright orange; Condensed milk | Chai; Bubble tea; Iced coffee
+Hibiscus tea | Herbal drink; Tart drink | Served hot or iced; Lowers blood pressure | Deep red petals; Cranberry like | Rooibos; Chamomile; Rosehip
+Barley water | Old drink; Cooling drink | Wimbledon tradition; Homemade remedy | Boiled grain; Lemony | Lemonade; Rice water; Squash
+Lemon water | Healthy drink; Morning drink | Detox ritual; Served warm or cold | Citrus slices; Plain and sour | Lemonade; Mint water; Green tea
+Mineral water | Bottled drink; Pure drink | Sold in bottles; From natural springs | Naturally filtered; Still or sparkling | Tap water; Soda water; Juice
+Soda water | Fizzy drink; Mixer | Plain bubbles; Settles tummy | Carbonated and clear; No sugar | Tonic water; Lemonade; Cola
+Seltzer | Fizzy drink; Bubbly water | Flavored versions; Calorie free | Carbonated; Sold in cans | Tonic water; Club soda; Cola
+Club soda | Fizzy drink; Mixer | Removes stains myth; Bar staple | Slightly salty bubbles; Clear | Seltzer; Tonic water; Ginger ale
+Grape soda | Soft drink; Fizzy drink | Purple tongue; Kids favorite | Artificial flavor; Deep purple | Orange soda; Cola; Cream soda
+Malted milk | Dairy drink; Vintage drink | Old diner treat; Bedtime drink | Barley powder; Creamy and nutty | Milkshake; Hot cocoa; Horlicks
+Hot water | Simple drink; Warm liquid | Soothes throat; Morning ritual | No flavor; Kettle boiled | Tea; Broth; Coffee
+Coconut milk | Tropical liquid; Creamy liquid | Used in curries; Dairy free | White and rich; Pressed from flesh | Almond milk; Soy milk; Cream
+Rice milk | Plant based; Dairy alternative | Allergy friendly; Thin and sweet | Made from grains; Watery white | Oat milk; Soy milk; Almond milk
+Beet juice | Vegetable drink; Health drink | Athletes drink it; Earthy flavor | Deep magenta; Root vegetable | Carrot juice; Cranberry juice; Pomegranate
+Celery juice | Green drink; Health fad | Morning wellness trend; Very bitter | Pale green; Pressed stalks | Cucumber water; Wheatgrass; Kale smoothie
+Wheatgrass | Health shot; Green drink | Juice bar shot; Very grassy | Bright green; Tiny cup | Spirulina; Celery juice; Matcha
+Banana shake | Sweet drink; Blended drink | Breakfast blend; Gym favorite | Fruit blended with milk; Pale yellow | Strawberry shake; Smoothie; Mango lassi
+Strawberry shake | Sweet drink; Pink drink | Diner favorite; Kids treat | Fruity flavored; Topped with cream | Chocolate milk; Banana shake; Smoothie
+Cold coffee | Chilled beverage; Cafe beverage | Indian cafe favorite; Summer treat | Blended with milk; Frothy top | Frappe; Iced latte; Milkshake
+Dalgona | Coffee drink; Viral drink | Internet trend; Whipped by hand | Fluffy foam on milk; Caramel colored | Cappuccino; Latte; Frappe
+Golden milk | Healthy drink; Indian drink | Bedtime remedy; Soothes colds | Turmeric infusion; Bright yellow | Chai; Badam milk; Hot cocoa
+Chai latte | Cafe drink; Spiced drink | Cafe version of tradition; Sweet and creamy | Spiced tea with foam; Cinnamon dusted | Cappuccino; Masala chai; Matcha latte
+Matcha latte | Cafe drink; Green drink | Trendy breakfast drink; Trendy cafe pick | Whisked powder with milk; Bright green | Chai latte; Cappuccino; Green tea
+Turmeric latte | Cafe drink; Healthy drink | Wellness cafe order; Warming spice | Yellow root powder; Steamed milk | Golden milk; Chai latte; Hot cocoa
+Kahwa | Kashmiri drink; Hot tea | Served at weddings; Winter warmer | Saffron and almonds; Green tea base | Chai; Green tea; Butter tea
+Butter tea | Himalayan drink; Salty brew | Mountain tradition; Keeps you warm | Churned with yak fat; Thick and salty | Kahwa; Chai; Milk tea
+Sencha | Japanese tea; Green tea | Everyday tea in japan; Served hot | Steamed leaves; Grassy taste | Matcha; Oolong; Jasmine tea
+Oolong | Chinese tea; Traditional brew | Partially oxidized; Served in small cups | Floral aroma; Rolled leaves | Green tea; Black tea; Jasmine tea
+Jasmine tea | Chinese brew; Floral brew | Served at dim sum; Sweet aroma | Scented with flowers; Pale gold | Oolong; Green tea; Chamomile
+Rooibos | Herbal tea; South african tea | Caffeine free; Red bush | Reddish color; Sweet and nutty | Chamomile; Hibiscus tea; Black tea
+Peppermint | Herbal tea; Fresh brew | Settles the stomach; Cool and fresh | Bright green leaves; Menthol taste | Chamomile; Spearmint; Ginger tea
+Ginger tea | Herbal brew; Spicy infusion | Cure for colds; Warms you up | Root slices; Peppery bite | Lemon tea; Chai; Peppermint
+Lemon tea | Hot drink; Citrus brew | Soothes sore throats; Light and tangy | Citrus infusion; No milk | Ginger tea; Green tea; Iced tea
+Yerba mate | South american drink; Herbal brew | Shared in a gourd; Gives energy | Metal straw; Bitter leaves | Green tea; Coffee; Matcha
+Masala chai | Indian drink; Spiced tea | Train station favorite; Rainy day drink | Cardamom and cloves; Milky brew | Ginger tea; Coffee; Kahwa
+Filter coffee | South indian drink; Caffeinated drink | Poured between cups; Morning ritual | Frothy and strong; Steel tumbler | Espresso; Chai; Cappuccino
+Turkish coffee | Caffeinated drink; Traditional brew | Fortune telling grounds; Served in tiny cups | Unfiltered and thick; Cooked in a pot | Espresso; Filter coffee; Mocha
+Decaf | Coffee drink; Mild drink | Late night coffee; Gentle on sleep | Caffeine removed; Same roasty taste | Espresso; Herbal tea; Latte
+Iced latte | Cold drink; Coffee drink | Summer cafe order; Served in clear cups | Espresso over ice; Lots of milk | Cold brew; Frappe; Iced tea
+Cortado | Coffee drink; Spanish drink | Small but strong; Cafe favorite | Equal espresso and milk; Glass cup | Macchiato; Flat white; Latte
+Flat white | Coffee drink; Milky drink | Popular down under; Cafe order | Velvety microfoam; Double shot | Latte; Cortado; Cappuccino
+Affogato | Coffee dessert; Italian treat | After dinner treat; Served in small glass | Espresso over ice cream; Melty and bitter | Mocha; Float; Frappe
+Cocoa | Hot drink; Winter drink | Cozy night in; Kids favorite | Chocolate powder; Stirred with milk | Coffee; Chai; Malted milk
+Soda float | Dessert drink; Diner treat | Retro diner order; Fizzy and creamy | Scoop in fizz; Long spoon | Milkshake; Slushie; Smoothie
+Snow cone | Frozen treat; Summer drink | Sold at fairs; Melts quickly | Shaved ice; Colorful syrup | Slushie; Popsicle; Sorbet
+Pink lemonade | Cold drink; Summer drink | Picnic favorite; Fair stand drink | Rosy color; Berry tint | Limeade; Fruit punch; Iced tea
+Mint water | Infused drink; Cooling drink | Spa drink; Very refreshing | Fresh leaves infused; Cool taste | Lemon water; Cucumber water; Iced tea
+Cucumber water | Infused drink; Spa drink | Served at spas; Cool and light | Green slices infused; Very subtle | Mint water; Lemon water; Coconut water
+Oral rehydration | Medical drink; Recovery remedy | Given when sick; Replaces lost salts | Salty and sweet; Mixed from sachets | Sports drink; Coconut water; Soda
+Shikanji | Indian drink; Lemon cooler | North indian favorite; Summer street drink | Roasted cumin; Black salt | Nimbu pani; Lemonade; Jaljeera
+Panakam | South indian drink; Festive drink | Temple offering; Summer cooler | Jaggery and pepper; Cardamom scented | Sharbat; Lemonade; Jaljeera
+Neer mor | South indian drink; Spiced buttermilk | Summer refresher; Temple offering | Curry leaves; Thin and salty | Buttermilk; Lassi; Jaljeera
+Lychee juice | Fruit drink; Tropical drink | Summer favorite; Very fragrant | Pale and sweet; Floral fruit | Coconut water; Pear juice; Grape juice
+Guava juice | Tropical drink; Fruit drink | Rich in vitamin c; Thick and pulpy | Pink or white; Sweet and grainy | Mango juice; Papaya juice; Pineapple juice
+Plum juice | Fruit drink; Tart drink | Helps digestion; Dark and sweet | Deep purple; Stone fruit | Grape juice; Cherry juice; Cranberry juice
+Cherry juice | Fruit drink; Red drink | Helps with sleep; Tart variety | Dark red; Stone fruit | Cranberry juice; Grape juice; Pomegranate
+Pear juice | Fruit drink; Mild drink | Baby food staple; Gentle sweet | Pale gold; Soft fruit | Apple juice; Grape juice; Peach nectar
+Peach nectar | Fruit drink; Thick drink | Brunch favorite; Velvety texture | Orange pulp; Stone fruit | Apricot nectar; Mango juice; Pear juice
+Apricot nectar | Fruit drink; Thick drink | Sold in cans; Velvety sweet | Golden pulp; Stone fruit | Peach nectar; Mango juice; Orange juice
+Papaya juice | Tropical drink; Fruit drink | Good for digestion; Breakfast drink | Orange flesh; Musky sweet | Mango juice; Guava juice; Carrot juice
+Kiwi smoothie | Green drink; Blended drink | Breakfast blend; Tangy and fresh | Bright green; Tiny black seeds | Spinach smoothie; Lime juice; Matcha latte
+Spinach smoothie | Green drink; Healthy blend | Hides your veggies; Gym favorite | Leafy greens blended; Dark green | Kale juice; Kiwi smoothie; Wheatgrass
+Hot cider | Winter drink; Warm drink | Autumn fair favorite; Spiced and steamy | Mulled apples; Cinnamon sticks | Hot cocoa; Chai; Apple juice
+Lime juice | Citrus drink; Sour drink | Squeezed fresh; Used in cooking | Green citrus; Very tart | Lemonade; Orange juice; Grapefruit
+Grapefruit | Citrus drink; Bitter citrus | Breakfast juice; Diet favorite | Pink inside; Very tart | Orange juice; Lime juice; Pomelo
+Squash | Concentrate drink; British cordial | Diluted with water; Kids drink | Fruit syrup; Comes in bottles | Cordial; Sharbat; Juice
+Cordial | Concentrate drink; Sweet syrup | Mixed with water; Victorian drink | Flower or fruit syrup; Very sweet | Squash; Sharbat; Lemonade
+Taro tea | Boba shop flavor; Sweet drink | Asian cafe order; Purple color | Root vegetable flavor; Nutty and creamy | Thai tea; Milk tea; Matcha latte
+Warm milk | Bedtime drink; Comforting drink | Helps kids sleep; Heated on stove | Plain and creamy; Sometimes with honey | Hot cocoa; Golden milk; Chai

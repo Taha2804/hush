@@ -1,0 +1,5276 @@
+{
+ "id": "food",
+ "name": "Food",
+ "words": [
+  {
+   "word": "Pizza",
+   "hints": [
+    {
+     "text": "Italian dish",
+     "level": 1
+    },
+    {
+     "text": "Baked food",
+     "level": 1
+    },
+    {
+     "text": "Shared at parties",
+     "level": 2
+    },
+    {
+     "text": "Delivered hot",
+     "level": 2
+    },
+    {
+     "text": "Comes in slices",
+     "level": 3
+    },
+    {
+     "text": "Topped with cheese",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pasta",
+    "Burger",
+    "Calzone"
+   ]
+  },
+  {
+   "word": "Burger",
+   "hints": [
+    {
+     "text": "Fast food",
+     "level": 1
+    },
+    {
+     "text": "Grilled meal",
+     "level": 1
+    },
+    {
+     "text": "Served with fries",
+     "level": 2
+    },
+    {
+     "text": "Backyard barbecue",
+     "level": 2
+    },
+    {
+     "text": "Patty in a bun",
+     "level": 3
+    },
+    {
+     "text": "Topped with pickles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sandwich",
+    "Hot dog",
+    "Taco"
+   ]
+  },
+  {
+   "word": "Pasta",
+   "hints": [
+    {
+     "text": "Italian staple",
+     "level": 1
+    },
+    {
+     "text": "Carb dish",
+     "level": 1
+    },
+    {
+     "text": "Boiled in salted water",
+     "level": 2
+    },
+    {
+     "text": "Many shapes",
+     "level": 2
+    },
+    {
+     "text": "Served with sauce",
+     "level": 3
+    },
+    {
+     "text": "Twirled on forks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Noodles",
+    "Rice",
+    "Risotto"
+   ]
+  },
+  {
+   "word": "Sushi",
+   "hints": [
+    {
+     "text": "Japanese dish",
+     "level": 1
+    },
+    {
+     "text": "Seafood meal",
+     "level": 1
+    },
+    {
+     "text": "Eaten with chopsticks",
+     "level": 2
+    },
+    {
+     "text": "Dipped in soy",
+     "level": 2
+    },
+    {
+     "text": "Raw fish",
+     "level": 3
+    },
+    {
+     "text": "Rolled in seaweed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sashimi",
+    "Dumpling",
+    "Ramen"
+   ]
+  },
+  {
+   "word": "Taco",
+   "hints": [
+    {
+     "text": "Mexican dish",
+     "level": 1
+    },
+    {
+     "text": "Street food",
+     "level": 1
+    },
+    {
+     "text": "Eaten by hand",
+     "level": 2
+    },
+    {
+     "text": "Tuesday favorite",
+     "level": 2
+    },
+    {
+     "text": "Folded tortilla",
+     "level": 3
+    },
+    {
+     "text": "Topped with salsa",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Burrito",
+    "Nachos",
+    "Quesadilla"
+   ]
+  },
+  {
+   "word": "Burrito",
+   "hints": [
+    {
+     "text": "Mexican dish",
+     "level": 1
+    },
+    {
+     "text": "Wrapped meal",
+     "level": 1
+    },
+    {
+     "text": "Big and filling",
+     "level": 2
+    },
+    {
+     "text": "Eaten on the go",
+     "level": 2
+    },
+    {
+     "text": "Rolled tortilla",
+     "level": 3
+    },
+    {
+     "text": "Stuffed with beans",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Taco",
+    "Wrap",
+    "Enchilada"
+   ]
+  },
+  {
+   "word": "Sandwich",
+   "hints": [
+    {
+     "text": "Lunch food",
+     "level": 1
+    },
+    {
+     "text": "Quick meal",
+     "level": 1
+    },
+    {
+     "text": "Packed for picnics",
+     "level": 2
+    },
+    {
+     "text": "Made at home",
+     "level": 2
+    },
+    {
+     "text": "Two slices of bread",
+     "level": 3
+    },
+    {
+     "text": "Filled with layers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Burger",
+    "Wrap",
+    "Toast"
+   ]
+  },
+  {
+   "word": "Hot dog",
+   "hints": [
+    {
+     "text": "Fast food",
+     "level": 1
+    },
+    {
+     "text": "Ballpark snack",
+     "level": 1
+    },
+    {
+     "text": "Sold by street carts",
+     "level": 2
+    },
+    {
+     "text": "Grilled outdoors",
+     "level": 2
+    },
+    {
+     "text": "Sausage in a bun",
+     "level": 3
+    },
+    {
+     "text": "Topped with mustard",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Burger",
+    "Corn dog",
+    "Sandwich"
+   ]
+  },
+  {
+   "word": "Pancake",
+   "hints": [
+    {
+     "text": "Breakfast food",
+     "level": 1
+    },
+    {
+     "text": "Sweet dish",
+     "level": 1
+    },
+    {
+     "text": "Flipped in a pan",
+     "level": 2
+    },
+    {
+     "text": "Weekend treat",
+     "level": 2
+    },
+    {
+     "text": "Stacked high",
+     "level": 3
+    },
+    {
+     "text": "Drizzled with syrup",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Waffle",
+    "Crepe",
+    "French toast"
+   ]
+  },
+  {
+   "word": "Waffle",
+   "hints": [
+    {
+     "text": "Breakfast food",
+     "level": 1
+    },
+    {
+     "text": "Sweet treat",
+     "level": 1
+    },
+    {
+     "text": "Made in an iron",
+     "level": 2
+    },
+    {
+     "text": "Served with berries",
+     "level": 2
+    },
+    {
+     "text": "Grid pattern",
+     "level": 3
+    },
+    {
+     "text": "Crispy squares",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pancake",
+    "Crepe",
+    "Toast"
+   ]
+  },
+  {
+   "word": "Omelette",
+   "hints": [
+    {
+     "text": "Breakfast dish",
+     "level": 1
+    },
+    {
+     "text": "Egg dish",
+     "level": 1
+    },
+    {
+     "text": "Folded in half",
+     "level": 2
+    },
+    {
+     "text": "Quick to cook",
+     "level": 2
+    },
+    {
+     "text": "Filled with cheese",
+     "level": 3
+    },
+    {
+     "text": "Beaten eggs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Scrambled eggs",
+    "Frittata",
+    "Quiche"
+   ]
+  },
+  {
+   "word": "Salad",
+   "hints": [
+    {
+     "text": "Healthy dish",
+     "level": 1
+    },
+    {
+     "text": "Cold dish",
+     "level": 1
+    },
+    {
+     "text": "Tossed in a bowl",
+     "level": 2
+    },
+    {
+     "text": "Light lunch",
+     "level": 2
+    },
+    {
+     "text": "Leafy greens",
+     "level": 3
+    },
+    {
+     "text": "Dressing on top",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Soup",
+    "Coleslaw",
+    "Wrap"
+   ]
+  },
+  {
+   "word": "Soup",
+   "hints": [
+    {
+     "text": "Warm dish",
+     "level": 1
+    },
+    {
+     "text": "Comfort food",
+     "level": 1
+    },
+    {
+     "text": "Eaten with a spoon",
+     "level": 2
+    },
+    {
+     "text": "Good when sick",
+     "level": 2
+    },
+    {
+     "text": "Served in a bowl",
+     "level": 3
+    },
+    {
+     "text": "Simmered for hours",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Stew",
+    "Broth",
+    "Curry"
+   ]
+  },
+  {
+   "word": "Steak",
+   "hints": [
+    {
+     "text": "Meat dish",
+     "level": 1
+    },
+    {
+     "text": "Grilled food",
+     "level": 1
+    },
+    {
+     "text": "Ordered rare or medium",
+     "level": 2
+    },
+    {
+     "text": "Fancy dinner",
+     "level": 2
+    },
+    {
+     "text": "Thick cut of beef",
+     "level": 3
+    },
+    {
+     "text": "Seared outside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Burger",
+    "Chop",
+    "Roast"
+   ]
+  },
+  {
+   "word": "Fried chicken",
+   "hints": [
+    {
+     "text": "Comfort food",
+     "level": 1
+    },
+    {
+     "text": "Crispy dish",
+     "level": 1
+    },
+    {
+     "text": "Southern classic",
+     "level": 2
+    },
+    {
+     "text": "Eaten with fingers",
+     "level": 2
+    },
+    {
+     "text": "Crispy coating",
+     "level": 3
+    },
+    {
+     "text": "Drumsticks and wings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nuggets",
+    "Roast turkey",
+    "Wings"
+   ]
+  },
+  {
+   "word": "Curry",
+   "hints": [
+    {
+     "text": "Spicy dish",
+     "level": 1
+    },
+    {
+     "text": "Saucy dish",
+     "level": 1
+    },
+    {
+     "text": "Served with rice",
+     "level": 2
+    },
+    {
+     "text": "Many regional styles",
+     "level": 2
+    },
+    {
+     "text": "Rich gravy",
+     "level": 3
+    },
+    {
+     "text": "Full of spices",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Stew",
+    "Soup",
+    "Dal"
+   ]
+  },
+  {
+   "word": "Biryani",
+   "hints": [
+    {
+     "text": "Rice dish",
+     "level": 1
+    },
+    {
+     "text": "Festive dish",
+     "level": 1
+    },
+    {
+     "text": "Layered and slow cooked",
+     "level": 2
+    },
+    {
+     "text": "Wedding favorite",
+     "level": 2
+    },
+    {
+     "text": "Fragrant basmati",
+     "level": 3
+    },
+    {
+     "text": "Saffron colored",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pulao",
+    "Fried rice",
+    "Paella"
+   ]
+  },
+  {
+   "word": "Dumpling",
+   "hints": [
+    {
+     "text": "Asian snack",
+     "level": 1
+    },
+    {
+     "text": "Steamed food",
+     "level": 1
+    },
+    {
+     "text": "Folded by hand",
+     "level": 2
+    },
+    {
+     "text": "Lunar new year favorite",
+     "level": 2
+    },
+    {
+     "text": "Dough pocket",
+     "level": 3
+    },
+    {
+     "text": "Filled with meat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ravioli",
+    "Samosa",
+    "Bun"
+   ]
+  },
+  {
+   "word": "Noodles",
+   "hints": [
+    {
+     "text": "Asian staple",
+     "level": 1
+    },
+    {
+     "text": "Long food",
+     "level": 1
+    },
+    {
+     "text": "Slurped loudly",
+     "level": 2
+    },
+    {
+     "text": "Stir fried or boiled",
+     "level": 2
+    },
+    {
+     "text": "Long thin strands",
+     "level": 3
+    },
+    {
+     "text": "Eaten with chopsticks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pasta",
+    "Rice",
+    "Spaghetti"
+   ]
+  },
+  {
+   "word": "Ramen",
+   "hints": [
+    {
+     "text": "Japanese dish",
+     "level": 1
+    },
+    {
+     "text": "Noodle soup",
+     "level": 1
+    },
+    {
+     "text": "Late night meal",
+     "level": 2
+    },
+    {
+     "text": "Instant packets",
+     "level": 2
+    },
+    {
+     "text": "Rich broth",
+     "level": 3
+    },
+    {
+     "text": "Soft boiled egg",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pho",
+    "Udon",
+    "Noodle salad"
+   ]
+  },
+  {
+   "word": "Fried rice",
+   "hints": [
+    {
+     "text": "Asian dish",
+     "level": 1
+    },
+    {
+     "text": "Wok dish",
+     "level": 1
+    },
+    {
+     "text": "Uses leftovers",
+     "level": 2
+    },
+    {
+     "text": "Tossed in a wok",
+     "level": 2
+    },
+    {
+     "text": "Mixed with egg",
+     "level": 3
+    },
+    {
+     "text": "Soy flavored",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Biryani",
+    "Risotto",
+    "Noodles"
+   ]
+  },
+  {
+   "word": "Lasagna",
+   "hints": [
+    {
+     "text": "Italian dish",
+     "level": 1
+    },
+    {
+     "text": "Baked pasta",
+     "level": 1
+    },
+    {
+     "text": "Family dinner",
+     "level": 2
+    },
+    {
+     "text": "Feeds a crowd",
+     "level": 2
+    },
+    {
+     "text": "Layered sheets",
+     "level": 3
+    },
+    {
+     "text": "Meat and cheese",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pizza",
+    "Ravioli",
+    "Moussaka"
+   ]
+  },
+  {
+   "word": "Spaghetti",
+   "hints": [
+    {
+     "text": "Italian dish",
+     "level": 1
+    },
+    {
+     "text": "Pasta type",
+     "level": 1
+    },
+    {
+     "text": "Messy to eat",
+     "level": 2
+    },
+    {
+     "text": "Twirled on forks",
+     "level": 2
+    },
+    {
+     "text": "Long thin strands",
+     "level": 3
+    },
+    {
+     "text": "Meatball partner",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Noodles",
+    "Lasagna",
+    "Macaroni"
+   ]
+  },
+  {
+   "word": "Macaroni",
+   "hints": [
+    {
+     "text": "Pasta type",
+     "level": 1
+    },
+    {
+     "text": "Comfort food",
+     "level": 1
+    },
+    {
+     "text": "Kids love it",
+     "level": 2
+    },
+    {
+     "text": "Baked or boiled",
+     "level": 2
+    },
+    {
+     "text": "Small curved tubes",
+     "level": 3
+    },
+    {
+     "text": "Cheesy sauce",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spaghetti",
+    "Penne",
+    "Noodles"
+   ]
+  },
+  {
+   "word": "Popcorn",
+   "hints": [
+    {
+     "text": "Snack food",
+     "level": 1
+    },
+    {
+     "text": "Movie snack",
+     "level": 1
+    },
+    {
+     "text": "Made in microwave",
+     "level": 2
+    },
+    {
+     "text": "Shared at cinemas",
+     "level": 2
+    },
+    {
+     "text": "Pops when heated",
+     "level": 3
+    },
+    {
+     "text": "Buttery and salty",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chips",
+    "Pretzel",
+    "Nachos"
+   ]
+  },
+  {
+   "word": "French fries",
+   "hints": [
+    {
+     "text": "Side dish",
+     "level": 1
+    },
+    {
+     "text": "Fast food",
+     "level": 1
+    },
+    {
+     "text": "Served with burgers",
+     "level": 2
+    },
+    {
+     "text": "Dipped in ketchup",
+     "level": 2
+    },
+    {
+     "text": "Thin potato sticks",
+     "level": 3
+    },
+    {
+     "text": "Deep fried",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chips",
+    "Wedges",
+    "Hash brown"
+   ]
+  },
+  {
+   "word": "Chips",
+   "hints": [
+    {
+     "text": "Snack food",
+     "level": 1
+    },
+    {
+     "text": "Crunchy snack",
+     "level": 1
+    },
+    {
+     "text": "Comes in bags",
+     "level": 2
+    },
+    {
+     "text": "Party bowl staple",
+     "level": 2
+    },
+    {
+     "text": "Thin potato slices",
+     "level": 3
+    },
+    {
+     "text": "Salty crunch",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Popcorn",
+    "Crackers",
+    "Fries"
+   ]
+  },
+  {
+   "word": "Nachos",
+   "hints": [
+    {
+     "text": "Mexican snack",
+     "level": 1
+    },
+    {
+     "text": "Party food",
+     "level": 1
+    },
+    {
+     "text": "Shared platter",
+     "level": 2
+    },
+    {
+     "text": "Game day snack",
+     "level": 2
+    },
+    {
+     "text": "Melted cheese",
+     "level": 3
+    },
+    {
+     "text": "Tortilla triangles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chips",
+    "Taco",
+    "Popcorn"
+   ]
+  },
+  {
+   "word": "Pretzel",
+   "hints": [
+    {
+     "text": "Baked snack",
+     "level": 1
+    },
+    {
+     "text": "Salty snack",
+     "level": 1
+    },
+    {
+     "text": "Sold at fairs",
+     "level": 2
+    },
+    {
+     "text": "Twisted dough",
+     "level": 2
+    },
+    {
+     "text": "Knot shape",
+     "level": 3
+    },
+    {
+     "text": "Coarse salt crystals",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bagel",
+    "Breadstick",
+    "Cracker"
+   ]
+  },
+  {
+   "word": "Bagel",
+   "hints": [
+    {
+     "text": "Bread roll",
+     "level": 1
+    },
+    {
+     "text": "Breakfast food",
+     "level": 1
+    },
+    {
+     "text": "Boiled then baked",
+     "level": 2
+    },
+    {
+     "text": "Deli favorite",
+     "level": 2
+    },
+    {
+     "text": "Hole in middle",
+     "level": 3
+    },
+    {
+     "text": "Cream cheese spread",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Donut",
+    "Pretzel",
+    "Muffin"
+   ]
+  },
+  {
+   "word": "Croissant",
+   "hints": [
+    {
+     "text": "French pastry",
+     "level": 1
+    },
+    {
+     "text": "Breakfast bake",
+     "level": 1
+    },
+    {
+     "text": "Flaky layers",
+     "level": 2
+    },
+    {
+     "text": "Paired with coffee",
+     "level": 2
+    },
+    {
+     "text": "Crescent shape",
+     "level": 3
+    },
+    {
+     "text": "Very buttery",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bagel",
+    "Danish",
+    "Brioche"
+   ]
+  },
+  {
+   "word": "Donut",
+   "hints": [
+    {
+     "text": "Sweet treat",
+     "level": 1
+    },
+    {
+     "text": "Fried dough",
+     "level": 1
+    },
+    {
+     "text": "Bought by the dozen",
+     "level": 2
+    },
+    {
+     "text": "Police joke",
+     "level": 2
+    },
+    {
+     "text": "Hole in middle",
+     "level": 3
+    },
+    {
+     "text": "Glazed or sprinkled",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bagel",
+    "Muffin",
+    "Cupcake"
+   ]
+  },
+  {
+   "word": "Muffin",
+   "hints": [
+    {
+     "text": "Baked treat",
+     "level": 1
+    },
+    {
+     "text": "Breakfast bake",
+     "level": 1
+    },
+    {
+     "text": "Sold at cafes",
+     "level": 2
+    },
+    {
+     "text": "Made in tins",
+     "level": 2
+    },
+    {
+     "text": "Domed top",
+     "level": 3
+    },
+    {
+     "text": "Blueberry studded",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cupcake",
+    "Scone",
+    "Donut"
+   ]
+  },
+  {
+   "word": "Cupcake",
+   "hints": [
+    {
+     "text": "Sweet treat",
+     "level": 1
+    },
+    {
+     "text": "Party food",
+     "level": 1
+    },
+    {
+     "text": "Birthday favorite",
+     "level": 2
+    },
+    {
+     "text": "Baked in batches",
+     "level": 2
+    },
+    {
+     "text": "Frosted top",
+     "level": 3
+    },
+    {
+     "text": "Paper liner",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Muffin",
+    "Tart",
+    "Brownie"
+   ]
+  },
+  {
+   "word": "Cake",
+   "hints": [
+    {
+     "text": "Dessert",
+     "level": 1
+    },
+    {
+     "text": "Celebration food",
+     "level": 1
+    },
+    {
+     "text": "Birthday centerpiece",
+     "level": 2
+    },
+    {
+     "text": "Cut into slices",
+     "level": 2
+    },
+    {
+     "text": "Layers and frosting",
+     "level": 3
+    },
+    {
+     "text": "Candles on top",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pie",
+    "Brownie",
+    "Tart"
+   ]
+  },
+  {
+   "word": "Pie",
+   "hints": [
+    {
+     "text": "Dessert",
+     "level": 1
+    },
+    {
+     "text": "Baked dish",
+     "level": 1
+    },
+    {
+     "text": "Holiday tradition",
+     "level": 2
+    },
+    {
+     "text": "Cooled on windowsills",
+     "level": 2
+    },
+    {
+     "text": "Flaky crust",
+     "level": 3
+    },
+    {
+     "text": "Fruit filling",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tart",
+    "Cake",
+    "Cobbler"
+   ]
+  },
+  {
+   "word": "Cookie",
+   "hints": [
+    {
+     "text": "Sweet snack",
+     "level": 1
+    },
+    {
+     "text": "Baked treat",
+     "level": 1
+    },
+    {
+     "text": "Dunked in milk",
+     "level": 2
+    },
+    {
+     "text": "Kids love them",
+     "level": 2
+    },
+    {
+     "text": "Chocolate chips",
+     "level": 3
+    },
+    {
+     "text": "Round and crunchy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Biscuit",
+    "Brownie",
+    "Cracker"
+   ]
+  },
+  {
+   "word": "Brownie",
+   "hints": [
+    {
+     "text": "Chocolate treat",
+     "level": 1
+    },
+    {
+     "text": "Baked dessert",
+     "level": 1
+    },
+    {
+     "text": "Gooey center",
+     "level": 2
+    },
+    {
+     "text": "Bake sale favorite",
+     "level": 2
+    },
+    {
+     "text": "Square slab",
+     "level": 3
+    },
+    {
+     "text": "Fudgy texture",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cookie",
+    "Cake",
+    "Fudge"
+   ]
+  },
+  {
+   "word": "Ice cream",
+   "hints": [
+    {
+     "text": "Frozen dessert",
+     "level": 1
+    },
+    {
+     "text": "Summer treat",
+     "level": 1
+    },
+    {
+     "text": "Sold by trucks",
+     "level": 2
+    },
+    {
+     "text": "Melts quickly",
+     "level": 2
+    },
+    {
+     "text": "Served in cones",
+     "level": 3
+    },
+    {
+     "text": "Many flavors",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Frozen yogurt",
+    "Sorbet",
+    "Gelato"
+   ]
+  },
+  {
+   "word": "Chocolate",
+   "hints": [
+    {
+     "text": "Sweet treat",
+     "level": 1
+    },
+    {
+     "text": "Cocoa product",
+     "level": 1
+    },
+    {
+     "text": "Valentine gift",
+     "level": 2
+    },
+    {
+     "text": "Melts in hand",
+     "level": 2
+    },
+    {
+     "text": "Comes in bars",
+     "level": 3
+    },
+    {
+     "text": "Dark or milk",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Candy",
+    "Caramel",
+    "Fudge"
+   ]
+  },
+  {
+   "word": "Candy",
+   "hints": [
+    {
+     "text": "Sweet treat",
+     "level": 1
+    },
+    {
+     "text": "Sugary snack",
+     "level": 1
+    },
+    {
+     "text": "Halloween haul",
+     "level": 2
+    },
+    {
+     "text": "Bad for teeth",
+     "level": 2
+    },
+    {
+     "text": "Colorful wrappers",
+     "level": 3
+    },
+    {
+     "text": "Lollipops and gummies",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chocolate",
+    "Gum",
+    "Toffee"
+   ]
+  },
+  {
+   "word": "Cheese",
+   "hints": [
+    {
+     "text": "Dairy product",
+     "level": 1
+    },
+    {
+     "text": "Aged food",
+     "level": 1
+    },
+    {
+     "text": "Made from milk",
+     "level": 2
+    },
+    {
+     "text": "Many varieties",
+     "level": 2
+    },
+    {
+     "text": "Holes in some types",
+     "level": 3
+    },
+    {
+     "text": "Melts on pizza",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Butter",
+    "Yogurt",
+    "Tofu"
+   ]
+  },
+  {
+   "word": "Bread",
+   "hints": [
+    {
+     "text": "Staple food",
+     "level": 1
+    },
+    {
+     "text": "Baked good",
+     "level": 1
+    },
+    {
+     "text": "Made from flour",
+     "level": 2
+    },
+    {
+     "text": "Rises with yeast",
+     "level": 2
+    },
+    {
+     "text": "Comes in loaves",
+     "level": 3
+    },
+    {
+     "text": "Sliced for toast",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cake",
+    "Biscuit",
+    "Bun"
+   ]
+  },
+  {
+   "word": "Toast",
+   "hints": [
+    {
+     "text": "Breakfast food",
+     "level": 1
+    },
+    {
+     "text": "Simple snack",
+     "level": 1
+    },
+    {
+     "text": "Browned in a slot",
+     "level": 2
+    },
+    {
+     "text": "Spread with butter",
+     "level": 2
+    },
+    {
+     "text": "Golden brown",
+     "level": 3
+    },
+    {
+     "text": "Crunchy bread slice",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bread",
+    "Cracker",
+    "Waffle"
+   ]
+  },
+  {
+   "word": "Butter",
+   "hints": [
+    {
+     "text": "Dairy product",
+     "level": 1
+    },
+    {
+     "text": "Spread",
+     "level": 1
+    },
+    {
+     "text": "Churned from cream",
+     "level": 2
+    },
+    {
+     "text": "Used in baking",
+     "level": 2
+    },
+    {
+     "text": "Melts on toast",
+     "level": 3
+    },
+    {
+     "text": "Comes in sticks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cheese",
+    "Margarine",
+    "Jam"
+   ]
+  },
+  {
+   "word": "Yogurt",
+   "hints": [
+    {
+     "text": "Dairy product",
+     "level": 1
+    },
+    {
+     "text": "Healthy snack",
+     "level": 1
+    },
+    {
+     "text": "Eaten with spoon",
+     "level": 2
+    },
+    {
+     "text": "Has live cultures",
+     "level": 2
+    },
+    {
+     "text": "Tangy and creamy",
+     "level": 3
+    },
+    {
+     "text": "Topped with granola",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pudding",
+    "Cream",
+    "Cheese"
+   ]
+  },
+  {
+   "word": "Egg",
+   "hints": [
+    {
+     "text": "Breakfast staple",
+     "level": 1
+    },
+    {
+     "text": "Protein food",
+     "level": 1
+    },
+    {
+     "text": "Laid by hens",
+     "level": 2
+    },
+    {
+     "text": "Boiled or fried",
+     "level": 2
+    },
+    {
+     "text": "Yolk and white",
+     "level": 3
+    },
+    {
+     "text": "Fragile shell",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bacon",
+    "Toast",
+    "Pancake"
+   ]
+  },
+  {
+   "word": "Bacon",
+   "hints": [
+    {
+     "text": "Breakfast meat",
+     "level": 1
+    },
+    {
+     "text": "Pork product",
+     "level": 1
+    },
+    {
+     "text": "Sizzles in pan",
+     "level": 2
+    },
+    {
+     "text": "Smells amazing",
+     "level": 2
+    },
+    {
+     "text": "Crispy strips",
+     "level": 3
+    },
+    {
+     "text": "Salty and smoky",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ham",
+    "Sausage",
+    "Jerky"
+   ]
+  },
+  {
+   "word": "Sausage",
+   "hints": [
+    {
+     "text": "Meat product",
+     "level": 1
+    },
+    {
+     "text": "Grilled food",
+     "level": 1
+    },
+    {
+     "text": "Served at barbecues",
+     "level": 2
+    },
+    {
+     "text": "Breakfast side",
+     "level": 2
+    },
+    {
+     "text": "Stuffed casing",
+     "level": 3
+    },
+    {
+     "text": "Long and plump",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hot dog",
+    "Bacon",
+    "Salami"
+   ]
+  },
+  {
+   "word": "Ham",
+   "hints": [
+    {
+     "text": "Pork product",
+     "level": 1
+    },
+    {
+     "text": "Deli meat",
+     "level": 1
+    },
+    {
+     "text": "Holiday roast",
+     "level": 2
+    },
+    {
+     "text": "Sandwich filler",
+     "level": 2
+    },
+    {
+     "text": "Pink slices",
+     "level": 3
+    },
+    {
+     "text": "Glazed and baked",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bacon",
+    "Turkey",
+    "Salami"
+   ]
+  },
+  {
+   "word": "Meatball",
+   "hints": [
+    {
+     "text": "Italian favorite",
+     "level": 1
+    },
+    {
+     "text": "Comfort food",
+     "level": 1
+    },
+    {
+     "text": "Served with spaghetti",
+     "level": 2
+    },
+    {
+     "text": "Grandma recipe",
+     "level": 2
+    },
+    {
+     "text": "Round and saucy",
+     "level": 3
+    },
+    {
+     "text": "Rolled by hand",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Burger",
+    "Dumpling",
+    "Sausage"
+   ]
+  },
+  {
+   "word": "Kebab",
+   "hints": [
+    {
+     "text": "Grilled food",
+     "level": 1
+    },
+    {
+     "text": "Street food",
+     "level": 1
+    },
+    {
+     "text": "Middle eastern classic",
+     "level": 2
+    },
+    {
+     "text": "Late night snack",
+     "level": 2
+    },
+    {
+     "text": "Meat on skewers",
+     "level": 3
+    },
+    {
+     "text": "Charred edges",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shawarma",
+    "Burger",
+    "Taco"
+   ]
+  },
+  {
+   "word": "Falafel",
+   "hints": [
+    {
+     "text": "Middle eastern food",
+     "level": 1
+    },
+    {
+     "text": "Vegan snack",
+     "level": 1
+    },
+    {
+     "text": "Stuffed in pita",
+     "level": 2
+    },
+    {
+     "text": "Street food",
+     "level": 2
+    },
+    {
+     "text": "Fried chickpea balls",
+     "level": 3
+    },
+    {
+     "text": "Green inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hummus",
+    "Kebab",
+    "Samosa"
+   ]
+  },
+  {
+   "word": "Hummus",
+   "hints": [
+    {
+     "text": "Dip",
+     "level": 1
+    },
+    {
+     "text": "Middle eastern food",
+     "level": 1
+    },
+    {
+     "text": "Eaten with pita",
+     "level": 2
+    },
+    {
+     "text": "Healthy snack",
+     "level": 2
+    },
+    {
+     "text": "Chickpea paste",
+     "level": 3
+    },
+    {
+     "text": "Drizzled with oil",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Guacamole",
+    "Salsa",
+    "Falafel"
+   ]
+  },
+  {
+   "word": "Guacamole",
+   "hints": [
+    {
+     "text": "Mexican dip",
+     "level": 1
+    },
+    {
+     "text": "Green dip",
+     "level": 1
+    },
+    {
+     "text": "Served with chips",
+     "level": 2
+    },
+    {
+     "text": "Party favorite",
+     "level": 2
+    },
+    {
+     "text": "Mashed avocado",
+     "level": 3
+    },
+    {
+     "text": "Lime and cilantro",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Salsa",
+    "Hummus",
+    "Pesto"
+   ]
+  },
+  {
+   "word": "Salsa",
+   "hints": [
+    {
+     "text": "Mexican dip",
+     "level": 1
+    },
+    {
+     "text": "Spicy sauce",
+     "level": 1
+    },
+    {
+     "text": "Served with chips",
+     "level": 2
+    },
+    {
+     "text": "Mild or hot",
+     "level": 2
+    },
+    {
+     "text": "Chopped tomatoes",
+     "level": 3
+    },
+    {
+     "text": "Onion and chili",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Guacamole",
+    "Ketchup",
+    "Chutney"
+   ]
+  },
+  {
+   "word": "Ketchup",
+   "hints": [
+    {
+     "text": "Condiment",
+     "level": 1
+    },
+    {
+     "text": "Red sauce",
+     "level": 1
+    },
+    {
+     "text": "Goes on fries",
+     "level": 2
+    },
+    {
+     "text": "Squeezed from bottles",
+     "level": 2
+    },
+    {
+     "text": "Tomato based",
+     "level": 3
+    },
+    {
+     "text": "Sweet and tangy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mustard",
+    "Mayo",
+    "Salsa"
+   ]
+  },
+  {
+   "word": "Mustard",
+   "hints": [
+    {
+     "text": "Condiment",
+     "level": 1
+    },
+    {
+     "text": "Yellow sauce",
+     "level": 1
+    },
+    {
+     "text": "Goes on hot dogs",
+     "level": 2
+    },
+    {
+     "text": "Tangy flavor",
+     "level": 2
+    },
+    {
+     "text": "Made from seeds",
+     "level": 3
+    },
+    {
+     "text": "Bright yellow",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ketchup",
+    "Mayo",
+    "Relish"
+   ]
+  },
+  {
+   "word": "Mayonnaise",
+   "hints": [
+    {
+     "text": "Condiment",
+     "level": 1
+    },
+    {
+     "text": "Creamy sauce",
+     "level": 1
+    },
+    {
+     "text": "Sandwich spread",
+     "level": 2
+    },
+    {
+     "text": "Base for dressings",
+     "level": 2
+    },
+    {
+     "text": "Whipped egg and oil",
+     "level": 3
+    },
+    {
+     "text": "Pale white",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mustard",
+    "Ketchup",
+    "Aioli"
+   ]
+  },
+  {
+   "word": "Honey",
+   "hints": [
+    {
+     "text": "Sweetener",
+     "level": 1
+    },
+    {
+     "text": "Natural syrup",
+     "level": 1
+    },
+    {
+     "text": "Made by bees",
+     "level": 2
+    },
+    {
+     "text": "Never spoils",
+     "level": 2
+    },
+    {
+     "text": "Golden and sticky",
+     "level": 3
+    },
+    {
+     "text": "Stirred into tea",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Syrup",
+    "Jam",
+    "Sugar"
+   ]
+  },
+  {
+   "word": "Jam",
+   "hints": [
+    {
+     "text": "Fruit spread",
+     "level": 1
+    },
+    {
+     "text": "Sweet spread",
+     "level": 1
+    },
+    {
+     "text": "Spread on toast",
+     "level": 2
+    },
+    {
+     "text": "Homemade in jars",
+     "level": 2
+    },
+    {
+     "text": "Cooked fruit and sugar",
+     "level": 3
+    },
+    {
+     "text": "Sticky and sweet",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Honey",
+    "Jelly",
+    "Marmalade"
+   ]
+  },
+  {
+   "word": "Peanut butter",
+   "hints": [
+    {
+     "text": "Spread",
+     "level": 1
+    },
+    {
+     "text": "Nut product",
+     "level": 1
+    },
+    {
+     "text": "Sandwich classic",
+     "level": 2
+    },
+    {
+     "text": "Sticks to mouth",
+     "level": 2
+    },
+    {
+     "text": "Creamy or crunchy",
+     "level": 3
+    },
+    {
+     "text": "Paired with jelly",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nutella",
+    "Jam",
+    "Hummus"
+   ]
+  },
+  {
+   "word": "Cereal",
+   "hints": [
+    {
+     "text": "Breakfast food",
+     "level": 1
+    },
+    {
+     "text": "Boxed food",
+     "level": 1
+    },
+    {
+     "text": "Poured with milk",
+     "level": 2
+    },
+    {
+     "text": "Cartoon mascots",
+     "level": 2
+    },
+    {
+     "text": "Crunchy flakes",
+     "level": 3
+    },
+    {
+     "text": "Eaten from bowls",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Oatmeal",
+    "Granola",
+    "Toast"
+   ]
+  },
+  {
+   "word": "Oatmeal",
+   "hints": [
+    {
+     "text": "Breakfast food",
+     "level": 1
+    },
+    {
+     "text": "Warm porridge",
+     "level": 1
+    },
+    {
+     "text": "Healthy start",
+     "level": 2
+    },
+    {
+     "text": "Cooked with milk",
+     "level": 2
+    },
+    {
+     "text": "Rolled oats",
+     "level": 3
+    },
+    {
+     "text": "Topped with fruit",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cereal",
+    "Porridge",
+    "Granola"
+   ]
+  },
+  {
+   "word": "Rice",
+   "hints": [
+    {
+     "text": "Staple grain",
+     "level": 1
+    },
+    {
+     "text": "Side dish",
+     "level": 1
+    },
+    {
+     "text": "Eaten worldwide",
+     "level": 2
+    },
+    {
+     "text": "Cooked in water",
+     "level": 2
+    },
+    {
+     "text": "Tiny white grains",
+     "level": 3
+    },
+    {
+     "text": "Served with curry",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Noodles",
+    "Quinoa",
+    "Couscous"
+   ]
+  },
+  {
+   "word": "Tofu",
+   "hints": [
+    {
+     "text": "Plant protein",
+     "level": 1
+    },
+    {
+     "text": "Soy product",
+     "level": 1
+    },
+    {
+     "text": "Vegetarian favorite",
+     "level": 2
+    },
+    {
+     "text": "Takes on flavors",
+     "level": 2
+    },
+    {
+     "text": "White blocks",
+     "level": 3
+    },
+    {
+     "text": "Soft or firm",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Paneer",
+    "Cheese",
+    "Tempeh"
+   ]
+  },
+  {
+   "word": "Paneer",
+   "hints": [
+    {
+     "text": "Indian cheese",
+     "level": 1
+    },
+    {
+     "text": "Dairy product",
+     "level": 1
+    },
+    {
+     "text": "Vegetarian favorite",
+     "level": 2
+    },
+    {
+     "text": "Used in curries",
+     "level": 2
+    },
+    {
+     "text": "Soft white cubes",
+     "level": 3
+    },
+    {
+     "text": "Does not melt",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tofu",
+    "Cheese",
+    "Ricotta"
+   ]
+  },
+  {
+   "word": "Samosa",
+   "hints": [
+    {
+     "text": "Indian snack",
+     "level": 1
+    },
+    {
+     "text": "Fried snack",
+     "level": 1
+    },
+    {
+     "text": "Tea time treat",
+     "level": 2
+    },
+    {
+     "text": "Street food",
+     "level": 2
+    },
+    {
+     "text": "Triangle pastry",
+     "level": 3
+    },
+    {
+     "text": "Spiced potato filling",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spring roll",
+    "Dumpling",
+    "Pakora"
+   ]
+  },
+  {
+   "word": "Dosa",
+   "hints": [
+    {
+     "text": "South indian dish",
+     "level": 1
+    },
+    {
+     "text": "Breakfast dish",
+     "level": 1
+    },
+    {
+     "text": "Served with chutney",
+     "level": 2
+    },
+    {
+     "text": "Paired with sambar",
+     "level": 2
+    },
+    {
+     "text": "Thin crispy crepe",
+     "level": 3
+    },
+    {
+     "text": "Fermented batter",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Idli",
+    "Pancake",
+    "Uttapam"
+   ]
+  },
+  {
+   "word": "Idli",
+   "hints": [
+    {
+     "text": "South indian dish",
+     "level": 1
+    },
+    {
+     "text": "Breakfast food",
+     "level": 1
+    },
+    {
+     "text": "Served with sambar",
+     "level": 2
+    },
+    {
+     "text": "Light and healthy",
+     "level": 2
+    },
+    {
+     "text": "Steamed rice cakes",
+     "level": 3
+    },
+    {
+     "text": "Soft and fluffy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dosa",
+    "Dumpling",
+    "Dhokla"
+   ]
+  },
+  {
+   "word": "Naan",
+   "hints": [
+    {
+     "text": "Flatbread",
+     "level": 1
+    },
+    {
+     "text": "Indian bread",
+     "level": 1
+    },
+    {
+     "text": "Baked in tandoor",
+     "level": 2
+    },
+    {
+     "text": "Eaten with curry",
+     "level": 2
+    },
+    {
+     "text": "Soft and chewy",
+     "level": 3
+    },
+    {
+     "text": "Brushed with butter",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Roti",
+    "Pita",
+    "Paratha"
+   ]
+  },
+  {
+   "word": "Roti",
+   "hints": [
+    {
+     "text": "Flatbread",
+     "level": 1
+    },
+    {
+     "text": "Indian staple",
+     "level": 1
+    },
+    {
+     "text": "Made at home daily",
+     "level": 2
+    },
+    {
+     "text": "Eaten with dal",
+     "level": 2
+    },
+    {
+     "text": "Whole wheat",
+     "level": 3
+    },
+    {
+     "text": "Puffs on flame",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Naan",
+    "Paratha",
+    "Tortilla"
+   ]
+  },
+  {
+   "word": "Paratha",
+   "hints": [
+    {
+     "text": "Flatbread",
+     "level": 1
+    },
+    {
+     "text": "Indian breakfast",
+     "level": 1
+    },
+    {
+     "text": "Stuffed with potato",
+     "level": 2
+    },
+    {
+     "text": "Served with pickle",
+     "level": 2
+    },
+    {
+     "text": "Flaky layers",
+     "level": 3
+    },
+    {
+     "text": "Pan fried",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Roti",
+    "Naan",
+    "Kulcha"
+   ]
+  },
+  {
+   "word": "Dal",
+   "hints": [
+    {
+     "text": "Lentil dish",
+     "level": 1
+    },
+    {
+     "text": "Indian staple",
+     "level": 1
+    },
+    {
+     "text": "Everyday comfort food",
+     "level": 2
+    },
+    {
+     "text": "Served with rice",
+     "level": 2
+    },
+    {
+     "text": "Yellow and soupy",
+     "level": 3
+    },
+    {
+     "text": "Tempered spices",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Curry",
+    "Soup",
+    "Sambar"
+   ]
+  },
+  {
+   "word": "Sambar",
+   "hints": [
+    {
+     "text": "South indian dish",
+     "level": 1
+    },
+    {
+     "text": "Lentil stew",
+     "level": 1
+    },
+    {
+     "text": "Served with idli",
+     "level": 2
+    },
+    {
+     "text": "Tangy and spicy",
+     "level": 2
+    },
+    {
+     "text": "Tamarind base",
+     "level": 3
+    },
+    {
+     "text": "Drumstick vegetable",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dal",
+    "Rasam",
+    "Curry"
+   ]
+  },
+  {
+   "word": "Pav bhaji",
+   "hints": [
+    {
+     "text": "Street food",
+     "level": 1
+    },
+    {
+     "text": "Indian dish",
+     "level": 1
+    },
+    {
+     "text": "Mumbai favorite",
+     "level": 2
+    },
+    {
+     "text": "Spicy and buttery",
+     "level": 2
+    },
+    {
+     "text": "Mashed vegetable curry",
+     "level": 3
+    },
+    {
+     "text": "Soft bread rolls",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Vada pav",
+    "Misal",
+    "Chole"
+   ]
+  },
+  {
+   "word": "Chole",
+   "hints": [
+    {
+     "text": "Indian dish",
+     "level": 1
+    },
+    {
+     "text": "Chickpea curry",
+     "level": 1
+    },
+    {
+     "text": "Paired with bhature",
+     "level": 2
+    },
+    {
+     "text": "Spicy and hearty",
+     "level": 2
+    },
+    {
+     "text": "Tangy gravy",
+     "level": 3
+    },
+    {
+     "text": "Dark spices",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dal",
+    "Rajma",
+    "Curry"
+   ]
+  },
+  {
+   "word": "Gulab jamun",
+   "hints": [
+    {
+     "text": "Indian sweet",
+     "level": 1
+    },
+    {
+     "text": "Festive dessert",
+     "level": 1
+    },
+    {
+     "text": "Served warm",
+     "level": 2
+    },
+    {
+     "text": "Wedding favorite",
+     "level": 2
+    },
+    {
+     "text": "Fried dough balls",
+     "level": 3
+    },
+    {
+     "text": "Soaked in syrup",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rasgulla",
+    "Jalebi",
+    "Donut"
+   ]
+  },
+  {
+   "word": "Jalebi",
+   "hints": [
+    {
+     "text": "Indian sweet",
+     "level": 1
+    },
+    {
+     "text": "Fried dessert",
+     "level": 1
+    },
+    {
+     "text": "Festive treat",
+     "level": 2
+    },
+    {
+     "text": "Street sweet",
+     "level": 2
+    },
+    {
+     "text": "Orange spirals",
+     "level": 3
+    },
+    {
+     "text": "Dipped in syrup",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gulab jamun",
+    "Churro",
+    "Funnel cake"
+   ]
+  },
+  {
+   "word": "Kheer",
+   "hints": [
+    {
+     "text": "Indian dessert",
+     "level": 1
+    },
+    {
+     "text": "Milk pudding",
+     "level": 1
+    },
+    {
+     "text": "Festive sweet",
+     "level": 2
+    },
+    {
+     "text": "Served chilled or warm",
+     "level": 2
+    },
+    {
+     "text": "Rice cooked in milk",
+     "level": 3
+    },
+    {
+     "text": "Cardamom flavored",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pudding",
+    "Halwa",
+    "Custard"
+   ]
+  },
+  {
+   "word": "Halwa",
+   "hints": [
+    {
+     "text": "Indian dessert",
+     "level": 1
+    },
+    {
+     "text": "Sweet dish",
+     "level": 1
+    },
+    {
+     "text": "Temple offering",
+     "level": 2
+    },
+    {
+     "text": "Winter treat",
+     "level": 2
+    },
+    {
+     "text": "Made with ghee",
+     "level": 3
+    },
+    {
+     "text": "Carrot or semolina",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kheer",
+    "Fudge",
+    "Ladoo"
+   ]
+  },
+  {
+   "word": "Pudding",
+   "hints": [
+    {
+     "text": "Dessert",
+     "level": 1
+    },
+    {
+     "text": "Soft sweet",
+     "level": 1
+    },
+    {
+     "text": "Served in cups",
+     "level": 2
+    },
+    {
+     "text": "Kids snack",
+     "level": 2
+    },
+    {
+     "text": "Creamy and wobbly",
+     "level": 3
+    },
+    {
+     "text": "Chocolate or vanilla",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Custard",
+    "Jelly",
+    "Yogurt"
+   ]
+  },
+  {
+   "word": "Custard",
+   "hints": [
+    {
+     "text": "Dessert",
+     "level": 1
+    },
+    {
+     "text": "Creamy sweet",
+     "level": 1
+    },
+    {
+     "text": "Served with pie",
+     "level": 2
+    },
+    {
+     "text": "Made from eggs",
+     "level": 2
+    },
+    {
+     "text": "Smooth and yellow",
+     "level": 3
+    },
+    {
+     "text": "Vanilla flavored",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pudding",
+    "Cream",
+    "Flan"
+   ]
+  },
+  {
+   "word": "Jelly",
+   "hints": [
+    {
+     "text": "Dessert",
+     "level": 1
+    },
+    {
+     "text": "Wobbly treat",
+     "level": 1
+    },
+    {
+     "text": "Party favorite",
+     "level": 2
+    },
+    {
+     "text": "Set in molds",
+     "level": 2
+    },
+    {
+     "text": "Jiggles on plate",
+     "level": 3
+    },
+    {
+     "text": "Fruit flavored",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pudding",
+    "Custard",
+    "Jam"
+   ]
+  },
+  {
+   "word": "Granola",
+   "hints": [
+    {
+     "text": "Breakfast food",
+     "level": 1
+    },
+    {
+     "text": "Healthy snack",
+     "level": 1
+    },
+    {
+     "text": "Hiking snack",
+     "level": 2
+    },
+    {
+     "text": "Eaten with yogurt",
+     "level": 2
+    },
+    {
+     "text": "Toasted oats",
+     "level": 3
+    },
+    {
+     "text": "Clusters with nuts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cereal",
+    "Oatmeal",
+    "Trail mix"
+   ]
+  },
+  {
+   "word": "Trail mix",
+   "hints": [
+    {
+     "text": "Crunchy snack",
+     "level": 1
+    },
+    {
+     "text": "Hiking snack",
+     "level": 1
+    },
+    {
+     "text": "Eaten by handfuls",
+     "level": 2
+    },
+    {
+     "text": "Energy booster",
+     "level": 2
+    },
+    {
+     "text": "Nuts and raisins",
+     "level": 3
+    },
+    {
+     "text": "Chocolate bits",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Granola",
+    "Popcorn",
+    "Chips"
+   ]
+  },
+  {
+   "word": "Crackers",
+   "hints": [
+    {
+     "text": "Snack food",
+     "level": 1
+    },
+    {
+     "text": "Dry biscuit",
+     "level": 1
+    },
+    {
+     "text": "Paired with cheese",
+     "level": 2
+    },
+    {
+     "text": "Soup topper",
+     "level": 2
+    },
+    {
+     "text": "Thin and crisp",
+     "level": 3
+    },
+    {
+     "text": "Salted squares",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chips",
+    "Cookie",
+    "Pretzel"
+   ]
+  },
+  {
+   "word": "Spring roll",
+   "hints": [
+    {
+     "text": "Asian snack",
+     "level": 1
+    },
+    {
+     "text": "Fried appetizer",
+     "level": 1
+    },
+    {
+     "text": "Dipped in sweet sauce",
+     "level": 2
+    },
+    {
+     "text": "Party starter",
+     "level": 2
+    },
+    {
+     "text": "Crispy wrapper",
+     "level": 3
+    },
+    {
+     "text": "Vegetable filling",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Samosa",
+    "Dumpling",
+    "Egg roll"
+   ]
+  },
+  {
+   "word": "Quesadilla",
+   "hints": [
+    {
+     "text": "Mexican dish",
+     "level": 1
+    },
+    {
+     "text": "Cheesy snack",
+     "level": 1
+    },
+    {
+     "text": "Grilled and folded",
+     "level": 2
+    },
+    {
+     "text": "Cut into wedges",
+     "level": 2
+    },
+    {
+     "text": "Melted cheese inside",
+     "level": 3
+    },
+    {
+     "text": "Toasted tortilla",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Taco",
+    "Burrito",
+    "Panini"
+   ]
+  },
+  {
+   "word": "Paella",
+   "hints": [
+    {
+     "text": "Spanish dish",
+     "level": 1
+    },
+    {
+     "text": "Rice dish",
+     "level": 1
+    },
+    {
+     "text": "Wide shallow pan",
+     "level": 2
+    },
+    {
+     "text": "Shared feast",
+     "level": 2
+    },
+    {
+     "text": "Saffron rice",
+     "level": 3
+    },
+    {
+     "text": "Seafood topped",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Risotto",
+    "Biryani",
+    "Jambalaya"
+   ]
+  },
+  {
+   "word": "Risotto",
+   "hints": [
+    {
+     "text": "Italian dish",
+     "level": 1
+    },
+    {
+     "text": "Rice dish",
+     "level": 1
+    },
+    {
+     "text": "Stirred constantly",
+     "level": 2
+    },
+    {
+     "text": "Slow cooked",
+     "level": 2
+    },
+    {
+     "text": "Creamy texture",
+     "level": 3
+    },
+    {
+     "text": "Arborio grains",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Paella",
+    "Pasta",
+    "Porridge"
+   ]
+  },
+  {
+   "word": "Stew",
+   "hints": [
+    {
+     "text": "Hearty dish",
+     "level": 1
+    },
+    {
+     "text": "Slow food",
+     "level": 1
+    },
+    {
+     "text": "Simmered for hours",
+     "level": 2
+    },
+    {
+     "text": "Winter comfort",
+     "level": 2
+    },
+    {
+     "text": "Chunks of meat",
+     "level": 3
+    },
+    {
+     "text": "Thick broth",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Soup",
+    "Curry",
+    "Chili"
+   ]
+  },
+  {
+   "word": "Chili",
+   "hints": [
+    {
+     "text": "Spicy dish",
+     "level": 1
+    },
+    {
+     "text": "Stew",
+     "level": 1
+    },
+    {
+     "text": "Cooked in big pots",
+     "level": 2
+    },
+    {
+     "text": "Cook off contests",
+     "level": 2
+    },
+    {
+     "text": "Beans and minced meat",
+     "level": 3
+    },
+    {
+     "text": "Topped with cheese",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Stew",
+    "Curry",
+    "Soup"
+   ]
+  },
+  {
+   "word": "Barbecue",
+   "hints": [
+    {
+     "text": "Outdoor cooking",
+     "level": 1
+    },
+    {
+     "text": "Grilled food",
+     "level": 1
+    },
+    {
+     "text": "Summer party",
+     "level": 2
+    },
+    {
+     "text": "Smoky flavors",
+     "level": 2
+    },
+    {
+     "text": "Charcoal grill",
+     "level": 3
+    },
+    {
+     "text": "Basted ribs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Picnic",
+    "Roast",
+    "Kebab"
+   ]
+  },
+  {
+   "word": "Roast chicken",
+   "hints": [
+    {
+     "text": "Sunday dinner",
+     "level": 1
+    },
+    {
+     "text": "Oven dish",
+     "level": 1
+    },
+    {
+     "text": "Family meal",
+     "level": 2
+    },
+    {
+     "text": "Carved at the table",
+     "level": 2
+    },
+    {
+     "text": "Golden skin",
+     "level": 3
+    },
+    {
+     "text": "Stuffed and baked",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fried chicken",
+    "Turkey",
+    "Duck"
+   ]
+  },
+  {
+   "word": "Fish fingers",
+   "hints": [
+    {
+     "text": "Frozen food",
+     "level": 1
+    },
+    {
+     "text": "Kids meal",
+     "level": 1
+    },
+    {
+     "text": "Oven baked",
+     "level": 2
+    },
+    {
+     "text": "Served with peas",
+     "level": 2
+    },
+    {
+     "text": "Breaded strips",
+     "level": 3
+    },
+    {
+     "text": "Dipped in ketchup",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nuggets",
+    "Burger",
+    "Kebab"
+   ]
+  },
+  {
+   "word": "Shawarma",
+   "hints": [
+    {
+     "text": "Middle eastern food",
+     "level": 1
+    },
+    {
+     "text": "Street food",
+     "level": 1
+    },
+    {
+     "text": "Late night snack",
+     "level": 2
+    },
+    {
+     "text": "Rolled in flatbread",
+     "level": 2
+    },
+    {
+     "text": "Meat shaved from spit",
+     "level": 3
+    },
+    {
+     "text": "Garlic sauce",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kebab",
+    "Gyro",
+    "Burrito"
+   ]
+  },
+  {
+   "word": "Gyro",
+   "hints": [
+    {
+     "text": "Greek food",
+     "level": 1
+    },
+    {
+     "text": "Street wrap",
+     "level": 1
+    },
+    {
+     "text": "Eaten on the go",
+     "level": 2
+    },
+    {
+     "text": "Rolled in pita",
+     "level": 2
+    },
+    {
+     "text": "Rotating meat spit",
+     "level": 3
+    },
+    {
+     "text": "Yogurt sauce",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shawarma",
+    "Kebab",
+    "Taco"
+   ]
+  },
+  {
+   "word": "Pho",
+   "hints": [
+    {
+     "text": "Vietnamese soup",
+     "level": 1
+    },
+    {
+     "text": "Noodle dish",
+     "level": 1
+    },
+    {
+     "text": "Fragrant broth",
+     "level": 2
+    },
+    {
+     "text": "Street stall favorite",
+     "level": 2
+    },
+    {
+     "text": "Rice noodles",
+     "level": 3
+    },
+    {
+     "text": "Fresh herbs on top",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ramen",
+    "Udon",
+    "Laksa"
+   ]
+  },
+  {
+   "word": "Tempura",
+   "hints": [
+    {
+     "text": "Japanese dish",
+     "level": 1
+    },
+    {
+     "text": "Fried food",
+     "level": 1
+    },
+    {
+     "text": "Light and crispy",
+     "level": 2
+    },
+    {
+     "text": "Dipped in sauce",
+     "level": 2
+    },
+    {
+     "text": "Battered shrimp",
+     "level": 3
+    },
+    {
+     "text": "Fried vegetables",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sushi",
+    "Katsu",
+    "Pakora"
+   ]
+  },
+  {
+   "word": "Pakora",
+   "hints": [
+    {
+     "text": "Indian snack",
+     "level": 1
+    },
+    {
+     "text": "Fried fritter",
+     "level": 1
+    },
+    {
+     "text": "Rainy day snack",
+     "level": 2
+    },
+    {
+     "text": "Served with chai",
+     "level": 2
+    },
+    {
+     "text": "Chickpea batter",
+     "level": 3
+    },
+    {
+     "text": "Onion or spinach",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Samosa",
+    "Tempura",
+    "Bhaji"
+   ]
+  },
+  {
+   "word": "Corn dog",
+   "hints": [
+    {
+     "text": "Fair food",
+     "level": 1
+    },
+    {
+     "text": "Fried snack",
+     "level": 1
+    },
+    {
+     "text": "Sold at carnivals",
+     "level": 2
+    },
+    {
+     "text": "Eaten on a stick",
+     "level": 2
+    },
+    {
+     "text": "Battered sausage",
+     "level": 3
+    },
+    {
+     "text": "Dipped in mustard",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hot dog",
+    "Pretzel",
+    "Kebab"
+   ]
+  },
+  {
+   "word": "Meatloaf",
+   "hints": [
+    {
+     "text": "Comfort food",
+     "level": 1
+    },
+    {
+     "text": "Baked dish",
+     "level": 1
+    },
+    {
+     "text": "Family dinner",
+     "level": 2
+    },
+    {
+     "text": "Sliced and served",
+     "level": 2
+    },
+    {
+     "text": "Minced beef block",
+     "level": 3
+    },
+    {
+     "text": "Ketchup glaze",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Meatball",
+    "Burger",
+    "Shepherd pie"
+   ]
+  },
+  {
+   "word": "Mashed potato",
+   "hints": [
+    {
+     "text": "Side dish",
+     "level": 1
+    },
+    {
+     "text": "Comfort food",
+     "level": 1
+    },
+    {
+     "text": "Holiday dinner side",
+     "level": 2
+    },
+    {
+     "text": "Served with gravy",
+     "level": 2
+    },
+    {
+     "text": "Creamy and smooth",
+     "level": 3
+    },
+    {
+     "text": "Whipped with butter",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fries",
+    "Hash brown",
+    "Gnocchi"
+   ]
+  },
+  {
+   "word": "Gravy",
+   "hints": [
+    {
+     "text": "Sauce",
+     "level": 1
+    },
+    {
+     "text": "Savory topping",
+     "level": 1
+    },
+    {
+     "text": "Poured over roast",
+     "level": 2
+    },
+    {
+     "text": "Holiday staple",
+     "level": 2
+    },
+    {
+     "text": "Thick brown sauce",
+     "level": 3
+    },
+    {
+     "text": "Made from drippings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sauce",
+    "Broth",
+    "Ketchup"
+   ]
+  },
+  {
+   "word": "Coleslaw",
+   "hints": [
+    {
+     "text": "Side dish",
+     "level": 1
+    },
+    {
+     "text": "Cold salad",
+     "level": 1
+    },
+    {
+     "text": "Served at barbecues",
+     "level": 2
+    },
+    {
+     "text": "Crunchy and creamy",
+     "level": 2
+    },
+    {
+     "text": "Shredded cabbage",
+     "level": 3
+    },
+    {
+     "text": "Mayo dressing",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Salad",
+    "Pickles",
+    "Potato salad"
+   ]
+  },
+  {
+   "word": "Pickle",
+   "hints": [
+    {
+     "text": "Preserved food",
+     "level": 1
+    },
+    {
+     "text": "Tangy snack",
+     "level": 1
+    },
+    {
+     "text": "Sour and crunchy",
+     "level": 2
+    },
+    {
+     "text": "Kept in jars",
+     "level": 2
+    },
+    {
+     "text": "Brined cucumber",
+     "level": 3
+    },
+    {
+     "text": "Vinegar flavor",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Olive",
+    "Relish",
+    "Chutney"
+   ]
+  },
+  {
+   "word": "Olive",
+   "hints": [
+    {
+     "text": "Mediterranean food",
+     "level": 1
+    },
+    {
+     "text": "Small fruit",
+     "level": 1
+    },
+    {
+     "text": "Pressed for oil",
+     "level": 2
+    },
+    {
+     "text": "Pizza topping",
+     "level": 2
+    },
+    {
+     "text": "Green or black",
+     "level": 3
+    },
+    {
+     "text": "Has a pit",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pickle",
+    "Grape",
+    "Caper"
+   ]
+  },
+  {
+   "word": "Popsicle",
+   "hints": [
+    {
+     "text": "Frozen treat",
+     "level": 1
+    },
+    {
+     "text": "Summer snack",
+     "level": 1
+    },
+    {
+     "text": "Melts in sunshine",
+     "level": 2
+    },
+    {
+     "text": "Sold from carts",
+     "level": 2
+    },
+    {
+     "text": "Ice on a stick",
+     "level": 3
+    },
+    {
+     "text": "Fruity colors",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ice cream",
+    "Slushie",
+    "Sorbet"
+   ]
+  },
+  {
+   "word": "Lollipop",
+   "hints": [
+    {
+     "text": "Candy",
+     "level": 1
+    },
+    {
+     "text": "Sweet treat",
+     "level": 1
+    },
+    {
+     "text": "Given at doctors",
+     "level": 2
+    },
+    {
+     "text": "Kids favorite",
+     "level": 2
+    },
+    {
+     "text": "Candy on a stick",
+     "level": 3
+    },
+    {
+     "text": "Swirly colors",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Candy",
+    "Gum",
+    "Toffee"
+   ]
+  },
+  {
+   "word": "Marshmallow",
+   "hints": [
+    {
+     "text": "Sweet treat",
+     "level": 1
+    },
+    {
+     "text": "Campfire snack",
+     "level": 1
+    },
+    {
+     "text": "Toasted on sticks",
+     "level": 2
+    },
+    {
+     "text": "Floats in cocoa",
+     "level": 2
+    },
+    {
+     "text": "Soft and puffy",
+     "level": 3
+    },
+    {
+     "text": "White and spongy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Candy floss",
+    "Meringue",
+    "Gummy"
+   ]
+  },
+  {
+   "word": "Cotton candy",
+   "hints": [
+    {
+     "text": "Fair treat",
+     "level": 1
+    },
+    {
+     "text": "Sugary snack",
+     "level": 1
+    },
+    {
+     "text": "Sold at carnivals",
+     "level": 2
+    },
+    {
+     "text": "Melts in mouth",
+     "level": 2
+    },
+    {
+     "text": "Fluffy spun sugar",
+     "level": 3
+    },
+    {
+     "text": "Pink cloud",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Marshmallow",
+    "Popcorn",
+    "Lollipop"
+   ]
+  },
+  {
+   "word": "Caramel",
+   "hints": [
+    {
+     "text": "Sweet treat",
+     "level": 1
+    },
+    {
+     "text": "Sauce",
+     "level": 1
+    },
+    {
+     "text": "Drizzled on desserts",
+     "level": 2
+    },
+    {
+     "text": "Sticky and chewy",
+     "level": 2
+    },
+    {
+     "text": "Cooked sugar",
+     "level": 3
+    },
+    {
+     "text": "Golden brown",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Toffee",
+    "Fudge",
+    "Butterscotch"
+   ]
+  },
+  {
+   "word": "Toffee",
+   "hints": [
+    {
+     "text": "Candy",
+     "level": 1
+    },
+    {
+     "text": "Sweet treat",
+     "level": 1
+    },
+    {
+     "text": "Sticks to teeth",
+     "level": 2
+    },
+    {
+     "text": "Wrapped individually",
+     "level": 2
+    },
+    {
+     "text": "Hard and buttery",
+     "level": 3
+    },
+    {
+     "text": "Brown sugar candy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Caramel",
+    "Fudge",
+    "Candy"
+   ]
+  },
+  {
+   "word": "Fudge",
+   "hints": [
+    {
+     "text": "Sweet treat",
+     "level": 1
+    },
+    {
+     "text": "Rich candy",
+     "level": 1
+    },
+    {
+     "text": "Sold in gift shops",
+     "level": 2
+    },
+    {
+     "text": "Homemade treat",
+     "level": 2
+    },
+    {
+     "text": "Dense squares",
+     "level": 3
+    },
+    {
+     "text": "Chocolate flavored",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Brownie",
+    "Toffee",
+    "Caramel"
+   ]
+  },
+  {
+   "word": "Gum",
+   "hints": [
+    {
+     "text": "Chewy candy",
+     "level": 1
+    },
+    {
+     "text": "Breath freshener",
+     "level": 1
+    },
+    {
+     "text": "Never swallow it",
+     "level": 2
+    },
+    {
+     "text": "Blown into bubbles",
+     "level": 2
+    },
+    {
+     "text": "Minty flavor",
+     "level": 3
+    },
+    {
+     "text": "Sticks under desks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Candy",
+    "Mint",
+    "Toffee"
+   ]
+  },
+  {
+   "word": "Tart",
+   "hints": [
+    {
+     "text": "Pastry",
+     "level": 1
+    },
+    {
+     "text": "Dessert",
+     "level": 1
+    },
+    {
+     "text": "Bakery display",
+     "level": 2
+    },
+    {
+     "text": "Served in slices",
+     "level": 2
+    },
+    {
+     "text": "Open top crust",
+     "level": 3
+    },
+    {
+     "text": "Fruit filling",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pie",
+    "Quiche",
+    "Cake"
+   ]
+  },
+  {
+   "word": "Quiche",
+   "hints": [
+    {
+     "text": "French dish",
+     "level": 1
+    },
+    {
+     "text": "Savory pie",
+     "level": 1
+    },
+    {
+     "text": "Brunch favorite",
+     "level": 2
+    },
+    {
+     "text": "Served in wedges",
+     "level": 2
+    },
+    {
+     "text": "Egg custard filling",
+     "level": 3
+    },
+    {
+     "text": "Pastry crust",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Omelette",
+    "Pie",
+    "Frittata"
+   ]
+  },
+  {
+   "word": "Crepe",
+   "hints": [
+    {
+     "text": "French food",
+     "level": 1
+    },
+    {
+     "text": "Thin pancake",
+     "level": 1
+    },
+    {
+     "text": "Street stall treat",
+     "level": 2
+    },
+    {
+     "text": "Sweet or savory",
+     "level": 2
+    },
+    {
+     "text": "Paper thin",
+     "level": 3
+    },
+    {
+     "text": "Folded with filling",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pancake",
+    "Waffle",
+    "Dosa"
+   ]
+  },
+  {
+   "word": "Scone",
+   "hints": [
+    {
+     "text": "British bake",
+     "level": 1
+    },
+    {
+     "text": "Tea time treat",
+     "level": 1
+    },
+    {
+     "text": "Served with cream",
+     "level": 2
+    },
+    {
+     "text": "Afternoon tea",
+     "level": 2
+    },
+    {
+     "text": "Crumbly texture",
+     "level": 3
+    },
+    {
+     "text": "Jam topping",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Muffin",
+    "Biscuit",
+    "Bun"
+   ]
+  },
+  {
+   "word": "Cheesecake",
+   "hints": [
+    {
+     "text": "Dessert",
+     "level": 1
+    },
+    {
+     "text": "Chilled slice",
+     "level": 1
+    },
+    {
+     "text": "Restaurant favorite",
+     "level": 2
+    },
+    {
+     "text": "Served chilled",
+     "level": 2
+    },
+    {
+     "text": "Soft white filling",
+     "level": 3
+    },
+    {
+     "text": "Biscuit base",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tart",
+    "Pie",
+    "Mousse"
+   ]
+  },
+  {
+   "word": "Tiramisu",
+   "hints": [
+    {
+     "text": "Italian dessert",
+     "level": 1
+    },
+    {
+     "text": "Layered sweet",
+     "level": 1
+    },
+    {
+     "text": "Coffee flavored",
+     "level": 2
+    },
+    {
+     "text": "Served chilled",
+     "level": 2
+    },
+    {
+     "text": "Soaked ladyfingers",
+     "level": 3
+    },
+    {
+     "text": "Cocoa dusted",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cheesecake",
+    "Trifle",
+    "Mousse"
+   ]
+  },
+  {
+   "word": "Churro",
+   "hints": [
+    {
+     "text": "Spanish snack",
+     "level": 1
+    },
+    {
+     "text": "Fried dough",
+     "level": 1
+    },
+    {
+     "text": "Dipped in chocolate",
+     "level": 2
+    },
+    {
+     "text": "Fair treat",
+     "level": 2
+    },
+    {
+     "text": "Ridged sticks",
+     "level": 3
+    },
+    {
+     "text": "Cinnamon sugar",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Donut",
+    "Jalebi",
+    "Pretzel"
+   ]
+  },
+  {
+   "word": "Granola bar",
+   "hints": [
+    {
+     "text": "Lunchbox treat",
+     "level": 1
+    },
+    {
+     "text": "Packed snack",
+     "level": 1
+    },
+    {
+     "text": "Lunchbox staple",
+     "level": 2
+    },
+    {
+     "text": "Eaten on the go",
+     "level": 2
+    },
+    {
+     "text": "Chewy oat block",
+     "level": 3
+    },
+    {
+     "text": "Nutty clusters",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Protein bar",
+    "Cookie",
+    "Trail mix"
+   ]
+  },
+  {
+   "word": "Tortilla",
+   "hints": [
+    {
+     "text": "Flatbread",
+     "level": 1
+    },
+    {
+     "text": "Mexican staple",
+     "level": 1
+    },
+    {
+     "text": "Used for wraps",
+     "level": 2
+    },
+    {
+     "text": "Warmed on griddle",
+     "level": 2
+    },
+    {
+     "text": "Thin and round",
+     "level": 3
+    },
+    {
+     "text": "Corn or flour",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Roti",
+    "Pita",
+    "Naan"
+   ]
+  },
+  {
+   "word": "Pita",
+   "hints": [
+    {
+     "text": "Flatbread",
+     "level": 1
+    },
+    {
+     "text": "Middle eastern bread",
+     "level": 1
+    },
+    {
+     "text": "Dipped in hummus",
+     "level": 2
+    },
+    {
+     "text": "Stuffed with falafel",
+     "level": 2
+    },
+    {
+     "text": "Pocket in middle",
+     "level": 3
+    },
+    {
+     "text": "Puffy and round",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Naan",
+    "Tortilla",
+    "Roti"
+   ]
+  },
+  {
+   "word": "Bun",
+   "hints": [
+    {
+     "text": "Bread roll",
+     "level": 1
+    },
+    {
+     "text": "Soft bread",
+     "level": 1
+    },
+    {
+     "text": "Holds a burger",
+     "level": 2
+    },
+    {
+     "text": "Sweet or savory",
+     "level": 2
+    },
+    {
+     "text": "Round and fluffy",
+     "level": 3
+    },
+    {
+     "text": "Sesame seeds on top",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Roll",
+    "Bagel",
+    "Muffin"
+   ]
+  },
+  {
+   "word": "Garlic bread",
+   "hints": [
+    {
+     "text": "Side dish",
+     "level": 1
+    },
+    {
+     "text": "Italian side",
+     "level": 1
+    },
+    {
+     "text": "Served with pasta",
+     "level": 2
+    },
+    {
+     "text": "Oven baked",
+     "level": 2
+    },
+    {
+     "text": "Buttery and crispy",
+     "level": 3
+    },
+    {
+     "text": "Herb topped slices",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Toast",
+    "Breadsticks",
+    "Focaccia"
+   ]
+  },
+  {
+   "word": "Lentil soup",
+   "hints": [
+    {
+     "text": "Healthy bowl",
+     "level": 1
+    },
+    {
+     "text": "Warm dish",
+     "level": 1
+    },
+    {
+     "text": "Winter comfort",
+     "level": 2
+    },
+    {
+     "text": "Simple and cheap",
+     "level": 2
+    },
+    {
+     "text": "Thick and hearty",
+     "level": 3
+    },
+    {
+     "text": "Made from pulses",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Minestrone",
+    "Dal",
+    "Stew"
+   ]
+  },
+  {
+   "word": "Fruit salad",
+   "hints": [
+    {
+     "text": "Healthy dessert",
+     "level": 1
+    },
+    {
+     "text": "Cold dish",
+     "level": 1
+    },
+    {
+     "text": "Summer picnic",
+     "level": 2
+    },
+    {
+     "text": "Served in bowls",
+     "level": 2
+    },
+    {
+     "text": "Chopped mixed berries",
+     "level": 3
+    },
+    {
+     "text": "Colorful and juicy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Smoothie",
+    "Sundae",
+    "Parfait"
+   ]
+  },
+  {
+   "word": "Jerky",
+   "hints": [
+    {
+     "text": "Dried meat",
+     "level": 1
+    },
+    {
+     "text": "Snack",
+     "level": 1
+    },
+    {
+     "text": "Road trip snack",
+     "level": 2
+    },
+    {
+     "text": "Lasts a long time",
+     "level": 2
+    },
+    {
+     "text": "Chewy strips",
+     "level": 3
+    },
+    {
+     "text": "Smoky and salty",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bacon",
+    "Sausage",
+    "Salami"
+   ]
+  },
+  {
+   "word": "Salami",
+   "hints": [
+    {
+     "text": "Cured meat",
+     "level": 1
+    },
+    {
+     "text": "Deli meat",
+     "level": 1
+    },
+    {
+     "text": "Sliced thin",
+     "level": 2
+    },
+    {
+     "text": "Pizza topping",
+     "level": 2
+    },
+    {
+     "text": "Spicy sausage",
+     "level": 3
+    },
+    {
+     "text": "Marbled slices",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ham",
+    "Bacon",
+    "Sausage"
+   ]
+  },
+  {
+   "word": "Sashimi",
+   "hints": [
+    {
+     "text": "Japanese dish",
+     "level": 1
+    },
+    {
+     "text": "Raw seafood",
+     "level": 1
+    },
+    {
+     "text": "Served on ice",
+     "level": 2
+    },
+    {
+     "text": "Eaten with wasabi",
+     "level": 2
+    },
+    {
+     "text": "Thin raw slices",
+     "level": 3
+    },
+    {
+     "text": "No rice",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sushi",
+    "Ceviche",
+    "Tempura"
+   ]
+  },
+  {
+   "word": "Udon",
+   "hints": [
+    {
+     "text": "Japanese noodles",
+     "level": 1
+    },
+    {
+     "text": "Noodle dish",
+     "level": 1
+    },
+    {
+     "text": "Served in hot broth",
+     "level": 2
+    },
+    {
+     "text": "Comfort food",
+     "level": 2
+    },
+    {
+     "text": "Thick chewy strands",
+     "level": 3
+    },
+    {
+     "text": "Wheat based",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ramen",
+    "Pho",
+    "Soba"
+   ]
+  },
+  {
+   "word": "Kimchi",
+   "hints": [
+    {
+     "text": "Korean dish",
+     "level": 1
+    },
+    {
+     "text": "Fermented food",
+     "level": 1
+    },
+    {
+     "text": "Served with every meal",
+     "level": 2
+    },
+    {
+     "text": "Made each winter",
+     "level": 2
+    },
+    {
+     "text": "Spicy cabbage",
+     "level": 3
+    },
+    {
+     "text": "Tangy and red",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sauerkraut",
+    "Pickle",
+    "Coleslaw"
+   ]
+  },
+  {
+   "word": "Ravioli",
+   "hints": [
+    {
+     "text": "Italian pasta",
+     "level": 1
+    },
+    {
+     "text": "Stuffed pasta",
+     "level": 1
+    },
+    {
+     "text": "Served with sauce",
+     "level": 2
+    },
+    {
+     "text": "Homemade treat",
+     "level": 2
+    },
+    {
+     "text": "Square pillows",
+     "level": 3
+    },
+    {
+     "text": "Cheese filled",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dumpling",
+    "Tortellini",
+    "Lasagna"
+   ]
+  },
+  {
+   "word": "Nuggets",
+   "hints": [
+    {
+     "text": "Fast food",
+     "level": 1
+    },
+    {
+     "text": "Kids meal",
+     "level": 1
+    },
+    {
+     "text": "Dipped in sauces",
+     "level": 2
+    },
+    {
+     "text": "Sold in boxes",
+     "level": 2
+    },
+    {
+     "text": "Breaded bites",
+     "level": 3
+    },
+    {
+     "text": "Bite sized pieces",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fries",
+    "Wings",
+    "Popcorn chicken"
+   ]
+  },
+  {
+   "word": "Wings",
+   "hints": [
+    {
+     "text": "Party food",
+     "level": 1
+    },
+    {
+     "text": "Game day snack",
+     "level": 1
+    },
+    {
+     "text": "Messy finger food",
+     "level": 2
+    },
+    {
+     "text": "Hot or mild",
+     "level": 2
+    },
+    {
+     "text": "Saucy and spicy",
+     "level": 3
+    },
+    {
+     "text": "Small bones",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nuggets",
+    "Drumstick",
+    "Ribs"
+   ]
+  },
+  {
+   "word": "Ribs",
+   "hints": [
+    {
+     "text": "Barbecue food",
+     "level": 1
+    },
+    {
+     "text": "Meat dish",
+     "level": 1
+    },
+    {
+     "text": "Messy to eat",
+     "level": 2
+    },
+    {
+     "text": "Slow smoked",
+     "level": 2
+    },
+    {
+     "text": "Sticky sauce",
+     "level": 3
+    },
+    {
+     "text": "Bones attached",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wings",
+    "Steak",
+    "Chops"
+   ]
+  },
+  {
+   "word": "Vada pav",
+   "hints": [
+    {
+     "text": "Indian street food",
+     "level": 1
+    },
+    {
+     "text": "Spicy snack",
+     "level": 1
+    },
+    {
+     "text": "Mumbai favorite",
+     "level": 2
+    },
+    {
+     "text": "Cheap and filling",
+     "level": 2
+    },
+    {
+     "text": "Potato fritter",
+     "level": 3
+    },
+    {
+     "text": "Soft bread roll",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pav bhaji",
+    "Burger",
+    "Samosa"
+   ]
+  },
+  {
+   "word": "Momos",
+   "hints": [
+    {
+     "text": "Himalayan snack",
+     "level": 1
+    },
+    {
+     "text": "Street food",
+     "level": 1
+    },
+    {
+     "text": "Served with red chutney",
+     "level": 2
+    },
+    {
+     "text": "Steamed or fried",
+     "level": 2
+    },
+    {
+     "text": "Little dough pockets",
+     "level": 3
+    },
+    {
+     "text": "Pleated tops",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dumpling",
+    "Samosa",
+    "Gyoza"
+   ]
+  },
+  {
+   "word": "Upma",
+   "hints": [
+    {
+     "text": "South indian dish",
+     "level": 1
+    },
+    {
+     "text": "Breakfast dish",
+     "level": 1
+    },
+    {
+     "text": "Quick morning meal",
+     "level": 2
+    },
+    {
+     "text": "Savory porridge",
+     "level": 2
+    },
+    {
+     "text": "Semolina based",
+     "level": 3
+    },
+    {
+     "text": "Mustard seeds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Poha",
+    "Idli",
+    "Porridge"
+   ]
+  },
+  {
+   "word": "Poha",
+   "hints": [
+    {
+     "text": "Indian breakfast",
+     "level": 1
+    },
+    {
+     "text": "Light dish",
+     "level": 1
+    },
+    {
+     "text": "Quick morning meal",
+     "level": 2
+    },
+    {
+     "text": "Sprinkled with peanuts",
+     "level": 2
+    },
+    {
+     "text": "Flattened rice",
+     "level": 3
+    },
+    {
+     "text": "Yellow turmeric",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Upma",
+    "Fried rice",
+    "Pulao"
+   ]
+  },
+  {
+   "word": "Ladoo",
+   "hints": [
+    {
+     "text": "Indian sweet",
+     "level": 1
+    },
+    {
+     "text": "Festive treat",
+     "level": 1
+    },
+    {
+     "text": "Shared at celebrations",
+     "level": 2
+    },
+    {
+     "text": "Offered at temples",
+     "level": 2
+    },
+    {
+     "text": "Round balls",
+     "level": 3
+    },
+    {
+     "text": "Made with ghee",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Barfi",
+    "Halwa",
+    "Jalebi"
+   ]
+  },
+  {
+   "word": "Bao",
+   "hints": [
+    {
+     "text": "Asian snack",
+     "level": 1
+    },
+    {
+     "text": "Steamed bread",
+     "level": 1
+    },
+    {
+     "text": "Street stall favorite",
+     "level": 2
+    },
+    {
+     "text": "Fluffy and soft",
+     "level": 2
+    },
+    {
+     "text": "Folded around fillings",
+     "level": 3
+    },
+    {
+     "text": "Pillowy white roll",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dumpling",
+    "Momos",
+    "Bagel"
+   ]
+  },
+  {
+   "word": "Porridge",
+   "hints": [
+    {
+     "text": "Breakfast food",
+     "level": 1
+    },
+    {
+     "text": "Warm dish",
+     "level": 1
+    },
+    {
+     "text": "Eaten on cold mornings",
+     "level": 2
+    },
+    {
+     "text": "Fairy tale breakfast",
+     "level": 2
+    },
+    {
+     "text": "Thick oat mush",
+     "level": 3
+    },
+    {
+     "text": "Stirred with honey",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Oatmeal",
+    "Cereal",
+    "Congee"
+   ]
+  },
+  {
+   "word": "Couscous",
+   "hints": [
+    {
+     "text": "North african dish",
+     "level": 1
+    },
+    {
+     "text": "Grain dish",
+     "level": 1
+    },
+    {
+     "text": "Fluffed with a fork",
+     "level": 2
+    },
+    {
+     "text": "Served with stew",
+     "level": 2
+    },
+    {
+     "text": "Tiny semolina grains",
+     "level": 3
+    },
+    {
+     "text": "Steamed and light",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Quinoa",
+    "Rice",
+    "Bulgur"
+   ]
+  },
+  {
+   "word": "Fondue",
+   "hints": [
+    {
+     "text": "Swiss dish",
+     "level": 1
+    },
+    {
+     "text": "Shared meal",
+     "level": 1
+    },
+    {
+     "text": "Party centerpiece",
+     "level": 2
+    },
+    {
+     "text": "Long forks",
+     "level": 2
+    },
+    {
+     "text": "Melted cheese pot",
+     "level": 3
+    },
+    {
+     "text": "Dipped bread cubes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Raclette",
+    "Hot pot",
+    "Queso"
+   ]
+  },
+  {
+   "word": "Pesto",
+   "hints": [
+    {
+     "text": "Italian sauce",
+     "level": 1
+    },
+    {
+     "text": "Green sauce",
+     "level": 1
+    },
+    {
+     "text": "Tossed with pasta",
+     "level": 2
+    },
+    {
+     "text": "Made in mortar",
+     "level": 2
+    },
+    {
+     "text": "Basil and pine nuts",
+     "level": 3
+    },
+    {
+     "text": "Garlic and oil",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Salsa",
+    "Hummus",
+    "Chimichurri"
+   ]
+  },
+  {
+   "word": "Hash brown",
+   "hints": [
+    {
+     "text": "Breakfast side",
+     "level": 1
+    },
+    {
+     "text": "Fried potato",
+     "level": 1
+    },
+    {
+     "text": "Diner breakfast",
+     "level": 2
+    },
+    {
+     "text": "Crispy edges",
+     "level": 2
+    },
+    {
+     "text": "Shredded and pressed",
+     "level": 3
+    },
+    {
+     "text": "Golden patty",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fries",
+    "Rosti",
+    "Potato wedge"
+   ]
+  },
+  {
+   "word": "Gnocchi",
+   "hints": [
+    {
+     "text": "Italian dish",
+     "level": 1
+    },
+    {
+     "text": "Dumpling type",
+     "level": 1
+    },
+    {
+     "text": "Made from potato",
+     "level": 2
+    },
+    {
+     "text": "Soft and pillowy",
+     "level": 2
+    },
+    {
+     "text": "Little ridged pillows",
+     "level": 3
+    },
+    {
+     "text": "Boiled then sauced",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ravioli",
+    "Pasta",
+    "Spaetzle"
+   ]
+  },
+  {
+   "word": "Calzone",
+   "hints": [
+    {
+     "text": "Italian dish",
+     "level": 1
+    },
+    {
+     "text": "Baked dough",
+     "level": 1
+    },
+    {
+     "text": "Pizzeria order",
+     "level": 2
+    },
+    {
+     "text": "Stuffed and folded",
+     "level": 2
+    },
+    {
+     "text": "Half moon shape",
+     "level": 3
+    },
+    {
+     "text": "Cheesy inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pizza",
+    "Empanada",
+    "Stromboli"
+   ]
+  },
+  {
+   "word": "Empanada",
+   "hints": [
+    {
+     "text": "Latin pastry",
+     "level": 1
+    },
+    {
+     "text": "Baked snack",
+     "level": 1
+    },
+    {
+     "text": "Street food",
+     "level": 2
+    },
+    {
+     "text": "Party snack",
+     "level": 2
+    },
+    {
+     "text": "Crimped half moon",
+     "level": 3
+    },
+    {
+     "text": "Savory filling",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Samosa",
+    "Calzone",
+    "Pasty"
+   ]
+  },
+  {
+   "word": "Croquette",
+   "hints": [
+    {
+     "text": "Fried snack",
+     "level": 1
+    },
+    {
+     "text": "Party bite",
+     "level": 1
+    },
+    {
+     "text": "Tapas favorite",
+     "level": 2
+    },
+    {
+     "text": "Golden and crisp",
+     "level": 2
+    },
+    {
+     "text": "Breadcrumb coating",
+     "level": 3
+    },
+    {
+     "text": "Creamy center",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nuggets",
+    "Falafel",
+    "Arancini"
+   ]
+  },
+  {
+   "word": "Congee",
+   "hints": [
+    {
+     "text": "Asian porridge",
+     "level": 1
+    },
+    {
+     "text": "Rice dish",
+     "level": 1
+    },
+    {
+     "text": "Eaten when sick",
+     "level": 2
+    },
+    {
+     "text": "Breakfast in china",
+     "level": 2
+    },
+    {
+     "text": "Watery rice",
+     "level": 3
+    },
+    {
+     "text": "Topped with scallions",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Porridge",
+    "Risotto",
+    "Soup"
+   ]
+  }
+ ]
+}

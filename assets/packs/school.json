@@ -1,0 +1,5208 @@
+{
+ "id": "school",
+ "name": "School",
+ "words": [
+  {
+   "word": "Teacher",
+   "hints": [
+    {
+     "text": "School staff",
+     "level": 1
+    },
+    {
+     "text": "Educator",
+     "level": 1
+    },
+    {
+     "text": "Grades homework",
+     "level": 2
+    },
+    {
+     "text": "Gives lessons",
+     "level": 2
+    },
+    {
+     "text": "Stands at blackboard",
+     "level": 3
+    },
+    {
+     "text": "Red pen",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Principal",
+    "Tutor",
+    "Student"
+   ]
+  },
+  {
+   "word": "Student",
+   "hints": [
+    {
+     "text": "Learner",
+     "level": 1
+    },
+    {
+     "text": "Pupil",
+     "level": 1
+    },
+    {
+     "text": "Takes exams",
+     "level": 2
+    },
+    {
+     "text": "Carries backpack",
+     "level": 2
+    },
+    {
+     "text": "Raises hand",
+     "level": 3
+    },
+    {
+     "text": "Does homework",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Teacher",
+    "Graduate",
+    "Intern"
+   ]
+  },
+  {
+   "word": "Principal",
+   "hints": [
+    {
+     "text": "School head",
+     "level": 1
+    },
+    {
+     "text": "Leader",
+     "level": 1
+    },
+    {
+     "text": "Morning assembly",
+     "level": 2
+    },
+    {
+     "text": "Detention threat",
+     "level": 2
+    },
+    {
+     "text": "Big office",
+     "level": 3
+    },
+    {
+     "text": "Calls parents",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Teacher",
+    "Coach",
+    "Janitor"
+   ]
+  },
+  {
+   "word": "Classroom",
+   "hints": [
+    {
+     "text": "School space",
+     "level": 1
+    },
+    {
+     "text": "Learning space",
+     "level": 1
+    },
+    {
+     "text": "Rows of desks",
+     "level": 2
+    },
+    {
+     "text": "Daily lessons",
+     "level": 2
+    },
+    {
+     "text": "Board at front",
+     "level": 3
+    },
+    {
+     "text": "Posters on walls",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Library",
+    "Hall",
+    "Office"
+   ]
+  },
+  {
+   "word": "Blackboard",
+   "hints": [
+    {
+     "text": "Writing surface",
+     "level": 1
+    },
+    {
+     "text": "Classroom fixture",
+     "level": 1
+    },
+    {
+     "text": "Teacher writes notes",
+     "level": 2
+    },
+    {
+     "text": "Erased daily",
+     "level": 2
+    },
+    {
+     "text": "Chalk dust",
+     "level": 3
+    },
+    {
+     "text": "Dark green",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Whiteboard",
+    "Notebook",
+    "Screen"
+   ]
+  },
+  {
+   "word": "Whiteboard",
+   "hints": [
+    {
+     "text": "Writing surface",
+     "level": 1
+    },
+    {
+     "text": "Office fixture",
+     "level": 1
+    },
+    {
+     "text": "Meetings and lessons",
+     "level": 2
+    },
+    {
+     "text": "Wipe clean",
+     "level": 2
+    },
+    {
+     "text": "Dry erase markers",
+     "level": 3
+    },
+    {
+     "text": "Glossy surface",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Blackboard",
+    "Projector",
+    "Notebook"
+   ]
+  },
+  {
+   "word": "Chalk",
+   "hints": [
+    {
+     "text": "Writing tool",
+     "level": 1
+    },
+    {
+     "text": "Classroom supply",
+     "level": 1
+    },
+    {
+     "text": "Squeaks on boards",
+     "level": 2
+    },
+    {
+     "text": "Dusty fingers",
+     "level": 2
+    },
+    {
+     "text": "White stick",
+     "level": 3
+    },
+    {
+     "text": "Breaks easily",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Crayon",
+    "Pencil",
+    "Marker"
+   ]
+  },
+  {
+   "word": "Pencil",
+   "hints": [
+    {
+     "text": "Writing tool",
+     "level": 1
+    },
+    {
+     "text": "Stationery",
+     "level": 1
+    },
+    {
+     "text": "Sharpened daily",
+     "level": 2
+    },
+    {
+     "text": "Exams",
+     "level": 2
+    },
+    {
+     "text": "Graphite core",
+     "level": 3
+    },
+    {
+     "text": "Eraser on end",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pen",
+    "Crayon",
+    "Marker"
+   ]
+  },
+  {
+   "word": "Eraser",
+   "hints": [
+    {
+     "text": "Stationery",
+     "level": 1
+    },
+    {
+     "text": "Correction tool",
+     "level": 1
+    },
+    {
+     "text": "Fixes mistakes",
+     "level": 2
+    },
+    {
+     "text": "Rubs out marks",
+     "level": 2
+    },
+    {
+     "text": "Pink rubber",
+     "level": 3
+    },
+    {
+     "text": "Crumbs left",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sharpener",
+    "Pencil",
+    "Correction fluid"
+   ]
+  },
+  {
+   "word": "Sharpener",
+   "hints": [
+    {
+     "text": "Stationery",
+     "level": 1
+    },
+    {
+     "text": "Small tool",
+     "level": 1
+    },
+    {
+     "text": "Twist the pencil",
+     "level": 2
+    },
+    {
+     "text": "Shavings collect",
+     "level": 2
+    },
+    {
+     "text": "Tiny blade",
+     "level": 3
+    },
+    {
+     "text": "Hole for tip",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Eraser",
+    "Pencil",
+    "Knife"
+   ]
+  },
+  {
+   "word": "Ruler",
+   "hints": [
+    {
+     "text": "Measuring tool",
+     "level": 1
+    },
+    {
+     "text": "Stationery",
+     "level": 1
+    },
+    {
+     "text": "Draw straight lines",
+     "level": 2
+    },
+    {
+     "text": "Math class",
+     "level": 2
+    },
+    {
+     "text": "Inch and centimeter marks",
+     "level": 3
+    },
+    {
+     "text": "Flat strip",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Protractor",
+    "Compass",
+    "Tape measure"
+   ]
+  },
+  {
+   "word": "Protractor",
+   "hints": [
+    {
+     "text": "Math tool",
+     "level": 1
+    },
+    {
+     "text": "Geometry instrument",
+     "level": 1
+    },
+    {
+     "text": "Measures angles",
+     "level": 2
+    },
+    {
+     "text": "Exam kit",
+     "level": 2
+    },
+    {
+     "text": "Half circle",
+     "level": 3
+    },
+    {
+     "text": "Degree marks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ruler",
+    "Compass",
+    "Set square"
+   ]
+  },
+  {
+   "word": "Compass",
+   "hints": [
+    {
+     "text": "Math tool",
+     "level": 1
+    },
+    {
+     "text": "Geometry instrument",
+     "level": 1
+    },
+    {
+     "text": "Draws circles",
+     "level": 2
+    },
+    {
+     "text": "Sharp point",
+     "level": 2
+    },
+    {
+     "text": "Two legs",
+     "level": 3
+    },
+    {
+     "text": "Pencil holder",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Protractor",
+    "Ruler",
+    "Divider"
+   ]
+  },
+  {
+   "word": "Calculator",
+   "hints": [
+    {
+     "text": "Math gadget",
+     "level": 1
+    },
+    {
+     "text": "Number tool",
+     "level": 1
+    },
+    {
+     "text": "Banned in some tests",
+     "level": 2
+    },
+    {
+     "text": "Solar powered",
+     "level": 2
+    },
+    {
+     "text": "Number keys",
+     "level": 3
+    },
+    {
+     "text": "Small display",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Abacus",
+    "Computer",
+    "Ruler"
+   ]
+  },
+  {
+   "word": "Notebook",
+   "hints": [
+    {
+     "text": "Stationery",
+     "level": 1
+    },
+    {
+     "text": "Paper pad",
+     "level": 1
+    },
+    {
+     "text": "Class notes",
+     "level": 2
+    },
+    {
+     "text": "Doodles in margins",
+     "level": 2
+    },
+    {
+     "text": "Lined pages",
+     "level": 3
+    },
+    {
+     "text": "Spiral binding",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Diary",
+    "Textbook",
+    "Folder"
+   ]
+  },
+  {
+   "word": "Textbook",
+   "hints": [
+    {
+     "text": "School reading",
+     "level": 1
+    },
+    {
+     "text": "Study material",
+     "level": 1
+    },
+    {
+     "text": "Heavy in bags",
+     "level": 2
+    },
+    {
+     "text": "Assigned reading",
+     "level": 2
+    },
+    {
+     "text": "Chapters and exercises",
+     "level": 3
+    },
+    {
+     "text": "Index at back",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Notebook",
+    "Novel",
+    "Dictionary"
+   ]
+  },
+  {
+   "word": "Dictionary",
+   "hints": [
+    {
+     "text": "Reference book",
+     "level": 1
+    },
+    {
+     "text": "Word book",
+     "level": 1
+    },
+    {
+     "text": "Look up meanings",
+     "level": 2
+    },
+    {
+     "text": "Word lookup",
+     "level": 2
+    },
+    {
+     "text": "Alphabetical entries",
+     "level": 3
+    },
+    {
+     "text": "Thick book",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Thesaurus",
+    "Encyclopedia",
+    "Atlas"
+   ]
+  },
+  {
+   "word": "Atlas",
+   "hints": [
+    {
+     "text": "Reference book",
+     "level": 1
+    },
+    {
+     "text": "Map book",
+     "level": 1
+    },
+    {
+     "text": "Geography class",
+     "level": 2
+    },
+    {
+     "text": "Find countries",
+     "level": 2
+    },
+    {
+     "text": "Maps and borders",
+     "level": 3
+    },
+    {
+     "text": "Index of places",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Globe",
+    "Dictionary",
+    "Encyclopedia"
+   ]
+  },
+  {
+   "word": "Globe",
+   "hints": [
+    {
+     "text": "Geography model",
+     "level": 1
+    },
+    {
+     "text": "Spinning sphere",
+     "level": 1
+    },
+    {
+     "text": "On teacher desk",
+     "level": 2
+    },
+    {
+     "text": "Find countries",
+     "level": 2
+    },
+    {
+     "text": "Round map",
+     "level": 3
+    },
+    {
+     "text": "Tilted axis",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Atlas",
+    "Map",
+    "Ball"
+   ]
+  },
+  {
+   "word": "Backpack",
+   "hints": [
+    {
+     "text": "School bag",
+     "level": 1
+    },
+    {
+     "text": "Carry bag",
+     "level": 1
+    },
+    {
+     "text": "Heavy with books",
+     "level": 2
+    },
+    {
+     "text": "Worn on shoulders",
+     "level": 2
+    },
+    {
+     "text": "Two straps",
+     "level": 3
+    },
+    {
+     "text": "Zip pockets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lunchbox",
+    "Suitcase",
+    "Briefcase"
+   ]
+  },
+  {
+   "word": "Lunchbox",
+   "hints": [
+    {
+     "text": "Food container",
+     "level": 1
+    },
+    {
+     "text": "School item",
+     "level": 1
+    },
+    {
+     "text": "Packed by parents",
+     "level": 2
+    },
+    {
+     "text": "Traded snacks",
+     "level": 2
+    },
+    {
+     "text": "Clip lid",
+     "level": 3
+    },
+    {
+     "text": "Cartoon designs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Backpack",
+    "Thermos",
+    "Bento"
+   ]
+  },
+  {
+   "word": "Homework",
+   "hints": [
+    {
+     "text": "School task",
+     "level": 1
+    },
+    {
+     "text": "After class task",
+     "level": 1
+    },
+    {
+     "text": "Dog ate it",
+     "level": 2
+    },
+    {
+     "text": "Due tomorrow",
+     "level": 2
+    },
+    {
+     "text": "Worksheets",
+     "level": 3
+    },
+    {
+     "text": "Done at kitchen table",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Classwork",
+    "Project",
+    "Exam"
+   ]
+  },
+  {
+   "word": "Exam",
+   "hints": [
+    {
+     "text": "Test",
+     "level": 1
+    },
+    {
+     "text": "Assessment",
+     "level": 1
+    },
+    {
+     "text": "Stressful week",
+     "level": 2
+    },
+    {
+     "text": "Study all night",
+     "level": 2
+    },
+    {
+     "text": "Answer sheets",
+     "level": 3
+    },
+    {
+     "text": "Invigilator watches",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Quiz",
+    "Homework",
+    "Interview"
+   ]
+  },
+  {
+   "word": "Quiz",
+   "hints": [
+    {
+     "text": "Short test",
+     "level": 1
+    },
+    {
+     "text": "Assessment",
+     "level": 1
+    },
+    {
+     "text": "Pop surprise",
+     "level": 2
+    },
+    {
+     "text": "Quick questions",
+     "level": 2
+    },
+    {
+     "text": "Multiple choice",
+     "level": 3
+    },
+    {
+     "text": "Few minutes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Exam",
+    "Homework",
+    "Survey"
+   ]
+  },
+  {
+   "word": "Report card",
+   "hints": [
+    {
+     "text": "Grade sheet",
+     "level": 1
+    },
+    {
+     "text": "Progress record",
+     "level": 1
+    },
+    {
+     "text": "Parents sign it",
+     "level": 2
+    },
+    {
+     "text": "End of term",
+     "level": 2
+    },
+    {
+     "text": "Marks per subject",
+     "level": 3
+    },
+    {
+     "text": "Teacher comments",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Certificate",
+    "Diploma",
+    "Exam"
+   ]
+  },
+  {
+   "word": "Diploma",
+   "hints": [
+    {
+     "text": "Certificate",
+     "level": 1
+    },
+    {
+     "text": "Graduation document",
+     "level": 1
+    },
+    {
+     "text": "Framed on walls",
+     "level": 2
+    },
+    {
+     "text": "Years of study",
+     "level": 2
+    },
+    {
+     "text": "Rolled scroll",
+     "level": 3
+    },
+    {
+     "text": "Official seal",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Degree",
+    "Trophy",
+    "Report card"
+   ]
+  },
+  {
+   "word": "Graduation",
+   "hints": [
+    {
+     "text": "Ceremony",
+     "level": 1
+    },
+    {
+     "text": "School milestone",
+     "level": 1
+    },
+    {
+     "text": "Caps thrown in air",
+     "level": 2
+    },
+    {
+     "text": "Proud parents",
+     "level": 2
+    },
+    {
+     "text": "Gowns and tassels",
+     "level": 3
+    },
+    {
+     "text": "Stage walk",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Prom",
+    "Orientation",
+    "Reunion"
+   ]
+  },
+  {
+   "word": "Library",
+   "hints": [
+    {
+     "text": "Book room",
+     "level": 1
+    },
+    {
+     "text": "Quiet space",
+     "level": 1
+    },
+    {
+     "text": "Borrow books",
+     "level": 2
+    },
+    {
+     "text": "Study area",
+     "level": 2
+    },
+    {
+     "text": "Shelves and librarian",
+     "level": 3
+    },
+    {
+     "text": "Silence please",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Classroom",
+    "Bookstore",
+    "Archive"
+   ]
+  },
+  {
+   "word": "Cafeteria",
+   "hints": [
+    {
+     "text": "Dining hall",
+     "level": 1
+    },
+    {
+     "text": "Lunch room",
+     "level": 1
+    },
+    {
+     "text": "Food fights",
+     "level": 2
+    },
+    {
+     "text": "Long queues",
+     "level": 2
+    },
+    {
+     "text": "Trays and benches",
+     "level": 3
+    },
+    {
+     "text": "Mystery meat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Canteen",
+    "Kitchen",
+    "Restaurant"
+   ]
+  },
+  {
+   "word": "Playground",
+   "hints": [
+    {
+     "text": "Outdoor area",
+     "level": 1
+    },
+    {
+     "text": "Recess spot",
+     "level": 1
+    },
+    {
+     "text": "Kids run around",
+     "level": 2
+    },
+    {
+     "text": "Break time",
+     "level": 2
+    },
+    {
+     "text": "Swings and slides",
+     "level": 3
+    },
+    {
+     "text": "Monkey bars",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gym",
+    "Field",
+    "Park"
+   ]
+  },
+  {
+   "word": "Gymnasium",
+   "hints": [
+    {
+     "text": "Sports hall",
+     "level": 1
+    },
+    {
+     "text": "Exercise space",
+     "level": 1
+    },
+    {
+     "text": "Basketball games",
+     "level": 2
+    },
+    {
+     "text": "Assemblies",
+     "level": 2
+    },
+    {
+     "text": "Wooden floors",
+     "level": 3
+    },
+    {
+     "text": "Climbing ropes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Playground",
+    "Stadium",
+    "Auditorium"
+   ]
+  },
+  {
+   "word": "Auditorium",
+   "hints": [
+    {
+     "text": "Large hall",
+     "level": 1
+    },
+    {
+     "text": "Performance space",
+     "level": 1
+    },
+    {
+     "text": "School plays",
+     "level": 2
+    },
+    {
+     "text": "Assemblies",
+     "level": 2
+    },
+    {
+     "text": "Stage and curtains",
+     "level": 3
+    },
+    {
+     "text": "Rows of seats",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gymnasium",
+    "Classroom",
+    "Theater"
+   ]
+  },
+  {
+   "word": "Laboratory",
+   "hints": [
+    {
+     "text": "Science room",
+     "level": 1
+    },
+    {
+     "text": "Experiment space",
+     "level": 1
+    },
+    {
+     "text": "Chemistry class",
+     "level": 2
+    },
+    {
+     "text": "Safety goggles",
+     "level": 2
+    },
+    {
+     "text": "Test tubes and burners",
+     "level": 3
+    },
+    {
+     "text": "Fume hood",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Classroom",
+    "Library",
+    "Kitchen"
+   ]
+  },
+  {
+   "word": "Recess",
+   "hints": [
+    {
+     "text": "Break time",
+     "level": 1
+    },
+    {
+     "text": "Free period",
+     "level": 1
+    },
+    {
+     "text": "Kids play outside",
+     "level": 2
+    },
+    {
+     "text": "Snack time",
+     "level": 2
+    },
+    {
+     "text": "Bell rings",
+     "level": 3
+    },
+    {
+     "text": "Playground games",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lunch",
+    "Assembly",
+    "Detention"
+   ]
+  },
+  {
+   "word": "Detention",
+   "hints": [
+    {
+     "text": "School punishment",
+     "level": 1
+    },
+    {
+     "text": "After school penalty",
+     "level": 1
+    },
+    {
+     "text": "Bad behavior",
+     "level": 2
+    },
+    {
+     "text": "Stay late",
+     "level": 2
+    },
+    {
+     "text": "Sitting quietly",
+     "level": 3
+    },
+    {
+     "text": "Teacher supervises",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Suspension",
+    "Recess",
+    "Homework"
+   ]
+  },
+  {
+   "word": "Assembly",
+   "hints": [
+    {
+     "text": "School gathering",
+     "level": 1
+    },
+    {
+     "text": "Morning meeting",
+     "level": 1
+    },
+    {
+     "text": "Announcements",
+     "level": 2
+    },
+    {
+     "text": "National anthem",
+     "level": 2
+    },
+    {
+     "text": "Whole school together",
+     "level": 3
+    },
+    {
+     "text": "Principal speaks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Recess",
+    "Class",
+    "Graduation"
+   ]
+  },
+  {
+   "word": "School bus",
+   "hints": [
+    {
+     "text": "Yellow vehicle",
+     "level": 1
+    },
+    {
+     "text": "Student transport",
+     "level": 1
+    },
+    {
+     "text": "Morning pickup",
+     "level": 2
+    },
+    {
+     "text": "Rowdy back seats",
+     "level": 2
+    },
+    {
+     "text": "Stop sign arm",
+     "level": 3
+    },
+    {
+     "text": "Bright yellow",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Van",
+    "Taxi",
+    "Coach"
+   ]
+  },
+  {
+   "word": "Uniform",
+   "hints": [
+    {
+     "text": "School clothes",
+     "level": 1
+    },
+    {
+     "text": "Dress code",
+     "level": 1
+    },
+    {
+     "text": "Same for everyone",
+     "level": 2
+    },
+    {
+     "text": "Ironed shirts",
+     "level": 2
+    },
+    {
+     "text": "Blazer and tie",
+     "level": 3
+    },
+    {
+     "text": "School crest",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Costume",
+    "Tracksuit",
+    "Suit"
+   ]
+  },
+  {
+   "word": "Bell",
+   "hints": [
+    {
+     "text": "School signal",
+     "level": 1
+    },
+    {
+     "text": "Timer sound",
+     "level": 1
+    },
+    {
+     "text": "Ends each period",
+     "level": 2
+    },
+    {
+     "text": "Kids rush out",
+     "level": 2
+    },
+    {
+     "text": "Loud ring",
+     "level": 3
+    },
+    {
+     "text": "Hallway speaker",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Whistle",
+    "Alarm",
+    "Clock"
+   ]
+  },
+  {
+   "word": "Locker",
+   "hints": [
+    {
+     "text": "Storage unit",
+     "level": 1
+    },
+    {
+     "text": "Hallway cabinet",
+     "level": 1
+    },
+    {
+     "text": "Combination dial",
+     "level": 2
+    },
+    {
+     "text": "Stuffed with books",
+     "level": 2
+    },
+    {
+     "text": "Metal door",
+     "level": 3
+    },
+    {
+     "text": "Rows in corridor",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cupboard",
+    "Drawer",
+    "Safe"
+   ]
+  },
+  {
+   "word": "Desk",
+   "hints": [
+    {
+     "text": "Classroom furniture",
+     "level": 1
+    },
+    {
+     "text": "Work surface",
+     "level": 1
+    },
+    {
+     "text": "Carved doodles",
+     "level": 2
+    },
+    {
+     "text": "Seating charts",
+     "level": 2
+    },
+    {
+     "text": "Flat top",
+     "level": 3
+    },
+    {
+     "text": "Chair attached",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Table",
+    "Bench",
+    "Shelf"
+   ]
+  },
+  {
+   "word": "Field trip",
+   "hints": [
+    {
+     "text": "School outing",
+     "level": 1
+    },
+    {
+     "text": "Educational visit",
+     "level": 1
+    },
+    {
+     "text": "Permission slips",
+     "level": 2
+    },
+    {
+     "text": "Bus rides",
+     "level": 2
+    },
+    {
+     "text": "Museum visits",
+     "level": 3
+    },
+    {
+     "text": "Packed lunches",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Picnic",
+    "Holiday",
+    "Excursion"
+   ]
+  },
+  {
+   "word": "Science fair",
+   "hints": [
+    {
+     "text": "School event",
+     "level": 1
+    },
+    {
+     "text": "Project show",
+     "level": 1
+    },
+    {
+     "text": "Volcano models",
+     "level": 2
+    },
+    {
+     "text": "Judges walk around",
+     "level": 2
+    },
+    {
+     "text": "Trifold posters",
+     "level": 3
+    },
+    {
+     "text": "Experiments displayed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Art show",
+    "Talent show",
+    "Sports day"
+   ]
+  },
+  {
+   "word": "Spelling bee",
+   "hints": [
+    {
+     "text": "Contest",
+     "level": 1
+    },
+    {
+     "text": "Word competition",
+     "level": 1
+    },
+    {
+     "text": "Nervous students",
+     "level": 2
+    },
+    {
+     "text": "Ask for definition",
+     "level": 2
+    },
+    {
+     "text": "Say it aloud",
+     "level": 3
+    },
+    {
+     "text": "Elimination rounds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Quiz",
+    "Debate",
+    "Exam"
+   ]
+  },
+  {
+   "word": "Debate",
+   "hints": [
+    {
+     "text": "Argument contest",
+     "level": 1
+    },
+    {
+     "text": "Speech event",
+     "level": 1
+    },
+    {
+     "text": "For and against",
+     "level": 2
+    },
+    {
+     "text": "Judges score",
+     "level": 2
+    },
+    {
+     "text": "Podium speeches",
+     "level": 3
+    },
+    {
+     "text": "Rebuttals",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spelling bee",
+    "Quiz",
+    "Speech"
+   ]
+  },
+  {
+   "word": "Sports day",
+   "hints": [
+    {
+     "text": "School event",
+     "level": 1
+    },
+    {
+     "text": "Athletic meet",
+     "level": 1
+    },
+    {
+     "text": "Sack races",
+     "level": 2
+    },
+    {
+     "text": "Parents cheer",
+     "level": 2
+    },
+    {
+     "text": "Medals and ribbons",
+     "level": 3
+    },
+    {
+     "text": "Track events",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Science fair",
+    "Field trip",
+    "Olympics"
+   ]
+  },
+  {
+   "word": "Prom",
+   "hints": [
+    {
+     "text": "School dance",
+     "level": 1
+    },
+    {
+     "text": "Formal party",
+     "level": 1
+    },
+    {
+     "text": "Ball gowns",
+     "level": 2
+    },
+    {
+     "text": "Crowned royalty",
+     "level": 2
+    },
+    {
+     "text": "Corsages",
+     "level": 3
+    },
+    {
+     "text": "Limousines",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Graduation",
+    "Wedding",
+    "Party"
+   ]
+  },
+  {
+   "word": "Semester",
+   "hints": [
+    {
+     "text": "School term",
+     "level": 1
+    },
+    {
+     "text": "Academic period",
+     "level": 1
+    },
+    {
+     "text": "Half year",
+     "level": 2
+    },
+    {
+     "text": "New classes",
+     "level": 2
+    },
+    {
+     "text": "Midterms and finals",
+     "level": 3
+    },
+    {
+     "text": "Course load",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Trimester",
+    "Vacation",
+    "Year"
+   ]
+  },
+  {
+   "word": "Vacation",
+   "hints": [
+    {
+     "text": "Holiday",
+     "level": 1
+    },
+    {
+     "text": "Break",
+     "level": 1
+    },
+    {
+     "text": "Summer off",
+     "level": 2
+    },
+    {
+     "text": "Family trips",
+     "level": 2
+    },
+    {
+     "text": "No school",
+     "level": 3
+    },
+    {
+     "text": "Sleeping in",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Semester",
+    "Weekend",
+    "Recess"
+   ]
+  },
+  {
+   "word": "Math",
+   "hints": [
+    {
+     "text": "School subject",
+     "level": 1
+    },
+    {
+     "text": "Numbers class",
+     "level": 1
+    },
+    {
+     "text": "Equations",
+     "level": 2
+    },
+    {
+     "text": "Homework problems",
+     "level": 2
+    },
+    {
+     "text": "Algebra and geometry",
+     "level": 3
+    },
+    {
+     "text": "Calculations",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Physics",
+    "Science",
+    "Statistics"
+   ]
+  },
+  {
+   "word": "Science",
+   "hints": [
+    {
+     "text": "School subject",
+     "level": 1
+    },
+    {
+     "text": "Experiment class",
+     "level": 1
+    },
+    {
+     "text": "Lab coats",
+     "level": 2
+    },
+    {
+     "text": "Hypothesis",
+     "level": 2
+    },
+    {
+     "text": "Biology chemistry physics",
+     "level": 3
+    },
+    {
+     "text": "Microscopes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Math",
+    "Geography",
+    "History"
+   ]
+  },
+  {
+   "word": "History",
+   "hints": [
+    {
+     "text": "School subject",
+     "level": 1
+    },
+    {
+     "text": "Past studies",
+     "level": 1
+    },
+    {
+     "text": "Dates to memorize",
+     "level": 2
+    },
+    {
+     "text": "Ancient empires",
+     "level": 2
+    },
+    {
+     "text": "Timelines",
+     "level": 3
+    },
+    {
+     "text": "Wars and kings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Geography",
+    "Literature",
+    "Civics"
+   ]
+  },
+  {
+   "word": "Geography",
+   "hints": [
+    {
+     "text": "School subject",
+     "level": 1
+    },
+    {
+     "text": "Earth studies",
+     "level": 1
+    },
+    {
+     "text": "Maps and capitals",
+     "level": 2
+    },
+    {
+     "text": "Climate zones",
+     "level": 2
+    },
+    {
+     "text": "Rivers and mountains",
+     "level": 3
+    },
+    {
+     "text": "Atlas",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "History",
+    "Science",
+    "Astronomy"
+   ]
+  },
+  {
+   "word": "English",
+   "hints": [
+    {
+     "text": "School subject",
+     "level": 1
+    },
+    {
+     "text": "Language class",
+     "level": 1
+    },
+    {
+     "text": "Essays and grammar",
+     "level": 2
+    },
+    {
+     "text": "Reading novels",
+     "level": 2
+    },
+    {
+     "text": "Poetry and prose",
+     "level": 3
+    },
+    {
+     "text": "Book reports",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "History",
+    "Drama",
+    "Art"
+   ]
+  },
+  {
+   "word": "Art",
+   "hints": [
+    {
+     "text": "School subject",
+     "level": 1
+    },
+    {
+     "text": "Creative class",
+     "level": 1
+    },
+    {
+     "text": "Painting and drawing",
+     "level": 2
+    },
+    {
+     "text": "Messy hands",
+     "level": 2
+    },
+    {
+     "text": "Easels and brushes",
+     "level": 3
+    },
+    {
+     "text": "Clay models",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Music",
+    "Drama",
+    "Craft"
+   ]
+  },
+  {
+   "word": "Music",
+   "hints": [
+    {
+     "text": "School subject",
+     "level": 1
+    },
+    {
+     "text": "Sound class",
+     "level": 1
+    },
+    {
+     "text": "Choir practice",
+     "level": 2
+    },
+    {
+     "text": "Learning recorder",
+     "level": 2
+    },
+    {
+     "text": "Notes and rhythm",
+     "level": 3
+    },
+    {
+     "text": "Instruments",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Art",
+    "Drama",
+    "Dance"
+   ]
+  },
+  {
+   "word": "Gym class",
+   "hints": [
+    {
+     "text": "School subject",
+     "level": 1
+    },
+    {
+     "text": "Sports lesson",
+     "level": 1
+    },
+    {
+     "text": "Running laps",
+     "level": 2
+    },
+    {
+     "text": "Dodgeball",
+     "level": 2
+    },
+    {
+     "text": "Sports shorts",
+     "level": 3
+    },
+    {
+     "text": "Whistle blowing",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Recess",
+    "Health",
+    "Dance"
+   ]
+  },
+  {
+   "word": "Chemistry",
+   "hints": [
+    {
+     "text": "Science subject",
+     "level": 1
+    },
+    {
+     "text": "Reactions class",
+     "level": 1
+    },
+    {
+     "text": "Periodic table",
+     "level": 2
+    },
+    {
+     "text": "Lab experiments",
+     "level": 2
+    },
+    {
+     "text": "Beakers and burners",
+     "level": 3
+    },
+    {
+     "text": "Formulas",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Physics",
+    "Biology",
+    "Alchemy"
+   ]
+  },
+  {
+   "word": "Physics",
+   "hints": [
+    {
+     "text": "Science subject",
+     "level": 1
+    },
+    {
+     "text": "Forces class",
+     "level": 1
+    },
+    {
+     "text": "Gravity and motion",
+     "level": 2
+    },
+    {
+     "text": "Equations",
+     "level": 2
+    },
+    {
+     "text": "Newton's laws",
+     "level": 3
+    },
+    {
+     "text": "Light and energy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chemistry",
+    "Math",
+    "Astronomy"
+   ]
+  },
+  {
+   "word": "Biology",
+   "hints": [
+    {
+     "text": "Science subject",
+     "level": 1
+    },
+    {
+     "text": "Life class",
+     "level": 1
+    },
+    {
+     "text": "Cells and genes",
+     "level": 2
+    },
+    {
+     "text": "Dissecting frogs",
+     "level": 2
+    },
+    {
+     "text": "Microscope slides",
+     "level": 3
+    },
+    {
+     "text": "Ecosystems",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chemistry",
+    "Physics",
+    "Medicine"
+   ]
+  },
+  {
+   "word": "Algebra",
+   "hints": [
+    {
+     "text": "Math branch",
+     "level": 1
+    },
+    {
+     "text": "Equation work",
+     "level": 1
+    },
+    {
+     "text": "Solve for x",
+     "level": 2
+    },
+    {
+     "text": "High school math",
+     "level": 2
+    },
+    {
+     "text": "Variables and symbols",
+     "level": 3
+    },
+    {
+     "text": "Unknowns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Geometry",
+    "Calculus",
+    "Arithmetic"
+   ]
+  },
+  {
+   "word": "Geometry",
+   "hints": [
+    {
+     "text": "Math branch",
+     "level": 1
+    },
+    {
+     "text": "Shapes study",
+     "level": 1
+    },
+    {
+     "text": "Angles and triangles",
+     "level": 2
+    },
+    {
+     "text": "Proofs",
+     "level": 2
+    },
+    {
+     "text": "Protractor and compass",
+     "level": 3
+    },
+    {
+     "text": "Theorems",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Algebra",
+    "Trigonometry",
+    "Calculus"
+   ]
+  },
+  {
+   "word": "Essay",
+   "hints": [
+    {
+     "text": "Writing task",
+     "level": 1
+    },
+    {
+     "text": "Assignment",
+     "level": 1
+    },
+    {
+     "text": "Word count limits",
+     "level": 2
+    },
+    {
+     "text": "Late night writing",
+     "level": 2
+    },
+    {
+     "text": "Introduction and conclusion",
+     "level": 3
+    },
+    {
+     "text": "Thesis",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Report",
+    "Story",
+    "Poem"
+   ]
+  },
+  {
+   "word": "Project",
+   "hints": [
+    {
+     "text": "School task",
+     "level": 1
+    },
+    {
+     "text": "Group work",
+     "level": 1
+    },
+    {
+     "text": "Poster boards",
+     "level": 2
+    },
+    {
+     "text": "Presentations",
+     "level": 2
+    },
+    {
+     "text": "Teamwork",
+     "level": 3
+    },
+    {
+     "text": "Deadline looming",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Homework",
+    "Essay",
+    "Experiment"
+   ]
+  },
+  {
+   "word": "Presentation",
+   "hints": [
+    {
+     "text": "Speech task",
+     "level": 1
+    },
+    {
+     "text": "Class talk",
+     "level": 1
+    },
+    {
+     "text": "Slides and notes",
+     "level": 2
+    },
+    {
+     "text": "Nervous speaking",
+     "level": 2
+    },
+    {
+     "text": "Projector screen",
+     "level": 3
+    },
+    {
+     "text": "Audience questions",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Debate",
+    "Essay",
+    "Lecture"
+   ]
+  },
+  {
+   "word": "Lecture",
+   "hints": [
+    {
+     "text": "Teaching talk",
+     "level": 1
+    },
+    {
+     "text": "University class",
+     "level": 1
+    },
+    {
+     "text": "Professor speaks",
+     "level": 2
+    },
+    {
+     "text": "Take notes",
+     "level": 2
+    },
+    {
+     "text": "Big hall",
+     "level": 3
+    },
+    {
+     "text": "Slides on screen",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Seminar",
+    "Lesson",
+    "Speech"
+   ]
+  },
+  {
+   "word": "Scholarship",
+   "hints": [
+    {
+     "text": "Study funding",
+     "level": 1
+    },
+    {
+     "text": "Merit award",
+     "level": 1
+    },
+    {
+     "text": "Pays tuition",
+     "level": 2
+    },
+    {
+     "text": "Competitive application",
+     "level": 2
+    },
+    {
+     "text": "Grants for grades",
+     "level": 3
+    },
+    {
+     "text": "Prestigious",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Loan",
+    "Diploma",
+    "Prize"
+   ]
+  },
+  {
+   "word": "University",
+   "hints": [
+    {
+     "text": "Higher education",
+     "level": 1
+    },
+    {
+     "text": "Campus",
+     "level": 1
+    },
+    {
+     "text": "Degrees offered",
+     "level": 2
+    },
+    {
+     "text": "Dorm life",
+     "level": 2
+    },
+    {
+     "text": "Lecture halls",
+     "level": 3
+    },
+    {
+     "text": "Professors",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "College",
+    "School",
+    "Academy"
+   ]
+  },
+  {
+   "word": "Kindergarten",
+   "hints": [
+    {
+     "text": "Early school",
+     "level": 1
+    },
+    {
+     "text": "Preschool",
+     "level": 1
+    },
+    {
+     "text": "Nap time",
+     "level": 2
+    },
+    {
+     "text": "Finger painting",
+     "level": 2
+    },
+    {
+     "text": "Tiny chairs",
+     "level": 3
+    },
+    {
+     "text": "Alphabet songs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nursery",
+    "Daycare",
+    "Primary school"
+   ]
+  },
+  {
+   "word": "Dormitory",
+   "hints": [
+    {
+     "text": "Student housing",
+     "level": 1
+    },
+    {
+     "text": "Campus residence",
+     "level": 1
+    },
+    {
+     "text": "Roommates",
+     "level": 2
+    },
+    {
+     "text": "Late night pizza",
+     "level": 2
+    },
+    {
+     "text": "Bunk beds",
+     "level": 3
+    },
+    {
+     "text": "Shared bathrooms",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hostel",
+    "Apartment",
+    "Hotel"
+   ]
+  },
+  {
+   "word": "Campus",
+   "hints": [
+    {
+     "text": "University grounds",
+     "level": 1
+    },
+    {
+     "text": "School area",
+     "level": 1
+    },
+    {
+     "text": "Student life",
+     "level": 2
+    },
+    {
+     "text": "Walk between classes",
+     "level": 2
+    },
+    {
+     "text": "Quad lawns",
+     "level": 3
+    },
+    {
+     "text": "Many buildings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Village",
+    "Park",
+    "Office park"
+   ]
+  },
+  {
+   "word": "Tuition",
+   "hints": [
+    {
+     "text": "School fees",
+     "level": 1
+    },
+    {
+     "text": "Education cost",
+     "level": 1
+    },
+    {
+     "text": "Expensive degrees",
+     "level": 2
+    },
+    {
+     "text": "Paid each term",
+     "level": 2
+    },
+    {
+     "text": "Bills from college",
+     "level": 3
+    },
+    {
+     "text": "Student loans",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Scholarship",
+    "Rent",
+    "Salary"
+   ]
+  },
+  {
+   "word": "Grade",
+   "hints": [
+    {
+     "text": "Score",
+     "level": 1
+    },
+    {
+     "text": "Mark",
+     "level": 1
+    },
+    {
+     "text": "Report card result",
+     "level": 2
+    },
+    {
+     "text": "Curve debates",
+     "level": 2
+    },
+    {
+     "text": "Marks or percentages",
+     "level": 3
+    },
+    {
+     "text": "Teacher assigns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rank",
+    "Level",
+    "Prize"
+   ]
+  },
+  {
+   "word": "Attendance",
+   "hints": [
+    {
+     "text": "Roll call",
+     "level": 1
+    },
+    {
+     "text": "Presence record",
+     "level": 1
+    },
+    {
+     "text": "Absent or present",
+     "level": 2
+    },
+    {
+     "text": "Morning register",
+     "level": 2
+    },
+    {
+     "text": "Teacher calls names",
+     "level": 3
+    },
+    {
+     "text": "Tick marks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Grade",
+    "Uniform",
+    "Homework"
+   ]
+  },
+  {
+   "word": "Hall pass",
+   "hints": [
+    {
+     "text": "School permit",
+     "level": 1
+    },
+    {
+     "text": "Corridor ticket",
+     "level": 1
+    },
+    {
+     "text": "Bathroom breaks",
+     "level": 2
+    },
+    {
+     "text": "Teacher signs",
+     "level": 2
+    },
+    {
+     "text": "Wooden block or card",
+     "level": 3
+    },
+    {
+     "text": "Leave class",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ticket",
+    "Badge",
+    "Permission slip"
+   ]
+  },
+  {
+   "word": "Permission slip",
+   "hints": [
+    {
+     "text": "Parent consent",
+     "level": 1
+    },
+    {
+     "text": "School form",
+     "level": 1
+    },
+    {
+     "text": "Field trips",
+     "level": 2
+    },
+    {
+     "text": "Signed at home",
+     "level": 2
+    },
+    {
+     "text": "Tear off section",
+     "level": 3
+    },
+    {
+     "text": "Due this week",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Report card",
+    "Hall pass",
+    "Diploma"
+   ]
+  },
+  {
+   "word": "Crayon",
+   "hints": [
+    {
+     "text": "Coloring tool",
+     "level": 1
+    },
+    {
+     "text": "Art supply",
+     "level": 1
+    },
+    {
+     "text": "Kids drawings",
+     "level": 2
+    },
+    {
+     "text": "Melts in sun",
+     "level": 2
+    },
+    {
+     "text": "Wax stick",
+     "level": 3
+    },
+    {
+     "text": "Many colors",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pencil",
+    "Chalk",
+    "Marker"
+   ]
+  },
+  {
+   "word": "Marker",
+   "hints": [
+    {
+     "text": "Writing tool",
+     "level": 1
+    },
+    {
+     "text": "Art supply",
+     "level": 1
+    },
+    {
+     "text": "Whiteboards",
+     "level": 2
+    },
+    {
+     "text": "Posters",
+     "level": 2
+    },
+    {
+     "text": "Felt tip",
+     "level": 3
+    },
+    {
+     "text": "Strong smell",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Crayon",
+    "Pen",
+    "Highlighter"
+   ]
+  },
+  {
+   "word": "Highlighter",
+   "hints": [
+    {
+     "text": "Stationery",
+     "level": 1
+    },
+    {
+     "text": "Study tool",
+     "level": 1
+    },
+    {
+     "text": "Marks key points",
+     "level": 2
+    },
+    {
+     "text": "Textbook pages",
+     "level": 2
+    },
+    {
+     "text": "Neon yellow",
+     "level": 3
+    },
+    {
+     "text": "Chisel tip",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Marker",
+    "Pen",
+    "Crayon"
+   ]
+  },
+  {
+   "word": "Glue stick",
+   "hints": [
+    {
+     "text": "Craft supply",
+     "level": 1
+    },
+    {
+     "text": "Adhesive",
+     "level": 1
+    },
+    {
+     "text": "Art projects",
+     "level": 2
+    },
+    {
+     "text": "Bonds paper",
+     "level": 2
+    },
+    {
+     "text": "Twist up tube",
+     "level": 3
+    },
+    {
+     "text": "Dries clear",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tape",
+    "Paste",
+    "Stapler"
+   ]
+  },
+  {
+   "word": "Scissors",
+   "hints": [
+    {
+     "text": "Cutting tool",
+     "level": 1
+    },
+    {
+     "text": "Craft supply",
+     "level": 1
+    },
+    {
+     "text": "Safety rounded tips",
+     "level": 2
+    },
+    {
+     "text": "Cutting paper",
+     "level": 2
+    },
+    {
+     "text": "Two blades",
+     "level": 3
+    },
+    {
+     "text": "Finger loops",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Knife",
+    "Glue",
+    "Stapler"
+   ]
+  },
+  {
+   "word": "Stapler",
+   "hints": [
+    {
+     "text": "Office tool",
+     "level": 1
+    },
+    {
+     "text": "Fastener",
+     "level": 1
+    },
+    {
+     "text": "Joins worksheets",
+     "level": 2
+    },
+    {
+     "text": "Jams often",
+     "level": 2
+    },
+    {
+     "text": "Metal staples",
+     "level": 3
+    },
+    {
+     "text": "Press down",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Paperclip",
+    "Tape",
+    "Hole punch"
+   ]
+  },
+  {
+   "word": "Folder",
+   "hints": [
+    {
+     "text": "Paper holder",
+     "level": 1
+    },
+    {
+     "text": "Stationery",
+     "level": 1
+    },
+    {
+     "text": "Organizes worksheets",
+     "level": 2
+    },
+    {
+     "text": "Colored by subject",
+     "level": 2
+    },
+    {
+     "text": "Two pockets",
+     "level": 3
+    },
+    {
+     "text": "Folds in half",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Binder",
+    "Notebook",
+    "Envelope"
+   ]
+  },
+  {
+   "word": "Binder",
+   "hints": [
+    {
+     "text": "Paper holder",
+     "level": 1
+    },
+    {
+     "text": "Ring folder",
+     "level": 1
+    },
+    {
+     "text": "Divider tabs",
+     "level": 2
+    },
+    {
+     "text": "Heavy with notes",
+     "level": 2
+    },
+    {
+     "text": "Metal rings",
+     "level": 3
+    },
+    {
+     "text": "Hole punched pages",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Folder",
+    "Notebook",
+    "Clipboard"
+   ]
+  },
+  {
+   "word": "Pencil case",
+   "hints": [
+    {
+     "text": "Stationery holder",
+     "level": 1
+    },
+    {
+     "text": "Small pouch",
+     "level": 1
+    },
+    {
+     "text": "Holds pens",
+     "level": 2
+    },
+    {
+     "text": "Zip closure",
+     "level": 2
+    },
+    {
+     "text": "Fabric or tin",
+     "level": 3
+    },
+    {
+     "text": "Doodled on",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Backpack",
+    "Wallet",
+    "Lunchbox"
+   ]
+  },
+  {
+   "word": "Geometry box",
+   "hints": [
+    {
+     "text": "Math kit",
+     "level": 1
+    },
+    {
+     "text": "Tool case",
+     "level": 1
+    },
+    {
+     "text": "Exam essential",
+     "level": 2
+    },
+    {
+     "text": "Indian schools",
+     "level": 2
+    },
+    {
+     "text": "Compass and protractor",
+     "level": 3
+    },
+    {
+     "text": "Metal case",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pencil case",
+    "Calculator",
+    "Ruler"
+   ]
+  },
+  {
+   "word": "Abacus",
+   "hints": [
+    {
+     "text": "Counting tool",
+     "level": 1
+    },
+    {
+     "text": "Bead frame",
+     "level": 1
+    },
+    {
+     "text": "Early math",
+     "level": 2
+    },
+    {
+     "text": "Ancient calculator",
+     "level": 2
+    },
+    {
+     "text": "Sliding beads",
+     "level": 3
+    },
+    {
+     "text": "Wooden rods",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Calculator",
+    "Ruler",
+    "Counter"
+   ]
+  },
+  {
+   "word": "Flashcards",
+   "hints": [
+    {
+     "text": "Study tool",
+     "level": 1
+    },
+    {
+     "text": "Memory aids",
+     "level": 1
+    },
+    {
+     "text": "Vocabulary practice",
+     "level": 2
+    },
+    {
+     "text": "Quiz yourself",
+     "level": 2
+    },
+    {
+     "text": "Question front",
+     "level": 3
+    },
+    {
+     "text": "Answer back",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Notebook",
+    "Worksheet",
+    "Quiz"
+   ]
+  },
+  {
+   "word": "Worksheet",
+   "hints": [
+    {
+     "text": "Practice page",
+     "level": 1
+    },
+    {
+     "text": "Assignment",
+     "level": 1
+    },
+    {
+     "text": "Fill in blanks",
+     "level": 2
+    },
+    {
+     "text": "Handed out",
+     "level": 2
+    },
+    {
+     "text": "Printed questions",
+     "level": 3
+    },
+    {
+     "text": "Answer spaces",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Textbook",
+    "Quiz",
+    "Homework"
+   ]
+  },
+  {
+   "word": "Encyclopedia",
+   "hints": [
+    {
+     "text": "Reference book",
+     "level": 1
+    },
+    {
+     "text": "Knowledge set",
+     "level": 1
+    },
+    {
+     "text": "Many volumes",
+     "level": 2
+    },
+    {
+     "text": "Research projects",
+     "level": 2
+    },
+    {
+     "text": "Alphabetical articles",
+     "level": 3
+    },
+    {
+     "text": "Heavy books",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dictionary",
+    "Atlas",
+    "Almanac"
+   ]
+  },
+  {
+   "word": "Microscope",
+   "hints": [
+    {
+     "text": "Science tool",
+     "level": 1
+    },
+    {
+     "text": "Lab instrument",
+     "level": 1
+    },
+    {
+     "text": "Biology class",
+     "level": 2
+    },
+    {
+     "text": "Tiny cells",
+     "level": 2
+    },
+    {
+     "text": "Eyepiece and lenses",
+     "level": 3
+    },
+    {
+     "text": "Glass slides",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Telescope",
+    "Magnifier",
+    "Camera"
+   ]
+  },
+  {
+   "word": "Test tube",
+   "hints": [
+    {
+     "text": "Lab glassware",
+     "level": 1
+    },
+    {
+     "text": "Science vessel",
+     "level": 1
+    },
+    {
+     "text": "Chemistry experiments",
+     "level": 2
+    },
+    {
+     "text": "Rack holder",
+     "level": 2
+    },
+    {
+     "text": "Thin glass vial",
+     "level": 3
+    },
+    {
+     "text": "Rounded bottom",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Beaker",
+    "Flask",
+    "Pipette"
+   ]
+  },
+  {
+   "word": "Beaker",
+   "hints": [
+    {
+     "text": "Lab glassware",
+     "level": 1
+    },
+    {
+     "text": "Measuring cup",
+     "level": 1
+    },
+    {
+     "text": "Chemistry class",
+     "level": 2
+    },
+    {
+     "text": "Mixing liquids",
+     "level": 2
+    },
+    {
+     "text": "Spout lip",
+     "level": 3
+    },
+    {
+     "text": "Volume marks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Flask",
+    "Test tube",
+    "Jug"
+   ]
+  },
+  {
+   "word": "Periodic table",
+   "hints": [
+    {
+     "text": "Chemistry chart",
+     "level": 1
+    },
+    {
+     "text": "Element list",
+     "level": 1
+    },
+    {
+     "text": "Classroom poster",
+     "level": 2
+    },
+    {
+     "text": "Memorize symbols",
+     "level": 2
+    },
+    {
+     "text": "Rows and columns",
+     "level": 3
+    },
+    {
+     "text": "Atomic numbers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Formula sheet",
+    "Atlas",
+    "Timetable"
+   ]
+  },
+  {
+   "word": "Skeleton model",
+   "hints": [
+    {
+     "text": "Biology prop",
+     "level": 1
+    },
+    {
+     "text": "Anatomy prop",
+     "level": 1
+    },
+    {
+     "text": "Science classroom",
+     "level": 2
+    },
+    {
+     "text": "Halloween prop",
+     "level": 2
+    },
+    {
+     "text": "Plastic bones",
+     "level": 3
+    },
+    {
+     "text": "Hanging stand",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Torso model",
+    "Globe",
+    "Mannequin"
+   ]
+  },
+  {
+   "word": "Timetable",
+   "hints": [
+    {
+     "text": "Schedule",
+     "level": 1
+    },
+    {
+     "text": "Class plan",
+     "level": 1
+    },
+    {
+     "text": "Which lesson next",
+     "level": 2
+    },
+    {
+     "text": "Pinned on wall",
+     "level": 2
+    },
+    {
+     "text": "Days and periods",
+     "level": 3
+    },
+    {
+     "text": "Grid layout",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Calendar",
+    "Syllabus",
+    "Diary"
+   ]
+  },
+  {
+   "word": "Syllabus",
+   "hints": [
+    {
+     "text": "Course plan",
+     "level": 1
+    },
+    {
+     "text": "Topic list",
+     "level": 1
+    },
+    {
+     "text": "First day handout",
+     "level": 2
+    },
+    {
+     "text": "Exam topics",
+     "level": 2
+    },
+    {
+     "text": "Chapters listed",
+     "level": 3
+    },
+    {
+     "text": "Reading schedule",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Timetable",
+    "Textbook",
+    "Curriculum"
+   ]
+  },
+  {
+   "word": "Favorite student",
+   "hints": [
+    {
+     "text": "Favored pupil",
+     "level": 1
+    },
+    {
+     "text": "Classroom role",
+     "level": 1
+    },
+    {
+     "text": "Sits in front",
+     "level": 2
+    },
+    {
+     "text": "Brings apples",
+     "level": 2
+    },
+    {
+     "text": "Always answers",
+     "level": 3
+    },
+    {
+     "text": "Teased by others",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Class clown",
+    "Monitor",
+    "Bully"
+   ]
+  },
+  {
+   "word": "Class clown",
+   "hints": [
+    {
+     "text": "Funny student",
+     "level": 1
+    },
+    {
+     "text": "Joker role",
+     "level": 1
+    },
+    {
+     "text": "Makes everyone laugh",
+     "level": 2
+    },
+    {
+     "text": "Detention regular",
+     "level": 2
+    },
+    {
+     "text": "Jokes and pranks",
+     "level": 3
+    },
+    {
+     "text": "Sent outside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bully",
+    "Nerd",
+    "Monitor"
+   ]
+  },
+  {
+   "word": "Bully",
+   "hints": [
+    {
+     "text": "Mean student",
+     "level": 1
+    },
+    {
+     "text": "Troublemaker",
+     "level": 1
+    },
+    {
+     "text": "Picks on others",
+     "level": 2
+    },
+    {
+     "text": "Anti campaigns",
+     "level": 2
+    },
+    {
+     "text": "Takes lunch money",
+     "level": 3
+    },
+    {
+     "text": "Pushes kids",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Class clown",
+    "Prankster",
+    "Rival"
+   ]
+  },
+  {
+   "word": "Nerd",
+   "hints": [
+    {
+     "text": "Studious kid",
+     "level": 1
+    },
+    {
+     "text": "Bookworm",
+     "level": 1
+    },
+    {
+     "text": "Loves science",
+     "level": 2
+    },
+    {
+     "text": "Top grades",
+     "level": 2
+    },
+    {
+     "text": "Thick glasses",
+     "level": 3
+    },
+    {
+     "text": "Pocket protector",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jock",
+    "Class clown",
+    "Bookworm"
+   ]
+  },
+  {
+   "word": "Monitor",
+   "hints": [
+    {
+     "text": "Class helper",
+     "level": 1
+    },
+    {
+     "text": "Student leader",
+     "level": 1
+    },
+    {
+     "text": "Takes attendance",
+     "level": 2
+    },
+    {
+     "text": "Hall duty",
+     "level": 2
+    },
+    {
+     "text": "Badge on chest",
+     "level": 3
+    },
+    {
+     "text": "Keeps order",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Prefect",
+    "Captain",
+    "Teacher"
+   ]
+  },
+  {
+   "word": "Prefect",
+   "hints": [
+    {
+     "text": "Student leader",
+     "level": 1
+    },
+    {
+     "text": "School official",
+     "level": 1
+    },
+    {
+     "text": "Senior students",
+     "level": 2
+    },
+    {
+     "text": "Supervise younger",
+     "level": 2
+    },
+    {
+     "text": "Badge",
+     "level": 3
+    },
+    {
+     "text": "Keeps discipline",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Monitor",
+    "Head boy",
+    "Captain"
+   ]
+  },
+  {
+   "word": "Head girl",
+   "hints": [
+    {
+     "text": "Student leader",
+     "level": 1
+    },
+    {
+     "text": "Top prefect",
+     "level": 1
+    },
+    {
+     "text": "Elected seniors",
+     "level": 2
+    },
+    {
+     "text": "Speeches",
+     "level": 2
+    },
+    {
+     "text": "Special badge",
+     "level": 3
+    },
+    {
+     "text": "Represents school",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Prefect",
+    "Captain",
+    "Monitor"
+   ]
+  },
+  {
+   "word": "Tutor",
+   "hints": [
+    {
+     "text": "Private teacher",
+     "level": 1
+    },
+    {
+     "text": "Helper",
+     "level": 1
+    },
+    {
+     "text": "Extra lessons",
+     "level": 2
+    },
+    {
+     "text": "Exam prep",
+     "level": 2
+    },
+    {
+     "text": "One student",
+     "level": 3
+    },
+    {
+     "text": "After school",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Teacher",
+    "Coach",
+    "Mentor"
+   ]
+  },
+  {
+   "word": "Janitor",
+   "hints": [
+    {
+     "text": "School staff",
+     "level": 1
+    },
+    {
+     "text": "Caretaker",
+     "level": 1
+    },
+    {
+     "text": "Mops hallways",
+     "level": 2
+    },
+    {
+     "text": "Fixes things",
+     "level": 2
+    },
+    {
+     "text": "Ring of keys",
+     "level": 3
+    },
+    {
+     "text": "Cleaning cart",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gardener",
+    "Guard",
+    "Cook"
+   ]
+  },
+  {
+   "word": "Counselor",
+   "hints": [
+    {
+     "text": "School staff",
+     "level": 1
+    },
+    {
+     "text": "Guidance advisor",
+     "level": 1
+    },
+    {
+     "text": "College applications",
+     "level": 2
+    },
+    {
+     "text": "Personal problems",
+     "level": 2
+    },
+    {
+     "text": "Quiet office",
+     "level": 3
+    },
+    {
+     "text": "Listens well",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Teacher",
+    "Psychologist",
+    "Principal"
+   ]
+  },
+  {
+   "word": "Lunch lady",
+   "hints": [
+    {
+     "text": "Cafeteria staff",
+     "level": 1
+    },
+    {
+     "text": "School cook",
+     "level": 1
+    },
+    {
+     "text": "Serves meals",
+     "level": 2
+    },
+    {
+     "text": "Hairnet",
+     "level": 2
+    },
+    {
+     "text": "Big ladle",
+     "level": 3
+    },
+    {
+     "text": "Tray line",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chef",
+    "Waitress",
+    "Janitor"
+   ]
+  },
+  {
+   "word": "Nurse office",
+   "hints": [
+    {
+     "text": "Sick room",
+     "level": 1
+    },
+    {
+     "text": "Health room",
+     "level": 1
+    },
+    {
+     "text": "Fake illnesses",
+     "level": 2
+    },
+    {
+     "text": "Ice packs",
+     "level": 2
+    },
+    {
+     "text": "Cot and thermometer",
+     "level": 3
+    },
+    {
+     "text": "First aid",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Library",
+    "Staff room",
+    "Clinic"
+   ]
+  },
+  {
+   "word": "Staff room",
+   "hints": [
+    {
+     "text": "Teachers lounge",
+     "level": 1
+    },
+    {
+     "text": "Rest area",
+     "level": 1
+    },
+    {
+     "text": "Coffee and gossip",
+     "level": 2
+    },
+    {
+     "text": "Students not allowed",
+     "level": 2
+    },
+    {
+     "text": "Kettle and sofas",
+     "level": 3
+    },
+    {
+     "text": "Notice board",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Classroom",
+    "Nurse office",
+    "Library"
+   ]
+  },
+  {
+   "word": "Hallway",
+   "hints": [
+    {
+     "text": "School corridor",
+     "level": 1
+    },
+    {
+     "text": "Passage",
+     "level": 1
+    },
+    {
+     "text": "Rush between classes",
+     "level": 2
+    },
+    {
+     "text": "No running",
+     "level": 2
+    },
+    {
+     "text": "Lockers line walls",
+     "level": 3
+    },
+    {
+     "text": "Long and echoing",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Classroom",
+    "Staircase",
+    "Lobby"
+   ]
+  },
+  {
+   "word": "Notice board",
+   "hints": [
+    {
+     "text": "Information wall",
+     "level": 1
+    },
+    {
+     "text": "Bulletin",
+     "level": 1
+    },
+    {
+     "text": "Announcements",
+     "level": 2
+    },
+    {
+     "text": "Pinned flyers",
+     "level": 2
+    },
+    {
+     "text": "Cork surface",
+     "level": 3
+    },
+    {
+     "text": "Thumb tacks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Whiteboard",
+    "Poster",
+    "Calendar"
+   ]
+  },
+  {
+   "word": "Trophy cabinet",
+   "hints": [
+    {
+     "text": "Display case",
+     "level": 1
+    },
+    {
+     "text": "School pride",
+     "level": 1
+    },
+    {
+     "text": "Sports wins",
+     "level": 2
+    },
+    {
+     "text": "Polished cups",
+     "level": 2
+    },
+    {
+     "text": "Glass doors",
+     "level": 3
+    },
+    {
+     "text": "Shelves of awards",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bookshelf",
+    "Locker",
+    "Cupboard"
+   ]
+  },
+  {
+   "word": "Fire drill",
+   "hints": [
+    {
+     "text": "Safety practice",
+     "level": 1
+    },
+    {
+     "text": "Evacuation",
+     "level": 1
+    },
+    {
+     "text": "Line up outside",
+     "level": 2
+    },
+    {
+     "text": "Alarm sounds",
+     "level": 2
+    },
+    {
+     "text": "Roll call on field",
+     "level": 3
+    },
+    {
+     "text": "Exit routes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Assembly",
+    "Recess",
+    "Detention"
+   ]
+  },
+  {
+   "word": "Snow day",
+   "hints": [
+    {
+     "text": "School closure",
+     "level": 1
+    },
+    {
+     "text": "Winter surprise",
+     "level": 1
+    },
+    {
+     "text": "No classes",
+     "level": 2
+    },
+    {
+     "text": "Sledging outside",
+     "level": 2
+    },
+    {
+     "text": "Blizzard overnight",
+     "level": 3
+    },
+    {
+     "text": "Radio announcements",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Holiday",
+    "Weekend",
+    "Vacation"
+   ]
+  },
+  {
+   "word": "Summer school",
+   "hints": [
+    {
+     "text": "Extra classes",
+     "level": 1
+    },
+    {
+     "text": "Holiday learning",
+     "level": 1
+    },
+    {
+     "text": "Catching up",
+     "level": 2
+    },
+    {
+     "text": "Retaking courses",
+     "level": 2
+    },
+    {
+     "text": "Hot classrooms",
+     "level": 3
+    },
+    {
+     "text": "Short term",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Night school",
+    "Tutoring",
+    "Camp"
+   ]
+  },
+  {
+   "word": "Boarding school",
+   "hints": [
+    {
+     "text": "Residential academy",
+     "level": 1
+    },
+    {
+     "text": "Live on campus",
+     "level": 1
+    },
+    {
+     "text": "Dorms and matrons",
+     "level": 2
+    },
+    {
+     "text": "Holidays home",
+     "level": 2
+    },
+    {
+     "text": "Strict rules",
+     "level": 3
+    },
+    {
+     "text": "Uniforms",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Day school",
+    "College",
+    "Camp"
+   ]
+  },
+  {
+   "word": "Homeschool",
+   "hints": [
+    {
+     "text": "Learning in the house",
+     "level": 1
+    },
+    {
+     "text": "Parent taught",
+     "level": 1
+    },
+    {
+     "text": "Flexible schedule",
+     "level": 2
+    },
+    {
+     "text": "Kitchen classroom",
+     "level": 2
+    },
+    {
+     "text": "Parents as teachers",
+     "level": 3
+    },
+    {
+     "text": "Online lessons",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Boarding school",
+    "Tutoring",
+    "Kindergarten"
+   ]
+  },
+  {
+   "word": "Online class",
+   "hints": [
+    {
+     "text": "Virtual lesson",
+     "level": 1
+    },
+    {
+     "text": "Remote learning",
+     "level": 1
+    },
+    {
+     "text": "Mute your mic",
+     "level": 2
+    },
+    {
+     "text": "Webcam on",
+     "level": 2
+    },
+    {
+     "text": "Video call",
+     "level": 3
+    },
+    {
+     "text": "Shared screen",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lecture",
+    "Seminar",
+    "Webinar"
+   ]
+  },
+  {
+   "word": "Alphabet",
+   "hints": [
+    {
+     "text": "Writing basics",
+     "level": 1
+    },
+    {
+     "text": "Kindergarten lesson",
+     "level": 1
+    },
+    {
+     "text": "Songs to remember",
+     "level": 2
+    },
+    {
+     "text": "Learned first",
+     "level": 2
+    },
+    {
+     "text": "Twenty six symbols",
+     "level": 3
+    },
+    {
+     "text": "From a to z",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Numbers",
+    "Vocabulary",
+    "Grammar"
+   ]
+  },
+  {
+   "word": "Grammar",
+   "hints": [
+    {
+     "text": "Language rules",
+     "level": 1
+    },
+    {
+     "text": "English lesson",
+     "level": 1
+    },
+    {
+     "text": "Nouns and verbs",
+     "level": 2
+    },
+    {
+     "text": "Red pen corrections",
+     "level": 2
+    },
+    {
+     "text": "Punctuation",
+     "level": 3
+    },
+    {
+     "text": "Sentence structure",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spelling",
+    "Vocabulary",
+    "Syntax"
+   ]
+  },
+  {
+   "word": "Vocabulary",
+   "hints": [
+    {
+     "text": "Word knowledge",
+     "level": 1
+    },
+    {
+     "text": "Language skill",
+     "level": 1
+    },
+    {
+     "text": "Learn new words",
+     "level": 2
+    },
+    {
+     "text": "Flashcards",
+     "level": 2
+    },
+    {
+     "text": "Definitions",
+     "level": 3
+    },
+    {
+     "text": "Word lists",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Grammar",
+    "Spelling",
+    "Dictionary"
+   ]
+  },
+  {
+   "word": "Poem",
+   "hints": [
+    {
+     "text": "Writing piece",
+     "level": 1
+    },
+    {
+     "text": "Verse",
+     "level": 1
+    },
+    {
+     "text": "Recited in class",
+     "level": 2
+    },
+    {
+     "text": "Rhyming lines",
+     "level": 2
+    },
+    {
+     "text": "Stanzas",
+     "level": 3
+    },
+    {
+     "text": "Metaphors",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Essay",
+    "Song",
+    "Story"
+   ]
+  },
+  {
+   "word": "Novel",
+   "hints": [
+    {
+     "text": "Long book",
+     "level": 1
+    },
+    {
+     "text": "Fiction",
+     "level": 1
+    },
+    {
+     "text": "Reading assignment",
+     "level": 2
+    },
+    {
+     "text": "Book report",
+     "level": 2
+    },
+    {
+     "text": "Chapters and characters",
+     "level": 3
+    },
+    {
+     "text": "Plot twists",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Poem",
+    "Textbook",
+    "Comic"
+   ]
+  },
+  {
+   "word": "Book report",
+   "hints": [
+    {
+     "text": "School assignment",
+     "level": 1
+    },
+    {
+     "text": "Reading review",
+     "level": 1
+    },
+    {
+     "text": "Summarize the plot",
+     "level": 2
+    },
+    {
+     "text": "Due next week",
+     "level": 2
+    },
+    {
+     "text": "Characters and themes",
+     "level": 3
+    },
+    {
+     "text": "Cover page",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Essay",
+    "Poem",
+    "Worksheet"
+   ]
+  },
+  {
+   "word": "Spelling test",
+   "hints": [
+    {
+     "text": "Weekly quiz",
+     "level": 1
+    },
+    {
+     "text": "Word drill",
+     "level": 1
+    },
+    {
+     "text": "Friday practice",
+     "level": 2
+    },
+    {
+     "text": "Study word lists",
+     "level": 2
+    },
+    {
+     "text": "Teacher reads aloud",
+     "level": 3
+    },
+    {
+     "text": "Write correctly",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Quiz",
+    "Spelling bee",
+    "Exam"
+   ]
+  },
+  {
+   "word": "Pop quiz",
+   "hints": [
+    {
+     "text": "Surprise test",
+     "level": 1
+    },
+    {
+     "text": "Short exam",
+     "level": 1
+    },
+    {
+     "text": "No warning",
+     "level": 2
+    },
+    {
+     "text": "Groans in class",
+     "level": 2
+    },
+    {
+     "text": "Unannounced questions",
+     "level": 3
+    },
+    {
+     "text": "Quick marking",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Exam",
+    "Homework",
+    "Spelling test"
+   ]
+  },
+  {
+   "word": "Final exam",
+   "hints": [
+    {
+     "text": "End assessment",
+     "level": 1
+    },
+    {
+     "text": "Big assessment",
+     "level": 1
+    },
+    {
+     "text": "Last week of term",
+     "level": 2
+    },
+    {
+     "text": "Cramming",
+     "level": 2
+    },
+    {
+     "text": "Silent hall",
+     "level": 3
+    },
+    {
+     "text": "Long paper",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Midterm",
+    "Quiz",
+    "Project"
+   ]
+  },
+  {
+   "word": "Cheat sheet",
+   "hints": [
+    {
+     "text": "Hidden notes",
+     "level": 1
+    },
+    {
+     "text": "Exam trick",
+     "level": 1
+    },
+    {
+     "text": "Not allowed",
+     "level": 2
+    },
+    {
+     "text": "Tiny writing",
+     "level": 2
+    },
+    {
+     "text": "Scribbled formulas",
+     "level": 3
+    },
+    {
+     "text": "Hidden in sleeve",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Flashcards",
+    "Notebook",
+    "Textbook"
+   ]
+  },
+  {
+   "word": "Gold star",
+   "hints": [
+    {
+     "text": "Reward sticker",
+     "level": 1
+    },
+    {
+     "text": "Teacher praise",
+     "level": 1
+    },
+    {
+     "text": "Good work",
+     "level": 2
+    },
+    {
+     "text": "Chart on wall",
+     "level": 2
+    },
+    {
+     "text": "Shiny sticker",
+     "level": 3
+    },
+    {
+     "text": "Shape of a point",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Certificate",
+    "Badge",
+    "Trophy"
+   ]
+  },
+  {
+   "word": "Sticker chart",
+   "hints": [
+    {
+     "text": "Reward system",
+     "level": 1
+    },
+    {
+     "text": "Progress tracker",
+     "level": 1
+    },
+    {
+     "text": "Good behavior",
+     "level": 2
+    },
+    {
+     "text": "Kindergarten",
+     "level": 2
+    },
+    {
+     "text": "Rows of shiny dots",
+     "level": 3
+    },
+    {
+     "text": "Prize at end",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Report card",
+    "Calendar",
+    "Trophy"
+   ]
+  },
+  {
+   "word": "Valedictorian",
+   "hints": [
+    {
+     "text": "Top student",
+     "level": 1
+    },
+    {
+     "text": "Class leader",
+     "level": 1
+    },
+    {
+     "text": "Gives graduation speech",
+     "level": 2
+    },
+    {
+     "text": "Highest grades",
+     "level": 2
+    },
+    {
+     "text": "Honors cords",
+     "level": 3
+    },
+    {
+     "text": "Stage moment",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Salutatorian",
+    "Prefect",
+    "Monitor"
+   ]
+  },
+  {
+   "word": "Alumni",
+   "hints": [
+    {
+     "text": "Former students",
+     "level": 1
+    },
+    {
+     "text": "Graduates",
+     "level": 1
+    },
+    {
+     "text": "Reunions",
+     "level": 2
+    },
+    {
+     "text": "Donations",
+     "level": 2
+    },
+    {
+     "text": "Old school ties",
+     "level": 3
+    },
+    {
+     "text": "Yearbook faces",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Students",
+    "Teachers",
+    "Freshmen"
+   ]
+  },
+  {
+   "word": "Yearbook",
+   "hints": [
+    {
+     "text": "School album",
+     "level": 1
+    },
+    {
+     "text": "Memory album",
+     "level": 1
+    },
+    {
+     "text": "Signed by friends",
+     "level": 2
+    },
+    {
+     "text": "Final term",
+     "level": 2
+    },
+    {
+     "text": "Class photos",
+     "level": 3
+    },
+    {
+     "text": "Superlatives",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Diary",
+    "Photo album",
+    "Newspaper"
+   ]
+  },
+  {
+   "word": "Freshman",
+   "hints": [
+    {
+     "text": "First year student",
+     "level": 1
+    },
+    {
+     "text": "Newcomer",
+     "level": 1
+    },
+    {
+     "text": "Gets lost on campus",
+     "level": 2
+    },
+    {
+     "text": "Orientation",
+     "level": 2
+    },
+    {
+     "text": "New faces",
+     "level": 3
+    },
+    {
+     "text": "Youngest class",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Senior",
+    "Sophomore",
+    "Graduate"
+   ]
+  },
+  {
+   "word": "Senior",
+   "hints": [
+    {
+     "text": "Final year student",
+     "level": 1
+    },
+    {
+     "text": "Oldest class",
+     "level": 1
+    },
+    {
+     "text": "College applications",
+     "level": 2
+    },
+    {
+     "text": "Prom",
+     "level": 2
+    },
+    {
+     "text": "Last year",
+     "level": 3
+    },
+    {
+     "text": "Graduating soon",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Freshman",
+    "Junior",
+    "Alumni"
+   ]
+  },
+  {
+   "word": "Orientation",
+   "hints": [
+    {
+     "text": "Welcome program",
+     "level": 1
+    },
+    {
+     "text": "First week",
+     "level": 1
+    },
+    {
+     "text": "Campus tours",
+     "level": 2
+    },
+    {
+     "text": "Meet new people",
+     "level": 2
+    },
+    {
+     "text": "Name tags",
+     "level": 3
+    },
+    {
+     "text": "Icebreakers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Graduation",
+    "Assembly",
+    "Seminar"
+   ]
+  },
+  {
+   "word": "Seminar",
+   "hints": [
+    {
+     "text": "Small class",
+     "level": 1
+    },
+    {
+     "text": "Discussion session",
+     "level": 1
+    },
+    {
+     "text": "University course",
+     "level": 2
+    },
+    {
+     "text": "Presentations",
+     "level": 2
+    },
+    {
+     "text": "Round table",
+     "level": 3
+    },
+    {
+     "text": "Debate ideas",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lecture",
+    "Workshop",
+    "Tutorial"
+   ]
+  },
+  {
+   "word": "Thesis",
+   "hints": [
+    {
+     "text": "Long paper",
+     "level": 1
+    },
+    {
+     "text": "Research project",
+     "level": 1
+    },
+    {
+     "text": "Final year",
+     "level": 2
+    },
+    {
+     "text": "Months of work",
+     "level": 2
+    },
+    {
+     "text": "Bound volume",
+     "level": 3
+    },
+    {
+     "text": "Defended before panel",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Essay",
+    "Dissertation",
+    "Report"
+   ]
+  },
+  {
+   "word": "Library card",
+   "hints": [
+    {
+     "text": "Borrowing pass",
+     "level": 1
+    },
+    {
+     "text": "Member pass",
+     "level": 1
+    },
+    {
+     "text": "Check out books",
+     "level": 2
+    },
+    {
+     "text": "Overdue fines",
+     "level": 2
+    },
+    {
+     "text": "Barcode on back",
+     "level": 3
+    },
+    {
+     "text": "Name printed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Student id",
+    "Hall pass",
+    "Ticket"
+   ]
+  },
+  {
+   "word": "Student id",
+   "hints": [
+    {
+     "text": "Identity card",
+     "level": 1
+    },
+    {
+     "text": "School pass",
+     "level": 1
+    },
+    {
+     "text": "Discounts",
+     "level": 2
+    },
+    {
+     "text": "Campus access",
+     "level": 2
+    },
+    {
+     "text": "Photo and number",
+     "level": 3
+    },
+    {
+     "text": "Lanyard",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Library card",
+    "Passport",
+    "Ticket"
+   ]
+  },
+  {
+   "word": "Backpack strap",
+   "hints": [
+    {
+     "text": "Bag part",
+     "level": 1
+    },
+    {
+     "text": "Shoulder band",
+     "level": 1
+    },
+    {
+     "text": "Adjust the length",
+     "level": 2
+    },
+    {
+     "text": "Breaks when overloaded",
+     "level": 2
+    },
+    {
+     "text": "Padded strip",
+     "level": 3
+    },
+    {
+     "text": "Buckle clip",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Handle",
+    "Zipper",
+    "Pocket"
+   ]
+  },
+  {
+   "word": "Whistle",
+   "hints": [
+    {
+     "text": "Coach tool",
+     "level": 1
+    },
+    {
+     "text": "Signal device",
+     "level": 1
+    },
+    {
+     "text": "Gym teachers blow it",
+     "level": 2
+    },
+    {
+     "text": "Ends the game",
+     "level": 2
+    },
+    {
+     "text": "Shrill sound",
+     "level": 3
+    },
+    {
+     "text": "Hangs on lanyard",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bell",
+    "Horn",
+    "Megaphone"
+   ]
+  },
+  {
+   "word": "Megaphone",
+   "hints": [
+    {
+     "text": "Loud speaker",
+     "level": 1
+    },
+    {
+     "text": "Voice amplifier",
+     "level": 1
+    },
+    {
+     "text": "Sports day announcements",
+     "level": 2
+    },
+    {
+     "text": "Cheerleaders",
+     "level": 2
+    },
+    {
+     "text": "Cone shape",
+     "level": 3
+    },
+    {
+     "text": "Handle trigger",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Microphone",
+    "Whistle",
+    "Bell"
+   ]
+  },
+  {
+   "word": "Duster",
+   "hints": [
+    {
+     "text": "Cleaning tool",
+     "level": 1
+    },
+    {
+     "text": "Classroom item",
+     "level": 1
+    },
+    {
+     "text": "Clapped outside",
+     "level": 2
+    },
+    {
+     "text": "Dusty clouds",
+     "level": 2
+    },
+    {
+     "text": "Felt pad",
+     "level": 3
+    },
+    {
+     "text": "Wooden block",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sponge",
+    "Wiper",
+    "Brush"
+   ]
+  },
+  {
+   "word": "Inkpot",
+   "hints": [
+    {
+     "text": "Old stationery",
+     "level": 1
+    },
+    {
+     "text": "Writing supply",
+     "level": 1
+    },
+    {
+     "text": "Quill era",
+     "level": 2
+    },
+    {
+     "text": "Spills easily",
+     "level": 2
+    },
+    {
+     "text": "Glass bottle",
+     "level": 3
+    },
+    {
+     "text": "Dark liquid",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fountain pen",
+    "Marker",
+    "Stamp"
+   ]
+  },
+  {
+   "word": "Fountain pen",
+   "hints": [
+    {
+     "text": "Writing tool",
+     "level": 1
+    },
+    {
+     "text": "Classic nib",
+     "level": 1
+    },
+    {
+     "text": "Calligraphy practice",
+     "level": 2
+    },
+    {
+     "text": "Fancy handwriting",
+     "level": 2
+    },
+    {
+     "text": "Metal nib",
+     "level": 3
+    },
+    {
+     "text": "Ink cartridge",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ballpoint",
+    "Pencil",
+    "Quill"
+   ]
+  },
+  {
+   "word": "Quill",
+   "hints": [
+    {
+     "text": "Old writing tool",
+     "level": 1
+    },
+    {
+     "text": "Feather pen",
+     "level": 1
+    },
+    {
+     "text": "Medieval scribes",
+     "level": 2
+    },
+    {
+     "text": "Dipped in ink",
+     "level": 2
+    },
+    {
+     "text": "Feather shaft",
+     "level": 3
+    },
+    {
+     "text": "Sharp tip",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fountain pen",
+    "Brush",
+    "Pencil"
+   ]
+  },
+  {
+   "word": "Set square",
+   "hints": [
+    {
+     "text": "Geometry tool",
+     "level": 1
+    },
+    {
+     "text": "Triangle ruler",
+     "level": 1
+    },
+    {
+     "text": "Technical drawing",
+     "level": 2
+    },
+    {
+     "text": "Exam kit",
+     "level": 2
+    },
+    {
+     "text": "Right angle",
+     "level": 3
+    },
+    {
+     "text": "Clear plastic",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Protractor",
+    "Ruler",
+    "Compass"
+   ]
+  },
+  {
+   "word": "Easel",
+   "hints": [
+    {
+     "text": "Art stand",
+     "level": 1
+    },
+    {
+     "text": "Painting support",
+     "level": 1
+    },
+    {
+     "text": "Art class",
+     "level": 2
+    },
+    {
+     "text": "Artists use it",
+     "level": 2
+    },
+    {
+     "text": "Three legs",
+     "level": 3
+    },
+    {
+     "text": "Holds canvas",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tripod",
+    "Desk",
+    "Board"
+   ]
+  },
+  {
+   "word": "Clay",
+   "hints": [
+    {
+     "text": "Modeling material",
+     "level": 1
+    },
+    {
+     "text": "Art supply",
+     "level": 1
+    },
+    {
+     "text": "Pottery class",
+     "level": 2
+    },
+    {
+     "text": "Squishy fun",
+     "level": 2
+    },
+    {
+     "text": "Moldable mud",
+     "level": 3
+    },
+    {
+     "text": "Baked in kiln",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dough",
+    "Plaster",
+    "Wax"
+   ]
+  },
+  {
+   "word": "Choir",
+   "hints": [
+    {
+     "text": "Singing group",
+     "level": 1
+    },
+    {
+     "text": "Music ensemble",
+     "level": 1
+    },
+    {
+     "text": "School concerts",
+     "level": 2
+    },
+    {
+     "text": "Hymns",
+     "level": 2
+    },
+    {
+     "text": "Rows of singers",
+     "level": 3
+    },
+    {
+     "text": "Conductor leads",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Band",
+    "Orchestra",
+    "Chorus"
+   ]
+  },
+  {
+   "word": "School band",
+   "hints": [
+    {
+     "text": "Music group",
+     "level": 1
+    },
+    {
+     "text": "Student ensemble",
+     "level": 1
+    },
+    {
+     "text": "Marching at games",
+     "level": 2
+    },
+    {
+     "text": "Practice after class",
+     "level": 2
+    },
+    {
+     "text": "Drums and brass",
+     "level": 3
+    },
+    {
+     "text": "Uniformed players",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Choir",
+    "Orchestra",
+    "Club"
+   ]
+  }
+ ]
+}

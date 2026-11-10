@@ -1,0 +1,14 @@
+@id technology
+@name Technology
+Smart glasses | Wearable gadget; Face computer | Heads up display; Records video | Tiny projector; Frames with camera | Smartwatch; Headset; Earbuds
+Headset | Audio gear; Gaming accessory | Call centers; Online matches | Mic on boom arm; Over ears | Earbuds; Speaker; Microphone
+Charging cable | Power accessory; Phone cord | Always borrowed; Frays at end | Connector tips; Coiled in bags | Power bank; Adapter; Plug
+Adapter | Connector gadget; Travel accessory | Foreign sockets; Converts ports | Small plastic block; Prongs | Charger; Plug; Cable
+Hard disk | Storage drive; Computer part | Spinning platters; Clicks when old | Magnetic platters; Read head | Usb drive; Memory card; Server
+Ethernet | Wired network; Cable connection | Faster than wireless; Office desks | Clicky plug; Twisted pairs | Wifi; Bluetooth; Modem
+Semiconductor | Chip material; Electronics base | Global industry; Silicon valley | Doped silicon; Wafer slices | Transistor; Microchip; Circuit board
+Pixel art | Retro graphics; Blocky images | Old video games; Indie style | Tiny squares; Limited palette | Vector art; Sprite; Emoji
+Emulator | Software tool; Retro gaming | Old consoles on pc; Testing apps | Mimics hardware; Rom files | Simulator; Virtual machine; Console
+Cookie | Browser data; Website tracker | Accept all popup; Remembers logins | Tiny text file; Stored by sites | Cache; Password; Bookmark
+Bookmark | Saved link; Browser feature | Favorite websites; Star icon | Saved address; Quick access | Cookie; Tab; History
+Hashtag | Social tag; Topic marker | Trending topics; Captions | Pound sign; Clickable keyword | Emoji; Mention; Meme

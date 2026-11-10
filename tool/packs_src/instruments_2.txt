@@ -1,0 +1,11 @@
+@id instruments
+@name Musical Instruments
+Baritone | Brass instrument; Small euphonium | Brass bands; Mellow middle | Upright bell; Three valves | Euphonium; Tuba; Trombone
+Contrabassoon | Woodwind instrument; Lowest reed | Rumbling low notes; Rare in bands | Doubled back tube; Huge length | Clarinet; Tuba; Oboe
+Bass clarinet | Woodwind instrument; Low reed | Film scores; Jazz textures | Curved neck; Upturned bell | Bassoon; Saxophone; Oboe
+English horn | Woodwind instrument; Alto oboe | Pastoral solos; Melancholy tone | Pear shaped bell; Bent crook | Oboe; Bassoon; Clarinet
+Mbira | Thumb piano; Zimbabwean instrument | Spiritual ceremonies; Buzzing tone | Metal keys; Gourd resonator | Kalimba; Marimba; Xylophone
+Kora | String instrument; West african harp | Griot storytellers; Flowing melodies | Calabash body; Many strings | Harp; Lute; Ngoni
+Shofar | Wind instrument; Ram horn | High holy days; Ancient call | Curved animal horn; Raw blast | Bugle; Conch shell; Alphorn
+Bugle call | Military signal; Brass tune | Morning reveille; Lights out | Short notes; No valves | Fanfare; Whistle; Drumroll
+Rattle | Percussion toy; Shaker | Baby toy; Ritual dances | Beads inside; Handle grip | Maracas; Shaker; Tambourine

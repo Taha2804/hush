@@ -1,0 +1,8 @@
+@id household
+@name Household Objects
+Coaster | Table item; Drink mat | Protects furniture; Stops water rings | Small square; Cork or stone | Placemat; Napkin; Tray
+Placemat | Dining item; Table mat | Under plates; Kids drawings | Woven or plastic; One per seat | Coaster; Tablecloth; Napkin
+Salt shaker | Table item; Seasoning holder | Passed at dinner; Pepper partner | Holes on top; Tiny white grains | Pepper mill; Sugar bowl; Spice jar
+Pepper mill | Kitchen gadget; Spice grinder | Twisted over pasta; Fancy restaurants | Grinding top; Black corns | Salt shaker; Grater; Mortar
+Colander | Kitchen tool; Strainer | Drains pasta; Washes berries | Bowl with holes; Two handles | Sieve; Bowl; Basket
+Mortar | Kitchen tool; Grinding bowl | Crushes spices; Ancient tool | Stone bowl; Pestle partner | Blender; Grater; Bowl

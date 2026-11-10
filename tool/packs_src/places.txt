@@ -1,0 +1,152 @@
+@id places
+@name Places
+Hospital | Medical building; Care center | Doctors and nurses; Emergency room | Beds and wards; Ambulances arrive | Clinic; Pharmacy; Hotel
+School | Education building; Learning place | Kids attend daily; Homework given | Classrooms and bells; Teachers | College; Library; Daycare
+Library | Book building; Quiet place | Borrow novels; Study sessions | Shelves of books; Shushing | Bookstore; School; Museum
+Museum | Culture building; Exhibit hall | Field trips; Ancient artifacts | Display cases; Dinosaur bones | Gallery; Library; Zoo
+Airport | Travel hub; Flight terminal | Security checks; Boarding passes | Runways and gates; Baggage claim | Train station; Harbor; Bus depot
+Train station | Travel hub; Rail terminal | Platforms and tickets; Departure boards | Railway tracks; Announcements | Airport; Bus stop; Subway
+Supermarket | Shopping place; Grocery store | Weekly shopping; Checkout queues | Aisles and carts; Barcode scanners | Bakery; Grocer; Mall
+Mall | Shopping center; Retail complex | Teen hangout; Food courts | Escalators; Many shops | Market; Supermarket; Plaza
+Restaurant | Dining place; Eatery | Date nights; Menus and waiters | Tables and tips; Kitchen behind | Cafe; Diner; Canteen
+Cafe | Coffee shop; Casual eatery | Laptop workers; Pastries | Espresso machine; Small tables | Restaurant; Bakery; Diner
+Bakery | Bread shop; Food store | Fresh morning smell; Birthday cakes | Ovens and pastries; Display cases | Cafe; Butcher; Patisserie
+Bank | Money building; Financial place | Deposits and loans; Long queues | Vaults and tellers; Safety boxes | Post office; Office; Treasury
+Post office | Mail building; Parcel service | Sending parcels; Buying stamps | Counters and scales; Mailbags | Bank; Courier office; Library
+Police station | Law building; Precinct | Reports filed; Holding cells | Badges and desks; Patrol cars outside | Fire station; Courthouse; Jail
+Fire station | Emergency building; Rescue base | Sliding poles; Dalmatians | Red engines; Hoses hanging | Police station; Hospital; Garage
+Courthouse | Legal building; Hall of justice | Trials and verdicts; Lawyers argue | Judge's bench; Jury box | Police station; Prison; Town hall
+Prison | Secure building; Jail | Inmates serve time; Guards patrol | Bars and cells; High walls | Courthouse; Police station; Fortress
+Church | Religious building; Place of worship | Sunday services; Weddings | Steeple and bells; Stained glass | Temple; Mosque; Chapel
+Temple | Religious building; Sacred place | Prayers and offerings; Festivals | Bells and idols; Incense smoke | Church; Mosque; Shrine
+Mosque | Religious building; Place of prayer | Friday prayers; Call to prayer | Domes and minarets; Prayer rugs | Temple; Church; Synagogue
+Park | Green space; Public area | Picnics and jogging; Dog walks | Benches and trees; Playground | Garden; Forest; Zoo
+Zoo | Animal park; Wildlife place | Family outings; Feeding times | Cages and enclosures; Lions and penguins | Aquarium; Safari; Farm
+Aquarium | Marine exhibit; Fish place | School trips; Shark tunnels | Glass tanks; Jellyfish displays | Zoo; Museum; Pool
+Beach | Seaside place; Sandy shore | Sunbathing; Sandcastles | Waves and umbrellas; Lifeguard towers | Pool; Lake; Desert
+Swimming pool | Water place; Leisure facility | Summer splashing; Lap lanes | Diving boards; Chlorine smell | Beach; Lake; Spa
+Gym | Fitness place; Workout center | New year resolutions; Personal trainers | Treadmills and weights; Mirrors | Stadium; Spa; Yoga studio
+Stadium | Sports venue; Arena | Big matches; Concerts | Floodlights; Thousands of seats | Gym; Theater; Arena
+Theater | Performance venue; Stage hall | Plays and musicals; Curtain calls | Velvet seats; Orchestra pit | Cinema; Opera house; Stadium
+Cinema | Movie theater; Film venue | Date nights; Popcorn | Big screen; Dark rows | Theater; Arcade; Drive in
+Hotel | Lodging place; Guest building | Vacations and trips; Room service | Reception desk; Room keys | Hostel; Motel; Resort
+Hostel | Budget lodging; Backpacker stay | Shared rooms; Young travelers | Bunk beds; Common kitchen | Hotel; Motel; Dormitory
+Office | Work place; Business building | Nine to five; Meetings | Desks and computers; Water cooler | Factory; Bank; School
+Factory | Industrial building; Production place | Assembly lines; Shift workers | Machines and smokestacks; Conveyor belts | Warehouse; Workshop; Office
+Warehouse | Storage building; Depot | Forklifts; Stacked pallets | Huge shelves; Loading docks | Factory; Garage; Barn
+Farm | Rural place; Agricultural land | Crops and animals; Early mornings | Barns and tractors; Fields | Ranch; Orchard; Garden
+Barn | Farm building; Storage shed | Hay bales; Animals sleep | Red walls; Big doors | Stable; Shed; Silo
+Castle | Fortress; Royal residence | Kings and knights; Medieval history | Towers and moat; Drawbridge | Palace; Fort; Manor
+Palace | Royal residence; Grand building | Kings and queens live; Tourist tours | Gilded halls; Grand gardens | Castle; Mansion; Embassy
+Lighthouse | Coastal tower; Navigation aid | Guides ships; Stormy nights | Rotating lamp; Striped tower | Watchtower; Beacon; Windmill
+Windmill | Farm structure; Breeze powered grinder | Grinds grain; Dutch countryside | Turning sails; Wooden tower | Lighthouse; Watermill; Turbine
+Bridge | Structure; River crossing | Connects two sides; Traffic flows | Arches or cables; Spans water | Tunnel; Dam; Pier
+Tunnel | Underground passage; Structure | Trains go through; Under mountains | Dark and echoing; Lights inside | Bridge; Cave; Subway
+Harbor | Port area; Ship dock | Boats moored; Fishing village | Piers and cranes; Seagulls | Marina; Beach; Canal
+Marina | Boat dock; Yacht harbor | Weekend sailors; Luxury boats | Rows of masts; Floating docks | Harbor; Pier; Lagoon
+Pier | Wooden walkway; Seaside structure | Fishing from it; Amusement rides | Planks over water; Posts | Harbor; Bridge; Boardwalk
+Market | Shopping place; Bazaar | Bargaining; Fresh produce | Stalls and vendors; Crowds | Mall; Grocer; Fair
+Bazaar | Market place; Trading hub | Haggling prices; Spices and rugs | Narrow lanes; Colorful stalls | Market; Mall; Fair
+Pharmacy | Medicine shop; Health store | Prescriptions filled; Cough syrup | Pill bottles; White counter | Hospital; Clinic; Supermarket
+Clinic | Medical office; Small hospital | Checkups; Vaccinations | Waiting room; Examination bed | Hospital; Pharmacy; Dentist
+Dentist office | Dental clinic; Medical place | Checkups twice yearly; Nervous patients | Reclining chair; Drill sound | Clinic; Pharmacy; Barber
+Barbershop | Grooming place; Hair salon | Weekly trims; Local gossip | Spinning pole; Swivel chairs | Salon; Spa; Tailor
+Salon | Beauty place; Hair studio | Haircuts and color; Wedding prep | Hair dryers; Big mirrors | Barbershop; Spa; Boutique
+Spa | Relaxation place; Wellness center | Massages; Facials | Robes and cucumber slices; Steam rooms | Salon; Gym; Sauna
+Gas station | Fuel stop; Roadside place | Road trips; Snacks and coffee | Pumps and nozzles; Price signs | Garage; Car wash; Rest stop
+Car wash | Cleaning place; Auto service | Weekend chore; Soap suds | Spinning brushes; Water jets | Gas station; Garage; Laundromat
+Garage | Car shelter; Workshop | Parked cars; Tool storage | Roll up door; Oil stains | Shed; Driveway; Barn
+Laundromat | Laundry place; Coin washers | Weekly washing; Waiting around | Rows of machines; Folding tables | Dry cleaner; Car wash; Launderette
+Bookstore | Novel shop; Retail outlet | Browsing novels; Author signings | Shelves and armchairs; Bestseller table | Library; Cafe; Stationery shop
+Toy store | Kids shop; Play retail | Birthday gifts; Excited children | Shelves of games; Teddy bears | Bookstore; Candy shop; Arcade
+Candy shop | Sweet store; Treat store | Kids drool; Jars of sweets | Lollipops; Pick and mix | Bakery; Toy store; Gelateria
+Gelateria | Dessert shop; Treat place | Summer outings; Sundaes | Scoops and cones; Freezer display | Candy shop; Cafe; Bakery
+Butcher shop | Meat store; Food store | Fresh cuts; Sausages | Hanging meats; Cleavers | Bakery; Fishmonger; Deli
+Flower shop | Florist; Plant store | Valentines rush; Wedding bouquets | Buckets of blooms; Ribbons | Garden center; Bakery; Gift shop
+Pet shop | Animal store; Animal supplies | Puppies in windows; Fish tanks | Bags of food; Hamster cages | Vet clinic; Zoo; Farm
+Vet clinic | Animal hospital; Pet doctor place | Vaccinations; Nervous dogs | Exam tables; Pet carriers | Pet shop; Hospital; Zoo
+Playground | Recess area; Kids park | Recess fun; Swing pushes | Slides and seesaws; Sandbox | Park; Schoolyard; Garden
+Amusement park | Theme attraction; Fun fair | Roller coasters; Cotton candy | Ferris wheel; Long queues | Zoo; Water park; Circus
+Water park | Splash zone; Theme attraction | Summer fun; Wave pools | Twisty slides; Lazy river | Amusement park; Beach; Swimming pool
+Circus | Big top; Traveling show | Clowns and acrobats; Ringmaster | Striped tent; Trapeze | Carnival; Zoo; Theater
+Campsite | Outdoor stay; Camping spot | Tents and campfires; Star gazing | Fire pits; Picnic tables | Caravan park; Hostel; Cabin
+Cabin | Wooden house; Forest retreat | Weekend getaways; Fireplace cozy | Log walls; Lakeside | Cottage; Hut; Chalet
+Cottage | Small house; Country home | Rose gardens; Thatched roofs | Quaint windows; Fireplace | Cabin; Bungalow; Villa
+Mansion | Large house; Luxury home | Rich families; Butlers | Grand staircase; Many rooms | Palace; Villa; Cottage
+Apartment | Home unit; Flat | City living; Neighbors upstairs | Building floors; Balcony | House; Condo; Studio
+Skyscraper | Tall building; High rise | City skylines; Office towers | Elevators; Hundreds of floors | Tower; Apartment; Office
+Village | Small settlement; Rural community | Everyone knows each other; Quiet life | Cottages and church; Common green | Town; City; Hamlet
+City | Large settlement; Urban area | Busy streets; Night life | Skyscrapers; Public transport | Town; Village; Suburb
+Suburb | Residential area; Outer town | Commuter families; Lawns | Cul de sacs; Similar houses | City; Village; Countryside
+Countryside | Rural area; Open land | Fresh air; Farms | Rolling hills; Hedgerows | City; Suburb; Village
+Desert island | Remote place; Castaway spot | Stranded stories; Message in bottle | Palm tree; Sandy shore | Peninsula; Lagoon; Oasis
+Jungle camp | Wild base; Explorer stay | Expeditions; Insect bites | Tents in canopy; Mosquito nets | Campsite; Safari lodge; Treehouse
+Treehouse | Branch home; Kids hideout | Secret clubs; Rope ladder | Wooden platform; Branches around | Cabin; Fort; Playground
+Igloo | Snow house; Arctic shelter | Inuit tradition; Ice block home | Dome shape; Tunnel entrance | Tent; Hut; Cabin
+Tent | Camping shelter; Portable home | Outdoor trips; Pitched poles | Fabric walls; Zip door | Cabin; Igloo; Hut
+Embassy | Diplomatic building; Foreign office | Visa applications; Diplomats | Flags outside; Guarded gates | Consulate; Palace; Town hall
+Town hall | Government building; Civic center | Council meetings; Mayor's office | Clock tower; Steps and pillars | Courthouse; Embassy; Library
+Parliament | Government building; Legislature | Laws debated; Politicians | Big chambers; Benches | Town hall; Palace; Courthouse
+University | Higher education; Campus | Degrees and lectures; Dorms | Libraries and quads; Graduation | School; College; Academy
+Laboratory | Science room; Research place | Experiments; Lab coats | Test tubes; Microscopes | Hospital; Workshop; Classroom
+Observatory | Astronomy building; Star watching place | Night sky research; Domes | Giant telescope; Rotating roof | Planetarium; Lighthouse; Laboratory
+Planetarium | Star theater; Space show | School trips; Dome projections | Reclining seats; Starry ceiling | Observatory; Cinema; Museum
+Art gallery | Exhibition space; Painting venue | Paintings displayed; Openings | White walls; Framed canvases | Museum; Studio; Auction house
+Studio | Creative space; Work room | Artists or recording; Photo shoots | Lights and equipment; Easels | Gallery; Office; Workshop
+Workshop | Craft room; Tool space | Building things; Tools everywhere | Workbench; Sawdust | Garage; Factory; Studio
+Shed | Garden building; Storage hut | Tools and bikes; Backyard | Wooden walls; Padlocked door | Garage; Barn; Cabin
+Greenhouse | Plant shelter; Glass building | Growing tomatoes; Warm inside | Glass panes; Humid air | Garden; Nursery; Conservatory
+Orchard | Fruit farm; Tree grove | Apple picking; Autumn harvest | Rows of trees; Ladders | Farm; Vineyard; Garden
+Vineyard | Grape farm; Harvest country | Harvest season; Tasting tours | Rows of vines; Rolling hills | Orchard; Farm; Garden
+Cemetery | Burial ground; Graveyard | Visiting loved ones; Quiet paths | Headstones; Flowers left | Church; Park; Monument
+Monument | Memorial structure; Landmark | Tourist photos; Historic events | Statues and plaques; Stone pillars | Statue; Museum; Cemetery
+Fountain | Water feature; Plaza centerpiece | Throw coins; Summer splashing | Spraying jets; Stone basin | Pool; Statue; Waterfall
+Plaza | Public square; Open space | Street performers; Pigeons | Fountain center; Cafes around | Park; Market; Mall
+Alley | Narrow lane; Back street | Shortcuts; Graffiti | Dumpsters; Between buildings | Street; Avenue; Tunnel
+Highway | Major road; Motorway | Road trips; Fast traffic | Many lanes; Exits and signs | Street; Bridge; Railway
+Crossroads | Street junction; Intersection | Decisions metaphor; Traffic lights | Four way meeting; Stop signs | Roundabout; Highway; Bridge
+Roundabout | Traffic circle; Road junction | Confuses drivers; Give way | Circular road; Central island | Crossroads; Highway; Bridge
+Parking lot | Vehicle area; Open area | Searching for spaces; Supermarket trips | Painted lines; Ticket machines | Garage; Driveway; Plaza
+Bus stop | Transit point; Waiting spot | Morning commute; Timetables | Shelter and bench; Sign pole | Train station; Taxi stand; Airport
+Subway station | Underground stop; Metro stop | Rush hour crowds; Turnstiles | Platforms and tunnels; Maps | Train station; Bus stop; Airport
+Port | Shipping hub; Cargo harbor | Container ships; Customs | Cranes and docks; Shipping boxes | Harbor; Marina; Warehouse
+Dam | Water barrier; Engineering structure | Hydroelectric power; Reservoir | Concrete wall; Spillways | Bridge; Lock; Levee
+Mine | Underground site; Digging place | Coal or gold; Diggers | Shafts and tunnels; Headlamps | Quarry; Cave; Tunnel
+Quarry | Stone pit; Excavation site | Blasting rock; Construction materials | Open pit; Terraced walls | Mine; Canyon; Cliff
+Oil rig | Offshore platform; Drilling site | Ocean workers; Fuel production | Steel towers at sea; Flames | Lighthouse; Factory; Mine
+Space station | Orbiting base; Astronaut home | Science experiments; Zero gravity | Solar panels; Docking ports | Satellite; Observatory; Rocket
+Army base | Military site; Barracks | Soldiers train; Salutes | Fences and gates; Drill grounds | Fort; Camp; Airport
+Fort | Military building; Stronghold | Defends territory; Historic battles | Thick walls; Cannons | Castle; Army base; Tower
+Ruins | Old remains; Ancient site | Archaeologists dig; Tourist visits | Crumbling stones; Broken columns | Castle; Monument; Temple
+Pyramid | Ancient monument; Tomb | Pharaohs buried; Desert wonder | Triangular sides; Stone blocks | Temple; Sphinx; Ziggurat
+Tower | Tall structure; Lookout | Views from top; Clock or bell | Spiral stairs; Narrow building | Skyscraper; Lighthouse; Castle
+Bell tower | Church steeple; Campanile | Rings for services; Pigeons nest | Hanging chimes; Ropes | Lighthouse; Clock tower; Steeple
+Food court | Dining area; Shopping break | Many cuisines; Teens gather | Shared tables; Tray returns | Cafeteria; Restaurant; Canteen
+Canteen | Dining hall; Workplace eatery | Lunch breaks; Cheap meals | Trays and counters; Long tables | Cafeteria; Cafe; Restaurant
+Diner | Casual restaurant; Roadside eatery | Pancakes all day; Milkshakes | Booths and counter; Jukebox | Cafe; Restaurant; Canteen
+Food truck | Mobile eatery; Street vendor | Festival snacks; Lunch lines | Serving window; Menu board | Cafe; Diner; Market
+Night club | Party venue; Dance venue | Until dawn; DJ sets | Flashing lights; Dance floor | Bar; Concert hall; Theater
+Concert hall | Music venue; Performance venue | Orchestras play; Ticketed shows | Acoustic ceiling; Grand stage | Theater; Stadium; Opera house
+Opera house | Music venue; Performance hall | Sopranos sing; Evening dress | Balconies; Chandeliers | Theater; Concert hall; Cinema
+Arcade | Game hall; Fun center | Tokens and tickets; Teens hang out | Flashing cabinets; Claw machines | Casino; Bowling alley; Cinema
+Bowling alley | Leisure venue; Sports hall | Birthday parties; League nights | Lanes and pins; Rental shoes | Arcade; Gym; Billiards hall
+Ski resort | Winter destination; Mountain lodge | Winter holidays; Hot cocoa | Chairlifts; Snowy slopes | Spa; Campsite; Cabin
+Resort | Holiday place; Vacation complex | All inclusive; Pool bars | Beach loungers; Spa | Hotel; Hostel; Campsite
+Motel | Roadside lodging; Budget hotel | Road trips; Neon vacancy sign | Parking by doors; Ice machine | Hotel; Hostel; Inn
+Inn | Small hotel; Old lodging | Countryside stays; Cozy rooms | Fireplace lounge; Wooden beams | Hotel; Motel; Tavern
+Palace garden | Royal grounds; Formal park | Hedge mazes; Fountains | Topiary; Gravel paths | Park; Greenhouse; Orchard
+Botanical garden | Plant collection; Green attraction | Rare flowers; Glasshouses | Labeled plants; Winding paths | Park; Greenhouse; Zoo
+Nursery | Plant shop; Garden center | Buying saplings; Spring rush | Rows of pots; Compost bags | Greenhouse; Florist; Orchard
+Daycare | Toddler center; Kids center | Working parents; Nap time | Colorful toys; Tiny chairs | School; Nursery; Playground
+Retirement home | Elderly residence; Senior living | Bingo nights; Visiting grandkids | Nurses on call; Common room | Hospital; Hotel; Hostel
+Orphanage | Children's home; Care shelter | Adoption hopes; Caretakers | Dormitory beds; Shared meals | Daycare; School; Boarding school
+Shelter | Refuge; Safe place | Homeless or animals; Charity | Cots and blankets; Volunteers | Hostel; Hospital; Orphanage
+Recycling center | Waste facility; Sorting site | Bottles and cans; Eco friendly | Colored bins; Compactors | Dump; Factory; Warehouse
+Landfill | Waste site; Garbage dump | Trash trucks; Seagulls circle | Mounds of rubbish; Bulldozers | Recycling center; Quarry; Junkyard
+Junkyard | Scrap heap; Salvage place | Old cars; Guard dogs | Rusted metal piles; Crushers | Landfill; Garage; Warehouse
+Cave | Natural shelter; Underground space | Explorers with torches; Bats | Stalactites; Damp darkness | Tunnel; Mine; Grotto
+Hut | Simple shelter; Small dwelling | Mountain trails; Villages | Thatched roof; One room | Cabin; Tent; Shed
+Bungalow | Single story house; Holiday home | Retirees; Beach rentals | Wide porch; No stairs | Cottage; Villa; Cabin
+Villa | Luxury house; Holiday home | Mediterranean vacations; Private pools | Terracotta roof; Gardens | Mansion; Bungalow; Cottage
+Condo | Owned apartment; Residential unit | Downtown living; Shared amenities | Building complex; Balcony | Apartment; Townhouse; Villa
+Penthouse | Top floor flat; Luxury apartment | City views; Rooftop parties | Floor to ceiling windows; Elevator access | Mansion; Condo; Loft

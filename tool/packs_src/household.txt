@@ -1,0 +1,151 @@
+@id household
+@name Household Objects
+Chair | Furniture; Seat | Found at desks; Pulled up to tables | Four legs; Has a backrest | Stool; Bench; Sofa
+Table | Furniture; Flat surface | Family meals; Holds dishes | Four legs; Wooden top | Desk; Counter; Bench
+Sofa | Furniture; Living room seat | Movie nights; Naps on weekends | Soft cushions; Seats three | Armchair; Bed; Bench
+Bed | Furniture; Bedroom item | Sleep every night; Made each morning | Mattress and pillows; Headboard | Sofa; Hammock; Cot
+Pillow | Bedroom item; Soft object | Fights at sleepovers; Under your head | Feather stuffing; Fluffed up | Cushion; Blanket; Mattress
+Blanket | Bedding; Warm cover | Snuggled on couch; Kept in cupboards | Woolly or fleecy; Tucked in | Quilt; Sheet; Towel
+Lamp | Light source; Furniture | Bedside reading; Switched on at night | Fabric shade; Bulb inside | Candle; Torch; Lantern
+Mirror | Reflective object; Wall item | Check your hair; Bathroom fixture | Glass surface; Shows reflection | Window; Picture frame; Glass
+Clock | Time keeper; Wall item | Ticks quietly; Alarm in morning | Hour and minute hands; Round face | Watch; Timer; Calendar
+Television | Electronic device; Living room item | Watch shows; Family movie nights | Remote control; Big screen | Radio; Computer; Projector
+Refrigerator | Kitchen appliance; Cold box | Keeps food fresh; Magnets on door | Hums quietly; Ice cubes inside | Freezer; Oven; Cooler
+Oven | Kitchen appliance; Hot box | Bakes cakes; Roasts dinners | Preheat first; Glass door | Microwave; Stove; Toaster
+Microwave | Kitchen appliance; Quick heater | Reheats leftovers; Pops popcorn | Spinning plate; Beeps when done | Oven; Toaster; Kettle
+Toaster | Kitchen appliance; Breakfast gadget | Pops up bread; Morning routine | Two slots; Crumb tray | Microwave; Kettle; Grill
+Kettle | Kitchen appliance; Water heater | Makes tea; Whistles or clicks | Spout and handle; Boils water | Toaster; Pot; Teapot
+Blender | Kitchen appliance; Mixing machine | Makes smoothies; Very noisy | Spinning blades; Glass jug | Mixer; Juicer; Food processor
+Dishwasher | Kitchen appliance; Cleaning machine | Saves time after dinner; Loaded with plates | Racks and spray arms; Detergent tablets | Washing machine; Sink; Dryer
+Washing machine | Laundry appliance; Cleaning appliance | Spins clothes; Weekly chores | Round door; Detergent drawer | Dishwasher; Dryer; Iron
+Vacuum cleaner | Cleaning appliance; Floor machine | Very noisy; Weekend chores | Sucks dust; Long hose | Broom; Mop; Duster
+Broom | Cleaning tool; Sweeping tool | Witches ride them; Kitchen corner | Long handle; Stiff bristles | Mop; Vacuum; Rake
+Mop | Cleaning tool; Floor cleaner | Wet floor signs; Bucket partner | Stringy head; Long handle | Broom; Sponge; Vacuum
+Bucket | Container; Carrying pail | Beach sandcastles; Mop partner | Metal handle; Holds water | Basin; Jug; Bowl
+Sponge | Cleaning item; Soft scrubber | Washing dishes; Soaks up spills | Yellow and green; Full of holes | Cloth; Brush; Towel
+Towel | Bathroom item; Drying cloth | After a shower; Beach essential | Fluffy cotton; Hung on rails | Blanket; Robe; Napkin
+Soap | Cleaning item; Bathroom item | Wash your hands; Bubbles and lather | Slippery bar; Smells nice | Shampoo; Lotion; Sponge
+Toothbrush | Bathroom item; Dental tool | Use twice a day; Replace often | Small bristle head; Long handle | Comb; Floss; Hairbrush
+Toothpaste | Bathroom item; Dental product | Squeezed from tube; Minty fresh | Fluoride; Foamy | Mouthwash; Soap; Floss
+Shampoo | Bathroom item; Hair product | Lather and rinse; Shower routine | Squeezy bottle; Bubbly foam | Conditioner; Soap; Lotion
+Comb | Grooming tool; Hair tool | Pocket sized; Parting hair | Row of teeth; Plastic or wood | Brush; Toothbrush; Rake
+Hairdryer | Grooming appliance; Bathroom gadget | Loud blowing; After showers | Hot air nozzle; Handheld | Straightener; Fan; Heater
+Iron | Laundry appliance; Hot tool | Removes wrinkles; Pressing board | Steam holes; Flat hot plate | Steamer; Hairdryer; Press
+Fan | Cooling device; Electric appliance | Summer relief; Spins quietly | Rotating blades; Ceiling or desk | Air conditioner; Heater; Vent
+Heater | Warming device; Electric appliance | Winter comfort; Glowing coils | Thermostat; Warm air | Fan; Fireplace; Radiator
+Air conditioner | Cooling appliance; Climate control | Summer savior; Remote control | Wall unit; Cold vents | Fan; Heater; Cooler
+Curtain | Window cover; Fabric item | Blocks sunlight; Drawn at night | Hung on rods; Long fabric | Blinds; Shutter; Drape
+Rug | Floor covering; Decor item | Under the coffee table; Patterned | Soft woven; Rolled up | Carpet; Mat; Blanket
+Doormat | Floor item; Entrance item | Wipe your feet; Says welcome | Bristly surface; Front step | Rug; Carpet; Mat
+Vase | Decor item; Flower holder | Holds bouquets; Placed on tables | Glass or ceramic; Narrow neck | Jar; Pot; Bowl
+Candle | Light source; Decor item | Birthday cakes; Power outages | Wax and wick; Flickering flame | Lamp; Lantern; Torch
+Picture frame | Decor item; Wall item | Family photos; Hung on walls | Glass front; Wooden border | Mirror; Canvas; Album
+Bookshelf | Furniture; Storage | Holds novels; Library look | Rows of planks; Tall and wooden | Cupboard; Cabinet; Drawer
+Wardrobe | Furniture; Clothes storage | Holds hangers; Bedroom item | Tall doors; Rail inside | Dresser; Cupboard; Closet
+Drawer | Furniture part; Storage | Socks and cutlery; Pulled out | Sliding box; Knob or handle | Cabinet; Shelf; Box
+Cupboard | Storage; Kitchen furniture | Holds dishes; Above counters | Wooden doors; Shelves inside | Wardrobe; Pantry; Drawer
+Desk | Furniture; Work surface | Homework and offices; Holds computers | Drawers underneath; Flat top | Table; Counter; Bench
+Stool | Furniture; Small seat | Breakfast bars; Pianists sit on it | No backrest; Three or four legs | Chair; Bench; Ottoman
+Bench | Furniture; Long seat | Park seats; Dining or garden | Wooden slats; Seats several | Sofa; Stool; Pew
+Hammock | Outdoor furniture; Hanging bed | Lazy afternoons; Beach relaxing | Tied between trees; Rope netting | Swing; Cot; Bed
+Plate | Kitchenware; Dish | Holds dinner; Washed after meals | Round and flat; Ceramic | Bowl; Saucer; Tray
+Bowl | Kitchenware; Dish | Cereal and soup; Mixing batter | Round and deep; Curved sides | Plate; Cup; Pot
+Cup | Kitchenware; Drinking vessel | Morning tea; Sits on a saucer | Has a handle; Holds hot drinks | Mug; Glass; Bowl
+Mug | Kitchenware; Drinking vessel | Hot cocoa; Office desk | Thick handle; Printed designs | Cup; Glass; Jar
+Glass | Kitchenware; Drinking vessel | Holds water; Clinked at toasts | Clear and fragile; Breaks easily | Cup; Mug; Bottle
+Fork | Cutlery; Eating utensil | Twirls spaghetti; Left of plate | Pronged tines; Metal handle | Spoon; Knife; Chopsticks
+Spoon | Cutlery; Eating utensil | Soup and cereal; Stirs tea | Round shallow bowl; Metal handle | Fork; Knife; Ladle
+Knife | Cutlery; Cutting tool | Slices bread; Right of plate | Sharp blade; Serrated edge | Fork; Spoon; Scissors
+Chopsticks | Eating utensil; Asian cutlery | Used for sushi; Tricky to learn | Two thin rods; Wood or bamboo | Fork; Spoon; Tongs
+Frying pan | Cookware; Kitchen tool | Cooks eggs; Sizzling sounds | Long handle; Flat bottom | Pot; Wok; Griddle
+Pot | Cookware; Cooking vessel | Boils pasta; Soups and stews | Lid on top; Two handles | Pan; Kettle; Bowl
+Wok | Cookware; Asian pan | Stir fry; High heat | Deep curved bowl; Tossing food | Pan; Pot; Skillet
+Ladle | Kitchen tool; Serving spoon | Serves soup; Hangs on hooks | Deep cup; Long handle | Spoon; Spatula; Whisk
+Spatula | Kitchen tool; Flipping tool | Flips pancakes; Scrapes bowls | Flat blade; Long handle | Ladle; Whisk; Tongs
+Whisk | Kitchen tool; Mixing tool | Beats eggs; Whips cream | Wire loops; Balloon shape | Spatula; Fork; Mixer
+Rolling pin | Kitchen tool; Baking tool | Flattens dough; Cookie making | Wooden cylinder; Two handles | Whisk; Spatula; Grater
+Grater | Kitchen tool; Shredding tool | Cheese and carrots; Scraped knuckles | Sharp holes; Box shape | Peeler; Knife; Sieve
+Peeler | Kitchen tool; Prep tool | Potatoes and carrots; Removes skin | Swivel blade; Small handle | Grater; Knife; Corer
+Can opener | Kitchen tool; Gadget | Opens tins; Hand cranked | Rotating wheel; Sharp cutter | Bottle opener; Scissors; Knife
+Bottle opener | Kitchen gadget; Small tool | Pops caps; Party drawer item | Metal lever; Fits in pocket | Corkscrew; Can opener; Keyring
+Cutting board | Kitchen tool; Prep surface | Chopping vegetables; Wooden or plastic | Flat slab; Knife marks | Plate; Tray; Counter
+Teapot | Kitchenware; Serving pot | Afternoon tea; Brews leaves | Spout and lid; Round and squat | Kettle; Jug; Mug
+Jug | Kitchenware; Pouring vessel | Holds water or milk; Table centerpiece | Spout and handle; Tall body | Pitcher; Bottle; Vase
+Tray | Serving item; Flat carrier | Breakfast in bed; Carries drinks | Raised edges; Two handles | Plate; Board; Basket
+Napkin | Table item; Cloth square | Wipe your mouth; Folded fancy | Paper or cloth; On your lap | Towel; Tissue; Tablecloth
+Tablecloth | Dining item; Fabric cover | Holiday dinners; Protects surface | Large fabric sheet; Checkered pattern | Napkin; Curtain; Sheet
+Trash can | Waste bin; Household item | Taken out weekly; Kitchen corner | Foot pedal lid; Liner bag | Recycling bin; Bucket; Basket
+Laundry basket | Household item; Clothes holder | Dirty clothes; Carried to washer | Woven or plastic; Two handles | Hamper; Bucket; Bag
+Ironing board | Household item; Folding stand | Laundry day; Folds flat | Padded cover; Metal legs | Table; Desk; Stool
+Ladder | Household tool; Climbing tool | Reach high shelves; Changing bulbs | Rungs; Folding legs | Stool; Stairs; Rope
+Hammer | Tool; Hand tool | Hangs pictures; Builder's best friend | Claw end; Hits nails | Mallet; Wrench; Screwdriver
+Screwdriver | Tool; Hand tool | Assembles furniture; Fixes things | Flat or cross tip; Twisting | Hammer; Wrench; Pliers
+Toolbox | Storage; Hardware holder | Kept in garage; Weekend fixes | Handle on top; Trays inside | Drawer; Suitcase; Bucket
+Flashlight | Battery device; Handheld device | Power outages; Camping trips | Batteries inside; Bright beam | Lantern; Candle; Lamp
+Battery | Power source; Small cell | Powers remotes; Runs out | Plus and minus; Recharge or replace | Charger; Plug; Fuse
+Light bulb | Electric part; Glass object | Screwed into lamps; Idea symbol | Glass globe; Glowing filament | Candle; Lamp; Torch
+Extension cord | Electrical item; Power cable | More outlets; Trip hazard | Long wire; Multiple sockets | Charger; Plug; Battery
+Remote control | Gadget; Handheld device | Lost in sofa; Changes channels | Rubber buttons; Points at screen | Phone; Keyboard; Joystick
+Doorbell | Entrance device; Chime | Rings when guests arrive; Ding dong | Button by entrance; Camera models | Knocker; Alarm; Intercom
+Lock | Security device; Door item | Keeps burglars out; Turned with key | Keyhole; Metal bolt | Chain; Latch; Bolt
+Key | Small tool; Metal object | Opens doors; Often lost | Jagged teeth; Kept on rings | Lock; Card; Code
+Umbrella | Rain gear; Folding object | Rainy days; Left on trains | Opens like a canopy; Curved handle | Raincoat; Parasol; Hat
+Coat hanger | Closet item; Clothes holder | Hangs shirts; Wire or wood | Hook top; Triangle shape | Hook; Rail; Peg
+Clothespin | Laundry item; Small clip | Hangs washing; Outside line | Spring clip; Wooden pegs | Hanger; Paperclip; Hook
+Alarm clock | Bedside item; Wake up device | Snooze button; Annoying ring | Ticking face; Loud buzzer | Watch; Phone; Timer
+Cushion | Decor item; Soft object | On sofas; Thrown in fights | Square and plump; Decorative cover | Pillow; Blanket; Beanbag
+Beanbag | Furniture; Squishy seat | Gaming corners; Kids rooms | Filled with beads; Shapeless | Sofa; Cushion; Hammock
+Bathtub | Bathroom fixture; Washing tub | Bubble baths; Rubber ducks | Fill with water; Plug at bottom | Shower; Sink; Pool
+Shower | Bathroom fixture; Washing area | Morning routine; Sing in it | Water spray head; Curtain or glass | Bathtub; Sink; Hose
+Sink | Kitchen fixture; Basin | Wash dishes; Brush teeth | Faucet; Drain hole | Bathtub; Bucket; Basin
+Toilet | Bathroom fixture; Porcelain throne | Flushes; Seat up or down | Tank and bowl; Paper roll nearby | Sink; Bathtub; Bidet
+Faucet | Plumbing fixture; Water tap | Drips at night; Hot and cold | Turn the handle; Spout over sink | Shower; Hose; Pipe
+Piggy bank | Savings item; Kids toy | Saves coins; Shaken to check | Slot on back; Ceramic animal | Wallet; Jar; Safe
+Safe | Security box; Storage | Keeps valuables; Hidden in closets | Combination dial; Heavy steel | Lockbox; Vault; Drawer
+Calendar | Planning item; Wall item | Marks birthdays; Flip each month | Grid of days; Holidays listed | Clock; Diary; Planner
+Notebook | Stationery; Paper item | School notes; Journaling | Spiral bound; Lined pages | Diary; Folder; Sketchbook
+Scissors | Cutting tool; Office item | Cuts paper; Never run with them | Two blades; Finger loops | Knife; Stapler; Cutter
+Tape | Sticky item; Office supply | Wraps gifts; Fixes tears | Clear roll; Dispenser | Glue; Staples; Ribbon
+Glue | Sticky item; Craft supply | School projects; Bonds things | Squeeze bottle; Dries clear | Tape; Paste; Staples
+Stapler | Office tool; Fastening tool | Joins papers; Office desk | Metal staples; Press down | Tape; Hole punch; Paperclip
+Paperclip | Office item; Small fastener | Holds sheets; Bent when bored | Twisted wire; Silver loop | Staple; Pin; Bulldog
+Pen | Writing tool; Stationery | Signs documents; Clicks open | Ink inside; Ballpoint tip | Pencil; Marker; Crayon
+Pencil | Writing tool; Stationery | School tests; Erasable | Graphite core; Rubber on end | Pen; Crayon; Marker
+Basket | Container; Woven item | Picnics; Laundry or shopping | Woven wicker; Handle on top | Box; Bag; Bucket
+Jar | Container; Glass item | Stores jam; Twist lid | Glass body; Screw top | Bottle; Tin; Box
+Bottle | Container; Liquid holder | Water on the go; Recyclable | Narrow neck; Screw cap | Jar; Can; Flask
+Thermos | Insulated flask; Travel item | Keeps soup hot; Picnics and hikes | Double walled; Screw lid | Bottle; Mug; Jug
+Lunchbox | Container; School item | Packed sandwiches; Cartoon designs | Clip lid; Compartments | Bag; Tin; Basket
+Cooler | Insulated box; Picnic item | Keeps drinks cold; Beach trips | Ice packs inside; Lid and handle | Fridge; Basket; Box
+Extinguisher | Safety device; Emergency tool | Kitchen flames; Red cylinder | Pull the pin; Spray nozzle | Hose; Bucket; Alarm
+Smoke detector | Safety device; Ceiling gadget | Beeps when toast burns; Test monthly | Round disc; Battery chirp | Alarm; Sprinkler; Thermostat
+Thermostat | Climate control; Wall device | Sets temperature; Family arguments | Dial or screen; Degrees display | Heater; Fan; Clock
+Plant pot | Garden item; Container | Holds greenery; Drainage hole | Terracotta clay; Saucer under | Vase; Bucket; Bowl
+Watering can | Garden tool; Container | Sprinkles flowers; Kids garden toy | Long spout; Sprinkle rose | Hose; Bucket; Jug
+Hose | Garden tool; Water pipe | Washes cars; Summer sprinklers | Long rubber tube; Spray nozzle | Sprinkler; Pipe; Bucket
+Lawn mower | Garden machine; Grass cutter | Weekend chores; Loud engine | Spinning blades; Grass catcher | Trimmer; Rake; Tractor
+Rake | Garden tool; Leaf tool | Autumn leaves; Stepping prank | Long handle; Metal tines | Broom; Shovel; Hoe
+Shovel | Garden tool; Digging tool | Digs holes; Snow clearing | Flat blade; Long handle | Spade; Rake; Hoe
+Wheelbarrow | Garden tool; Cart | Moves soil; Building sites | Single tire; Two handles | Cart; Trolley; Wagon
+Mailbox | Outdoor item; Post slot | Delivered daily; Flag on side | Slot or door; Post outside | Doorbell; Basket; Locker
+Coat rack | Hallway item; Stand | Hang jackets; By the door | Hooks on pole; Wooden stand | Hanger; Wardrobe; Shelf
+Shoe rack | Storage; Hallway item | Organizes sneakers; By the door | Slanted shelves; Pairs lined up | Shelf; Basket; Wardrobe
+Fireplace | Living room feature; Hearth | Cozy winters; Stockings hung | Crackling logs; Chimney above | Stove; Heater; Oven
+Chimney | House part; Smoke outlet | Santa climbs down; Sweeps clean it | Brick stack; On the roof | Fireplace; Vent; Pipe
+Ceiling fan | Cooling device; Overhead fixture | Spins in summer; Hangs overhead | Large blades; Pull chain | Air conditioner; Chandelier; Heater
+Chandelier | Light fixture; Fancy decor | Grand ballrooms; Hanging from ceiling | Crystal drops; Many bulbs | Lamp; Lantern; Candelabra
+Bunk bed | Furniture; Kids sleeping | Siblings share; Sleepovers | Ladder up; Two levels | Cot; Sofa; Hammock
+Crib | Baby furniture; Infant bed | Nursery item; Rocked to sleep | Wooden bars; Mobile above | Cot; Cradle; Playpen
+Rocking chair | Furniture; Porch seat | Grandparents relax; Knitting time | Curved runners; Sways back and forth | Armchair; Hammock; Swing
+Armchair | Furniture; Comfy seat | Reading corner; Fireside seat | Padded arms; Single seat | Sofa; Recliner; Stool
+Recliner | Furniture; Lounge seat | Movie marathons; Leans back | Footrest pops up; Lever on side | Armchair; Sofa; Hammock
+Coffee table | Furniture; Low surface | In living rooms; Holds magazines | Low and flat; In front of sofa | Desk; Stool; Shelf
+Nightstand | Furniture; Bedside table | Holds a lamp; Phone charger spot | Small drawer; By the bed | Dresser; Shelf; Stool
+Dresser | Furniture; Bedroom storage | Folded clothes; Mirror on top | Stack of drawers; Wooden chest | Wardrobe; Cupboard; Nightstand
+Keyring | Small accessory; Key holder | Jingles in pockets; Souvenir trinket | Metal loop; Dangling charm | Lanyard; Wallet; Clip
+Photo album | Memory book; Keepsake | Family history; Wedding pictures | Plastic sleeves; Thick pages | Scrapbook; Diary; Frame
+Sewing machine | Craft appliance; Stitching appliance | Hems trousers; Home tailoring | Needle and bobbin; Foot pedal | Iron; Loom; Printer
+Clothesline | Laundry item; Outdoor rope | Sun dried washing; Backyard | Stretched rope; Pegs along it | Hanger; Rack; Hook
+Doorstop | Small object; Entrance holder | Keeps entrances open; Wedge shape | Rubber wedge; Floor level | Hinge; Latch; Hook
+Welcome mat | Entrance item; Floor covering | Greets guests; Wipe your shoes | Printed greeting; Coir bristles | Rug; Carpet; Towel
+Plunger | Bathroom tool; Plumbing tool | Unclogs toilets; Embarrassing moments | Rubber cup; Wooden handle | Brush; Mop; Hose

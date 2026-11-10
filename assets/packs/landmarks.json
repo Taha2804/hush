@@ -1,0 +1,5412 @@
+{
+ "id": "landmarks",
+ "name": "Landmarks",
+ "words": [
+  {
+   "word": "Eiffel Tower",
+   "hints": [
+    {
+     "text": "Famous structure",
+     "level": 1
+    },
+    {
+     "text": "Parisian icon",
+     "level": 1
+    },
+    {
+     "text": "Lit up at night",
+     "level": 2
+    },
+    {
+     "text": "Romantic proposals",
+     "level": 2
+    },
+    {
+     "text": "Iron lattice",
+     "level": 3
+    },
+    {
+     "text": "Built for a fair",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Big Ben",
+    "Leaning Tower",
+    "CN Tower"
+   ]
+  },
+  {
+   "word": "Taj Mahal",
+   "hints": [
+    {
+     "text": "Famous monument",
+     "level": 1
+    },
+    {
+     "text": "Asian wonder",
+     "level": 1
+    },
+    {
+     "text": "Symbol of love",
+     "level": 2
+    },
+    {
+     "text": "Mughal emperor",
+     "level": 2
+    },
+    {
+     "text": "White marble mausoleum",
+     "level": 3
+    },
+    {
+     "text": "Reflecting pool",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Red Fort",
+    "Qutub Minar",
+    "Hawa Mahal"
+   ]
+  },
+  {
+   "word": "Great Wall",
+   "hints": [
+    {
+     "text": "Ancient structure",
+     "level": 1
+    },
+    {
+     "text": "Asian wonder",
+     "level": 1
+    },
+    {
+     "text": "Ancient defense",
+     "level": 2
+    },
+    {
+     "text": "Visible from orbit myth",
+     "level": 2
+    },
+    {
+     "text": "Winding stone ramparts",
+     "level": 3
+    },
+    {
+     "text": "Watchtowers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Forbidden City",
+    "Terracotta Army",
+    "Machu Picchu"
+   ]
+  },
+  {
+   "word": "Colosseum",
+   "hints": [
+    {
+     "text": "Ancient arena",
+     "level": 1
+    },
+    {
+     "text": "European ruin",
+     "level": 1
+    },
+    {
+     "text": "Gladiator fights",
+     "level": 2
+    },
+    {
+     "text": "Ancient empire",
+     "level": 2
+    },
+    {
+     "text": "Crumbling oval walls",
+     "level": 3
+    },
+    {
+     "text": "Arches in tiers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pantheon",
+    "Parthenon",
+    "Acropolis"
+   ]
+  },
+  {
+   "word": "Lady Liberty",
+   "hints": [
+    {
+     "text": "Famous statue",
+     "level": 1
+    },
+    {
+     "text": "American icon",
+     "level": 1
+    },
+    {
+     "text": "Welcomes immigrants",
+     "level": 2
+    },
+    {
+     "text": "Harbor island",
+     "level": 2
+    },
+    {
+     "text": "Green copper",
+     "level": 3
+    },
+    {
+     "text": "Raised torch",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Christ Redeemer",
+    "Lincoln Memorial",
+    "Mount Rushmore"
+   ]
+  },
+  {
+   "word": "Big Ben",
+   "hints": [
+    {
+     "text": "Famous clock",
+     "level": 1
+    },
+    {
+     "text": "British icon",
+     "level": 1
+    },
+    {
+     "text": "Chimes on the hour",
+     "level": 2
+    },
+    {
+     "text": "Parliament neighbor",
+     "level": 2
+    },
+    {
+     "text": "Gothic clock tower",
+     "level": 3
+    },
+    {
+     "text": "Huge bell",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Eiffel Tower",
+    "London Eye",
+    "Tower Bridge"
+   ]
+  },
+  {
+   "word": "Pyramids",
+   "hints": [
+    {
+     "text": "Ancient tombs",
+     "level": 1
+    },
+    {
+     "text": "Desert wonder",
+     "level": 1
+    },
+    {
+     "text": "Pharaohs buried inside",
+     "level": 2
+    },
+    {
+     "text": "Built by thousands",
+     "level": 2
+    },
+    {
+     "text": "Triangular stone blocks",
+     "level": 3
+    },
+    {
+     "text": "Sand surroundings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sphinx",
+    "Petra",
+    "Ziggurat"
+   ]
+  },
+  {
+   "word": "Sphinx",
+   "hints": [
+    {
+     "text": "Ancient statue",
+     "level": 1
+    },
+    {
+     "text": "Desert guardian",
+     "level": 1
+    },
+    {
+     "text": "Missing nose",
+     "level": 2
+    },
+    {
+     "text": "Riddle legend",
+     "level": 2
+    },
+    {
+     "text": "Lion body",
+     "level": 3
+    },
+    {
+     "text": "Human head",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pyramids",
+    "Abu Simbel",
+    "Petra"
+   ]
+  },
+  {
+   "word": "Machu Picchu",
+   "hints": [
+    {
+     "text": "Ancient citadel",
+     "level": 1
+    },
+    {
+     "text": "Mountain ruins",
+     "level": 1
+    },
+    {
+     "text": "Inca empire",
+     "level": 2
+    },
+    {
+     "text": "Hiking trail",
+     "level": 2
+    },
+    {
+     "text": "Terraced stone",
+     "level": 3
+    },
+    {
+     "text": "Clouds and llamas",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chichen Itza",
+    "Petra",
+    "Angkor Wat"
+   ]
+  },
+  {
+   "word": "Petra",
+   "hints": [
+    {
+     "text": "Ancient city",
+     "level": 1
+    },
+    {
+     "text": "Desert ruins",
+     "level": 1
+    },
+    {
+     "text": "Carved into cliffs",
+     "level": 2
+    },
+    {
+     "text": "Movie location",
+     "level": 2
+    },
+    {
+     "text": "Rose colored rock",
+     "level": 3
+    },
+    {
+     "text": "Treasury facade",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Machu Picchu",
+    "Pyramids",
+    "Angkor Wat"
+   ]
+  },
+  {
+   "word": "Angkor Wat",
+   "hints": [
+    {
+     "text": "Temple complex",
+     "level": 1
+    },
+    {
+     "text": "Asian ruins",
+     "level": 1
+    },
+    {
+     "text": "Largest religious site",
+     "level": 2
+    },
+    {
+     "text": "Sunrise views",
+     "level": 2
+    },
+    {
+     "text": "Lotus shaped towers",
+     "level": 3
+    },
+    {
+     "text": "Jungle setting",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Borobudur",
+    "Petra",
+    "Machu Picchu"
+   ]
+  },
+  {
+   "word": "Stonehenge",
+   "hints": [
+    {
+     "text": "Ancient monument",
+     "level": 1
+    },
+    {
+     "text": "Prehistoric site",
+     "level": 1
+    },
+    {
+     "text": "Mysterious purpose",
+     "level": 2
+    },
+    {
+     "text": "Solstice gatherings",
+     "level": 2
+    },
+    {
+     "text": "Giant standing megaliths",
+     "level": 3
+    },
+    {
+     "text": "Grassy plain",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Easter Island",
+    "Pyramids",
+    "Avebury"
+   ]
+  },
+  {
+   "word": "Everest",
+   "hints": [
+    {
+     "text": "Highest peak",
+     "level": 1
+    },
+    {
+     "text": "Himalayan giant",
+     "level": 1
+    },
+    {
+     "text": "Climbers risk lives",
+     "level": 2
+    },
+    {
+     "text": "Base camp",
+     "level": 2
+    },
+    {
+     "text": "Snowy summit",
+     "level": 3
+    },
+    {
+     "text": "Sherpa guides",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kilimanjaro",
+    "Mont Blanc",
+    "Fuji"
+   ]
+  },
+  {
+   "word": "Fuji",
+   "hints": [
+    {
+     "text": "Volcanic peak",
+     "level": 1
+    },
+    {
+     "text": "Asian icon",
+     "level": 1
+    },
+    {
+     "text": "Climbed in summer",
+     "level": 2
+    },
+    {
+     "text": "Woodblock prints",
+     "level": 2
+    },
+    {
+     "text": "Snow capped cone",
+     "level": 3
+    },
+    {
+     "text": "Cherry blossoms foreground",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Everest",
+    "Kilimanjaro",
+    "Vesuvius"
+   ]
+  },
+  {
+   "word": "Grand Canyon",
+   "hints": [
+    {
+     "text": "Natural wonder",
+     "level": 1
+    },
+    {
+     "text": "Desert gorge",
+     "level": 1
+    },
+    {
+     "text": "Carved by a river",
+     "level": 2
+    },
+    {
+     "text": "Mule rides",
+     "level": 2
+    },
+    {
+     "text": "Red rock layers",
+     "level": 3
+    },
+    {
+     "text": "Deep chasm",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Monument Valley",
+    "Niagara Falls",
+    "Yosemite"
+   ]
+  },
+  {
+   "word": "Niagara Falls",
+   "hints": [
+    {
+     "text": "Natural wonder",
+     "level": 1
+    },
+    {
+     "text": "Giant cascade",
+     "level": 1
+    },
+    {
+     "text": "Honeymoon spot",
+     "level": 2
+    },
+    {
+     "text": "Boat tours",
+     "level": 2
+    },
+    {
+     "text": "Thundering water",
+     "level": 3
+    },
+    {
+     "text": "Rainbow mist",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Victoria Falls",
+    "Iguazu Falls",
+    "Angel Falls"
+   ]
+  },
+  {
+   "word": "Golden Gate",
+   "hints": [
+    {
+     "text": "Famous bridge",
+     "level": 1
+    },
+    {
+     "text": "American icon",
+     "level": 1
+    },
+    {
+     "text": "Foggy mornings",
+     "level": 2
+    },
+    {
+     "text": "Bay crossing",
+     "level": 2
+    },
+    {
+     "text": "Red suspension cables",
+     "level": 3
+    },
+    {
+     "text": "Art deco towers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Brooklyn Bridge",
+    "Tower Bridge",
+    "Harbour Bridge"
+   ]
+  },
+  {
+   "word": "Opera House",
+   "hints": [
+    {
+     "text": "Famous building",
+     "level": 1
+    },
+    {
+     "text": "Harbor icon",
+     "level": 1
+    },
+    {
+     "text": "Concert venue",
+     "level": 2
+    },
+    {
+     "text": "New year fireworks",
+     "level": 2
+    },
+    {
+     "text": "Sail shaped roofs",
+     "level": 3
+    },
+    {
+     "text": "White tiles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Burj Khalifa",
+    "Golden Gate",
+    "Big Ben"
+   ]
+  },
+  {
+   "word": "Burj Khalifa",
+   "hints": [
+    {
+     "text": "Tallest building",
+     "level": 1
+    },
+    {
+     "text": "Desert skyscraper",
+     "level": 1
+    },
+    {
+     "text": "Record breaker",
+     "level": 2
+    },
+    {
+     "text": "Fountain shows",
+     "level": 2
+    },
+    {
+     "text": "Needle spire",
+     "level": 3
+    },
+    {
+     "text": "Glass facade",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Empire State",
+    "CN Tower",
+    "Petronas Towers"
+   ]
+  },
+  {
+   "word": "Leaning Tower",
+   "hints": [
+    {
+     "text": "Famous campanile",
+     "level": 1
+    },
+    {
+     "text": "Italian icon",
+     "level": 1
+    },
+    {
+     "text": "Tourists pretend to push",
+     "level": 2
+    },
+    {
+     "text": "Pisa landmark",
+     "level": 2
+    },
+    {
+     "text": "Slanted marble",
+     "level": 3
+    },
+    {
+     "text": "Cylindrical tiers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Eiffel Tower",
+    "Big Ben",
+    "Colosseum"
+   ]
+  },
+  {
+   "word": "Acropolis",
+   "hints": [
+    {
+     "text": "Ancient citadel",
+     "level": 1
+    },
+    {
+     "text": "Greek ruins",
+     "level": 1
+    },
+    {
+     "text": "Birthplace of democracy",
+     "level": 2
+    },
+    {
+     "text": "Hilltop temple",
+     "level": 2
+    },
+    {
+     "text": "Marble columns",
+     "level": 3
+    },
+    {
+     "text": "Rocky outcrop",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Parthenon",
+    "Colosseum",
+    "Pantheon"
+   ]
+  },
+  {
+   "word": "Parthenon",
+   "hints": [
+    {
+     "text": "Ancient temple",
+     "level": 1
+    },
+    {
+     "text": "Greek ruin",
+     "level": 1
+    },
+    {
+     "text": "Dedicated to a goddess",
+     "level": 2
+    },
+    {
+     "text": "Hilltop site",
+     "level": 2
+    },
+    {
+     "text": "Doric columns",
+     "level": 3
+    },
+    {
+     "text": "Marble pediment",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Acropolis",
+    "Pantheon",
+    "Colosseum"
+   ]
+  },
+  {
+   "word": "Christ Redeemer",
+   "hints": [
+    {
+     "text": "Famous statue",
+     "level": 1
+    },
+    {
+     "text": "Mountain monument",
+     "level": 1
+    },
+    {
+     "text": "Overlooks a beach city",
+     "level": 2
+    },
+    {
+     "text": "New wonder",
+     "level": 2
+    },
+    {
+     "text": "Outstretched arms",
+     "level": 3
+    },
+    {
+     "text": "Hilltop",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lady Liberty",
+    "Sugarloaf",
+    "Mount Rushmore"
+   ]
+  },
+  {
+   "word": "Mount Rushmore",
+   "hints": [
+    {
+     "text": "Famous carving",
+     "level": 1
+    },
+    {
+     "text": "Granite monument",
+     "level": 1
+    },
+    {
+     "text": "Four leaders carved",
+     "level": 2
+    },
+    {
+     "text": "Road trip stop",
+     "level": 2
+    },
+    {
+     "text": "Giant stone faces",
+     "level": 3
+    },
+    {
+     "text": "Cliffside sculpture",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lady Liberty",
+    "Stonehenge",
+    "Christ Redeemer"
+   ]
+  },
+  {
+   "word": "Kremlin",
+   "hints": [
+    {
+     "text": "Fortress complex",
+     "level": 1
+    },
+    {
+     "text": "Government seat",
+     "level": 1
+    },
+    {
+     "text": "Red walls",
+     "level": 2
+    },
+    {
+     "text": "Political power",
+     "level": 2
+    },
+    {
+     "text": "Onion domes nearby",
+     "level": 3
+    },
+    {
+     "text": "Star topped towers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Red Square",
+    "Forbidden City",
+    "Versailles"
+   ]
+  },
+  {
+   "word": "Forbidden City",
+   "hints": [
+    {
+     "text": "Imperial palace",
+     "level": 1
+    },
+    {
+     "text": "Asian complex",
+     "level": 1
+    },
+    {
+     "text": "Emperors lived there",
+     "level": 2
+    },
+    {
+     "text": "Off limits once",
+     "level": 2
+    },
+    {
+     "text": "Red walls",
+     "level": 3
+    },
+    {
+     "text": "Golden roofs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Great Wall",
+    "Kremlin",
+    "Versailles"
+   ]
+  },
+  {
+   "word": "Versailles",
+   "hints": [
+    {
+     "text": "Royal palace",
+     "level": 1
+    },
+    {
+     "text": "European chateau",
+     "level": 1
+    },
+    {
+     "text": "Hall of mirrors",
+     "level": 2
+    },
+    {
+     "text": "Lavish gardens",
+     "level": 2
+    },
+    {
+     "text": "Gilded rooms",
+     "level": 3
+    },
+    {
+     "text": "Fountains",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kremlin",
+    "Louvre",
+    "Schonbrunn"
+   ]
+  },
+  {
+   "word": "Louvre",
+   "hints": [
+    {
+     "text": "Famous museum",
+     "level": 1
+    },
+    {
+     "text": "Art palace",
+     "level": 1
+    },
+    {
+     "text": "Smiling portrait inside",
+     "level": 2
+    },
+    {
+     "text": "Huge collection",
+     "level": 2
+    },
+    {
+     "text": "Glass pyramid entrance",
+     "level": 3
+    },
+    {
+     "text": "Former palace",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Versailles",
+    "Prado",
+    "Uffizi"
+   ]
+  },
+  {
+   "word": "Buckingham",
+   "hints": [
+    {
+     "text": "Royal residence",
+     "level": 1
+    },
+    {
+     "text": "British icon",
+     "level": 1
+    },
+    {
+     "text": "Changing of the guard",
+     "level": 2
+    },
+    {
+     "text": "Royal balcony",
+     "level": 2
+    },
+    {
+     "text": "Fur hats on guards",
+     "level": 3
+    },
+    {
+     "text": "Grand gates",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Versailles",
+    "Windsor Castle",
+    "Kremlin"
+   ]
+  },
+  {
+   "word": "Tower Bridge",
+   "hints": [
+    {
+     "text": "Famous crossing",
+     "level": 1
+    },
+    {
+     "text": "River landmark",
+     "level": 1
+    },
+    {
+     "text": "Opens for ships",
+     "level": 2
+    },
+    {
+     "text": "Victorian design",
+     "level": 2
+    },
+    {
+     "text": "Twin turrets",
+     "level": 3
+    },
+    {
+     "text": "Blue walkways",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Golden Gate",
+    "London Bridge",
+    "Brooklyn Bridge"
+   ]
+  },
+  {
+   "word": "London Eye",
+   "hints": [
+    {
+     "text": "Observation wheel",
+     "level": 1
+    },
+    {
+     "text": "Riverside attraction",
+     "level": 1
+    },
+    {
+     "text": "Views over the city",
+     "level": 2
+    },
+    {
+     "text": "Glass pods",
+     "level": 2
+    },
+    {
+     "text": "Giant ferris wheel",
+     "level": 3
+    },
+    {
+     "text": "Slow rotation",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Big Ben",
+    "Tower Bridge",
+    "Space Needle"
+   ]
+  },
+  {
+   "word": "Times Square",
+   "hints": [
+    {
+     "text": "Famous plaza",
+     "level": 1
+    },
+    {
+     "text": "City crossroads",
+     "level": 1
+    },
+    {
+     "text": "New year ball drop",
+     "level": 2
+    },
+    {
+     "text": "Broadway shows",
+     "level": 2
+    },
+    {
+     "text": "Giant billboards",
+     "level": 3
+    },
+    {
+     "text": "Neon lights",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Central Park",
+    "Piccadilly",
+    "Shibuya Crossing"
+   ]
+  },
+  {
+   "word": "Central Park",
+   "hints": [
+    {
+     "text": "Urban oasis",
+     "level": 1
+    },
+    {
+     "text": "City greenery",
+     "level": 1
+    },
+    {
+     "text": "Picnics and jogging",
+     "level": 2
+    },
+    {
+     "text": "Movie scenes",
+     "level": 2
+    },
+    {
+     "text": "Lakes and paths",
+     "level": 3
+    },
+    {
+     "text": "Horse carriages",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Times Square",
+    "Hyde Park",
+    "Golden Gate"
+   ]
+  },
+  {
+   "word": "Empire State",
+   "hints": [
+    {
+     "text": "Famous skyscraper",
+     "level": 1
+    },
+    {
+     "text": "Art deco tower",
+     "level": 1
+    },
+    {
+     "text": "Movie ape climbed it",
+     "level": 2
+    },
+    {
+     "text": "Observation deck",
+     "level": 2
+    },
+    {
+     "text": "Spire on top",
+     "level": 3
+    },
+    {
+     "text": "Limestone facade",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Burj Khalifa",
+    "Chrysler",
+    "CN Tower"
+   ]
+  },
+  {
+   "word": "Hollywood Sign",
+   "hints": [
+    {
+     "text": "Hillside landmark",
+     "level": 1
+    },
+    {
+     "text": "Film icon",
+     "level": 1
+    },
+    {
+     "text": "Movie capital symbol",
+     "level": 2
+    },
+    {
+     "text": "Photo spot",
+     "level": 2
+    },
+    {
+     "text": "Giant white lettering",
+     "level": 3
+    },
+    {
+     "text": "Dry hills",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Golden Gate",
+    "Mount Rushmore",
+    "Space Needle"
+   ]
+  },
+  {
+   "word": "Space Needle",
+   "hints": [
+    {
+     "text": "Observation tower",
+     "level": 1
+    },
+    {
+     "text": "Futuristic landmark",
+     "level": 1
+    },
+    {
+     "text": "World fair legacy",
+     "level": 2
+    },
+    {
+     "text": "Rainy city icon",
+     "level": 2
+    },
+    {
+     "text": "Saucer top",
+     "level": 3
+    },
+    {
+     "text": "Slim legs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "CN Tower",
+    "Eiffel Tower",
+    "Tokyo Tower"
+   ]
+  },
+  {
+   "word": "CN Tower",
+   "hints": [
+    {
+     "text": "Observation spire",
+     "level": 1
+    },
+    {
+     "text": "Canadian landmark",
+     "level": 1
+    },
+    {
+     "text": "Glass floor",
+     "level": 2
+    },
+    {
+     "text": "Edge walk",
+     "level": 2
+    },
+    {
+     "text": "Concrete spike",
+     "level": 3
+    },
+    {
+     "text": "Revolving restaurant",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Space Needle",
+    "Tokyo Tower",
+    "Eiffel Tower"
+   ]
+  },
+  {
+   "word": "White House",
+   "hints": [
+    {
+     "text": "Government residence",
+     "level": 1
+    },
+    {
+     "text": "Presidential home",
+     "level": 1
+    },
+    {
+     "text": "Press briefings",
+     "level": 2
+    },
+    {
+     "text": "Oval office",
+     "level": 2
+    },
+    {
+     "text": "Pale columns",
+     "level": 3
+    },
+    {
+     "text": "South lawn",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Capitol",
+    "Buckingham",
+    "Kremlin"
+   ]
+  },
+  {
+   "word": "Lincoln Memorial",
+   "hints": [
+    {
+     "text": "American monument",
+     "level": 1
+    },
+    {
+     "text": "Washington landmark",
+     "level": 1
+    },
+    {
+     "text": "Famous speeches",
+     "level": 2
+    },
+    {
+     "text": "Reflecting pool",
+     "level": 2
+    },
+    {
+     "text": "Seated marble figure",
+     "level": 3
+    },
+    {
+     "text": "Greek columns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mount Rushmore",
+    "Lady Liberty",
+    "White House"
+   ]
+  },
+  {
+   "word": "Alcatraz",
+   "hints": [
+    {
+     "text": "Former prison",
+     "level": 1
+    },
+    {
+     "text": "Island landmark",
+     "level": 1
+    },
+    {
+     "text": "Escape legends",
+     "level": 2
+    },
+    {
+     "text": "Ferry tours",
+     "level": 2
+    },
+    {
+     "text": "Rocky island",
+     "level": 3
+    },
+    {
+     "text": "Cell blocks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Robben Island",
+    "Devils Island",
+    "Rikers"
+   ]
+  },
+  {
+   "word": "Brooklyn Bridge",
+   "hints": [
+    {
+     "text": "Famous crossing",
+     "level": 1
+    },
+    {
+     "text": "American icon",
+     "level": 1
+    },
+    {
+     "text": "Walk across at sunset",
+     "level": 2
+    },
+    {
+     "text": "Historic engineering",
+     "level": 2
+    },
+    {
+     "text": "Stone arches",
+     "level": 3
+    },
+    {
+     "text": "Cable web",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Golden Gate",
+    "Tower Bridge",
+    "Manhattan"
+   ]
+  },
+  {
+   "word": "Gateway Arch",
+   "hints": [
+    {
+     "text": "Steel monument",
+     "level": 1
+    },
+    {
+     "text": "American landmark",
+     "level": 1
+    },
+    {
+     "text": "Pioneer symbol",
+     "level": 2
+    },
+    {
+     "text": "Tram to top",
+     "level": 2
+    },
+    {
+     "text": "Stainless curve",
+     "level": 3
+    },
+    {
+     "text": "Riverside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Eiffel Tower",
+    "Space Needle",
+    "India Gate"
+   ]
+  },
+  {
+   "word": "Hoover Dam",
+   "hints": [
+    {
+     "text": "Engineering feat",
+     "level": 1
+    },
+    {
+     "text": "Desert barrier",
+     "level": 1
+    },
+    {
+     "text": "Hydroelectric power",
+     "level": 2
+    },
+    {
+     "text": "Huge reservoir",
+     "level": 2
+    },
+    {
+     "text": "Concrete wall",
+     "level": 3
+    },
+    {
+     "text": "Canyon setting",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Three Gorges",
+    "Panama Canal",
+    "Golden Gate"
+   ]
+  },
+  {
+   "word": "Panama Canal",
+   "hints": [
+    {
+     "text": "Engineering feat",
+     "level": 1
+    },
+    {
+     "text": "Shipping route",
+     "level": 1
+    },
+    {
+     "text": "Connects two oceans",
+     "level": 2
+    },
+    {
+     "text": "Lock system",
+     "level": 2
+    },
+    {
+     "text": "Ships lifted",
+     "level": 3
+    },
+    {
+     "text": "Narrow passage",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Suez Canal",
+    "Hoover Dam",
+    "Kiel Canal"
+   ]
+  },
+  {
+   "word": "Suez Canal",
+   "hints": [
+    {
+     "text": "Shipping route",
+     "level": 1
+    },
+    {
+     "text": "Desert waterway",
+     "level": 1
+    },
+    {
+     "text": "Shortcut between continents",
+     "level": 2
+    },
+    {
+     "text": "Container ships",
+     "level": 2
+    },
+    {
+     "text": "Sandy banks",
+     "level": 3
+    },
+    {
+     "text": "No locks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Panama Canal",
+    "Nile",
+    "Bosphorus"
+   ]
+  },
+  {
+   "word": "Red Fort",
+   "hints": [
+    {
+     "text": "Historic citadel",
+     "level": 1
+    },
+    {
+     "text": "Mughal stronghold",
+     "level": 1
+    },
+    {
+     "text": "Independence speeches",
+     "level": 2
+    },
+    {
+     "text": "Old city landmark",
+     "level": 2
+    },
+    {
+     "text": "Sandstone walls",
+     "level": 3
+    },
+    {
+     "text": "Lahori gate",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Taj Mahal",
+    "Qutub Minar",
+    "Agra Fort"
+   ]
+  },
+  {
+   "word": "Qutub Minar",
+   "hints": [
+    {
+     "text": "Historic tower",
+     "level": 1
+    },
+    {
+     "text": "Ancient brick spire",
+     "level": 1
+    },
+    {
+     "text": "Sultanate era",
+     "level": 2
+    },
+    {
+     "text": "World heritage site",
+     "level": 2
+    },
+    {
+     "text": "Fluted red tower",
+     "level": 3
+    },
+    {
+     "text": "Carved inscriptions",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Red Fort",
+    "India Gate",
+    "Charminar"
+   ]
+  },
+  {
+   "word": "India Gate",
+   "hints": [
+    {
+     "text": "War memorial",
+     "level": 1
+    },
+    {
+     "text": "Ceremonial arch",
+     "level": 1
+    },
+    {
+     "text": "Parade route",
+     "level": 2
+    },
+    {
+     "text": "Eternal flame",
+     "level": 2
+    },
+    {
+     "text": "Sandstone arch",
+     "level": 3
+    },
+    {
+     "text": "Lawns around",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gateway Arch",
+    "Red Fort",
+    "Charminar"
+   ]
+  },
+  {
+   "word": "Hawa Mahal",
+   "hints": [
+    {
+     "text": "Palace",
+     "level": 1
+    },
+    {
+     "text": "Pink city landmark",
+     "level": 1
+    },
+    {
+     "text": "Royal women watched streets",
+     "level": 2
+    },
+    {
+     "text": "Honeycomb facade",
+     "level": 2
+    },
+    {
+     "text": "Hundreds of tiny windows",
+     "level": 3
+    },
+    {
+     "text": "Pink sandstone",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Amber Fort",
+    "City Palace",
+    "Taj Mahal"
+   ]
+  },
+  {
+   "word": "Golden Temple",
+   "hints": [
+    {
+     "text": "Sacred shrine",
+     "level": 1
+    },
+    {
+     "text": "Sikh landmark",
+     "level": 1
+    },
+    {
+     "text": "Free community kitchen",
+     "level": 2
+    },
+    {
+     "text": "Pilgrims",
+     "level": 2
+    },
+    {
+     "text": "Gilded dome",
+     "level": 3
+    },
+    {
+     "text": "Holy pool",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lotus Temple",
+    "Akshardham",
+    "Taj Mahal"
+   ]
+  },
+  {
+   "word": "Lotus Temple",
+   "hints": [
+    {
+     "text": "Modern shrine",
+     "level": 1
+    },
+    {
+     "text": "Flower shaped building",
+     "level": 1
+    },
+    {
+     "text": "Open to all faiths",
+     "level": 2
+    },
+    {
+     "text": "Silent prayers",
+     "level": 2
+    },
+    {
+     "text": "White petals",
+     "level": 3
+    },
+    {
+     "text": "Reflecting pools",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Golden Temple",
+    "Opera House",
+    "Akshardham"
+   ]
+  },
+  {
+   "word": "Charminar",
+   "hints": [
+    {
+     "text": "Historic monument",
+     "level": 1
+    },
+    {
+     "text": "Four minarets",
+     "level": 1
+    },
+    {
+     "text": "Old city bazaars",
+     "level": 2
+    },
+    {
+     "text": "Pearl markets",
+     "level": 2
+    },
+    {
+     "text": "Square arch structure",
+     "level": 3
+    },
+    {
+     "text": "Four towers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Qutub Minar",
+    "India Gate",
+    "Hawa Mahal"
+   ]
+  },
+  {
+   "word": "Mysore Palace",
+   "hints": [
+    {
+     "text": "Royal residence",
+     "level": 1
+    },
+    {
+     "text": "Southern landmark",
+     "level": 1
+    },
+    {
+     "text": "Festival illuminations",
+     "level": 2
+    },
+    {
+     "text": "Royal family",
+     "level": 2
+    },
+    {
+     "text": "Domes and arches",
+     "level": 3
+    },
+    {
+     "text": "Golden throne",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hawa Mahal",
+    "City Palace",
+    "Amber Fort"
+   ]
+  },
+  {
+   "word": "Ajanta",
+   "hints": [
+    {
+     "text": "Ancient caves",
+     "level": 1
+    },
+    {
+     "text": "Rock cut monasteries",
+     "level": 1
+    },
+    {
+     "text": "Buddhist paintings",
+     "level": 2
+    },
+    {
+     "text": "World heritage",
+     "level": 2
+    },
+    {
+     "text": "Carved cliffs",
+     "level": 3
+    },
+    {
+     "text": "Frescoes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ellora",
+    "Petra",
+    "Elephanta"
+   ]
+  },
+  {
+   "word": "Ellora",
+   "hints": [
+    {
+     "text": "Ancient caves",
+     "level": 1
+    },
+    {
+     "text": "Rock temples",
+     "level": 1
+    },
+    {
+     "text": "Carved from one rock",
+     "level": 2
+    },
+    {
+     "text": "Many faiths",
+     "level": 2
+    },
+    {
+     "text": "Kailasa shrine",
+     "level": 3
+    },
+    {
+     "text": "Cliff face",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ajanta",
+    "Petra",
+    "Elephanta"
+   ]
+  },
+  {
+   "word": "Konark",
+   "hints": [
+    {
+     "text": "Sun temple",
+     "level": 1
+    },
+    {
+     "text": "Chariot shaped shrine",
+     "level": 1
+    },
+    {
+     "text": "Ancient eastern temple",
+     "level": 2
+    },
+    {
+     "text": "World heritage",
+     "level": 2
+    },
+    {
+     "text": "Giant stone wheels",
+     "level": 3
+    },
+    {
+     "text": "Horse carvings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Khajuraho",
+    "Hampi",
+    "Angkor Wat"
+   ]
+  },
+  {
+   "word": "Hampi",
+   "hints": [
+    {
+     "text": "Ruined city",
+     "level": 1
+    },
+    {
+     "text": "Ancient empire capital",
+     "level": 1
+    },
+    {
+     "text": "Boulder landscapes",
+     "level": 2
+    },
+    {
+     "text": "Backpacker favorite",
+     "level": 2
+    },
+    {
+     "text": "Stone chariot",
+     "level": 3
+    },
+    {
+     "text": "Temple ruins",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Konark",
+    "Khajuraho",
+    "Petra"
+   ]
+  },
+  {
+   "word": "Khajuraho",
+   "hints": [
+    {
+     "text": "Temple group",
+     "level": 1
+    },
+    {
+     "text": "Medieval shrines",
+     "level": 1
+    },
+    {
+     "text": "World heritage",
+     "level": 2
+    },
+    {
+     "text": "Intricate carvings",
+     "level": 2
+    },
+    {
+     "text": "Sandstone spires",
+     "level": 3
+    },
+    {
+     "text": "Sculpted figures",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Konark",
+    "Hampi",
+    "Ellora"
+   ]
+  },
+  {
+   "word": "Brandenburg Gate",
+   "hints": [
+    {
+     "text": "Historic portal",
+     "level": 1
+    },
+    {
+     "text": "German landmark",
+     "level": 1
+    },
+    {
+     "text": "Reunification symbol",
+     "level": 2
+    },
+    {
+     "text": "New year parties",
+     "level": 2
+    },
+    {
+     "text": "Sandstone columns",
+     "level": 3
+    },
+    {
+     "text": "Chariot on top",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "India Gate",
+    "Berlin Wall",
+    "Reichstag"
+   ]
+  },
+  {
+   "word": "Berlin Wall",
+   "hints": [
+    {
+     "text": "Historic barrier",
+     "level": 1
+    },
+    {
+     "text": "Divided city",
+     "level": 1
+    },
+    {
+     "text": "Torn down in protests",
+     "level": 2
+    },
+    {
+     "text": "Graffiti art",
+     "level": 2
+    },
+    {
+     "text": "Concrete slabs",
+     "level": 3
+    },
+    {
+     "text": "Checkpoint",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Great Wall",
+    "Brandenburg Gate",
+    "Iron Curtain"
+   ]
+  },
+  {
+   "word": "Notre Dame",
+   "hints": [
+    {
+     "text": "Gothic cathedral",
+     "level": 1
+    },
+    {
+     "text": "Island church",
+     "level": 1
+    },
+    {
+     "text": "Hunchback novel",
+     "level": 2
+    },
+    {
+     "text": "Restoration after fire",
+     "level": 2
+    },
+    {
+     "text": "Gargoyles",
+     "level": 3
+    },
+    {
+     "text": "Rose window",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sagrada Familia",
+    "Westminster",
+    "Duomo"
+   ]
+  },
+  {
+   "word": "Sagrada Familia",
+   "hints": [
+    {
+     "text": "Unfinished basilica",
+     "level": 1
+    },
+    {
+     "text": "Spanish icon",
+     "level": 1
+    },
+    {
+     "text": "Over a century building",
+     "level": 2
+    },
+    {
+     "text": "Modernist genius",
+     "level": 2
+    },
+    {
+     "text": "Spiky towers",
+     "level": 3
+    },
+    {
+     "text": "Organic shapes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Notre Dame",
+    "Duomo",
+    "Alhambra"
+   ]
+  },
+  {
+   "word": "Alhambra",
+   "hints": [
+    {
+     "text": "Moorish palace",
+     "level": 1
+    },
+    {
+     "text": "Spanish fortress",
+     "level": 1
+    },
+    {
+     "text": "Islamic gardens",
+     "level": 2
+    },
+    {
+     "text": "Hilltop views",
+     "level": 2
+    },
+    {
+     "text": "Intricate tilework",
+     "level": 3
+    },
+    {
+     "text": "Red walls",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sagrada Familia",
+    "Versailles",
+    "Mezquita"
+   ]
+  },
+  {
+   "word": "Neuschwanstein",
+   "hints": [
+    {
+     "text": "Fairy tale castle",
+     "level": 1
+    },
+    {
+     "text": "German landmark",
+     "level": 1
+    },
+    {
+     "text": "Inspired a cartoon castle",
+     "level": 2
+    },
+    {
+     "text": "Mountain setting",
+     "level": 2
+    },
+    {
+     "text": "White turrets",
+     "level": 3
+    },
+    {
+     "text": "Alpine views",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Versailles",
+    "Hohenzollern",
+    "Edinburgh Castle"
+   ]
+  },
+  {
+   "word": "Edinburgh Castle",
+   "hints": [
+    {
+     "text": "Hilltop fortress",
+     "level": 1
+    },
+    {
+     "text": "Scottish landmark",
+     "level": 1
+    },
+    {
+     "text": "Military tattoo",
+     "level": 2
+    },
+    {
+     "text": "One o clock gun",
+     "level": 2
+    },
+    {
+     "text": "Volcanic rock",
+     "level": 3
+    },
+    {
+     "text": "Royal mile",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Windsor Castle",
+    "Neuschwanstein",
+    "Stirling Castle"
+   ]
+  },
+  {
+   "word": "Westminster",
+   "hints": [
+    {
+     "text": "Gothic abbey",
+     "level": 1
+    },
+    {
+     "text": "Royal venue",
+     "level": 1
+    },
+    {
+     "text": "Coronations and weddings",
+     "level": 2
+    },
+    {
+     "text": "Poets corner",
+     "level": 2
+    },
+    {
+     "text": "Twin towers",
+     "level": 3
+    },
+    {
+     "text": "Stained glass",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Notre Dame",
+    "Big Ben",
+    "Saint Pauls"
+   ]
+  },
+  {
+   "word": "Trevi Fountain",
+   "hints": [
+    {
+     "text": "Baroque landmark",
+     "level": 1
+    },
+    {
+     "text": "Roman attraction",
+     "level": 1
+    },
+    {
+     "text": "Coin tossing",
+     "level": 2
+    },
+    {
+     "text": "Movie scene",
+     "level": 2
+    },
+    {
+     "text": "Neptune statue",
+     "level": 3
+    },
+    {
+     "text": "Cascading water",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Colosseum",
+    "Pantheon",
+    "Spanish Steps"
+   ]
+  },
+  {
+   "word": "Pantheon",
+   "hints": [
+    {
+     "text": "Ancient temple",
+     "level": 1
+    },
+    {
+     "text": "Roman building",
+     "level": 1
+    },
+    {
+     "text": "Oldest dome",
+     "level": 2
+    },
+    {
+     "text": "Tombs inside",
+     "level": 2
+    },
+    {
+     "text": "Open oculus",
+     "level": 3
+    },
+    {
+     "text": "Columned portico",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Colosseum",
+    "Parthenon",
+    "Trevi Fountain"
+   ]
+  },
+  {
+   "word": "Sistine Chapel",
+   "hints": [
+    {
+     "text": "Famous ceiling",
+     "level": 1
+    },
+    {
+     "text": "Papal sanctuary",
+     "level": 1
+    },
+    {
+     "text": "Papal elections",
+     "level": 2
+    },
+    {
+     "text": "Renaissance masterpiece",
+     "level": 2
+    },
+    {
+     "text": "Frescoed creation scene",
+     "level": 3
+    },
+    {
+     "text": "No photos",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pantheon",
+    "Louvre",
+    "Notre Dame"
+   ]
+  },
+  {
+   "word": "Duomo",
+   "hints": [
+    {
+     "text": "Cathedral",
+     "level": 1
+    },
+    {
+     "text": "Italian landmark",
+     "level": 1
+    },
+    {
+     "text": "Renaissance dome",
+     "level": 2
+    },
+    {
+     "text": "Climb to the top",
+     "level": 2
+    },
+    {
+     "text": "Red brick cupola",
+     "level": 3
+    },
+    {
+     "text": "Marble facade",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Notre Dame",
+    "Pantheon",
+    "Sagrada Familia"
+   ]
+  },
+  {
+   "word": "Matterhorn",
+   "hints": [
+    {
+     "text": "Famous mountain",
+     "level": 1
+    },
+    {
+     "text": "Alpine peak",
+     "level": 1
+    },
+    {
+     "text": "Climbers challenge",
+     "level": 2
+    },
+    {
+     "text": "Chocolate logo",
+     "level": 2
+    },
+    {
+     "text": "Pyramid shaped summit",
+     "level": 3
+    },
+    {
+     "text": "Snowy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mont Blanc",
+    "Everest",
+    "Eiger"
+   ]
+  },
+  {
+   "word": "Mont Blanc",
+   "hints": [
+    {
+     "text": "Alpine peak",
+     "level": 1
+    },
+    {
+     "text": "Highest in west",
+     "level": 1
+    },
+    {
+     "text": "Ski resorts",
+     "level": 2
+    },
+    {
+     "text": "Cable car",
+     "level": 2
+    },
+    {
+     "text": "Snowy dome",
+     "level": 3
+    },
+    {
+     "text": "Glaciers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Matterhorn",
+    "Everest",
+    "Kilimanjaro"
+   ]
+  },
+  {
+   "word": "Atomium",
+   "hints": [
+    {
+     "text": "Modern monument",
+     "level": 1
+    },
+    {
+     "text": "Belgian landmark",
+     "level": 1
+    },
+    {
+     "text": "World fair leftover",
+     "level": 2
+    },
+    {
+     "text": "Museum inside",
+     "level": 2
+    },
+    {
+     "text": "Giant metal spheres",
+     "level": 3
+    },
+    {
+     "text": "Molecule shape",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Eiffel Tower",
+    "Space Needle",
+    "Gherkin"
+   ]
+  },
+  {
+   "word": "Little Mermaid",
+   "hints": [
+    {
+     "text": "Small statue",
+     "level": 1
+    },
+    {
+     "text": "Harbor sculpture",
+     "level": 1
+    },
+    {
+     "text": "Fairy tale tribute",
+     "level": 2
+    },
+    {
+     "text": "Often vandalized",
+     "level": 2
+    },
+    {
+     "text": "Bronze figure",
+     "level": 3
+    },
+    {
+     "text": "On a rock",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Manneken Pis",
+    "Christ Redeemer",
+    "Lady Liberty"
+   ]
+  },
+  {
+   "word": "Manneken Pis",
+   "hints": [
+    {
+     "text": "Tiny statue",
+     "level": 1
+    },
+    {
+     "text": "Cheeky fountain",
+     "level": 1
+    },
+    {
+     "text": "Dressed in costumes",
+     "level": 2
+    },
+    {
+     "text": "Tourist magnet",
+     "level": 2
+    },
+    {
+     "text": "Little bronze boy",
+     "level": 3
+    },
+    {
+     "text": "Fountain",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Little Mermaid",
+    "Trevi Fountain",
+    "Atomium"
+   ]
+  },
+  {
+   "word": "Hagia Sophia",
+   "hints": [
+    {
+     "text": "Domed building",
+     "level": 1
+    },
+    {
+     "text": "Historic mosque",
+     "level": 1
+    },
+    {
+     "text": "Church then mosque",
+     "level": 2
+    },
+    {
+     "text": "Byzantine era",
+     "level": 2
+    },
+    {
+     "text": "Huge dome",
+     "level": 3
+    },
+    {
+     "text": "Mosaics",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Blue Mosque",
+    "Pantheon",
+    "Notre Dame"
+   ]
+  },
+  {
+   "word": "Blue Mosque",
+   "hints": [
+    {
+     "text": "Ottoman landmark",
+     "level": 1
+    },
+    {
+     "text": "Turkish icon",
+     "level": 1
+    },
+    {
+     "text": "Six minarets",
+     "level": 2
+    },
+    {
+     "text": "Tourist visits",
+     "level": 2
+    },
+    {
+     "text": "Cobalt tiles",
+     "level": 3
+    },
+    {
+     "text": "Cascading domes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hagia Sophia",
+    "Taj Mahal",
+    "Sheikh Zayed"
+   ]
+  },
+  {
+   "word": "Abu Simbel",
+   "hints": [
+    {
+     "text": "Temple complex",
+     "level": 1
+    },
+    {
+     "text": "Desert monument",
+     "level": 1
+    },
+    {
+     "text": "Relocated from flooding",
+     "level": 2
+    },
+    {
+     "text": "Sun alignment",
+     "level": 2
+    },
+    {
+     "text": "Giant seated statues",
+     "level": 3
+    },
+    {
+     "text": "Carved cliff",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sphinx",
+    "Karnak",
+    "Pyramids"
+   ]
+  },
+  {
+   "word": "Kilimanjaro",
+   "hints": [
+    {
+     "text": "Highest african peak",
+     "level": 1
+    },
+    {
+     "text": "Volcano",
+     "level": 1
+    },
+    {
+     "text": "Climbing trek",
+     "level": 2
+    },
+    {
+     "text": "Snow near equator",
+     "level": 2
+    },
+    {
+     "text": "Flat snowy summit",
+     "level": 3
+    },
+    {
+     "text": "Savanna below",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Everest",
+    "Fuji",
+    "Mont Blanc"
+   ]
+  },
+  {
+   "word": "Victoria Falls",
+   "hints": [
+    {
+     "text": "Giant waterfall",
+     "level": 1
+    },
+    {
+     "text": "African wonder",
+     "level": 1
+    },
+    {
+     "text": "Smoke that thunders",
+     "level": 2
+    },
+    {
+     "text": "Devils pool",
+     "level": 2
+    },
+    {
+     "text": "Mist clouds",
+     "level": 3
+    },
+    {
+     "text": "Gorge",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Niagara Falls",
+    "Iguazu Falls",
+    "Angel Falls"
+   ]
+  },
+  {
+   "word": "Table Mountain",
+   "hints": [
+    {
+     "text": "Flat topped peak",
+     "level": 1
+    },
+    {
+     "text": "Coastal landmark",
+     "level": 1
+    },
+    {
+     "text": "Cable car rides",
+     "level": 2
+    },
+    {
+     "text": "Cloud blanket",
+     "level": 2
+    },
+    {
+     "text": "Level summit",
+     "level": 3
+    },
+    {
+     "text": "City below",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sugarloaf",
+    "Uluru",
+    "Kilimanjaro"
+   ]
+  },
+  {
+   "word": "Uluru",
+   "hints": [
+    {
+     "text": "Sacred rock",
+     "level": 1
+    },
+    {
+     "text": "Desert monolith",
+     "level": 1
+    },
+    {
+     "text": "Indigenous significance",
+     "level": 2
+    },
+    {
+     "text": "Sunset colors",
+     "level": 2
+    },
+    {
+     "text": "Red sandstone",
+     "level": 3
+    },
+    {
+     "text": "Outback",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Table Mountain",
+    "Stonehenge",
+    "Kata Tjuta"
+   ]
+  },
+  {
+   "word": "Barrier Reef",
+   "hints": [
+    {
+     "text": "Coral system",
+     "level": 1
+    },
+    {
+     "text": "Marine wonder",
+     "level": 1
+    },
+    {
+     "text": "Snorkeling trips",
+     "level": 2
+    },
+    {
+     "text": "Visible from space",
+     "level": 2
+    },
+    {
+     "text": "Colorful corals",
+     "level": 3
+    },
+    {
+     "text": "Turquoise water",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Red Sea",
+    "Ningaloo",
+    "Galapagos"
+   ]
+  },
+  {
+   "word": "Easter Island",
+   "hints": [
+    {
+     "text": "Remote isle",
+     "level": 1
+    },
+    {
+     "text": "Statue site",
+     "level": 1
+    },
+    {
+     "text": "Mysterious carvings",
+     "level": 2
+    },
+    {
+     "text": "Pacific isolation",
+     "level": 2
+    },
+    {
+     "text": "Giant stone heads",
+     "level": 3
+    },
+    {
+     "text": "Moai figures",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Stonehenge",
+    "Galapagos",
+    "Uluru"
+   ]
+  },
+  {
+   "word": "Chichen Itza",
+   "hints": [
+    {
+     "text": "Ancient pyramid",
+     "level": 1
+    },
+    {
+     "text": "Mayan ruins",
+     "level": 1
+    },
+    {
+     "text": "Equinox shadow serpent",
+     "level": 2
+    },
+    {
+     "text": "New wonder",
+     "level": 2
+    },
+    {
+     "text": "Stepped pyramid",
+     "level": 3
+    },
+    {
+     "text": "Ball court",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Machu Picchu",
+    "Teotihuacan",
+    "Tikal"
+   ]
+  },
+  {
+   "word": "Teotihuacan",
+   "hints": [
+    {
+     "text": "Ancient city",
+     "level": 1
+    },
+    {
+     "text": "Mexican ruins",
+     "level": 1
+    },
+    {
+     "text": "Avenue of the dead",
+     "level": 2
+    },
+    {
+     "text": "Sun pyramid",
+     "level": 2
+    },
+    {
+     "text": "Giant pyramids",
+     "level": 3
+    },
+    {
+     "text": "Ancient metropolis",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chichen Itza",
+    "Machu Picchu",
+    "Tikal"
+   ]
+  },
+  {
+   "word": "Iguazu Falls",
+   "hints": [
+    {
+     "text": "Giant cascades",
+     "level": 1
+    },
+    {
+     "text": "Border wonder",
+     "level": 1
+    },
+    {
+     "text": "Devils throat",
+     "level": 2
+    },
+    {
+     "text": "Rainforest setting",
+     "level": 2
+    },
+    {
+     "text": "Hundreds of drops",
+     "level": 3
+    },
+    {
+     "text": "Rainbows",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Niagara Falls",
+    "Victoria Falls",
+    "Angel Falls"
+   ]
+  },
+  {
+   "word": "Angel Falls",
+   "hints": [
+    {
+     "text": "Tallest waterfall",
+     "level": 1
+    },
+    {
+     "text": "Jungle wonder",
+     "level": 1
+    },
+    {
+     "text": "Remote location",
+     "level": 2
+    },
+    {
+     "text": "Pilot spotted it",
+     "level": 2
+    },
+    {
+     "text": "Plunging from tepui",
+     "level": 3
+    },
+    {
+     "text": "Mist",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Victoria Falls",
+    "Iguazu Falls",
+    "Niagara Falls"
+   ]
+  },
+  {
+   "word": "Galapagos",
+   "hints": [
+    {
+     "text": "Island chain",
+     "level": 1
+    },
+    {
+     "text": "Wildlife haven",
+     "level": 1
+    },
+    {
+     "text": "Evolution theory",
+     "level": 2
+    },
+    {
+     "text": "Giant tortoises",
+     "level": 2
+    },
+    {
+     "text": "Blue footed boobies",
+     "level": 3
+    },
+    {
+     "text": "Volcanic islands",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Easter Island",
+    "Madagascar",
+    "Hawaii"
+   ]
+  },
+  {
+   "word": "Marina Bay",
+   "hints": [
+    {
+     "text": "Hotel complex",
+     "level": 1
+    },
+    {
+     "text": "Rooftop pool",
+     "level": 1
+    },
+    {
+     "text": "Infinity edge",
+     "level": 2
+    },
+    {
+     "text": "Light shows",
+     "level": 2
+    },
+    {
+     "text": "Three towers",
+     "level": 3
+    },
+    {
+     "text": "Ship on top",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Burj Khalifa",
+    "Petronas Towers",
+    "Sentosa"
+   ]
+  },
+  {
+   "word": "Petronas Towers",
+   "hints": [
+    {
+     "text": "Twin skyscrapers",
+     "level": 1
+    },
+    {
+     "text": "Asian icon",
+     "level": 1
+    },
+    {
+     "text": "Sky bridge",
+     "level": 2
+    },
+    {
+     "text": "Once tallest",
+     "level": 2
+    },
+    {
+     "text": "Steel and glass",
+     "level": 3
+    },
+    {
+     "text": "Twin spires",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Burj Khalifa",
+    "Marina Bay",
+    "Taipei"
+   ]
+  },
+  {
+   "word": "Tokyo Tower",
+   "hints": [
+    {
+     "text": "Observation mast",
+     "level": 1
+    },
+    {
+     "text": "Japanese landmark",
+     "level": 1
+    },
+    {
+     "text": "Parisian inspired",
+     "level": 2
+    },
+    {
+     "text": "City views",
+     "level": 2
+    },
+    {
+     "text": "Red and white lattice",
+     "level": 3
+    },
+    {
+     "text": "Night lights",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Eiffel Tower",
+    "Space Needle",
+    "CN Tower"
+   ]
+  },
+  {
+   "word": "Shibuya Crossing",
+   "hints": [
+    {
+     "text": "Famous intersection",
+     "level": 1
+    },
+    {
+     "text": "Busy junction",
+     "level": 1
+    },
+    {
+     "text": "Scramble pedestrians",
+     "level": 2
+    },
+    {
+     "text": "Neon screens",
+     "level": 2
+    },
+    {
+     "text": "Crowds in all directions",
+     "level": 3
+    },
+    {
+     "text": "Loyal dog statue",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Times Square",
+    "Piccadilly",
+    "Abbey Road"
+   ]
+  },
+  {
+   "word": "Himeji Castle",
+   "hints": [
+    {
+     "text": "Japanese fortress",
+     "level": 1
+    },
+    {
+     "text": "White heron",
+     "level": 1
+    },
+    {
+     "text": "Samurai era",
+     "level": 2
+    },
+    {
+     "text": "Cherry blossoms",
+     "level": 2
+    },
+    {
+     "text": "White walls",
+     "level": 3
+    },
+    {
+     "text": "Tiered roofs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Osaka Castle",
+    "Neuschwanstein",
+    "Forbidden City"
+   ]
+  },
+  {
+   "word": "Fushimi Inari",
+   "hints": [
+    {
+     "text": "Shrine",
+     "level": 1
+    },
+    {
+     "text": "Gate tunnel",
+     "level": 1
+    },
+    {
+     "text": "Fox statues",
+     "level": 2
+    },
+    {
+     "text": "Hiking path",
+     "level": 2
+    },
+    {
+     "text": "Thousands of orange gates",
+     "level": 3
+    },
+    {
+     "text": "Mountain trail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Golden Pavilion",
+    "Meiji Shrine",
+    "Himeji Castle"
+   ]
+  },
+  {
+   "word": "Golden Pavilion",
+   "hints": [
+    {
+     "text": "Zen temple",
+     "level": 1
+    },
+    {
+     "text": "Gilded building",
+     "level": 1
+    },
+    {
+     "text": "Reflecting pond",
+     "level": 2
+    },
+    {
+     "text": "Kyoto icon",
+     "level": 2
+    },
+    {
+     "text": "Shining leaf walls",
+     "level": 3
+    },
+    {
+     "text": "Garden setting",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fushimi Inari",
+    "Silver Pavilion",
+    "Golden Temple"
+   ]
+  },
+  {
+   "word": "Terracotta Army",
+   "hints": [
+    {
+     "text": "Ancient sculptures",
+     "level": 1
+    },
+    {
+     "text": "Buried soldiers",
+     "level": 1
+    },
+    {
+     "text": "Emperor's guardians",
+     "level": 2
+    },
+    {
+     "text": "Farmers discovered",
+     "level": 2
+    },
+    {
+     "text": "Thousands of clay warriors",
+     "level": 3
+    },
+    {
+     "text": "Horses",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Great Wall",
+    "Forbidden City",
+    "Pyramids"
+   ]
+  },
+  {
+   "word": "Potala Palace",
+   "hints": [
+    {
+     "text": "Hillside fortress",
+     "level": 1
+    },
+    {
+     "text": "Tibetan landmark",
+     "level": 1
+    },
+    {
+     "text": "Former leader's home",
+     "level": 2
+    },
+    {
+     "text": "High altitude",
+     "level": 2
+    },
+    {
+     "text": "White and red walls",
+     "level": 3
+    },
+    {
+     "text": "Many windows",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Forbidden City",
+    "Kremlin",
+    "Paro Dzong"
+   ]
+  },
+  {
+   "word": "Borobudur",
+   "hints": [
+    {
+     "text": "Buddhist temple",
+     "level": 1
+    },
+    {
+     "text": "Indonesian landmark",
+     "level": 1
+    },
+    {
+     "text": "Sunrise climbs",
+     "level": 2
+    },
+    {
+     "text": "Pilgrimage site",
+     "level": 2
+    },
+    {
+     "text": "Stupas and reliefs",
+     "level": 3
+    },
+    {
+     "text": "Stone terraces",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Angkor Wat",
+    "Bagan",
+    "Prambanan"
+   ]
+  },
+  {
+   "word": "Halong Bay",
+   "hints": [
+    {
+     "text": "Seascape",
+     "level": 1
+    },
+    {
+     "text": "Limestone islands",
+     "level": 1
+    },
+    {
+     "text": "Boat cruises",
+     "level": 2
+    },
+    {
+     "text": "Emerald waters",
+     "level": 2
+    },
+    {
+     "text": "Towering karsts",
+     "level": 3
+    },
+    {
+     "text": "Floating villages",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Phang Nga",
+    "Galapagos",
+    "Barrier Reef"
+   ]
+  },
+  {
+   "word": "Dead Sea",
+   "hints": [
+    {
+     "text": "Salt lake",
+     "level": 1
+    },
+    {
+     "text": "Lowest point",
+     "level": 1
+    },
+    {
+     "text": "Floating effortlessly",
+     "level": 2
+    },
+    {
+     "text": "Mud spas",
+     "level": 2
+    },
+    {
+     "text": "Super salty water",
+     "level": 3
+    },
+    {
+     "text": "Desert shore",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Red Sea",
+    "Salt Lake",
+    "Caspian"
+   ]
+  },
+  {
+   "word": "Wailing Wall",
+   "hints": [
+    {
+     "text": "Sacred stones",
+     "level": 1
+    },
+    {
+     "text": "Ancient remnant",
+     "level": 1
+    },
+    {
+     "text": "Prayers in cracks",
+     "level": 2
+    },
+    {
+     "text": "Pilgrims",
+     "level": 2
+    },
+    {
+     "text": "Limestone blocks",
+     "level": 3
+    },
+    {
+     "text": "Old city",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Temple Mount",
+    "Berlin Wall",
+    "Great Wall"
+   ]
+  },
+  {
+   "word": "Mecca",
+   "hints": [
+    {
+     "text": "Holy city",
+     "level": 1
+    },
+    {
+     "text": "Pilgrimage site",
+     "level": 1
+    },
+    {
+     "text": "Millions of pilgrims",
+     "level": 2
+    },
+    {
+     "text": "Faces of prayer",
+     "level": 2
+    },
+    {
+     "text": "Black cube",
+     "level": 3
+    },
+    {
+     "text": "Grand mosque",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Medina",
+    "Jerusalem",
+    "Varanasi"
+   ]
+  },
+  {
+   "word": "Yellowstone",
+   "hints": [
+    {
+     "text": "National park",
+     "level": 1
+    },
+    {
+     "text": "Geothermal wonder",
+     "level": 1
+    },
+    {
+     "text": "Geysers erupt",
+     "level": 2
+    },
+    {
+     "text": "Bison herds",
+     "level": 2
+    },
+    {
+     "text": "Boiling springs",
+     "level": 3
+    },
+    {
+     "text": "Colorful pools",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Yosemite",
+    "Grand Canyon",
+    "Banff"
+   ]
+  },
+  {
+   "word": "Yosemite",
+   "hints": [
+    {
+     "text": "National park",
+     "level": 1
+    },
+    {
+     "text": "Granite valley",
+     "level": 1
+    },
+    {
+     "text": "Rock climbers",
+     "level": 2
+    },
+    {
+     "text": "Waterfalls",
+     "level": 2
+    },
+    {
+     "text": "Half dome",
+     "level": 3
+    },
+    {
+     "text": "Giant sequoias",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Yellowstone",
+    "Grand Canyon",
+    "Banff"
+   ]
+  },
+  {
+   "word": "Old Faithful",
+   "hints": [
+    {
+     "text": "Famous geyser",
+     "level": 1
+    },
+    {
+     "text": "Natural fountain",
+     "level": 1
+    },
+    {
+     "text": "Erupts on schedule",
+     "level": 2
+    },
+    {
+     "text": "Crowds wait",
+     "level": 2
+    },
+    {
+     "text": "Steam column",
+     "level": 3
+    },
+    {
+     "text": "Boiling water",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Strokkur",
+    "Yellowstone",
+    "Niagara Falls"
+   ]
+  },
+  {
+   "word": "Death Valley",
+   "hints": [
+    {
+     "text": "Desert basin",
+     "level": 1
+    },
+    {
+     "text": "Extreme heat",
+     "level": 1
+    },
+    {
+     "text": "Hottest place records",
+     "level": 2
+    },
+    {
+     "text": "Sailing stones",
+     "level": 2
+    },
+    {
+     "text": "Salt flats",
+     "level": 3
+    },
+    {
+     "text": "Sand dunes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Grand Canyon",
+    "Sahara",
+    "Monument Valley"
+   ]
+  },
+  {
+   "word": "Monument Valley",
+   "hints": [
+    {
+     "text": "Desert landscape",
+     "level": 1
+    },
+    {
+     "text": "Western icon",
+     "level": 1
+    },
+    {
+     "text": "Movie westerns",
+     "level": 2
+    },
+    {
+     "text": "Navajo land",
+     "level": 2
+    },
+    {
+     "text": "Red rock buttes",
+     "level": 3
+    },
+    {
+     "text": "Dusty roads",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Grand Canyon",
+    "Death Valley",
+    "Uluru"
+   ]
+  },
+  {
+   "word": "Vegas Strip",
+   "hints": [
+    {
+     "text": "Neon boulevard",
+     "level": 1
+    },
+    {
+     "text": "Casino row",
+     "level": 1
+    },
+    {
+     "text": "Gambling and shows",
+     "level": 2
+    },
+    {
+     "text": "Quick weddings",
+     "level": 2
+    },
+    {
+     "text": "Bright lights",
+     "level": 3
+    },
+    {
+     "text": "Fountain shows",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Times Square",
+    "Macau",
+    "Monaco"
+   ]
+  },
+  {
+   "word": "Chrysler",
+   "hints": [
+    {
+     "text": "Art deco skyscraper",
+     "level": 1
+    },
+    {
+     "text": "American icon",
+     "level": 1
+    },
+    {
+     "text": "Car company origins",
+     "level": 2
+    },
+    {
+     "text": "Spire",
+     "level": 2
+    },
+    {
+     "text": "Stainless crown",
+     "level": 3
+    },
+    {
+     "text": "Eagle gargoyles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Empire State",
+    "Flatiron",
+    "Burj Khalifa"
+   ]
+  },
+  {
+   "word": "Flatiron",
+   "hints": [
+    {
+     "text": "Triangular building",
+     "level": 1
+    },
+    {
+     "text": "American landmark",
+     "level": 1
+    },
+    {
+     "text": "Wedge shape",
+     "level": 2
+    },
+    {
+     "text": "Famous photos",
+     "level": 2
+    },
+    {
+     "text": "Narrow corner",
+     "level": 3
+    },
+    {
+     "text": "Steel frame",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chrysler",
+    "Empire State",
+    "Shard"
+   ]
+  },
+  {
+   "word": "Shard",
+   "hints": [
+    {
+     "text": "Glass skyscraper",
+     "level": 1
+    },
+    {
+     "text": "British landmark",
+     "level": 1
+    },
+    {
+     "text": "Viewing platform",
+     "level": 2
+    },
+    {
+     "text": "Modern skyline",
+     "level": 2
+    },
+    {
+     "text": "Pointed glass pyramid",
+     "level": 3
+    },
+    {
+     "text": "Riverside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gherkin",
+    "Empire State",
+    "Burj Khalifa"
+   ]
+  },
+  {
+   "word": "Gherkin",
+   "hints": [
+    {
+     "text": "Glass tower",
+     "level": 1
+    },
+    {
+     "text": "British skyscraper",
+     "level": 1
+    },
+    {
+     "text": "Pickle nickname",
+     "level": 2
+    },
+    {
+     "text": "Financial district",
+     "level": 2
+    },
+    {
+     "text": "Bullet shape",
+     "level": 3
+    },
+    {
+     "text": "Diamond glass",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shard",
+    "Atomium",
+    "Chrysler"
+   ]
+  },
+  {
+   "word": "Copacabana",
+   "hints": [
+    {
+     "text": "Famous beach",
+     "level": 1
+    },
+    {
+     "text": "City shoreline",
+     "level": 1
+    },
+    {
+     "text": "New year celebrations",
+     "level": 2
+    },
+    {
+     "text": "Beach volleyball",
+     "level": 2
+    },
+    {
+     "text": "Wavy promenade tiles",
+     "level": 3
+    },
+    {
+     "text": "Golden sand",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ipanema",
+    "Bondi Beach",
+    "Waikiki"
+   ]
+  },
+  {
+   "word": "Bondi Beach",
+   "hints": [
+    {
+     "text": "Famous shore",
+     "level": 1
+    },
+    {
+     "text": "Surf spot",
+     "level": 1
+    },
+    {
+     "text": "Lifeguard shows",
+     "level": 2
+    },
+    {
+     "text": "Ocean pool",
+     "level": 2
+    },
+    {
+     "text": "Golden sand",
+     "level": 3
+    },
+    {
+     "text": "Rolling waves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Copacabana",
+    "Waikiki",
+    "Malibu"
+   ]
+  },
+  {
+   "word": "Waikiki",
+   "hints": [
+    {
+     "text": "Famous beach",
+     "level": 1
+    },
+    {
+     "text": "Island resort",
+     "level": 1
+    },
+    {
+     "text": "Surf lessons",
+     "level": 2
+    },
+    {
+     "text": "Hula shows",
+     "level": 2
+    },
+    {
+     "text": "Diamond head crater",
+     "level": 3
+    },
+    {
+     "text": "Palm trees",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bondi Beach",
+    "Copacabana",
+    "Malibu"
+   ]
+  },
+  {
+   "word": "Banff",
+   "hints": [
+    {
+     "text": "National park",
+     "level": 1
+    },
+    {
+     "text": "Mountain town",
+     "level": 1
+    },
+    {
+     "text": "Turquoise lakes",
+     "level": 2
+    },
+    {
+     "text": "Ski slopes",
+     "level": 2
+    },
+    {
+     "text": "Rocky peaks",
+     "level": 3
+    },
+    {
+     "text": "Moose and elk",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Yosemite",
+    "Yellowstone",
+    "Jasper"
+   ]
+  },
+  {
+   "word": "Northern lights",
+   "hints": [
+    {
+     "text": "Natural phenomenon",
+     "level": 1
+    },
+    {
+     "text": "Polar display",
+     "level": 1
+    },
+    {
+     "text": "Arctic skies",
+     "level": 2
+    },
+    {
+     "text": "Bucket list",
+     "level": 2
+    },
+    {
+     "text": "Dancing green ribbons",
+     "level": 3
+    },
+    {
+     "text": "Night sky",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Milky Way",
+    "Rainbow",
+    "Eclipse"
+   ]
+  },
+  {
+   "word": "Fjords",
+   "hints": [
+    {
+     "text": "Coastal inlets",
+     "level": 1
+    },
+    {
+     "text": "Glacial valleys",
+     "level": 1
+    },
+    {
+     "text": "Cruises through them",
+     "level": 2
+    },
+    {
+     "text": "Norwegian icon",
+     "level": 2
+    },
+    {
+     "text": "Steep cliffs",
+     "level": 3
+    },
+    {
+     "text": "Deep water",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Canyons",
+    "Lochs",
+    "Bays"
+   ]
+  },
+  {
+   "word": "Loch Ness",
+   "hints": [
+    {
+     "text": "Scottish lake",
+     "level": 1
+    },
+    {
+     "text": "Monster legend",
+     "level": 1
+    },
+    {
+     "text": "Cryptid sightings",
+     "level": 2
+    },
+    {
+     "text": "Boat tours",
+     "level": 2
+    },
+    {
+     "text": "Dark deep water",
+     "level": 3
+    },
+    {
+     "text": "Ruined castle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lake Geneva",
+    "Dead Sea",
+    "Crater Lake"
+   ]
+  },
+  {
+   "word": "Moher Cliffs",
+   "hints": [
+    {
+     "text": "Sea precipice",
+     "level": 1
+    },
+    {
+     "text": "Irish landmark",
+     "level": 1
+    },
+    {
+     "text": "Puffin colonies",
+     "level": 2
+    },
+    {
+     "text": "Movie scenery",
+     "level": 2
+    },
+    {
+     "text": "Sheer drops",
+     "level": 3
+    },
+    {
+     "text": "Atlantic waves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "White Cliffs",
+    "Giants Causeway",
+    "Big Sur"
+   ]
+  },
+  {
+   "word": "Giants Causeway",
+   "hints": [
+    {
+     "text": "Rock formation",
+     "level": 1
+    },
+    {
+     "text": "Irish landmark",
+     "level": 1
+    },
+    {
+     "text": "Legend of a titan",
+     "level": 2
+    },
+    {
+     "text": "Coastal walk",
+     "level": 2
+    },
+    {
+     "text": "Hexagonal columns",
+     "level": 3
+    },
+    {
+     "text": "Basalt steps",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Moher Cliffs",
+    "Devils Tower",
+    "Stonehenge"
+   ]
+  },
+  {
+   "word": "White Cliffs",
+   "hints": [
+    {
+     "text": "Chalk coast",
+     "level": 1
+    },
+    {
+     "text": "English landmark",
+     "level": 1
+    },
+    {
+     "text": "Wartime songs",
+     "level": 2
+    },
+    {
+     "text": "Ferry views",
+     "level": 2
+    },
+    {
+     "text": "Bright chalk face",
+     "level": 3
+    },
+    {
+     "text": "Channel coast",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Moher Cliffs",
+    "Seven Sisters",
+    "Giants Causeway"
+   ]
+  },
+  {
+   "word": "Amalfi Coast",
+   "hints": [
+    {
+     "text": "Riviera",
+     "level": 1
+    },
+    {
+     "text": "Italian shoreline",
+     "level": 1
+    },
+    {
+     "text": "Cliffside villages",
+     "level": 2
+    },
+    {
+     "text": "Lemon groves",
+     "level": 2
+    },
+    {
+     "text": "Winding roads",
+     "level": 3
+    },
+    {
+     "text": "Colorful houses",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cinque Terre",
+    "Santorini",
+    "Big Sur"
+   ]
+  },
+  {
+   "word": "Cinque Terre",
+   "hints": [
+    {
+     "text": "Coastal villages",
+     "level": 1
+    },
+    {
+     "text": "Italian landmark",
+     "level": 1
+    },
+    {
+     "text": "Hiking trails between towns",
+     "level": 2
+    },
+    {
+     "text": "Pastel houses",
+     "level": 2
+    },
+    {
+     "text": "Five villages",
+     "level": 3
+    },
+    {
+     "text": "Cliffside terraces",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Amalfi Coast",
+    "Positano",
+    "Santorini"
+   ]
+  },
+  {
+   "word": "Matera",
+   "hints": [
+    {
+     "text": "Cave city",
+     "level": 1
+    },
+    {
+     "text": "Italian town",
+     "level": 1
+    },
+    {
+     "text": "Ancient dwellings",
+     "level": 2
+    },
+    {
+     "text": "Film sets",
+     "level": 2
+    },
+    {
+     "text": "Rock carved houses",
+     "level": 3
+    },
+    {
+     "text": "Canyon edge",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Petra",
+    "Cappadocia",
+    "Ajanta"
+   ]
+  },
+  {
+   "word": "Cappadocia",
+   "hints": [
+    {
+     "text": "Rock landscape",
+     "level": 1
+    },
+    {
+     "text": "Balloon destination",
+     "level": 1
+    },
+    {
+     "text": "Hot air balloon sunrise",
+     "level": 2
+    },
+    {
+     "text": "Cave hotels",
+     "level": 2
+    },
+    {
+     "text": "Fairy chimneys",
+     "level": 3
+    },
+    {
+     "text": "Underground cities",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Matera",
+    "Petra",
+    "Monument Valley"
+   ]
+  },
+  {
+   "word": "Bagan",
+   "hints": [
+    {
+     "text": "Temple plains",
+     "level": 1
+    },
+    {
+     "text": "Ancient city",
+     "level": 1
+    },
+    {
+     "text": "Balloon flights",
+     "level": 2
+    },
+    {
+     "text": "Sunrise views",
+     "level": 2
+    },
+    {
+     "text": "Thousands of pagodas",
+     "level": 3
+    },
+    {
+     "text": "Dusty plains",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Angkor Wat",
+    "Borobudur",
+    "Cappadocia"
+   ]
+  },
+  {
+   "word": "Red Square",
+   "hints": [
+    {
+     "text": "Famous plaza",
+     "level": 1
+    },
+    {
+     "text": "Russian landmark",
+     "level": 1
+    },
+    {
+     "text": "Military parades",
+     "level": 2
+    },
+    {
+     "text": "Colorful cathedral",
+     "level": 2
+    },
+    {
+     "text": "Cobblestones",
+     "level": 3
+    },
+    {
+     "text": "Onion domes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Times Square",
+    "Tiananmen",
+    "Trafalgar"
+   ]
+  },
+  {
+   "word": "Trafalgar",
+   "hints": [
+    {
+     "text": "Famous plaza",
+     "level": 1
+    },
+    {
+     "text": "London landmark",
+     "level": 1
+    },
+    {
+     "text": "Pigeons and protests",
+     "level": 2
+    },
+    {
+     "text": "New year crowds",
+     "level": 2
+    },
+    {
+     "text": "Admiral column",
+     "level": 3
+    },
+    {
+     "text": "Lion statues",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Times Square",
+    "Red Square",
+    "Piccadilly"
+   ]
+  },
+  {
+   "word": "Piccadilly",
+   "hints": [
+    {
+     "text": "Busy junction",
+     "level": 1
+    },
+    {
+     "text": "London landmark",
+     "level": 1
+    },
+    {
+     "text": "Neon advertising",
+     "level": 2
+    },
+    {
+     "text": "Theater district",
+     "level": 2
+    },
+    {
+     "text": "Giant screens",
+     "level": 3
+    },
+    {
+     "text": "Statue fountain",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Times Square",
+    "Shibuya Crossing",
+    "Trafalgar"
+   ]
+  },
+  {
+   "word": "Tiananmen",
+   "hints": [
+    {
+     "text": "Huge square",
+     "level": 1
+    },
+    {
+     "text": "Beijing landmark",
+     "level": 1
+    },
+    {
+     "text": "Heavenly gate",
+     "level": 2
+    },
+    {
+     "text": "Flag ceremonies",
+     "level": 2
+    },
+    {
+     "text": "Vast plaza",
+     "level": 3
+    },
+    {
+     "text": "Portrait over entrance",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Red Square",
+    "Forbidden City",
+    "Trafalgar"
+   ]
+  },
+  {
+   "word": "Santorini",
+   "hints": [
+    {
+     "text": "Greek island",
+     "level": 1
+    },
+    {
+     "text": "Volcanic isle",
+     "level": 1
+    },
+    {
+     "text": "Famous sunsets",
+     "level": 2
+    },
+    {
+     "text": "Honeymoon spot",
+     "level": 2
+    },
+    {
+     "text": "Whitewashed houses",
+     "level": 3
+    },
+    {
+     "text": "Blue domes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mykonos",
+    "Amalfi Coast",
+    "Capri"
+   ]
+  },
+  {
+   "word": "Stone Town",
+   "hints": [
+    {
+     "text": "Historic quarter",
+     "level": 1
+    },
+    {
+     "text": "Island old city",
+     "level": 1
+    },
+    {
+     "text": "Spice trade history",
+     "level": 2
+    },
+    {
+     "text": "Carved doors",
+     "level": 2
+    },
+    {
+     "text": "Narrow alleys",
+     "level": 3
+    },
+    {
+     "text": "Coral buildings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Old Delhi",
+    "Medina",
+    "Cartagena"
+   ]
+  },
+  {
+   "word": "Abbey Road",
+   "hints": [
+    {
+     "text": "Famous crosswalk",
+     "level": 1
+    },
+    {
+     "text": "Music landmark",
+     "level": 1
+    },
+    {
+     "text": "Album cover pose",
+     "level": 2
+    },
+    {
+     "text": "Recording studio",
+     "level": 2
+    },
+    {
+     "text": "Zebra crossing",
+     "level": 3
+    },
+    {
+     "text": "Four walking figures",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shibuya Crossing",
+    "Penny Lane",
+    "Times Square"
+   ]
+  },
+  {
+   "word": "Hyde Park",
+   "hints": [
+    {
+     "text": "London greenery",
+     "level": 1
+    },
+    {
+     "text": "Royal grounds",
+     "level": 1
+    },
+    {
+     "text": "Speakers corner",
+     "level": 2
+    },
+    {
+     "text": "Summer concerts",
+     "level": 2
+    },
+    {
+     "text": "Serpentine lake",
+     "level": 3
+    },
+    {
+     "text": "Rowing boats",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Central Park",
+    "Regent Park",
+    "Golden Gate"
+   ]
+  },
+  {
+   "word": "Broadway",
+   "hints": [
+    {
+     "text": "Theater district",
+     "level": 1
+    },
+    {
+     "text": "American stage",
+     "level": 1
+    },
+    {
+     "text": "Musicals and plays",
+     "level": 2
+    },
+    {
+     "text": "Ticket queues",
+     "level": 2
+    },
+    {
+     "text": "Bright marquees",
+     "level": 3
+    },
+    {
+     "text": "Standing ovations",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "West End",
+    "Hollywood",
+    "Vegas Strip"
+   ]
+  },
+  {
+   "word": "West End",
+   "hints": [
+    {
+     "text": "Theater district",
+     "level": 1
+    },
+    {
+     "text": "London stage",
+     "level": 1
+    },
+    {
+     "text": "Musicals and plays",
+     "level": 2
+    },
+    {
+     "text": "Long runs",
+     "level": 2
+    },
+    {
+     "text": "Velvet seats",
+     "level": 3
+    },
+    {
+     "text": "Marquee lights",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Broadway",
+    "Hollywood",
+    "Piccadilly"
+   ]
+  },
+  {
+   "word": "Capitol",
+   "hints": [
+    {
+     "text": "Government building",
+     "level": 1
+    },
+    {
+     "text": "Domed legislature",
+     "level": 1
+    },
+    {
+     "text": "Lawmakers meet",
+     "level": 2
+    },
+    {
+     "text": "Inauguration site",
+     "level": 2
+    },
+    {
+     "text": "White dome",
+     "level": 3
+    },
+    {
+     "text": "Marble steps",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "White House",
+    "Parliament",
+    "Kremlin"
+   ]
+  },
+  {
+   "word": "Pentagon",
+   "hints": [
+    {
+     "text": "Military headquarters",
+     "level": 1
+    },
+    {
+     "text": "Defense building",
+     "level": 1
+    },
+    {
+     "text": "Government security",
+     "level": 2
+    },
+    {
+     "text": "Huge offices",
+     "level": 2
+    },
+    {
+     "text": "Five sided shape",
+     "level": 3
+    },
+    {
+     "text": "Concentric rings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Capitol",
+    "White House",
+    "Kremlin"
+   ]
+  },
+  {
+   "word": "Vesuvius",
+   "hints": [
+    {
+     "text": "Active volcano",
+     "level": 1
+    },
+    {
+     "text": "Italian peak",
+     "level": 1
+    },
+    {
+     "text": "Buried an ancient city",
+     "level": 2
+    },
+    {
+     "text": "Looms over bay",
+     "level": 2
+    },
+    {
+     "text": "Smoking crater",
+     "level": 3
+    },
+    {
+     "text": "Ash and lava",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Etna",
+    "Fuji",
+    "Kilimanjaro"
+   ]
+  },
+  {
+   "word": "Pompeii",
+   "hints": [
+    {
+     "text": "Ancient city",
+     "level": 1
+    },
+    {
+     "text": "Buried ruins",
+     "level": 1
+    },
+    {
+     "text": "Volcano victim",
+     "level": 2
+    },
+    {
+     "text": "Preserved in ash",
+     "level": 2
+    },
+    {
+     "text": "Plaster casts",
+     "level": 3
+    },
+    {
+     "text": "Cobbled streets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Herculaneum",
+    "Petra",
+    "Machu Picchu"
+   ]
+  },
+  {
+   "word": "Etna",
+   "hints": [
+    {
+     "text": "Active volcano",
+     "level": 1
+    },
+    {
+     "text": "Sicilian peak",
+     "level": 1
+    },
+    {
+     "text": "Frequent eruptions",
+     "level": 2
+    },
+    {
+     "text": "Ski slopes too",
+     "level": 2
+    },
+    {
+     "text": "Lava flows",
+     "level": 3
+    },
+    {
+     "text": "Smoking summit",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Vesuvius",
+    "Fuji",
+    "Stromboli"
+   ]
+  },
+  {
+   "word": "Blue Lagoon",
+   "hints": [
+    {
+     "text": "Geothermal spa",
+     "level": 1
+    },
+    {
+     "text": "Icelandic attraction",
+     "level": 1
+    },
+    {
+     "text": "Milky water",
+     "level": 2
+    },
+    {
+     "text": "Silica mud masks",
+     "level": 2
+    },
+    {
+     "text": "Steaming pools",
+     "level": 3
+    },
+    {
+     "text": "Lava fields",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dead Sea",
+    "Pamukkale",
+    "Yellowstone"
+   ]
+  },
+  {
+   "word": "Pamukkale",
+   "hints": [
+    {
+     "text": "Natural terraces",
+     "level": 1
+    },
+    {
+     "text": "Turkish wonder",
+     "level": 1
+    },
+    {
+     "text": "Thermal pools",
+     "level": 2
+    },
+    {
+     "text": "Ancient spa town",
+     "level": 2
+    },
+    {
+     "text": "White travertine",
+     "level": 3
+    },
+    {
+     "text": "Cotton castle look",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Blue Lagoon",
+    "Cappadocia",
+    "Yellowstone"
+   ]
+  },
+  {
+   "word": "Sahara",
+   "hints": [
+    {
+     "text": "Huge desert",
+     "level": 1
+    },
+    {
+     "text": "African expanse",
+     "level": 1
+    },
+    {
+     "text": "Camel caravans",
+     "level": 2
+    },
+    {
+     "text": "Scorching days",
+     "level": 2
+    },
+    {
+     "text": "Rolling dunes",
+     "level": 3
+    },
+    {
+     "text": "Oases",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gobi",
+    "Kalahari",
+    "Death Valley"
+   ]
+  },
+  {
+   "word": "Amazon",
+   "hints": [
+    {
+     "text": "Huge rainforest",
+     "level": 1
+    },
+    {
+     "text": "River basin",
+     "level": 1
+    },
+    {
+     "text": "Lungs of the planet",
+     "level": 2
+    },
+    {
+     "text": "Tribes and wildlife",
+     "level": 2
+    },
+    {
+     "text": "Dense canopy",
+     "level": 3
+    },
+    {
+     "text": "Piranhas",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Congo",
+    "Borneo",
+    "Sahara"
+   ]
+  },
+  {
+   "word": "Serengeti",
+   "hints": [
+    {
+     "text": "African plains",
+     "level": 1
+    },
+    {
+     "text": "Wildlife reserve",
+     "level": 1
+    },
+    {
+     "text": "Great migration",
+     "level": 2
+    },
+    {
+     "text": "Safari trips",
+     "level": 2
+    },
+    {
+     "text": "Wildebeest herds",
+     "level": 3
+    },
+    {
+     "text": "Acacia trees",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Masai Mara",
+    "Kalahari",
+    "Okavango"
+   ]
+  },
+  {
+   "word": "Everglades",
+   "hints": [
+    {
+     "text": "Wetland park",
+     "level": 1
+    },
+    {
+     "text": "Swamp reserve",
+     "level": 1
+    },
+    {
+     "text": "Airboat tours",
+     "level": 2
+    },
+    {
+     "text": "Alligators",
+     "level": 2
+    },
+    {
+     "text": "Sawgrass marshes",
+     "level": 3
+    },
+    {
+     "text": "Mangroves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Yellowstone",
+    "Okavango",
+    "Amazon"
+   ]
+  },
+  {
+   "word": "Antarctica",
+   "hints": [
+    {
+     "text": "Frozen continent",
+     "level": 1
+    },
+    {
+     "text": "Polar wilderness",
+     "level": 1
+    },
+    {
+     "text": "Research stations",
+     "level": 2
+    },
+    {
+     "text": "Penguin colonies",
+     "level": 2
+    },
+    {
+     "text": "Ice sheets",
+     "level": 3
+    },
+    {
+     "text": "Midnight sun",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Greenland",
+    "Alaska",
+    "Siberia"
+   ]
+  },
+  {
+   "word": "Big Sur",
+   "hints": [
+    {
+     "text": "Rugged coastline",
+     "level": 1
+    },
+    {
+     "text": "Californian drive",
+     "level": 1
+    },
+    {
+     "text": "Scenic highway",
+     "level": 2
+    },
+    {
+     "text": "Redwood forests",
+     "level": 2
+    },
+    {
+     "text": "Cliffside bridges",
+     "level": 3
+    },
+    {
+     "text": "Pacific views",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Amalfi Coast",
+    "Moher Cliffs",
+    "Malibu"
+   ]
+  },
+  {
+   "word": "Grand Bazaar",
+   "hints": [
+    {
+     "text": "Covered market",
+     "level": 1
+    },
+    {
+     "text": "Turkish landmark",
+     "level": 1
+    },
+    {
+     "text": "Haggling for rugs",
+     "level": 2
+    },
+    {
+     "text": "Thousands of shops",
+     "level": 2
+    },
+    {
+     "text": "Domed alleys",
+     "level": 3
+    },
+    {
+     "text": "Lanterns and spices",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chandni Chowk",
+    "Souk",
+    "Red Square"
+   ]
+  },
+  {
+   "word": "Chandni Chowk",
+   "hints": [
+    {
+     "text": "Old market",
+     "level": 1
+    },
+    {
+     "text": "Delhi landmark",
+     "level": 1
+    },
+    {
+     "text": "Street food heaven",
+     "level": 2
+    },
+    {
+     "text": "Crowded lanes",
+     "level": 2
+    },
+    {
+     "text": "Rickshaws",
+     "level": 3
+    },
+    {
+     "text": "Spice shops",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Grand Bazaar",
+    "Crawford Market",
+    "Colaba"
+   ]
+  },
+  {
+   "word": "Marine Drive",
+   "hints": [
+    {
+     "text": "Seaside promenade",
+     "level": 1
+    },
+    {
+     "text": "Mumbai landmark",
+     "level": 1
+    },
+    {
+     "text": "Evening strolls",
+     "level": 2
+    },
+    {
+     "text": "Queen's necklace lights",
+     "level": 2
+    },
+    {
+     "text": "Curved boulevard",
+     "level": 3
+    },
+    {
+     "text": "Art deco buildings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Juhu Beach",
+    "Gateway Arch",
+    "Copacabana"
+   ]
+  },
+  {
+   "word": "Sugarloaf",
+   "hints": [
+    {
+     "text": "Granite peak",
+     "level": 1
+    },
+    {
+     "text": "Harbor landmark",
+     "level": 1
+    },
+    {
+     "text": "Cable car views",
+     "level": 2
+    },
+    {
+     "text": "Beach city backdrop",
+     "level": 2
+    },
+    {
+     "text": "Rounded rock",
+     "level": 3
+    },
+    {
+     "text": "Ocean setting",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Table Mountain",
+    "Christ Redeemer",
+    "Uluru"
+   ]
+  },
+  {
+   "word": "Mezquita",
+   "hints": [
+    {
+     "text": "Mosque cathedral",
+     "level": 1
+    },
+    {
+     "text": "Spanish landmark",
+     "level": 1
+    },
+    {
+     "text": "Moorish history",
+     "level": 2
+    },
+    {
+     "text": "Cordoba icon",
+     "level": 2
+    },
+    {
+     "text": "Red and white arches",
+     "level": 3
+    },
+    {
+     "text": "Forest of columns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Alhambra",
+    "Sagrada Familia",
+    "Hagia Sophia"
+   ]
+  },
+  {
+   "word": "Reichstag",
+   "hints": [
+    {
+     "text": "Parliament building",
+     "level": 1
+    },
+    {
+     "text": "German landmark",
+     "level": 1
+    },
+    {
+     "text": "Glass dome",
+     "level": 2
+    },
+    {
+     "text": "Rooftop views",
+     "level": 2
+    },
+    {
+     "text": "Spiral ramp",
+     "level": 3
+    },
+    {
+     "text": "Historic fire",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Brandenburg Gate",
+    "Capitol",
+    "Kremlin"
+   ]
+  },
+  {
+   "word": "Windsor Castle",
+   "hints": [
+    {
+     "text": "Royal residence",
+     "level": 1
+    },
+    {
+     "text": "English fortress",
+     "level": 1
+    },
+    {
+     "text": "Oldest occupied",
+     "level": 2
+    },
+    {
+     "text": "Royal weddings",
+     "level": 2
+    },
+    {
+     "text": "Round tower",
+     "level": 3
+    },
+    {
+     "text": "Thames valley",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Edinburgh Castle",
+    "Buckingham",
+    "Versailles"
+   ]
+  },
+  {
+   "word": "Prado",
+   "hints": [
+    {
+     "text": "Art museum",
+     "level": 1
+    },
+    {
+     "text": "Spanish gallery",
+     "level": 1
+    },
+    {
+     "text": "Masterpieces",
+     "level": 2
+    },
+    {
+     "text": "Madrid landmark",
+     "level": 2
+    },
+    {
+     "text": "Royal paintings",
+     "level": 3
+    },
+    {
+     "text": "Velvet halls",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Louvre",
+    "Uffizi",
+    "Hermitage"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+@id sports
+@name Sports
+Football | Team sport; Field game | Most popular worldwide; World cup | Kick into goal; Eleven players | Rugby; Basketball; Hockey
+Cricket | Bat sport; Team sport | Huge in south asia; Lasts for days | Wickets and stumps; Leather ball | Baseball; Hockey; Golf
+Basketball | Team sport; Court game | Tall players; Slam dunks | Hoop and backboard; Dribbling | Volleyball; Netball; Handball
+Tennis | Racket sport; Court game | Grand slam events; Love means zero | Yellow fuzzy ball; Net in middle | Badminton; Squash; Pickleball
+Badminton | Racket sport; Indoor game | Backyard favorite; Fast smashes | Feathered shuttlecock; High net | Tennis; Squash; Table tennis
+Golf | Outdoor sport; Club sport | Played on courses; Quiet spectators | Hole in one; Small dimpled ball | Cricket; Croquet; Billiards
+Baseball | Bat sport; Team sport | National pastime; Home runs | Diamond field; Pitcher and catcher | Cricket; Softball; Rounders
+Hockey | Team sport; Stick sport | Ice or turf; Fast and rough | Puck or ball; Curved stick | Lacrosse; Football; Polo
+Rugby | Team sport; Contact sport | Scrums and tackles; Very physical | Oval ball; Try line | Football; Lacrosse; Wrestling
+Volleyball | Team sport; Net game | Played on beaches; Spikes and blocks | High net; Six players | Basketball; Badminton; Handball
+Swimming | Water sport; Olympic event | Laps in pools; Freestyle strokes | Goggles and caps; Diving blocks | Diving; Rowing; Surfing
+Boxing | Combat sport; Fighting sport | Heavyweight champions; Knockouts | Padded gloves; Square ring | Wrestling; Karate; Fencing
+Wrestling | Combat sport; Grappling sport | Pins and holds; Ancient olympic event | Mat battles; Singlet uniforms | Boxing; Judo; Sumo
+Cycling | Endurance sport; Wheel sport | Tour races; Commuting | Helmets and lycra; Pedal power | Running; Skating; Motocross
+Running | Track sport; Endurance sport | Marathons; Morning jogs | Sneakers; Finish line tape | Cycling; Walking; Hurdles
+Marathon | Long race; Endurance event | City streets; Water stations | Very long distance; Medal at finish | Sprint; Triathlon; Relay
+Skiing | Winter sport; Snow sport | Mountain resorts; Chair lifts | Two long planks; Poles in hands | Snowboarding; Sledding; Skating
+Snowboarding | Winter sport; Slope sport | Half pipe tricks; Mountain slopes | Single wide plank; Sideways stance | Skiing; Skateboarding; Surfing
+Surfing | Water sport; Board sport | Beach culture; Catching waves | Wetsuits; Hang ten | Skateboarding; Sailing; Swimming
+Skateboarding | Street sport; Wheeled sport | Concrete bowls; Kickflips | Four small wheels; Grip tape | Surfing; Snowboarding; Rollerblading
+Karate | Martial art; Combat sport | Belt colors; Board breaking | White uniform; Chops and kicks | Judo; Taekwondo; Kung fu
+Judo | Martial art; Grappling sport | Olympic sport; Throws opponents | Thick white jacket; Tatami mats | Karate; Wrestling; Sumo
+Taekwondo | Martial art; Kicking sport | Korean origins; Olympic sport | High spinning kicks; Chest protector | Karate; Kickboxing; Judo
+Fencing | Combat sport; Sword sport | Olympic event; Touches score points | Mesh mask; Thin blades | Archery; Kendo; Boxing
+Archery | Target sport; Precision sport | Olympic event; Ancient skill | Bow and arrows; Bullseye | Darts; Shooting; Javelin
+Darts | Pub game; Target sport | Throwing contest; Bars and pubs | Board with rings; Pointed arrows | Archery; Bowling; Billiards
+Bowling | Alley sport; Indoor game | Rented shoes; Strikes and spares | Ten pins; Heavy ball | Billiards; Darts; Curling
+Billiards | Table game; Cue sport | Pool halls; Chalk on tip | Colored balls; Six pockets | Snooker; Bowling; Darts
+Snooker | Cue sport; Table game | Long matches; Quiet crowds | Red and colored balls; Large green table | Billiards; Darts; Bowling
+Table tennis | Indoor sport; Paddle sport | Fast rallies; Basement game | Tiny plastic ball; Little net | Badminton; Squash; Pickleball
+Squash | Racket sport; Indoor game | Four wall court; Fast and sweaty | Small rubber ball; Hits the wall | Tennis; Badminton; Racquetball
+Gymnastics | Olympic sport; Acrobatic sport | Flips and tumbles; Perfect tens | Balance beam; Parallel bars | Diving; Trampoline; Ballet
+Diving | Water sport; Olympic event | Springboard jumps; Graceful entries | High platform; Twists and somersaults | Swimming; Gymnastics; Cliff jumping
+Rowing | Water sport; Team sport | Boat races; River clubs | Oars in sync; Narrow boats | Kayaking; Canoeing; Sailing
+Sailing | Water sport; Wind sport | Regattas; Yacht clubs | Wind filled cloth; Tacking and jibing | Rowing; Windsurfing; Kayaking
+Kayaking | Water sport; Paddle sport | River rapids; Sea trips | Double bladed paddle; Narrow boat | Canoeing; Rowing; Rafting
+Rock climbing | Adventure sport; Vertical sport | Indoor gyms; Cliff faces | Harness and ropes; Chalk bags | Hiking; Bouldering; Abseiling
+Horse racing | Equestrian sport; Track event | Betting crowds; Fancy hats | Jockeys; Finish post | Polo; Show jumping; Rodeo
+Polo | Equestrian sport; Team sport | Played on horseback; Fancy crowd | Long mallets; Ponies | Hockey; Croquet; Horse racing
+Formula one | Motor sport; Racing series | Pit stops; Champagne celebrations | Open wheel cars; Very fast laps | Rally; Nascar; Karting
+Motocross | Motor sport; Dirt racing | Muddy tracks; Big jumps | Dirt bikes; Goggles and boots | Rally; Cycling; Karting
+Ice skating | Winter sport; Rink sport | Graceful spins; Frozen ponds | Bladed boots; Figure eights | Skiing; Rollerblading; Curling
+Figure skating | Winter sport; Artistic sport | Olympic event; Sparkly costumes | Triple axel jumps; Ice rink | Ballet; Gymnastics; Skiing
+Curling | Winter sport; Ice sport | Sweeping brooms; Olympic oddity | Heavy granite stones; Target house | Bowling; Shuffleboard; Hockey
+Handball | Team sport; Court sport | Popular in europe; Fast throws | Throwing into goal; Indoor court | Basketball; Volleyball; Football
+Lacrosse | Team sport; Stick sport | Indigenous origins; College sport | Netted stick; Hard rubber ball | Hockey; Rugby; Polo
+Softball | Bat sport; Team sport | Underhand pitches; School sport | Larger sphere; Diamond field | Baseball; Cricket; Rounders
+Triathlon | Endurance sport; Multisport event | Ironman races; Transitions | Swim bike run; Wetsuit to sneakers | Marathon; Decathlon; Biathlon
+Weightlifting | Strength sport; Olympic sport | Gym culture; Clean and jerk | Heavy barbell; Chalky hands | Bodybuilding; Wrestling; Powerlifting
+Sumo | Combat sport; Japanese sport | Huge wrestlers; Ancient rituals | Circular ring; Throwing salt | Wrestling; Judo; Boxing
+Kabaddi | Team sport; Contact sport | Popular in south asia; Holding breath | Raider and defenders; Chanting the name | Wrestling; Rugby; Tag
+Chess | Board game; Mind sport | Grandmasters; Timed matches | Checkmate; Kings and queens | Checkers; Shogi; Backgammon
+Polo match | Equestrian event; Team fixture | Sunday social; Divot stomping | Horses and mallets; Chukkas | Horse race; Cricket match; Croquet
+Water polo | Pool sport; Team sport | Constant swimming; Olympic sport | Pool goals; Swim caps | Swimming; Handball; Rowing
+Hurdles | Track event; Running race | Olympic sprint; Jumping while running | Barriers on track; Knee lifts | Long jump; Sprint; Steeplechase
+Long jump | Track event; Leaping event | Olympic event; Run and leap | Sand pit landing; Takeoff board | High jump; Triple jump; Hurdles
+High jump | Track event; Leaping event | Back first technique; Olympic event | Bar to clear; Big foam mat | Long jump; Pole vault; Hurdles
+Pole vault | Track event; Jumping event | Olympic event; Flying high | Bendy long rod; Very high bar | High jump; Long jump; Javelin
+Javelin | Throwing event; Track event | Olympic event; Ancient origins | Long spear; Run up throw | Discus; Shot put; Archery
+Discus | Throwing event; Track event | Ancient greek statue; Spin and release | Heavy flat plate; Throwing circle | Javelin; Shot put; Hammer throw
+Shot put | Throwing event; Strength event | Olympic event; Push throw | Heavy metal ball; Thrown from neck | Discus; Javelin; Hammer throw
+Sprint | Track event; Short race | Fastest human title; Olympic final | Starting blocks; Explosive burst | Marathon; Relay; Hurdles
+Relay | Track event; Team race | Four runners; Exciting finish | Baton passing; Handover zone | Sprint; Marathon; Hurdles
+Decathlon | Track event; Multi event | Ten disciplines; Best all rounder | Two day contest; Points system | Triathlon; Pentathlon; Marathon
+Badminton smash | Fast shot; Racket move | Point winner; Jump attack | Steep downward hit; Feathered target | Drop shot; Lob; Serve
+Mountain biking | Off road sport; Wheel sport | Forest trails; Downhill thrills | Suspension frames; Muddy tires | Cycling; Motocross; Hiking
+Paragliding | Air sport; Adventure sport | Mountain launches; Soaring thermals | Colorful canopy; Harness seat | Skydiving; Hang gliding; Parasailing
+Skydiving | Air sport; Extreme sport | Jump from planes; Free fall | Parachute; Altimeter on wrist | Paragliding; Bungee jumping; Base jumping
+Bungee jumping | Extreme sport; Adventure activity | Bridge leaps; Screaming fall | Stretchy cord; Ankle harness | Skydiving; Zip lining; Cliff diving
+Scuba diving | Water sport; Underwater sport | Coral reefs; Certification course | Air tanks; Wetsuit and fins | Snorkeling; Swimming; Surfing
+Snorkeling | Water sport; Beach activity | Tropical reefs; Shallow water | Breathing tube; Face mask | Scuba diving; Swimming; Kayaking
+Windsurfing | Water sport; Board sport | Breezy beaches; Olympic event | Sail on a board; Balancing act | Kitesurfing; Sailing; Rowing
+Kitesurfing | Water sport; Wind sport | Big air jumps; Windy beaches | Giant canopy; Harness and board | Windsurfing; Wakeboarding; Paragliding
+Rafting | Water sport; Group adventure | River rapids; Team paddling | Inflatable boat; Helmets and vests | Kayaking; Canoeing; Rowing
+Canoeing | Water sport; Paddle sport | Lake trips; Olympic sprint | Single bladed paddle; Open boat | Kayaking; Rowing; Rafting
+Hiking | Outdoor activity; Walking sport | Mountain trails; Weekend escape | Backpack and boots; Trail markers | Climbing; Camping; Running
+Fishing | Outdoor hobby; Water sport | Patience needed; Lakeside mornings | Rod and reel; Bait on hook | Hunting; Boating; Sailing
+Equestrian | Horse sport; Olympic discipline | Dressage and jumping; Riding schools | Saddle and reins; Show arena | Polo; Horse racing; Rodeo
+Rodeo | Western sport; Cowboy event | Bull riding; Lasso tricks | Bucking broncos; Cowboy hats | Horse racing; Polo; Bullfighting
+Kickboxing | Combat sport; Striking sport | Fitness classes; Ring bouts | Punches and kicks; Shin guards | Fencing; Karate; Muay thai
+Muay thai | Combat sport; Ring sport | Art of eight limbs; Ring rituals | Elbows and knees; Headbands | Kickboxing; Boxing; Karate
+Kung fu | Martial art; Chinese sport | Movie fight scenes; Animal styles | Flowing stances; Temple monks | Karate; Taekwondo; Judo
+Yoga | Mind body practice; Stretching exercise | Calm breathing; Mats in studios | Downward dog; Lotus pose | Pilates; Stretching; Meditation
+Pilates | Exercise method; Core workout | Studio classes; Low impact | Reformer machine; Core strength | Yoga; Aerobics; Stretching
+Aerobics | Exercise class; Cardio workout | Group fitness; Upbeat music | Step platforms; Leg warmers | Pilates; Zumba; Yoga
+Zumba | Dance workout; Fitness class | Latin music; High energy | Shaking hips; Instructor moves | Aerobics; Salsa; Pilates
+Bodybuilding | Strength sport; Physique sport | Posing contests; Gym culture | Big muscles; Spray tans | Weightlifting; Powerlifting; Wrestling
+Powerlifting | Strength sport; Barbell sport | Max lifts; Gym culture | Squat bench deadlift; Heavy plates | Weightlifting; Bodybuilding; Strongman
+Arm wrestling | Strength contest; Table sport | Bar challenges; Grip strength | Elbows on table; Pin the hand | Judo; Sumo; Boxing
+Hopscotch | Playground game; Chalk game | Hop on one foot; Kids at recess | Chalk squares; Toss a stone | Jump rope; Tag; Marbles
+Dodgeball | Playground game; Team game | Gym class; Duck and weave | Rubber balls; Getting hit means out | Handball; Tag; Volleyball
+Netball | Team sport; Court game | School sport; No dribbling | Tall hoop no backboard; Position bibs | Basketball; Volleyball; Handball
+Frisbee | Outdoor game; Throwing game | Park picnics; Dog catches | Flying disc; Spinning throw | Boomerang; Kite; Ball
+Ultimate | Team sport; Disc sport | Self refereed; College campuses | Flying disc; End zones | Rugby; Football; Netball
+Pickleball | Paddle sport; Court game | Fastest growing sport; Retiree favorite | Holey plastic sphere; Kitchen zone | Tennis; Badminton; Table tennis
+Croquet | Lawn game; Mallet sport | Garden parties; Victorian pastime | Hoops and mallets; Wooden balls | Golf; Polo; Bowls
+Mini golf | Fun game; Putting game | Family outings; Windmill obstacles | Putter only; Colorful courses | Snooker; Bowling; Croquet
+Go karting | Motor fun; Racing game | Birthday parties; Indoor tracks | Small engine cars; Tire barriers | Formula one; Bumper cars; Motocross
+Esports | Gaming competition; Digital contest | Arena tournaments; Streaming crowds | Headsets and keyboards; Team jerseys | Chess; Poker; Arcade
+Channel swim | Endurance event; Lake race | Sea crossings; Hours long | Grease and goggles; Cold waves | Triathlon; Rowing; Diving
+Steeplechase | Track event; Obstacle race | Water jump; Long distance | Barriers and pit; Muddy splashes | Hurdles; Marathon; Relay
+Biathlon | Winter sport; Combined event | Ski and shoot; Olympic event | Rifle on back; Cross country | Triathlon; Skiing; Archery
+Bobsleigh | Winter sport; Sliding sport | Olympic event; Team push start | Icy track; Sled pod | Luge; Skeleton; Sledding
+Luge | Winter sport; Sliding sport | Feet first; Olympic event | Lying on sled; Icy curves | Bobsleigh; Skeleton; Sledding
+Sledding | Winter fun; Snow play | Kids on hills; Snow days | Plastic toboggan; Downhill slide | Skiing; Luge; Snowboarding
+Rollerblading | Wheel sport; Street skating | Beach boardwalks; Retro fun | Inline wheels; Knee pads | Skateboarding; Ice skating; Cycling
+Parkour | Urban sport; Freerunning | Rooftop jumps; Wall flips | Vaulting railings; City obstacles | Gymnastics; Climbing; Skateboarding
+Bouldering | Climbing sport; Short climbs | Indoor walls; No ropes | Crash pads; Chalky holds | Rock climbing; Parkour; Hiking
+Ice hockey | Winter sport; Team sport | Scuffles on rink; Canadian passion | Rubber puck; Bladed boots | Field hockey; Curling; Lacrosse
+Field hockey | Team sport; Stick sport | Olympic sport; Played on turf | Hooked stick; Hard white ball | Ice hockey; Lacrosse; Polo
+Beach volleyball | Sand sport; Team sport | Summer olympics; Pairs play | Sandy court; Sunglasses and bikinis | Netball; Badminton; Handball
+Bowls | Lawn game; Precision sport | Played on greens; Older players | Rolling biased balls; Small white jack | Bocce; Croquet; Curling
+Bocce | Lawn game; Italian sport | Park game; Relaxed matches | Heavy balls; Small target ball | Bowls; Croquet; Curling
+Gymkhana | Horse event; Games day | Pony club fun; Timed races | Barrels and poles; Young riders | Rodeo; Polo; Show jumping
+Show jumping | Equestrian sport; Olympic event | Clear rounds; Timed courses | Horse leaps fences; Colorful rails | Dressage; Polo; Horse racing
+Dressage | Equestrian sport; Olympic event | Horse ballet; Precise moves | Top hats and tails; Precise circles | Show jumping; Polo; Rodeo
+Pentathlon | Multi event; Olympic sport | Five disciplines; Military origins | Fencing swimming riding; Laser run | Decathlon; Triathlon; Biathlon
+Racquetball | Racket sport; Indoor game | Enclosed court; Fast bounces | Hollow rubber sphere; Short racket | Squash; Tennis; Handball
+Sepak takraw | Kick sport; Net game | Southeast asian sport; Acrobatic kicks | Woven rattan ball; No hands | Volleyball; Football; Badminton
+Hurling | Field sport; Irish sport | Fastest field game; Ancient roots | Wooden stick; Small leather ball | Hockey; Lacrosse; Cricket
+Gaelic football | Field sport; Irish sport | Amateur players; County rivalry | Hand passing; Tall posts | Rugby; Lacrosse; Hurling
+Kho kho | Tag game; Indian sport | School sport; Chasing team | Sit in a line; Tap to swap | Kabaddi; Tag; Dodgeball
+Gilli danda | Street game; Indian game | Village pastime; Played with sticks | Small peg flipped; Long stick hit | Cricket; Baseball; Hockey
+Carrom | Board game; Tabletop sport | Indian homes; Flicking with fingers | Striker disc; Corner pockets | Billiards; Chess; Ludo
+Ludo | Board game; Dice game | Family nights; Race to home | Four colored tokens; Rolling dice | Backgammon; Carrom; Chess
+Poker | Card game; Betting game | Bluffing faces; Casino tables | Royal flush; Stacks of chips | Blackjack; Bridge; Rummy
+Rummy | Card game; Family game | Holiday card nights; Sets and runs | Meld cards; Discard pile | Poker; Bridge; Solitaire
+Boomerang | Throwing sport; Returning toy | Australian origins; Curves back | Curved wood; Spinning flight | Frisbee; Javelin; Kite
+Kite flying | Outdoor hobby; Festival sport | Rooftop battles; Windy days | String and spool; Paper diamond | Paragliding; Frisbee; Boomerang
+Jump rope | Playground game; Cardio exercise | Double dutch; Boxer warmup | Swinging cord; Skipping feet | Hopscotch; Trampoline; Hula hoop
+Hula hoop | Playground toy; Fitness toy | Hip swinging; Circus tricks | Plastic ring; Spins around waist | Jump rope; Frisbee; Yo yo
+Trampoline | Bouncing sport; Backyard fun | Olympic event; Flips in air | Springy mat; Safety net | Gymnastics; Bouncy castle; Diving
+Obstacle race | Endurance event; Muddy challenge | Team challenges; Charity runs | Walls and mud pits; Crawling under wires | Marathon; Triathlon; Steeplechase
+Rally | Motor sport; Off road racing | Gravel stages; Co driver notes | Muddy cars; Timed sections | Formula one; Motocross; Karting
+Drag racing | Motor sport; Straight line race | Quarter mile; Burnouts | Christmas tree lights; Parachute brakes | Rally; Formula one; Karting
+Jet skiing | Water sport; Motor fun | Beach rentals; Spraying wakes | Personal watercraft; Life jacket | Kayaking; Waterskiing; Surfing
+Waterskiing | Lake sport; Towed sport | Lake summers; Boat pulled | Tow rope; Twin planks | Wakeboarding; Jet skiing; Surfing
+Wakeboarding | Water sport; Towed sport | Lake tricks; Jumping boat trails | Short plank; Tow rope | Waterskiing; Snowboarding; Surfing
+Horse riding | Outdoor activity; Equestrian hobby | Pony lessons; Trail rides | Saddle and stirrups; Trotting | Cycling; Polo; Rodeo
+Cliff diving | Extreme sport; Water sport | Dramatic heights; Coastal rocks | Rocky ledges; Big splash | Snorkeling; Bungee jumping; Skydiving
+Speed skating | Winter sport; Racing sport | Olympic oval; Tight suits | Long bladed boots; Crouched stance | Figure skating; Cycling; Skiing
+Cross country | Running race; Outdoor race | School meets; Muddy courses | Fields and hills; Spiked shoes | Marathon; Steeplechase; Orienteering

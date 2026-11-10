@@ -1,0 +1,140 @@
+@id clothing
+@name Clothing
+Shirt | Top garment; Everyday wear | Office outfit; Ironed on sundays | Collar and buttons; Long sleeves | Blouse; Sweater; Jacket
+T-shirt | Casual top; Cotton wear | Band merch; Summer staple | Short sleeves; Printed designs | Tank top; Polo; Sweater
+Jeans | Casual pants; Denim wear | Everyday staple; Faded over time | Blue fabric; Rivets and pockets | Trousers; Shorts; Leggings
+Trousers | Leg garment; Formal wear | Office attire; Pressed creases | Belt loops; Long legs | Jeans; Shorts; Skirt
+Shorts | Summer wear; Leg garment | Beach days; Gym class | Above the knee; Elastic waist | Trousers; Skirt; Swimsuit
+Skirt | Lower garment; Feminine wear | School uniform; Twirls when spinning | Pleated or straight; Hangs from waist | Dress; Shorts; Kilt
+Dress | One piece outfit; Feminine wear | Parties and weddings; Summer favorite | Flowing fabric; Zip at back | Skirt; Gown; Blouse
+Sweater | Warm top; Knitwear | Winter wear; Grandma knitted | Woolly fabric; Ribbed cuffs | Hoodie; Cardigan; Jacket
+Hoodie | Casual top; Comfy wear | Lazy days; Student uniform | Front pocket; Drawstring cowl | Sweater; Jacket; Tracksuit
+Jacket | Outer layer; Outerwear | Chilly evenings; Hung by the door | Zip or buttons; Pockets | Coat; Blazer; Hoodie
+Coat | Outer garment; Winter wear | Keeps you warm; Hung in hallways | Long and heavy; Big buttons | Jacket; Cloak; Parka
+Raincoat | Wet weather gear; Outerwear | Wet weather; Puddle splashing | Waterproof fabric; Bright yellow | Umbrella; Poncho; Jacket
+Suit | Formal wear; Business outfit | Job interviews; Weddings | Matching jacket and trousers; Tie included | Tuxedo; Blazer; Uniform
+Tuxedo | Formal wear; Evening outfit | Black tie events; Prom night | Satin lapels; Bow tie | Suit; Gown; Blazer
+Blazer | Smart jacket; Formal wear | School uniform; Office smart | Tailored fit; Crest on pocket | Jacket; Suit; Cardigan
+Tie | Neckwear; Formal accessory | Office dress code; Fathers day gift | Long strip; Knotted at collar | Cravat; Scarf; Belt
+Bow tie | Neckwear; Formal accessory | Tuxedo partner; Quirky style | Butterfly shape; Tied at neck | Necktie; Scarf; Brooch
+Scarf | Neckwear; Winter accessory | Wrapped around neck; Knitted gift | Long fabric strip; Fringed ends | Shawl; Tie; Bandana
+Gloves | Hand wear; Winter accessory | Keep fingers warm; Lost in pairs | Five fingers; Woolly or leather | Mittens; Socks; Muffs
+Mittens | Hand wear; Winter accessory | Kids in snow; Strung through sleeves | Thumb pocket only; Fluffy | Gloves; Socks; Earmuffs
+Socks | Footwear; Underlayer | Lost in laundry; Holiday gift | Pulled over feet; Come in pairs | Stockings; Slippers; Shoes
+Shoes | Footwear; Everyday wear | Laces and soles; Taken off at door | Pair for feet; Left and right | Boots; Sandals; Slippers
+Sneakers | Footwear; Sports shoes | Running and gym; Collected by fans | Rubber soles; Laces | Boots; Loafers; Sandals
+Boots | Footwear; Sturdy shoes | Rainy days; Hiking trails | Ankle high; Thick soles | Sneakers; Sandals; Wellies
+Sandals | Summer footwear; Open shoes | Beach days; Hot weather | Straps; Toes showing | Slippers; Flip flops; Sneakers
+Flip flops | Beach footwear; Summer shoes | Pool side; Snapping sound | Thong between toes; Rubber soles | Sandals; Slippers; Crocs
+Slippers | Indoor footwear; Comfy shoes | Worn at home; Cozy mornings | Fluffy lining; Slide on | Socks; Sandals; Moccasins
+High heels | Formal footwear; Fancy shoes | Parties and galas; Hard to walk in | Tall pointed spike; Clicking sound | Wedges; Boots; Flats
+Hat | Headwear; Accessory | Shade from sun; Tipped politely | Brim around; Sits on head | Cap; Helmet; Beanie
+Cap | Headwear; Casual accessory | Sports teams; Worn backwards | Peak at front; Adjustable strap | Beanie; Visor; Bandana
+Beanie | Headwear; Winter accessory | Snowy days; Skater style | Knitted wool; Pom pom on top | Cap; Hood; Beret
+Beret | Headwear; Artist accessory | Painters and poets; Military units | Soft and flat; Tilted on side | Beanie; Cap; Fedora
+Helmet | Protective headwear; Safety gear | Cyclists and bikers; Construction sites | Hard shell; Chin strap | Cap; Hood; Visor
+Belt | Waist accessory; Leather strip | Holds up trousers; Notches tighten | Buckle; Through loops | Suspenders; Sash; Strap
+Suspenders | Trouser holders; Accessory | Old fashioned style; Over shoulders | Elastic straps; Clip on | Belt; Sash; Harness
+Pajamas | Sleepwear; Night clothes | Bedtime outfit; Sleepovers | Matching top and bottoms; Soft cotton | Robe; Nightgown; Tracksuit
+Robe | Loungewear; Bathroom wear | After showers; Hotel luxury | Tie belt; Fluffy towelling | Pajamas; Towel; Kimono
+Swimsuit | Beachwear; Water clothing | Pool parties; Summer vacation | Stretchy fabric; Quick drying | Shorts; Wetsuit; Leotard
+Bikini | Beachwear; Two piece | Sunbathing; Summer holidays | Top and bottom; Bright prints | Swimsuit; Sarong; Shorts
+Wetsuit | Water gear; Diving outfit | Surfers wear it; Cold water | Thick neoprene; Zip at back | Swimsuit; Drysuit; Overalls
+Uniform | Work clothing; Matching outfit | Schools and armies; Dress code | Same for everyone; Badges and crests | Suit; Costume; Overalls
+Overalls | Work wear; One piece | Farmers and painters; Bib front | Shoulder straps; Big pockets | Jumpsuit; Dungarees; Boilersuit
+Jumpsuit | One piece outfit; Fashion wear | Pilots and mechanics; Trendy style | Top and trousers joined; Zip front | Overalls; Dress; Romper
+Leggings | Stretchy pants; Activewear | Yoga classes; Comfy wear | Skin tight; Elastic waistband | Jeans; Tights; Trousers
+Tights | Legwear; Stretchy hosiery | Under skirts; Ballet class | Sheer nylon; Full leg | Leggings; Stockings; Socks
+Cardigan | Knitwear; Light layer | Grandpa style; Over shirts | Buttons down front; Woolly | Sweater; Blazer; Shawl
+Vest | Sleeveless top; Layering piece | Under shirts; Three piece suits | No sleeves; Buttons or pullover | Tank top; Waistcoat; Jacket
+Tank top | Sleeveless shirt; Summer wear | Gym workouts; Hot days | Thin straps; Bare arms | T-shirt; Vest; Crop top
+Polo shirt | Casual top; Sporty top | Golf outfits; Smart casual | Short collar; Few buttons | T-shirt; Blouse; Sweater
+Blouse | Ladies top; Smart wear | Office wear; Tucked in | Soft fabric; Buttons or bow | Shirt; Top; Tunic
+Kimono | Japanese garment; Traditional robe | Tea ceremonies; Festivals | Wide sleeves; Sash belt | Robe; Sari; Hanbok
+Sari | Indian garment; Traditional drape | Weddings and festivals; Elegant wear | Long draped fabric; Blouse underneath | Lehenga; Kimono; Salwar
+Kurta | Indian garment; Long tunic | Festive wear; Comfortable cotton | Knee length; Collarless | Sherwani; Tunic; Shirt
+Lehenga | Indian garment; Bridal wear | Weddings; Festive dances | Flared skirt; Heavy embroidery | Sari; Gown; Sharara
+Sherwani | Indian garment; Groom wear | Wedding outfit; Royal look | Long coat; Embroidered | Kurta; Suit; Tuxedo
+Dhoti | Indian garment; Traditional wrap | Temple wear; Rural wear | Unstitched cloth; Tied at waist | Lungi; Sarong; Pajamas
+Turban | Headwear; Traditional wrap | Religious significance; Weddings | Long cloth wound; Colorful folds | Hat; Scarf; Headband
+Kilt | Scottish garment; Tartan skirt | Highland games; Bagpipers | Pleated wool; Sporran pouch | Skirt; Sarong; Shorts
+Poncho | Outerwear; Blanket wrap | Rain cover; Festival wear | Head hole in middle; Fringed edges | Cape; Raincoat; Shawl
+Cape | Outerwear; Flowing cloak | Superheroes; Magicians | Tied at neck; Billowing fabric | Cloak; Poncho; Shawl
+Cloak | Outerwear; Hooded wrap | Wizards and knights; Medieval wear | Long and flowing; Hooded | Cape; Coat; Robe
+Shawl | Shoulder wrap; Accessory | Chilly evenings; Elegant cover | Draped fabric; Fringe edges | Scarf; Cardigan; Poncho
+Apron | Kitchen wear; Protective layer | Cooking and baking; Tied at back | Front pocket; Neck strap | Overalls; Bib; Smock
+Bib | Baby item; Protective cloth | Messy eaters; Lobster dinners | Tied at neck; Catches food | Apron; Napkin; Scarf
+Sunglasses | Eyewear; Summer accessory | Bright days; Cool look | Dark lenses; Block glare | Goggles; Spectacles; Visor
+Goggles | Protective eyewear; Sports gear | Swimming and skiing; Lab safety | Strap around head; Sealed lenses | Sunglasses; Mask; Visor
+Watch | Wrist accessory; Timepiece | Checks the time; Gift for graduates | Strap and face; Ticking hands | Bracelet; Clock; Ring
+Necklace | Jewelry; Throat accessory | Gift on birthdays; Pendants | Delicate chain; Clasp at back | Bracelet; Choker; Earrings
+Bracelet | Jewelry; Wrist accessory | Friendship gifts; Charm collection | Loop on wrist; Beads or chain | Necklace; Watch; Anklet
+Earrings | Jewelry; Ear accessory | Pierced ears; Matching pair | Studs or hoops; Dangling | Necklace; Nose ring; Bracelet
+Ring | Jewelry; Finger accessory | Engagement proposals; Wedding vows | Circle band; Gemstone setting | Bracelet; Anklet; Watch
+Crown | Royal headwear; Jewelled accessory | Kings and queens; Coronations | Golden points; Precious stones | Tiara; Helmet; Hat
+Tiara | Jewelled headwear; Princess accessory | Beauty pageants; Brides | Sparkly band; Small arch | Crown; Headband; Hairclip
+Headband | Hair accessory; Sports accessory | Keeps hair back; Workout sweat | Elastic loop; Over forehead | Hairclip; Scarf; Bandana
+Bandana | Head scarf; Cotton square | Cowboys and bikers; Tied around neck | Paisley pattern; Folded triangle | Scarf; Headband; Handkerchief
+Handkerchief | Pocket cloth; Small square | Wipe your nose; Breast pocket | Folded square; Embroidered corner | Napkin; Tissue; Bandana
+Wallet | Pocket accessory; Money holder | Cards and cash; Back pocket | Folding leather; Card slots | Purse; Bag; Pouch
+Handbag | Fashion accessory; Carry bag | Holds essentials; Designer labels | Shoulder strap; Zip closure | Backpack; Wallet; Tote
+Backpack | Bag; Carry sack | School and hiking; Worn behind | Two straps; Many pockets | Handbag; Suitcase; Satchel
+Earmuffs | Winter accessory; Ear warmers | Snowy days; Ice skating | Fluffy pads; Headband | Beanie; Headphones; Scarf
+Leotard | Dancewear; Gym wear | Ballet and gymnastics; Stretchy fit | Tight one piece; No legs | Swimsuit; Tights; Unitard
+Tutu | Ballet costume; Dancewear | Ballerinas; Little girls dress up | Stiff netting skirt; Frilly layers | Skirt; Leotard; Gown
+Gown | Formal dress; Evening wear | Red carpets; Balls and proms | Floor length; Flowing fabric | Dress; Robe; Tuxedo
+Wedding dress | Bridal wear; Special gown | Walk down aisle; Kept for years | White lace; Long train | Gown; Veil; Lehenga
+Veil | Bridal accessory; Head covering | Lifted at altar; Wedding tradition | Sheer fabric; Over face | Tiara; Scarf; Hood
+Corset | Historical garment; Fitted bodice | Victorian fashion; Tight lacing | Boned panels; Laced back | Vest; Belt; Bodice
+Waistcoat | Smart layer; Suit piece | Three piece suits; Wedding wear | Sleeveless; Buttons down front | Vest; Blazer; Cardigan
+Turtleneck | Knitwear; Warm top | Intellectual look; Winter layering | Folded high collar; Covers throat | Sweater; Hoodie; Scarf
+Parka | Winter coat; Outerwear | Arctic weather; Very warm | Fur trimmed hood; Padded | Coat; Anorak; Poncho
+Puffer jacket | Winter layer; Padded wear | Very warm; Puffy look | Quilted sections; Down filling | Parka; Coat; Fleece
+Fleece | Warm layer; Outdoor wear | Camping trips; Soft and cozy | Synthetic fluff; Zip up | Sweater; Hoodie; Cardigan
+Tracksuit | Sportswear; Matching set | Gym class; Lazy weekends | Zip jacket and joggers; Stripes down side | Pajamas; Jumpsuit; Hoodie
+Joggers | Casual pants; Sportswear | Lounge and run; Comfy wear | Elastic cuffs; Drawstring waist | Leggings; Jeans; Shorts
+Cargo pants | Utility trousers; Casual wear | Hiking and travel; Lots of storage | Side pockets; Baggy fit | Jeans; Joggers; Overalls
+Loafers | Smart shoes; Slip ons | Preppy style; No laces | Leather; Tassels or penny slot | Sneakers; Oxfords; Moccasins
+Wellies | Rain boots; Rubber footwear | Muddy fields; Puddle jumping | Knee high; Waterproof rubber | Boots; Sneakers; Galoshes
+Clogs | Wooden shoes; Dutch footwear | Nurses wear them; Tulip fields | Carved wood; Chunky sole | Sandals; Slippers; Loafers
+Moccasins | Soft shoes; Leather footwear | Native origins; Indoor comfort | Stitched toe; Suede | Slippers; Loafers; Sandals
+Espadrilles | Summer shoes; Canvas footwear | Beach towns; Breezy | Rope soles; Canvas top | Sandals; Loafers; Sneakers
+Ballet flats | Low shoes; Feminine footwear | Office comfort; Easy wear | Rounded toe; Thin sole | Loafers; Heels; Sandals
+Stockings | Legwear; Hosiery | Christmas hanging; Vintage fashion | Thigh high; Sheer nylon | Tights; Socks; Leggings
+Hairclip | Styling accessory; Small clasp | Holds locks back; Kids love them | Spring clasp; Decorative | Headband; Hairpin; Bobby pin
+Brooch | Jewelry; Pin accessory | Grandma style; On lapels | Decorative pin; Clasp at back | Badge; Pendant; Button
+Cufflinks | Shirt accessory; Formal jewelry | Fancy shirts; Wedding gifts | Pair of fasteners; Through sleeve holes | Buttons; Tie clip; Studs
+Lanyard | Neck strap; Badge holder | Conferences; Office passes | Ribbon loop; Clip at end | Keyring; Necklace; Strap
+Tie clip | Formal accessory; Small clasp | Keeps neckwear flat; Office smart | Metal bar; Slides on | Cufflinks; Brooch; Pin
+Romper | One piece outfit; Summer wear | Toddlers and adults; Playful style | Shorts and top joined; Buttons | Jumpsuit; Dress; Overalls
+Sarong | Wrap garment; Beachwear | Tropical holidays; Tied at waist | Colorful cloth; Knotted side | Kilt; Skirt; Lungi
+Hanbok | Korean garment; Traditional dress | Festivals and weddings; Bright colors | High waist skirt; Short jacket | Kimono; Sari; Qipao
+Qipao | Chinese dress; Traditional gown | Lunar festivities; Elegant fit | High collar; Side slits | Kimono; Hanbok; Sari
+Sombrero | Mexican hat; Wide hat | Mariachi bands; Sun protection | Huge brim; Pointed crown | Cowboy hat; Fedora; Beret
+Fedora | Classic hat; Felt hat | Detective style; Jazz age | Pinched crown; Ribbon band | Trilby; Beret; Bowler
+Top hat | Formal headwear; Tall headwear | Magicians and gentlemen; Victorian style | Tall cylinder; Silk finish | Bowler; Fedora; Crown
+Bowler | Rounded hat; Classic hat | City gentlemen; Comedy icons | Hard dome; Short brim | Fedora; Trilby; Beret
+Cowboy hat | Western headwear; Wide headwear | Ranchers; Rodeos | Wide curled brim; Felt crown | Sombrero; Fedora; Helmet
+Visor | Sun shield; Sport headwear | Tennis and golf; Open top | Curved peak; Headband style | Cap; Sunglasses; Helmet
+Balaclava | Winter headwear; Face cover | Skiing; Very cold days | Covers whole head; Eye holes | Beanie; Scarf; Mask
+Mask | Face covering; Accessory | Costume parties; Health protection | Covers face; Elastic loops | Veil; Scarf; Visor
+Costume | Dress up outfit; Fancy dress | Halloween; School plays | Character outfit; Props and wigs | Uniform; Mask; Disguise
+Wig | Fake hair; Costume piece | Theater and parties; Hair loss | Mesh cap; Synthetic strands | Hat; Hairpiece; Toupee
+Snow boots | Winter footwear; Insulated footwear | Mountain hikes; Ski lodges | Fur lining; Thick treads | Wellies; Sneakers; Slippers
+Nightgown | Sleepwear; Long nightie | Victorian bedtime; Flowing comfort | Loose dress; Cotton or silk | Pajamas; Robe; Slip
+Underwear | Inner garment; Basic clothing | Changed daily; Drawer staple | Elastic waistband; Cotton | Socks; Vest; Shorts
+Bathrobe | Loungewear; After shower wear | Spa days; Sunday mornings | Towelling fabric; Tie belt | Pajamas; Towel; Kimono
+Dungarees | Work wear; Bib trousers | Kids and painters; Denim style | Shoulder straps; Front bib | Jumpsuit; Jeans; Romper
+Anorak | Outerwear; Weatherproof jacket | Hiking trips; Windy days | Pull over hood; Drawstring hem | Parka; Raincoat; Fleece
+Peacoat | Winter outerwear; Naval style | Sailor origins; Classic look | Double breasted; Wool | Trench coat; Parka; Blazer
+Trench coat | Outerwear; Belted outerwear | Detective look; Rainy cities | Belted waist; Epaulettes | Peacoat; Raincoat; Parka
+Sports bra | Activewear; Support top | Workouts; Running | Stretchy band; Racerback | Tank top; Crop top; Bikini
+Crop top | Short shirt; Trendy wear | Summer fashion; Shows midriff | Short hem; Fitted | Tank top; T-shirt; Bikini
+Tunic | Long top; Loose garment | Ancient romans; Over leggings | Hip length; Simple cut | Kurta; Blouse; Dress
+Sash | Waist band; Ceremonial strip | Beauty pageants; Martial arts | Diagonal ribbon; Tied bow | Belt; Scarf; Ribbon
+Hood | Head cover; Garment part | Rainy walks; Mystery look | Attached to coat; Drawstrings | Hat; Cap; Scarf
+Collar | Garment part; Neck edge | Popped style; Shirt feature | Folded fabric; Around neck | Cuff; Sleeve; Lapel
+Pocket | Garment part; Small pouch | Holds keys; Hands inside | Sewn pouch; Jeans or jackets | Purse; Pouch; Wallet
+Zipper | Fastener; Clothing part | Jackets and bags; Gets stuck | Metal teeth; Pull tab | Button; Velcro strip; Snap
+Button | Fastener; Small disc | Shirts and coats; Pops off | Holes for thread; Through slits | Zipper; Snap; Buckle
+Sweatband | Sports accessory; Wrist or head | Tennis players; Absorbs moisture | Terry cloth loop; Elastic | Headband; Bracelet; Bandana

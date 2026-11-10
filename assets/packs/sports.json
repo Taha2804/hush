@@ -1,0 +1,5242 @@
+{
+ "id": "sports",
+ "name": "Sports",
+ "words": [
+  {
+   "word": "Football",
+   "hints": [
+    {
+     "text": "Team sport",
+     "level": 1
+    },
+    {
+     "text": "Field game",
+     "level": 1
+    },
+    {
+     "text": "Most popular worldwide",
+     "level": 2
+    },
+    {
+     "text": "World cup",
+     "level": 2
+    },
+    {
+     "text": "Kick into goal",
+     "level": 3
+    },
+    {
+     "text": "Eleven players",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rugby",
+    "Basketball",
+    "Hockey"
+   ]
+  },
+  {
+   "word": "Cricket",
+   "hints": [
+    {
+     "text": "Bat sport",
+     "level": 1
+    },
+    {
+     "text": "Team sport",
+     "level": 1
+    },
+    {
+     "text": "Huge in south asia",
+     "level": 2
+    },
+    {
+     "text": "Lasts for days",
+     "level": 2
+    },
+    {
+     "text": "Wickets and stumps",
+     "level": 3
+    },
+    {
+     "text": "Leather ball",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Baseball",
+    "Hockey",
+    "Golf"
+   ]
+  },
+  {
+   "word": "Basketball",
+   "hints": [
+    {
+     "text": "Team sport",
+     "level": 1
+    },
+    {
+     "text": "Court game",
+     "level": 1
+    },
+    {
+     "text": "Tall players",
+     "level": 2
+    },
+    {
+     "text": "Slam dunks",
+     "level": 2
+    },
+    {
+     "text": "Hoop and backboard",
+     "level": 3
+    },
+    {
+     "text": "Dribbling",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Volleyball",
+    "Netball",
+    "Handball"
+   ]
+  },
+  {
+   "word": "Tennis",
+   "hints": [
+    {
+     "text": "Racket sport",
+     "level": 1
+    },
+    {
+     "text": "Court game",
+     "level": 1
+    },
+    {
+     "text": "Grand slam events",
+     "level": 2
+    },
+    {
+     "text": "Love means zero",
+     "level": 2
+    },
+    {
+     "text": "Yellow fuzzy ball",
+     "level": 3
+    },
+    {
+     "text": "Net in middle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Badminton",
+    "Squash",
+    "Pickleball"
+   ]
+  },
+  {
+   "word": "Badminton",
+   "hints": [
+    {
+     "text": "Racket sport",
+     "level": 1
+    },
+    {
+     "text": "Indoor game",
+     "level": 1
+    },
+    {
+     "text": "Backyard favorite",
+     "level": 2
+    },
+    {
+     "text": "Fast smashes",
+     "level": 2
+    },
+    {
+     "text": "Feathered shuttlecock",
+     "level": 3
+    },
+    {
+     "text": "High net",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tennis",
+    "Squash",
+    "Table tennis"
+   ]
+  },
+  {
+   "word": "Golf",
+   "hints": [
+    {
+     "text": "Outdoor sport",
+     "level": 1
+    },
+    {
+     "text": "Club sport",
+     "level": 1
+    },
+    {
+     "text": "Played on courses",
+     "level": 2
+    },
+    {
+     "text": "Quiet spectators",
+     "level": 2
+    },
+    {
+     "text": "Hole in one",
+     "level": 3
+    },
+    {
+     "text": "Small dimpled ball",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cricket",
+    "Croquet",
+    "Billiards"
+   ]
+  },
+  {
+   "word": "Baseball",
+   "hints": [
+    {
+     "text": "Bat sport",
+     "level": 1
+    },
+    {
+     "text": "Team sport",
+     "level": 1
+    },
+    {
+     "text": "National pastime",
+     "level": 2
+    },
+    {
+     "text": "Home runs",
+     "level": 2
+    },
+    {
+     "text": "Diamond field",
+     "level": 3
+    },
+    {
+     "text": "Pitcher and catcher",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cricket",
+    "Softball",
+    "Rounders"
+   ]
+  },
+  {
+   "word": "Hockey",
+   "hints": [
+    {
+     "text": "Team sport",
+     "level": 1
+    },
+    {
+     "text": "Stick sport",
+     "level": 1
+    },
+    {
+     "text": "Ice or turf",
+     "level": 2
+    },
+    {
+     "text": "Fast and rough",
+     "level": 2
+    },
+    {
+     "text": "Puck or ball",
+     "level": 3
+    },
+    {
+     "text": "Curved stick",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lacrosse",
+    "Football",
+    "Polo"
+   ]
+  },
+  {
+   "word": "Rugby",
+   "hints": [
+    {
+     "text": "Team sport",
+     "level": 1
+    },
+    {
+     "text": "Contact sport",
+     "level": 1
+    },
+    {
+     "text": "Scrums and tackles",
+     "level": 2
+    },
+    {
+     "text": "Very physical",
+     "level": 2
+    },
+    {
+     "text": "Oval ball",
+     "level": 3
+    },
+    {
+     "text": "Try line",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Football",
+    "Lacrosse",
+    "Wrestling"
+   ]
+  },
+  {
+   "word": "Volleyball",
+   "hints": [
+    {
+     "text": "Team sport",
+     "level": 1
+    },
+    {
+     "text": "Net game",
+     "level": 1
+    },
+    {
+     "text": "Played on beaches",
+     "level": 2
+    },
+    {
+     "text": "Spikes and blocks",
+     "level": 2
+    },
+    {
+     "text": "High net",
+     "level": 3
+    },
+    {
+     "text": "Six players",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Basketball",
+    "Badminton",
+    "Handball"
+   ]
+  },
+  {
+   "word": "Swimming",
+   "hints": [
+    {
+     "text": "Water sport",
+     "level": 1
+    },
+    {
+     "text": "Olympic event",
+     "level": 1
+    },
+    {
+     "text": "Laps in pools",
+     "level": 2
+    },
+    {
+     "text": "Freestyle strokes",
+     "level": 2
+    },
+    {
+     "text": "Goggles and caps",
+     "level": 3
+    },
+    {
+     "text": "Diving blocks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Diving",
+    "Rowing",
+    "Surfing"
+   ]
+  },
+  {
+   "word": "Boxing",
+   "hints": [
+    {
+     "text": "Combat sport",
+     "level": 1
+    },
+    {
+     "text": "Fighting sport",
+     "level": 1
+    },
+    {
+     "text": "Heavyweight champions",
+     "level": 2
+    },
+    {
+     "text": "Knockouts",
+     "level": 2
+    },
+    {
+     "text": "Padded gloves",
+     "level": 3
+    },
+    {
+     "text": "Square ring",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wrestling",
+    "Karate",
+    "Fencing"
+   ]
+  },
+  {
+   "word": "Wrestling",
+   "hints": [
+    {
+     "text": "Combat sport",
+     "level": 1
+    },
+    {
+     "text": "Grappling sport",
+     "level": 1
+    },
+    {
+     "text": "Pins and holds",
+     "level": 2
+    },
+    {
+     "text": "Ancient olympic event",
+     "level": 2
+    },
+    {
+     "text": "Mat battles",
+     "level": 3
+    },
+    {
+     "text": "Singlet uniforms",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Boxing",
+    "Judo",
+    "Sumo"
+   ]
+  },
+  {
+   "word": "Cycling",
+   "hints": [
+    {
+     "text": "Endurance sport",
+     "level": 1
+    },
+    {
+     "text": "Wheel sport",
+     "level": 1
+    },
+    {
+     "text": "Tour races",
+     "level": 2
+    },
+    {
+     "text": "Commuting",
+     "level": 2
+    },
+    {
+     "text": "Helmets and lycra",
+     "level": 3
+    },
+    {
+     "text": "Pedal power",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Running",
+    "Skating",
+    "Motocross"
+   ]
+  },
+  {
+   "word": "Running",
+   "hints": [
+    {
+     "text": "Track sport",
+     "level": 1
+    },
+    {
+     "text": "Endurance sport",
+     "level": 1
+    },
+    {
+     "text": "Marathons",
+     "level": 2
+    },
+    {
+     "text": "Morning jogs",
+     "level": 2
+    },
+    {
+     "text": "Sneakers",
+     "level": 3
+    },
+    {
+     "text": "Finish line tape",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cycling",
+    "Walking",
+    "Hurdles"
+   ]
+  },
+  {
+   "word": "Marathon",
+   "hints": [
+    {
+     "text": "Long race",
+     "level": 1
+    },
+    {
+     "text": "Endurance event",
+     "level": 1
+    },
+    {
+     "text": "City streets",
+     "level": 2
+    },
+    {
+     "text": "Water stations",
+     "level": 2
+    },
+    {
+     "text": "Very long distance",
+     "level": 3
+    },
+    {
+     "text": "Medal at finish",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sprint",
+    "Triathlon",
+    "Relay"
+   ]
+  },
+  {
+   "word": "Skiing",
+   "hints": [
+    {
+     "text": "Winter sport",
+     "level": 1
+    },
+    {
+     "text": "Snow sport",
+     "level": 1
+    },
+    {
+     "text": "Mountain resorts",
+     "level": 2
+    },
+    {
+     "text": "Chair lifts",
+     "level": 2
+    },
+    {
+     "text": "Two long planks",
+     "level": 3
+    },
+    {
+     "text": "Poles in hands",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Snowboarding",
+    "Sledding",
+    "Skating"
+   ]
+  },
+  {
+   "word": "Snowboarding",
+   "hints": [
+    {
+     "text": "Winter sport",
+     "level": 1
+    },
+    {
+     "text": "Slope sport",
+     "level": 1
+    },
+    {
+     "text": "Half pipe tricks",
+     "level": 2
+    },
+    {
+     "text": "Mountain slopes",
+     "level": 2
+    },
+    {
+     "text": "Single wide plank",
+     "level": 3
+    },
+    {
+     "text": "Sideways stance",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Skiing",
+    "Skateboarding",
+    "Surfing"
+   ]
+  },
+  {
+   "word": "Surfing",
+   "hints": [
+    {
+     "text": "Water sport",
+     "level": 1
+    },
+    {
+     "text": "Board sport",
+     "level": 1
+    },
+    {
+     "text": "Beach culture",
+     "level": 2
+    },
+    {
+     "text": "Catching waves",
+     "level": 2
+    },
+    {
+     "text": "Wetsuits",
+     "level": 3
+    },
+    {
+     "text": "Hang ten",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Skateboarding",
+    "Sailing",
+    "Swimming"
+   ]
+  },
+  {
+   "word": "Skateboarding",
+   "hints": [
+    {
+     "text": "Street sport",
+     "level": 1
+    },
+    {
+     "text": "Wheeled sport",
+     "level": 1
+    },
+    {
+     "text": "Concrete bowls",
+     "level": 2
+    },
+    {
+     "text": "Kickflips",
+     "level": 2
+    },
+    {
+     "text": "Four small wheels",
+     "level": 3
+    },
+    {
+     "text": "Grip tape",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Surfing",
+    "Snowboarding",
+    "Rollerblading"
+   ]
+  },
+  {
+   "word": "Karate",
+   "hints": [
+    {
+     "text": "Martial art",
+     "level": 1
+    },
+    {
+     "text": "Combat sport",
+     "level": 1
+    },
+    {
+     "text": "Belt colors",
+     "level": 2
+    },
+    {
+     "text": "Board breaking",
+     "level": 2
+    },
+    {
+     "text": "White uniform",
+     "level": 3
+    },
+    {
+     "text": "Chops and kicks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Judo",
+    "Taekwondo",
+    "Kung fu"
+   ]
+  },
+  {
+   "word": "Judo",
+   "hints": [
+    {
+     "text": "Martial art",
+     "level": 1
+    },
+    {
+     "text": "Grappling sport",
+     "level": 1
+    },
+    {
+     "text": "Olympic sport",
+     "level": 2
+    },
+    {
+     "text": "Throws opponents",
+     "level": 2
+    },
+    {
+     "text": "Thick white jacket",
+     "level": 3
+    },
+    {
+     "text": "Tatami mats",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Karate",
+    "Wrestling",
+    "Sumo"
+   ]
+  },
+  {
+   "word": "Taekwondo",
+   "hints": [
+    {
+     "text": "Martial art",
+     "level": 1
+    },
+    {
+     "text": "Kicking sport",
+     "level": 1
+    },
+    {
+     "text": "Korean origins",
+     "level": 2
+    },
+    {
+     "text": "Olympic sport",
+     "level": 2
+    },
+    {
+     "text": "High spinning kicks",
+     "level": 3
+    },
+    {
+     "text": "Chest protector",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Karate",
+    "Kickboxing",
+    "Judo"
+   ]
+  },
+  {
+   "word": "Fencing",
+   "hints": [
+    {
+     "text": "Combat sport",
+     "level": 1
+    },
+    {
+     "text": "Sword sport",
+     "level": 1
+    },
+    {
+     "text": "Olympic event",
+     "level": 2
+    },
+    {
+     "text": "Touches score points",
+     "level": 2
+    },
+    {
+     "text": "Mesh mask",
+     "level": 3
+    },
+    {
+     "text": "Thin blades",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Archery",
+    "Kendo",
+    "Boxing"
+   ]
+  },
+  {
+   "word": "Archery",
+   "hints": [
+    {
+     "text": "Target sport",
+     "level": 1
+    },
+    {
+     "text": "Precision sport",
+     "level": 1
+    },
+    {
+     "text": "Olympic event",
+     "level": 2
+    },
+    {
+     "text": "Ancient skill",
+     "level": 2
+    },
+    {
+     "text": "Bow and arrows",
+     "level": 3
+    },
+    {
+     "text": "Bullseye",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Darts",
+    "Shooting",
+    "Javelin"
+   ]
+  },
+  {
+   "word": "Darts",
+   "hints": [
+    {
+     "text": "Pub game",
+     "level": 1
+    },
+    {
+     "text": "Target sport",
+     "level": 1
+    },
+    {
+     "text": "Throwing contest",
+     "level": 2
+    },
+    {
+     "text": "Bars and pubs",
+     "level": 2
+    },
+    {
+     "text": "Board with rings",
+     "level": 3
+    },
+    {
+     "text": "Pointed arrows",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Archery",
+    "Bowling",
+    "Billiards"
+   ]
+  },
+  {
+   "word": "Bowling",
+   "hints": [
+    {
+     "text": "Alley sport",
+     "level": 1
+    },
+    {
+     "text": "Indoor game",
+     "level": 1
+    },
+    {
+     "text": "Rented shoes",
+     "level": 2
+    },
+    {
+     "text": "Strikes and spares",
+     "level": 2
+    },
+    {
+     "text": "Ten pins",
+     "level": 3
+    },
+    {
+     "text": "Heavy ball",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Billiards",
+    "Darts",
+    "Curling"
+   ]
+  },
+  {
+   "word": "Billiards",
+   "hints": [
+    {
+     "text": "Table game",
+     "level": 1
+    },
+    {
+     "text": "Cue sport",
+     "level": 1
+    },
+    {
+     "text": "Pool halls",
+     "level": 2
+    },
+    {
+     "text": "Chalk on tip",
+     "level": 2
+    },
+    {
+     "text": "Colored balls",
+     "level": 3
+    },
+    {
+     "text": "Six pockets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Snooker",
+    "Bowling",
+    "Darts"
+   ]
+  },
+  {
+   "word": "Snooker",
+   "hints": [
+    {
+     "text": "Cue sport",
+     "level": 1
+    },
+    {
+     "text": "Table game",
+     "level": 1
+    },
+    {
+     "text": "Long matches",
+     "level": 2
+    },
+    {
+     "text": "Quiet crowds",
+     "level": 2
+    },
+    {
+     "text": "Red and colored balls",
+     "level": 3
+    },
+    {
+     "text": "Large green table",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Billiards",
+    "Darts",
+    "Bowling"
+   ]
+  },
+  {
+   "word": "Table tennis",
+   "hints": [
+    {
+     "text": "Indoor sport",
+     "level": 1
+    },
+    {
+     "text": "Paddle sport",
+     "level": 1
+    },
+    {
+     "text": "Fast rallies",
+     "level": 2
+    },
+    {
+     "text": "Basement game",
+     "level": 2
+    },
+    {
+     "text": "Tiny plastic ball",
+     "level": 3
+    },
+    {
+     "text": "Little net",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Badminton",
+    "Squash",
+    "Pickleball"
+   ]
+  },
+  {
+   "word": "Squash",
+   "hints": [
+    {
+     "text": "Racket sport",
+     "level": 1
+    },
+    {
+     "text": "Indoor game",
+     "level": 1
+    },
+    {
+     "text": "Four wall court",
+     "level": 2
+    },
+    {
+     "text": "Fast and sweaty",
+     "level": 2
+    },
+    {
+     "text": "Small rubber ball",
+     "level": 3
+    },
+    {
+     "text": "Hits the wall",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tennis",
+    "Badminton",
+    "Racquetball"
+   ]
+  },
+  {
+   "word": "Gymnastics",
+   "hints": [
+    {
+     "text": "Olympic sport",
+     "level": 1
+    },
+    {
+     "text": "Acrobatic sport",
+     "level": 1
+    },
+    {
+     "text": "Flips and tumbles",
+     "level": 2
+    },
+    {
+     "text": "Perfect tens",
+     "level": 2
+    },
+    {
+     "text": "Balance beam",
+     "level": 3
+    },
+    {
+     "text": "Parallel bars",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Diving",
+    "Trampoline",
+    "Ballet"
+   ]
+  },
+  {
+   "word": "Diving",
+   "hints": [
+    {
+     "text": "Water sport",
+     "level": 1
+    },
+    {
+     "text": "Olympic event",
+     "level": 1
+    },
+    {
+     "text": "Springboard jumps",
+     "level": 2
+    },
+    {
+     "text": "Graceful entries",
+     "level": 2
+    },
+    {
+     "text": "High platform",
+     "level": 3
+    },
+    {
+     "text": "Twists and somersaults",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Swimming",
+    "Gymnastics",
+    "Cliff jumping"
+   ]
+  },
+  {
+   "word": "Rowing",
+   "hints": [
+    {
+     "text": "Water sport",
+     "level": 1
+    },
+    {
+     "text": "Team sport",
+     "level": 1
+    },
+    {
+     "text": "Boat races",
+     "level": 2
+    },
+    {
+     "text": "River clubs",
+     "level": 2
+    },
+    {
+     "text": "Oars in sync",
+     "level": 3
+    },
+    {
+     "text": "Narrow boats",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kayaking",
+    "Canoeing",
+    "Sailing"
+   ]
+  },
+  {
+   "word": "Sailing",
+   "hints": [
+    {
+     "text": "Water sport",
+     "level": 1
+    },
+    {
+     "text": "Wind sport",
+     "level": 1
+    },
+    {
+     "text": "Regattas",
+     "level": 2
+    },
+    {
+     "text": "Yacht clubs",
+     "level": 2
+    },
+    {
+     "text": "Wind filled cloth",
+     "level": 3
+    },
+    {
+     "text": "Tacking and jibing",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rowing",
+    "Windsurfing",
+    "Kayaking"
+   ]
+  },
+  {
+   "word": "Kayaking",
+   "hints": [
+    {
+     "text": "Water sport",
+     "level": 1
+    },
+    {
+     "text": "Paddle sport",
+     "level": 1
+    },
+    {
+     "text": "River rapids",
+     "level": 2
+    },
+    {
+     "text": "Sea trips",
+     "level": 2
+    },
+    {
+     "text": "Double bladed paddle",
+     "level": 3
+    },
+    {
+     "text": "Narrow boat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Canoeing",
+    "Rowing",
+    "Rafting"
+   ]
+  },
+  {
+   "word": "Rock climbing",
+   "hints": [
+    {
+     "text": "Adventure sport",
+     "level": 1
+    },
+    {
+     "text": "Vertical sport",
+     "level": 1
+    },
+    {
+     "text": "Indoor gyms",
+     "level": 2
+    },
+    {
+     "text": "Cliff faces",
+     "level": 2
+    },
+    {
+     "text": "Harness and ropes",
+     "level": 3
+    },
+    {
+     "text": "Chalk bags",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hiking",
+    "Bouldering",
+    "Abseiling"
+   ]
+  },
+  {
+   "word": "Horse racing",
+   "hints": [
+    {
+     "text": "Equestrian sport",
+     "level": 1
+    },
+    {
+     "text": "Track event",
+     "level": 1
+    },
+    {
+     "text": "Betting crowds",
+     "level": 2
+    },
+    {
+     "text": "Fancy hats",
+     "level": 2
+    },
+    {
+     "text": "Jockeys",
+     "level": 3
+    },
+    {
+     "text": "Finish post",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Polo",
+    "Show jumping",
+    "Rodeo"
+   ]
+  },
+  {
+   "word": "Polo",
+   "hints": [
+    {
+     "text": "Equestrian sport",
+     "level": 1
+    },
+    {
+     "text": "Team sport",
+     "level": 1
+    },
+    {
+     "text": "Played on horseback",
+     "level": 2
+    },
+    {
+     "text": "Fancy crowd",
+     "level": 2
+    },
+    {
+     "text": "Long mallets",
+     "level": 3
+    },
+    {
+     "text": "Ponies",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hockey",
+    "Croquet",
+    "Horse racing"
+   ]
+  },
+  {
+   "word": "Formula one",
+   "hints": [
+    {
+     "text": "Motor sport",
+     "level": 1
+    },
+    {
+     "text": "Racing series",
+     "level": 1
+    },
+    {
+     "text": "Pit stops",
+     "level": 2
+    },
+    {
+     "text": "Champagne celebrations",
+     "level": 2
+    },
+    {
+     "text": "Open wheel cars",
+     "level": 3
+    },
+    {
+     "text": "Very fast laps",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rally",
+    "Nascar",
+    "Karting"
+   ]
+  },
+  {
+   "word": "Motocross",
+   "hints": [
+    {
+     "text": "Motor sport",
+     "level": 1
+    },
+    {
+     "text": "Dirt racing",
+     "level": 1
+    },
+    {
+     "text": "Muddy tracks",
+     "level": 2
+    },
+    {
+     "text": "Big jumps",
+     "level": 2
+    },
+    {
+     "text": "Dirt bikes",
+     "level": 3
+    },
+    {
+     "text": "Goggles and boots",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rally",
+    "Cycling",
+    "Karting"
+   ]
+  },
+  {
+   "word": "Ice skating",
+   "hints": [
+    {
+     "text": "Winter sport",
+     "level": 1
+    },
+    {
+     "text": "Rink sport",
+     "level": 1
+    },
+    {
+     "text": "Graceful spins",
+     "level": 2
+    },
+    {
+     "text": "Frozen ponds",
+     "level": 2
+    },
+    {
+     "text": "Bladed boots",
+     "level": 3
+    },
+    {
+     "text": "Figure eights",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Skiing",
+    "Rollerblading",
+    "Curling"
+   ]
+  },
+  {
+   "word": "Figure skating",
+   "hints": [
+    {
+     "text": "Winter sport",
+     "level": 1
+    },
+    {
+     "text": "Artistic sport",
+     "level": 1
+    },
+    {
+     "text": "Olympic event",
+     "level": 2
+    },
+    {
+     "text": "Sparkly costumes",
+     "level": 2
+    },
+    {
+     "text": "Triple axel jumps",
+     "level": 3
+    },
+    {
+     "text": "Ice rink",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ballet",
+    "Gymnastics",
+    "Skiing"
+   ]
+  },
+  {
+   "word": "Curling",
+   "hints": [
+    {
+     "text": "Winter sport",
+     "level": 1
+    },
+    {
+     "text": "Ice sport",
+     "level": 1
+    },
+    {
+     "text": "Sweeping brooms",
+     "level": 2
+    },
+    {
+     "text": "Olympic oddity",
+     "level": 2
+    },
+    {
+     "text": "Heavy granite stones",
+     "level": 3
+    },
+    {
+     "text": "Target house",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bowling",
+    "Shuffleboard",
+    "Hockey"
+   ]
+  },
+  {
+   "word": "Handball",
+   "hints": [
+    {
+     "text": "Team sport",
+     "level": 1
+    },
+    {
+     "text": "Court sport",
+     "level": 1
+    },
+    {
+     "text": "Popular in europe",
+     "level": 2
+    },
+    {
+     "text": "Fast throws",
+     "level": 2
+    },
+    {
+     "text": "Throwing into goal",
+     "level": 3
+    },
+    {
+     "text": "Indoor court",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Basketball",
+    "Volleyball",
+    "Football"
+   ]
+  },
+  {
+   "word": "Lacrosse",
+   "hints": [
+    {
+     "text": "Team sport",
+     "level": 1
+    },
+    {
+     "text": "Stick sport",
+     "level": 1
+    },
+    {
+     "text": "Indigenous origins",
+     "level": 2
+    },
+    {
+     "text": "College sport",
+     "level": 2
+    },
+    {
+     "text": "Netted stick",
+     "level": 3
+    },
+    {
+     "text": "Hard rubber ball",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hockey",
+    "Rugby",
+    "Polo"
+   ]
+  },
+  {
+   "word": "Softball",
+   "hints": [
+    {
+     "text": "Bat sport",
+     "level": 1
+    },
+    {
+     "text": "Team sport",
+     "level": 1
+    },
+    {
+     "text": "Underhand pitches",
+     "level": 2
+    },
+    {
+     "text": "School sport",
+     "level": 2
+    },
+    {
+     "text": "Larger sphere",
+     "level": 3
+    },
+    {
+     "text": "Diamond field",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Baseball",
+    "Cricket",
+    "Rounders"
+   ]
+  },
+  {
+   "word": "Triathlon",
+   "hints": [
+    {
+     "text": "Endurance sport",
+     "level": 1
+    },
+    {
+     "text": "Multisport event",
+     "level": 1
+    },
+    {
+     "text": "Ironman races",
+     "level": 2
+    },
+    {
+     "text": "Transitions",
+     "level": 2
+    },
+    {
+     "text": "Swim bike run",
+     "level": 3
+    },
+    {
+     "text": "Wetsuit to sneakers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Marathon",
+    "Decathlon",
+    "Biathlon"
+   ]
+  },
+  {
+   "word": "Weightlifting",
+   "hints": [
+    {
+     "text": "Strength sport",
+     "level": 1
+    },
+    {
+     "text": "Olympic sport",
+     "level": 1
+    },
+    {
+     "text": "Gym culture",
+     "level": 2
+    },
+    {
+     "text": "Clean and jerk",
+     "level": 2
+    },
+    {
+     "text": "Heavy barbell",
+     "level": 3
+    },
+    {
+     "text": "Chalky hands",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bodybuilding",
+    "Wrestling",
+    "Powerlifting"
+   ]
+  },
+  {
+   "word": "Sumo",
+   "hints": [
+    {
+     "text": "Combat sport",
+     "level": 1
+    },
+    {
+     "text": "Japanese sport",
+     "level": 1
+    },
+    {
+     "text": "Huge wrestlers",
+     "level": 2
+    },
+    {
+     "text": "Ancient rituals",
+     "level": 2
+    },
+    {
+     "text": "Circular ring",
+     "level": 3
+    },
+    {
+     "text": "Throwing salt",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wrestling",
+    "Judo",
+    "Boxing"
+   ]
+  },
+  {
+   "word": "Kabaddi",
+   "hints": [
+    {
+     "text": "Team sport",
+     "level": 1
+    },
+    {
+     "text": "Contact sport",
+     "level": 1
+    },
+    {
+     "text": "Popular in south asia",
+     "level": 2
+    },
+    {
+     "text": "Holding breath",
+     "level": 2
+    },
+    {
+     "text": "Raider and defenders",
+     "level": 3
+    },
+    {
+     "text": "Chanting the name",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wrestling",
+    "Rugby",
+    "Tag"
+   ]
+  },
+  {
+   "word": "Chess",
+   "hints": [
+    {
+     "text": "Board game",
+     "level": 1
+    },
+    {
+     "text": "Mind sport",
+     "level": 1
+    },
+    {
+     "text": "Grandmasters",
+     "level": 2
+    },
+    {
+     "text": "Timed matches",
+     "level": 2
+    },
+    {
+     "text": "Checkmate",
+     "level": 3
+    },
+    {
+     "text": "Kings and queens",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Checkers",
+    "Shogi",
+    "Backgammon"
+   ]
+  },
+  {
+   "word": "Polo match",
+   "hints": [
+    {
+     "text": "Equestrian event",
+     "level": 1
+    },
+    {
+     "text": "Team fixture",
+     "level": 1
+    },
+    {
+     "text": "Sunday social",
+     "level": 2
+    },
+    {
+     "text": "Divot stomping",
+     "level": 2
+    },
+    {
+     "text": "Horses and mallets",
+     "level": 3
+    },
+    {
+     "text": "Chukkas",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Horse race",
+    "Cricket match",
+    "Croquet"
+   ]
+  },
+  {
+   "word": "Water polo",
+   "hints": [
+    {
+     "text": "Pool sport",
+     "level": 1
+    },
+    {
+     "text": "Team sport",
+     "level": 1
+    },
+    {
+     "text": "Constant swimming",
+     "level": 2
+    },
+    {
+     "text": "Olympic sport",
+     "level": 2
+    },
+    {
+     "text": "Pool goals",
+     "level": 3
+    },
+    {
+     "text": "Swim caps",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Swimming",
+    "Handball",
+    "Rowing"
+   ]
+  },
+  {
+   "word": "Hurdles",
+   "hints": [
+    {
+     "text": "Track event",
+     "level": 1
+    },
+    {
+     "text": "Running race",
+     "level": 1
+    },
+    {
+     "text": "Olympic sprint",
+     "level": 2
+    },
+    {
+     "text": "Jumping while running",
+     "level": 2
+    },
+    {
+     "text": "Barriers on track",
+     "level": 3
+    },
+    {
+     "text": "Knee lifts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Long jump",
+    "Sprint",
+    "Steeplechase"
+   ]
+  },
+  {
+   "word": "Long jump",
+   "hints": [
+    {
+     "text": "Track event",
+     "level": 1
+    },
+    {
+     "text": "Leaping event",
+     "level": 1
+    },
+    {
+     "text": "Olympic event",
+     "level": 2
+    },
+    {
+     "text": "Run and leap",
+     "level": 2
+    },
+    {
+     "text": "Sand pit landing",
+     "level": 3
+    },
+    {
+     "text": "Takeoff board",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "High jump",
+    "Triple jump",
+    "Hurdles"
+   ]
+  },
+  {
+   "word": "High jump",
+   "hints": [
+    {
+     "text": "Track event",
+     "level": 1
+    },
+    {
+     "text": "Leaping event",
+     "level": 1
+    },
+    {
+     "text": "Back first technique",
+     "level": 2
+    },
+    {
+     "text": "Olympic event",
+     "level": 2
+    },
+    {
+     "text": "Bar to clear",
+     "level": 3
+    },
+    {
+     "text": "Big foam mat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Long jump",
+    "Pole vault",
+    "Hurdles"
+   ]
+  },
+  {
+   "word": "Pole vault",
+   "hints": [
+    {
+     "text": "Track event",
+     "level": 1
+    },
+    {
+     "text": "Jumping event",
+     "level": 1
+    },
+    {
+     "text": "Olympic event",
+     "level": 2
+    },
+    {
+     "text": "Flying high",
+     "level": 2
+    },
+    {
+     "text": "Bendy long rod",
+     "level": 3
+    },
+    {
+     "text": "Very high bar",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "High jump",
+    "Long jump",
+    "Javelin"
+   ]
+  },
+  {
+   "word": "Javelin",
+   "hints": [
+    {
+     "text": "Throwing event",
+     "level": 1
+    },
+    {
+     "text": "Track event",
+     "level": 1
+    },
+    {
+     "text": "Olympic event",
+     "level": 2
+    },
+    {
+     "text": "Ancient origins",
+     "level": 2
+    },
+    {
+     "text": "Long spear",
+     "level": 3
+    },
+    {
+     "text": "Run up throw",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Discus",
+    "Shot put",
+    "Archery"
+   ]
+  },
+  {
+   "word": "Discus",
+   "hints": [
+    {
+     "text": "Throwing event",
+     "level": 1
+    },
+    {
+     "text": "Track event",
+     "level": 1
+    },
+    {
+     "text": "Ancient greek statue",
+     "level": 2
+    },
+    {
+     "text": "Spin and release",
+     "level": 2
+    },
+    {
+     "text": "Heavy flat plate",
+     "level": 3
+    },
+    {
+     "text": "Throwing circle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Javelin",
+    "Shot put",
+    "Hammer throw"
+   ]
+  },
+  {
+   "word": "Shot put",
+   "hints": [
+    {
+     "text": "Throwing event",
+     "level": 1
+    },
+    {
+     "text": "Strength event",
+     "level": 1
+    },
+    {
+     "text": "Olympic event",
+     "level": 2
+    },
+    {
+     "text": "Push throw",
+     "level": 2
+    },
+    {
+     "text": "Heavy metal ball",
+     "level": 3
+    },
+    {
+     "text": "Thrown from neck",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Discus",
+    "Javelin",
+    "Hammer throw"
+   ]
+  },
+  {
+   "word": "Sprint",
+   "hints": [
+    {
+     "text": "Track event",
+     "level": 1
+    },
+    {
+     "text": "Short race",
+     "level": 1
+    },
+    {
+     "text": "Fastest human title",
+     "level": 2
+    },
+    {
+     "text": "Olympic final",
+     "level": 2
+    },
+    {
+     "text": "Starting blocks",
+     "level": 3
+    },
+    {
+     "text": "Explosive burst",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Marathon",
+    "Relay",
+    "Hurdles"
+   ]
+  },
+  {
+   "word": "Relay",
+   "hints": [
+    {
+     "text": "Track event",
+     "level": 1
+    },
+    {
+     "text": "Team race",
+     "level": 1
+    },
+    {
+     "text": "Four runners",
+     "level": 2
+    },
+    {
+     "text": "Exciting finish",
+     "level": 2
+    },
+    {
+     "text": "Baton passing",
+     "level": 3
+    },
+    {
+     "text": "Handover zone",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sprint",
+    "Marathon",
+    "Hurdles"
+   ]
+  },
+  {
+   "word": "Decathlon",
+   "hints": [
+    {
+     "text": "Track event",
+     "level": 1
+    },
+    {
+     "text": "Multi event",
+     "level": 1
+    },
+    {
+     "text": "Ten disciplines",
+     "level": 2
+    },
+    {
+     "text": "Best all rounder",
+     "level": 2
+    },
+    {
+     "text": "Two day contest",
+     "level": 3
+    },
+    {
+     "text": "Points system",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Triathlon",
+    "Pentathlon",
+    "Marathon"
+   ]
+  },
+  {
+   "word": "Badminton smash",
+   "hints": [
+    {
+     "text": "Fast shot",
+     "level": 1
+    },
+    {
+     "text": "Racket move",
+     "level": 1
+    },
+    {
+     "text": "Point winner",
+     "level": 2
+    },
+    {
+     "text": "Jump attack",
+     "level": 2
+    },
+    {
+     "text": "Steep downward hit",
+     "level": 3
+    },
+    {
+     "text": "Feathered target",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Drop shot",
+    "Lob",
+    "Serve"
+   ]
+  },
+  {
+   "word": "Mountain biking",
+   "hints": [
+    {
+     "text": "Off road sport",
+     "level": 1
+    },
+    {
+     "text": "Wheel sport",
+     "level": 1
+    },
+    {
+     "text": "Forest trails",
+     "level": 2
+    },
+    {
+     "text": "Downhill thrills",
+     "level": 2
+    },
+    {
+     "text": "Suspension frames",
+     "level": 3
+    },
+    {
+     "text": "Muddy tires",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cycling",
+    "Motocross",
+    "Hiking"
+   ]
+  },
+  {
+   "word": "Paragliding",
+   "hints": [
+    {
+     "text": "Air sport",
+     "level": 1
+    },
+    {
+     "text": "Adventure sport",
+     "level": 1
+    },
+    {
+     "text": "Mountain launches",
+     "level": 2
+    },
+    {
+     "text": "Soaring thermals",
+     "level": 2
+    },
+    {
+     "text": "Colorful canopy",
+     "level": 3
+    },
+    {
+     "text": "Harness seat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Skydiving",
+    "Hang gliding",
+    "Parasailing"
+   ]
+  },
+  {
+   "word": "Skydiving",
+   "hints": [
+    {
+     "text": "Air sport",
+     "level": 1
+    },
+    {
+     "text": "Extreme sport",
+     "level": 1
+    },
+    {
+     "text": "Jump from planes",
+     "level": 2
+    },
+    {
+     "text": "Free fall",
+     "level": 2
+    },
+    {
+     "text": "Parachute",
+     "level": 3
+    },
+    {
+     "text": "Altimeter on wrist",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Paragliding",
+    "Bungee jumping",
+    "Base jumping"
+   ]
+  },
+  {
+   "word": "Bungee jumping",
+   "hints": [
+    {
+     "text": "Extreme sport",
+     "level": 1
+    },
+    {
+     "text": "Adventure activity",
+     "level": 1
+    },
+    {
+     "text": "Bridge leaps",
+     "level": 2
+    },
+    {
+     "text": "Screaming fall",
+     "level": 2
+    },
+    {
+     "text": "Stretchy cord",
+     "level": 3
+    },
+    {
+     "text": "Ankle harness",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Skydiving",
+    "Zip lining",
+    "Cliff diving"
+   ]
+  },
+  {
+   "word": "Scuba diving",
+   "hints": [
+    {
+     "text": "Water sport",
+     "level": 1
+    },
+    {
+     "text": "Underwater sport",
+     "level": 1
+    },
+    {
+     "text": "Coral reefs",
+     "level": 2
+    },
+    {
+     "text": "Certification course",
+     "level": 2
+    },
+    {
+     "text": "Air tanks",
+     "level": 3
+    },
+    {
+     "text": "Wetsuit and fins",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Snorkeling",
+    "Swimming",
+    "Surfing"
+   ]
+  },
+  {
+   "word": "Snorkeling",
+   "hints": [
+    {
+     "text": "Water sport",
+     "level": 1
+    },
+    {
+     "text": "Beach activity",
+     "level": 1
+    },
+    {
+     "text": "Tropical reefs",
+     "level": 2
+    },
+    {
+     "text": "Shallow water",
+     "level": 2
+    },
+    {
+     "text": "Breathing tube",
+     "level": 3
+    },
+    {
+     "text": "Face mask",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Scuba diving",
+    "Swimming",
+    "Kayaking"
+   ]
+  },
+  {
+   "word": "Windsurfing",
+   "hints": [
+    {
+     "text": "Water sport",
+     "level": 1
+    },
+    {
+     "text": "Board sport",
+     "level": 1
+    },
+    {
+     "text": "Breezy beaches",
+     "level": 2
+    },
+    {
+     "text": "Olympic event",
+     "level": 2
+    },
+    {
+     "text": "Sail on a board",
+     "level": 3
+    },
+    {
+     "text": "Balancing act",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kitesurfing",
+    "Sailing",
+    "Rowing"
+   ]
+  },
+  {
+   "word": "Kitesurfing",
+   "hints": [
+    {
+     "text": "Water sport",
+     "level": 1
+    },
+    {
+     "text": "Wind sport",
+     "level": 1
+    },
+    {
+     "text": "Big air jumps",
+     "level": 2
+    },
+    {
+     "text": "Windy beaches",
+     "level": 2
+    },
+    {
+     "text": "Giant canopy",
+     "level": 3
+    },
+    {
+     "text": "Harness and board",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Windsurfing",
+    "Wakeboarding",
+    "Paragliding"
+   ]
+  },
+  {
+   "word": "Rafting",
+   "hints": [
+    {
+     "text": "Water sport",
+     "level": 1
+    },
+    {
+     "text": "Group adventure",
+     "level": 1
+    },
+    {
+     "text": "River rapids",
+     "level": 2
+    },
+    {
+     "text": "Team paddling",
+     "level": 2
+    },
+    {
+     "text": "Inflatable boat",
+     "level": 3
+    },
+    {
+     "text": "Helmets and vests",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kayaking",
+    "Canoeing",
+    "Rowing"
+   ]
+  },
+  {
+   "word": "Canoeing",
+   "hints": [
+    {
+     "text": "Water sport",
+     "level": 1
+    },
+    {
+     "text": "Paddle sport",
+     "level": 1
+    },
+    {
+     "text": "Lake trips",
+     "level": 2
+    },
+    {
+     "text": "Olympic sprint",
+     "level": 2
+    },
+    {
+     "text": "Single bladed paddle",
+     "level": 3
+    },
+    {
+     "text": "Open boat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kayaking",
+    "Rowing",
+    "Rafting"
+   ]
+  },
+  {
+   "word": "Hiking",
+   "hints": [
+    {
+     "text": "Outdoor activity",
+     "level": 1
+    },
+    {
+     "text": "Walking sport",
+     "level": 1
+    },
+    {
+     "text": "Mountain trails",
+     "level": 2
+    },
+    {
+     "text": "Weekend escape",
+     "level": 2
+    },
+    {
+     "text": "Backpack and boots",
+     "level": 3
+    },
+    {
+     "text": "Trail markers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Climbing",
+    "Camping",
+    "Running"
+   ]
+  },
+  {
+   "word": "Fishing",
+   "hints": [
+    {
+     "text": "Outdoor hobby",
+     "level": 1
+    },
+    {
+     "text": "Water sport",
+     "level": 1
+    },
+    {
+     "text": "Patience needed",
+     "level": 2
+    },
+    {
+     "text": "Lakeside mornings",
+     "level": 2
+    },
+    {
+     "text": "Rod and reel",
+     "level": 3
+    },
+    {
+     "text": "Bait on hook",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hunting",
+    "Boating",
+    "Sailing"
+   ]
+  },
+  {
+   "word": "Equestrian",
+   "hints": [
+    {
+     "text": "Horse sport",
+     "level": 1
+    },
+    {
+     "text": "Olympic discipline",
+     "level": 1
+    },
+    {
+     "text": "Dressage and jumping",
+     "level": 2
+    },
+    {
+     "text": "Riding schools",
+     "level": 2
+    },
+    {
+     "text": "Saddle and reins",
+     "level": 3
+    },
+    {
+     "text": "Show arena",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Polo",
+    "Horse racing",
+    "Rodeo"
+   ]
+  },
+  {
+   "word": "Rodeo",
+   "hints": [
+    {
+     "text": "Western sport",
+     "level": 1
+    },
+    {
+     "text": "Cowboy event",
+     "level": 1
+    },
+    {
+     "text": "Bull riding",
+     "level": 2
+    },
+    {
+     "text": "Lasso tricks",
+     "level": 2
+    },
+    {
+     "text": "Bucking broncos",
+     "level": 3
+    },
+    {
+     "text": "Cowboy hats",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Horse racing",
+    "Polo",
+    "Bullfighting"
+   ]
+  },
+  {
+   "word": "Kickboxing",
+   "hints": [
+    {
+     "text": "Combat sport",
+     "level": 1
+    },
+    {
+     "text": "Striking sport",
+     "level": 1
+    },
+    {
+     "text": "Fitness classes",
+     "level": 2
+    },
+    {
+     "text": "Ring bouts",
+     "level": 2
+    },
+    {
+     "text": "Punches and kicks",
+     "level": 3
+    },
+    {
+     "text": "Shin guards",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fencing",
+    "Karate",
+    "Muay thai"
+   ]
+  },
+  {
+   "word": "Muay thai",
+   "hints": [
+    {
+     "text": "Combat sport",
+     "level": 1
+    },
+    {
+     "text": "Ring sport",
+     "level": 1
+    },
+    {
+     "text": "Art of eight limbs",
+     "level": 2
+    },
+    {
+     "text": "Ring rituals",
+     "level": 2
+    },
+    {
+     "text": "Elbows and knees",
+     "level": 3
+    },
+    {
+     "text": "Headbands",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kickboxing",
+    "Boxing",
+    "Karate"
+   ]
+  },
+  {
+   "word": "Kung fu",
+   "hints": [
+    {
+     "text": "Martial art",
+     "level": 1
+    },
+    {
+     "text": "Chinese sport",
+     "level": 1
+    },
+    {
+     "text": "Movie fight scenes",
+     "level": 2
+    },
+    {
+     "text": "Animal styles",
+     "level": 2
+    },
+    {
+     "text": "Flowing stances",
+     "level": 3
+    },
+    {
+     "text": "Temple monks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Karate",
+    "Taekwondo",
+    "Judo"
+   ]
+  },
+  {
+   "word": "Yoga",
+   "hints": [
+    {
+     "text": "Mind body practice",
+     "level": 1
+    },
+    {
+     "text": "Stretching exercise",
+     "level": 1
+    },
+    {
+     "text": "Calm breathing",
+     "level": 2
+    },
+    {
+     "text": "Mats in studios",
+     "level": 2
+    },
+    {
+     "text": "Downward dog",
+     "level": 3
+    },
+    {
+     "text": "Lotus pose",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pilates",
+    "Stretching",
+    "Meditation"
+   ]
+  },
+  {
+   "word": "Pilates",
+   "hints": [
+    {
+     "text": "Exercise method",
+     "level": 1
+    },
+    {
+     "text": "Core workout",
+     "level": 1
+    },
+    {
+     "text": "Studio classes",
+     "level": 2
+    },
+    {
+     "text": "Low impact",
+     "level": 2
+    },
+    {
+     "text": "Reformer machine",
+     "level": 3
+    },
+    {
+     "text": "Core strength",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Yoga",
+    "Aerobics",
+    "Stretching"
+   ]
+  },
+  {
+   "word": "Aerobics",
+   "hints": [
+    {
+     "text": "Exercise class",
+     "level": 1
+    },
+    {
+     "text": "Cardio workout",
+     "level": 1
+    },
+    {
+     "text": "Group fitness",
+     "level": 2
+    },
+    {
+     "text": "Upbeat music",
+     "level": 2
+    },
+    {
+     "text": "Step platforms",
+     "level": 3
+    },
+    {
+     "text": "Leg warmers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pilates",
+    "Zumba",
+    "Yoga"
+   ]
+  },
+  {
+   "word": "Zumba",
+   "hints": [
+    {
+     "text": "Dance workout",
+     "level": 1
+    },
+    {
+     "text": "Fitness class",
+     "level": 1
+    },
+    {
+     "text": "Latin music",
+     "level": 2
+    },
+    {
+     "text": "High energy",
+     "level": 2
+    },
+    {
+     "text": "Shaking hips",
+     "level": 3
+    },
+    {
+     "text": "Instructor moves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Aerobics",
+    "Salsa",
+    "Pilates"
+   ]
+  },
+  {
+   "word": "Bodybuilding",
+   "hints": [
+    {
+     "text": "Strength sport",
+     "level": 1
+    },
+    {
+     "text": "Physique sport",
+     "level": 1
+    },
+    {
+     "text": "Posing contests",
+     "level": 2
+    },
+    {
+     "text": "Gym culture",
+     "level": 2
+    },
+    {
+     "text": "Big muscles",
+     "level": 3
+    },
+    {
+     "text": "Spray tans",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Weightlifting",
+    "Powerlifting",
+    "Wrestling"
+   ]
+  },
+  {
+   "word": "Powerlifting",
+   "hints": [
+    {
+     "text": "Strength sport",
+     "level": 1
+    },
+    {
+     "text": "Barbell sport",
+     "level": 1
+    },
+    {
+     "text": "Max lifts",
+     "level": 2
+    },
+    {
+     "text": "Gym culture",
+     "level": 2
+    },
+    {
+     "text": "Squat bench deadlift",
+     "level": 3
+    },
+    {
+     "text": "Heavy plates",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Weightlifting",
+    "Bodybuilding",
+    "Strongman"
+   ]
+  },
+  {
+   "word": "Arm wrestling",
+   "hints": [
+    {
+     "text": "Strength contest",
+     "level": 1
+    },
+    {
+     "text": "Table sport",
+     "level": 1
+    },
+    {
+     "text": "Bar challenges",
+     "level": 2
+    },
+    {
+     "text": "Grip strength",
+     "level": 2
+    },
+    {
+     "text": "Elbows on table",
+     "level": 3
+    },
+    {
+     "text": "Pin the hand",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Judo",
+    "Sumo",
+    "Boxing"
+   ]
+  },
+  {
+   "word": "Hopscotch",
+   "hints": [
+    {
+     "text": "Playground game",
+     "level": 1
+    },
+    {
+     "text": "Chalk game",
+     "level": 1
+    },
+    {
+     "text": "Hop on one foot",
+     "level": 2
+    },
+    {
+     "text": "Kids at recess",
+     "level": 2
+    },
+    {
+     "text": "Chalk squares",
+     "level": 3
+    },
+    {
+     "text": "Toss a stone",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jump rope",
+    "Tag",
+    "Marbles"
+   ]
+  },
+  {
+   "word": "Dodgeball",
+   "hints": [
+    {
+     "text": "Playground game",
+     "level": 1
+    },
+    {
+     "text": "Team game",
+     "level": 1
+    },
+    {
+     "text": "Gym class",
+     "level": 2
+    },
+    {
+     "text": "Duck and weave",
+     "level": 2
+    },
+    {
+     "text": "Rubber balls",
+     "level": 3
+    },
+    {
+     "text": "Getting hit means out",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Handball",
+    "Tag",
+    "Volleyball"
+   ]
+  },
+  {
+   "word": "Netball",
+   "hints": [
+    {
+     "text": "Team sport",
+     "level": 1
+    },
+    {
+     "text": "Court game",
+     "level": 1
+    },
+    {
+     "text": "School sport",
+     "level": 2
+    },
+    {
+     "text": "No dribbling",
+     "level": 2
+    },
+    {
+     "text": "Tall hoop no backboard",
+     "level": 3
+    },
+    {
+     "text": "Position bibs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Basketball",
+    "Volleyball",
+    "Handball"
+   ]
+  },
+  {
+   "word": "Frisbee",
+   "hints": [
+    {
+     "text": "Outdoor game",
+     "level": 1
+    },
+    {
+     "text": "Throwing game",
+     "level": 1
+    },
+    {
+     "text": "Park picnics",
+     "level": 2
+    },
+    {
+     "text": "Dog catches",
+     "level": 2
+    },
+    {
+     "text": "Flying disc",
+     "level": 3
+    },
+    {
+     "text": "Spinning throw",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Boomerang",
+    "Kite",
+    "Ball"
+   ]
+  },
+  {
+   "word": "Ultimate",
+   "hints": [
+    {
+     "text": "Team sport",
+     "level": 1
+    },
+    {
+     "text": "Disc sport",
+     "level": 1
+    },
+    {
+     "text": "Self refereed",
+     "level": 2
+    },
+    {
+     "text": "College campuses",
+     "level": 2
+    },
+    {
+     "text": "Flying disc",
+     "level": 3
+    },
+    {
+     "text": "End zones",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rugby",
+    "Football",
+    "Netball"
+   ]
+  },
+  {
+   "word": "Pickleball",
+   "hints": [
+    {
+     "text": "Paddle sport",
+     "level": 1
+    },
+    {
+     "text": "Court game",
+     "level": 1
+    },
+    {
+     "text": "Fastest growing sport",
+     "level": 2
+    },
+    {
+     "text": "Retiree favorite",
+     "level": 2
+    },
+    {
+     "text": "Holey plastic sphere",
+     "level": 3
+    },
+    {
+     "text": "Kitchen zone",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tennis",
+    "Badminton",
+    "Table tennis"
+   ]
+  },
+  {
+   "word": "Croquet",
+   "hints": [
+    {
+     "text": "Lawn game",
+     "level": 1
+    },
+    {
+     "text": "Mallet sport",
+     "level": 1
+    },
+    {
+     "text": "Garden parties",
+     "level": 2
+    },
+    {
+     "text": "Victorian pastime",
+     "level": 2
+    },
+    {
+     "text": "Hoops and mallets",
+     "level": 3
+    },
+    {
+     "text": "Wooden balls",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Golf",
+    "Polo",
+    "Bowls"
+   ]
+  },
+  {
+   "word": "Mini golf",
+   "hints": [
+    {
+     "text": "Fun game",
+     "level": 1
+    },
+    {
+     "text": "Putting game",
+     "level": 1
+    },
+    {
+     "text": "Family outings",
+     "level": 2
+    },
+    {
+     "text": "Windmill obstacles",
+     "level": 2
+    },
+    {
+     "text": "Putter only",
+     "level": 3
+    },
+    {
+     "text": "Colorful courses",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Snooker",
+    "Bowling",
+    "Croquet"
+   ]
+  },
+  {
+   "word": "Go karting",
+   "hints": [
+    {
+     "text": "Motor fun",
+     "level": 1
+    },
+    {
+     "text": "Racing game",
+     "level": 1
+    },
+    {
+     "text": "Birthday parties",
+     "level": 2
+    },
+    {
+     "text": "Indoor tracks",
+     "level": 2
+    },
+    {
+     "text": "Small engine cars",
+     "level": 3
+    },
+    {
+     "text": "Tire barriers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Formula one",
+    "Bumper cars",
+    "Motocross"
+   ]
+  },
+  {
+   "word": "Esports",
+   "hints": [
+    {
+     "text": "Gaming competition",
+     "level": 1
+    },
+    {
+     "text": "Digital contest",
+     "level": 1
+    },
+    {
+     "text": "Arena tournaments",
+     "level": 2
+    },
+    {
+     "text": "Streaming crowds",
+     "level": 2
+    },
+    {
+     "text": "Headsets and keyboards",
+     "level": 3
+    },
+    {
+     "text": "Team jerseys",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chess",
+    "Poker",
+    "Arcade"
+   ]
+  },
+  {
+   "word": "Channel swim",
+   "hints": [
+    {
+     "text": "Endurance event",
+     "level": 1
+    },
+    {
+     "text": "Lake race",
+     "level": 1
+    },
+    {
+     "text": "Sea crossings",
+     "level": 2
+    },
+    {
+     "text": "Hours long",
+     "level": 2
+    },
+    {
+     "text": "Grease and goggles",
+     "level": 3
+    },
+    {
+     "text": "Cold waves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Triathlon",
+    "Rowing",
+    "Diving"
+   ]
+  },
+  {
+   "word": "Steeplechase",
+   "hints": [
+    {
+     "text": "Track event",
+     "level": 1
+    },
+    {
+     "text": "Obstacle race",
+     "level": 1
+    },
+    {
+     "text": "Water jump",
+     "level": 2
+    },
+    {
+     "text": "Long distance",
+     "level": 2
+    },
+    {
+     "text": "Barriers and pit",
+     "level": 3
+    },
+    {
+     "text": "Muddy splashes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hurdles",
+    "Marathon",
+    "Relay"
+   ]
+  },
+  {
+   "word": "Biathlon",
+   "hints": [
+    {
+     "text": "Winter sport",
+     "level": 1
+    },
+    {
+     "text": "Combined event",
+     "level": 1
+    },
+    {
+     "text": "Ski and shoot",
+     "level": 2
+    },
+    {
+     "text": "Olympic event",
+     "level": 2
+    },
+    {
+     "text": "Rifle on back",
+     "level": 3
+    },
+    {
+     "text": "Cross country",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Triathlon",
+    "Skiing",
+    "Archery"
+   ]
+  },
+  {
+   "word": "Bobsleigh",
+   "hints": [
+    {
+     "text": "Winter sport",
+     "level": 1
+    },
+    {
+     "text": "Sliding sport",
+     "level": 1
+    },
+    {
+     "text": "Olympic event",
+     "level": 2
+    },
+    {
+     "text": "Team push start",
+     "level": 2
+    },
+    {
+     "text": "Icy track",
+     "level": 3
+    },
+    {
+     "text": "Sled pod",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Luge",
+    "Skeleton",
+    "Sledding"
+   ]
+  },
+  {
+   "word": "Luge",
+   "hints": [
+    {
+     "text": "Winter sport",
+     "level": 1
+    },
+    {
+     "text": "Sliding sport",
+     "level": 1
+    },
+    {
+     "text": "Feet first",
+     "level": 2
+    },
+    {
+     "text": "Olympic event",
+     "level": 2
+    },
+    {
+     "text": "Lying on sled",
+     "level": 3
+    },
+    {
+     "text": "Icy curves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bobsleigh",
+    "Skeleton",
+    "Sledding"
+   ]
+  },
+  {
+   "word": "Sledding",
+   "hints": [
+    {
+     "text": "Winter fun",
+     "level": 1
+    },
+    {
+     "text": "Snow play",
+     "level": 1
+    },
+    {
+     "text": "Kids on hills",
+     "level": 2
+    },
+    {
+     "text": "Snow days",
+     "level": 2
+    },
+    {
+     "text": "Plastic toboggan",
+     "level": 3
+    },
+    {
+     "text": "Downhill slide",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Skiing",
+    "Luge",
+    "Snowboarding"
+   ]
+  },
+  {
+   "word": "Rollerblading",
+   "hints": [
+    {
+     "text": "Wheel sport",
+     "level": 1
+    },
+    {
+     "text": "Street skating",
+     "level": 1
+    },
+    {
+     "text": "Beach boardwalks",
+     "level": 2
+    },
+    {
+     "text": "Retro fun",
+     "level": 2
+    },
+    {
+     "text": "Inline wheels",
+     "level": 3
+    },
+    {
+     "text": "Knee pads",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Skateboarding",
+    "Ice skating",
+    "Cycling"
+   ]
+  },
+  {
+   "word": "Parkour",
+   "hints": [
+    {
+     "text": "Urban sport",
+     "level": 1
+    },
+    {
+     "text": "Freerunning",
+     "level": 1
+    },
+    {
+     "text": "Rooftop jumps",
+     "level": 2
+    },
+    {
+     "text": "Wall flips",
+     "level": 2
+    },
+    {
+     "text": "Vaulting railings",
+     "level": 3
+    },
+    {
+     "text": "City obstacles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gymnastics",
+    "Climbing",
+    "Skateboarding"
+   ]
+  },
+  {
+   "word": "Bouldering",
+   "hints": [
+    {
+     "text": "Climbing sport",
+     "level": 1
+    },
+    {
+     "text": "Short climbs",
+     "level": 1
+    },
+    {
+     "text": "Indoor walls",
+     "level": 2
+    },
+    {
+     "text": "No ropes",
+     "level": 2
+    },
+    {
+     "text": "Crash pads",
+     "level": 3
+    },
+    {
+     "text": "Chalky holds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rock climbing",
+    "Parkour",
+    "Hiking"
+   ]
+  },
+  {
+   "word": "Ice hockey",
+   "hints": [
+    {
+     "text": "Winter sport",
+     "level": 1
+    },
+    {
+     "text": "Team sport",
+     "level": 1
+    },
+    {
+     "text": "Scuffles on rink",
+     "level": 2
+    },
+    {
+     "text": "Canadian passion",
+     "level": 2
+    },
+    {
+     "text": "Rubber puck",
+     "level": 3
+    },
+    {
+     "text": "Bladed boots",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Field hockey",
+    "Curling",
+    "Lacrosse"
+   ]
+  },
+  {
+   "word": "Field hockey",
+   "hints": [
+    {
+     "text": "Team sport",
+     "level": 1
+    },
+    {
+     "text": "Stick sport",
+     "level": 1
+    },
+    {
+     "text": "Olympic sport",
+     "level": 2
+    },
+    {
+     "text": "Played on turf",
+     "level": 2
+    },
+    {
+     "text": "Hooked stick",
+     "level": 3
+    },
+    {
+     "text": "Hard white ball",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ice hockey",
+    "Lacrosse",
+    "Polo"
+   ]
+  },
+  {
+   "word": "Beach volleyball",
+   "hints": [
+    {
+     "text": "Sand sport",
+     "level": 1
+    },
+    {
+     "text": "Team sport",
+     "level": 1
+    },
+    {
+     "text": "Summer olympics",
+     "level": 2
+    },
+    {
+     "text": "Pairs play",
+     "level": 2
+    },
+    {
+     "text": "Sandy court",
+     "level": 3
+    },
+    {
+     "text": "Sunglasses and bikinis",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Netball",
+    "Badminton",
+    "Handball"
+   ]
+  },
+  {
+   "word": "Bowls",
+   "hints": [
+    {
+     "text": "Lawn game",
+     "level": 1
+    },
+    {
+     "text": "Precision sport",
+     "level": 1
+    },
+    {
+     "text": "Played on greens",
+     "level": 2
+    },
+    {
+     "text": "Older players",
+     "level": 2
+    },
+    {
+     "text": "Rolling biased balls",
+     "level": 3
+    },
+    {
+     "text": "Small white jack",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bocce",
+    "Croquet",
+    "Curling"
+   ]
+  },
+  {
+   "word": "Bocce",
+   "hints": [
+    {
+     "text": "Lawn game",
+     "level": 1
+    },
+    {
+     "text": "Italian sport",
+     "level": 1
+    },
+    {
+     "text": "Park game",
+     "level": 2
+    },
+    {
+     "text": "Relaxed matches",
+     "level": 2
+    },
+    {
+     "text": "Heavy balls",
+     "level": 3
+    },
+    {
+     "text": "Small target ball",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bowls",
+    "Croquet",
+    "Curling"
+   ]
+  },
+  {
+   "word": "Gymkhana",
+   "hints": [
+    {
+     "text": "Horse event",
+     "level": 1
+    },
+    {
+     "text": "Games day",
+     "level": 1
+    },
+    {
+     "text": "Pony club fun",
+     "level": 2
+    },
+    {
+     "text": "Timed races",
+     "level": 2
+    },
+    {
+     "text": "Barrels and poles",
+     "level": 3
+    },
+    {
+     "text": "Young riders",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rodeo",
+    "Polo",
+    "Show jumping"
+   ]
+  },
+  {
+   "word": "Show jumping",
+   "hints": [
+    {
+     "text": "Equestrian sport",
+     "level": 1
+    },
+    {
+     "text": "Olympic event",
+     "level": 1
+    },
+    {
+     "text": "Clear rounds",
+     "level": 2
+    },
+    {
+     "text": "Timed courses",
+     "level": 2
+    },
+    {
+     "text": "Horse leaps fences",
+     "level": 3
+    },
+    {
+     "text": "Colorful rails",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dressage",
+    "Polo",
+    "Horse racing"
+   ]
+  },
+  {
+   "word": "Dressage",
+   "hints": [
+    {
+     "text": "Equestrian sport",
+     "level": 1
+    },
+    {
+     "text": "Olympic event",
+     "level": 1
+    },
+    {
+     "text": "Horse ballet",
+     "level": 2
+    },
+    {
+     "text": "Precise moves",
+     "level": 2
+    },
+    {
+     "text": "Top hats and tails",
+     "level": 3
+    },
+    {
+     "text": "Precise circles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Show jumping",
+    "Polo",
+    "Rodeo"
+   ]
+  },
+  {
+   "word": "Pentathlon",
+   "hints": [
+    {
+     "text": "Multi event",
+     "level": 1
+    },
+    {
+     "text": "Olympic sport",
+     "level": 1
+    },
+    {
+     "text": "Five disciplines",
+     "level": 2
+    },
+    {
+     "text": "Military origins",
+     "level": 2
+    },
+    {
+     "text": "Fencing swimming riding",
+     "level": 3
+    },
+    {
+     "text": "Laser run",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Decathlon",
+    "Triathlon",
+    "Biathlon"
+   ]
+  },
+  {
+   "word": "Racquetball",
+   "hints": [
+    {
+     "text": "Racket sport",
+     "level": 1
+    },
+    {
+     "text": "Indoor game",
+     "level": 1
+    },
+    {
+     "text": "Enclosed court",
+     "level": 2
+    },
+    {
+     "text": "Fast bounces",
+     "level": 2
+    },
+    {
+     "text": "Hollow rubber sphere",
+     "level": 3
+    },
+    {
+     "text": "Short racket",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Squash",
+    "Tennis",
+    "Handball"
+   ]
+  },
+  {
+   "word": "Sepak takraw",
+   "hints": [
+    {
+     "text": "Kick sport",
+     "level": 1
+    },
+    {
+     "text": "Net game",
+     "level": 1
+    },
+    {
+     "text": "Southeast asian sport",
+     "level": 2
+    },
+    {
+     "text": "Acrobatic kicks",
+     "level": 2
+    },
+    {
+     "text": "Woven rattan ball",
+     "level": 3
+    },
+    {
+     "text": "No hands",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Volleyball",
+    "Football",
+    "Badminton"
+   ]
+  },
+  {
+   "word": "Hurling",
+   "hints": [
+    {
+     "text": "Field sport",
+     "level": 1
+    },
+    {
+     "text": "Irish sport",
+     "level": 1
+    },
+    {
+     "text": "Fastest field game",
+     "level": 2
+    },
+    {
+     "text": "Ancient roots",
+     "level": 2
+    },
+    {
+     "text": "Wooden stick",
+     "level": 3
+    },
+    {
+     "text": "Small leather ball",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hockey",
+    "Lacrosse",
+    "Cricket"
+   ]
+  },
+  {
+   "word": "Gaelic football",
+   "hints": [
+    {
+     "text": "Field sport",
+     "level": 1
+    },
+    {
+     "text": "Irish sport",
+     "level": 1
+    },
+    {
+     "text": "Amateur players",
+     "level": 2
+    },
+    {
+     "text": "County rivalry",
+     "level": 2
+    },
+    {
+     "text": "Hand passing",
+     "level": 3
+    },
+    {
+     "text": "Tall posts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rugby",
+    "Lacrosse",
+    "Hurling"
+   ]
+  },
+  {
+   "word": "Kho kho",
+   "hints": [
+    {
+     "text": "Tag game",
+     "level": 1
+    },
+    {
+     "text": "Indian sport",
+     "level": 1
+    },
+    {
+     "text": "School sport",
+     "level": 2
+    },
+    {
+     "text": "Chasing team",
+     "level": 2
+    },
+    {
+     "text": "Sit in a line",
+     "level": 3
+    },
+    {
+     "text": "Tap to swap",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kabaddi",
+    "Tag",
+    "Dodgeball"
+   ]
+  },
+  {
+   "word": "Gilli danda",
+   "hints": [
+    {
+     "text": "Street game",
+     "level": 1
+    },
+    {
+     "text": "Indian game",
+     "level": 1
+    },
+    {
+     "text": "Village pastime",
+     "level": 2
+    },
+    {
+     "text": "Played with sticks",
+     "level": 2
+    },
+    {
+     "text": "Small peg flipped",
+     "level": 3
+    },
+    {
+     "text": "Long stick hit",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cricket",
+    "Baseball",
+    "Hockey"
+   ]
+  },
+  {
+   "word": "Carrom",
+   "hints": [
+    {
+     "text": "Board game",
+     "level": 1
+    },
+    {
+     "text": "Tabletop sport",
+     "level": 1
+    },
+    {
+     "text": "Indian homes",
+     "level": 2
+    },
+    {
+     "text": "Flicking with fingers",
+     "level": 2
+    },
+    {
+     "text": "Striker disc",
+     "level": 3
+    },
+    {
+     "text": "Corner pockets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Billiards",
+    "Chess",
+    "Ludo"
+   ]
+  },
+  {
+   "word": "Ludo",
+   "hints": [
+    {
+     "text": "Board game",
+     "level": 1
+    },
+    {
+     "text": "Dice game",
+     "level": 1
+    },
+    {
+     "text": "Family nights",
+     "level": 2
+    },
+    {
+     "text": "Race to home",
+     "level": 2
+    },
+    {
+     "text": "Four colored tokens",
+     "level": 3
+    },
+    {
+     "text": "Rolling dice",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Backgammon",
+    "Carrom",
+    "Chess"
+   ]
+  },
+  {
+   "word": "Poker",
+   "hints": [
+    {
+     "text": "Card game",
+     "level": 1
+    },
+    {
+     "text": "Betting game",
+     "level": 1
+    },
+    {
+     "text": "Bluffing faces",
+     "level": 2
+    },
+    {
+     "text": "Casino tables",
+     "level": 2
+    },
+    {
+     "text": "Royal flush",
+     "level": 3
+    },
+    {
+     "text": "Stacks of chips",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Blackjack",
+    "Bridge",
+    "Rummy"
+   ]
+  },
+  {
+   "word": "Rummy",
+   "hints": [
+    {
+     "text": "Card game",
+     "level": 1
+    },
+    {
+     "text": "Family game",
+     "level": 1
+    },
+    {
+     "text": "Holiday card nights",
+     "level": 2
+    },
+    {
+     "text": "Sets and runs",
+     "level": 2
+    },
+    {
+     "text": "Meld cards",
+     "level": 3
+    },
+    {
+     "text": "Discard pile",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Poker",
+    "Bridge",
+    "Solitaire"
+   ]
+  },
+  {
+   "word": "Boomerang",
+   "hints": [
+    {
+     "text": "Throwing sport",
+     "level": 1
+    },
+    {
+     "text": "Returning toy",
+     "level": 1
+    },
+    {
+     "text": "Australian origins",
+     "level": 2
+    },
+    {
+     "text": "Curves back",
+     "level": 2
+    },
+    {
+     "text": "Curved wood",
+     "level": 3
+    },
+    {
+     "text": "Spinning flight",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Frisbee",
+    "Javelin",
+    "Kite"
+   ]
+  },
+  {
+   "word": "Kite flying",
+   "hints": [
+    {
+     "text": "Outdoor hobby",
+     "level": 1
+    },
+    {
+     "text": "Festival sport",
+     "level": 1
+    },
+    {
+     "text": "Rooftop battles",
+     "level": 2
+    },
+    {
+     "text": "Windy days",
+     "level": 2
+    },
+    {
+     "text": "String and spool",
+     "level": 3
+    },
+    {
+     "text": "Paper diamond",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Paragliding",
+    "Frisbee",
+    "Boomerang"
+   ]
+  },
+  {
+   "word": "Jump rope",
+   "hints": [
+    {
+     "text": "Playground game",
+     "level": 1
+    },
+    {
+     "text": "Cardio exercise",
+     "level": 1
+    },
+    {
+     "text": "Double dutch",
+     "level": 2
+    },
+    {
+     "text": "Boxer warmup",
+     "level": 2
+    },
+    {
+     "text": "Swinging cord",
+     "level": 3
+    },
+    {
+     "text": "Skipping feet",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hopscotch",
+    "Trampoline",
+    "Hula hoop"
+   ]
+  },
+  {
+   "word": "Hula hoop",
+   "hints": [
+    {
+     "text": "Playground toy",
+     "level": 1
+    },
+    {
+     "text": "Fitness toy",
+     "level": 1
+    },
+    {
+     "text": "Hip swinging",
+     "level": 2
+    },
+    {
+     "text": "Circus tricks",
+     "level": 2
+    },
+    {
+     "text": "Plastic ring",
+     "level": 3
+    },
+    {
+     "text": "Spins around waist",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jump rope",
+    "Frisbee",
+    "Yo yo"
+   ]
+  },
+  {
+   "word": "Trampoline",
+   "hints": [
+    {
+     "text": "Bouncing sport",
+     "level": 1
+    },
+    {
+     "text": "Backyard fun",
+     "level": 1
+    },
+    {
+     "text": "Olympic event",
+     "level": 2
+    },
+    {
+     "text": "Flips in air",
+     "level": 2
+    },
+    {
+     "text": "Springy mat",
+     "level": 3
+    },
+    {
+     "text": "Safety net",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gymnastics",
+    "Bouncy castle",
+    "Diving"
+   ]
+  },
+  {
+   "word": "Obstacle race",
+   "hints": [
+    {
+     "text": "Endurance event",
+     "level": 1
+    },
+    {
+     "text": "Muddy challenge",
+     "level": 1
+    },
+    {
+     "text": "Team challenges",
+     "level": 2
+    },
+    {
+     "text": "Charity runs",
+     "level": 2
+    },
+    {
+     "text": "Walls and mud pits",
+     "level": 3
+    },
+    {
+     "text": "Crawling under wires",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Marathon",
+    "Triathlon",
+    "Steeplechase"
+   ]
+  },
+  {
+   "word": "Rally",
+   "hints": [
+    {
+     "text": "Motor sport",
+     "level": 1
+    },
+    {
+     "text": "Off road racing",
+     "level": 1
+    },
+    {
+     "text": "Gravel stages",
+     "level": 2
+    },
+    {
+     "text": "Co driver notes",
+     "level": 2
+    },
+    {
+     "text": "Muddy cars",
+     "level": 3
+    },
+    {
+     "text": "Timed sections",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Formula one",
+    "Motocross",
+    "Karting"
+   ]
+  },
+  {
+   "word": "Drag racing",
+   "hints": [
+    {
+     "text": "Motor sport",
+     "level": 1
+    },
+    {
+     "text": "Straight line race",
+     "level": 1
+    },
+    {
+     "text": "Quarter mile",
+     "level": 2
+    },
+    {
+     "text": "Burnouts",
+     "level": 2
+    },
+    {
+     "text": "Christmas tree lights",
+     "level": 3
+    },
+    {
+     "text": "Parachute brakes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rally",
+    "Formula one",
+    "Karting"
+   ]
+  },
+  {
+   "word": "Jet skiing",
+   "hints": [
+    {
+     "text": "Water sport",
+     "level": 1
+    },
+    {
+     "text": "Motor fun",
+     "level": 1
+    },
+    {
+     "text": "Beach rentals",
+     "level": 2
+    },
+    {
+     "text": "Spraying wakes",
+     "level": 2
+    },
+    {
+     "text": "Personal watercraft",
+     "level": 3
+    },
+    {
+     "text": "Life jacket",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kayaking",
+    "Waterskiing",
+    "Surfing"
+   ]
+  },
+  {
+   "word": "Waterskiing",
+   "hints": [
+    {
+     "text": "Lake sport",
+     "level": 1
+    },
+    {
+     "text": "Towed sport",
+     "level": 1
+    },
+    {
+     "text": "Lake summers",
+     "level": 2
+    },
+    {
+     "text": "Boat pulled",
+     "level": 2
+    },
+    {
+     "text": "Tow rope",
+     "level": 3
+    },
+    {
+     "text": "Twin planks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wakeboarding",
+    "Jet skiing",
+    "Surfing"
+   ]
+  },
+  {
+   "word": "Wakeboarding",
+   "hints": [
+    {
+     "text": "Water sport",
+     "level": 1
+    },
+    {
+     "text": "Towed sport",
+     "level": 1
+    },
+    {
+     "text": "Lake tricks",
+     "level": 2
+    },
+    {
+     "text": "Jumping boat trails",
+     "level": 2
+    },
+    {
+     "text": "Short plank",
+     "level": 3
+    },
+    {
+     "text": "Tow rope",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Waterskiing",
+    "Snowboarding",
+    "Surfing"
+   ]
+  },
+  {
+   "word": "Horse riding",
+   "hints": [
+    {
+     "text": "Outdoor activity",
+     "level": 1
+    },
+    {
+     "text": "Equestrian hobby",
+     "level": 1
+    },
+    {
+     "text": "Pony lessons",
+     "level": 2
+    },
+    {
+     "text": "Trail rides",
+     "level": 2
+    },
+    {
+     "text": "Saddle and stirrups",
+     "level": 3
+    },
+    {
+     "text": "Trotting",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cycling",
+    "Polo",
+    "Rodeo"
+   ]
+  },
+  {
+   "word": "Cliff diving",
+   "hints": [
+    {
+     "text": "Extreme sport",
+     "level": 1
+    },
+    {
+     "text": "Water sport",
+     "level": 1
+    },
+    {
+     "text": "Dramatic heights",
+     "level": 2
+    },
+    {
+     "text": "Coastal rocks",
+     "level": 2
+    },
+    {
+     "text": "Rocky ledges",
+     "level": 3
+    },
+    {
+     "text": "Big splash",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Snorkeling",
+    "Bungee jumping",
+    "Skydiving"
+   ]
+  },
+  {
+   "word": "Speed skating",
+   "hints": [
+    {
+     "text": "Winter sport",
+     "level": 1
+    },
+    {
+     "text": "Racing sport",
+     "level": 1
+    },
+    {
+     "text": "Olympic oval",
+     "level": 2
+    },
+    {
+     "text": "Tight suits",
+     "level": 2
+    },
+    {
+     "text": "Long bladed boots",
+     "level": 3
+    },
+    {
+     "text": "Crouched stance",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Figure skating",
+    "Cycling",
+    "Skiing"
+   ]
+  },
+  {
+   "word": "Cross country",
+   "hints": [
+    {
+     "text": "Running race",
+     "level": 1
+    },
+    {
+     "text": "Outdoor race",
+     "level": 1
+    },
+    {
+     "text": "School meets",
+     "level": 2
+    },
+    {
+     "text": "Muddy courses",
+     "level": 2
+    },
+    {
+     "text": "Fields and hills",
+     "level": 3
+    },
+    {
+     "text": "Spiked shoes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Marathon",
+    "Steeplechase",
+    "Orienteering"
+   ]
+  },
+  {
+   "word": "Golf putt",
+   "hints": [
+    {
+     "text": "Short stroke",
+     "level": 1
+    },
+    {
+     "text": "Green finish",
+     "level": 1
+    },
+    {
+     "text": "Reading the slope",
+     "level": 2
+    },
+    {
+     "text": "Nervous moment",
+     "level": 2
+    },
+    {
+     "text": "Flat club face",
+     "level": 3
+    },
+    {
+     "text": "Rolling into cup",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Drive",
+    "Chip",
+    "Swing"
+   ]
+  },
+  {
+   "word": "Penalty kick",
+   "hints": [
+    {
+     "text": "Football moment",
+     "level": 1
+    },
+    {
+     "text": "Set piece",
+     "level": 1
+    },
+    {
+     "text": "Goalkeeper guesses",
+     "level": 2
+    },
+    {
+     "text": "Tense crowd",
+     "level": 2
+    },
+    {
+     "text": "Spot on the pitch",
+     "level": 3
+    },
+    {
+     "text": "One on keeper",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Free kick",
+    "Corner",
+    "Header"
+   ]
+  },
+  {
+   "word": "Slam dunk",
+   "hints": [
+    {
+     "text": "Basketball move",
+     "level": 1
+    },
+    {
+     "text": "Highlight play",
+     "level": 1
+    },
+    {
+     "text": "Crowd goes wild",
+     "level": 2
+    },
+    {
+     "text": "Tall leapers",
+     "level": 2
+    },
+    {
+     "text": "Hanging on rim",
+     "level": 3
+    },
+    {
+     "text": "Jumping throw down",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Layup",
+    "Three pointer",
+    "Rebound"
+   ]
+  },
+  {
+   "word": "Home run",
+   "hints": [
+    {
+     "text": "Baseball moment",
+     "level": 1
+    },
+    {
+     "text": "Big hit",
+     "level": 1
+    },
+    {
+     "text": "Crowd stands up",
+     "level": 2
+    },
+    {
+     "text": "Rounds the bases",
+     "level": 2
+    },
+    {
+     "text": "Over the fence",
+     "level": 3
+    },
+    {
+     "text": "Bat flip",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Strikeout",
+    "Touchdown",
+    "Goal"
+   ]
+  },
+  {
+   "word": "Touchdown",
+   "hints": [
+    {
+     "text": "Gridiron score",
+     "level": 1
+    },
+    {
+     "text": "Big play",
+     "level": 1
+    },
+    {
+     "text": "Spiking celebrations",
+     "level": 2
+    },
+    {
+     "text": "End zone dance",
+     "level": 2
+    },
+    {
+     "text": "Six points",
+     "level": 3
+    },
+    {
+     "text": "Crossing the line",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Home run",
+    "Goal",
+    "Try"
+   ]
+  },
+  {
+   "word": "Hat trick",
+   "hints": [
+    {
+     "text": "Scoring feat",
+     "level": 1
+    },
+    {
+     "text": "Triple achievement",
+     "level": 1
+    },
+    {
+     "text": "Three goals",
+     "level": 2
+    },
+    {
+     "text": "Fans throw caps",
+     "level": 2
+    },
+    {
+     "text": "Same match triple",
+     "level": 3
+    },
+    {
+     "text": "Rare and special",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Brace",
+    "Double",
+    "Treble"
+   ]
+  },
+  {
+   "word": "Knockout",
+   "hints": [
+    {
+     "text": "Boxing finish",
+     "level": 1
+    },
+    {
+     "text": "Fight ending",
+     "level": 1
+    },
+    {
+     "text": "Count to ten",
+     "level": 2
+    },
+    {
+     "text": "Crowd erupts",
+     "level": 2
+    },
+    {
+     "text": "Fighter hits canvas",
+     "level": 3
+    },
+    {
+     "text": "Lights out",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Submission",
+    "Tapout",
+    "Decision"
+   ]
+  },
+  {
+   "word": "Olympics",
+   "hints": [
+    {
+     "text": "Sports festival",
+     "level": 1
+    },
+    {
+     "text": "Global event",
+     "level": 1
+    },
+    {
+     "text": "Every four years",
+     "level": 2
+    },
+    {
+     "text": "Opening ceremony",
+     "level": 2
+    },
+    {
+     "text": "Five rings",
+     "level": 3
+    },
+    {
+     "text": "Gold medals",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "World cup",
+    "Paralympics",
+    "Asian games"
+   ]
+  },
+  {
+   "word": "World cup",
+   "hints": [
+    {
+     "text": "Football tournament",
+     "level": 1
+    },
+    {
+     "text": "Global event",
+     "level": 1
+    },
+    {
+     "text": "Every four years",
+     "level": 2
+    },
+    {
+     "text": "National teams",
+     "level": 2
+    },
+    {
+     "text": "Golden trophy",
+     "level": 3
+    },
+    {
+     "text": "Penalty shootouts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Olympics",
+    "Champions league",
+    "Super bowl"
+   ]
+  },
+  {
+   "word": "Super bowl",
+   "hints": [
+    {
+     "text": "Gridiron final",
+     "level": 1
+    },
+    {
+     "text": "Big game",
+     "level": 1
+    },
+    {
+     "text": "Halftime show",
+     "level": 2
+    },
+    {
+     "text": "Expensive ads",
+     "level": 2
+    },
+    {
+     "text": "Championship rings",
+     "level": 3
+    },
+    {
+     "text": "Sunday party",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "World cup",
+    "Grand final",
+    "Olympics"
+   ]
+  },
+  {
+   "word": "Stadium",
+   "hints": [
+    {
+     "text": "Sports venue",
+     "level": 1
+    },
+    {
+     "text": "Huge arena",
+     "level": 1
+    },
+    {
+     "text": "Thousands of fans",
+     "level": 2
+    },
+    {
+     "text": "Floodlights",
+     "level": 2
+    },
+    {
+     "text": "Tiered seating",
+     "level": 3
+    },
+    {
+     "text": "Hot dog stands",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Arena",
+    "Gym",
+    "Court"
+   ]
+  },
+  {
+   "word": "Trophy",
+   "hints": [
+    {
+     "text": "Winning prize",
+     "level": 1
+    },
+    {
+     "text": "Shiny award",
+     "level": 1
+    },
+    {
+     "text": "Lifted overhead",
+     "level": 2
+    },
+    {
+     "text": "Kept in cabinets",
+     "level": 2
+    },
+    {
+     "text": "Golden cup",
+     "level": 3
+    },
+    {
+     "text": "Engraved names",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Medal",
+    "Ribbon",
+    "Plaque"
+   ]
+  }
+ ]
+}

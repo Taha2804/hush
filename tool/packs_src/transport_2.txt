@@ -1,0 +1,7 @@
+@id transport
+@name Transport
+Hatchback | Car type; Compact car | City parking; First vehicle | Rear lift door; Short boot | Sedan; Coupe; Minivan
+Coupe | Car type; Two door car | Sporty look; Sleek roofline | Sloping back; Low stance | Sedan; Convertible; Hatchback
+Ambulance boat | Rescue vessel; Water medics | Island emergencies; Coastal medics | Siren on deck; Stretcher inside | Lifeboat; Ferry; Speedboat
+Light rail | City transit; Modern tram | Suburban lines; Electric power | Overhead wires; Low floor carriages | Subway; Monorail; Bus
+Motorboat | Engine vessel; Leisure craft | Lake weekends; Waterskiing tows | Outboard engine; Steering wheel | Sailboat; Canoe; Jet ski

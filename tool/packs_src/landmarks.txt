@@ -1,0 +1,161 @@
+@id landmarks
+@name Landmarks
+Eiffel Tower | Famous structure; Parisian icon | Lit up at night; Romantic proposals | Iron lattice; Built for a fair | Big Ben; Leaning Tower; CN Tower
+Taj Mahal | Famous monument; Asian wonder | Symbol of love; Mughal emperor | White marble mausoleum; Reflecting pool | Red Fort; Qutub Minar; Hawa Mahal
+Great Wall | Ancient structure; Asian wonder | Ancient defense; Visible from orbit myth | Winding stone ramparts; Watchtowers | Forbidden City; Terracotta Army; Machu Picchu
+Colosseum | Ancient arena; European ruin | Gladiator fights; Ancient empire | Crumbling oval walls; Arches in tiers | Pantheon; Parthenon; Acropolis
+Lady Liberty | Famous statue; American icon | Welcomes immigrants; Harbor island | Green copper; Raised torch | Christ Redeemer; Lincoln Memorial; Mount Rushmore
+Big Ben | Famous clock; British icon | Chimes on the hour; Parliament neighbor | Gothic clock tower; Huge bell | Eiffel Tower; London Eye; Tower Bridge
+Pyramids | Ancient tombs; Desert wonder | Pharaohs buried inside; Built by thousands | Triangular stone blocks; Sand surroundings | Sphinx; Petra; Ziggurat
+Sphinx | Ancient statue; Desert guardian | Missing nose; Riddle legend | Lion body; Human head | Pyramids; Abu Simbel; Petra
+Machu Picchu | Ancient citadel; Mountain ruins | Inca empire; Hiking trail | Terraced stone; Clouds and llamas | Chichen Itza; Petra; Angkor Wat
+Petra | Ancient city; Desert ruins | Carved into cliffs; Movie location | Rose colored rock; Treasury facade | Machu Picchu; Pyramids; Angkor Wat
+Angkor Wat | Temple complex; Asian ruins | Largest religious site; Sunrise views | Lotus shaped towers; Jungle setting | Borobudur; Petra; Machu Picchu
+Stonehenge | Ancient monument; Prehistoric site | Mysterious purpose; Solstice gatherings | Giant standing megaliths; Grassy plain | Easter Island; Pyramids; Avebury
+Everest | Highest peak; Himalayan giant | Climbers risk lives; Base camp | Snowy summit; Sherpa guides | Kilimanjaro; Mont Blanc; Fuji
+Fuji | Volcanic peak; Asian icon | Climbed in summer; Woodblock prints | Snow capped cone; Cherry blossoms foreground | Everest; Kilimanjaro; Vesuvius
+Grand Canyon | Natural wonder; Desert gorge | Carved by a river; Mule rides | Red rock layers; Deep chasm | Monument Valley; Niagara Falls; Yosemite
+Niagara Falls | Natural wonder; Giant cascade | Honeymoon spot; Boat tours | Thundering water; Rainbow mist | Victoria Falls; Iguazu Falls; Angel Falls
+Golden Gate | Famous bridge; American icon | Foggy mornings; Bay crossing | Red suspension cables; Art deco towers | Brooklyn Bridge; Tower Bridge; Harbour Bridge
+Opera House | Famous building; Harbor icon | Concert venue; New year fireworks | Sail shaped roofs; White tiles | Burj Khalifa; Golden Gate; Big Ben
+Burj Khalifa | Tallest building; Desert skyscraper | Record breaker; Fountain shows | Needle spire; Glass facade | Empire State; CN Tower; Petronas Towers
+Leaning Tower | Famous campanile; Italian icon | Tourists pretend to push; Pisa landmark | Slanted marble; Cylindrical tiers | Eiffel Tower; Big Ben; Colosseum
+Acropolis | Ancient citadel; Greek ruins | Birthplace of democracy; Hilltop temple | Marble columns; Rocky outcrop | Parthenon; Colosseum; Pantheon
+Parthenon | Ancient temple; Greek ruin | Dedicated to a goddess; Hilltop site | Doric columns; Marble pediment | Acropolis; Pantheon; Colosseum
+Christ Redeemer | Famous statue; Mountain monument | Overlooks a beach city; New wonder | Outstretched arms; Hilltop | Lady Liberty; Sugarloaf; Mount Rushmore
+Mount Rushmore | Famous carving; Granite monument | Four leaders carved; Road trip stop | Giant stone faces; Cliffside sculpture | Lady Liberty; Stonehenge; Christ Redeemer
+Kremlin | Fortress complex; Government seat | Red walls; Political power | Onion domes nearby; Star topped towers | Red Square; Forbidden City; Versailles
+Forbidden City | Imperial palace; Asian complex | Emperors lived there; Off limits once | Red walls; Golden roofs | Great Wall; Kremlin; Versailles
+Versailles | Royal palace; European chateau | Hall of mirrors; Lavish gardens | Gilded rooms; Fountains | Kremlin; Louvre; Schonbrunn
+Louvre | Famous museum; Art palace | Smiling portrait inside; Huge collection | Glass pyramid entrance; Former palace | Versailles; Prado; Uffizi
+Buckingham | Royal residence; British icon | Changing of the guard; Royal balcony | Fur hats on guards; Grand gates | Versailles; Windsor Castle; Kremlin
+Tower Bridge | Famous crossing; River landmark | Opens for ships; Victorian design | Twin turrets; Blue walkways | Golden Gate; London Bridge; Brooklyn Bridge
+London Eye | Observation wheel; Riverside attraction | Views over the city; Glass pods | Giant ferris wheel; Slow rotation | Big Ben; Tower Bridge; Space Needle
+Times Square | Famous plaza; City crossroads | New year ball drop; Broadway shows | Giant billboards; Neon lights | Central Park; Piccadilly; Shibuya Crossing
+Central Park | Urban oasis; City greenery | Picnics and jogging; Movie scenes | Lakes and paths; Horse carriages | Times Square; Hyde Park; Golden Gate
+Empire State | Famous skyscraper; Art deco tower | Movie ape climbed it; Observation deck | Spire on top; Limestone facade | Burj Khalifa; Chrysler; CN Tower
+Hollywood Sign | Hillside landmark; Film icon | Movie capital symbol; Photo spot | Giant white lettering; Dry hills | Golden Gate; Mount Rushmore; Space Needle
+Space Needle | Observation tower; Futuristic landmark | World fair legacy; Rainy city icon | Saucer top; Slim legs | CN Tower; Eiffel Tower; Tokyo Tower
+CN Tower | Observation spire; Canadian landmark | Glass floor; Edge walk | Concrete spike; Revolving restaurant | Space Needle; Tokyo Tower; Eiffel Tower
+White House | Government residence; Presidential home | Press briefings; Oval office | Pale columns; South lawn | Capitol; Buckingham; Kremlin
+Lincoln Memorial | American monument; Washington landmark | Famous speeches; Reflecting pool | Seated marble figure; Greek columns | Mount Rushmore; Lady Liberty; White House
+Alcatraz | Former prison; Island landmark | Escape legends; Ferry tours | Rocky island; Cell blocks | Robben Island; Devils Island; Rikers
+Brooklyn Bridge | Famous crossing; American icon | Walk across at sunset; Historic engineering | Stone arches; Cable web | Golden Gate; Tower Bridge; Manhattan
+Gateway Arch | Steel monument; American landmark | Pioneer symbol; Tram to top | Stainless curve; Riverside | Eiffel Tower; Space Needle; India Gate
+Hoover Dam | Engineering feat; Desert barrier | Hydroelectric power; Huge reservoir | Concrete wall; Canyon setting | Three Gorges; Panama Canal; Golden Gate
+Panama Canal | Engineering feat; Shipping route | Connects two oceans; Lock system | Ships lifted; Narrow passage | Suez Canal; Hoover Dam; Kiel Canal
+Suez Canal | Shipping route; Desert waterway | Shortcut between continents; Container ships | Sandy banks; No locks | Panama Canal; Nile; Bosphorus
+Red Fort | Historic citadel; Mughal stronghold | Independence speeches; Old city landmark | Sandstone walls; Lahori gate | Taj Mahal; Qutub Minar; Agra Fort
+Qutub Minar | Historic tower; Ancient brick spire | Sultanate era; World heritage site | Fluted red tower; Carved inscriptions | Red Fort; India Gate; Charminar
+India Gate | War memorial; Ceremonial arch | Parade route; Eternal flame | Sandstone arch; Lawns around | Gateway Arch; Red Fort; Charminar
+Hawa Mahal | Palace; Pink city landmark | Royal women watched streets; Honeycomb facade | Hundreds of tiny windows; Pink sandstone | Amber Fort; City Palace; Taj Mahal
+Golden Temple | Sacred shrine; Sikh landmark | Free community kitchen; Pilgrims | Gilded dome; Holy pool | Lotus Temple; Akshardham; Taj Mahal
+Lotus Temple | Modern shrine; Flower shaped building | Open to all faiths; Silent prayers | White petals; Reflecting pools | Golden Temple; Opera House; Akshardham
+Charminar | Historic monument; Four minarets | Old city bazaars; Pearl markets | Square arch structure; Four towers | Qutub Minar; India Gate; Hawa Mahal
+Mysore Palace | Royal residence; Southern landmark | Festival illuminations; Royal family | Domes and arches; Golden throne | Hawa Mahal; City Palace; Amber Fort
+Ajanta | Ancient caves; Rock cut monasteries | Buddhist paintings; World heritage | Carved cliffs; Frescoes | Ellora; Petra; Elephanta
+Ellora | Ancient caves; Rock temples | Carved from one rock; Many faiths | Kailasa shrine; Cliff face | Ajanta; Petra; Elephanta
+Konark | Sun temple; Chariot shaped shrine | Ancient eastern temple; World heritage | Giant stone wheels; Horse carvings | Khajuraho; Hampi; Angkor Wat
+Hampi | Ruined city; Ancient empire capital | Boulder landscapes; Backpacker favorite | Stone chariot; Temple ruins | Konark; Khajuraho; Petra
+Khajuraho | Temple group; Medieval shrines | World heritage; Intricate carvings | Sandstone spires; Sculpted figures | Konark; Hampi; Ellora
+Brandenburg Gate | Historic portal; German landmark | Reunification symbol; New year parties | Sandstone columns; Chariot on top | India Gate; Berlin Wall; Reichstag
+Berlin Wall | Historic barrier; Divided city | Torn down in protests; Graffiti art | Concrete slabs; Checkpoint | Great Wall; Brandenburg Gate; Iron Curtain
+Notre Dame | Gothic cathedral; Island church | Hunchback novel; Restoration after fire | Gargoyles; Rose window | Sagrada Familia; Westminster; Duomo
+Sagrada Familia | Unfinished basilica; Spanish icon | Over a century building; Modernist genius | Spiky towers; Organic shapes | Notre Dame; Duomo; Alhambra
+Alhambra | Moorish palace; Spanish fortress | Islamic gardens; Hilltop views | Intricate tilework; Red walls | Sagrada Familia; Versailles; Mezquita
+Neuschwanstein | Fairy tale castle; German landmark | Inspired a cartoon castle; Mountain setting | White turrets; Alpine views | Versailles; Hohenzollern; Edinburgh Castle
+Edinburgh Castle | Hilltop fortress; Scottish landmark | Military tattoo; One o clock gun | Volcanic rock; Royal mile | Windsor Castle; Neuschwanstein; Stirling Castle
+Westminster | Gothic abbey; Royal venue | Coronations and weddings; Poets corner | Twin towers; Stained glass | Notre Dame; Big Ben; Saint Pauls
+Trevi Fountain | Baroque landmark; Roman attraction | Coin tossing; Movie scene | Neptune statue; Cascading water | Colosseum; Pantheon; Spanish Steps
+Pantheon | Ancient temple; Roman building | Oldest dome; Tombs inside | Open oculus; Columned portico | Colosseum; Parthenon; Trevi Fountain
+Sistine Chapel | Famous ceiling; Papal sanctuary | Papal elections; Renaissance masterpiece | Frescoed creation scene; No photos | Pantheon; Louvre; Notre Dame
+Duomo | Cathedral; Italian landmark | Renaissance dome; Climb to the top | Red brick cupola; Marble facade | Notre Dame; Pantheon; Sagrada Familia
+Matterhorn | Famous mountain; Alpine peak | Climbers challenge; Chocolate logo | Pyramid shaped summit; Snowy | Mont Blanc; Everest; Eiger
+Mont Blanc | Alpine peak; Highest in west | Ski resorts; Cable car | Snowy dome; Glaciers | Matterhorn; Everest; Kilimanjaro
+Atomium | Modern monument; Belgian landmark | World fair leftover; Museum inside | Giant metal spheres; Molecule shape | Eiffel Tower; Space Needle; Gherkin
+Little Mermaid | Small statue; Harbor sculpture | Fairy tale tribute; Often vandalized | Bronze figure; On a rock | Manneken Pis; Christ Redeemer; Lady Liberty
+Manneken Pis | Tiny statue; Cheeky fountain | Dressed in costumes; Tourist magnet | Little bronze boy; Fountain | Little Mermaid; Trevi Fountain; Atomium
+Hagia Sophia | Domed building; Historic mosque | Church then mosque; Byzantine era | Huge dome; Mosaics | Blue Mosque; Pantheon; Notre Dame
+Blue Mosque | Ottoman landmark; Turkish icon | Six minarets; Tourist visits | Cobalt tiles; Cascading domes | Hagia Sophia; Taj Mahal; Sheikh Zayed
+Abu Simbel | Temple complex; Desert monument | Relocated from flooding; Sun alignment | Giant seated statues; Carved cliff | Sphinx; Karnak; Pyramids
+Kilimanjaro | Highest african peak; Volcano | Climbing trek; Snow near equator | Flat snowy summit; Savanna below | Everest; Fuji; Mont Blanc
+Victoria Falls | Giant waterfall; African wonder | Smoke that thunders; Devils pool | Mist clouds; Gorge | Niagara Falls; Iguazu Falls; Angel Falls
+Table Mountain | Flat topped peak; Coastal landmark | Cable car rides; Cloud blanket | Level summit; City below | Sugarloaf; Uluru; Kilimanjaro
+Uluru | Sacred rock; Desert monolith | Indigenous significance; Sunset colors | Red sandstone; Outback | Table Mountain; Stonehenge; Kata Tjuta
+Barrier Reef | Coral system; Marine wonder | Snorkeling trips; Visible from space | Colorful corals; Turquoise water | Red Sea; Ningaloo; Galapagos
+Easter Island | Remote isle; Statue site | Mysterious carvings; Pacific isolation | Giant stone heads; Moai figures | Stonehenge; Galapagos; Uluru
+Chichen Itza | Ancient pyramid; Mayan ruins | Equinox shadow serpent; New wonder | Stepped pyramid; Ball court | Machu Picchu; Teotihuacan; Tikal
+Teotihuacan | Ancient city; Mexican ruins | Avenue of the dead; Sun pyramid | Giant pyramids; Ancient metropolis | Chichen Itza; Machu Picchu; Tikal
+Iguazu Falls | Giant cascades; Border wonder | Devils throat; Rainforest setting | Hundreds of drops; Rainbows | Niagara Falls; Victoria Falls; Angel Falls
+Angel Falls | Tallest waterfall; Jungle wonder | Remote location; Pilot spotted it | Plunging from tepui; Mist | Victoria Falls; Iguazu Falls; Niagara Falls
+Galapagos | Island chain; Wildlife haven | Evolution theory; Giant tortoises | Blue footed boobies; Volcanic islands | Easter Island; Madagascar; Hawaii
+Marina Bay | Hotel complex; Rooftop pool | Infinity edge; Light shows | Three towers; Ship on top | Burj Khalifa; Petronas Towers; Sentosa
+Petronas Towers | Twin skyscrapers; Asian icon | Sky bridge; Once tallest | Steel and glass; Twin spires | Burj Khalifa; Marina Bay; Taipei
+Tokyo Tower | Observation mast; Japanese landmark | Parisian inspired; City views | Red and white lattice; Night lights | Eiffel Tower; Space Needle; CN Tower
+Shibuya Crossing | Famous intersection; Busy junction | Scramble pedestrians; Neon screens | Crowds in all directions; Loyal dog statue | Times Square; Piccadilly; Abbey Road
+Himeji Castle | Japanese fortress; White heron | Samurai era; Cherry blossoms | White walls; Tiered roofs | Osaka Castle; Neuschwanstein; Forbidden City
+Fushimi Inari | Shrine; Gate tunnel | Fox statues; Hiking path | Thousands of orange gates; Mountain trail | Golden Pavilion; Meiji Shrine; Himeji Castle
+Golden Pavilion | Zen temple; Gilded building | Reflecting pond; Kyoto icon | Shining leaf walls; Garden setting | Fushimi Inari; Silver Pavilion; Golden Temple
+Terracotta Army | Ancient sculptures; Buried soldiers | Emperor's guardians; Farmers discovered | Thousands of clay warriors; Horses | Great Wall; Forbidden City; Pyramids
+Potala Palace | Hillside fortress; Tibetan landmark | Former leader's home; High altitude | White and red walls; Many windows | Forbidden City; Kremlin; Paro Dzong
+Borobudur | Buddhist temple; Indonesian landmark | Sunrise climbs; Pilgrimage site | Stupas and reliefs; Stone terraces | Angkor Wat; Bagan; Prambanan
+Halong Bay | Seascape; Limestone islands | Boat cruises; Emerald waters | Towering karsts; Floating villages | Phang Nga; Galapagos; Barrier Reef
+Dead Sea | Salt lake; Lowest point | Floating effortlessly; Mud spas | Super salty water; Desert shore | Red Sea; Salt Lake; Caspian
+Wailing Wall | Sacred stones; Ancient remnant | Prayers in cracks; Pilgrims | Limestone blocks; Old city | Temple Mount; Berlin Wall; Great Wall
+Mecca | Holy city; Pilgrimage site | Millions of pilgrims; Faces of prayer | Black cube; Grand mosque | Medina; Jerusalem; Varanasi
+Yellowstone | National park; Geothermal wonder | Geysers erupt; Bison herds | Boiling springs; Colorful pools | Yosemite; Grand Canyon; Banff
+Yosemite | National park; Granite valley | Rock climbers; Waterfalls | Half dome; Giant sequoias | Yellowstone; Grand Canyon; Banff
+Old Faithful | Famous geyser; Natural fountain | Erupts on schedule; Crowds wait | Steam column; Boiling water | Strokkur; Yellowstone; Niagara Falls
+Death Valley | Desert basin; Extreme heat | Hottest place records; Sailing stones | Salt flats; Sand dunes | Grand Canyon; Sahara; Monument Valley
+Monument Valley | Desert landscape; Western icon | Movie westerns; Navajo land | Red rock buttes; Dusty roads | Grand Canyon; Death Valley; Uluru
+Vegas Strip | Neon boulevard; Casino row | Gambling and shows; Quick weddings | Bright lights; Fountain shows | Times Square; Macau; Monaco
+Chrysler | Art deco skyscraper; American icon | Car company origins; Spire | Stainless crown; Eagle gargoyles | Empire State; Flatiron; Burj Khalifa
+Flatiron | Triangular building; American landmark | Wedge shape; Famous photos | Narrow corner; Steel frame | Chrysler; Empire State; Shard
+Shard | Glass skyscraper; British landmark | Viewing platform; Modern skyline | Pointed glass pyramid; Riverside | Gherkin; Empire State; Burj Khalifa
+Gherkin | Glass tower; British skyscraper | Pickle nickname; Financial district | Bullet shape; Diamond glass | Shard; Atomium; Chrysler
+Copacabana | Famous beach; City shoreline | New year celebrations; Beach volleyball | Wavy promenade tiles; Golden sand | Ipanema; Bondi Beach; Waikiki
+Bondi Beach | Famous shore; Surf spot | Lifeguard shows; Ocean pool | Golden sand; Rolling waves | Copacabana; Waikiki; Malibu
+Waikiki | Famous beach; Island resort | Surf lessons; Hula shows | Diamond head crater; Palm trees | Bondi Beach; Copacabana; Malibu
+Banff | National park; Mountain town | Turquoise lakes; Ski slopes | Rocky peaks; Moose and elk | Yosemite; Yellowstone; Jasper
+Northern lights | Natural phenomenon; Polar display | Arctic skies; Bucket list | Dancing green ribbons; Night sky | Milky Way; Rainbow; Eclipse
+Fjords | Coastal inlets; Glacial valleys | Cruises through them; Norwegian icon | Steep cliffs; Deep water | Canyons; Lochs; Bays
+Loch Ness | Scottish lake; Monster legend | Cryptid sightings; Boat tours | Dark deep water; Ruined castle | Lake Geneva; Dead Sea; Crater Lake
+Moher Cliffs | Sea precipice; Irish landmark | Puffin colonies; Movie scenery | Sheer drops; Atlantic waves | White Cliffs; Giants Causeway; Big Sur
+Giants Causeway | Rock formation; Irish landmark | Legend of a titan; Coastal walk | Hexagonal columns; Basalt steps | Moher Cliffs; Devils Tower; Stonehenge
+White Cliffs | Chalk coast; English landmark | Wartime songs; Ferry views | Bright chalk face; Channel coast | Moher Cliffs; Seven Sisters; Giants Causeway
+Amalfi Coast | Riviera; Italian shoreline | Cliffside villages; Lemon groves | Winding roads; Colorful houses | Cinque Terre; Santorini; Big Sur
+Cinque Terre | Coastal villages; Italian landmark | Hiking trails between towns; Pastel houses | Five villages; Cliffside terraces | Amalfi Coast; Positano; Santorini
+Matera | Cave city; Italian town | Ancient dwellings; Film sets | Rock carved houses; Canyon edge | Petra; Cappadocia; Ajanta
+Cappadocia | Rock landscape; Balloon destination | Hot air balloon sunrise; Cave hotels | Fairy chimneys; Underground cities | Matera; Petra; Monument Valley
+Bagan | Temple plains; Ancient city | Balloon flights; Sunrise views | Thousands of pagodas; Dusty plains | Angkor Wat; Borobudur; Cappadocia
+Red Square | Famous plaza; Russian landmark | Military parades; Colorful cathedral | Cobblestones; Onion domes | Times Square; Tiananmen; Trafalgar
+Trafalgar | Famous plaza; London landmark | Pigeons and protests; New year crowds | Admiral column; Lion statues | Times Square; Red Square; Piccadilly
+Piccadilly | Busy junction; London landmark | Neon advertising; Theater district | Giant screens; Statue fountain | Times Square; Shibuya Crossing; Trafalgar
+Tiananmen | Huge square; Beijing landmark | Heavenly gate; Flag ceremonies | Vast plaza; Portrait over entrance | Red Square; Forbidden City; Trafalgar
+Santorini | Greek island; Volcanic isle | Famous sunsets; Honeymoon spot | Whitewashed houses; Blue domes | Mykonos; Amalfi Coast; Capri
+Stone Town | Historic quarter; Island old city | Spice trade history; Carved doors | Narrow alleys; Coral buildings | Old Delhi; Medina; Cartagena
+Abbey Road | Famous crosswalk; Music landmark | Album cover pose; Recording studio | Zebra crossing; Four walking figures | Shibuya Crossing; Penny Lane; Times Square
+Hyde Park | London greenery; Royal grounds | Speakers corner; Summer concerts | Serpentine lake; Rowing boats | Central Park; Regent Park; Golden Gate
+Broadway | Theater district; American stage | Musicals and plays; Ticket queues | Bright marquees; Standing ovations | West End; Hollywood; Vegas Strip
+West End | Theater district; London stage | Musicals and plays; Long runs | Velvet seats; Marquee lights | Broadway; Hollywood; Piccadilly
+Capitol | Government building; Domed legislature | Lawmakers meet; Inauguration site | White dome; Marble steps | White House; Parliament; Kremlin
+Pentagon | Military headquarters; Defense building | Government security; Huge offices | Five sided shape; Concentric rings | Capitol; White House; Kremlin
+Vesuvius | Active volcano; Italian peak | Buried an ancient city; Looms over bay | Smoking crater; Ash and lava | Etna; Fuji; Kilimanjaro
+Pompeii | Ancient city; Buried ruins | Volcano victim; Preserved in ash | Plaster casts; Cobbled streets | Herculaneum; Petra; Machu Picchu
+Etna | Active volcano; Sicilian peak | Frequent eruptions; Ski slopes too | Lava flows; Smoking summit | Vesuvius; Fuji; Stromboli
+Blue Lagoon | Geothermal spa; Icelandic attraction | Milky water; Silica mud masks | Steaming pools; Lava fields | Dead Sea; Pamukkale; Yellowstone
+Pamukkale | Natural terraces; Turkish wonder | Thermal pools; Ancient spa town | White travertine; Cotton castle look | Blue Lagoon; Cappadocia; Yellowstone
+Sahara | Huge desert; African expanse | Camel caravans; Scorching days | Rolling dunes; Oases | Gobi; Kalahari; Death Valley
+Amazon | Huge rainforest; River basin | Lungs of the planet; Tribes and wildlife | Dense canopy; Piranhas | Congo; Borneo; Sahara
+Serengeti | African plains; Wildlife reserve | Great migration; Safari trips | Wildebeest herds; Acacia trees | Masai Mara; Kalahari; Okavango
+Everglades | Wetland park; Swamp reserve | Airboat tours; Alligators | Sawgrass marshes; Mangroves | Yellowstone; Okavango; Amazon
+Antarctica | Frozen continent; Polar wilderness | Research stations; Penguin colonies | Ice sheets; Midnight sun | Greenland; Alaska; Siberia
+Big Sur | Rugged coastline; Californian drive | Scenic highway; Redwood forests | Cliffside bridges; Pacific views | Amalfi Coast; Moher Cliffs; Malibu
+Grand Bazaar | Covered market; Turkish landmark | Haggling for rugs; Thousands of shops | Domed alleys; Lanterns and spices | Chandni Chowk; Souk; Red Square
+Chandni Chowk | Old market; Delhi landmark | Street food heaven; Crowded lanes | Rickshaws; Spice shops | Grand Bazaar; Crawford Market; Colaba
+Marine Drive | Seaside promenade; Mumbai landmark | Evening strolls; Queen's necklace lights | Curved boulevard; Art deco buildings | Juhu Beach; Gateway Arch; Copacabana
+Sugarloaf | Granite peak; Harbor landmark | Cable car views; Beach city backdrop | Rounded rock; Ocean setting | Table Mountain; Christ Redeemer; Uluru
+Mezquita | Mosque cathedral; Spanish landmark | Moorish history; Cordoba icon | Red and white arches; Forest of columns | Alhambra; Sagrada Familia; Hagia Sophia
+Reichstag | Parliament building; German landmark | Glass dome; Rooftop views | Spiral ramp; Historic fire | Brandenburg Gate; Capitol; Kremlin
+Windsor Castle | Royal residence; English fortress | Oldest occupied; Royal weddings | Round tower; Thames valley | Edinburgh Castle; Buckingham; Versailles
+Prado | Art museum; Spanish gallery | Masterpieces; Madrid landmark | Royal paintings; Velvet halls | Louvre; Uffizi; Hermitage

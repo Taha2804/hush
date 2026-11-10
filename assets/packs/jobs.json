@@ -1,0 +1,5242 @@
+{
+ "id": "jobs",
+ "name": "Jobs",
+ "words": [
+  {
+   "word": "Doctor",
+   "hints": [
+    {
+     "text": "Medical job",
+     "level": 1
+    },
+    {
+     "text": "Health professional",
+     "level": 1
+    },
+    {
+     "text": "Works in hospitals",
+     "level": 2
+    },
+    {
+     "text": "Long shifts",
+     "level": 2
+    },
+    {
+     "text": "Stethoscope",
+     "level": 3
+    },
+    {
+     "text": "White coat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nurse",
+    "Surgeon",
+    "Dentist"
+   ]
+  },
+  {
+   "word": "Nurse",
+   "hints": [
+    {
+     "text": "Medical job",
+     "level": 1
+    },
+    {
+     "text": "Caring profession",
+     "level": 1
+    },
+    {
+     "text": "Works night shifts",
+     "level": 2
+    },
+    {
+     "text": "Helps patients",
+     "level": 2
+    },
+    {
+     "text": "Scrubs",
+     "level": 3
+    },
+    {
+     "text": "Takes your temperature",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Doctor",
+    "Paramedic",
+    "Midwife"
+   ]
+  },
+  {
+   "word": "Teacher",
+   "hints": [
+    {
+     "text": "Education job",
+     "level": 1
+    },
+    {
+     "text": "School worker",
+     "level": 1
+    },
+    {
+     "text": "Grades papers",
+     "level": 2
+    },
+    {
+     "text": "Has summer break",
+     "level": 2
+    },
+    {
+     "text": "Blackboard",
+     "level": 3
+    },
+    {
+     "text": "Apple on desk",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Principal",
+    "Tutor",
+    "Professor"
+   ]
+  },
+  {
+   "word": "Police officer",
+   "hints": [
+    {
+     "text": "Public service",
+     "level": 1
+    },
+    {
+     "text": "Law job",
+     "level": 1
+    },
+    {
+     "text": "Patrols streets",
+     "level": 2
+    },
+    {
+     "text": "Wears a badge",
+     "level": 2
+    },
+    {
+     "text": "Handcuffs",
+     "level": 3
+    },
+    {
+     "text": "Siren car",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Firefighter",
+    "Detective",
+    "Guard"
+   ]
+  },
+  {
+   "word": "Firefighter",
+   "hints": [
+    {
+     "text": "Rescue job",
+     "level": 1
+    },
+    {
+     "text": "Brave profession",
+     "level": 1
+    },
+    {
+     "text": "Slides down poles",
+     "level": 2
+    },
+    {
+     "text": "Saves cats",
+     "level": 2
+    },
+    {
+     "text": "Red truck",
+     "level": 3
+    },
+    {
+     "text": "Hose and helmet",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Police officer",
+    "Paramedic",
+    "Lifeguard"
+   ]
+  },
+  {
+   "word": "Chef",
+   "hints": [
+    {
+     "text": "Kitchen job",
+     "level": 1
+    },
+    {
+     "text": "Food profession",
+     "level": 1
+    },
+    {
+     "text": "Runs a kitchen",
+     "level": 2
+    },
+    {
+     "text": "Yells orders",
+     "level": 2
+    },
+    {
+     "text": "Tall white hat",
+     "level": 3
+    },
+    {
+     "text": "Sharp knives",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Baker",
+    "Waiter",
+    "Butcher"
+   ]
+  },
+  {
+   "word": "Pilot",
+   "hints": [
+    {
+     "text": "Aviation job",
+     "level": 1
+    },
+    {
+     "text": "Travel profession",
+     "level": 1
+    },
+    {
+     "text": "Flies planes",
+     "level": 2
+    },
+    {
+     "text": "Talks to passengers",
+     "level": 2
+    },
+    {
+     "text": "Cockpit controls",
+     "level": 3
+    },
+    {
+     "text": "Captain hat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Astronaut",
+    "Flight attendant",
+    "Driver"
+   ]
+  },
+  {
+   "word": "Astronaut",
+   "hints": [
+    {
+     "text": "Space job",
+     "level": 1
+    },
+    {
+     "text": "Science profession",
+     "level": 1
+    },
+    {
+     "text": "Trains for years",
+     "level": 2
+    },
+    {
+     "text": "Floats in orbit",
+     "level": 2
+    },
+    {
+     "text": "Space suit",
+     "level": 3
+    },
+    {
+     "text": "Rocket launch",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pilot",
+    "Scientist",
+    "Diver"
+   ]
+  },
+  {
+   "word": "Farmer",
+   "hints": [
+    {
+     "text": "Agriculture job",
+     "level": 1
+    },
+    {
+     "text": "Rural worker",
+     "level": 1
+    },
+    {
+     "text": "Wakes at dawn",
+     "level": 2
+    },
+    {
+     "text": "Drives tractors",
+     "level": 2
+    },
+    {
+     "text": "Plants crops",
+     "level": 3
+    },
+    {
+     "text": "Milks cows",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gardener",
+    "Rancher",
+    "Shepherd"
+   ]
+  },
+  {
+   "word": "Dentist",
+   "hints": [
+    {
+     "text": "Medical job",
+     "level": 1
+    },
+    {
+     "text": "Oral care",
+     "level": 1
+    },
+    {
+     "text": "Checks your teeth",
+     "level": 2
+    },
+    {
+     "text": "Says open wide",
+     "level": 2
+    },
+    {
+     "text": "Drill and mirror",
+     "level": 3
+    },
+    {
+     "text": "Floss advice",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Doctor",
+    "Orthodontist",
+    "Hygienist"
+   ]
+  },
+  {
+   "word": "Lawyer",
+   "hints": [
+    {
+     "text": "Legal job",
+     "level": 1
+    },
+    {
+     "text": "Court profession",
+     "level": 1
+    },
+    {
+     "text": "Argues cases",
+     "level": 2
+    },
+    {
+     "text": "Charges by hour",
+     "level": 2
+    },
+    {
+     "text": "Suit and briefcase",
+     "level": 3
+    },
+    {
+     "text": "Objection",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Judge",
+    "Detective",
+    "Banker"
+   ]
+  },
+  {
+   "word": "Judge",
+   "hints": [
+    {
+     "text": "Legal job",
+     "level": 1
+    },
+    {
+     "text": "Court authority",
+     "level": 1
+    },
+    {
+     "text": "Gives verdicts",
+     "level": 2
+    },
+    {
+     "text": "Very respected",
+     "level": 2
+    },
+    {
+     "text": "Gavel",
+     "level": 3
+    },
+    {
+     "text": "Black robe",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lawyer",
+    "Jury",
+    "Police officer"
+   ]
+  },
+  {
+   "word": "Engineer",
+   "hints": [
+    {
+     "text": "Technical job",
+     "level": 1
+    },
+    {
+     "text": "Problem solver",
+     "level": 1
+    },
+    {
+     "text": "Designs things",
+     "level": 2
+    },
+    {
+     "text": "Uses math",
+     "level": 2
+    },
+    {
+     "text": "Hard hat",
+     "level": 3
+    },
+    {
+     "text": "Blueprints",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Architect",
+    "Scientist",
+    "Mechanic"
+   ]
+  },
+  {
+   "word": "Architect",
+   "hints": [
+    {
+     "text": "Design job",
+     "level": 1
+    },
+    {
+     "text": "Building profession",
+     "level": 1
+    },
+    {
+     "text": "Plans skyscrapers",
+     "level": 2
+    },
+    {
+     "text": "Draws designs",
+     "level": 2
+    },
+    {
+     "text": "Blueprints",
+     "level": 3
+    },
+    {
+     "text": "Scale models",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Engineer",
+    "Builder",
+    "Designer"
+   ]
+  },
+  {
+   "word": "Scientist",
+   "hints": [
+    {
+     "text": "Research job",
+     "level": 1
+    },
+    {
+     "text": "Lab worker",
+     "level": 1
+    },
+    {
+     "text": "Runs experiments",
+     "level": 2
+    },
+    {
+     "text": "Publishes papers",
+     "level": 2
+    },
+    {
+     "text": "Lab coat",
+     "level": 3
+    },
+    {
+     "text": "Test tubes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Doctor",
+    "Engineer",
+    "Professor"
+   ]
+  },
+  {
+   "word": "Artist",
+   "hints": [
+    {
+     "text": "Creative job",
+     "level": 1
+    },
+    {
+     "text": "Visual profession",
+     "level": 1
+    },
+    {
+     "text": "Paints canvases",
+     "level": 2
+    },
+    {
+     "text": "Sells at galleries",
+     "level": 2
+    },
+    {
+     "text": "Easel and brushes",
+     "level": 3
+    },
+    {
+     "text": "Paint splatters",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Designer",
+    "Sculptor",
+    "Photographer"
+   ]
+  },
+  {
+   "word": "Musician",
+   "hints": [
+    {
+     "text": "Creative job",
+     "level": 1
+    },
+    {
+     "text": "Performing profession",
+     "level": 1
+    },
+    {
+     "text": "Plays concerts",
+     "level": 2
+    },
+    {
+     "text": "Records albums",
+     "level": 2
+    },
+    {
+     "text": "Instruments",
+     "level": 3
+    },
+    {
+     "text": "Rehearsals",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Singer",
+    "Composer",
+    "Dancer"
+   ]
+  },
+  {
+   "word": "Singer",
+   "hints": [
+    {
+     "text": "Performing job",
+     "level": 1
+    },
+    {
+     "text": "Vocal artist",
+     "level": 1
+    },
+    {
+     "text": "Sings on stage",
+     "level": 2
+    },
+    {
+     "text": "Records songs",
+     "level": 2
+    },
+    {
+     "text": "Microphone",
+     "level": 3
+    },
+    {
+     "text": "Hits high notes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Musician",
+    "Actor",
+    "Dancer"
+   ]
+  },
+  {
+   "word": "Actor",
+   "hints": [
+    {
+     "text": "Performing job",
+     "level": 1
+    },
+    {
+     "text": "Entertainment profession",
+     "level": 1
+    },
+    {
+     "text": "Memorizes lines",
+     "level": 2
+    },
+    {
+     "text": "Red carpet events",
+     "level": 2
+    },
+    {
+     "text": "Movie sets",
+     "level": 3
+    },
+    {
+     "text": "Stage makeup",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Singer",
+    "Director",
+    "Dancer"
+   ]
+  },
+  {
+   "word": "Dancer",
+   "hints": [
+    {
+     "text": "Performing job",
+     "level": 1
+    },
+    {
+     "text": "Movement artist",
+     "level": 1
+    },
+    {
+     "text": "Rehearses daily",
+     "level": 2
+    },
+    {
+     "text": "Performs on stage",
+     "level": 2
+    },
+    {
+     "text": "Ballet shoes",
+     "level": 3
+    },
+    {
+     "text": "Mirrored studios",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Actor",
+    "Gymnast",
+    "Singer"
+   ]
+  },
+  {
+   "word": "Photographer",
+   "hints": [
+    {
+     "text": "Creative job",
+     "level": 1
+    },
+    {
+     "text": "Visual profession",
+     "level": 1
+    },
+    {
+     "text": "Shoots weddings",
+     "level": 2
+    },
+    {
+     "text": "Edits pictures",
+     "level": 2
+    },
+    {
+     "text": "Camera lens",
+     "level": 3
+    },
+    {
+     "text": "Flash",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Artist",
+    "Videographer",
+    "Journalist"
+   ]
+  },
+  {
+   "word": "Journalist",
+   "hints": [
+    {
+     "text": "Media job",
+     "level": 1
+    },
+    {
+     "text": "News profession",
+     "level": 1
+    },
+    {
+     "text": "Interviews people",
+     "level": 2
+    },
+    {
+     "text": "Meets deadlines",
+     "level": 2
+    },
+    {
+     "text": "Notepad and pen",
+     "level": 3
+    },
+    {
+     "text": "Press pass",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Writer",
+    "Reporter",
+    "Editor"
+   ]
+  },
+  {
+   "word": "Writer",
+   "hints": [
+    {
+     "text": "Creative job",
+     "level": 1
+    },
+    {
+     "text": "Word profession",
+     "level": 1
+    },
+    {
+     "text": "Writes books",
+     "level": 2
+    },
+    {
+     "text": "Blank page fear",
+     "level": 2
+    },
+    {
+     "text": "Keyboard or notebook",
+     "level": 3
+    },
+    {
+     "text": "Manuscripts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Journalist",
+    "Poet",
+    "Editor"
+   ]
+  },
+  {
+   "word": "Librarian",
+   "hints": [
+    {
+     "text": "Book job",
+     "level": 1
+    },
+    {
+     "text": "Quiet profession",
+     "level": 1
+    },
+    {
+     "text": "Shushes people",
+     "level": 2
+    },
+    {
+     "text": "Organizes shelves",
+     "level": 2
+    },
+    {
+     "text": "Library cards",
+     "level": 3
+    },
+    {
+     "text": "Due dates",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Teacher",
+    "Archivist",
+    "Bookseller"
+   ]
+  },
+  {
+   "word": "Mechanic",
+   "hints": [
+    {
+     "text": "Repair job",
+     "level": 1
+    },
+    {
+     "text": "Garage worker",
+     "level": 1
+    },
+    {
+     "text": "Fixes cars",
+     "level": 2
+    },
+    {
+     "text": "Greasy hands",
+     "level": 2
+    },
+    {
+     "text": "Wrench",
+     "level": 3
+    },
+    {
+     "text": "Oil changes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Engineer",
+    "Plumber",
+    "Electrician"
+   ]
+  },
+  {
+   "word": "Plumber",
+   "hints": [
+    {
+     "text": "Repair job",
+     "level": 1
+    },
+    {
+     "text": "Trade profession",
+     "level": 1
+    },
+    {
+     "text": "Fixes leaks",
+     "level": 2
+    },
+    {
+     "text": "Unclogs drains",
+     "level": 2
+    },
+    {
+     "text": "Pipe wrench",
+     "level": 3
+    },
+    {
+     "text": "Toilet repairs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Electrician",
+    "Mechanic",
+    "Carpenter"
+   ]
+  },
+  {
+   "word": "Electrician",
+   "hints": [
+    {
+     "text": "Trade job",
+     "level": 1
+    },
+    {
+     "text": "Wiring expert",
+     "level": 1
+    },
+    {
+     "text": "Fixes power",
+     "level": 2
+    },
+    {
+     "text": "Safety first",
+     "level": 2
+    },
+    {
+     "text": "Wires and cables",
+     "level": 3
+    },
+    {
+     "text": "Voltage tester",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Plumber",
+    "Engineer",
+    "Mechanic"
+   ]
+  },
+  {
+   "word": "Carpenter",
+   "hints": [
+    {
+     "text": "Trade job",
+     "level": 1
+    },
+    {
+     "text": "Wood worker",
+     "level": 1
+    },
+    {
+     "text": "Builds furniture",
+     "level": 2
+    },
+    {
+     "text": "Measures twice",
+     "level": 2
+    },
+    {
+     "text": "Hammer and nails",
+     "level": 3
+    },
+    {
+     "text": "Saw dust",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Plumber",
+    "Builder",
+    "Woodcarver"
+   ]
+  },
+  {
+   "word": "Builder",
+   "hints": [
+    {
+     "text": "Construction job",
+     "level": 1
+    },
+    {
+     "text": "Trade worker",
+     "level": 1
+    },
+    {
+     "text": "Lays bricks",
+     "level": 2
+    },
+    {
+     "text": "Builds houses",
+     "level": 2
+    },
+    {
+     "text": "Hard hat",
+     "level": 3
+    },
+    {
+     "text": "Cement mixer",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Carpenter",
+    "Architect",
+    "Plumber"
+   ]
+  },
+  {
+   "word": "Baker",
+   "hints": [
+    {
+     "text": "Food job",
+     "level": 1
+    },
+    {
+     "text": "Early riser",
+     "level": 1
+    },
+    {
+     "text": "Makes bread",
+     "level": 2
+    },
+    {
+     "text": "Works before dawn",
+     "level": 2
+    },
+    {
+     "text": "Flour and ovens",
+     "level": 3
+    },
+    {
+     "text": "Fresh loaves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chef",
+    "Butcher",
+    "Confectioner"
+   ]
+  },
+  {
+   "word": "Butcher",
+   "hints": [
+    {
+     "text": "Food job",
+     "level": 1
+    },
+    {
+     "text": "Meat seller",
+     "level": 1
+    },
+    {
+     "text": "Cuts meat",
+     "level": 2
+    },
+    {
+     "text": "Works in shops",
+     "level": 2
+    },
+    {
+     "text": "Cleaver",
+     "level": 3
+    },
+    {
+     "text": "Bloody apron",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Baker",
+    "Chef",
+    "Fishmonger"
+   ]
+  },
+  {
+   "word": "Waiter",
+   "hints": [
+    {
+     "text": "Service job",
+     "level": 1
+    },
+    {
+     "text": "Restaurant worker",
+     "level": 1
+    },
+    {
+     "text": "Takes orders",
+     "level": 2
+    },
+    {
+     "text": "Earns tips",
+     "level": 2
+    },
+    {
+     "text": "Carries trays",
+     "level": 3
+    },
+    {
+     "text": "Notepad for orders",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chef",
+    "Bartender",
+    "Host"
+   ]
+  },
+  {
+   "word": "Cashier",
+   "hints": [
+    {
+     "text": "Retail job",
+     "level": 1
+    },
+    {
+     "text": "Store worker",
+     "level": 1
+    },
+    {
+     "text": "Scans items",
+     "level": 2
+    },
+    {
+     "text": "Handles money",
+     "level": 2
+    },
+    {
+     "text": "Till drawer",
+     "level": 3
+    },
+    {
+     "text": "Receipts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Waiter",
+    "Clerk",
+    "Accountant"
+   ]
+  },
+  {
+   "word": "Accountant",
+   "hints": [
+    {
+     "text": "Finance job",
+     "level": 1
+    },
+    {
+     "text": "Number cruncher",
+     "level": 1
+    },
+    {
+     "text": "Does taxes",
+     "level": 2
+    },
+    {
+     "text": "Busy in spring",
+     "level": 2
+    },
+    {
+     "text": "Spreadsheets",
+     "level": 3
+    },
+    {
+     "text": "Balance sheets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Banker",
+    "Cashier",
+    "Auditor"
+   ]
+  },
+  {
+   "word": "Banker",
+   "hints": [
+    {
+     "text": "Finance job",
+     "level": 1
+    },
+    {
+     "text": "Money profession",
+     "level": 1
+    },
+    {
+     "text": "Approves loans",
+     "level": 2
+    },
+    {
+     "text": "Works in vaults",
+     "level": 2
+    },
+    {
+     "text": "Suits and ties",
+     "level": 3
+    },
+    {
+     "text": "Interest rates",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Accountant",
+    "Lawyer",
+    "Cashier"
+   ]
+  },
+  {
+   "word": "Programmer",
+   "hints": [
+    {
+     "text": "Tech job",
+     "level": 1
+    },
+    {
+     "text": "Software profession",
+     "level": 1
+    },
+    {
+     "text": "Writes code",
+     "level": 2
+    },
+    {
+     "text": "Fixes bugs",
+     "level": 2
+    },
+    {
+     "text": "Keyboard and screens",
+     "level": 3
+    },
+    {
+     "text": "Lots of coffee",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Engineer",
+    "Designer",
+    "Hacker"
+   ]
+  },
+  {
+   "word": "Designer",
+   "hints": [
+    {
+     "text": "Creative job",
+     "level": 1
+    },
+    {
+     "text": "Visual profession",
+     "level": 1
+    },
+    {
+     "text": "Creates layouts",
+     "level": 2
+    },
+    {
+     "text": "Picks fonts",
+     "level": 2
+    },
+    {
+     "text": "Sketches and mood boards",
+     "level": 3
+    },
+    {
+     "text": "Color palettes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Artist",
+    "Architect",
+    "Programmer"
+   ]
+  },
+  {
+   "word": "Hairdresser",
+   "hints": [
+    {
+     "text": "Beauty job",
+     "level": 1
+    },
+    {
+     "text": "Salon worker",
+     "level": 1
+    },
+    {
+     "text": "Cuts and styles",
+     "level": 2
+    },
+    {
+     "text": "Chats with clients",
+     "level": 2
+    },
+    {
+     "text": "Scissors and combs",
+     "level": 3
+    },
+    {
+     "text": "Blow dryer",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Barber",
+    "Stylist",
+    "Makeup artist"
+   ]
+  },
+  {
+   "word": "Barber",
+   "hints": [
+    {
+     "text": "Grooming job",
+     "level": 1
+    },
+    {
+     "text": "Shop worker",
+     "level": 1
+    },
+    {
+     "text": "Trims beards",
+     "level": 2
+    },
+    {
+     "text": "Gives fades",
+     "level": 2
+    },
+    {
+     "text": "Striped pole",
+     "level": 3
+    },
+    {
+     "text": "Straight razor",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hairdresser",
+    "Stylist",
+    "Tailor"
+   ]
+  },
+  {
+   "word": "Tailor",
+   "hints": [
+    {
+     "text": "Clothing job",
+     "level": 1
+    },
+    {
+     "text": "Craft profession",
+     "level": 1
+    },
+    {
+     "text": "Takes measurements",
+     "level": 2
+    },
+    {
+     "text": "Alters suits",
+     "level": 2
+    },
+    {
+     "text": "Needle and thread",
+     "level": 3
+    },
+    {
+     "text": "Tape measure",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Seamstress",
+    "Designer",
+    "Cobbler"
+   ]
+  },
+  {
+   "word": "Cobbler",
+   "hints": [
+    {
+     "text": "Repair job",
+     "level": 1
+    },
+    {
+     "text": "Shoe worker",
+     "level": 1
+    },
+    {
+     "text": "Fixes heels",
+     "level": 2
+    },
+    {
+     "text": "Small shop",
+     "level": 2
+    },
+    {
+     "text": "Leather and glue",
+     "level": 3
+    },
+    {
+     "text": "Shoe last",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tailor",
+    "Blacksmith",
+    "Carpenter"
+   ]
+  },
+  {
+   "word": "Blacksmith",
+   "hints": [
+    {
+     "text": "Craft job",
+     "level": 1
+    },
+    {
+     "text": "Metal worker",
+     "level": 1
+    },
+    {
+     "text": "Forges tools",
+     "level": 2
+    },
+    {
+     "text": "Hot workshop",
+     "level": 2
+    },
+    {
+     "text": "Anvil and hammer",
+     "level": 3
+    },
+    {
+     "text": "Glowing iron",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Carpenter",
+    "Welder",
+    "Cobbler"
+   ]
+  },
+  {
+   "word": "Gardener",
+   "hints": [
+    {
+     "text": "Outdoor job",
+     "level": 1
+    },
+    {
+     "text": "Plant worker",
+     "level": 1
+    },
+    {
+     "text": "Mows lawns",
+     "level": 2
+    },
+    {
+     "text": "Plants flowers",
+     "level": 2
+    },
+    {
+     "text": "Shears and trowel",
+     "level": 3
+    },
+    {
+     "text": "Muddy gloves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Farmer",
+    "Florist",
+    "Landscaper"
+   ]
+  },
+  {
+   "word": "Florist",
+   "hints": [
+    {
+     "text": "Retail job",
+     "level": 1
+    },
+    {
+     "text": "Flower seller",
+     "level": 1
+    },
+    {
+     "text": "Makes bouquets",
+     "level": 2
+    },
+    {
+     "text": "Busy on valentines",
+     "level": 2
+    },
+    {
+     "text": "Fresh flowers",
+     "level": 3
+    },
+    {
+     "text": "Ribbons and vases",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gardener",
+    "Baker",
+    "Decorator"
+   ]
+  },
+  {
+   "word": "Veterinarian",
+   "hints": [
+    {
+     "text": "Animal job",
+     "level": 1
+    },
+    {
+     "text": "Medical profession",
+     "level": 1
+    },
+    {
+     "text": "Treats pets",
+     "level": 2
+    },
+    {
+     "text": "Rescues animals",
+     "level": 2
+    },
+    {
+     "text": "Pet clinic",
+     "level": 3
+    },
+    {
+     "text": "Vaccines for dogs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Doctor",
+    "Zookeeper",
+    "Groomer"
+   ]
+  },
+  {
+   "word": "Zookeeper",
+   "hints": [
+    {
+     "text": "Animal job",
+     "level": 1
+    },
+    {
+     "text": "Caretaker",
+     "level": 1
+    },
+    {
+     "text": "Feeds lions",
+     "level": 2
+    },
+    {
+     "text": "Cleans enclosures",
+     "level": 2
+    },
+    {
+     "text": "Buckets of fish",
+     "level": 3
+    },
+    {
+     "text": "Khaki uniform",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Veterinarian",
+    "Farmer",
+    "Ranger"
+   ]
+  },
+  {
+   "word": "Lifeguard",
+   "hints": [
+    {
+     "text": "Safety job",
+     "level": 1
+    },
+    {
+     "text": "Beach worker",
+     "level": 1
+    },
+    {
+     "text": "Watches swimmers",
+     "level": 2
+    },
+    {
+     "text": "Rescues people",
+     "level": 2
+    },
+    {
+     "text": "Red float",
+     "level": 3
+    },
+    {
+     "text": "Whistle and tower",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Firefighter",
+    "Coach",
+    "Paramedic"
+   ]
+  },
+  {
+   "word": "Paramedic",
+   "hints": [
+    {
+     "text": "Medical job",
+     "level": 1
+    },
+    {
+     "text": "Emergency responder",
+     "level": 1
+    },
+    {
+     "text": "Rides ambulances",
+     "level": 2
+    },
+    {
+     "text": "First on scene",
+     "level": 2
+    },
+    {
+     "text": "Stretcher",
+     "level": 3
+    },
+    {
+     "text": "Defibrillator",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nurse",
+    "Doctor",
+    "Firefighter"
+   ]
+  },
+  {
+   "word": "Surgeon",
+   "hints": [
+    {
+     "text": "Medical job",
+     "level": 1
+    },
+    {
+     "text": "Specialist doctor",
+     "level": 1
+    },
+    {
+     "text": "Operates on patients",
+     "level": 2
+    },
+    {
+     "text": "Long surgeries",
+     "level": 2
+    },
+    {
+     "text": "Scalpel",
+     "level": 3
+    },
+    {
+     "text": "Operating theatre",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Doctor",
+    "Dentist",
+    "Nurse"
+   ]
+  },
+  {
+   "word": "Pharmacist",
+   "hints": [
+    {
+     "text": "Medical job",
+     "level": 1
+    },
+    {
+     "text": "Medicine expert",
+     "level": 1
+    },
+    {
+     "text": "Fills prescriptions",
+     "level": 2
+    },
+    {
+     "text": "Gives advice",
+     "level": 2
+    },
+    {
+     "text": "Pills and labels",
+     "level": 3
+    },
+    {
+     "text": "Drug store counter",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Doctor",
+    "Nurse",
+    "Chemist"
+   ]
+  },
+  {
+   "word": "Psychologist",
+   "hints": [
+    {
+     "text": "Mental health job",
+     "level": 1
+    },
+    {
+     "text": "Therapy profession",
+     "level": 1
+    },
+    {
+     "text": "Listens carefully",
+     "level": 2
+    },
+    {
+     "text": "Helps with feelings",
+     "level": 2
+    },
+    {
+     "text": "Couch sessions",
+     "level": 3
+    },
+    {
+     "text": "Notebook",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Doctor",
+    "Counselor",
+    "Psychiatrist"
+   ]
+  },
+  {
+   "word": "Soldier",
+   "hints": [
+    {
+     "text": "Military job",
+     "level": 1
+    },
+    {
+     "text": "Defense profession",
+     "level": 1
+    },
+    {
+     "text": "Serves country",
+     "level": 2
+    },
+    {
+     "text": "Follows orders",
+     "level": 2
+    },
+    {
+     "text": "Camouflage",
+     "level": 3
+    },
+    {
+     "text": "Salutes officers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Police officer",
+    "Guard",
+    "Sailor"
+   ]
+  },
+  {
+   "word": "Sailor",
+   "hints": [
+    {
+     "text": "Navy job",
+     "level": 1
+    },
+    {
+     "text": "Sea worker",
+     "level": 1
+    },
+    {
+     "text": "Lives on ships",
+     "level": 2
+    },
+    {
+     "text": "Ties knots",
+     "level": 2
+    },
+    {
+     "text": "Anchors and ropes",
+     "level": 3
+    },
+    {
+     "text": "White uniform",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pilot",
+    "Fisherman",
+    "Soldier"
+   ]
+  },
+  {
+   "word": "Fisherman",
+   "hints": [
+    {
+     "text": "Sea job",
+     "level": 1
+    },
+    {
+     "text": "Boat worker",
+     "level": 1
+    },
+    {
+     "text": "Casts nets",
+     "level": 2
+    },
+    {
+     "text": "Early mornings",
+     "level": 2
+    },
+    {
+     "text": "Rods and bait",
+     "level": 3
+    },
+    {
+     "text": "Rubber boots",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sailor",
+    "Farmer",
+    "Butcher"
+   ]
+  },
+  {
+   "word": "Truck driver",
+   "hints": [
+    {
+     "text": "Transport job",
+     "level": 1
+    },
+    {
+     "text": "Road worker",
+     "level": 1
+    },
+    {
+     "text": "Long hauls",
+     "level": 2
+    },
+    {
+     "text": "Highway life",
+     "level": 2
+    },
+    {
+     "text": "Big rig",
+     "level": 3
+    },
+    {
+     "text": "Radio chatter",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bus driver",
+    "Pilot",
+    "Courier"
+   ]
+  },
+  {
+   "word": "Taxi driver",
+   "hints": [
+    {
+     "text": "Transport job",
+     "level": 1
+    },
+    {
+     "text": "City worker",
+     "level": 1
+    },
+    {
+     "text": "Drives passengers",
+     "level": 2
+    },
+    {
+     "text": "Knows shortcuts",
+     "level": 2
+    },
+    {
+     "text": "Meter running",
+     "level": 3
+    },
+    {
+     "text": "Yellow cab",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bus driver",
+    "Chauffeur",
+    "Pilot"
+   ]
+  },
+  {
+   "word": "Bus driver",
+   "hints": [
+    {
+     "text": "Transport job",
+     "level": 1
+    },
+    {
+     "text": "Public service",
+     "level": 1
+    },
+    {
+     "text": "Fixed routes",
+     "level": 2
+    },
+    {
+     "text": "Collects fares",
+     "level": 2
+    },
+    {
+     "text": "Big steering wheel",
+     "level": 3
+    },
+    {
+     "text": "Stops on schedule",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Taxi driver",
+    "Train driver",
+    "Pilot"
+   ]
+  },
+  {
+   "word": "Mail carrier",
+   "hints": [
+    {
+     "text": "Postal job",
+     "level": 1
+    },
+    {
+     "text": "Delivery worker",
+     "level": 1
+    },
+    {
+     "text": "Walks routes",
+     "level": 2
+    },
+    {
+     "text": "Dogs chase them",
+     "level": 2
+    },
+    {
+     "text": "Envelopes and parcels",
+     "level": 3
+    },
+    {
+     "text": "Shoulder satchel",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Courier",
+    "Driver",
+    "Paperboy"
+   ]
+  },
+  {
+   "word": "Courier",
+   "hints": [
+    {
+     "text": "Delivery job",
+     "level": 1
+    },
+    {
+     "text": "Fast service",
+     "level": 1
+    },
+    {
+     "text": "Rides bikes",
+     "level": 2
+    },
+    {
+     "text": "Rushes packages",
+     "level": 2
+    },
+    {
+     "text": "Parcels",
+     "level": 3
+    },
+    {
+     "text": "Signature needed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mail carrier",
+    "Driver",
+    "Messenger"
+   ]
+  },
+  {
+   "word": "Detective",
+   "hints": [
+    {
+     "text": "Investigation job",
+     "level": 1
+    },
+    {
+     "text": "Crime solver",
+     "level": 1
+    },
+    {
+     "text": "Finds clues",
+     "level": 2
+    },
+    {
+     "text": "Solves mysteries",
+     "level": 2
+    },
+    {
+     "text": "Magnifying glass",
+     "level": 3
+    },
+    {
+     "text": "Trench coat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Police officer",
+    "Spy",
+    "Lawyer"
+   ]
+  },
+  {
+   "word": "Spy",
+   "hints": [
+    {
+     "text": "Secret job",
+     "level": 1
+    },
+    {
+     "text": "Intelligence agent",
+     "level": 1
+    },
+    {
+     "text": "Uses disguises",
+     "level": 2
+    },
+    {
+     "text": "Gathers secrets",
+     "level": 2
+    },
+    {
+     "text": "Gadgets",
+     "level": 3
+    },
+    {
+     "text": "Secret codes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Detective",
+    "Soldier",
+    "Diplomat"
+   ]
+  },
+  {
+   "word": "Security guard",
+   "hints": [
+    {
+     "text": "Safety job",
+     "level": 1
+    },
+    {
+     "text": "Protection worker",
+     "level": 1
+    },
+    {
+     "text": "Night shifts",
+     "level": 2
+    },
+    {
+     "text": "Checks badges",
+     "level": 2
+    },
+    {
+     "text": "Walkie talkie",
+     "level": 3
+    },
+    {
+     "text": "Flashlight",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Police officer",
+    "Bouncer",
+    "Soldier"
+   ]
+  },
+  {
+   "word": "Janitor",
+   "hints": [
+    {
+     "text": "Cleaning job",
+     "level": 1
+    },
+    {
+     "text": "Building worker",
+     "level": 1
+    },
+    {
+     "text": "Mops floors",
+     "level": 2
+    },
+    {
+     "text": "Works after hours",
+     "level": 2
+    },
+    {
+     "text": "Keys on belt",
+     "level": 3
+    },
+    {
+     "text": "Cleaning cart",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cleaner",
+    "Caretaker",
+    "Gardener"
+   ]
+  },
+  {
+   "word": "Clown",
+   "hints": [
+    {
+     "text": "Entertainment job",
+     "level": 1
+    },
+    {
+     "text": "Circus performer",
+     "level": 1
+    },
+    {
+     "text": "Makes kids laugh",
+     "level": 2
+    },
+    {
+     "text": "Birthday parties",
+     "level": 2
+    },
+    {
+     "text": "Red nose",
+     "level": 3
+    },
+    {
+     "text": "Big shoes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Magician",
+    "Juggler",
+    "Mime"
+   ]
+  },
+  {
+   "word": "Magician",
+   "hints": [
+    {
+     "text": "Entertainment job",
+     "level": 1
+    },
+    {
+     "text": "Stage performer",
+     "level": 1
+    },
+    {
+     "text": "Card tricks",
+     "level": 2
+    },
+    {
+     "text": "Never reveals secrets",
+     "level": 2
+    },
+    {
+     "text": "Top hat",
+     "level": 3
+    },
+    {
+     "text": "Pulls rabbits",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Clown",
+    "Juggler",
+    "Illusionist"
+   ]
+  },
+  {
+   "word": "Comedian",
+   "hints": [
+    {
+     "text": "Entertainment job",
+     "level": 1
+    },
+    {
+     "text": "Stand up performer",
+     "level": 1
+    },
+    {
+     "text": "Tells jokes",
+     "level": 2
+    },
+    {
+     "text": "Comedy clubs",
+     "level": 2
+    },
+    {
+     "text": "Microphone stand",
+     "level": 3
+    },
+    {
+     "text": "Punchlines",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Actor",
+    "Clown",
+    "Host"
+   ]
+  },
+  {
+   "word": "Professor",
+   "hints": [
+    {
+     "text": "Education job",
+     "level": 1
+    },
+    {
+     "text": "University teacher",
+     "level": 1
+    },
+    {
+     "text": "Gives lectures",
+     "level": 2
+    },
+    {
+     "text": "Does research",
+     "level": 2
+    },
+    {
+     "text": "Tweed jacket",
+     "level": 3
+    },
+    {
+     "text": "Office hours",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Teacher",
+    "Scientist",
+    "Tutor"
+   ]
+  },
+  {
+   "word": "Principal",
+   "hints": [
+    {
+     "text": "School job",
+     "level": 1
+    },
+    {
+     "text": "Education leader",
+     "level": 1
+    },
+    {
+     "text": "Runs the school",
+     "level": 2
+    },
+    {
+     "text": "Detention threats",
+     "level": 2
+    },
+    {
+     "text": "Office visits",
+     "level": 3
+    },
+    {
+     "text": "Morning announcements",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Teacher",
+    "Dean",
+    "Professor"
+   ]
+  },
+  {
+   "word": "Tutor",
+   "hints": [
+    {
+     "text": "Education job",
+     "level": 1
+    },
+    {
+     "text": "Private teacher",
+     "level": 1
+    },
+    {
+     "text": "Helps with homework",
+     "level": 2
+    },
+    {
+     "text": "Private sessions",
+     "level": 2
+    },
+    {
+     "text": "Extra lessons",
+     "level": 3
+    },
+    {
+     "text": "Exam prep",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Teacher",
+    "Coach",
+    "Mentor"
+   ]
+  },
+  {
+   "word": "Coach",
+   "hints": [
+    {
+     "text": "Sports job",
+     "level": 1
+    },
+    {
+     "text": "Team leader",
+     "level": 1
+    },
+    {
+     "text": "Trains athletes",
+     "level": 2
+    },
+    {
+     "text": "Yells from sidelines",
+     "level": 2
+    },
+    {
+     "text": "Whistle and clipboard",
+     "level": 3
+    },
+    {
+     "text": "Halftime talks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Referee",
+    "Teacher",
+    "Captain"
+   ]
+  },
+  {
+   "word": "Referee",
+   "hints": [
+    {
+     "text": "Sports job",
+     "level": 1
+    },
+    {
+     "text": "Match official",
+     "level": 1
+    },
+    {
+     "text": "Blows whistle",
+     "level": 2
+    },
+    {
+     "text": "Makes calls",
+     "level": 2
+    },
+    {
+     "text": "Striped shirt",
+     "level": 3
+    },
+    {
+     "text": "Yellow cards",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Coach",
+    "Umpire",
+    "Judge"
+   ]
+  },
+  {
+   "word": "Athlete",
+   "hints": [
+    {
+     "text": "Sports job",
+     "level": 1
+    },
+    {
+     "text": "Competitor",
+     "level": 1
+    },
+    {
+     "text": "Trains daily",
+     "level": 2
+    },
+    {
+     "text": "Wins medals",
+     "level": 2
+    },
+    {
+     "text": "Sports drinks",
+     "level": 3
+    },
+    {
+     "text": "Stadium crowds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Coach",
+    "Referee",
+    "Trainer"
+   ]
+  },
+  {
+   "word": "Model",
+   "hints": [
+    {
+     "text": "Fashion job",
+     "level": 1
+    },
+    {
+     "text": "Runway worker",
+     "level": 1
+    },
+    {
+     "text": "Poses for cameras",
+     "level": 2
+    },
+    {
+     "text": "Fashion shows",
+     "level": 2
+    },
+    {
+     "text": "Catwalk",
+     "level": 3
+    },
+    {
+     "text": "Photo shoots",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Actor",
+    "Designer",
+    "Dancer"
+   ]
+  },
+  {
+   "word": "Influencer",
+   "hints": [
+    {
+     "text": "Online job",
+     "level": 1
+    },
+    {
+     "text": "Social media worker",
+     "level": 1
+    },
+    {
+     "text": "Posts content",
+     "level": 2
+    },
+    {
+     "text": "Gains followers",
+     "level": 2
+    },
+    {
+     "text": "Ring light",
+     "level": 3
+    },
+    {
+     "text": "Sponsored posts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Blogger",
+    "Model",
+    "Streamer"
+   ]
+  },
+  {
+   "word": "Streamer",
+   "hints": [
+    {
+     "text": "Online job",
+     "level": 1
+    },
+    {
+     "text": "Live broadcaster",
+     "level": 1
+    },
+    {
+     "text": "Plays games live",
+     "level": 2
+    },
+    {
+     "text": "Chats with viewers",
+     "level": 2
+    },
+    {
+     "text": "Webcam and headset",
+     "level": 3
+    },
+    {
+     "text": "Donations",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Influencer",
+    "Gamer",
+    "Youtuber"
+   ]
+  },
+  {
+   "word": "Translator",
+   "hints": [
+    {
+     "text": "Language job",
+     "level": 1
+    },
+    {
+     "text": "Word profession",
+     "level": 1
+    },
+    {
+     "text": "Converts languages",
+     "level": 2
+    },
+    {
+     "text": "Works with documents",
+     "level": 2
+    },
+    {
+     "text": "Dictionaries",
+     "level": 3
+    },
+    {
+     "text": "Bilingual skills",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Interpreter",
+    "Writer",
+    "Teacher"
+   ]
+  },
+  {
+   "word": "Diplomat",
+   "hints": [
+    {
+     "text": "Government job",
+     "level": 1
+    },
+    {
+     "text": "Foreign relations",
+     "level": 1
+    },
+    {
+     "text": "Negotiates treaties",
+     "level": 2
+    },
+    {
+     "text": "Works at embassies",
+     "level": 2
+    },
+    {
+     "text": "Formal dinners",
+     "level": 3
+    },
+    {
+     "text": "Passports",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Politician",
+    "Spy",
+    "Ambassador"
+   ]
+  },
+  {
+   "word": "Politician",
+   "hints": [
+    {
+     "text": "Government job",
+     "level": 1
+    },
+    {
+     "text": "Public figure",
+     "level": 1
+    },
+    {
+     "text": "Gives speeches",
+     "level": 2
+    },
+    {
+     "text": "Campaigns for votes",
+     "level": 2
+    },
+    {
+     "text": "Election posters",
+     "level": 3
+    },
+    {
+     "text": "Kissing babies",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Diplomat",
+    "Lawyer",
+    "Mayor"
+   ]
+  },
+  {
+   "word": "Mayor",
+   "hints": [
+    {
+     "text": "Government job",
+     "level": 1
+    },
+    {
+     "text": "City leader",
+     "level": 1
+    },
+    {
+     "text": "Cuts ribbons",
+     "level": 2
+    },
+    {
+     "text": "Runs the city",
+     "level": 2
+    },
+    {
+     "text": "Town hall",
+     "level": 3
+    },
+    {
+     "text": "Official chain",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Politician",
+    "Governor",
+    "Judge"
+   ]
+  },
+  {
+   "word": "Priest",
+   "hints": [
+    {
+     "text": "Religious job",
+     "level": 1
+    },
+    {
+     "text": "Spiritual leader",
+     "level": 1
+    },
+    {
+     "text": "Leads ceremonies",
+     "level": 2
+    },
+    {
+     "text": "Gives blessings",
+     "level": 2
+    },
+    {
+     "text": "Collar and robes",
+     "level": 3
+    },
+    {
+     "text": "Holy books",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Monk",
+    "Teacher",
+    "Counselor"
+   ]
+  },
+  {
+   "word": "Monk",
+   "hints": [
+    {
+     "text": "Religious life",
+     "level": 1
+    },
+    {
+     "text": "Spiritual devotee",
+     "level": 1
+    },
+    {
+     "text": "Lives in monastery",
+     "level": 2
+    },
+    {
+     "text": "Meditates daily",
+     "level": 2
+    },
+    {
+     "text": "Shaved head",
+     "level": 3
+    },
+    {
+     "text": "Simple robes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Priest",
+    "Nun",
+    "Hermit"
+   ]
+  },
+  {
+   "word": "Miner",
+   "hints": [
+    {
+     "text": "Underground job",
+     "level": 1
+    },
+    {
+     "text": "Dangerous work",
+     "level": 1
+    },
+    {
+     "text": "Digs for coal",
+     "level": 2
+    },
+    {
+     "text": "Works in tunnels",
+     "level": 2
+    },
+    {
+     "text": "Headlamp helmet",
+     "level": 3
+    },
+    {
+     "text": "Pickaxe",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Farmer",
+    "Builder",
+    "Driller"
+   ]
+  },
+  {
+   "word": "Welder",
+   "hints": [
+    {
+     "text": "Trade job",
+     "level": 1
+    },
+    {
+     "text": "Metal worker",
+     "level": 1
+    },
+    {
+     "text": "Joins metal",
+     "level": 2
+    },
+    {
+     "text": "Bright sparks",
+     "level": 2
+    },
+    {
+     "text": "Dark visor mask",
+     "level": 3
+    },
+    {
+     "text": "Torch",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Blacksmith",
+    "Mechanic",
+    "Plumber"
+   ]
+  },
+  {
+   "word": "Painter",
+   "hints": [
+    {
+     "text": "Trade job",
+     "level": 1
+    },
+    {
+     "text": "Decorating work",
+     "level": 1
+    },
+    {
+     "text": "Paints walls",
+     "level": 2
+    },
+    {
+     "text": "Climbs ladders",
+     "level": 2
+    },
+    {
+     "text": "Rollers and brushes",
+     "level": 3
+    },
+    {
+     "text": "Drop cloths",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Artist",
+    "Builder",
+    "Decorator"
+   ]
+  },
+  {
+   "word": "Cleaner",
+   "hints": [
+    {
+     "text": "Service job",
+     "level": 1
+    },
+    {
+     "text": "Housekeeping",
+     "level": 1
+    },
+    {
+     "text": "Tidies homes",
+     "level": 2
+    },
+    {
+     "text": "Dusts shelves",
+     "level": 2
+    },
+    {
+     "text": "Mop and bucket",
+     "level": 3
+    },
+    {
+     "text": "Rubber gloves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Janitor",
+    "Maid",
+    "Gardener"
+   ]
+  },
+  {
+   "word": "Receptionist",
+   "hints": [
+    {
+     "text": "Office job",
+     "level": 1
+    },
+    {
+     "text": "Front desk",
+     "level": 1
+    },
+    {
+     "text": "Answers phones",
+     "level": 2
+    },
+    {
+     "text": "Greets visitors",
+     "level": 2
+    },
+    {
+     "text": "Appointment book",
+     "level": 3
+    },
+    {
+     "text": "Headset",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Secretary",
+    "Cashier",
+    "Host"
+   ]
+  },
+  {
+   "word": "Secretary",
+   "hints": [
+    {
+     "text": "Office job",
+     "level": 1
+    },
+    {
+     "text": "Admin worker",
+     "level": 1
+    },
+    {
+     "text": "Schedules meetings",
+     "level": 2
+    },
+    {
+     "text": "Takes notes",
+     "level": 2
+    },
+    {
+     "text": "Typing fast",
+     "level": 3
+    },
+    {
+     "text": "Phone calls",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Receptionist",
+    "Assistant",
+    "Clerk"
+   ]
+  },
+  {
+   "word": "Manager",
+   "hints": [
+    {
+     "text": "Office job",
+     "level": 1
+    },
+    {
+     "text": "Team leader",
+     "level": 1
+    },
+    {
+     "text": "Runs meetings",
+     "level": 2
+    },
+    {
+     "text": "Sets targets",
+     "level": 2
+    },
+    {
+     "text": "Performance reviews",
+     "level": 3
+    },
+    {
+     "text": "Corner office",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Boss",
+    "Director",
+    "Supervisor"
+   ]
+  },
+  {
+   "word": "Chief executive",
+   "hints": [
+    {
+     "text": "Business job",
+     "level": 1
+    },
+    {
+     "text": "Top boss",
+     "level": 1
+    },
+    {
+     "text": "Runs the company",
+     "level": 2
+    },
+    {
+     "text": "Big decisions",
+     "level": 2
+    },
+    {
+     "text": "Boardroom",
+     "level": 3
+    },
+    {
+     "text": "Huge salary",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Manager",
+    "Founder",
+    "Chairman"
+   ]
+  },
+  {
+   "word": "Entrepreneur",
+   "hints": [
+    {
+     "text": "Business job",
+     "level": 1
+    },
+    {
+     "text": "Startup founder",
+     "level": 1
+    },
+    {
+     "text": "Takes risks",
+     "level": 2
+    },
+    {
+     "text": "Pitches investors",
+     "level": 2
+    },
+    {
+     "text": "Business plan",
+     "level": 3
+    },
+    {
+     "text": "Own company",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Manager",
+    "Investor",
+    "Inventor"
+   ]
+  },
+  {
+   "word": "Inventor",
+   "hints": [
+    {
+     "text": "Creative job",
+     "level": 1
+    },
+    {
+     "text": "Innovation profession",
+     "level": 1
+    },
+    {
+     "text": "Creates new things",
+     "level": 2
+    },
+    {
+     "text": "Files patents",
+     "level": 2
+    },
+    {
+     "text": "Workshop gadgets",
+     "level": 3
+    },
+    {
+     "text": "Prototypes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Scientist",
+    "Engineer",
+    "Entrepreneur"
+   ]
+  },
+  {
+   "word": "Archaeologist",
+   "hints": [
+    {
+     "text": "Research job",
+     "level": 1
+    },
+    {
+     "text": "History digger",
+     "level": 1
+    },
+    {
+     "text": "Digs up ruins",
+     "level": 2
+    },
+    {
+     "text": "Studies ancient things",
+     "level": 2
+    },
+    {
+     "text": "Brushes and trowels",
+     "level": 3
+    },
+    {
+     "text": "Fossils and bones",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Historian",
+    "Geologist",
+    "Explorer"
+   ]
+  },
+  {
+   "word": "Geologist",
+   "hints": [
+    {
+     "text": "Science job",
+     "level": 1
+    },
+    {
+     "text": "Earth expert",
+     "level": 1
+    },
+    {
+     "text": "Studies rocks",
+     "level": 2
+    },
+    {
+     "text": "Field trips",
+     "level": 2
+    },
+    {
+     "text": "Rock hammer",
+     "level": 3
+    },
+    {
+     "text": "Mineral samples",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Archaeologist",
+    "Scientist",
+    "Miner"
+   ]
+  },
+  {
+   "word": "Astronomer",
+   "hints": [
+    {
+     "text": "Science job",
+     "level": 1
+    },
+    {
+     "text": "Space watcher",
+     "level": 1
+    },
+    {
+     "text": "Studies stars",
+     "level": 2
+    },
+    {
+     "text": "Works at night",
+     "level": 2
+    },
+    {
+     "text": "Telescope",
+     "level": 3
+    },
+    {
+     "text": "Observatory",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Astronaut",
+    "Physicist",
+    "Scientist"
+   ]
+  },
+  {
+   "word": "Biologist",
+   "hints": [
+    {
+     "text": "Science job",
+     "level": 1
+    },
+    {
+     "text": "Life expert",
+     "level": 1
+    },
+    {
+     "text": "Studies living things",
+     "level": 2
+    },
+    {
+     "text": "Lab work",
+     "level": 2
+    },
+    {
+     "text": "Microscope",
+     "level": 3
+    },
+    {
+     "text": "Petri dishes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chemist",
+    "Doctor",
+    "Zoologist"
+   ]
+  },
+  {
+   "word": "Chemist",
+   "hints": [
+    {
+     "text": "Science job",
+     "level": 1
+    },
+    {
+     "text": "Lab expert",
+     "level": 1
+    },
+    {
+     "text": "Mixes compounds",
+     "level": 2
+    },
+    {
+     "text": "Runs reactions",
+     "level": 2
+    },
+    {
+     "text": "Beakers and flasks",
+     "level": 3
+    },
+    {
+     "text": "Safety goggles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Biologist",
+    "Pharmacist",
+    "Physicist"
+   ]
+  },
+  {
+   "word": "Pilot instructor",
+   "hints": [
+    {
+     "text": "Aviation teacher",
+     "level": 1
+    },
+    {
+     "text": "Flight trainer",
+     "level": 1
+    },
+    {
+     "text": "Teaches flying",
+     "level": 2
+    },
+    {
+     "text": "Sits beside students",
+     "level": 2
+    },
+    {
+     "text": "Training aircraft",
+     "level": 3
+    },
+    {
+     "text": "Logbooks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Coach",
+    "Professor",
+    "Examiner"
+   ]
+  },
+  {
+   "word": "Flight attendant",
+   "hints": [
+    {
+     "text": "Aviation job",
+     "level": 1
+    },
+    {
+     "text": "Cabin crew",
+     "level": 1
+    },
+    {
+     "text": "Serves snacks",
+     "level": 2
+    },
+    {
+     "text": "Safety demonstrations",
+     "level": 2
+    },
+    {
+     "text": "Trolley cart",
+     "level": 3
+    },
+    {
+     "text": "Uniform and scarf",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pilot",
+    "Waiter",
+    "Receptionist"
+   ]
+  },
+  {
+   "word": "Tour guide",
+   "hints": [
+    {
+     "text": "Travel job",
+     "level": 1
+    },
+    {
+     "text": "Sightseeing leader",
+     "level": 1
+    },
+    {
+     "text": "Leads groups",
+     "level": 2
+    },
+    {
+     "text": "Tells history",
+     "level": 2
+    },
+    {
+     "text": "Raised umbrella",
+     "level": 3
+    },
+    {
+     "text": "Microphone headset",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Teacher",
+    "Driver",
+    "Host"
+   ]
+  },
+  {
+   "word": "Travel agent",
+   "hints": [
+    {
+     "text": "Holiday planner",
+     "level": 1
+    },
+    {
+     "text": "Booking expert",
+     "level": 1
+    },
+    {
+     "text": "Plans holidays",
+     "level": 2
+    },
+    {
+     "text": "Finds deals",
+     "level": 2
+    },
+    {
+     "text": "Brochures",
+     "level": 3
+    },
+    {
+     "text": "Flight tickets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tour guide",
+    "Receptionist",
+    "Clerk"
+   ]
+  },
+  {
+   "word": "Realtor",
+   "hints": [
+    {
+     "text": "Property job",
+     "level": 1
+    },
+    {
+     "text": "Sales profession",
+     "level": 1
+    },
+    {
+     "text": "Shows houses",
+     "level": 2
+    },
+    {
+     "text": "Earns commission",
+     "level": 2
+    },
+    {
+     "text": "Open houses",
+     "level": 3
+    },
+    {
+     "text": "For sale signs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Banker",
+    "Architect",
+    "Salesman"
+   ]
+  },
+  {
+   "word": "Salesperson",
+   "hints": [
+    {
+     "text": "Retail job",
+     "level": 1
+    },
+    {
+     "text": "Persuasive worker",
+     "level": 1
+    },
+    {
+     "text": "Meets targets",
+     "level": 2
+    },
+    {
+     "text": "Pitches products",
+     "level": 2
+    },
+    {
+     "text": "Name badge",
+     "level": 3
+    },
+    {
+     "text": "Commission",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cashier",
+    "Marketer",
+    "Shopkeeper"
+   ]
+  },
+  {
+   "word": "Shopkeeper",
+   "hints": [
+    {
+     "text": "Retail job",
+     "level": 1
+    },
+    {
+     "text": "Small business",
+     "level": 1
+    },
+    {
+     "text": "Runs a store",
+     "level": 2
+    },
+    {
+     "text": "Knows customers",
+     "level": 2
+    },
+    {
+     "text": "Counter and till",
+     "level": 3
+    },
+    {
+     "text": "Open sign",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cashier",
+    "Salesperson",
+    "Merchant"
+   ]
+  },
+  {
+   "word": "Delivery rider",
+   "hints": [
+    {
+     "text": "Gig job",
+     "level": 1
+    },
+    {
+     "text": "Takeout runner",
+     "level": 1
+    },
+    {
+     "text": "Rides scooters",
+     "level": 2
+    },
+    {
+     "text": "Brings meals",
+     "level": 2
+    },
+    {
+     "text": "Insulated backpack",
+     "level": 3
+    },
+    {
+     "text": "Phone mount",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Courier",
+    "Taxi driver",
+    "Waiter"
+   ]
+  },
+  {
+   "word": "Bartender",
+   "hints": [
+    {
+     "text": "Service job",
+     "level": 1
+    },
+    {
+     "text": "Drink mixer",
+     "level": 1
+    },
+    {
+     "text": "Mixes cocktails",
+     "level": 2
+    },
+    {
+     "text": "Night shifts",
+     "level": 2
+    },
+    {
+     "text": "Shaker and glasses",
+     "level": 3
+    },
+    {
+     "text": "Behind counter",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Waiter",
+    "Barista",
+    "Chef"
+   ]
+  },
+  {
+   "word": "Barista",
+   "hints": [
+    {
+     "text": "Cafe job",
+     "level": 1
+    },
+    {
+     "text": "Coffee maker",
+     "level": 1
+    },
+    {
+     "text": "Makes lattes",
+     "level": 2
+    },
+    {
+     "text": "Early shifts",
+     "level": 2
+    },
+    {
+     "text": "Espresso machine",
+     "level": 3
+    },
+    {
+     "text": "Latte art",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bartender",
+    "Waiter",
+    "Baker"
+   ]
+  },
+  {
+   "word": "Apprentice",
+   "hints": [
+    {
+     "text": "Trainee worker",
+     "level": 1
+    },
+    {
+     "text": "Learner",
+     "level": 1
+    },
+    {
+     "text": "Carries tools",
+     "level": 2
+    },
+    {
+     "text": "Learns a trade",
+     "level": 2
+    },
+    {
+     "text": "Watches the master",
+     "level": 3
+    },
+    {
+     "text": "Low pay",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Intern",
+    "Assistant",
+    "Student"
+   ]
+  },
+  {
+   "word": "Ranger",
+   "hints": [
+    {
+     "text": "Outdoor job",
+     "level": 1
+    },
+    {
+     "text": "Park protector",
+     "level": 1
+    },
+    {
+     "text": "Guards forests",
+     "level": 2
+    },
+    {
+     "text": "Leads nature walks",
+     "level": 2
+    },
+    {
+     "text": "Wide brimmed hat",
+     "level": 3
+    },
+    {
+     "text": "Watch tower",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Zookeeper",
+    "Gardener",
+    "Guard"
+   ]
+  },
+  {
+   "word": "Shepherd",
+   "hints": [
+    {
+     "text": "Rural job",
+     "level": 1
+    },
+    {
+     "text": "Flock keeper",
+     "level": 1
+    },
+    {
+     "text": "Tends sheep",
+     "level": 2
+    },
+    {
+     "text": "Lives outdoors",
+     "level": 2
+    },
+    {
+     "text": "Crook staff",
+     "level": 3
+    },
+    {
+     "text": "Herding dogs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Farmer",
+    "Cowboy",
+    "Rancher"
+   ]
+  },
+  {
+   "word": "Cowboy",
+   "hints": [
+    {
+     "text": "Ranch job",
+     "level": 1
+    },
+    {
+     "text": "Western worker",
+     "level": 1
+    },
+    {
+     "text": "Herds cattle",
+     "level": 2
+    },
+    {
+     "text": "Rides horses",
+     "level": 2
+    },
+    {
+     "text": "Lasso",
+     "level": 3
+    },
+    {
+     "text": "Wide hat and boots",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shepherd",
+    "Rancher",
+    "Sheriff"
+   ]
+  },
+  {
+   "word": "Sheriff",
+   "hints": [
+    {
+     "text": "Law job",
+     "level": 1
+    },
+    {
+     "text": "County officer",
+     "level": 1
+    },
+    {
+     "text": "Keeps the peace",
+     "level": 2
+    },
+    {
+     "text": "Western towns",
+     "level": 2
+    },
+    {
+     "text": "Star badge",
+     "level": 3
+    },
+    {
+     "text": "Holster",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Police officer",
+    "Cowboy",
+    "Judge"
+   ]
+  },
+  {
+   "word": "Lumberjack",
+   "hints": [
+    {
+     "text": "Forest job",
+     "level": 1
+    },
+    {
+     "text": "Wood worker",
+     "level": 1
+    },
+    {
+     "text": "Fells trees",
+     "level": 2
+    },
+    {
+     "text": "Plaid shirts",
+     "level": 2
+    },
+    {
+     "text": "Axe",
+     "level": 3
+    },
+    {
+     "text": "Chainsaw",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Carpenter",
+    "Farmer",
+    "Ranger"
+   ]
+  },
+  {
+   "word": "Glassblower",
+   "hints": [
+    {
+     "text": "Craft job",
+     "level": 1
+    },
+    {
+     "text": "Artisan",
+     "level": 1
+    },
+    {
+     "text": "Shapes molten sand",
+     "level": 2
+    },
+    {
+     "text": "Blowpipe skills",
+     "level": 2
+    },
+    {
+     "text": "Glowing furnace",
+     "level": 3
+    },
+    {
+     "text": "Molten blobs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Potter",
+    "Blacksmith",
+    "Sculptor"
+   ]
+  },
+  {
+   "word": "Potter",
+   "hints": [
+    {
+     "text": "Craft job",
+     "level": 1
+    },
+    {
+     "text": "Clay artist",
+     "level": 1
+    },
+    {
+     "text": "Shapes bowls",
+     "level": 2
+    },
+    {
+     "text": "Muddy hands",
+     "level": 2
+    },
+    {
+     "text": "Spinning wheel",
+     "level": 3
+    },
+    {
+     "text": "Kiln",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sculptor",
+    "Glassblower",
+    "Painter"
+   ]
+  },
+  {
+   "word": "Sculptor",
+   "hints": [
+    {
+     "text": "Creative job",
+     "level": 1
+    },
+    {
+     "text": "Stone artist",
+     "level": 1
+    },
+    {
+     "text": "Carves statues",
+     "level": 2
+    },
+    {
+     "text": "Works with marble",
+     "level": 2
+    },
+    {
+     "text": "Chisel and mallet",
+     "level": 3
+    },
+    {
+     "text": "Clay models",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Potter",
+    "Painter",
+    "Carpenter"
+   ]
+  },
+  {
+   "word": "Jeweler",
+   "hints": [
+    {
+     "text": "Craft job",
+     "level": 1
+    },
+    {
+     "text": "Precious work",
+     "level": 1
+    },
+    {
+     "text": "Sets diamonds",
+     "level": 2
+    },
+    {
+     "text": "Repairs watches",
+     "level": 2
+    },
+    {
+     "text": "Loupe magnifier",
+     "level": 3
+    },
+    {
+     "text": "Gold rings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Goldsmith",
+    "Watchmaker",
+    "Tailor"
+   ]
+  },
+  {
+   "word": "Watchmaker",
+   "hints": [
+    {
+     "text": "Craft job",
+     "level": 1
+    },
+    {
+     "text": "Precision work",
+     "level": 1
+    },
+    {
+     "text": "Repairs clocks",
+     "level": 2
+    },
+    {
+     "text": "Tiny gears",
+     "level": 2
+    },
+    {
+     "text": "Loupe and tweezers",
+     "level": 3
+    },
+    {
+     "text": "Ticking parts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jeweler",
+    "Mechanic",
+    "Engineer"
+   ]
+  },
+  {
+   "word": "Locksmith",
+   "hints": [
+    {
+     "text": "Trade job",
+     "level": 1
+    },
+    {
+     "text": "Security worker",
+     "level": 1
+    },
+    {
+     "text": "Opens jammed doors",
+     "level": 2
+    },
+    {
+     "text": "Cuts keys",
+     "level": 2
+    },
+    {
+     "text": "Picks and tension tools",
+     "level": 3
+    },
+    {
+     "text": "Key blanks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Carpenter",
+    "Security guard",
+    "Mechanic"
+   ]
+  },
+  {
+   "word": "Disc jockey",
+   "hints": [
+    {
+     "text": "Music job",
+     "level": 1
+    },
+    {
+     "text": "Party worker",
+     "level": 1
+    },
+    {
+     "text": "Plays club sets",
+     "level": 2
+    },
+    {
+     "text": "Reads the crowd",
+     "level": 2
+    },
+    {
+     "text": "Turntables",
+     "level": 3
+    },
+    {
+     "text": "Headphones on one ear",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Musician",
+    "Singer",
+    "Producer"
+   ]
+  },
+  {
+   "word": "Composer",
+   "hints": [
+    {
+     "text": "Music job",
+     "level": 1
+    },
+    {
+     "text": "Creative profession",
+     "level": 1
+    },
+    {
+     "text": "Writes symphonies",
+     "level": 2
+    },
+    {
+     "text": "Film scores",
+     "level": 2
+    },
+    {
+     "text": "Sheet music",
+     "level": 3
+    },
+    {
+     "text": "Piano sketches",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Musician",
+    "Conductor",
+    "Songwriter"
+   ]
+  },
+  {
+   "word": "Conductor",
+   "hints": [
+    {
+     "text": "Music job",
+     "level": 1
+    },
+    {
+     "text": "Orchestra leader",
+     "level": 1
+    },
+    {
+     "text": "Leads musicians",
+     "level": 2
+    },
+    {
+     "text": "Waves arms",
+     "level": 2
+    },
+    {
+     "text": "Baton",
+     "level": 3
+    },
+    {
+     "text": "Podium",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Composer",
+    "Musician",
+    "Director"
+   ]
+  },
+  {
+   "word": "Director",
+   "hints": [
+    {
+     "text": "Film job",
+     "level": 1
+    },
+    {
+     "text": "Creative leader",
+     "level": 1
+    },
+    {
+     "text": "Calls action",
+     "level": 2
+    },
+    {
+     "text": "Leads the crew",
+     "level": 2
+    },
+    {
+     "text": "Clapperboard",
+     "level": 3
+    },
+    {
+     "text": "Megaphone",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Actor",
+    "Producer",
+    "Writer"
+   ]
+  },
+  {
+   "word": "Producer",
+   "hints": [
+    {
+     "text": "Film job",
+     "level": 1
+    },
+    {
+     "text": "Project boss",
+     "level": 1
+    },
+    {
+     "text": "Funds movies",
+     "level": 2
+    },
+    {
+     "text": "Manages budgets",
+     "level": 2
+    },
+    {
+     "text": "Schedules and contracts",
+     "level": 3
+    },
+    {
+     "text": "Big decisions",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Director",
+    "Actor",
+    "Banker"
+   ]
+  },
+  {
+   "word": "Animator",
+   "hints": [
+    {
+     "text": "Creative job",
+     "level": 1
+    },
+    {
+     "text": "Cartoon maker",
+     "level": 1
+    },
+    {
+     "text": "Draws frames",
+     "level": 2
+    },
+    {
+     "text": "Brings drawings alive",
+     "level": 2
+    },
+    {
+     "text": "Storyboards",
+     "level": 3
+    },
+    {
+     "text": "Keyframes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Illustrator",
+    "Designer",
+    "Director"
+   ]
+  },
+  {
+   "word": "Illustrator",
+   "hints": [
+    {
+     "text": "Creative job",
+     "level": 1
+    },
+    {
+     "text": "Drawing profession",
+     "level": 1
+    },
+    {
+     "text": "Draws book pictures",
+     "level": 2
+    },
+    {
+     "text": "Comic art",
+     "level": 2
+    },
+    {
+     "text": "Pens and tablets",
+     "level": 3
+    },
+    {
+     "text": "Character sketches",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Animator",
+    "Painter",
+    "Designer"
+   ]
+  },
+  {
+   "word": "Editor",
+   "hints": [
+    {
+     "text": "Media job",
+     "level": 1
+    },
+    {
+     "text": "Word fixer",
+     "level": 1
+    },
+    {
+     "text": "Checks drafts",
+     "level": 2
+    },
+    {
+     "text": "Cuts mistakes",
+     "level": 2
+    },
+    {
+     "text": "Red pen",
+     "level": 3
+    },
+    {
+     "text": "Deadlines",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Writer",
+    "Journalist",
+    "Proofreader"
+   ]
+  },
+  {
+   "word": "Reporter",
+   "hints": [
+    {
+     "text": "Media job",
+     "level": 1
+    },
+    {
+     "text": "News gatherer",
+     "level": 1
+    },
+    {
+     "text": "Covers stories",
+     "level": 2
+    },
+    {
+     "text": "On the scene",
+     "level": 2
+    },
+    {
+     "text": "Microphone",
+     "level": 3
+    },
+    {
+     "text": "Camera crew",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Journalist",
+    "Anchor",
+    "Writer"
+   ]
+  },
+  {
+   "word": "News anchor",
+   "hints": [
+    {
+     "text": "Media job",
+     "level": 1
+    },
+    {
+     "text": "Television host",
+     "level": 1
+    },
+    {
+     "text": "Reads headlines",
+     "level": 2
+    },
+    {
+     "text": "Live broadcasts",
+     "level": 2
+    },
+    {
+     "text": "Teleprompter",
+     "level": 3
+    },
+    {
+     "text": "Studio desk",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Reporter",
+    "Host",
+    "Journalist"
+   ]
+  },
+  {
+   "word": "Radio host",
+   "hints": [
+    {
+     "text": "Media job",
+     "level": 1
+    },
+    {
+     "text": "Broadcast voice",
+     "level": 1
+    },
+    {
+     "text": "Talks on air",
+     "level": 2
+    },
+    {
+     "text": "Plays music",
+     "level": 2
+    },
+    {
+     "text": "Studio microphone",
+     "level": 3
+    },
+    {
+     "text": "Call ins",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Disc jockey",
+    "Podcaster",
+    "News anchor"
+   ]
+  },
+  {
+   "word": "Podcaster",
+   "hints": [
+    {
+     "text": "Online job",
+     "level": 1
+    },
+    {
+     "text": "Audio creator",
+     "level": 1
+    },
+    {
+     "text": "Records episodes",
+     "level": 2
+    },
+    {
+     "text": "Interviews guests",
+     "level": 2
+    },
+    {
+     "text": "Microphone foam",
+     "level": 3
+    },
+    {
+     "text": "Audio editing",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Radio host",
+    "Streamer",
+    "Blogger"
+   ]
+  },
+  {
+   "word": "Blogger",
+   "hints": [
+    {
+     "text": "Online job",
+     "level": 1
+    },
+    {
+     "text": "Web writer",
+     "level": 1
+    },
+    {
+     "text": "Posts articles",
+     "level": 2
+    },
+    {
+     "text": "Builds an audience",
+     "level": 2
+    },
+    {
+     "text": "Personal website",
+     "level": 3
+    },
+    {
+     "text": "Comments section",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Influencer",
+    "Journalist",
+    "Writer"
+   ]
+  },
+  {
+   "word": "Nanny",
+   "hints": [
+    {
+     "text": "Childcare job",
+     "level": 1
+    },
+    {
+     "text": "Family helper",
+     "level": 1
+    },
+    {
+     "text": "Looks after kids",
+     "level": 2
+    },
+    {
+     "text": "Lives with family",
+     "level": 2
+    },
+    {
+     "text": "Strollers and snacks",
+     "level": 3
+    },
+    {
+     "text": "Bedtime stories",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Babysitter",
+    "Teacher",
+    "Nurse"
+   ]
+  },
+  {
+   "word": "Babysitter",
+   "hints": [
+    {
+     "text": "Childcare job",
+     "level": 1
+    },
+    {
+     "text": "Part time work",
+     "level": 1
+    },
+    {
+     "text": "Evenings with kids",
+     "level": 2
+    },
+    {
+     "text": "Teen job",
+     "level": 2
+    },
+    {
+     "text": "Bedtime routines",
+     "level": 3
+    },
+    {
+     "text": "Emergency numbers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nanny",
+    "Tutor",
+    "Teacher"
+   ]
+  },
+  {
+   "word": "Midwife",
+   "hints": [
+    {
+     "text": "Medical job",
+     "level": 1
+    },
+    {
+     "text": "Birth helper",
+     "level": 1
+    },
+    {
+     "text": "Delivers babies",
+     "level": 2
+    },
+    {
+     "text": "Supports mothers",
+     "level": 2
+    },
+    {
+     "text": "Birth plans",
+     "level": 3
+    },
+    {
+     "text": "Maternity ward",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nurse",
+    "Doctor",
+    "Doula"
+   ]
+  },
+  {
+   "word": "Optometrist",
+   "hints": [
+    {
+     "text": "Medical job",
+     "level": 1
+    },
+    {
+     "text": "Eye specialist",
+     "level": 1
+    },
+    {
+     "text": "Tests eyesight",
+     "level": 2
+    },
+    {
+     "text": "Prescribes glasses",
+     "level": 2
+    },
+    {
+     "text": "Reading chart",
+     "level": 3
+    },
+    {
+     "text": "Eye drops",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Doctor",
+    "Dentist",
+    "Optician"
+   ]
+  },
+  {
+   "word": "Physiotherapist",
+   "hints": [
+    {
+     "text": "Medical job",
+     "level": 1
+    },
+    {
+     "text": "Movement healer",
+     "level": 1
+    },
+    {
+     "text": "Treats injuries",
+     "level": 2
+    },
+    {
+     "text": "Rehab exercises",
+     "level": 2
+    },
+    {
+     "text": "Massage tables",
+     "level": 3
+    },
+    {
+     "text": "Resistance bands",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Doctor",
+    "Coach",
+    "Chiropractor"
+   ]
+  },
+  {
+   "word": "Dietitian",
+   "hints": [
+    {
+     "text": "Health job",
+     "level": 1
+    },
+    {
+     "text": "Food expert",
+     "level": 1
+    },
+    {
+     "text": "Plans meals",
+     "level": 2
+    },
+    {
+     "text": "Advises on nutrition",
+     "level": 2
+    },
+    {
+     "text": "Meal charts",
+     "level": 3
+    },
+    {
+     "text": "Calorie counts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Doctor",
+    "Trainer",
+    "Chef"
+   ]
+  },
+  {
+   "word": "Personal trainer",
+   "hints": [
+    {
+     "text": "Fitness job",
+     "level": 1
+    },
+    {
+     "text": "Gym coach",
+     "level": 1
+    },
+    {
+     "text": "Plans workouts",
+     "level": 2
+    },
+    {
+     "text": "Motivates clients",
+     "level": 2
+    },
+    {
+     "text": "Dumbbells",
+     "level": 3
+    },
+    {
+     "text": "Stopwatch",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Coach",
+    "Dietitian",
+    "Athlete"
+   ]
+  },
+  {
+   "word": "Decorator",
+   "hints": [
+    {
+     "text": "Home job",
+     "level": 1
+    },
+    {
+     "text": "Home stylist",
+     "level": 1
+    },
+    {
+     "text": "Picks furniture",
+     "level": 2
+    },
+    {
+     "text": "Chooses colors",
+     "level": 2
+    },
+    {
+     "text": "Fabric swatches",
+     "level": 3
+    },
+    {
+     "text": "Mood boards",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Architect",
+    "Florist",
+    "Painter"
+   ]
+  },
+  {
+   "word": "Fashion designer",
+   "hints": [
+    {
+     "text": "Creative job",
+     "level": 1
+    },
+    {
+     "text": "Clothing creator",
+     "level": 1
+    },
+    {
+     "text": "Runway collections",
+     "level": 2
+    },
+    {
+     "text": "Sketches outfits",
+     "level": 2
+    },
+    {
+     "text": "Mannequins",
+     "level": 3
+    },
+    {
+     "text": "Fabric rolls",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tailor",
+    "Model",
+    "Stylist"
+   ]
+  },
+  {
+   "word": "Makeup artist",
+   "hints": [
+    {
+     "text": "Beauty job",
+     "level": 1
+    },
+    {
+     "text": "Face painter",
+     "level": 1
+    },
+    {
+     "text": "Prepares actors",
+     "level": 2
+    },
+    {
+     "text": "Wedding glam",
+     "level": 2
+    },
+    {
+     "text": "Brushes and palettes",
+     "level": 3
+    },
+    {
+     "text": "Foundation",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hairdresser",
+    "Stylist",
+    "Painter"
+   ]
+  },
+  {
+   "word": "Stuntman",
+   "hints": [
+    {
+     "text": "Film job",
+     "level": 1
+    },
+    {
+     "text": "Risky performer",
+     "level": 1
+    },
+    {
+     "text": "Does dangerous scenes",
+     "level": 2
+    },
+    {
+     "text": "Falls from heights",
+     "level": 2
+    },
+    {
+     "text": "Crash pads",
+     "level": 3
+    },
+    {
+     "text": "Fire suits",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Actor",
+    "Athlete",
+    "Acrobat"
+   ]
+  },
+  {
+   "word": "Acrobat",
+   "hints": [
+    {
+     "text": "Circus job",
+     "level": 1
+    },
+    {
+     "text": "Flexible performer",
+     "level": 1
+    },
+    {
+     "text": "Flips and balances",
+     "level": 2
+    },
+    {
+     "text": "Big top shows",
+     "level": 2
+    },
+    {
+     "text": "Trapeze",
+     "level": 3
+    },
+    {
+     "text": "Tightrope",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gymnast",
+    "Clown",
+    "Juggler"
+   ]
+  },
+  {
+   "word": "Juggler",
+   "hints": [
+    {
+     "text": "Circus job",
+     "level": 1
+    },
+    {
+     "text": "Street performer",
+     "level": 1
+    },
+    {
+     "text": "Keeps things in air",
+     "level": 2
+    },
+    {
+     "text": "Busking",
+     "level": 2
+    },
+    {
+     "text": "Balls and pins",
+     "level": 3
+    },
+    {
+     "text": "Flaming torches",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Acrobat",
+    "Clown",
+    "Magician"
+   ]
+  },
+  {
+   "word": "Ringmaster",
+   "hints": [
+    {
+     "text": "Circus job",
+     "level": 1
+    },
+    {
+     "text": "Show host",
+     "level": 1
+    },
+    {
+     "text": "Introduces acts",
+     "level": 2
+    },
+    {
+     "text": "Commands the stage",
+     "level": 2
+    },
+    {
+     "text": "Top hat and whip",
+     "level": 3
+    },
+    {
+     "text": "Red tailcoat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Clown",
+    "Magician",
+    "Acrobat"
+   ]
+  },
+  {
+   "word": "Astrologer",
+   "hints": [
+    {
+     "text": "Fortune job",
+     "level": 1
+    },
+    {
+     "text": "Star reader",
+     "level": 1
+    },
+    {
+     "text": "Reads horoscopes",
+     "level": 2
+    },
+    {
+     "text": "Predicts futures",
+     "level": 2
+    },
+    {
+     "text": "Zodiac charts",
+     "level": 3
+    },
+    {
+     "text": "Birth dates",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Astronomer",
+    "Psychic",
+    "Priest"
+   ]
+  },
+  {
+   "word": "Mason",
+   "hints": [
+    {
+     "text": "Construction job",
+     "level": 1
+    },
+    {
+     "text": "Stone worker",
+     "level": 1
+    },
+    {
+     "text": "Builds walls",
+     "level": 2
+    },
+    {
+     "text": "Lays foundations",
+     "level": 2
+    },
+    {
+     "text": "Trowel and mortar",
+     "level": 3
+    },
+    {
+     "text": "Cut stone blocks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Carpenter",
+    "Builder",
+    "Sculptor"
+   ]
+  },
+  {
+   "word": "Auditor",
+   "hints": [
+    {
+     "text": "Finance job",
+     "level": 1
+    },
+    {
+     "text": "Inspector",
+     "level": 1
+    },
+    {
+     "text": "Checks the books",
+     "level": 2
+    },
+    {
+     "text": "Feared by companies",
+     "level": 2
+    },
+    {
+     "text": "Spreadsheets and receipts",
+     "level": 3
+    },
+    {
+     "text": "Compliance reports",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Accountant",
+    "Banker",
+    "Inspector"
+   ]
+  },
+  {
+   "word": "Umpire",
+   "hints": [
+    {
+     "text": "Sports job",
+     "level": 1
+    },
+    {
+     "text": "Match official",
+     "level": 1
+    },
+    {
+     "text": "Makes close calls",
+     "level": 2
+    },
+    {
+     "text": "Raises finger",
+     "level": 2
+    },
+    {
+     "text": "Stands behind stumps",
+     "level": 3
+    },
+    {
+     "text": "Wide brimmed hat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Referee",
+    "Judge",
+    "Coach"
+   ]
+  },
+  {
+   "word": "Usher",
+   "hints": [
+    {
+     "text": "Venue job",
+     "level": 1
+    },
+    {
+     "text": "Seating guide",
+     "level": 1
+    },
+    {
+     "text": "Shows you to seats",
+     "level": 2
+    },
+    {
+     "text": "Theater worker",
+     "level": 2
+    },
+    {
+     "text": "Flashlight in aisle",
+     "level": 3
+    },
+    {
+     "text": "Ticket checks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Waiter",
+    "Host",
+    "Guard"
+   ]
+  },
+  {
+   "word": "Hacker",
+   "hints": [
+    {
+     "text": "Tech role",
+     "level": 1
+    },
+    {
+     "text": "Code breaker",
+     "level": 1
+    },
+    {
+     "text": "Finds security holes",
+     "level": 2
+    },
+    {
+     "text": "Hoodie stereotype",
+     "level": 2
+    },
+    {
+     "text": "Green terminal text",
+     "level": 3
+    },
+    {
+     "text": "Late nights",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Programmer",
+    "Spy",
+    "Engineer"
+   ]
+  },
+  {
+   "word": "Gamer",
+   "hints": [
+    {
+     "text": "Hobby role",
+     "level": 1
+    },
+    {
+     "text": "Pro player",
+     "level": 1
+    },
+    {
+     "text": "Plays tournaments",
+     "level": 2
+    },
+    {
+     "text": "Streams online",
+     "level": 2
+    },
+    {
+     "text": "Headset and controller",
+     "level": 3
+    },
+    {
+     "text": "Fast reflexes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Streamer",
+    "Athlete",
+    "Programmer"
+   ]
+  },
+  {
+   "word": "Optician",
+   "hints": [
+    {
+     "text": "Eyewear job",
+     "level": 1
+    },
+    {
+     "text": "Shop specialist",
+     "level": 1
+    },
+    {
+     "text": "Fits glasses",
+     "level": 2
+    },
+    {
+     "text": "Adjusts frames",
+     "level": 2
+    },
+    {
+     "text": "Lens displays",
+     "level": 3
+    },
+    {
+     "text": "Tiny screwdrivers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Optometrist",
+    "Jeweler",
+    "Pharmacist"
+   ]
+  },
+  {
+   "word": "Dispatcher",
+   "hints": [
+    {
+     "text": "Coordination job",
+     "level": 1
+    },
+    {
+     "text": "Radio worker",
+     "level": 1
+    },
+    {
+     "text": "Sends out crews",
+     "level": 2
+    },
+    {
+     "text": "High stress",
+     "level": 2
+    },
+    {
+     "text": "Headset and maps",
+     "level": 3
+    },
+    {
+     "text": "Emergency calls",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Operator",
+    "Receptionist",
+    "Controller"
+   ]
+  }
+ ]
+}

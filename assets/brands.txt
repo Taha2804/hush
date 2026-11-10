@@ -1,0 +1,60 @@
+# Brand names are not allowed in hints. Ambiguous common words (apple,
+# amazon, shell, jaguar, puma...) are intentionally NOT listed.
+coca cola
+coke
+pepsi
+fanta
+red bull
+starbucks
+mcdonalds
+mcdonald
+kfc
+burger king
+subway sandwich
+dominos
+nestle
+nutella
+oreo
+lego
+barbie
+disney
+pixar
+marvel
+netflix
+youtube
+google
+microsoft
+iphone
+ipad
+samsung
+sony
+playstation
+xbox
+nintendo
+facebook
+instagram
+whatsapp
+tiktok
+twitter
+snapchat
+nike
+adidas
+reebok
+gucci
+prada
+rolex
+toyota
+honda
+ferrari
+tesla
+bmw
+mercedes
+audi
+ikea
+walmart
+tupperware
+velcro
+kleenex
+frisbee
+jacuzzi
+photoshop

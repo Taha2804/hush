@@ -1,0 +1,5208 @@
+{
+ "id": "technology",
+ "name": "Technology",
+ "words": [
+  {
+   "word": "Computer",
+   "hints": [
+    {
+     "text": "Electronic device",
+     "level": 1
+    },
+    {
+     "text": "Work machine",
+     "level": 1
+    },
+    {
+     "text": "Used in offices",
+     "level": 2
+    },
+    {
+     "text": "Runs programs",
+     "level": 2
+    },
+    {
+     "text": "Keyboard and mouse",
+     "level": 3
+    },
+    {
+     "text": "Monitor screen",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Laptop",
+    "Tablet",
+    "Phone"
+   ]
+  },
+  {
+   "word": "Laptop",
+   "hints": [
+    {
+     "text": "Portable computer",
+     "level": 1
+    },
+    {
+     "text": "Electronic device",
+     "level": 1
+    },
+    {
+     "text": "Work on the go",
+     "level": 2
+    },
+    {
+     "text": "Cafe workers",
+     "level": 2
+    },
+    {
+     "text": "Folding screen",
+     "level": 3
+    },
+    {
+     "text": "Built in keyboard",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tablet",
+    "Desktop",
+    "Phone"
+   ]
+  },
+  {
+   "word": "Smartphone",
+   "hints": [
+    {
+     "text": "Mobile device",
+     "level": 1
+    },
+    {
+     "text": "Pocket gadget",
+     "level": 1
+    },
+    {
+     "text": "Always in hand",
+     "level": 2
+    },
+    {
+     "text": "Social apps",
+     "level": 2
+    },
+    {
+     "text": "Touchscreen",
+     "level": 3
+    },
+    {
+     "text": "Camera on back",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tablet",
+    "Laptop",
+    "Smartwatch"
+   ]
+  },
+  {
+   "word": "Tablet",
+   "hints": [
+    {
+     "text": "Portable device",
+     "level": 1
+    },
+    {
+     "text": "Touchscreen gadget",
+     "level": 1
+    },
+    {
+     "text": "Kids watch cartoons",
+     "level": 2
+    },
+    {
+     "text": "Reading ebooks",
+     "level": 2
+    },
+    {
+     "text": "Flat glass slab",
+     "level": 3
+    },
+    {
+     "text": "No keyboard",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Laptop",
+    "Phone",
+    "Kindle"
+   ]
+  },
+  {
+   "word": "Smartwatch",
+   "hints": [
+    {
+     "text": "Wearable gadget",
+     "level": 1
+    },
+    {
+     "text": "Wrist device",
+     "level": 1
+    },
+    {
+     "text": "Counts steps",
+     "level": 2
+    },
+    {
+     "text": "Shows messages",
+     "level": 2
+    },
+    {
+     "text": "Tiny screen",
+     "level": 3
+    },
+    {
+     "text": "Strap on wrist",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fitness band",
+    "Phone",
+    "Pager"
+   ]
+  },
+  {
+   "word": "Headphones",
+   "hints": [
+    {
+     "text": "Audio device",
+     "level": 1
+    },
+    {
+     "text": "Listening gear",
+     "level": 1
+    },
+    {
+     "text": "Music on commutes",
+     "level": 2
+    },
+    {
+     "text": "Gaming sessions",
+     "level": 2
+    },
+    {
+     "text": "Over the ears",
+     "level": 3
+    },
+    {
+     "text": "Padded cushions",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Earbuds",
+    "Speaker",
+    "Microphone"
+   ]
+  },
+  {
+   "word": "Earbuds",
+   "hints": [
+    {
+     "text": "Audio device",
+     "level": 1
+    },
+    {
+     "text": "Tiny speakers",
+     "level": 1
+    },
+    {
+     "text": "Wireless listening",
+     "level": 2
+    },
+    {
+     "text": "Lost easily",
+     "level": 2
+    },
+    {
+     "text": "Fit in ears",
+     "level": 3
+    },
+    {
+     "text": "Charging case",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Headphones",
+    "Speaker",
+    "Hearing aid"
+   ]
+  },
+  {
+   "word": "Speaker",
+   "hints": [
+    {
+     "text": "Audio device",
+     "level": 1
+    },
+    {
+     "text": "Sound system",
+     "level": 1
+    },
+    {
+     "text": "Party music",
+     "level": 2
+    },
+    {
+     "text": "Bluetooth pairing",
+     "level": 2
+    },
+    {
+     "text": "Booming bass",
+     "level": 3
+    },
+    {
+     "text": "Cone driver",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Headphones",
+    "Microphone",
+    "Amplifier"
+   ]
+  },
+  {
+   "word": "Microphone",
+   "hints": [
+    {
+     "text": "Audio device",
+     "level": 1
+    },
+    {
+     "text": "Recording tool",
+     "level": 1
+    },
+    {
+     "text": "Karaoke nights",
+     "level": 2
+    },
+    {
+     "text": "Podcasts",
+     "level": 2
+    },
+    {
+     "text": "Mesh head",
+     "level": 3
+    },
+    {
+     "text": "Tap to test",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Speaker",
+    "Headphones",
+    "Megaphone"
+   ]
+  },
+  {
+   "word": "Keyboard",
+   "hints": [
+    {
+     "text": "Input device",
+     "level": 1
+    },
+    {
+     "text": "Typing tool",
+     "level": 1
+    },
+    {
+     "text": "Office work",
+     "level": 2
+    },
+    {
+     "text": "Gamers love clicky ones",
+     "level": 2
+    },
+    {
+     "text": "Rows of keys",
+     "level": 3
+    },
+    {
+     "text": "Space bar",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mouse",
+    "Touchpad",
+    "Piano"
+   ]
+  },
+  {
+   "word": "Mouse",
+   "hints": [
+    {
+     "text": "Input device",
+     "level": 1
+    },
+    {
+     "text": "Pointing tool",
+     "level": 1
+    },
+    {
+     "text": "Click and scroll",
+     "level": 2
+    },
+    {
+     "text": "Desk companion",
+     "level": 2
+    },
+    {
+     "text": "Two buttons",
+     "level": 3
+    },
+    {
+     "text": "Scroll wheel",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Keyboard",
+    "Touchpad",
+    "Joystick"
+   ]
+  },
+  {
+   "word": "Monitor",
+   "hints": [
+    {
+     "text": "Display device",
+     "level": 1
+    },
+    {
+     "text": "Computer screen",
+     "level": 1
+    },
+    {
+     "text": "Desk setup",
+     "level": 2
+    },
+    {
+     "text": "Dual setups",
+     "level": 2
+    },
+    {
+     "text": "Flat panel",
+     "level": 3
+    },
+    {
+     "text": "Stand underneath",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Television",
+    "Projector",
+    "Tablet"
+   ]
+  },
+  {
+   "word": "Printer",
+   "hints": [
+    {
+     "text": "Office device",
+     "level": 1
+    },
+    {
+     "text": "Paper machine",
+     "level": 1
+    },
+    {
+     "text": "Prints documents",
+     "level": 2
+    },
+    {
+     "text": "Always jams",
+     "level": 2
+    },
+    {
+     "text": "Ink cartridges",
+     "level": 3
+    },
+    {
+     "text": "Paper tray",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Scanner",
+    "Copier",
+    "Fax"
+   ]
+  },
+  {
+   "word": "Scanner",
+   "hints": [
+    {
+     "text": "Office device",
+     "level": 1
+    },
+    {
+     "text": "Digitizer",
+     "level": 1
+    },
+    {
+     "text": "Copies documents",
+     "level": 2
+    },
+    {
+     "text": "Flatbed glass",
+     "level": 2
+    },
+    {
+     "text": "Light bar",
+     "level": 3
+    },
+    {
+     "text": "Lid on top",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Printer",
+    "Copier",
+    "Camera"
+   ]
+  },
+  {
+   "word": "Router",
+   "hints": [
+    {
+     "text": "Network device",
+     "level": 1
+    },
+    {
+     "text": "Internet box",
+     "level": 1
+    },
+    {
+     "text": "Home wifi",
+     "level": 2
+    },
+    {
+     "text": "Blinking lights",
+     "level": 2
+    },
+    {
+     "text": "Antennas",
+     "level": 3
+    },
+    {
+     "text": "Ethernet ports",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Modem",
+    "Switch",
+    "Hub"
+   ]
+  },
+  {
+   "word": "Modem",
+   "hints": [
+    {
+     "text": "Network device",
+     "level": 1
+    },
+    {
+     "text": "Internet gateway",
+     "level": 1
+    },
+    {
+     "text": "Connects to provider",
+     "level": 2
+    },
+    {
+     "text": "Dial up history",
+     "level": 2
+    },
+    {
+     "text": "Blinking lights",
+     "level": 3
+    },
+    {
+     "text": "Phone line",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Router",
+    "Switch",
+    "Server"
+   ]
+  },
+  {
+   "word": "Charger",
+   "hints": [
+    {
+     "text": "Power accessory",
+     "level": 1
+    },
+    {
+     "text": "Cable plug",
+     "level": 1
+    },
+    {
+     "text": "Plug in at night",
+     "level": 2
+    },
+    {
+     "text": "Phone dies",
+     "level": 2
+    },
+    {
+     "text": "Cable and adapter",
+     "level": 3
+    },
+    {
+     "text": "Wall socket",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Battery",
+    "Power bank",
+    "Cable"
+   ]
+  },
+  {
+   "word": "Power bank",
+   "hints": [
+    {
+     "text": "Portable battery",
+     "level": 1
+    },
+    {
+     "text": "Charging gadget",
+     "level": 1
+    },
+    {
+     "text": "Travel essential",
+     "level": 2
+    },
+    {
+     "text": "Saves dead phones",
+     "level": 2
+    },
+    {
+     "text": "Pocket sized brick",
+     "level": 3
+    },
+    {
+     "text": "Charging ports",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Charger",
+    "Battery",
+    "Cable"
+   ]
+  },
+  {
+   "word": "Usb drive",
+   "hints": [
+    {
+     "text": "Storage device",
+     "level": 1
+    },
+    {
+     "text": "Portable memory",
+     "level": 1
+    },
+    {
+     "text": "Transfers files",
+     "level": 2
+    },
+    {
+     "text": "Lost in pockets",
+     "level": 2
+    },
+    {
+     "text": "Small stick",
+     "level": 3
+    },
+    {
+     "text": "Plug in port",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hard drive",
+    "Memory card",
+    "Cloud storage"
+   ]
+  },
+  {
+   "word": "Hard drive",
+   "hints": [
+    {
+     "text": "Storage device",
+     "level": 1
+    },
+    {
+     "text": "Data keeper",
+     "level": 1
+    },
+    {
+     "text": "Backups",
+     "level": 2
+    },
+    {
+     "text": "Spinning platters",
+     "level": 2
+    },
+    {
+     "text": "Gigabytes or terabytes",
+     "level": 3
+    },
+    {
+     "text": "Whirring sound",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Usb drive",
+    "Cloud storage",
+    "Memory card"
+   ]
+  },
+  {
+   "word": "Memory card",
+   "hints": [
+    {
+     "text": "Storage device",
+     "level": 1
+    },
+    {
+     "text": "Tiny chip",
+     "level": 1
+    },
+    {
+     "text": "Camera photos",
+     "level": 2
+    },
+    {
+     "text": "Slots into phones",
+     "level": 2
+    },
+    {
+     "text": "Thumbnail sized",
+     "level": 3
+    },
+    {
+     "text": "Gigabytes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Usb drive",
+    "Hard drive",
+    "Sim card"
+   ]
+  },
+  {
+   "word": "Sim card",
+   "hints": [
+    {
+     "text": "Phone chip",
+     "level": 1
+    },
+    {
+     "text": "Network chip",
+     "level": 1
+    },
+    {
+     "text": "Swapped abroad",
+     "level": 2
+    },
+    {
+     "text": "Carrier plan",
+     "level": 2
+    },
+    {
+     "text": "Tiny gold contacts",
+     "level": 3
+    },
+    {
+     "text": "Ejector pin",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Memory card",
+    "Battery",
+    "Chip"
+   ]
+  },
+  {
+   "word": "Camera",
+   "hints": [
+    {
+     "text": "Photo device",
+     "level": 1
+    },
+    {
+     "text": "Imaging gadget",
+     "level": 1
+    },
+    {
+     "text": "Holiday snaps",
+     "level": 2
+    },
+    {
+     "text": "Wedding photos",
+     "level": 2
+    },
+    {
+     "text": "Lens and shutter",
+     "level": 3
+    },
+    {
+     "text": "Flash",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Phone",
+    "Camcorder",
+    "Webcam"
+   ]
+  },
+  {
+   "word": "Webcam",
+   "hints": [
+    {
+     "text": "Video device",
+     "level": 1
+    },
+    {
+     "text": "Computer camera",
+     "level": 1
+    },
+    {
+     "text": "Video calls",
+     "level": 2
+    },
+    {
+     "text": "Streaming",
+     "level": 2
+    },
+    {
+     "text": "Clips on monitor",
+     "level": 3
+    },
+    {
+     "text": "Tiny lens",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Camera",
+    "Microphone",
+    "Phone"
+   ]
+  },
+  {
+   "word": "Drone",
+   "hints": [
+    {
+     "text": "Flying gadget",
+     "level": 1
+    },
+    {
+     "text": "Unmanned aircraft",
+     "level": 1
+    },
+    {
+     "text": "Aerial videos",
+     "level": 2
+    },
+    {
+     "text": "Remote pilots",
+     "level": 2
+    },
+    {
+     "text": "Four propellers",
+     "level": 3
+    },
+    {
+     "text": "Camera underneath",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Helicopter",
+    "Kite",
+    "Remote car"
+   ]
+  },
+  {
+   "word": "Robot",
+   "hints": [
+    {
+     "text": "Machine",
+     "level": 1
+    },
+    {
+     "text": "Automaton",
+     "level": 1
+    },
+    {
+     "text": "Factory work",
+     "level": 2
+    },
+    {
+     "text": "Sci fi movies",
+     "level": 2
+    },
+    {
+     "text": "Metal arms",
+     "level": 3
+    },
+    {
+     "text": "Beeping sounds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Android",
+    "Drone",
+    "Computer"
+   ]
+  },
+  {
+   "word": "Television",
+   "hints": [
+    {
+     "text": "Display device",
+     "level": 1
+    },
+    {
+     "text": "Living room screen",
+     "level": 1
+    },
+    {
+     "text": "Watch shows",
+     "level": 2
+    },
+    {
+     "text": "Streaming nights",
+     "level": 2
+    },
+    {
+     "text": "Remote control",
+     "level": 3
+    },
+    {
+     "text": "Big flat panel",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Monitor",
+    "Projector",
+    "Radio"
+   ]
+  },
+  {
+   "word": "Projector",
+   "hints": [
+    {
+     "text": "Display device",
+     "level": 1
+    },
+    {
+     "text": "Beam machine",
+     "level": 1
+    },
+    {
+     "text": "Classroom slides",
+     "level": 2
+    },
+    {
+     "text": "Movie nights",
+     "level": 2
+    },
+    {
+     "text": "Throws image on wall",
+     "level": 3
+    },
+    {
+     "text": "Bright lamp",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Television",
+    "Monitor",
+    "Screen"
+   ]
+  },
+  {
+   "word": "Game console",
+   "hints": [
+    {
+     "text": "Gaming device",
+     "level": 1
+    },
+    {
+     "text": "Entertainment box",
+     "level": 1
+    },
+    {
+     "text": "Multiplayer nights",
+     "level": 2
+    },
+    {
+     "text": "Exclusive titles",
+     "level": 2
+    },
+    {
+     "text": "Controllers",
+     "level": 3
+    },
+    {
+     "text": "Plugs into tv",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Computer",
+    "Handheld",
+    "Arcade"
+   ]
+  },
+  {
+   "word": "Joystick",
+   "hints": [
+    {
+     "text": "Game controller",
+     "level": 1
+    },
+    {
+     "text": "Input lever",
+     "level": 1
+    },
+    {
+     "text": "Flight games",
+     "level": 2
+    },
+    {
+     "text": "Arcade machines",
+     "level": 2
+    },
+    {
+     "text": "Tilting lever",
+     "level": 3
+    },
+    {
+     "text": "Trigger button",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gamepad",
+    "Mouse",
+    "Keyboard"
+   ]
+  },
+  {
+   "word": "Virtual reality",
+   "hints": [
+    {
+     "text": "Immersive tech",
+     "level": 1
+    },
+    {
+     "text": "Simulated world",
+     "level": 1
+    },
+    {
+     "text": "Gaming headsets",
+     "level": 2
+    },
+    {
+     "text": "Training simulations",
+     "level": 2
+    },
+    {
+     "text": "Goggles on face",
+     "level": 3
+    },
+    {
+     "text": "Hand controllers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Simulator",
+    "Hologram",
+    "Metaverse"
+   ]
+  },
+  {
+   "word": "Hologram",
+   "hints": [
+    {
+     "text": "Light projection",
+     "level": 1
+    },
+    {
+     "text": "Futuristic display",
+     "level": 1
+    },
+    {
+     "text": "Sci fi messages",
+     "level": 2
+    },
+    {
+     "text": "Concert tricks",
+     "level": 2
+    },
+    {
+     "text": "Three dimensional image",
+     "level": 3
+    },
+    {
+     "text": "Floating light",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Projector",
+    "Virtual reality",
+    "Laser"
+   ]
+  },
+  {
+   "word": "Laser",
+   "hints": [
+    {
+     "text": "Light beam",
+     "level": 1
+    },
+    {
+     "text": "Focused light",
+     "level": 1
+    },
+    {
+     "text": "Cat chases dot",
+     "level": 2
+    },
+    {
+     "text": "Barcode scanners",
+     "level": 2
+    },
+    {
+     "text": "Red dot",
+     "level": 3
+    },
+    {
+     "text": "Narrow beam",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Flashlight",
+    "Hologram",
+    "Spotlight"
+   ]
+  },
+  {
+   "word": "Satellite",
+   "hints": [
+    {
+     "text": "Orbiting device",
+     "level": 1
+    },
+    {
+     "text": "Space machine",
+     "level": 1
+    },
+    {
+     "text": "Weather images",
+     "level": 2
+    },
+    {
+     "text": "Phone signals",
+     "level": 2
+    },
+    {
+     "text": "Solar panels",
+     "level": 3
+    },
+    {
+     "text": "Dish antenna",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rocket",
+    "Drone",
+    "Radar"
+   ]
+  },
+  {
+   "word": "Gps",
+   "hints": [
+    {
+     "text": "Navigation system",
+     "level": 1
+    },
+    {
+     "text": "Location service",
+     "level": 1
+    },
+    {
+     "text": "Map directions",
+     "level": 2
+    },
+    {
+     "text": "Recalculating route",
+     "level": 2
+    },
+    {
+     "text": "Satellite signals",
+     "level": 3
+    },
+    {
+     "text": "Coordinates",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Compass",
+    "Map",
+    "Radar"
+   ]
+  },
+  {
+   "word": "Radar",
+   "hints": [
+    {
+     "text": "Detection system",
+     "level": 1
+    },
+    {
+     "text": "Radio tech",
+     "level": 1
+    },
+    {
+     "text": "Weather tracking",
+     "level": 2
+    },
+    {
+     "text": "Speed traps",
+     "level": 2
+    },
+    {
+     "text": "Rotating dish",
+     "level": 3
+    },
+    {
+     "text": "Blips on screen",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sonar",
+    "Gps",
+    "Satellite"
+   ]
+  },
+  {
+   "word": "Wifi",
+   "hints": [
+    {
+     "text": "Wireless network",
+     "level": 1
+    },
+    {
+     "text": "Internet signal",
+     "level": 1
+    },
+    {
+     "text": "Password asked",
+     "level": 2
+    },
+    {
+     "text": "Cafe freebie",
+     "level": 2
+    },
+    {
+     "text": "Signal bars",
+     "level": 3
+    },
+    {
+     "text": "Router broadcasts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bluetooth",
+    "Ethernet",
+    "Cellular"
+   ]
+  },
+  {
+   "word": "Bluetooth",
+   "hints": [
+    {
+     "text": "Wireless tech",
+     "level": 1
+    },
+    {
+     "text": "Short range link",
+     "level": 1
+    },
+    {
+     "text": "Pairs headphones",
+     "level": 2
+    },
+    {
+     "text": "Car audio",
+     "level": 2
+    },
+    {
+     "text": "Rune logo",
+     "level": 3
+    },
+    {
+     "text": "Pairing mode",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wifi",
+    "Infrared",
+    "Nfc"
+   ]
+  },
+  {
+   "word": "Internet",
+   "hints": [
+    {
+     "text": "Global network",
+     "level": 1
+    },
+    {
+     "text": "Information web",
+     "level": 1
+    },
+    {
+     "text": "Browsing websites",
+     "level": 2
+    },
+    {
+     "text": "Always online",
+     "level": 2
+    },
+    {
+     "text": "Servers and cables",
+     "level": 3
+    },
+    {
+     "text": "World wide web",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Intranet",
+    "Library",
+    "Television"
+   ]
+  },
+  {
+   "word": "Website",
+   "hints": [
+    {
+     "text": "Online page",
+     "level": 1
+    },
+    {
+     "text": "Web address",
+     "level": 1
+    },
+    {
+     "text": "Bookmarked",
+     "level": 2
+    },
+    {
+     "text": "Visited daily",
+     "level": 2
+    },
+    {
+     "text": "Homepage",
+     "level": 3
+    },
+    {
+     "text": "Links and menus",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "App",
+    "Blog",
+    "Email"
+   ]
+  },
+  {
+   "word": "App",
+   "hints": [
+    {
+     "text": "Software program",
+     "level": 1
+    },
+    {
+     "text": "Phone tool",
+     "level": 1
+    },
+    {
+     "text": "Download from store",
+     "level": 2
+    },
+    {
+     "text": "Notifications",
+     "level": 2
+    },
+    {
+     "text": "Icon on home screen",
+     "level": 3
+    },
+    {
+     "text": "Updates",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Website",
+    "Game",
+    "Widget"
+   ]
+  },
+  {
+   "word": "Email",
+   "hints": [
+    {
+     "text": "Digital message",
+     "level": 1
+    },
+    {
+     "text": "Online note",
+     "level": 1
+    },
+    {
+     "text": "Inbox full",
+     "level": 2
+    },
+    {
+     "text": "Spam folder",
+     "level": 2
+    },
+    {
+     "text": "At symbol address",
+     "level": 3
+    },
+    {
+     "text": "Attachments",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Text message",
+    "Letter",
+    "Fax"
+   ]
+  },
+  {
+   "word": "Password",
+   "hints": [
+    {
+     "text": "Security code",
+     "level": 1
+    },
+    {
+     "text": "Secret phrase",
+     "level": 1
+    },
+    {
+     "text": "Forgotten often",
+     "level": 2
+    },
+    {
+     "text": "Keep it strong",
+     "level": 2
+    },
+    {
+     "text": "Asterisks on screen",
+     "level": 3
+    },
+    {
+     "text": "Special characters",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pin",
+    "Username",
+    "Fingerprint"
+   ]
+  },
+  {
+   "word": "Emoji",
+   "hints": [
+    {
+     "text": "Digital icon",
+     "level": 1
+    },
+    {
+     "text": "Tiny picture",
+     "level": 1
+    },
+    {
+     "text": "Texting fun",
+     "level": 2
+    },
+    {
+     "text": "Expresses feelings",
+     "level": 2
+    },
+    {
+     "text": "Smiley faces",
+     "level": 3
+    },
+    {
+     "text": "Yellow circles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sticker",
+    "Gif",
+    "Meme"
+   ]
+  },
+  {
+   "word": "Meme",
+   "hints": [
+    {
+     "text": "Internet joke",
+     "level": 1
+    },
+    {
+     "text": "Viral image",
+     "level": 1
+    },
+    {
+     "text": "Shared in group chats",
+     "level": 2
+    },
+    {
+     "text": "Funny captions",
+     "level": 2
+    },
+    {
+     "text": "Image with text",
+     "level": 3
+    },
+    {
+     "text": "Spreads fast",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Emoji",
+    "Gif",
+    "Cartoon"
+   ]
+  },
+  {
+   "word": "Video call",
+   "hints": [
+    {
+     "text": "Online meeting",
+     "level": 1
+    },
+    {
+     "text": "Face chat",
+     "level": 1
+    },
+    {
+     "text": "Remote work",
+     "level": 2
+    },
+    {
+     "text": "Family far away",
+     "level": 2
+    },
+    {
+     "text": "Webcam and mic",
+     "level": 3
+    },
+    {
+     "text": "You are on mute",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Phone call",
+    "Text message",
+    "Email"
+   ]
+  },
+  {
+   "word": "Social media",
+   "hints": [
+    {
+     "text": "Online platform",
+     "level": 1
+    },
+    {
+     "text": "Sharing network",
+     "level": 1
+    },
+    {
+     "text": "Likes and followers",
+     "level": 2
+    },
+    {
+     "text": "Endless scrolling",
+     "level": 2
+    },
+    {
+     "text": "Profile pictures",
+     "level": 3
+    },
+    {
+     "text": "News feed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Blog",
+    "Forum",
+    "Email"
+   ]
+  },
+  {
+   "word": "Search engine",
+   "hints": [
+    {
+     "text": "Web tool",
+     "level": 1
+    },
+    {
+     "text": "Finder",
+     "level": 1
+    },
+    {
+     "text": "Type a question",
+     "level": 2
+    },
+    {
+     "text": "Billions of pages",
+     "level": 2
+    },
+    {
+     "text": "Query box",
+     "level": 3
+    },
+    {
+     "text": "Ranked results",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Browser",
+    "Encyclopedia",
+    "Directory"
+   ]
+  },
+  {
+   "word": "Browser",
+   "hints": [
+    {
+     "text": "Software",
+     "level": 1
+    },
+    {
+     "text": "Web viewer",
+     "level": 1
+    },
+    {
+     "text": "Opens websites",
+     "level": 2
+    },
+    {
+     "text": "Many tabs",
+     "level": 2
+    },
+    {
+     "text": "Address bar",
+     "level": 3
+    },
+    {
+     "text": "Back button",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Search engine",
+    "App",
+    "Email"
+   ]
+  },
+  {
+   "word": "Cloud storage",
+   "hints": [
+    {
+     "text": "Online backup",
+     "level": 1
+    },
+    {
+     "text": "Remote files",
+     "level": 1
+    },
+    {
+     "text": "Backups anywhere",
+     "level": 2
+    },
+    {
+     "text": "Sync devices",
+     "level": 2
+    },
+    {
+     "text": "Upload and download",
+     "level": 3
+    },
+    {
+     "text": "Servers far away",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hard drive",
+    "Usb drive",
+    "Memory card"
+   ]
+  },
+  {
+   "word": "Server",
+   "hints": [
+    {
+     "text": "Network computer",
+     "level": 1
+    },
+    {
+     "text": "Data center machine",
+     "level": 1
+    },
+    {
+     "text": "Hosts websites",
+     "level": 2
+    },
+    {
+     "text": "Runs nonstop",
+     "level": 2
+    },
+    {
+     "text": "Racks of blades",
+     "level": 3
+    },
+    {
+     "text": "Humming fans",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Computer",
+    "Router",
+    "Mainframe"
+   ]
+  },
+  {
+   "word": "Algorithm",
+   "hints": [
+    {
+     "text": "Step procedure",
+     "level": 1
+    },
+    {
+     "text": "Computer logic",
+     "level": 1
+    },
+    {
+     "text": "Recommends videos",
+     "level": 2
+    },
+    {
+     "text": "Sorts data",
+     "level": 2
+    },
+    {
+     "text": "Instructions in order",
+     "level": 3
+    },
+    {
+     "text": "Flowchart",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Program",
+    "Formula",
+    "Recipe"
+   ]
+  },
+  {
+   "word": "Coding",
+   "hints": [
+    {
+     "text": "Programming",
+     "level": 1
+    },
+    {
+     "text": "Software writing",
+     "level": 1
+    },
+    {
+     "text": "Builds apps",
+     "level": 2
+    },
+    {
+     "text": "Debugging nights",
+     "level": 2
+    },
+    {
+     "text": "Lines of syntax",
+     "level": 3
+    },
+    {
+     "text": "Curly brackets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hacking",
+    "Typing",
+    "Designing"
+   ]
+  },
+  {
+   "word": "Machine learning",
+   "hints": [
+    {
+     "text": "Smart software",
+     "level": 1
+    },
+    {
+     "text": "Trained models",
+     "level": 1
+    },
+    {
+     "text": "Chatbots",
+     "level": 2
+    },
+    {
+     "text": "Self driving cars",
+     "level": 2
+    },
+    {
+     "text": "Neural networks",
+     "level": 3
+    },
+    {
+     "text": "Trained on data",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Robot",
+    "Algorithm",
+    "Computer"
+   ]
+  },
+  {
+   "word": "Chatbot",
+   "hints": [
+    {
+     "text": "Conversational software",
+     "level": 1
+    },
+    {
+     "text": "Virtual assistant",
+     "level": 1
+    },
+    {
+     "text": "Customer support",
+     "level": 2
+    },
+    {
+     "text": "Answers questions",
+     "level": 2
+    },
+    {
+     "text": "Text bubbles",
+     "level": 3
+    },
+    {
+     "text": "Automatic replies",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Robot",
+    "Search engine",
+    "Email"
+   ]
+  },
+  {
+   "word": "Virus",
+   "hints": [
+    {
+     "text": "Malicious program",
+     "level": 1
+    },
+    {
+     "text": "Computer threat",
+     "level": 1
+    },
+    {
+     "text": "Security scans",
+     "level": 2
+    },
+    {
+     "text": "Infected files",
+     "level": 2
+    },
+    {
+     "text": "Spreads through downloads",
+     "level": 3
+    },
+    {
+     "text": "Corrupts data",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bug",
+    "Spam",
+    "Hacker"
+   ]
+  },
+  {
+   "word": "Bug",
+   "hints": [
+    {
+     "text": "Software error",
+     "level": 1
+    },
+    {
+     "text": "Glitch",
+     "level": 1
+    },
+    {
+     "text": "Developers fix it",
+     "level": 2
+    },
+    {
+     "text": "Crashes apps",
+     "level": 2
+    },
+    {
+     "text": "Unexpected behavior",
+     "level": 3
+    },
+    {
+     "text": "Patch needed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Virus",
+    "Crash",
+    "Typo"
+   ]
+  },
+  {
+   "word": "Hacker",
+   "hints": [
+    {
+     "text": "Computer intruder",
+     "level": 1
+    },
+    {
+     "text": "Code breaker",
+     "level": 1
+    },
+    {
+     "text": "Breaks security",
+     "level": 2
+    },
+    {
+     "text": "Hoodie stereotype",
+     "level": 2
+    },
+    {
+     "text": "Green screen text",
+     "level": 3
+    },
+    {
+     "text": "Passwords stolen",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Programmer",
+    "Virus",
+    "Spy"
+   ]
+  },
+  {
+   "word": "Firewall",
+   "hints": [
+    {
+     "text": "Security software",
+     "level": 1
+    },
+    {
+     "text": "Network shield",
+     "level": 1
+    },
+    {
+     "text": "Blocks threats",
+     "level": 2
+    },
+    {
+     "text": "Corporate networks",
+     "level": 2
+    },
+    {
+     "text": "Traffic rules",
+     "level": 3
+    },
+    {
+     "text": "Ports closed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Antivirus",
+    "Password",
+    "Router"
+   ]
+  },
+  {
+   "word": "Battery",
+   "hints": [
+    {
+     "text": "Power cell",
+     "level": 1
+    },
+    {
+     "text": "Energy store",
+     "level": 1
+    },
+    {
+     "text": "Dies at worst time",
+     "level": 2
+    },
+    {
+     "text": "Recharge nightly",
+     "level": 2
+    },
+    {
+     "text": "Plus and minus",
+     "level": 3
+    },
+    {
+     "text": "Lithium ion",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Charger",
+    "Power bank",
+    "Plug"
+   ]
+  },
+  {
+   "word": "Solar panel",
+   "hints": [
+    {
+     "text": "Energy device",
+     "level": 1
+    },
+    {
+     "text": "Green tech",
+     "level": 1
+    },
+    {
+     "text": "Rooftop power",
+     "level": 2
+    },
+    {
+     "text": "Sunny days",
+     "level": 2
+    },
+    {
+     "text": "Blue cells",
+     "level": 3
+    },
+    {
+     "text": "Faces the sun",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wind turbine",
+    "Battery",
+    "Generator"
+   ]
+  },
+  {
+   "word": "Wind turbine",
+   "hints": [
+    {
+     "text": "Energy device",
+     "level": 1
+    },
+    {
+     "text": "Green tech",
+     "level": 1
+    },
+    {
+     "text": "Breezy hilltops",
+     "level": 2
+    },
+    {
+     "text": "Clean power",
+     "level": 2
+    },
+    {
+     "text": "Giant blades",
+     "level": 3
+    },
+    {
+     "text": "Tall white tower",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Solar panel",
+    "Windmill",
+    "Generator"
+   ]
+  },
+  {
+   "word": "Electric car",
+   "hints": [
+    {
+     "text": "Battery vehicle",
+     "level": 1
+    },
+    {
+     "text": "Green transport",
+     "level": 1
+    },
+    {
+     "text": "Charging stations",
+     "level": 2
+    },
+    {
+     "text": "Quiet ride",
+     "level": 2
+    },
+    {
+     "text": "Plug in port",
+     "level": 3
+    },
+    {
+     "text": "No exhaust",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hybrid",
+    "Petrol car",
+    "Scooter"
+   ]
+  },
+  {
+   "word": "Microchip",
+   "hints": [
+    {
+     "text": "Tiny circuit",
+     "level": 1
+    },
+    {
+     "text": "Silicon component",
+     "level": 1
+    },
+    {
+     "text": "Inside every gadget",
+     "level": 2
+    },
+    {
+     "text": "Global shortage",
+     "level": 2
+    },
+    {
+     "text": "Transistors",
+     "level": 3
+    },
+    {
+     "text": "Black square with pins",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Processor",
+    "Circuit board",
+    "Sensor"
+   ]
+  },
+  {
+   "word": "Processor",
+   "hints": [
+    {
+     "text": "Computer brain",
+     "level": 1
+    },
+    {
+     "text": "Central chip",
+     "level": 1
+    },
+    {
+     "text": "Speed in gigahertz",
+     "level": 2
+    },
+    {
+     "text": "Gets hot",
+     "level": 2
+    },
+    {
+     "text": "Many cores",
+     "level": 3
+    },
+    {
+     "text": "Under the fan",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Microchip",
+    "Memory",
+    "Graphics card"
+   ]
+  },
+  {
+   "word": "Motherboard",
+   "hints": [
+    {
+     "text": "Main circuit",
+     "level": 1
+    },
+    {
+     "text": "Computer part",
+     "level": 1
+    },
+    {
+     "text": "Connects everything",
+     "level": 2
+    },
+    {
+     "text": "Inside the tower",
+     "level": 2
+    },
+    {
+     "text": "Slots and sockets",
+     "level": 3
+    },
+    {
+     "text": "Green panel",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Processor",
+    "Hard drive",
+    "Graphics card"
+   ]
+  },
+  {
+   "word": "Graphics card",
+   "hints": [
+    {
+     "text": "Computer part",
+     "level": 1
+    },
+    {
+     "text": "Video processor",
+     "level": 1
+    },
+    {
+     "text": "Gamers upgrade it",
+     "level": 2
+    },
+    {
+     "text": "Renders images",
+     "level": 2
+    },
+    {
+     "text": "Big fans",
+     "level": 3
+    },
+    {
+     "text": "Plugs into slot",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Processor",
+    "Motherboard",
+    "Monitor"
+   ]
+  },
+  {
+   "word": "Calculator",
+   "hints": [
+    {
+     "text": "Math device",
+     "level": 1
+    },
+    {
+     "text": "Number gadget",
+     "level": 1
+    },
+    {
+     "text": "Exam helper",
+     "level": 2
+    },
+    {
+     "text": "Solar powered",
+     "level": 2
+    },
+    {
+     "text": "Number keys",
+     "level": 3
+    },
+    {
+     "text": "Small display",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Computer",
+    "Abacus",
+    "Phone"
+   ]
+  },
+  {
+   "word": "Abacus",
+   "hints": [
+    {
+     "text": "Counting tool",
+     "level": 1
+    },
+    {
+     "text": "Ancient calculator",
+     "level": 1
+    },
+    {
+     "text": "Teaches arithmetic",
+     "level": 2
+    },
+    {
+     "text": "Beads slide",
+     "level": 2
+    },
+    {
+     "text": "Wooden frame",
+     "level": 3
+    },
+    {
+     "text": "Rows of beads",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Calculator",
+    "Ruler",
+    "Slide rule"
+   ]
+  },
+  {
+   "word": "Typewriter",
+   "hints": [
+    {
+     "text": "Writing machine",
+     "level": 1
+    },
+    {
+     "text": "Retro device",
+     "level": 1
+    },
+    {
+     "text": "Old novelists",
+     "level": 2
+    },
+    {
+     "text": "Clack clack",
+     "level": 2
+    },
+    {
+     "text": "Ink ribbon",
+     "level": 3
+    },
+    {
+     "text": "Carriage return",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Keyboard",
+    "Printer",
+    "Computer"
+   ]
+  },
+  {
+   "word": "Fax machine",
+   "hints": [
+    {
+     "text": "Office device",
+     "level": 1
+    },
+    {
+     "text": "Document sender",
+     "level": 1
+    },
+    {
+     "text": "Outdated tech",
+     "level": 2
+    },
+    {
+     "text": "Screeching tones",
+     "level": 2
+    },
+    {
+     "text": "Phone line",
+     "level": 3
+    },
+    {
+     "text": "Thermal paper",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Printer",
+    "Scanner",
+    "Email"
+   ]
+  },
+  {
+   "word": "Pager",
+   "hints": [
+    {
+     "text": "Retro device",
+     "level": 1
+    },
+    {
+     "text": "Message beeper",
+     "level": 1
+    },
+    {
+     "text": "Doctors used them",
+     "level": 2
+    },
+    {
+     "text": "Nineties tech",
+     "level": 2
+    },
+    {
+     "text": "Tiny screen",
+     "level": 3
+    },
+    {
+     "text": "Clips on belt",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Phone",
+    "Walkie talkie",
+    "Watch"
+   ]
+  },
+  {
+   "word": "Walkie talkie",
+   "hints": [
+    {
+     "text": "Radio device",
+     "level": 1
+    },
+    {
+     "text": "Handheld transceiver",
+     "level": 1
+    },
+    {
+     "text": "Roger that",
+     "level": 2
+    },
+    {
+     "text": "Camping trips",
+     "level": 2
+    },
+    {
+     "text": "Press to speak",
+     "level": 3
+    },
+    {
+     "text": "Antenna",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Phone",
+    "Pager",
+    "Radio"
+   ]
+  },
+  {
+   "word": "Radio",
+   "hints": [
+    {
+     "text": "Audio device",
+     "level": 1
+    },
+    {
+     "text": "Broadcast receiver",
+     "level": 1
+    },
+    {
+     "text": "Morning shows",
+     "level": 2
+    },
+    {
+     "text": "Car stereo",
+     "level": 2
+    },
+    {
+     "text": "Tuning dial",
+     "level": 3
+    },
+    {
+     "text": "Antenna",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Television",
+    "Speaker",
+    "Walkie talkie"
+   ]
+  },
+  {
+   "word": "Vinyl record",
+   "hints": [
+    {
+     "text": "Music format",
+     "level": 1
+    },
+    {
+     "text": "Retro disc",
+     "level": 1
+    },
+    {
+     "text": "Collectors love them",
+     "level": 2
+    },
+    {
+     "text": "Played on turntables",
+     "level": 2
+    },
+    {
+     "text": "Grooves",
+     "level": 3
+    },
+    {
+     "text": "Black disc",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cassette",
+    "Compact disc",
+    "Streaming"
+   ]
+  },
+  {
+   "word": "Cassette",
+   "hints": [
+    {
+     "text": "Music format",
+     "level": 1
+    },
+    {
+     "text": "Retro tape",
+     "level": 1
+    },
+    {
+     "text": "Mixtapes",
+     "level": 2
+    },
+    {
+     "text": "Rewind with pencil",
+     "level": 2
+    },
+    {
+     "text": "Magnetic tape",
+     "level": 3
+    },
+    {
+     "text": "Two spools",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Vinyl record",
+    "Compact disc",
+    "Floppy disk"
+   ]
+  },
+  {
+   "word": "Floppy disk",
+   "hints": [
+    {
+     "text": "Storage medium",
+     "level": 1
+    },
+    {
+     "text": "Retro device",
+     "level": 1
+    },
+    {
+     "text": "Save icon",
+     "level": 2
+    },
+    {
+     "text": "Nineties computers",
+     "level": 2
+    },
+    {
+     "text": "Square plastic",
+     "level": 3
+    },
+    {
+     "text": "Metal shutter",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cassette",
+    "Usb drive",
+    "Compact disc"
+   ]
+  },
+  {
+   "word": "Compact disc",
+   "hints": [
+    {
+     "text": "Music format",
+     "level": 1
+    },
+    {
+     "text": "Shiny platter",
+     "level": 1
+    },
+    {
+     "text": "Albums in cases",
+     "level": 2
+    },
+    {
+     "text": "Scratches skip",
+     "level": 2
+    },
+    {
+     "text": "Rainbow reflection",
+     "level": 3
+    },
+    {
+     "text": "Laser read",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Vinyl record",
+    "Cassette",
+    "Dvd"
+   ]
+  },
+  {
+   "word": "Dvd player",
+   "hints": [
+    {
+     "text": "Video device",
+     "level": 1
+    },
+    {
+     "text": "Movie machine",
+     "level": 1
+    },
+    {
+     "text": "Movie nights",
+     "level": 2
+    },
+    {
+     "text": "Rental stores",
+     "level": 2
+    },
+    {
+     "text": "Disc tray",
+     "level": 3
+    },
+    {
+     "text": "Remote control",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Vcr",
+    "Projector",
+    "Game console"
+   ]
+  },
+  {
+   "word": "Remote control",
+   "hints": [
+    {
+     "text": "Handheld device",
+     "level": 1
+    },
+    {
+     "text": "Wireless clicker",
+     "level": 1
+    },
+    {
+     "text": "Lost in the sofa",
+     "level": 2
+    },
+    {
+     "text": "Changes channels",
+     "level": 2
+    },
+    {
+     "text": "Infrared beam",
+     "level": 3
+    },
+    {
+     "text": "Rubber buttons",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Joystick",
+    "Phone",
+    "Keyboard"
+   ]
+  },
+  {
+   "word": "Smart speaker",
+   "hints": [
+    {
+     "text": "Voice assistant",
+     "level": 1
+    },
+    {
+     "text": "Home device",
+     "level": 1
+    },
+    {
+     "text": "Asks the weather",
+     "level": 2
+    },
+    {
+     "text": "Plays music",
+     "level": 2
+    },
+    {
+     "text": "Glowing ring",
+     "level": 3
+    },
+    {
+     "text": "Always listening",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tablet",
+    "Phone",
+    "Radio"
+   ]
+  },
+  {
+   "word": "Fitness tracker",
+   "hints": [
+    {
+     "text": "Wearable device",
+     "level": 1
+    },
+    {
+     "text": "Health gadget",
+     "level": 1
+    },
+    {
+     "text": "Counts steps",
+     "level": 2
+    },
+    {
+     "text": "Sleep tracking",
+     "level": 2
+    },
+    {
+     "text": "Wrist band",
+     "level": 3
+    },
+    {
+     "text": "Heart sensor",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Smartwatch",
+    "Pedometer",
+    "Watch"
+   ]
+  },
+  {
+   "word": "E-reader",
+   "hints": [
+    {
+     "text": "Reading device",
+     "level": 1
+    },
+    {
+     "text": "Digital book",
+     "level": 1
+    },
+    {
+     "text": "Thousands of books",
+     "level": 2
+    },
+    {
+     "text": "Long battery life",
+     "level": 2
+    },
+    {
+     "text": "Electronic ink",
+     "level": 3
+    },
+    {
+     "text": "Paper like screen",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tablet",
+    "Laptop",
+    "Book"
+   ]
+  },
+  {
+   "word": "Laser cutter",
+   "hints": [
+    {
+     "text": "Fabrication machine",
+     "level": 1
+    },
+    {
+     "text": "Maker tool",
+     "level": 1
+    },
+    {
+     "text": "Cuts wood and acrylic",
+     "level": 2
+    },
+    {
+     "text": "Precise outlines",
+     "level": 2
+    },
+    {
+     "text": "Focused beam",
+     "level": 3
+    },
+    {
+     "text": "Smoky smell",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lathe",
+    "Router",
+    "Drill press"
+   ]
+  },
+  {
+   "word": "Barcode",
+   "hints": [
+    {
+     "text": "Product label",
+     "level": 1
+    },
+    {
+     "text": "Scannable label",
+     "level": 1
+    },
+    {
+     "text": "Supermarket checkout",
+     "level": 2
+    },
+    {
+     "text": "Inventory",
+     "level": 2
+    },
+    {
+     "text": "Black and white stripes",
+     "level": 3
+    },
+    {
+     "text": "Numbers underneath",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Qr code",
+    "Price tag",
+    "Receipt"
+   ]
+  },
+  {
+   "word": "Qr code",
+   "hints": [
+    {
+     "text": "Scannable square",
+     "level": 1
+    },
+    {
+     "text": "Square pattern",
+     "level": 1
+    },
+    {
+     "text": "Restaurant menus",
+     "level": 2
+    },
+    {
+     "text": "Payments",
+     "level": 2
+    },
+    {
+     "text": "Pixelated square",
+     "level": 3
+    },
+    {
+     "text": "Phone camera",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Barcode",
+    "Hashtag",
+    "Link"
+   ]
+  },
+  {
+   "word": "Touchscreen",
+   "hints": [
+    {
+     "text": "Interactive display",
+     "level": 1
+    },
+    {
+     "text": "Glass panel",
+     "level": 1
+    },
+    {
+     "text": "Swipe and tap",
+     "level": 2
+    },
+    {
+     "text": "Phones and kiosks",
+     "level": 2
+    },
+    {
+     "text": "Fingerprint smudges",
+     "level": 3
+    },
+    {
+     "text": "Pinch to zoom",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Keyboard",
+    "Mouse",
+    "Monitor"
+   ]
+  },
+  {
+   "word": "Thumbprint",
+   "hints": [
+    {
+     "text": "Biometric sensor",
+     "level": 1
+    },
+    {
+     "text": "Security marker",
+     "level": 1
+    },
+    {
+     "text": "Unlocks phones",
+     "level": 2
+    },
+    {
+     "text": "Border control",
+     "level": 2
+    },
+    {
+     "text": "Swirls and ridges",
+     "level": 3
+    },
+    {
+     "text": "Touch to unlock",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Face unlock",
+    "Password",
+    "Keycard"
+   ]
+  },
+  {
+   "word": "Face unlock",
+   "hints": [
+    {
+     "text": "Biometric tech",
+     "level": 1
+    },
+    {
+     "text": "Security feature",
+     "level": 1
+    },
+    {
+     "text": "Phones and laptops",
+     "level": 2
+    },
+    {
+     "text": "Airport gates",
+     "level": 2
+    },
+    {
+     "text": "Camera scan",
+     "level": 3
+    },
+    {
+     "text": "Matching features",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Thumbprint",
+    "Password",
+    "Iris scan"
+   ]
+  },
+  {
+   "word": "Selfie stick",
+   "hints": [
+    {
+     "text": "Photo accessory",
+     "level": 1
+    },
+    {
+     "text": "Extendable pole",
+     "level": 1
+    },
+    {
+     "text": "Tourist spots",
+     "level": 2
+    },
+    {
+     "text": "Group pictures",
+     "level": 2
+    },
+    {
+     "text": "Telescopic rod",
+     "level": 3
+    },
+    {
+     "text": "Phone clamp",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tripod",
+    "Monopod",
+    "Camera strap"
+   ]
+  },
+  {
+   "word": "Tripod",
+   "hints": [
+    {
+     "text": "Camera stand",
+     "level": 1
+    },
+    {
+     "text": "Three legs",
+     "level": 1
+    },
+    {
+     "text": "Long exposures",
+     "level": 2
+    },
+    {
+     "text": "Steady shots",
+     "level": 2
+    },
+    {
+     "text": "Adjustable legs",
+     "level": 3
+    },
+    {
+     "text": "Mounting head",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Selfie stick",
+    "Easel",
+    "Stand"
+   ]
+  },
+  {
+   "word": "Gimbal",
+   "hints": [
+    {
+     "text": "Camera stabilizer",
+     "level": 1
+    },
+    {
+     "text": "Smooth motion gear",
+     "level": 1
+    },
+    {
+     "text": "Vloggers",
+     "level": 2
+    },
+    {
+     "text": "Cinematic shots",
+     "level": 2
+    },
+    {
+     "text": "Motorized axes",
+     "level": 3
+    },
+    {
+     "text": "Handheld grip",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tripod",
+    "Selfie stick",
+    "Drone"
+   ]
+  },
+  {
+   "word": "Dashcam",
+   "hints": [
+    {
+     "text": "Car camera",
+     "level": 1
+    },
+    {
+     "text": "Recording gadget",
+     "level": 1
+    },
+    {
+     "text": "Accident evidence",
+     "level": 2
+    },
+    {
+     "text": "Road trips",
+     "level": 2
+    },
+    {
+     "text": "On the windshield",
+     "level": 3
+    },
+    {
+     "text": "Loop recording",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Webcam",
+    "Gopro",
+    "Camera"
+   ]
+  },
+  {
+   "word": "Action camera",
+   "hints": [
+    {
+     "text": "Rugged recorder",
+     "level": 1
+    },
+    {
+     "text": "Sports recorder",
+     "level": 1
+    },
+    {
+     "text": "Extreme sports",
+     "level": 2
+    },
+    {
+     "text": "Helmet mounts",
+     "level": 2
+    },
+    {
+     "text": "Waterproof case",
+     "level": 3
+    },
+    {
+     "text": "Wide angle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dashcam",
+    "Webcam",
+    "Drone"
+   ]
+  },
+  {
+   "word": "Electric scooter",
+   "hints": [
+    {
+     "text": "Battery ride",
+     "level": 1
+    },
+    {
+     "text": "Urban transport",
+     "level": 1
+    },
+    {
+     "text": "Rental apps",
+     "level": 2
+    },
+    {
+     "text": "Sidewalk zipping",
+     "level": 2
+    },
+    {
+     "text": "Folding stem",
+     "level": 3
+    },
+    {
+     "text": "Small wheels",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hoverboard",
+    "Bicycle",
+    "Moped"
+   ]
+  },
+  {
+   "word": "Robotaxi",
+   "hints": [
+    {
+     "text": "Autonomous vehicle",
+     "level": 1
+    },
+    {
+     "text": "Driverless ride",
+     "level": 1
+    },
+    {
+     "text": "Future roads",
+     "level": 2
+    },
+    {
+     "text": "Testing in cities",
+     "level": 2
+    },
+    {
+     "text": "Lidar sensors",
+     "level": 3
+    },
+    {
+     "text": "No hands needed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Electric car",
+    "Limousine",
+    "Drone"
+   ]
+  },
+  {
+   "word": "Spreadsheet",
+   "hints": [
+    {
+     "text": "Office software",
+     "level": 1
+    },
+    {
+     "text": "Data grid",
+     "level": 1
+    },
+    {
+     "text": "Budgets and charts",
+     "level": 2
+    },
+    {
+     "text": "Formulas",
+     "level": 2
+    },
+    {
+     "text": "Rows and columns",
+     "level": 3
+    },
+    {
+     "text": "Cells",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Database",
+    "Calculator",
+    "Document"
+   ]
+  },
+  {
+   "word": "Database",
+   "hints": [
+    {
+     "text": "Record storage",
+     "level": 1
+    },
+    {
+     "text": "Organized records",
+     "level": 1
+    },
+    {
+     "text": "Stores customer info",
+     "level": 2
+    },
+    {
+     "text": "Queries",
+     "level": 2
+    },
+    {
+     "text": "Tables and rows",
+     "level": 3
+    },
+    {
+     "text": "Indexes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spreadsheet",
+    "Server",
+    "Cloud storage"
+   ]
+  },
+  {
+   "word": "Operating system",
+   "hints": [
+    {
+     "text": "Core software",
+     "level": 1
+    },
+    {
+     "text": "Platform",
+     "level": 1
+    },
+    {
+     "text": "Boots the computer",
+     "level": 2
+    },
+    {
+     "text": "Updates nightly",
+     "level": 2
+    },
+    {
+     "text": "Desktop and icons",
+     "level": 3
+    },
+    {
+     "text": "File manager",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "App",
+    "Browser",
+    "Firmware"
+   ]
+  },
+  {
+   "word": "Software update",
+   "hints": [
+    {
+     "text": "Program patch",
+     "level": 1
+    },
+    {
+     "text": "New version",
+     "level": 1
+    },
+    {
+     "text": "Restart required",
+     "level": 2
+    },
+    {
+     "text": "Bug fixes",
+     "level": 2
+    },
+    {
+     "text": "Progress bar",
+     "level": 3
+    },
+    {
+     "text": "Download size",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bug",
+    "Virus",
+    "App"
+   ]
+  },
+  {
+   "word": "Screenshot",
+   "hints": [
+    {
+     "text": "Display capture",
+     "level": 1
+    },
+    {
+     "text": "Saved image",
+     "level": 1
+    },
+    {
+     "text": "Proof in chats",
+     "level": 2
+    },
+    {
+     "text": "Keyboard shortcut",
+     "level": 2
+    },
+    {
+     "text": "Camera shutter sound",
+     "level": 3
+    },
+    {
+     "text": "Cropped picture",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Photo",
+    "Scan",
+    "Recording"
+   ]
+  },
+  {
+   "word": "Download",
+   "hints": [
+    {
+     "text": "File transfer",
+     "level": 1
+    },
+    {
+     "text": "Saving from web",
+     "level": 1
+    },
+    {
+     "text": "Progress bar",
+     "level": 2
+    },
+    {
+     "text": "Slow internet",
+     "level": 2
+    },
+    {
+     "text": "Arrow pointing lower",
+     "level": 3
+    },
+    {
+     "text": "Saved file",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Upload",
+    "Stream",
+    "Install"
+   ]
+  },
+  {
+   "word": "Streaming",
+   "hints": [
+    {
+     "text": "Online media",
+     "level": 1
+    },
+    {
+     "text": "Live playback",
+     "level": 1
+    },
+    {
+     "text": "Binge watching",
+     "level": 2
+    },
+    {
+     "text": "Buffering wheel",
+     "level": 2
+    },
+    {
+     "text": "Subscription",
+     "level": 3
+    },
+    {
+     "text": "No downloading",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Download",
+    "Broadcast",
+    "Podcast"
+   ]
+  },
+  {
+   "word": "Podcast",
+   "hints": [
+    {
+     "text": "Audio show",
+     "level": 1
+    },
+    {
+     "text": "Online series",
+     "level": 1
+    },
+    {
+     "text": "Commute listening",
+     "level": 2
+    },
+    {
+     "text": "Episodes weekly",
+     "level": 2
+    },
+    {
+     "text": "Hosts talk",
+     "level": 3
+    },
+    {
+     "text": "Subscribe button",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Radio",
+    "Audiobook",
+    "Streaming"
+   ]
+  },
+  {
+   "word": "Video game",
+   "hints": [
+    {
+     "text": "Interactive entertainment",
+     "level": 1
+    },
+    {
+     "text": "Digital play",
+     "level": 1
+    },
+    {
+     "text": "Level up",
+     "level": 2
+    },
+    {
+     "text": "Save points",
+     "level": 2
+    },
+    {
+     "text": "Controller in hand",
+     "level": 3
+    },
+    {
+     "text": "High scores",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Board game",
+    "Movie",
+    "Arcade"
+   ]
+  },
+  {
+   "word": "Arcade",
+   "hints": [
+    {
+     "text": "Game hall",
+     "level": 1
+    },
+    {
+     "text": "Retro gaming",
+     "level": 1
+    },
+    {
+     "text": "Tokens and tickets",
+     "level": 2
+    },
+    {
+     "text": "Claw machines",
+     "level": 2
+    },
+    {
+     "text": "Cabinets with joysticks",
+     "level": 3
+    },
+    {
+     "text": "Flashing lights",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Casino",
+    "Bowling alley",
+    "Cinema"
+   ]
+  },
+  {
+   "word": "Pixel",
+   "hints": [
+    {
+     "text": "Image dot",
+     "level": 1
+    },
+    {
+     "text": "Screen element",
+     "level": 1
+    },
+    {
+     "text": "Retro graphics",
+     "level": 2
+    },
+    {
+     "text": "Resolution counts",
+     "level": 2
+    },
+    {
+     "text": "Tiny square",
+     "level": 3
+    },
+    {
+     "text": "Colored light",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Byte",
+    "Bit",
+    "Vector"
+   ]
+  },
+  {
+   "word": "Byte",
+   "hints": [
+    {
+     "text": "Data unit",
+     "level": 1
+    },
+    {
+     "text": "Digital measure",
+     "level": 1
+    },
+    {
+     "text": "File sizes",
+     "level": 2
+    },
+    {
+     "text": "Kilo mega giga",
+     "level": 2
+    },
+    {
+     "text": "Eight bits",
+     "level": 3
+    },
+    {
+     "text": "Binary storage",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pixel",
+    "Bit",
+    "Hertz"
+   ]
+  },
+  {
+   "word": "Binary",
+   "hints": [
+    {
+     "text": "Number system",
+     "level": 1
+    },
+    {
+     "text": "Computer language",
+     "level": 1
+    },
+    {
+     "text": "Ones and zeros",
+     "level": 2
+    },
+    {
+     "text": "Machine code",
+     "level": 2
+    },
+    {
+     "text": "Base two",
+     "level": 3
+    },
+    {
+     "text": "Digits one zero",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Decimal",
+    "Hexadecimal",
+    "Morse code"
+   ]
+  },
+  {
+   "word": "Circuit board",
+   "hints": [
+    {
+     "text": "Electronic component",
+     "level": 1
+    },
+    {
+     "text": "Green panel",
+     "level": 1
+    },
+    {
+     "text": "Inside gadgets",
+     "level": 2
+    },
+    {
+     "text": "Soldered parts",
+     "level": 2
+    },
+    {
+     "text": "Copper traces",
+     "level": 3
+    },
+    {
+     "text": "Tiny chips",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Microchip",
+    "Motherboard",
+    "Breadboard"
+   ]
+  },
+  {
+   "word": "Transistor",
+   "hints": [
+    {
+     "text": "Electronic switch",
+     "level": 1
+    },
+    {
+     "text": "Semiconductor",
+     "level": 1
+    },
+    {
+     "text": "Billions per chip",
+     "level": 2
+    },
+    {
+     "text": "Changed computing",
+     "level": 2
+    },
+    {
+     "text": "Three legs",
+     "level": 3
+    },
+    {
+     "text": "Amplifies signals",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Diode",
+    "Resistor",
+    "Capacitor"
+   ]
+  },
+  {
+   "word": "Electricity",
+   "hints": [
+    {
+     "text": "Energy form",
+     "level": 1
+    },
+    {
+     "text": "Power supply",
+     "level": 1
+    },
+    {
+     "text": "Lights the home",
+     "level": 2
+    },
+    {
+     "text": "Power cuts",
+     "level": 2
+    },
+    {
+     "text": "Flowing electrons",
+     "level": 3
+    },
+    {
+     "text": "Volts and amps",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Magnetism",
+    "Gas",
+    "Battery"
+   ]
+  },
+  {
+   "word": "Light bulb",
+   "hints": [
+    {
+     "text": "Electric device",
+     "level": 1
+    },
+    {
+     "text": "Glowing glass",
+     "level": 1
+    },
+    {
+     "text": "Bright idea symbol",
+     "level": 2
+    },
+    {
+     "text": "Screws in",
+     "level": 2
+    },
+    {
+     "text": "Filament or led",
+     "level": 3
+    },
+    {
+     "text": "Glass globe",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Candle",
+    "Lamp",
+    "Torch"
+   ]
+  },
+  {
+   "word": "Led",
+   "hints": [
+    {
+     "text": "Light source",
+     "level": 1
+    },
+    {
+     "text": "Efficient lamp",
+     "level": 1
+    },
+    {
+     "text": "Fairy lights",
+     "level": 2
+    },
+    {
+     "text": "Low energy",
+     "level": 2
+    },
+    {
+     "text": "Tiny diode",
+     "level": 3
+    },
+    {
+     "text": "Bright colors",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bulb",
+    "Neon",
+    "Laser"
+   ]
+  },
+  {
+   "word": "Generator",
+   "hints": [
+    {
+     "text": "Power machine",
+     "level": 1
+    },
+    {
+     "text": "Backup energy",
+     "level": 1
+    },
+    {
+     "text": "Power cuts",
+     "level": 2
+    },
+    {
+     "text": "Camping sites",
+     "level": 2
+    },
+    {
+     "text": "Fuel engine",
+     "level": 3
+    },
+    {
+     "text": "Loud rumble",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Battery",
+    "Solar panel",
+    "Turbine"
+   ]
+  },
+  {
+   "word": "Nuclear reactor",
+   "hints": [
+    {
+     "text": "Power plant core",
+     "level": 1
+    },
+    {
+     "text": "Atomic energy",
+     "level": 1
+    },
+    {
+     "text": "Cooling towers",
+     "level": 2
+    },
+    {
+     "text": "Strict safety",
+     "level": 2
+    },
+    {
+     "text": "Uranium rods",
+     "level": 3
+    },
+    {
+     "text": "Control room",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Generator",
+    "Wind turbine",
+    "Dam"
+   ]
+  },
+  {
+   "word": "Microscope",
+   "hints": [
+    {
+     "text": "Science instrument",
+     "level": 1
+    },
+    {
+     "text": "Lab tool",
+     "level": 1
+    },
+    {
+     "text": "Tiny cells",
+     "level": 2
+    },
+    {
+     "text": "Biology class",
+     "level": 2
+    },
+    {
+     "text": "Lenses",
+     "level": 3
+    },
+    {
+     "text": "Glass slides",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Telescope",
+    "Magnifying glass",
+    "Camera"
+   ]
+  },
+  {
+   "word": "Telescope",
+   "hints": [
+    {
+     "text": "Science instrument",
+     "level": 1
+    },
+    {
+     "text": "Star viewer",
+     "level": 1
+    },
+    {
+     "text": "Astronomy nights",
+     "level": 2
+    },
+    {
+     "text": "Observatories",
+     "level": 2
+    },
+    {
+     "text": "Long tube",
+     "level": 3
+    },
+    {
+     "text": "Big lens",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Microscope",
+    "Binoculars",
+    "Camera"
+   ]
+  },
+  {
+   "word": "Binoculars",
+   "hints": [
+    {
+     "text": "Optical device",
+     "level": 1
+    },
+    {
+     "text": "Viewing tool",
+     "level": 1
+    },
+    {
+     "text": "Bird watching",
+     "level": 2
+    },
+    {
+     "text": "Stadium seats",
+     "level": 2
+    },
+    {
+     "text": "Twin lenses",
+     "level": 3
+    },
+    {
+     "text": "Neck strap",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Telescope",
+    "Microscope",
+    "Camera"
+   ]
+  },
+  {
+   "word": "X-ray",
+   "hints": [
+    {
+     "text": "Medical imaging",
+     "level": 1
+    },
+    {
+     "text": "Radiation scan",
+     "level": 1
+    },
+    {
+     "text": "Broken bones",
+     "level": 2
+    },
+    {
+     "text": "Airport security",
+     "level": 2
+    },
+    {
+     "text": "See through photo",
+     "level": 3
+    },
+    {
+     "text": "Lead apron",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ultrasound",
+    "Scanner",
+    "Microscope"
+   ]
+  },
+  {
+   "word": "Ultrasound",
+   "hints": [
+    {
+     "text": "Medical imaging",
+     "level": 1
+    },
+    {
+     "text": "Echo scan",
+     "level": 1
+    },
+    {
+     "text": "Baby scans",
+     "level": 2
+    },
+    {
+     "text": "Cold gel",
+     "level": 2
+    },
+    {
+     "text": "Grainy picture",
+     "level": 3
+    },
+    {
+     "text": "Handheld probe",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "X-ray",
+    "Stethoscope",
+    "Scanner"
+   ]
+  },
+  {
+   "word": "Smart home",
+   "hints": [
+    {
+     "text": "Connected house",
+     "level": 1
+    },
+    {
+     "text": "Automation",
+     "level": 1
+    },
+    {
+     "text": "Lights by voice",
+     "level": 2
+    },
+    {
+     "text": "App controls",
+     "level": 2
+    },
+    {
+     "text": "Sensors and hubs",
+     "level": 3
+    },
+    {
+     "text": "Remote thermostat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Robot",
+    "Smart speaker",
+    "Alarm system"
+   ]
+  },
+  {
+   "word": "Robot vacuum",
+   "hints": [
+    {
+     "text": "Cleaning gadget",
+     "level": 1
+    },
+    {
+     "text": "Autonomous cleaner",
+     "level": 1
+    },
+    {
+     "text": "Cats ride them",
+     "level": 2
+    },
+    {
+     "text": "Bumps into walls",
+     "level": 2
+    },
+    {
+     "text": "Round disc",
+     "level": 3
+    },
+    {
+     "text": "Charging dock",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Vacuum cleaner",
+    "Mop",
+    "Drone"
+   ]
+  },
+  {
+   "word": "Air fryer",
+   "hints": [
+    {
+     "text": "Kitchen gadget",
+     "level": 1
+    },
+    {
+     "text": "Countertop cooker",
+     "level": 1
+    },
+    {
+     "text": "Crispy fries",
+     "level": 2
+    },
+    {
+     "text": "Less oil",
+     "level": 2
+    },
+    {
+     "text": "Basket drawer",
+     "level": 3
+    },
+    {
+     "text": "Convection fan",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Microwave",
+    "Oven",
+    "Toaster"
+   ]
+  },
+  {
+   "word": "Microwave oven",
+   "hints": [
+    {
+     "text": "Kitchen appliance",
+     "level": 1
+    },
+    {
+     "text": "Quick heater",
+     "level": 1
+    },
+    {
+     "text": "Reheats food",
+     "level": 2
+    },
+    {
+     "text": "Pops popcorn",
+     "level": 2
+    },
+    {
+     "text": "Rotating plate",
+     "level": 3
+    },
+    {
+     "text": "Beeps when done",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Toaster",
+    "Air fryer",
+    "Kettle"
+   ]
+  },
+  {
+   "word": "Electric razor",
+   "hints": [
+    {
+     "text": "Bathroom gadget",
+     "level": 1
+    },
+    {
+     "text": "Grooming tool",
+     "level": 1
+    },
+    {
+     "text": "Morning shave",
+     "level": 2
+    },
+    {
+     "text": "Buzzing sound",
+     "level": 2
+    },
+    {
+     "text": "Rotating heads",
+     "level": 3
+    },
+    {
+     "text": "Charging base",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Trimmer",
+    "Hairdryer",
+    "Toothbrush"
+   ]
+  },
+  {
+   "word": "Hearing aid",
+   "hints": [
+    {
+     "text": "Medical device",
+     "level": 1
+    },
+    {
+     "text": "Sound amplifier",
+     "level": 1
+    },
+    {
+     "text": "Elderly users",
+     "level": 2
+    },
+    {
+     "text": "Behind the ear",
+     "level": 2
+    },
+    {
+     "text": "Tiny earpiece",
+     "level": 3
+    },
+    {
+     "text": "Battery powered",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Earbuds",
+    "Headphones",
+    "Microphone"
+   ]
+  },
+  {
+   "word": "Pacemaker",
+   "hints": [
+    {
+     "text": "Medical device",
+     "level": 1
+    },
+    {
+     "text": "Heart implant",
+     "level": 1
+    },
+    {
+     "text": "Keeps rhythm steady",
+     "level": 2
+    },
+    {
+     "text": "Surgery needed",
+     "level": 2
+    },
+    {
+     "text": "Small battery",
+     "level": 3
+    },
+    {
+     "text": "Electrical pulses",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Defibrillator",
+    "Stethoscope",
+    "Hearing aid"
+   ]
+  },
+  {
+   "word": "Antenna",
+   "hints": [
+    {
+     "text": "Signal receiver",
+     "level": 1
+    },
+    {
+     "text": "Metal rod",
+     "level": 1
+    },
+    {
+     "text": "Rooftop tv",
+     "level": 2
+    },
+    {
+     "text": "Old radios",
+     "level": 2
+    },
+    {
+     "text": "Picks up waves",
+     "level": 3
+    },
+    {
+     "text": "Extends upward",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Satellite dish",
+    "Router",
+    "Radar"
+   ]
+  },
+  {
+   "word": "Satellite dish",
+   "hints": [
+    {
+     "text": "Signal receiver",
+     "level": 1
+    },
+    {
+     "text": "Rooftop device",
+     "level": 1
+    },
+    {
+     "text": "Cable tv",
+     "level": 2
+    },
+    {
+     "text": "Space signals",
+     "level": 2
+    },
+    {
+     "text": "Curved bowl",
+     "level": 3
+    },
+    {
+     "text": "Points at sky",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Antenna",
+    "Radar",
+    "Telescope"
+   ]
+  },
+  {
+   "word": "Cable",
+   "hints": [
+    {
+     "text": "Wire connector",
+     "level": 1
+    },
+    {
+     "text": "Power cord",
+     "level": 1
+    },
+    {
+     "text": "Tangled behind desks",
+     "level": 2
+    },
+    {
+     "text": "Charging",
+     "level": 2
+    },
+    {
+     "text": "Plug at each end",
+     "level": 3
+    },
+    {
+     "text": "Rubber coating",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wire",
+    "Rope",
+    "Charger"
+   ]
+  },
+  {
+   "word": "Plug",
+   "hints": [
+    {
+     "text": "Electrical connector",
+     "level": 1
+    },
+    {
+     "text": "Wall fitting",
+     "level": 1
+    },
+    {
+     "text": "Into the socket",
+     "level": 2
+    },
+    {
+     "text": "Travel adapters",
+     "level": 2
+    },
+    {
+     "text": "Metal prongs",
+     "level": 3
+    },
+    {
+     "text": "Three pins",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Socket",
+    "Switch",
+    "Cable"
+   ]
+  },
+  {
+   "word": "Switch",
+   "hints": [
+    {
+     "text": "Electrical control",
+     "level": 1
+    },
+    {
+     "text": "Flip control",
+     "level": 1
+    },
+    {
+     "text": "Wall lights",
+     "level": 2
+    },
+    {
+     "text": "Flip it",
+     "level": 2
+    },
+    {
+     "text": "Toggle lever",
+     "level": 3
+    },
+    {
+     "text": "Click sound",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Button",
+    "Plug",
+    "Dial"
+   ]
+  },
+  {
+   "word": "Thermostat",
+   "hints": [
+    {
+     "text": "Climate controller",
+     "level": 1
+    },
+    {
+     "text": "Smart device",
+     "level": 1
+    },
+    {
+     "text": "Sets the heat",
+     "level": 2
+    },
+    {
+     "text": "Saves energy",
+     "level": 2
+    },
+    {
+     "text": "Temperature dial",
+     "level": 3
+    },
+    {
+     "text": "Wall mounted",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Heater",
+    "Fan",
+    "Switch"
+   ]
+  },
+  {
+   "word": "Alarm system",
+   "hints": [
+    {
+     "text": "Security setup",
+     "level": 1
+    },
+    {
+     "text": "Home protection",
+     "level": 1
+    },
+    {
+     "text": "Burglar deterrent",
+     "level": 2
+    },
+    {
+     "text": "Loud siren",
+     "level": 2
+    },
+    {
+     "text": "Motion sensors",
+     "level": 3
+    },
+    {
+     "text": "Keypad code",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Smoke detector",
+    "Lock",
+    "Camera"
+   ]
+  },
+  {
+   "word": "Security camera",
+   "hints": [
+    {
+     "text": "Surveillance device",
+     "level": 1
+    },
+    {
+     "text": "Watchful eye",
+     "level": 1
+    },
+    {
+     "text": "Shops and homes",
+     "level": 2
+    },
+    {
+     "text": "Recording footage",
+     "level": 2
+    },
+    {
+     "text": "Mounted lens",
+     "level": 3
+    },
+    {
+     "text": "Red light",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Webcam",
+    "Dashcam",
+    "Alarm"
+   ]
+  },
+  {
+   "word": "Doorbell camera",
+   "hints": [
+    {
+     "text": "Smart chime",
+     "level": 1
+    },
+    {
+     "text": "Porch device",
+     "level": 1
+    },
+    {
+     "text": "Package thieves",
+     "level": 2
+    },
+    {
+     "text": "Answer remotely",
+     "level": 2
+    },
+    {
+     "text": "Lens by entrance",
+     "level": 3
+    },
+    {
+     "text": "Motion alerts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Security camera",
+    "Intercom",
+    "Webcam"
+   ]
+  },
+  {
+   "word": "Gaming laptop",
+   "hints": [
+    {
+     "text": "Powerful notebook",
+     "level": 1
+    },
+    {
+     "text": "Portable rig",
+     "level": 1
+    },
+    {
+     "text": "Esports on the go",
+     "level": 2
+    },
+    {
+     "text": "Heavy and loud",
+     "level": 2
+    },
+    {
+     "text": "Glowing keyboard",
+     "level": 3
+    },
+    {
+     "text": "Big fans",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Desktop",
+    "Ultrabook",
+    "Console"
+   ]
+  },
+  {
+   "word": "Stylus",
+   "hints": [
+    {
+     "text": "Digital pen",
+     "level": 1
+    },
+    {
+     "text": "Tablet tool",
+     "level": 1
+    },
+    {
+     "text": "Drawing apps",
+     "level": 2
+    },
+    {
+     "text": "Note taking",
+     "level": 2
+    },
+    {
+     "text": "Pointed tip",
+     "level": 3
+    },
+    {
+     "text": "Pressure sensitive",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pen",
+    "Mouse",
+    "Finger"
+   ]
+  },
+  {
+   "word": "Graphics tablet",
+   "hints": [
+    {
+     "text": "Drawing device",
+     "level": 1
+    },
+    {
+     "text": "Artist gadget",
+     "level": 1
+    },
+    {
+     "text": "Digital art",
+     "level": 2
+    },
+    {
+     "text": "Animators use it",
+     "level": 2
+    },
+    {
+     "text": "Pen on pad",
+     "level": 3
+    },
+    {
+     "text": "Pressure levels",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sketchbook",
+    "Stylus",
+    "Mouse"
+   ]
+  },
+  {
+   "word": "Keycaps",
+   "hints": [
+    {
+     "text": "Keyboard parts",
+     "level": 1
+    },
+    {
+     "text": "Enthusiast gear",
+     "level": 1
+    },
+    {
+     "text": "Gamers and coders",
+     "level": 2
+    },
+    {
+     "text": "Custom sets",
+     "level": 2
+    },
+    {
+     "text": "Printed symbols",
+     "level": 3
+    },
+    {
+     "text": "Pop off switches",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Typewriter",
+    "Mouse",
+    "Stylus"
+   ]
+  },
+  {
+   "word": "Smart glasses",
+   "hints": [
+    {
+     "text": "Wearable gadget",
+     "level": 1
+    },
+    {
+     "text": "Face computer",
+     "level": 1
+    },
+    {
+     "text": "Heads up display",
+     "level": 2
+    },
+    {
+     "text": "Records video",
+     "level": 2
+    },
+    {
+     "text": "Tiny projector",
+     "level": 3
+    },
+    {
+     "text": "Frames with camera",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Smartwatch",
+    "Headset",
+    "Earbuds"
+   ]
+  },
+  {
+   "word": "Headset",
+   "hints": [
+    {
+     "text": "Audio gear",
+     "level": 1
+    },
+    {
+     "text": "Gaming accessory",
+     "level": 1
+    },
+    {
+     "text": "Call centers",
+     "level": 2
+    },
+    {
+     "text": "Online matches",
+     "level": 2
+    },
+    {
+     "text": "Mic on boom arm",
+     "level": 3
+    },
+    {
+     "text": "Over ears",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Earbuds",
+    "Speaker",
+    "Microphone"
+   ]
+  },
+  {
+   "word": "Charging cable",
+   "hints": [
+    {
+     "text": "Power accessory",
+     "level": 1
+    },
+    {
+     "text": "Phone cord",
+     "level": 1
+    },
+    {
+     "text": "Always borrowed",
+     "level": 2
+    },
+    {
+     "text": "Frays at end",
+     "level": 2
+    },
+    {
+     "text": "Connector tips",
+     "level": 3
+    },
+    {
+     "text": "Coiled in bags",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Power bank",
+    "Adapter",
+    "Plug"
+   ]
+  },
+  {
+   "word": "Adapter",
+   "hints": [
+    {
+     "text": "Connector gadget",
+     "level": 1
+    },
+    {
+     "text": "Travel accessory",
+     "level": 1
+    },
+    {
+     "text": "Foreign sockets",
+     "level": 2
+    },
+    {
+     "text": "Converts ports",
+     "level": 2
+    },
+    {
+     "text": "Small plastic block",
+     "level": 3
+    },
+    {
+     "text": "Prongs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Charger",
+    "Plug",
+    "Cable"
+   ]
+  },
+  {
+   "word": "Hard disk",
+   "hints": [
+    {
+     "text": "Storage drive",
+     "level": 1
+    },
+    {
+     "text": "Computer part",
+     "level": 1
+    },
+    {
+     "text": "Spinning platters",
+     "level": 2
+    },
+    {
+     "text": "Clicks when old",
+     "level": 2
+    },
+    {
+     "text": "Magnetic platters",
+     "level": 3
+    },
+    {
+     "text": "Read head",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Usb drive",
+    "Memory card",
+    "Server"
+   ]
+  },
+  {
+   "word": "Ethernet",
+   "hints": [
+    {
+     "text": "Wired network",
+     "level": 1
+    },
+    {
+     "text": "Cable connection",
+     "level": 1
+    },
+    {
+     "text": "Faster than wireless",
+     "level": 2
+    },
+    {
+     "text": "Office desks",
+     "level": 2
+    },
+    {
+     "text": "Clicky plug",
+     "level": 3
+    },
+    {
+     "text": "Twisted pairs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wifi",
+    "Bluetooth",
+    "Modem"
+   ]
+  },
+  {
+   "word": "Semiconductor",
+   "hints": [
+    {
+     "text": "Chip material",
+     "level": 1
+    },
+    {
+     "text": "Electronics base",
+     "level": 1
+    },
+    {
+     "text": "Global industry",
+     "level": 2
+    },
+    {
+     "text": "Silicon valley",
+     "level": 2
+    },
+    {
+     "text": "Doped silicon",
+     "level": 3
+    },
+    {
+     "text": "Wafer slices",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Transistor",
+    "Microchip",
+    "Circuit board"
+   ]
+  },
+  {
+   "word": "Pixel art",
+   "hints": [
+    {
+     "text": "Retro graphics",
+     "level": 1
+    },
+    {
+     "text": "Blocky images",
+     "level": 1
+    },
+    {
+     "text": "Old video games",
+     "level": 2
+    },
+    {
+     "text": "Indie style",
+     "level": 2
+    },
+    {
+     "text": "Tiny squares",
+     "level": 3
+    },
+    {
+     "text": "Limited palette",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Vector art",
+    "Sprite",
+    "Emoji"
+   ]
+  },
+  {
+   "word": "Emulator",
+   "hints": [
+    {
+     "text": "Software tool",
+     "level": 1
+    },
+    {
+     "text": "Retro gaming",
+     "level": 1
+    },
+    {
+     "text": "Old consoles on pc",
+     "level": 2
+    },
+    {
+     "text": "Testing apps",
+     "level": 2
+    },
+    {
+     "text": "Mimics hardware",
+     "level": 3
+    },
+    {
+     "text": "Rom files",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Simulator",
+    "Virtual machine",
+    "Console"
+   ]
+  },
+  {
+   "word": "Cookie",
+   "hints": [
+    {
+     "text": "Browser data",
+     "level": 1
+    },
+    {
+     "text": "Website tracker",
+     "level": 1
+    },
+    {
+     "text": "Accept all popup",
+     "level": 2
+    },
+    {
+     "text": "Remembers logins",
+     "level": 2
+    },
+    {
+     "text": "Tiny text file",
+     "level": 3
+    },
+    {
+     "text": "Stored by sites",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cache",
+    "Password",
+    "Bookmark"
+   ]
+  },
+  {
+   "word": "Bookmark",
+   "hints": [
+    {
+     "text": "Saved link",
+     "level": 1
+    },
+    {
+     "text": "Browser feature",
+     "level": 1
+    },
+    {
+     "text": "Favorite websites",
+     "level": 2
+    },
+    {
+     "text": "Star icon",
+     "level": 2
+    },
+    {
+     "text": "Saved address",
+     "level": 3
+    },
+    {
+     "text": "Quick access",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cookie",
+    "Tab",
+    "History"
+   ]
+  },
+  {
+   "word": "Hashtag",
+   "hints": [
+    {
+     "text": "Social tag",
+     "level": 1
+    },
+    {
+     "text": "Topic marker",
+     "level": 1
+    },
+    {
+     "text": "Trending topics",
+     "level": 2
+    },
+    {
+     "text": "Captions",
+     "level": 2
+    },
+    {
+     "text": "Pound sign",
+     "level": 3
+    },
+    {
+     "text": "Clickable keyword",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Emoji",
+    "Mention",
+    "Meme"
+   ]
+  }
+ ]
+}

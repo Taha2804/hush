@@ -1,0 +1,147 @@
+@id food
+@name Food
+Pizza | Italian dish; Baked food | Shared at parties; Delivered hot | Comes in slices; Topped with cheese | Pasta; Burger; Calzone
+Burger | Fast food; Grilled meal | Served with fries; Backyard barbecue | Patty in a bun; Topped with pickles | Sandwich; Hot dog; Taco
+Pasta | Italian staple; Carb dish | Boiled in salted water; Many shapes | Served with sauce; Twirled on forks | Noodles; Rice; Risotto
+Sushi | Japanese dish; Seafood meal | Eaten with chopsticks; Dipped in soy | Raw fish; Rolled in seaweed | Sashimi; Dumpling; Ramen
+Taco | Mexican dish; Street food | Eaten by hand; Tuesday favorite | Folded tortilla; Topped with salsa | Burrito; Nachos; Quesadilla
+Burrito | Mexican dish; Wrapped meal | Big and filling; Eaten on the go | Rolled tortilla; Stuffed with beans | Taco; Wrap; Enchilada
+Sandwich | Lunch food; Quick meal | Packed for picnics; Made at home | Two slices of bread; Filled with layers | Burger; Wrap; Toast
+Hot dog | Fast food; Ballpark snack | Sold by street carts; Grilled outdoors | Sausage in a bun; Topped with mustard | Burger; Corn dog; Sandwich
+Pancake | Breakfast food; Sweet dish | Flipped in a pan; Weekend treat | Stacked high; Drizzled with syrup | Waffle; Crepe; French toast
+Waffle | Breakfast food; Sweet treat | Made in an iron; Served with berries | Grid pattern; Crispy squares | Pancake; Crepe; Toast
+Omelette | Breakfast dish; Egg dish | Folded in half; Quick to cook | Filled with cheese; Beaten eggs | Scrambled eggs; Frittata; Quiche
+Salad | Healthy dish; Cold dish | Tossed in a bowl; Light lunch | Leafy greens; Dressing on top | Soup; Coleslaw; Wrap
+Soup | Warm dish; Comfort food | Eaten with a spoon; Good when sick | Served in a bowl; Simmered for hours | Stew; Broth; Curry
+Steak | Meat dish; Grilled food | Ordered rare or medium; Fancy dinner | Thick cut of beef; Seared outside | Burger; Chop; Roast
+Fried chicken | Comfort food; Crispy dish | Southern classic; Eaten with fingers | Crispy coating; Drumsticks and wings | Nuggets; Roast turkey; Wings
+Curry | Spicy dish; Saucy dish | Served with rice; Many regional styles | Rich gravy; Full of spices | Stew; Soup; Dal
+Biryani | Rice dish; Festive dish | Layered and slow cooked; Wedding favorite | Fragrant basmati; Saffron colored | Pulao; Fried rice; Paella
+Dumpling | Asian snack; Steamed food | Folded by hand; Lunar new year favorite | Dough pocket; Filled with meat | Ravioli; Samosa; Bun
+Noodles | Asian staple; Long food | Slurped loudly; Stir fried or boiled | Long thin strands; Eaten with chopsticks | Pasta; Rice; Spaghetti
+Ramen | Japanese dish; Noodle soup | Late night meal; Instant packets | Rich broth; Soft boiled egg | Pho; Udon; Noodle salad
+Fried rice | Asian dish; Wok dish | Uses leftovers; Tossed in a wok | Mixed with egg; Soy flavored | Biryani; Risotto; Noodles
+Lasagna | Italian dish; Baked pasta | Family dinner; Feeds a crowd | Layered sheets; Meat and cheese | Pizza; Ravioli; Moussaka
+Spaghetti | Italian dish; Pasta type | Messy to eat; Twirled on forks | Long thin strands; Meatball partner | Noodles; Lasagna; Macaroni
+Macaroni | Pasta type; Comfort food | Kids love it; Baked or boiled | Small curved tubes; Cheesy sauce | Spaghetti; Penne; Noodles
+Popcorn | Snack food; Movie snack | Made in microwave; Shared at cinemas | Pops when heated; Buttery and salty | Chips; Pretzel; Nachos
+French fries | Side dish; Fast food | Served with burgers; Dipped in ketchup | Thin potato sticks; Deep fried | Chips; Wedges; Hash brown
+Chips | Snack food; Crunchy snack | Comes in bags; Party bowl staple | Thin potato slices; Salty crunch | Popcorn; Crackers; Fries
+Nachos | Mexican snack; Party food | Shared platter; Game day snack | Melted cheese; Tortilla triangles | Chips; Taco; Popcorn
+Pretzel | Baked snack; Salty snack | Sold at fairs; Twisted dough | Knot shape; Coarse salt crystals | Bagel; Breadstick; Cracker
+Bagel | Bread roll; Breakfast food | Boiled then baked; Deli favorite | Hole in middle; Cream cheese spread | Donut; Pretzel; Muffin
+Croissant | French pastry; Breakfast bake | Flaky layers; Paired with coffee | Crescent shape; Very buttery | Bagel; Danish; Brioche
+Donut | Sweet treat; Fried dough | Bought by the dozen; Police joke | Hole in middle; Glazed or sprinkled | Bagel; Muffin; Cupcake
+Muffin | Baked treat; Breakfast bake | Sold at cafes; Made in tins | Domed top; Blueberry studded | Cupcake; Scone; Donut
+Cupcake | Sweet treat; Party food | Birthday favorite; Baked in batches | Frosted top; Paper liner | Muffin; Tart; Brownie
+Cake | Dessert; Celebration food | Birthday centerpiece; Cut into slices | Layers and frosting; Candles on top | Pie; Brownie; Tart
+Pie | Dessert; Baked dish | Holiday tradition; Cooled on windowsills | Flaky crust; Fruit filling | Tart; Cake; Cobbler
+Cookie | Sweet snack; Baked treat | Dunked in milk; Kids love them | Chocolate chips; Round and crunchy | Biscuit; Brownie; Cracker
+Brownie | Chocolate treat; Baked dessert | Gooey center; Bake sale favorite | Square slab; Fudgy texture | Cookie; Cake; Fudge
+Ice cream | Frozen dessert; Summer treat | Sold by trucks; Melts quickly | Served in cones; Many flavors | Frozen yogurt; Sorbet; Gelato
+Chocolate | Sweet treat; Cocoa product | Valentine gift; Melts in hand | Comes in bars; Dark or milk | Candy; Caramel; Fudge
+Candy | Sweet treat; Sugary snack | Halloween haul; Bad for teeth | Colorful wrappers; Lollipops and gummies | Chocolate; Gum; Toffee
+Cheese | Dairy product; Aged food | Made from milk; Many varieties | Holes in some types; Melts on pizza | Butter; Yogurt; Tofu
+Bread | Staple food; Baked good | Made from flour; Rises with yeast | Comes in loaves; Sliced for toast | Cake; Biscuit; Bun
+Toast | Breakfast food; Simple snack | Browned in a slot; Spread with butter | Golden brown; Crunchy bread slice | Bread; Cracker; Waffle
+Butter | Dairy product; Spread | Churned from cream; Used in baking | Melts on toast; Comes in sticks | Cheese; Margarine; Jam
+Yogurt | Dairy product; Healthy snack | Eaten with spoon; Has live cultures | Tangy and creamy; Topped with granola | Pudding; Cream; Cheese
+Egg | Breakfast staple; Protein food | Laid by hens; Boiled or fried | Yolk and white; Fragile shell | Bacon; Toast; Pancake
+Bacon | Breakfast meat; Pork product | Sizzles in pan; Smells amazing | Crispy strips; Salty and smoky | Ham; Sausage; Jerky
+Sausage | Meat product; Grilled food | Served at barbecues; Breakfast side | Stuffed casing; Long and plump | Hot dog; Bacon; Salami
+Ham | Pork product; Deli meat | Holiday roast; Sandwich filler | Pink slices; Glazed and baked | Bacon; Turkey; Salami
+Meatball | Italian favorite; Comfort food | Served with spaghetti; Grandma recipe | Round and saucy; Rolled by hand | Burger; Dumpling; Sausage
+Kebab | Grilled food; Street food | Middle eastern classic; Late night snack | Meat on skewers; Charred edges | Shawarma; Burger; Taco
+Falafel | Middle eastern food; Vegan snack | Stuffed in pita; Street food | Fried chickpea balls; Green inside | Hummus; Kebab; Samosa
+Hummus | Dip; Middle eastern food | Eaten with pita; Healthy snack | Chickpea paste; Drizzled with oil | Guacamole; Salsa; Falafel
+Guacamole | Mexican dip; Green dip | Served with chips; Party favorite | Mashed avocado; Lime and cilantro | Salsa; Hummus; Pesto
+Salsa | Mexican dip; Spicy sauce | Served with chips; Mild or hot | Chopped tomatoes; Onion and chili | Guacamole; Ketchup; Chutney
+Ketchup | Condiment; Red sauce | Goes on fries; Squeezed from bottles | Tomato based; Sweet and tangy | Mustard; Mayo; Salsa
+Mustard | Condiment; Yellow sauce | Goes on hot dogs; Tangy flavor | Made from seeds; Bright yellow | Ketchup; Mayo; Relish
+Mayonnaise | Condiment; Creamy sauce | Sandwich spread; Base for dressings | Whipped egg and oil; Pale white | Mustard; Ketchup; Aioli
+Honey | Sweetener; Natural syrup | Made by bees; Never spoils | Golden and sticky; Stirred into tea | Syrup; Jam; Sugar
+Jam | Fruit spread; Sweet spread | Spread on toast; Homemade in jars | Cooked fruit and sugar; Sticky and sweet | Honey; Jelly; Marmalade
+Peanut butter | Spread; Nut product | Sandwich classic; Sticks to mouth | Creamy or crunchy; Paired with jelly | Nutella; Jam; Hummus
+Cereal | Breakfast food; Boxed food | Poured with milk; Cartoon mascots | Crunchy flakes; Eaten from bowls | Oatmeal; Granola; Toast
+Oatmeal | Breakfast food; Warm porridge | Healthy start; Cooked with milk | Rolled oats; Topped with fruit | Cereal; Porridge; Granola
+Rice | Staple grain; Side dish | Eaten worldwide; Cooked in water | Tiny white grains; Served with curry | Noodles; Quinoa; Couscous
+Tofu | Plant protein; Soy product | Vegetarian favorite; Takes on flavors | White blocks; Soft or firm | Paneer; Cheese; Tempeh
+Paneer | Indian cheese; Dairy product | Vegetarian favorite; Used in curries | Soft white cubes; Does not melt | Tofu; Cheese; Ricotta
+Samosa | Indian snack; Fried snack | Tea time treat; Street food | Triangle pastry; Spiced potato filling | Spring roll; Dumpling; Pakora
+Dosa | South indian dish; Breakfast dish | Served with chutney; Paired with sambar | Thin crispy crepe; Fermented batter | Idli; Pancake; Uttapam
+Idli | South indian dish; Breakfast food | Served with sambar; Light and healthy | Steamed rice cakes; Soft and fluffy | Dosa; Dumpling; Dhokla
+Naan | Flatbread; Indian bread | Baked in tandoor; Eaten with curry | Soft and chewy; Brushed with butter | Roti; Pita; Paratha
+Roti | Flatbread; Indian staple | Made at home daily; Eaten with dal | Whole wheat; Puffs on flame | Naan; Paratha; Tortilla
+Paratha | Flatbread; Indian breakfast | Stuffed with potato; Served with pickle | Flaky layers; Pan fried | Roti; Naan; Kulcha
+Dal | Lentil dish; Indian staple | Everyday comfort food; Served with rice | Yellow and soupy; Tempered spices | Curry; Soup; Sambar
+Sambar | South indian dish; Lentil stew | Served with idli; Tangy and spicy | Tamarind base; Drumstick vegetable | Dal; Rasam; Curry
+Pav bhaji | Street food; Indian dish | Mumbai favorite; Spicy and buttery | Mashed vegetable curry; Soft bread rolls | Vada pav; Misal; Chole
+Chole | Indian dish; Chickpea curry | Paired with bhature; Spicy and hearty | Tangy gravy; Dark spices | Dal; Rajma; Curry
+Gulab jamun | Indian sweet; Festive dessert | Served warm; Wedding favorite | Fried dough balls; Soaked in syrup | Rasgulla; Jalebi; Donut
+Jalebi | Indian sweet; Fried dessert | Festive treat; Street sweet | Orange spirals; Dipped in syrup | Gulab jamun; Churro; Funnel cake
+Kheer | Indian dessert; Milk pudding | Festive sweet; Served chilled or warm | Rice cooked in milk; Cardamom flavored | Pudding; Halwa; Custard
+Halwa | Indian dessert; Sweet dish | Temple offering; Winter treat | Made with ghee; Carrot or semolina | Kheer; Fudge; Ladoo
+Pudding | Dessert; Soft sweet | Served in cups; Kids snack | Creamy and wobbly; Chocolate or vanilla | Custard; Jelly; Yogurt
+Custard | Dessert; Creamy sweet | Served with pie; Made from eggs | Smooth and yellow; Vanilla flavored | Pudding; Cream; Flan
+Jelly | Dessert; Wobbly treat | Party favorite; Set in molds | Jiggles on plate; Fruit flavored | Pudding; Custard; Jam
+Granola | Breakfast food; Healthy snack | Hiking snack; Eaten with yogurt | Toasted oats; Clusters with nuts | Cereal; Oatmeal; Trail mix
+Trail mix | Crunchy snack; Hiking snack | Eaten by handfuls; Energy booster | Nuts and raisins; Chocolate bits | Granola; Popcorn; Chips
+Crackers | Snack food; Dry biscuit | Paired with cheese; Soup topper | Thin and crisp; Salted squares | Chips; Cookie; Pretzel
+Spring roll | Asian snack; Fried appetizer | Dipped in sweet sauce; Party starter | Crispy wrapper; Vegetable filling | Samosa; Dumpling; Egg roll
+Quesadilla | Mexican dish; Cheesy snack | Grilled and folded; Cut into wedges | Melted cheese inside; Toasted tortilla | Taco; Burrito; Panini
+Paella | Spanish dish; Rice dish | Wide shallow pan; Shared feast | Saffron rice; Seafood topped | Risotto; Biryani; Jambalaya
+Risotto | Italian dish; Rice dish | Stirred constantly; Slow cooked | Creamy texture; Arborio grains | Paella; Pasta; Porridge
+Stew | Hearty dish; Slow food | Simmered for hours; Winter comfort | Chunks of meat; Thick broth | Soup; Curry; Chili
+Chili | Spicy dish; Stew | Cooked in big pots; Cook off contests | Beans and minced meat; Topped with cheese | Stew; Curry; Soup
+Barbecue | Outdoor cooking; Grilled food | Summer party; Smoky flavors | Charcoal grill; Basted ribs | Picnic; Roast; Kebab
+Roast chicken | Sunday dinner; Oven dish | Family meal; Carved at the table | Golden skin; Stuffed and baked | Fried chicken; Turkey; Duck
+Fish fingers | Frozen food; Kids meal | Oven baked; Served with peas | Breaded strips; Dipped in ketchup | Nuggets; Burger; Kebab
+Shawarma | Middle eastern food; Street food | Late night snack; Rolled in flatbread | Meat shaved from spit; Garlic sauce | Kebab; Gyro; Burrito
+Gyro | Greek food; Street wrap | Eaten on the go; Rolled in pita | Rotating meat spit; Yogurt sauce | Shawarma; Kebab; Taco
+Pho | Vietnamese soup; Noodle dish | Fragrant broth; Street stall favorite | Rice noodles; Fresh herbs on top | Ramen; Udon; Laksa
+Tempura | Japanese dish; Fried food | Light and crispy; Dipped in sauce | Battered shrimp; Fried vegetables | Sushi; Katsu; Pakora
+Pakora | Indian snack; Fried fritter | Rainy day snack; Served with chai | Chickpea batter; Onion or spinach | Samosa; Tempura; Bhaji
+Corn dog | Fair food; Fried snack | Sold at carnivals; Eaten on a stick | Battered sausage; Dipped in mustard | Hot dog; Pretzel; Kebab
+Meatloaf | Comfort food; Baked dish | Family dinner; Sliced and served | Minced beef block; Ketchup glaze | Meatball; Burger; Shepherd pie
+Mashed potato | Side dish; Comfort food | Holiday dinner side; Served with gravy | Creamy and smooth; Whipped with butter | Fries; Hash brown; Gnocchi
+Gravy | Sauce; Savory topping | Poured over roast; Holiday staple | Thick brown sauce; Made from drippings | Sauce; Broth; Ketchup
+Coleslaw | Side dish; Cold salad | Served at barbecues; Crunchy and creamy | Shredded cabbage; Mayo dressing | Salad; Pickles; Potato salad
+Pickle | Preserved food; Tangy snack | Sour and crunchy; Kept in jars | Brined cucumber; Vinegar flavor | Olive; Relish; Chutney
+Olive | Mediterranean food; Small fruit | Pressed for oil; Pizza topping | Green or black; Has a pit | Pickle; Grape; Caper
+Popsicle | Frozen treat; Summer snack | Melts in sunshine; Sold from carts | Ice on a stick; Fruity colors | Ice cream; Slushie; Sorbet
+Lollipop | Candy; Sweet treat | Given at doctors; Kids favorite | Candy on a stick; Swirly colors | Candy; Gum; Toffee
+Marshmallow | Sweet treat; Campfire snack | Toasted on sticks; Floats in cocoa | Soft and puffy; White and spongy | Candy floss; Meringue; Gummy
+Cotton candy | Fair treat; Sugary snack | Sold at carnivals; Melts in mouth | Fluffy spun sugar; Pink cloud | Marshmallow; Popcorn; Lollipop
+Caramel | Sweet treat; Sauce | Drizzled on desserts; Sticky and chewy | Cooked sugar; Golden brown | Toffee; Fudge; Butterscotch
+Toffee | Candy; Sweet treat | Sticks to teeth; Wrapped individually | Hard and buttery; Brown sugar candy | Caramel; Fudge; Candy
+Fudge | Sweet treat; Rich candy | Sold in gift shops; Homemade treat | Dense squares; Chocolate flavored | Brownie; Toffee; Caramel
+Gum | Chewy candy; Breath freshener | Never swallow it; Blown into bubbles | Minty flavor; Sticks under desks | Candy; Mint; Toffee
+Tart | Pastry; Dessert | Bakery display; Served in slices | Open top crust; Fruit filling | Pie; Quiche; Cake
+Quiche | French dish; Savory pie | Brunch favorite; Served in wedges | Egg custard filling; Pastry crust | Omelette; Pie; Frittata
+Crepe | French food; Thin pancake | Street stall treat; Sweet or savory | Paper thin; Folded with filling | Pancake; Waffle; Dosa
+Scone | British bake; Tea time treat | Served with cream; Afternoon tea | Crumbly texture; Jam topping | Muffin; Biscuit; Bun
+Cheesecake | Dessert; Chilled slice | Restaurant favorite; Served chilled | Soft white filling; Biscuit base | Tart; Pie; Mousse
+Tiramisu | Italian dessert; Layered sweet | Coffee flavored; Served chilled | Soaked ladyfingers; Cocoa dusted | Cheesecake; Trifle; Mousse
+Churro | Spanish snack; Fried dough | Dipped in chocolate; Fair treat | Ridged sticks; Cinnamon sugar | Donut; Jalebi; Pretzel
+Granola bar | Lunchbox treat; Packed snack | Lunchbox staple; Eaten on the go | Chewy oat block; Nutty clusters | Protein bar; Cookie; Trail mix
+Tortilla | Flatbread; Mexican staple | Used for wraps; Warmed on griddle | Thin and round; Corn or flour | Roti; Pita; Naan
+Pita | Flatbread; Middle eastern bread | Dipped in hummus; Stuffed with falafel | Pocket in middle; Puffy and round | Naan; Tortilla; Roti
+Bun | Bread roll; Soft bread | Holds a burger; Sweet or savory | Round and fluffy; Sesame seeds on top | Roll; Bagel; Muffin
+Garlic bread | Side dish; Italian side | Served with pasta; Oven baked | Buttery and crispy; Herb topped slices | Toast; Breadsticks; Focaccia
+Lentil soup | Healthy bowl; Warm dish | Winter comfort; Simple and cheap | Thick and hearty; Made from pulses | Minestrone; Dal; Stew
+Fruit salad | Healthy dessert; Cold dish | Summer picnic; Served in bowls | Chopped mixed berries; Colorful and juicy | Smoothie; Sundae; Parfait
+Jerky | Dried meat; Snack | Road trip snack; Lasts a long time | Chewy strips; Smoky and salty | Bacon; Sausage; Salami
+Salami | Cured meat; Deli meat | Sliced thin; Pizza topping | Spicy sausage; Marbled slices | Ham; Bacon; Sausage
+Sashimi | Japanese dish; Raw seafood | Served on ice; Eaten with wasabi | Thin raw slices; No rice | Sushi; Ceviche; Tempura
+Udon | Japanese noodles; Noodle dish | Served in hot broth; Comfort food | Thick chewy strands; Wheat based | Ramen; Pho; Soba
+Kimchi | Korean dish; Fermented food | Served with every meal; Made each winter | Spicy cabbage; Tangy and red | Sauerkraut; Pickle; Coleslaw
+Ravioli | Italian pasta; Stuffed pasta | Served with sauce; Homemade treat | Square pillows; Cheese filled | Dumpling; Tortellini; Lasagna
+Nuggets | Fast food; Kids meal | Dipped in sauces; Sold in boxes | Breaded bites; Bite sized pieces | Fries; Wings; Popcorn chicken
+Wings | Party food; Game day snack | Messy finger food; Hot or mild | Saucy and spicy; Small bones | Nuggets; Drumstick; Ribs
+Ribs | Barbecue food; Meat dish | Messy to eat; Slow smoked | Sticky sauce; Bones attached | Wings; Steak; Chops
+Vada pav | Indian street food; Spicy snack | Mumbai favorite; Cheap and filling | Potato fritter; Soft bread roll | Pav bhaji; Burger; Samosa
+Momos | Himalayan snack; Street food | Served with red chutney; Steamed or fried | Little dough pockets; Pleated tops | Dumpling; Samosa; Gyoza
+Upma | South indian dish; Breakfast dish | Quick morning meal; Savory porridge | Semolina based; Mustard seeds | Poha; Idli; Porridge
+Poha | Indian breakfast; Light dish | Quick morning meal; Sprinkled with peanuts | Flattened rice; Yellow turmeric | Upma; Fried rice; Pulao
+Ladoo | Indian sweet; Festive treat | Shared at celebrations; Offered at temples | Round balls; Made with ghee | Barfi; Halwa; Jalebi
+Bao | Asian snack; Steamed bread | Street stall favorite; Fluffy and soft | Folded around fillings; Pillowy white roll | Dumpling; Momos; Bagel

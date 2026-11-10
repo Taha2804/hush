@@ -1,0 +1,5242 @@
+{
+ "id": "hobbies",
+ "name": "Hobbies",
+ "words": [
+  {
+   "word": "Painting",
+   "hints": [
+    {
+     "text": "Art hobby",
+     "level": 1
+    },
+    {
+     "text": "Creative pastime",
+     "level": 1
+    },
+    {
+     "text": "Weekend canvases",
+     "level": 2
+    },
+    {
+     "text": "Gallery dreams",
+     "level": 2
+    },
+    {
+     "text": "Brushes and easel",
+     "level": 3
+    },
+    {
+     "text": "Watercolor or oil",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Drawing",
+    "Sculpting",
+    "Sketching"
+   ]
+  },
+  {
+   "word": "Drawing",
+   "hints": [
+    {
+     "text": "Art hobby",
+     "level": 1
+    },
+    {
+     "text": "Sketch practice",
+     "level": 1
+    },
+    {
+     "text": "Doodles in notebooks",
+     "level": 2
+    },
+    {
+     "text": "Portraits",
+     "level": 2
+    },
+    {
+     "text": "Pencil shading",
+     "level": 3
+    },
+    {
+     "text": "Paper pads",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Painting",
+    "Sketching",
+    "Calligraphy"
+   ]
+  },
+  {
+   "word": "Photography",
+   "hints": [
+    {
+     "text": "Visual hobby",
+     "level": 1
+    },
+    {
+     "text": "Picture taking",
+     "level": 1
+    },
+    {
+     "text": "Travel snapshots",
+     "level": 2
+    },
+    {
+     "text": "Golden hour",
+     "level": 2
+    },
+    {
+     "text": "Lens and tripod",
+     "level": 3
+    },
+    {
+     "text": "Shutter speed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Videography",
+    "Painting",
+    "Drawing"
+   ]
+  },
+  {
+   "word": "Gardening",
+   "hints": [
+    {
+     "text": "Outdoor hobby",
+     "level": 1
+    },
+    {
+     "text": "Plant care",
+     "level": 1
+    },
+    {
+     "text": "Growing vegetables",
+     "level": 2
+    },
+    {
+     "text": "Weekend digging",
+     "level": 2
+    },
+    {
+     "text": "Seeds and soil",
+     "level": 3
+    },
+    {
+     "text": "Watering can",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Farming",
+    "Landscaping",
+    "Composting"
+   ]
+  },
+  {
+   "word": "Cooking",
+   "hints": [
+    {
+     "text": "Kitchen hobby",
+     "level": 1
+    },
+    {
+     "text": "Food making",
+     "level": 1
+    },
+    {
+     "text": "Family recipes",
+     "level": 2
+    },
+    {
+     "text": "Trying cuisines",
+     "level": 2
+    },
+    {
+     "text": "Pots and pans",
+     "level": 3
+    },
+    {
+     "text": "Tasting spoons",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Baking",
+    "Grilling",
+    "Brewing"
+   ]
+  },
+  {
+   "word": "Baking",
+   "hints": [
+    {
+     "text": "Kitchen hobby",
+     "level": 1
+    },
+    {
+     "text": "Oven craft",
+     "level": 1
+    },
+    {
+     "text": "Bread and cakes",
+     "level": 2
+    },
+    {
+     "text": "Sweet aromas",
+     "level": 2
+    },
+    {
+     "text": "Flour and butter",
+     "level": 3
+    },
+    {
+     "text": "Mixing bowls",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cooking",
+    "Grilling",
+    "Decorating"
+   ]
+  },
+  {
+   "word": "Knitting",
+   "hints": [
+    {
+     "text": "Craft hobby",
+     "level": 1
+    },
+    {
+     "text": "Yarn craft",
+     "level": 1
+    },
+    {
+     "text": "Scarves for gifts",
+     "level": 2
+    },
+    {
+     "text": "Grandma favorite",
+     "level": 2
+    },
+    {
+     "text": "Two needles",
+     "level": 3
+    },
+    {
+     "text": "Balls of wool",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Crochet",
+    "Sewing",
+    "Weaving"
+   ]
+  },
+  {
+   "word": "Crochet",
+   "hints": [
+    {
+     "text": "Craft hobby",
+     "level": 1
+    },
+    {
+     "text": "Yarn craft",
+     "level": 1
+    },
+    {
+     "text": "Blankets and toys",
+     "level": 2
+    },
+    {
+     "text": "Granny squares",
+     "level": 2
+    },
+    {
+     "text": "Single hook",
+     "level": 3
+    },
+    {
+     "text": "Looped stitches",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Knitting",
+    "Embroidery",
+    "Macrame"
+   ]
+  },
+  {
+   "word": "Sewing",
+   "hints": [
+    {
+     "text": "Craft hobby",
+     "level": 1
+    },
+    {
+     "text": "Fabric craft",
+     "level": 1
+    },
+    {
+     "text": "Making clothes",
+     "level": 2
+    },
+    {
+     "text": "Mending tears",
+     "level": 2
+    },
+    {
+     "text": "Needle and thread",
+     "level": 3
+    },
+    {
+     "text": "Machine pedal",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Knitting",
+    "Embroidery",
+    "Quilting"
+   ]
+  },
+  {
+   "word": "Embroidery",
+   "hints": [
+    {
+     "text": "Craft hobby",
+     "level": 1
+    },
+    {
+     "text": "Needle art",
+     "level": 1
+    },
+    {
+     "text": "Decorative patterns",
+     "level": 2
+    },
+    {
+     "text": "Hoops on walls",
+     "level": 2
+    },
+    {
+     "text": "Colored floss",
+     "level": 3
+    },
+    {
+     "text": "Hoop frame",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cross stitch",
+    "Sewing",
+    "Knitting"
+   ]
+  },
+  {
+   "word": "Quilting",
+   "hints": [
+    {
+     "text": "Craft hobby",
+     "level": 1
+    },
+    {
+     "text": "Patchwork",
+     "level": 1
+    },
+    {
+     "text": "Family heirlooms",
+     "level": 2
+    },
+    {
+     "text": "Sewing circles",
+     "level": 2
+    },
+    {
+     "text": "Fabric squares",
+     "level": 3
+    },
+    {
+     "text": "Stitched layers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sewing",
+    "Knitting",
+    "Weaving"
+   ]
+  },
+  {
+   "word": "Pottery",
+   "hints": [
+    {
+     "text": "Craft hobby",
+     "level": 1
+    },
+    {
+     "text": "Clay art",
+     "level": 1
+    },
+    {
+     "text": "Throwing bowls",
+     "level": 2
+    },
+    {
+     "text": "Messy hands",
+     "level": 2
+    },
+    {
+     "text": "Spinning wheel",
+     "level": 3
+    },
+    {
+     "text": "Kiln firing",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sculpting",
+    "Ceramics",
+    "Glassblowing"
+   ]
+  },
+  {
+   "word": "Woodworking",
+   "hints": [
+    {
+     "text": "Craft hobby",
+     "level": 1
+    },
+    {
+     "text": "Carpentry",
+     "level": 1
+    },
+    {
+     "text": "Building furniture",
+     "level": 2
+    },
+    {
+     "text": "Garage workshop",
+     "level": 2
+    },
+    {
+     "text": "Saws and chisels",
+     "level": 3
+    },
+    {
+     "text": "Sawdust",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Carving",
+    "Metalwork",
+    "Pottery"
+   ]
+  },
+  {
+   "word": "Origami",
+   "hints": [
+    {
+     "text": "Paper craft",
+     "level": 1
+    },
+    {
+     "text": "Japanese folding",
+     "level": 1
+    },
+    {
+     "text": "Paper cranes",
+     "level": 2
+    },
+    {
+     "text": "Classroom fun",
+     "level": 2
+    },
+    {
+     "text": "Folded squares",
+     "level": 3
+    },
+    {
+     "text": "No glue",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kirigami",
+    "Calligraphy",
+    "Scrapbooking"
+   ]
+  },
+  {
+   "word": "Scrapbooking",
+   "hints": [
+    {
+     "text": "Craft hobby",
+     "level": 1
+    },
+    {
+     "text": "Memory keeping",
+     "level": 1
+    },
+    {
+     "text": "Photo albums",
+     "level": 2
+    },
+    {
+     "text": "Stickers and washi",
+     "level": 2
+    },
+    {
+     "text": "Decorated pages",
+     "level": 3
+    },
+    {
+     "text": "Glue and ribbons",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Journaling",
+    "Collage",
+    "Origami"
+   ]
+  },
+  {
+   "word": "Calligraphy",
+   "hints": [
+    {
+     "text": "Writing art",
+     "level": 1
+    },
+    {
+     "text": "Lettering hobby",
+     "level": 1
+    },
+    {
+     "text": "Wedding invitations",
+     "level": 2
+    },
+    {
+     "text": "Elegant scripts",
+     "level": 2
+    },
+    {
+     "text": "Nib pens",
+     "level": 3
+    },
+    {
+     "text": "Ink pots",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Drawing",
+    "Origami",
+    "Typography"
+   ]
+  },
+  {
+   "word": "Journaling",
+   "hints": [
+    {
+     "text": "Writing hobby",
+     "level": 1
+    },
+    {
+     "text": "Diary keeping",
+     "level": 1
+    },
+    {
+     "text": "Daily reflections",
+     "level": 2
+    },
+    {
+     "text": "Gratitude lists",
+     "level": 2
+    },
+    {
+     "text": "Notebook and pen",
+     "level": 3
+    },
+    {
+     "text": "Bedside habit",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Blogging",
+    "Scrapbooking",
+    "Poetry"
+   ]
+  },
+  {
+   "word": "Reading",
+   "hints": [
+    {
+     "text": "Quiet hobby",
+     "level": 1
+    },
+    {
+     "text": "Book loving",
+     "level": 1
+    },
+    {
+     "text": "Book clubs",
+     "level": 2
+    },
+    {
+     "text": "Bedtime chapters",
+     "level": 2
+    },
+    {
+     "text": "Novels and libraries",
+     "level": 3
+    },
+    {
+     "text": "Bookmarks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Writing",
+    "Listening",
+    "Studying"
+   ]
+  },
+  {
+   "word": "Writing",
+   "hints": [
+    {
+     "text": "Creative hobby",
+     "level": 1
+    },
+    {
+     "text": "Storytelling",
+     "level": 1
+    },
+    {
+     "text": "Novels and poems",
+     "level": 2
+    },
+    {
+     "text": "Writer's notebook",
+     "level": 2
+    },
+    {
+     "text": "Plot outlines",
+     "level": 3
+    },
+    {
+     "text": "Drafts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Reading",
+    "Journaling",
+    "Blogging"
+   ]
+  },
+  {
+   "word": "Blogging",
+   "hints": [
+    {
+     "text": "Online hobby",
+     "level": 1
+    },
+    {
+     "text": "Web writing",
+     "level": 1
+    },
+    {
+     "text": "Sharing opinions",
+     "level": 2
+    },
+    {
+     "text": "Followers",
+     "level": 2
+    },
+    {
+     "text": "Posts and comments",
+     "level": 3
+    },
+    {
+     "text": "Personal site",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Vlogging",
+    "Journaling",
+    "Podcasting"
+   ]
+  },
+  {
+   "word": "Vlogging",
+   "hints": [
+    {
+     "text": "Online hobby",
+     "level": 1
+    },
+    {
+     "text": "Video diary",
+     "level": 1
+    },
+    {
+     "text": "Daily uploads",
+     "level": 2
+    },
+    {
+     "text": "Talking to camera",
+     "level": 2
+    },
+    {
+     "text": "Selfie stick",
+     "level": 3
+    },
+    {
+     "text": "Editing software",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Blogging",
+    "Streaming",
+    "Photography"
+   ]
+  },
+  {
+   "word": "Podcasting",
+   "hints": [
+    {
+     "text": "Audio hobby",
+     "level": 1
+    },
+    {
+     "text": "Talk show making",
+     "level": 1
+    },
+    {
+     "text": "Interviews with guests",
+     "level": 2
+    },
+    {
+     "text": "Weekly episodes",
+     "level": 2
+    },
+    {
+     "text": "Microphone",
+     "level": 3
+    },
+    {
+     "text": "Audio editing",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Blogging",
+    "Radio",
+    "Vlogging"
+   ]
+  },
+  {
+   "word": "Gaming",
+   "hints": [
+    {
+     "text": "Digital hobby",
+     "level": 1
+    },
+    {
+     "text": "Video games",
+     "level": 1
+    },
+    {
+     "text": "Late night sessions",
+     "level": 2
+    },
+    {
+     "text": "Online friends",
+     "level": 2
+    },
+    {
+     "text": "Controllers and headsets",
+     "level": 3
+    },
+    {
+     "text": "High scores",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Board games",
+    "Puzzles",
+    "Esports"
+   ]
+  },
+  {
+   "word": "Board games",
+   "hints": [
+    {
+     "text": "Tabletop hobby",
+     "level": 1
+    },
+    {
+     "text": "Family fun",
+     "level": 1
+    },
+    {
+     "text": "Family evenings",
+     "level": 2
+    },
+    {
+     "text": "Rolling dice",
+     "level": 2
+    },
+    {
+     "text": "Tokens and pieces",
+     "level": 3
+    },
+    {
+     "text": "Rule books",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Card games",
+    "Puzzles",
+    "Gaming"
+   ]
+  },
+  {
+   "word": "Chess",
+   "hints": [
+    {
+     "text": "Strategy game",
+     "level": 1
+    },
+    {
+     "text": "Board hobby",
+     "level": 1
+    },
+    {
+     "text": "Tournaments",
+     "level": 2
+    },
+    {
+     "text": "Grandmasters",
+     "level": 2
+    },
+    {
+     "text": "Checkmate",
+     "level": 3
+    },
+    {
+     "text": "Knights and bishops",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Checkers",
+    "Shogi",
+    "Backgammon"
+   ]
+  },
+  {
+   "word": "Puzzles",
+   "hints": [
+    {
+     "text": "Brain hobby",
+     "level": 1
+    },
+    {
+     "text": "Problem solving",
+     "level": 1
+    },
+    {
+     "text": "Rainy day activity",
+     "level": 2
+    },
+    {
+     "text": "Thousand pieces",
+     "level": 2
+    },
+    {
+     "text": "Jigsaw edges",
+     "level": 3
+    },
+    {
+     "text": "Corner pieces first",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Crosswords",
+    "Sudoku",
+    "Board games"
+   ]
+  },
+  {
+   "word": "Crossword",
+   "hints": [
+    {
+     "text": "Vocabulary puzzle",
+     "level": 1
+    },
+    {
+     "text": "Newspaper game",
+     "level": 1
+    },
+    {
+     "text": "Sunday morning",
+     "level": 2
+    },
+    {
+     "text": "Ink pens",
+     "level": 2
+    },
+    {
+     "text": "Grid of squares",
+     "level": 3
+    },
+    {
+     "text": "Clues across and down",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sudoku",
+    "Word search",
+    "Puzzles"
+   ]
+  },
+  {
+   "word": "Sudoku",
+   "hints": [
+    {
+     "text": "Number puzzle",
+     "level": 1
+    },
+    {
+     "text": "Logic game",
+     "level": 1
+    },
+    {
+     "text": "Newspaper puzzle",
+     "level": 2
+    },
+    {
+     "text": "Commute pastime",
+     "level": 2
+    },
+    {
+     "text": "Nine by nine grid",
+     "level": 3
+    },
+    {
+     "text": "No repeats",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Crossword",
+    "Kakuro",
+    "Chess"
+   ]
+  },
+  {
+   "word": "Collecting",
+   "hints": [
+    {
+     "text": "Hobby type",
+     "level": 1
+    },
+    {
+     "text": "Gathering items",
+     "level": 1
+    },
+    {
+     "text": "Displays and albums",
+     "level": 2
+    },
+    {
+     "text": "Rare finds",
+     "level": 2
+    },
+    {
+     "text": "Shelves of treasures",
+     "level": 3
+    },
+    {
+     "text": "Catalog lists",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hoarding",
+    "Trading",
+    "Shopping"
+   ]
+  },
+  {
+   "word": "Stamp collecting",
+   "hints": [
+    {
+     "text": "Postal hobby",
+     "level": 1
+    },
+    {
+     "text": "Philately",
+     "level": 1
+    },
+    {
+     "text": "Rare postage",
+     "level": 2
+    },
+    {
+     "text": "Albums and tweezers",
+     "level": 2
+    },
+    {
+     "text": "Perforated edges",
+     "level": 3
+    },
+    {
+     "text": "Postmarks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Coin collecting",
+    "Scrapbooking",
+    "Origami"
+   ]
+  },
+  {
+   "word": "Coin collecting",
+   "hints": [
+    {
+     "text": "Currency hobby",
+     "level": 1
+    },
+    {
+     "text": "Numismatics",
+     "level": 1
+    },
+    {
+     "text": "Rare currency",
+     "level": 2
+    },
+    {
+     "text": "Magnifying glass",
+     "level": 2
+    },
+    {
+     "text": "Mint condition",
+     "level": 3
+    },
+    {
+     "text": "Old currency",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Stamp collecting",
+    "Antiques",
+    "Medals"
+   ]
+  },
+  {
+   "word": "Birdwatching",
+   "hints": [
+    {
+     "text": "Nature hobby",
+     "level": 1
+    },
+    {
+     "text": "Feather spotting",
+     "level": 1
+    },
+    {
+     "text": "Early mornings",
+     "level": 2
+    },
+    {
+     "text": "Field guides",
+     "level": 2
+    },
+    {
+     "text": "Binoculars",
+     "level": 3
+    },
+    {
+     "text": "Notebook tallies",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hiking",
+    "Photography",
+    "Fishing"
+   ]
+  },
+  {
+   "word": "Fishing",
+   "hints": [
+    {
+     "text": "Outdoor hobby",
+     "level": 1
+    },
+    {
+     "text": "Angling",
+     "level": 1
+    },
+    {
+     "text": "Patient waiting",
+     "level": 2
+    },
+    {
+     "text": "Lake weekends",
+     "level": 2
+    },
+    {
+     "text": "Rod and reel",
+     "level": 3
+    },
+    {
+     "text": "Bait and tackle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hunting",
+    "Boating",
+    "Birdwatching"
+   ]
+  },
+  {
+   "word": "Hiking",
+   "hints": [
+    {
+     "text": "Outdoor hobby",
+     "level": 1
+    },
+    {
+     "text": "Trail walking",
+     "level": 1
+    },
+    {
+     "text": "Mountain views",
+     "level": 2
+    },
+    {
+     "text": "Weekend escapes",
+     "level": 2
+    },
+    {
+     "text": "Boots and backpack",
+     "level": 3
+    },
+    {
+     "text": "Trail maps",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Camping",
+    "Climbing",
+    "Running"
+   ]
+  },
+  {
+   "word": "Camping",
+   "hints": [
+    {
+     "text": "Outdoor hobby",
+     "level": 1
+    },
+    {
+     "text": "Nights in nature",
+     "level": 1
+    },
+    {
+     "text": "Campfires and stories",
+     "level": 2
+    },
+    {
+     "text": "Starry skies",
+     "level": 2
+    },
+    {
+     "text": "Tents and sleeping bags",
+     "level": 3
+    },
+    {
+     "text": "Marshmallows",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hiking",
+    "Glamping",
+    "Fishing"
+   ]
+  },
+  {
+   "word": "Cycling",
+   "hints": [
+    {
+     "text": "Outdoor hobby",
+     "level": 1
+    },
+    {
+     "text": "Bike riding",
+     "level": 1
+    },
+    {
+     "text": "Weekend rides",
+     "level": 2
+    },
+    {
+     "text": "Fitness trails",
+     "level": 2
+    },
+    {
+     "text": "Helmet and pedals",
+     "level": 3
+    },
+    {
+     "text": "Water bottle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Running",
+    "Hiking",
+    "Skating"
+   ]
+  },
+  {
+   "word": "Running",
+   "hints": [
+    {
+     "text": "Fitness hobby",
+     "level": 1
+    },
+    {
+     "text": "Jogging",
+     "level": 1
+    },
+    {
+     "text": "Morning routine",
+     "level": 2
+    },
+    {
+     "text": "Marathon goals",
+     "level": 2
+    },
+    {
+     "text": "Sneakers",
+     "level": 3
+    },
+    {
+     "text": "Fitness tracker",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cycling",
+    "Walking",
+    "Swimming"
+   ]
+  },
+  {
+   "word": "Swimming",
+   "hints": [
+    {
+     "text": "Fitness hobby",
+     "level": 1
+    },
+    {
+     "text": "Water sport",
+     "level": 1
+    },
+    {
+     "text": "Pool laps",
+     "level": 2
+    },
+    {
+     "text": "Summer beaches",
+     "level": 2
+    },
+    {
+     "text": "Goggles and cap",
+     "level": 3
+    },
+    {
+     "text": "Freestyle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Diving",
+    "Running",
+    "Surfing"
+   ]
+  },
+  {
+   "word": "Yoga",
+   "hints": [
+    {
+     "text": "Fitness hobby",
+     "level": 1
+    },
+    {
+     "text": "Mindful exercise",
+     "level": 1
+    },
+    {
+     "text": "Morning stretches",
+     "level": 2
+    },
+    {
+     "text": "Calm breathing",
+     "level": 2
+    },
+    {
+     "text": "Mats and poses",
+     "level": 3
+    },
+    {
+     "text": "Sun salutation",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pilates",
+    "Meditation",
+    "Tai chi"
+   ]
+  },
+  {
+   "word": "Meditation",
+   "hints": [
+    {
+     "text": "Mindful hobby",
+     "level": 1
+    },
+    {
+     "text": "Calm practice",
+     "level": 1
+    },
+    {
+     "text": "Quiet mornings",
+     "level": 2
+    },
+    {
+     "text": "Stress relief",
+     "level": 2
+    },
+    {
+     "text": "Closed eyes",
+     "level": 3
+    },
+    {
+     "text": "Breathing focus",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Yoga",
+    "Prayer",
+    "Napping"
+   ]
+  },
+  {
+   "word": "Dancing",
+   "hints": [
+    {
+     "text": "Movement hobby",
+     "level": 1
+    },
+    {
+     "text": "Rhythm activity",
+     "level": 1
+    },
+    {
+     "text": "Classes and parties",
+     "level": 2
+    },
+    {
+     "text": "Wedding floors",
+     "level": 2
+    },
+    {
+     "text": "Steps and spins",
+     "level": 3
+    },
+    {
+     "text": "Music beats",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Singing",
+    "Aerobics",
+    "Gymnastics"
+   ]
+  },
+  {
+   "word": "Singing",
+   "hints": [
+    {
+     "text": "Musical hobby",
+     "level": 1
+    },
+    {
+     "text": "Vocal practice",
+     "level": 1
+    },
+    {
+     "text": "Shower concerts",
+     "level": 2
+    },
+    {
+     "text": "Karaoke nights",
+     "level": 2
+    },
+    {
+     "text": "Scales and songs",
+     "level": 3
+    },
+    {
+     "text": "Microphone",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dancing",
+    "Humming",
+    "Rapping"
+   ]
+  },
+  {
+   "word": "Karaoke",
+   "hints": [
+    {
+     "text": "Singing activity",
+     "level": 1
+    },
+    {
+     "text": "Party fun",
+     "level": 1
+    },
+    {
+     "text": "Friends cheer",
+     "level": 2
+    },
+    {
+     "text": "Off key performances",
+     "level": 2
+    },
+    {
+     "text": "Lyrics on screen",
+     "level": 3
+    },
+    {
+     "text": "Microphone",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Singing",
+    "Dancing",
+    "Open mic"
+   ]
+  },
+  {
+   "word": "Playing guitar",
+   "hints": [
+    {
+     "text": "Musical hobby",
+     "level": 1
+    },
+    {
+     "text": "String practice",
+     "level": 1
+    },
+    {
+     "text": "Campfire songs",
+     "level": 2
+    },
+    {
+     "text": "Learning chords",
+     "level": 2
+    },
+    {
+     "text": "Six strings",
+     "level": 3
+    },
+    {
+     "text": "Pick in hand",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Playing piano",
+    "Singing",
+    "Drumming"
+   ]
+  },
+  {
+   "word": "Playing piano",
+   "hints": [
+    {
+     "text": "Musical hobby",
+     "level": 1
+    },
+    {
+     "text": "Keyboard practice",
+     "level": 1
+    },
+    {
+     "text": "Lessons and recitals",
+     "level": 2
+    },
+    {
+     "text": "Classical pieces",
+     "level": 2
+    },
+    {
+     "text": "Keys and pedals",
+     "level": 3
+    },
+    {
+     "text": "Sheet music",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Playing guitar",
+    "Singing",
+    "Composing"
+   ]
+  },
+  {
+   "word": "Drumming",
+   "hints": [
+    {
+     "text": "Musical hobby",
+     "level": 1
+    },
+    {
+     "text": "Rhythm practice",
+     "level": 1
+    },
+    {
+     "text": "Loud practice",
+     "level": 2
+    },
+    {
+     "text": "Garage bands",
+     "level": 2
+    },
+    {
+     "text": "Sticks and kit",
+     "level": 3
+    },
+    {
+     "text": "Keeping time",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Playing guitar",
+    "Dancing",
+    "Beatboxing"
+   ]
+  },
+  {
+   "word": "Magic tricks",
+   "hints": [
+    {
+     "text": "Performance hobby",
+     "level": 1
+    },
+    {
+     "text": "Illusions",
+     "level": 1
+    },
+    {
+     "text": "Party illusions",
+     "level": 2
+    },
+    {
+     "text": "Pulling coins",
+     "level": 2
+    },
+    {
+     "text": "Deck of cards",
+     "level": 3
+    },
+    {
+     "text": "Top hat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Juggling",
+    "Comedy",
+    "Puppetry"
+   ]
+  },
+  {
+   "word": "Juggling",
+   "hints": [
+    {
+     "text": "Skill hobby",
+     "level": 1
+    },
+    {
+     "text": "Circus art",
+     "level": 1
+    },
+    {
+     "text": "Street performers",
+     "level": 2
+    },
+    {
+     "text": "Practice in parks",
+     "level": 2
+    },
+    {
+     "text": "Balls in the air",
+     "level": 3
+    },
+    {
+     "text": "Hand eye coordination",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Magic tricks",
+    "Unicycling",
+    "Yo yo"
+   ]
+  },
+  {
+   "word": "Kite flying",
+   "hints": [
+    {
+     "text": "Outdoor hobby",
+     "level": 1
+    },
+    {
+     "text": "Windy pastime",
+     "level": 1
+    },
+    {
+     "text": "Beach afternoons",
+     "level": 2
+    },
+    {
+     "text": "Festival battles",
+     "level": 2
+    },
+    {
+     "text": "String and spool",
+     "level": 3
+    },
+    {
+     "text": "Diamond shape",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Frisbee",
+    "Paragliding",
+    "Sailing"
+   ]
+  },
+  {
+   "word": "Model building",
+   "hints": [
+    {
+     "text": "Craft hobby",
+     "level": 1
+    },
+    {
+     "text": "Miniature making",
+     "level": 1
+    },
+    {
+     "text": "Ships in bottles",
+     "level": 2
+    },
+    {
+     "text": "Miniature railways",
+     "level": 2
+    },
+    {
+     "text": "Glue and tiny parts",
+     "level": 3
+    },
+    {
+     "text": "Paint brushes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lego",
+    "Woodworking",
+    "Collecting"
+   ]
+  },
+  {
+   "word": "Model trains",
+   "hints": [
+    {
+     "text": "Miniature hobby",
+     "level": 1
+    },
+    {
+     "text": "Railway replicas",
+     "level": 1
+    },
+    {
+     "text": "Basement layouts",
+     "level": 2
+    },
+    {
+     "text": "Holiday displays",
+     "level": 2
+    },
+    {
+     "text": "Tiny tracks",
+     "level": 3
+    },
+    {
+     "text": "Scenery villages",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Model building",
+    "Collecting",
+    "Lego"
+   ]
+  },
+  {
+   "word": "Lego",
+   "hints": [
+    {
+     "text": "Building toy",
+     "level": 1
+    },
+    {
+     "text": "Brick hobby",
+     "level": 1
+    },
+    {
+     "text": "Adult collectors",
+     "level": 2
+    },
+    {
+     "text": "Sets with manuals",
+     "level": 2
+    },
+    {
+     "text": "Interlocking bricks",
+     "level": 3
+    },
+    {
+     "text": "Minifigures",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Model building",
+    "Puzzles",
+    "Blocks"
+   ]
+  },
+  {
+   "word": "Astronomy",
+   "hints": [
+    {
+     "text": "Science hobby",
+     "level": 1
+    },
+    {
+     "text": "Stargazing",
+     "level": 1
+    },
+    {
+     "text": "Meteor showers",
+     "level": 2
+    },
+    {
+     "text": "Dark sky sites",
+     "level": 2
+    },
+    {
+     "text": "Telescope",
+     "level": 3
+    },
+    {
+     "text": "Star charts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Birdwatching",
+    "Photography",
+    "Astrology"
+   ]
+  },
+  {
+   "word": "Stargazing",
+   "hints": [
+    {
+     "text": "Night hobby",
+     "level": 1
+    },
+    {
+     "text": "Sky watching",
+     "level": 1
+    },
+    {
+     "text": "Constellations",
+     "level": 2
+    },
+    {
+     "text": "Shooting stars",
+     "level": 2
+    },
+    {
+     "text": "Blanket on grass",
+     "level": 3
+    },
+    {
+     "text": "Clear nights",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Astronomy",
+    "Birdwatching",
+    "Camping"
+   ]
+  },
+  {
+   "word": "Geocaching",
+   "hints": [
+    {
+     "text": "Treasure hunt hobby",
+     "level": 1
+    },
+    {
+     "text": "Outdoor game",
+     "level": 1
+    },
+    {
+     "text": "Gps hunts",
+     "level": 2
+    },
+    {
+     "text": "Hidden boxes",
+     "level": 2
+    },
+    {
+     "text": "Logbooks",
+     "level": 3
+    },
+    {
+     "text": "Coordinates",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Orienteering",
+    "Hiking",
+    "Scavenger hunt"
+   ]
+  },
+  {
+   "word": "Scuba diving",
+   "hints": [
+    {
+     "text": "Water hobby",
+     "level": 1
+    },
+    {
+     "text": "Underwater exploring",
+     "level": 1
+    },
+    {
+     "text": "Coral reefs",
+     "level": 2
+    },
+    {
+     "text": "Certification",
+     "level": 2
+    },
+    {
+     "text": "Air tanks",
+     "level": 3
+    },
+    {
+     "text": "Wetsuit and fins",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Snorkeling",
+    "Swimming",
+    "Surfing"
+   ]
+  },
+  {
+   "word": "Surfing",
+   "hints": [
+    {
+     "text": "Water hobby",
+     "level": 1
+    },
+    {
+     "text": "Wave riding",
+     "level": 1
+    },
+    {
+     "text": "Beach mornings",
+     "level": 2
+    },
+    {
+     "text": "Beach culture",
+     "level": 2
+    },
+    {
+     "text": "Wetsuit and wax",
+     "level": 3
+    },
+    {
+     "text": "Paddling out",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Skateboarding",
+    "Swimming",
+    "Sailing"
+   ]
+  },
+  {
+   "word": "Skateboarding",
+   "hints": [
+    {
+     "text": "Street hobby",
+     "level": 1
+    },
+    {
+     "text": "Deck tricks",
+     "level": 1
+    },
+    {
+     "text": "Concrete bowls",
+     "level": 2
+    },
+    {
+     "text": "Kickflips",
+     "level": 2
+    },
+    {
+     "text": "Grip tape",
+     "level": 3
+    },
+    {
+     "text": "Four wheels",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Surfing",
+    "Rollerblading",
+    "Biking"
+   ]
+  },
+  {
+   "word": "Rock climbing",
+   "hints": [
+    {
+     "text": "Adventure hobby",
+     "level": 1
+    },
+    {
+     "text": "Vertical sport",
+     "level": 1
+    },
+    {
+     "text": "Indoor walls",
+     "level": 2
+    },
+    {
+     "text": "Cliff faces",
+     "level": 2
+    },
+    {
+     "text": "Harness and chalk",
+     "level": 3
+    },
+    {
+     "text": "Belay ropes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hiking",
+    "Bouldering",
+    "Parkour"
+   ]
+  },
+  {
+   "word": "Skiing",
+   "hints": [
+    {
+     "text": "Winter hobby",
+     "level": 1
+    },
+    {
+     "text": "Snow sport",
+     "level": 1
+    },
+    {
+     "text": "Snowy getaways",
+     "level": 2
+    },
+    {
+     "text": "Mountain lodges",
+     "level": 2
+    },
+    {
+     "text": "Poles and boots",
+     "level": 3
+    },
+    {
+     "text": "Chair lifts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Snowboarding",
+    "Skating",
+    "Sledding"
+   ]
+  },
+  {
+   "word": "Ice skating",
+   "hints": [
+    {
+     "text": "Winter hobby",
+     "level": 1
+    },
+    {
+     "text": "Rink fun",
+     "level": 1
+    },
+    {
+     "text": "Holiday rinks",
+     "level": 2
+    },
+    {
+     "text": "Spins and glides",
+     "level": 2
+    },
+    {
+     "text": "Bladed boots",
+     "level": 3
+    },
+    {
+     "text": "Frozen ponds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Skiing",
+    "Rollerblading",
+    "Dancing"
+   ]
+  },
+  {
+   "word": "Horse riding",
+   "hints": [
+    {
+     "text": "Outdoor hobby",
+     "level": 1
+    },
+    {
+     "text": "Equestrian",
+     "level": 1
+    },
+    {
+     "text": "Pony lessons",
+     "level": 2
+    },
+    {
+     "text": "Trail rides",
+     "level": 2
+    },
+    {
+     "text": "Saddle and reins",
+     "level": 3
+    },
+    {
+     "text": "Helmet",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cycling",
+    "Polo",
+    "Hiking"
+   ]
+  },
+  {
+   "word": "Archery",
+   "hints": [
+    {
+     "text": "Target hobby",
+     "level": 1
+    },
+    {
+     "text": "Bow sport",
+     "level": 1
+    },
+    {
+     "text": "Ranges and clubs",
+     "level": 2
+    },
+    {
+     "text": "Focus practice",
+     "level": 2
+    },
+    {
+     "text": "Bow and arrows",
+     "level": 3
+    },
+    {
+     "text": "Bullseye",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Darts",
+    "Shooting",
+    "Javelin"
+   ]
+  },
+  {
+   "word": "Golfing",
+   "hints": [
+    {
+     "text": "Leisure sport",
+     "level": 1
+    },
+    {
+     "text": "Club hobby",
+     "level": 1
+    },
+    {
+     "text": "Weekend rounds",
+     "level": 2
+    },
+    {
+     "text": "Country clubs",
+     "level": 2
+    },
+    {
+     "text": "Clubs and tees",
+     "level": 3
+    },
+    {
+     "text": "Putting greens",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Croquet",
+    "Tennis",
+    "Bowling"
+   ]
+  },
+  {
+   "word": "Bowling",
+   "hints": [
+    {
+     "text": "Leisure activity",
+     "level": 1
+    },
+    {
+     "text": "Alley game",
+     "level": 1
+    },
+    {
+     "text": "League nights",
+     "level": 2
+    },
+    {
+     "text": "Rental shoes",
+     "level": 2
+    },
+    {
+     "text": "Pins and balls",
+     "level": 3
+    },
+    {
+     "text": "Strikes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Billiards",
+    "Darts",
+    "Golfing"
+   ]
+  },
+  {
+   "word": "Billiards",
+   "hints": [
+    {
+     "text": "Table game",
+     "level": 1
+    },
+    {
+     "text": "Cue hobby",
+     "level": 1
+    },
+    {
+     "text": "Pool halls",
+     "level": 2
+    },
+    {
+     "text": "Bar games",
+     "level": 2
+    },
+    {
+     "text": "Cue stick",
+     "level": 3
+    },
+    {
+     "text": "Colored balls",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Snooker",
+    "Bowling",
+    "Darts"
+   ]
+  },
+  {
+   "word": "Darts",
+   "hints": [
+    {
+     "text": "Pub game",
+     "level": 1
+    },
+    {
+     "text": "Throwing hobby",
+     "level": 1
+    },
+    {
+     "text": "League nights",
+     "level": 2
+    },
+    {
+     "text": "Friendly matches",
+     "level": 2
+    },
+    {
+     "text": "Board and arrows",
+     "level": 3
+    },
+    {
+     "text": "Bullseye",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Archery",
+    "Billiards",
+    "Bowling"
+   ]
+  },
+  {
+   "word": "Card games",
+   "hints": [
+    {
+     "text": "Tabletop hobby",
+     "level": 1
+    },
+    {
+     "text": "Deck pastimes",
+     "level": 1
+    },
+    {
+     "text": "Family poker nights",
+     "level": 2
+    },
+    {
+     "text": "Solitaire",
+     "level": 2
+    },
+    {
+     "text": "Shuffled deck",
+     "level": 3
+    },
+    {
+     "text": "Dealt hands",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Board games",
+    "Puzzles",
+    "Dice games"
+   ]
+  },
+  {
+   "word": "Poker",
+   "hints": [
+    {
+     "text": "Card game",
+     "level": 1
+    },
+    {
+     "text": "Betting hobby",
+     "level": 1
+    },
+    {
+     "text": "Bluffing friends",
+     "level": 2
+    },
+    {
+     "text": "Tournament nights",
+     "level": 2
+    },
+    {
+     "text": "Chips and cards",
+     "level": 3
+    },
+    {
+     "text": "Royal flush",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Blackjack",
+    "Bridge",
+    "Rummy"
+   ]
+  },
+  {
+   "word": "Bird feeding",
+   "hints": [
+    {
+     "text": "Garden hobby",
+     "level": 1
+    },
+    {
+     "text": "Nature care",
+     "level": 1
+    },
+    {
+     "text": "Watching from windows",
+     "level": 2
+    },
+    {
+     "text": "Winter help",
+     "level": 2
+    },
+    {
+     "text": "Seed feeders",
+     "level": 3
+    },
+    {
+     "text": "Suet balls",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Birdwatching",
+    "Gardening",
+    "Fishing"
+   ]
+  },
+  {
+   "word": "Aquarium keeping",
+   "hints": [
+    {
+     "text": "Pet hobby",
+     "level": 1
+    },
+    {
+     "text": "Fish tank care",
+     "level": 1
+    },
+    {
+     "text": "Tropical fish",
+     "level": 2
+    },
+    {
+     "text": "Calming display",
+     "level": 2
+    },
+    {
+     "text": "Filters and gravel",
+     "level": 3
+    },
+    {
+     "text": "Glass tank",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gardening",
+    "Bird feeding",
+    "Terrarium"
+   ]
+  },
+  {
+   "word": "Terrarium",
+   "hints": [
+    {
+     "text": "Plant hobby",
+     "level": 1
+    },
+    {
+     "text": "Miniature garden",
+     "level": 1
+    },
+    {
+     "text": "Glass jars",
+     "level": 2
+    },
+    {
+     "text": "Succulents",
+     "level": 2
+    },
+    {
+     "text": "Sealed glass",
+     "level": 3
+    },
+    {
+     "text": "Layered soil",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Aquarium keeping",
+    "Bonsai",
+    "Gardening"
+   ]
+  },
+  {
+   "word": "Bonsai",
+   "hints": [
+    {
+     "text": "Plant hobby",
+     "level": 1
+    },
+    {
+     "text": "Miniature trees",
+     "level": 1
+    },
+    {
+     "text": "Japanese art",
+     "level": 2
+    },
+    {
+     "text": "Patient pruning",
+     "level": 2
+    },
+    {
+     "text": "Tiny trees",
+     "level": 3
+    },
+    {
+     "text": "Shallow pots",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Terrarium",
+    "Gardening",
+    "Topiary"
+   ]
+  },
+  {
+   "word": "Candle making",
+   "hints": [
+    {
+     "text": "Craft hobby",
+     "level": 1
+    },
+    {
+     "text": "Wax craft",
+     "level": 1
+    },
+    {
+     "text": "Scented gifts",
+     "level": 2
+    },
+    {
+     "text": "Melted wax",
+     "level": 2
+    },
+    {
+     "text": "Wicks and molds",
+     "level": 3
+    },
+    {
+     "text": "Fragrance oils",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Soap making",
+    "Pottery",
+    "Knitting"
+   ]
+  },
+  {
+   "word": "Soap making",
+   "hints": [
+    {
+     "text": "Craft hobby",
+     "level": 1
+    },
+    {
+     "text": "Bath product craft",
+     "level": 1
+    },
+    {
+     "text": "Handmade gifts",
+     "level": 2
+    },
+    {
+     "text": "Natural oils",
+     "level": 2
+    },
+    {
+     "text": "Molds and lye",
+     "level": 3
+    },
+    {
+     "text": "Fragrant bars",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Candle making",
+    "Baking",
+    "Pottery"
+   ]
+  },
+  {
+   "word": "Jewelry making",
+   "hints": [
+    {
+     "text": "Craft hobby",
+     "level": 1
+    },
+    {
+     "text": "Bead craft",
+     "level": 1
+    },
+    {
+     "text": "Handmade gifts",
+     "level": 2
+    },
+    {
+     "text": "Craft fairs",
+     "level": 2
+    },
+    {
+     "text": "Beads and wire",
+     "level": 3
+    },
+    {
+     "text": "Pliers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Knitting",
+    "Pottery",
+    "Embroidery"
+   ]
+  },
+  {
+   "word": "Macrame",
+   "hints": [
+    {
+     "text": "Craft hobby",
+     "level": 1
+    },
+    {
+     "text": "Knot art",
+     "level": 1
+    },
+    {
+     "text": "Plant hangers",
+     "level": 2
+    },
+    {
+     "text": "Boho decor",
+     "level": 2
+    },
+    {
+     "text": "Knotted cords",
+     "level": 3
+    },
+    {
+     "text": "Wall hangings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Crochet",
+    "Weaving",
+    "Embroidery"
+   ]
+  },
+  {
+   "word": "Weaving",
+   "hints": [
+    {
+     "text": "Craft hobby",
+     "level": 1
+    },
+    {
+     "text": "Loom work",
+     "level": 1
+    },
+    {
+     "text": "Rugs and tapestries",
+     "level": 2
+    },
+    {
+     "text": "Ancient craft",
+     "level": 2
+    },
+    {
+     "text": "Warp and weft",
+     "level": 3
+    },
+    {
+     "text": "Wooden loom",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Knitting",
+    "Macrame",
+    "Quilting"
+   ]
+  },
+  {
+   "word": "Glassblowing",
+   "hints": [
+    {
+     "text": "Craft hobby",
+     "level": 1
+    },
+    {
+     "text": "Molten art",
+     "level": 1
+    },
+    {
+     "text": "Studio classes",
+     "level": 2
+    },
+    {
+     "text": "Molten shapes",
+     "level": 2
+    },
+    {
+     "text": "Blowpipe",
+     "level": 3
+    },
+    {
+     "text": "Glowing furnace",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pottery",
+    "Metalwork",
+    "Sculpting"
+   ]
+  },
+  {
+   "word": "Sculpting",
+   "hints": [
+    {
+     "text": "Art hobby",
+     "level": 1
+    },
+    {
+     "text": "Three dimensional art",
+     "level": 1
+    },
+    {
+     "text": "Clay or stone",
+     "level": 2
+    },
+    {
+     "text": "Gallery pieces",
+     "level": 2
+    },
+    {
+     "text": "Chisels and tools",
+     "level": 3
+    },
+    {
+     "text": "Busts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pottery",
+    "Painting",
+    "Carving"
+   ]
+  },
+  {
+   "word": "Carving",
+   "hints": [
+    {
+     "text": "Craft hobby",
+     "level": 1
+    },
+    {
+     "text": "Whittling",
+     "level": 1
+    },
+    {
+     "text": "Pocket knife projects",
+     "level": 2
+    },
+    {
+     "text": "Wooden figures",
+     "level": 2
+    },
+    {
+     "text": "Knife and blocks",
+     "level": 3
+    },
+    {
+     "text": "Wood shavings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sculpting",
+    "Woodworking",
+    "Pottery"
+   ]
+  },
+  {
+   "word": "Metal detecting",
+   "hints": [
+    {
+     "text": "Treasure hobby",
+     "level": 1
+    },
+    {
+     "text": "Beach hunting",
+     "level": 1
+    },
+    {
+     "text": "Buried coins",
+     "level": 2
+    },
+    {
+     "text": "Beeping finds",
+     "level": 2
+    },
+    {
+     "text": "Sweeping wand",
+     "level": 3
+    },
+    {
+     "text": "Headphones on",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Geocaching",
+    "Fishing",
+    "Coin collecting"
+   ]
+  },
+  {
+   "word": "Genealogy",
+   "hints": [
+    {
+     "text": "Family research",
+     "level": 1
+    },
+    {
+     "text": "Ancestry hobby",
+     "level": 1
+    },
+    {
+     "text": "Family trees",
+     "level": 2
+    },
+    {
+     "text": "Old records",
+     "level": 2
+    },
+    {
+     "text": "Census papers",
+     "level": 3
+    },
+    {
+     "text": "Archives",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "History",
+    "Journaling",
+    "Scrapbooking"
+   ]
+  },
+  {
+   "word": "Volunteering",
+   "hints": [
+    {
+     "text": "Giving hobby",
+     "level": 1
+    },
+    {
+     "text": "Community service",
+     "level": 1
+    },
+    {
+     "text": "Food banks",
+     "level": 2
+    },
+    {
+     "text": "Animal shelters",
+     "level": 2
+    },
+    {
+     "text": "Helping hands",
+     "level": 3
+    },
+    {
+     "text": "Charity events",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fundraising",
+    "Mentoring",
+    "Gardening"
+   ]
+  },
+  {
+   "word": "Languages",
+   "hints": [
+    {
+     "text": "Study hobby",
+     "level": 1
+    },
+    {
+     "text": "Linguistic practice",
+     "level": 1
+    },
+    {
+     "text": "Apps and flashcards",
+     "level": 2
+    },
+    {
+     "text": "Travel prep",
+     "level": 2
+    },
+    {
+     "text": "Vocabulary drills",
+     "level": 3
+    },
+    {
+     "text": "Conversation partners",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Reading",
+    "Writing",
+    "Traveling"
+   ]
+  },
+  {
+   "word": "Traveling",
+   "hints": [
+    {
+     "text": "Leisure hobby",
+     "level": 1
+    },
+    {
+     "text": "Exploring places",
+     "level": 1
+    },
+    {
+     "text": "Passport stamps",
+     "level": 2
+    },
+    {
+     "text": "Bucket lists",
+     "level": 2
+    },
+    {
+     "text": "Suitcases and maps",
+     "level": 3
+    },
+    {
+     "text": "Airport lounges",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Camping",
+    "Hiking",
+    "Photography"
+   ]
+  },
+  {
+   "word": "Antiquing",
+   "hints": [
+    {
+     "text": "Shopping hobby",
+     "level": 1
+    },
+    {
+     "text": "Vintage hunting",
+     "level": 1
+    },
+    {
+     "text": "Flea markets",
+     "level": 2
+    },
+    {
+     "text": "Estate sales",
+     "level": 2
+    },
+    {
+     "text": "Old furniture",
+     "level": 3
+    },
+    {
+     "text": "Price haggling",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Collecting",
+    "Thrifting",
+    "Auctions"
+   ]
+  },
+  {
+   "word": "Thrifting",
+   "hints": [
+    {
+     "text": "Shopping hobby",
+     "level": 1
+    },
+    {
+     "text": "Secondhand hunting",
+     "level": 1
+    },
+    {
+     "text": "Charity shops",
+     "level": 2
+    },
+    {
+     "text": "Vintage clothes",
+     "level": 2
+    },
+    {
+     "text": "Bargain racks",
+     "level": 3
+    },
+    {
+     "text": "Hidden gems",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Antiquing",
+    "Shopping",
+    "Collecting"
+   ]
+  },
+  {
+   "word": "Cosplay",
+   "hints": [
+    {
+     "text": "Costume hobby",
+     "level": 1
+    },
+    {
+     "text": "Fan dress up",
+     "level": 1
+    },
+    {
+     "text": "Comic conventions",
+     "level": 2
+    },
+    {
+     "text": "Anime fans",
+     "level": 2
+    },
+    {
+     "text": "Handmade outfits",
+     "level": 3
+    },
+    {
+     "text": "Wigs and props",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Acting",
+    "Sewing",
+    "Makeup"
+   ]
+  },
+  {
+   "word": "Acting",
+   "hints": [
+    {
+     "text": "Performance hobby",
+     "level": 1
+    },
+    {
+     "text": "Theater craft",
+     "level": 1
+    },
+    {
+     "text": "Community plays",
+     "level": 2
+    },
+    {
+     "text": "Auditions",
+     "level": 2
+    },
+    {
+     "text": "Scripts and rehearsals",
+     "level": 3
+    },
+    {
+     "text": "Stage lights",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cosplay",
+    "Singing",
+    "Dancing"
+   ]
+  },
+  {
+   "word": "Comedy club",
+   "hints": [
+    {
+     "text": "Performance hobby",
+     "level": 1
+    },
+    {
+     "text": "Joke telling",
+     "level": 1
+    },
+    {
+     "text": "Open mic nights",
+     "level": 2
+    },
+    {
+     "text": "Heckled",
+     "level": 2
+    },
+    {
+     "text": "Microphone",
+     "level": 3
+    },
+    {
+     "text": "Punchlines",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Acting",
+    "Magic tricks",
+    "Improv"
+   ]
+  },
+  {
+   "word": "Improv",
+   "hints": [
+    {
+     "text": "Performance hobby",
+     "level": 1
+    },
+    {
+     "text": "Unscripted comedy",
+     "level": 1
+    },
+    {
+     "text": "Yes and",
+     "level": 2
+    },
+    {
+     "text": "Audience suggestions",
+     "level": 2
+    },
+    {
+     "text": "Spontaneous scenes",
+     "level": 3
+    },
+    {
+     "text": "Quick wit",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Comedy club",
+    "Acting",
+    "Charades"
+   ]
+  },
+  {
+   "word": "Bird photography",
+   "hints": [
+    {
+     "text": "Nature hobby",
+     "level": 1
+    },
+    {
+     "text": "Wildlife shots",
+     "level": 1
+    },
+    {
+     "text": "Long lenses",
+     "level": 2
+    },
+    {
+     "text": "Patient waiting",
+     "level": 2
+    },
+    {
+     "text": "Camouflage hides",
+     "level": 3
+    },
+    {
+     "text": "Telephoto",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Birdwatching",
+    "Hiking",
+    "Painting"
+   ]
+  },
+  {
+   "word": "Fly tying",
+   "hints": [
+    {
+     "text": "Craft hobby",
+     "level": 1
+    },
+    {
+     "text": "Lure making",
+     "level": 1
+    },
+    {
+     "text": "Angling prep",
+     "level": 2
+    },
+    {
+     "text": "Feathers and thread",
+     "level": 2
+    },
+    {
+     "text": "Tiny hooks",
+     "level": 3
+    },
+    {
+     "text": "Vise clamp",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Knitting",
+    "Model building",
+    "Jewelry making"
+   ]
+  },
+  {
+   "word": "Beekeeping",
+   "hints": [
+    {
+     "text": "Farming hobby",
+     "level": 1
+    },
+    {
+     "text": "Hive care",
+     "level": 1
+    },
+    {
+     "text": "Fresh honey",
+     "level": 2
+    },
+    {
+     "text": "Protecting pollinators",
+     "level": 2
+    },
+    {
+     "text": "Smoker and veil",
+     "level": 3
+    },
+    {
+     "text": "Wooden frames",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gardening",
+    "Bird feeding",
+    "Farming"
+   ]
+  },
+  {
+   "word": "Homebrewing",
+   "hints": [
+    {
+     "text": "Kitchen hobby",
+     "level": 1
+    },
+    {
+     "text": "Fermentation craft",
+     "level": 1
+    },
+    {
+     "text": "Kombucha batches",
+     "level": 2
+    },
+    {
+     "text": "Bubbling jars",
+     "level": 2
+    },
+    {
+     "text": "Airlocks and bottles",
+     "level": 3
+    },
+    {
+     "text": "Yeast",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Baking",
+    "Cooking",
+    "Pickling"
+   ]
+  },
+  {
+   "word": "Pickling",
+   "hints": [
+    {
+     "text": "Kitchen hobby",
+     "level": 1
+    },
+    {
+     "text": "Food preserving",
+     "level": 1
+    },
+    {
+     "text": "Jars of cucumbers",
+     "level": 2
+    },
+    {
+     "text": "Grandma recipes",
+     "level": 2
+    },
+    {
+     "text": "Vinegar and brine",
+     "level": 3
+    },
+    {
+     "text": "Mason jars",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Canning",
+    "Baking",
+    "Fermenting"
+   ]
+  },
+  {
+   "word": "Fermenting",
+   "hints": [
+    {
+     "text": "Kitchen hobby",
+     "level": 1
+    },
+    {
+     "text": "Food culture",
+     "level": 1
+    },
+    {
+     "text": "Sauerkraut and kimchi",
+     "level": 2
+    },
+    {
+     "text": "Gut health",
+     "level": 2
+    },
+    {
+     "text": "Bubbling crocks",
+     "level": 3
+    },
+    {
+     "text": "Salt brine",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pickling",
+    "Brewing",
+    "Baking"
+   ]
+  },
+  {
+   "word": "Grilling",
+   "hints": [
+    {
+     "text": "Outdoor cooking",
+     "level": 1
+    },
+    {
+     "text": "Barbecue hobby",
+     "level": 1
+    },
+    {
+     "text": "Summer cookouts",
+     "level": 2
+    },
+    {
+     "text": "Backyard parties",
+     "level": 2
+    },
+    {
+     "text": "Charcoal and tongs",
+     "level": 3
+    },
+    {
+     "text": "Charred stripes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Baking",
+    "Smoking",
+    "Cooking"
+   ]
+  },
+  {
+   "word": "Food blogging",
+   "hints": [
+    {
+     "text": "Online hobby",
+     "level": 1
+    },
+    {
+     "text": "Recipe sharing",
+     "level": 1
+    },
+    {
+     "text": "Photographing dishes",
+     "level": 2
+    },
+    {
+     "text": "Followers",
+     "level": 2
+    },
+    {
+     "text": "Plating shots",
+     "level": 3
+    },
+    {
+     "text": "Recipe cards",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cooking",
+    "Vlogging",
+    "Photography"
+   ]
+  },
+  {
+   "word": "Cheese tasting",
+   "hints": [
+    {
+     "text": "Gourmet hobby",
+     "level": 1
+    },
+    {
+     "text": "Deli visits",
+     "level": 1
+    },
+    {
+     "text": "Pairing crackers",
+     "level": 2
+    },
+    {
+     "text": "Sampling notes",
+     "level": 2
+    },
+    {
+     "text": "Aged wheels",
+     "level": 3
+    },
+    {
+     "text": "Cellar tours",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cooking",
+    "Coffee brewing",
+    "Chocolate making"
+   ]
+  },
+  {
+   "word": "Coffee brewing",
+   "hints": [
+    {
+     "text": "Kitchen hobby",
+     "level": 1
+    },
+    {
+     "text": "Barista craft",
+     "level": 1
+    },
+    {
+     "text": "Pour over rituals",
+     "level": 2
+    },
+    {
+     "text": "Bean grinding",
+     "level": 2
+    },
+    {
+     "text": "Scales and kettles",
+     "level": 3
+    },
+    {
+     "text": "Latte art",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tea ceremony",
+    "Baking",
+    "Homebrewing"
+   ]
+  },
+  {
+   "word": "Tea ceremony",
+   "hints": [
+    {
+     "text": "Cultural hobby",
+     "level": 1
+    },
+    {
+     "text": "Ritual brewing",
+     "level": 1
+    },
+    {
+     "text": "Japanese tradition",
+     "level": 2
+    },
+    {
+     "text": "Mindful sipping",
+     "level": 2
+    },
+    {
+     "text": "Whisk and bowl",
+     "level": 3
+    },
+    {
+     "text": "Kneeling",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Coffee brewing",
+    "Meditation",
+    "Calligraphy"
+   ]
+  },
+  {
+   "word": "Flower arranging",
+   "hints": [
+    {
+     "text": "Craft hobby",
+     "level": 1
+    },
+    {
+     "text": "Floral design",
+     "level": 1
+    },
+    {
+     "text": "Ikebana art",
+     "level": 2
+    },
+    {
+     "text": "Bouquets",
+     "level": 2
+    },
+    {
+     "text": "Vases and stems",
+     "level": 3
+    },
+    {
+     "text": "Floral foam",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gardening",
+    "Painting",
+    "Decorating"
+   ]
+  },
+  {
+   "word": "Decorating",
+   "hints": [
+    {
+     "text": "Home hobby",
+     "level": 1
+    },
+    {
+     "text": "Room styling",
+     "level": 1
+    },
+    {
+     "text": "Rearranging furniture",
+     "level": 2
+    },
+    {
+     "text": "Mood boards",
+     "level": 2
+    },
+    {
+     "text": "Cushions and paint swatches",
+     "level": 3
+    },
+    {
+     "text": "Throw rugs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gardening",
+    "Painting",
+    "Thrifting"
+   ]
+  },
+  {
+   "word": "Home improvement",
+   "hints": [
+    {
+     "text": "Weekend projects",
+     "level": 1
+    },
+    {
+     "text": "Fixing up",
+     "level": 1
+    },
+    {
+     "text": "Painting walls",
+     "level": 2
+    },
+    {
+     "text": "Tiling bathrooms",
+     "level": 2
+    },
+    {
+     "text": "Toolbox and ladder",
+     "level": 3
+    },
+    {
+     "text": "Hardware stores",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Woodworking",
+    "Decorating",
+    "Gardening"
+   ]
+  },
+  {
+   "word": "Car restoration",
+   "hints": [
+    {
+     "text": "Mechanical hobby",
+     "level": 1
+    },
+    {
+     "text": "Vintage vehicles",
+     "level": 1
+    },
+    {
+     "text": "Garage weekends",
+     "level": 2
+    },
+    {
+     "text": "Auto shows",
+     "level": 2
+    },
+    {
+     "text": "Engines and polish",
+     "level": 3
+    },
+    {
+     "text": "Rust removal",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Woodworking",
+    "Model building",
+    "Racing"
+   ]
+  },
+  {
+   "word": "Motorbiking",
+   "hints": [
+    {
+     "text": "Riding hobby",
+     "level": 1
+    },
+    {
+     "text": "Two wheel trips",
+     "level": 1
+    },
+    {
+     "text": "Weekend road trips",
+     "level": 2
+    },
+    {
+     "text": "Biker clubs",
+     "level": 2
+    },
+    {
+     "text": "Leather jackets",
+     "level": 3
+    },
+    {
+     "text": "Helmets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cycling",
+    "Car restoration",
+    "Racing"
+   ]
+  },
+  {
+   "word": "Drone flying",
+   "hints": [
+    {
+     "text": "Tech hobby",
+     "level": 1
+    },
+    {
+     "text": "Aerial filming",
+     "level": 1
+    },
+    {
+     "text": "Sky photography",
+     "level": 2
+    },
+    {
+     "text": "Racing quadcopters",
+     "level": 2
+    },
+    {
+     "text": "Propellers and remote",
+     "level": 3
+    },
+    {
+     "text": "Goggles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kite flying",
+    "Model building",
+    "Photography"
+   ]
+  },
+  {
+   "word": "Coding",
+   "hints": [
+    {
+     "text": "Tech hobby",
+     "level": 1
+    },
+    {
+     "text": "Programming",
+     "level": 1
+    },
+    {
+     "text": "Building apps",
+     "level": 2
+    },
+    {
+     "text": "Hackathons",
+     "level": 2
+    },
+    {
+     "text": "Laptops and code",
+     "level": 3
+    },
+    {
+     "text": "Debugging",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gaming",
+    "Robotics",
+    "Blogging"
+   ]
+  },
+  {
+   "word": "Robotics",
+   "hints": [
+    {
+     "text": "Tech hobby",
+     "level": 1
+    },
+    {
+     "text": "Machine building",
+     "level": 1
+    },
+    {
+     "text": "School competitions",
+     "level": 2
+    },
+    {
+     "text": "Arduino kits",
+     "level": 2
+    },
+    {
+     "text": "Motors and sensors",
+     "level": 3
+    },
+    {
+     "text": "Soldering",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Coding",
+    "Model building",
+    "Electronics"
+   ]
+  },
+  {
+   "word": "Electronics",
+   "hints": [
+    {
+     "text": "Tech hobby",
+     "level": 1
+    },
+    {
+     "text": "Circuit tinkering",
+     "level": 1
+    },
+    {
+     "text": "Soldering kits",
+     "level": 2
+    },
+    {
+     "text": "Fixing gadgets",
+     "level": 2
+    },
+    {
+     "text": "Breadboards and wires",
+     "level": 3
+    },
+    {
+     "text": "Multimeter",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Robotics",
+    "Coding",
+    "Model building"
+   ]
+  },
+  {
+   "word": "Ham radio",
+   "hints": [
+    {
+     "text": "Tech hobby",
+     "level": 1
+    },
+    {
+     "text": "Amateur broadcasting",
+     "level": 1
+    },
+    {
+     "text": "Talks across the world",
+     "level": 2
+    },
+    {
+     "text": "Call signs",
+     "level": 2
+    },
+    {
+     "text": "Antennas and transceivers",
+     "level": 3
+    },
+    {
+     "text": "Morse code",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Podcasting",
+    "Electronics",
+    "Astronomy"
+   ]
+  },
+  {
+   "word": "Speedcubing",
+   "hints": [
+    {
+     "text": "Puzzle toy",
+     "level": 1
+    },
+    {
+     "text": "Cube twisting",
+     "level": 1
+    },
+    {
+     "text": "Timed solves",
+     "level": 2
+    },
+    {
+     "text": "Algorithms",
+     "level": 2
+    },
+    {
+     "text": "Colored squares",
+     "level": 3
+    },
+    {
+     "text": "Twisting faces",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sudoku",
+    "Jigsaw",
+    "Puzzles"
+   ]
+  },
+  {
+   "word": "Yo yo",
+   "hints": [
+    {
+     "text": "Skill toy",
+     "level": 1
+    },
+    {
+     "text": "Tricks hobby",
+     "level": 1
+    },
+    {
+     "text": "Walk the dog",
+     "level": 2
+    },
+    {
+     "text": "Playground fad",
+     "level": 2
+    },
+    {
+     "text": "String loop",
+     "level": 3
+    },
+    {
+     "text": "Spinning disc",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Juggling",
+    "Kite flying",
+    "Speedcubing"
+   ]
+  },
+  {
+   "word": "Fantasy football",
+   "hints": [
+    {
+     "text": "Sports hobby",
+     "level": 1
+    },
+    {
+     "text": "Online league",
+     "level": 1
+    },
+    {
+     "text": "Draft day",
+     "level": 2
+    },
+    {
+     "text": "Weekly lineups",
+     "level": 2
+    },
+    {
+     "text": "Points tables",
+     "level": 3
+    },
+    {
+     "text": "Trade offers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gaming",
+    "Betting",
+    "Board games"
+   ]
+  },
+  {
+   "word": "Trivia nights",
+   "hints": [
+    {
+     "text": "Quiz hobby",
+     "level": 1
+    },
+    {
+     "text": "Pub games",
+     "level": 1
+    },
+    {
+     "text": "Teams compete",
+     "level": 2
+    },
+    {
+     "text": "General knowledge",
+     "level": 2
+    },
+    {
+     "text": "Answer sheets",
+     "level": 3
+    },
+    {
+     "text": "Quizmaster",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Board games",
+    "Crossword",
+    "Karaoke"
+   ]
+  },
+  {
+   "word": "Escape rooms",
+   "hints": [
+    {
+     "text": "Puzzle outing",
+     "level": 1
+    },
+    {
+     "text": "Team challenge",
+     "level": 1
+    },
+    {
+     "text": "Hour long countdown",
+     "level": 2
+    },
+    {
+     "text": "Locked doors",
+     "level": 2
+    },
+    {
+     "text": "Clues and padlocks",
+     "level": 3
+    },
+    {
+     "text": "Hidden keys",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Puzzles",
+    "Board games",
+    "Treasure hunt"
+   ]
+  },
+  {
+   "word": "Paintball",
+   "hints": [
+    {
+     "text": "Outdoor game",
+     "level": 1
+    },
+    {
+     "text": "Team combat",
+     "level": 1
+    },
+    {
+     "text": "Bachelor parties",
+     "level": 2
+    },
+    {
+     "text": "Splattered colors",
+     "level": 2
+    },
+    {
+     "text": "Masks and markers",
+     "level": 3
+    },
+    {
+     "text": "Bunkers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Laser tag",
+    "Archery",
+    "Airsoft"
+   ]
+  },
+  {
+   "word": "Laser tag",
+   "hints": [
+    {
+     "text": "Arcade game",
+     "level": 1
+    },
+    {
+     "text": "Team combat",
+     "level": 1
+    },
+    {
+     "text": "Birthday parties",
+     "level": 2
+    },
+    {
+     "text": "Dark arenas",
+     "level": 2
+    },
+    {
+     "text": "Vests and blasters",
+     "level": 3
+    },
+    {
+     "text": "Fog and lights",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Paintball",
+    "Arcade",
+    "Dodgeball"
+   ]
+  },
+  {
+   "word": "Bird calling",
+   "hints": [
+    {
+     "text": "Nature hobby",
+     "level": 1
+    },
+    {
+     "text": "Imitation skill",
+     "level": 1
+    },
+    {
+     "text": "Whistling to finches",
+     "level": 2
+    },
+    {
+     "text": "Contests",
+     "level": 2
+    },
+    {
+     "text": "Wooden whistles",
+     "level": 3
+    },
+    {
+     "text": "Mimicry",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Birdwatching",
+    "Singing",
+    "Whistling"
+   ]
+  },
+  {
+   "word": "Whittling",
+   "hints": [
+    {
+     "text": "Craft hobby",
+     "level": 1
+    },
+    {
+     "text": "Knife carving",
+     "level": 1
+    },
+    {
+     "text": "Porch pastime",
+     "level": 2
+    },
+    {
+     "text": "Small figures",
+     "level": 2
+    },
+    {
+     "text": "Pocket knife",
+     "level": 3
+    },
+    {
+     "text": "Wood shavings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Carving",
+    "Woodworking",
+    "Sculpting"
+   ]
+  },
+  {
+   "word": "Bookbinding",
+   "hints": [
+    {
+     "text": "Craft hobby",
+     "level": 1
+    },
+    {
+     "text": "Journal making",
+     "level": 1
+    },
+    {
+     "text": "Handmade journals",
+     "level": 2
+    },
+    {
+     "text": "Old craft",
+     "level": 2
+    },
+    {
+     "text": "Thread and glue",
+     "level": 3
+    },
+    {
+     "text": "Leather covers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Calligraphy",
+    "Scrapbooking",
+    "Origami"
+   ]
+  },
+  {
+   "word": "Leathercraft",
+   "hints": [
+    {
+     "text": "Artisan hobby",
+     "level": 1
+    },
+    {
+     "text": "Hide working",
+     "level": 1
+    },
+    {
+     "text": "Wallets and belts",
+     "level": 2
+    },
+    {
+     "text": "Tooling patterns",
+     "level": 2
+    },
+    {
+     "text": "Stitching awl",
+     "level": 3
+    },
+    {
+     "text": "Stamps",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Woodworking",
+    "Sewing",
+    "Jewelry making"
+   ]
+  },
+  {
+   "word": "Puppetry",
+   "hints": [
+    {
+     "text": "Performance hobby",
+     "level": 1
+    },
+    {
+     "text": "Marionette shows",
+     "level": 1
+    },
+    {
+     "text": "Kids entertainment",
+     "level": 2
+    },
+    {
+     "text": "Hand puppets",
+     "level": 2
+    },
+    {
+     "text": "Strings and sock figures",
+     "level": 3
+    },
+    {
+     "text": "Voices",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Acting",
+    "Ventriloquism",
+    "Magic tricks"
+   ]
+  },
+  {
+   "word": "Ventriloquism",
+   "hints": [
+    {
+     "text": "Performance skill",
+     "level": 1
+    },
+    {
+     "text": "Voice throwing",
+     "level": 1
+    },
+    {
+     "text": "Talking dummy",
+     "level": 2
+    },
+    {
+     "text": "Comedy acts",
+     "level": 2
+    },
+    {
+     "text": "Lips stay still",
+     "level": 3
+    },
+    {
+     "text": "Wooden puppet",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Puppetry",
+    "Acting",
+    "Magic tricks"
+   ]
+  },
+  {
+   "word": "Snorkeling",
+   "hints": [
+    {
+     "text": "Water hobby",
+     "level": 1
+    },
+    {
+     "text": "Reef viewing",
+     "level": 1
+    },
+    {
+     "text": "Tropical holidays",
+     "level": 2
+    },
+    {
+     "text": "Shallow lagoons",
+     "level": 2
+    },
+    {
+     "text": "Mask and breathing tube",
+     "level": 3
+    },
+    {
+     "text": "Flippers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Scuba diving",
+    "Swimming",
+    "Surfing"
+   ]
+  },
+  {
+   "word": "Kayaking",
+   "hints": [
+    {
+     "text": "Water hobby",
+     "level": 1
+    },
+    {
+     "text": "Paddle outings",
+     "level": 1
+    },
+    {
+     "text": "Lake mornings",
+     "level": 2
+    },
+    {
+     "text": "River trips",
+     "level": 2
+    },
+    {
+     "text": "Double bladed paddle",
+     "level": 3
+    },
+    {
+     "text": "Life vest",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Canoeing",
+    "Rowing",
+    "Surfing"
+   ]
+  },
+  {
+   "word": "Sailing",
+   "hints": [
+    {
+     "text": "Water hobby",
+     "level": 1
+    },
+    {
+     "text": "Wind voyaging",
+     "level": 1
+    },
+    {
+     "text": "Yacht clubs",
+     "level": 2
+    },
+    {
+     "text": "Regattas",
+     "level": 2
+    },
+    {
+     "text": "Canvas and ropes",
+     "level": 3
+    },
+    {
+     "text": "Knots",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kayaking",
+    "Rowing",
+    "Surfing"
+   ]
+  },
+  {
+   "word": "Bodybuilding",
+   "hints": [
+    {
+     "text": "Fitness hobby",
+     "level": 1
+    },
+    {
+     "text": "Muscle training",
+     "level": 1
+    },
+    {
+     "text": "Gym rats",
+     "level": 2
+    },
+    {
+     "text": "Protein shakes",
+     "level": 2
+    },
+    {
+     "text": "Heavy weights",
+     "level": 3
+    },
+    {
+     "text": "Posing",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Weightlifting",
+    "Running",
+    "Yoga"
+   ]
+  },
+  {
+   "word": "Pilates",
+   "hints": [
+    {
+     "text": "Fitness hobby",
+     "level": 1
+    },
+    {
+     "text": "Core training",
+     "level": 1
+    },
+    {
+     "text": "Studio classes",
+     "level": 2
+    },
+    {
+     "text": "Reformer machines",
+     "level": 2
+    },
+    {
+     "text": "Mat exercises",
+     "level": 3
+    },
+    {
+     "text": "Controlled moves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Yoga",
+    "Aerobics",
+    "Stretching"
+   ]
+  },
+  {
+   "word": "Tai chi",
+   "hints": [
+    {
+     "text": "Martial practice",
+     "level": 1
+    },
+    {
+     "text": "Slow exercise",
+     "level": 1
+    },
+    {
+     "text": "Parks at dawn",
+     "level": 2
+    },
+    {
+     "text": "Elderly groups",
+     "level": 2
+    },
+    {
+     "text": "Flowing movements",
+     "level": 3
+    },
+    {
+     "text": "Balance",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Yoga",
+    "Kung fu",
+    "Meditation"
+   ]
+  },
+  {
+   "word": "Martial arts",
+   "hints": [
+    {
+     "text": "Fitness hobby",
+     "level": 1
+    },
+    {
+     "text": "Combat practice",
+     "level": 1
+    },
+    {
+     "text": "Belt gradings",
+     "level": 2
+    },
+    {
+     "text": "Dojo classes",
+     "level": 2
+    },
+    {
+     "text": "Kicks and punches",
+     "level": 3
+    },
+    {
+     "text": "Uniforms",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Boxing",
+    "Yoga",
+    "Wrestling"
+   ]
+  },
+  {
+   "word": "People watching",
+   "hints": [
+    {
+     "text": "Idle hobby",
+     "level": 1
+    },
+    {
+     "text": "Observation",
+     "level": 1
+    },
+    {
+     "text": "Cafe windows",
+     "level": 2
+    },
+    {
+     "text": "Park benches",
+     "level": 2
+    },
+    {
+     "text": "Quiet curiosity",
+     "level": 3
+    },
+    {
+     "text": "Imagining stories",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Birdwatching",
+    "Daydreaming",
+    "Reading"
+   ]
+  },
+  {
+   "word": "Daydreaming",
+   "hints": [
+    {
+     "text": "Idle pastime",
+     "level": 1
+    },
+    {
+     "text": "Mind wandering",
+     "level": 1
+    },
+    {
+     "text": "Staring out windows",
+     "level": 2
+    },
+    {
+     "text": "Lost in thought",
+     "level": 2
+    },
+    {
+     "text": "Imaginary worlds",
+     "level": 3
+    },
+    {
+     "text": "Spacing out",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Meditation",
+    "Napping",
+    "People watching"
+   ]
+  },
+  {
+   "word": "Napping",
+   "hints": [
+    {
+     "text": "Relaxing habit",
+     "level": 1
+    },
+    {
+     "text": "Short sleep",
+     "level": 1
+    },
+    {
+     "text": "Sunday afternoons",
+     "level": 2
+    },
+    {
+     "text": "Power recharge",
+     "level": 2
+    },
+    {
+     "text": "Couch snoozes",
+     "level": 3
+    },
+    {
+     "text": "Eye mask",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Daydreaming",
+    "Meditation",
+    "Reading"
+   ]
+  },
+  {
+   "word": "Chocolate making",
+   "hints": [
+    {
+     "text": "Kitchen hobby",
+     "level": 1
+    },
+    {
+     "text": "Sweet craft",
+     "level": 1
+    },
+    {
+     "text": "Tempering lessons",
+     "level": 2
+    },
+    {
+     "text": "Holiday gifts",
+     "level": 2
+    },
+    {
+     "text": "Molds and cocoa",
+     "level": 3
+    },
+    {
+     "text": "Glossy truffles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Baking",
+    "Candle making",
+    "Cheese tasting"
+   ]
+  },
+  {
+   "word": "Sketching",
+   "hints": [
+    {
+     "text": "Art hobby",
+     "level": 1
+    },
+    {
+     "text": "Quick drawing",
+     "level": 1
+    },
+    {
+     "text": "Urban scenes",
+     "level": 2
+    },
+    {
+     "text": "Cafe doodles",
+     "level": 2
+    },
+    {
+     "text": "Charcoal pencils",
+     "level": 3
+    },
+    {
+     "text": "Pocket notebook",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Painting",
+    "Calligraphy",
+    "Origami"
+   ]
+  },
+  {
+   "word": "Watercolor",
+   "hints": [
+    {
+     "text": "Art hobby",
+     "level": 1
+    },
+    {
+     "text": "Paint style",
+     "level": 1
+    },
+    {
+     "text": "Soft washes",
+     "level": 2
+    },
+    {
+     "text": "Landscape scenes",
+     "level": 2
+    },
+    {
+     "text": "Wet brushes",
+     "level": 3
+    },
+    {
+     "text": "Paper blooms",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Oil painting",
+    "Sketching",
+    "Pastels"
+   ]
+  },
+  {
+   "word": "Oil painting",
+   "hints": [
+    {
+     "text": "Art hobby",
+     "level": 1
+    },
+    {
+     "text": "Classic art style",
+     "level": 1
+    },
+    {
+     "text": "Canvas portraits",
+     "level": 2
+    },
+    {
+     "text": "Slow drying",
+     "level": 2
+    },
+    {
+     "text": "Turpentine smell",
+     "level": 3
+    },
+    {
+     "text": "Thick strokes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Watercolor",
+    "Acrylics",
+    "Sketching"
+   ]
+  },
+  {
+   "word": "Comic drawing",
+   "hints": [
+    {
+     "text": "Art hobby",
+     "level": 1
+    },
+    {
+     "text": "Panel art",
+     "level": 1
+    },
+    {
+     "text": "Superhero fan art",
+     "level": 2
+    },
+    {
+     "text": "Online strips",
+     "level": 2
+    },
+    {
+     "text": "Speech bubbles",
+     "level": 3
+    },
+    {
+     "text": "Inked panels",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sketching",
+    "Animation",
+    "Calligraphy"
+   ]
+  },
+  {
+   "word": "Animation",
+   "hints": [
+    {
+     "text": "Digital hobby",
+     "level": 1
+    },
+    {
+     "text": "Moving pictures",
+     "level": 1
+    },
+    {
+     "text": "Flipbooks",
+     "level": 2
+    },
+    {
+     "text": "Stop motion",
+     "level": 2
+    },
+    {
+     "text": "Frame by frame",
+     "level": 3
+    },
+    {
+     "text": "Keyframes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Comic drawing",
+    "Filmmaking",
+    "Gaming"
+   ]
+  },
+  {
+   "word": "Filmmaking",
+   "hints": [
+    {
+     "text": "Creative hobby",
+     "level": 1
+    },
+    {
+     "text": "Movie creation",
+     "level": 1
+    },
+    {
+     "text": "Short films with friends",
+     "level": 2
+    },
+    {
+     "text": "Festivals",
+     "level": 2
+    },
+    {
+     "text": "Camera rigs",
+     "level": 3
+    },
+    {
+     "text": "Editing timeline",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Photography",
+    "Vlogging",
+    "Animation"
+   ]
+  },
+  {
+   "word": "Rollerblading",
+   "hints": [
+    {
+     "text": "Wheeled hobby",
+     "level": 1
+    },
+    {
+     "text": "Inline skating",
+     "level": 1
+    },
+    {
+     "text": "Boardwalk rides",
+     "level": 2
+    },
+    {
+     "text": "Retro fun",
+     "level": 2
+    },
+    {
+     "text": "Knee pads",
+     "level": 3
+    },
+    {
+     "text": "Brake heel",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Skateboarding",
+    "Ice skating",
+    "Cycling"
+   ]
+  },
+  {
+   "word": "Parkour",
+   "hints": [
+    {
+     "text": "Urban hobby",
+     "level": 1
+    },
+    {
+     "text": "Freerunning",
+     "level": 1
+    },
+    {
+     "text": "Rooftop leaps",
+     "level": 2
+    },
+    {
+     "text": "Wall flips",
+     "level": 2
+    },
+    {
+     "text": "Vaulting railings",
+     "level": 3
+    },
+    {
+     "text": "Precision jumps",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Climbing",
+    "Gymnastics",
+    "Skateboarding"
+   ]
+  },
+  {
+   "word": "Frisbee",
+   "hints": [
+    {
+     "text": "Park hobby",
+     "level": 1
+    },
+    {
+     "text": "Disc throwing",
+     "level": 1
+    },
+    {
+     "text": "Beach games",
+     "level": 2
+    },
+    {
+     "text": "Dogs chase it",
+     "level": 2
+    },
+    {
+     "text": "Flying plastic plate",
+     "level": 3
+    },
+    {
+     "text": "Spinning toss",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kite flying",
+    "Boomerang",
+    "Volleyball"
+   ]
+  },
+  {
+   "word": "Bird table",
+   "hints": [
+    {
+     "text": "Garden hobby",
+     "level": 1
+    },
+    {
+     "text": "Wildlife care",
+     "level": 1
+    },
+    {
+     "text": "Winter feeders",
+     "level": 2
+    },
+    {
+     "text": "Window watching",
+     "level": 2
+    },
+    {
+     "text": "Seed trays",
+     "level": 3
+    },
+    {
+     "text": "Suet cakes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Birdwatching",
+    "Gardening",
+    "Beekeeping"
+   ]
+  },
+  {
+   "word": "Composting",
+   "hints": [
+    {
+     "text": "Garden hobby",
+     "level": 1
+    },
+    {
+     "text": "Waste recycling",
+     "level": 1
+    },
+    {
+     "text": "Kitchen scraps",
+     "level": 2
+    },
+    {
+     "text": "Rich soil",
+     "level": 2
+    },
+    {
+     "text": "Worm bins",
+     "level": 3
+    },
+    {
+     "text": "Turning piles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gardening",
+    "Beekeeping",
+    "Recycling"
+   ]
+  },
+  {
+   "word": "Trail photos",
+   "hints": [
+    {
+     "text": "Outdoor hobby",
+     "level": 1
+    },
+    {
+     "text": "Hiking snapshots",
+     "level": 1
+    },
+    {
+     "text": "Scenic views",
+     "level": 2
+    },
+    {
+     "text": "Sunrise hikes",
+     "level": 2
+    },
+    {
+     "text": "Backpack camera",
+     "level": 3
+    },
+    {
+     "text": "Summit selfies",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Birdwatching",
+    "Painting",
+    "Camping"
+   ]
+  },
+  {
+   "word": "Kite surfing",
+   "hints": [
+    {
+     "text": "Water hobby",
+     "level": 1
+    },
+    {
+     "text": "Wind sport",
+     "level": 1
+    },
+    {
+     "text": "Windy beaches",
+     "level": 2
+    },
+    {
+     "text": "Big jumps",
+     "level": 2
+    },
+    {
+     "text": "Giant canopy",
+     "level": 3
+    },
+    {
+     "text": "Board and harness",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Windsurfing",
+    "Sailing",
+    "Paragliding"
+   ]
+  },
+  {
+   "word": "Patch making",
+   "hints": [
+    {
+     "text": "Craft hobby",
+     "level": 1
+    },
+    {
+     "text": "Badge crafting",
+     "level": 1
+    },
+    {
+     "text": "Jacket decorations",
+     "level": 2
+    },
+    {
+     "text": "Iron ons",
+     "level": 2
+    },
+    {
+     "text": "Satin stitches",
+     "level": 3
+    },
+    {
+     "text": "Felt backing",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Knitting",
+    "Jewelry making",
+    "Sewing"
+   ]
+  },
+  {
+   "word": "Diorama building",
+   "hints": [
+    {
+     "text": "Miniature hobby",
+     "level": 1
+    },
+    {
+     "text": "Scene crafting",
+     "level": 1
+    },
+    {
+     "text": "Museum style displays",
+     "level": 2
+    },
+    {
+     "text": "School projects",
+     "level": 2
+    },
+    {
+     "text": "Tiny figures",
+     "level": 3
+    },
+    {
+     "text": "Painted backdrops",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Model trains",
+    "Lego",
+    "Dollhouses"
+   ]
+  },
+  {
+   "word": "Dollhouses",
+   "hints": [
+    {
+     "text": "Miniature hobby",
+     "level": 1
+    },
+    {
+     "text": "Tiny homes",
+     "level": 1
+    },
+    {
+     "text": "Collectors decorate",
+     "level": 2
+    },
+    {
+     "text": "Inherited treasures",
+     "level": 2
+    },
+    {
+     "text": "Furniture miniatures",
+     "level": 3
+    },
+    {
+     "text": "Wallpaper scraps",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Diorama building",
+    "Lego",
+    "Model trains"
+   ]
+  },
+  {
+   "word": "Calisthenics",
+   "hints": [
+    {
+     "text": "Fitness hobby",
+     "level": 1
+    },
+    {
+     "text": "Bodyweight training",
+     "level": 1
+    },
+    {
+     "text": "Park bars",
+     "level": 2
+    },
+    {
+     "text": "Pull up challenges",
+     "level": 2
+    },
+    {
+     "text": "No equipment",
+     "level": 3
+    },
+    {
+     "text": "Muscle ups",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gymnastics",
+    "Yoga",
+    "Pilates"
+   ]
+  }
+ ]
+}

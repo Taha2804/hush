@@ -1,0 +1,5208 @@
+{
+ "id": "body_health",
+ "name": "Body & Health",
+ "words": [
+  {
+   "word": "Heart",
+   "hints": [
+    {
+     "text": "Organ",
+     "level": 1
+    },
+    {
+     "text": "Vital organ",
+     "level": 1
+    },
+    {
+     "text": "Pumps blood",
+     "level": 2
+    },
+    {
+     "text": "Symbol of love",
+     "level": 2
+    },
+    {
+     "text": "Beats per minute",
+     "level": 3
+    },
+    {
+     "text": "Four chambers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lungs",
+    "Liver",
+    "Kidney"
+   ]
+  },
+  {
+   "word": "Brain",
+   "hints": [
+    {
+     "text": "Organ",
+     "level": 1
+    },
+    {
+     "text": "Control center",
+     "level": 1
+    },
+    {
+     "text": "Thinks and remembers",
+     "level": 2
+    },
+    {
+     "text": "Very complex",
+     "level": 2
+    },
+    {
+     "text": "Wrinkly folds",
+     "level": 3
+    },
+    {
+     "text": "Inside the skull",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Heart",
+    "Spine",
+    "Nerves"
+   ]
+  },
+  {
+   "word": "Lungs",
+   "hints": [
+    {
+     "text": "Organs",
+     "level": 1
+    },
+    {
+     "text": "Breathing organs",
+     "level": 1
+    },
+    {
+     "text": "Fill with air",
+     "level": 2
+    },
+    {
+     "text": "Smoking harms them",
+     "level": 2
+    },
+    {
+     "text": "Pair in chest",
+     "level": 3
+    },
+    {
+     "text": "Alveoli sacs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Heart",
+    "Kidneys",
+    "Ribs"
+   ]
+  },
+  {
+   "word": "Liver",
+   "hints": [
+    {
+     "text": "Organ",
+     "level": 1
+    },
+    {
+     "text": "Filter organ",
+     "level": 1
+    },
+    {
+     "text": "Cleans the blood",
+     "level": 2
+    },
+    {
+     "text": "Can regrow",
+     "level": 2
+    },
+    {
+     "text": "Largest internal organ",
+     "level": 3
+    },
+    {
+     "text": "Right side",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kidney",
+    "Stomach",
+    "Pancreas"
+   ]
+  },
+  {
+   "word": "Kidney",
+   "hints": [
+    {
+     "text": "Organ",
+     "level": 1
+    },
+    {
+     "text": "Filter organ",
+     "level": 1
+    },
+    {
+     "text": "Makes urine",
+     "level": 2
+    },
+    {
+     "text": "Pair of them",
+     "level": 2
+    },
+    {
+     "text": "Bean shaped",
+     "level": 3
+    },
+    {
+     "text": "Lower back",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Liver",
+    "Bladder",
+    "Lungs"
+   ]
+  },
+  {
+   "word": "Stomach",
+   "hints": [
+    {
+     "text": "Organ",
+     "level": 1
+    },
+    {
+     "text": "Digestive organ",
+     "level": 1
+    },
+    {
+     "text": "Growls when hungry",
+     "level": 2
+    },
+    {
+     "text": "Butterflies feeling",
+     "level": 2
+    },
+    {
+     "text": "Acidic juices",
+     "level": 3
+    },
+    {
+     "text": "Stretchy pouch",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Intestine",
+    "Liver",
+    "Esophagus"
+   ]
+  },
+  {
+   "word": "Skin",
+   "hints": [
+    {
+     "text": "Organ",
+     "level": 1
+    },
+    {
+     "text": "Body covering",
+     "level": 1
+    },
+    {
+     "text": "Sunburns",
+     "level": 2
+    },
+    {
+     "text": "Goosebumps",
+     "level": 2
+    },
+    {
+     "text": "Largest organ",
+     "level": 3
+    },
+    {
+     "text": "Pores and freckles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hair",
+    "Nails",
+    "Muscle"
+   ]
+  },
+  {
+   "word": "Bone",
+   "hints": [
+    {
+     "text": "Body part",
+     "level": 1
+    },
+    {
+     "text": "Skeleton piece",
+     "level": 1
+    },
+    {
+     "text": "Breaks in falls",
+     "level": 2
+    },
+    {
+     "text": "Dogs chew them",
+     "level": 2
+    },
+    {
+     "text": "Hard and white",
+     "level": 3
+    },
+    {
+     "text": "Calcium rich",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cartilage",
+    "Muscle",
+    "Tooth"
+   ]
+  },
+  {
+   "word": "Skeleton",
+   "hints": [
+    {
+     "text": "Body frame",
+     "level": 1
+    },
+    {
+     "text": "Bone structure",
+     "level": 1
+    },
+    {
+     "text": "Halloween decoration",
+     "level": 2
+    },
+    {
+     "text": "Holds you up",
+     "level": 2
+    },
+    {
+     "text": "Two hundred bones",
+     "level": 3
+    },
+    {
+     "text": "Skull and ribs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Muscle",
+    "Spine",
+    "Ribcage"
+   ]
+  },
+  {
+   "word": "Skull",
+   "hints": [
+    {
+     "text": "Head bone",
+     "level": 1
+    },
+    {
+     "text": "Cranium",
+     "level": 1
+    },
+    {
+     "text": "Pirate flags",
+     "level": 2
+    },
+    {
+     "text": "Protects the brain",
+     "level": 2
+    },
+    {
+     "text": "Eye sockets",
+     "level": 3
+    },
+    {
+     "text": "Jaw bone",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spine",
+    "Ribcage",
+    "Pelvis"
+   ]
+  },
+  {
+   "word": "Spine",
+   "hints": [
+    {
+     "text": "Back bone",
+     "level": 1
+    },
+    {
+     "text": "Vertebral column",
+     "level": 1
+    },
+    {
+     "text": "Good posture",
+     "level": 2
+    },
+    {
+     "text": "Back pain",
+     "level": 2
+    },
+    {
+     "text": "Stacked vertebrae",
+     "level": 3
+    },
+    {
+     "text": "Spinal cord",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ribcage",
+    "Pelvis",
+    "Skull"
+   ]
+  },
+  {
+   "word": "Muscle",
+   "hints": [
+    {
+     "text": "Body tissue",
+     "level": 1
+    },
+    {
+     "text": "Strength source",
+     "level": 1
+    },
+    {
+     "text": "Gym workouts",
+     "level": 2
+    },
+    {
+     "text": "Gets sore",
+     "level": 2
+    },
+    {
+     "text": "Biceps and triceps",
+     "level": 3
+    },
+    {
+     "text": "Contracts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bone",
+    "Tendon",
+    "Fat"
+   ]
+  },
+  {
+   "word": "Blood",
+   "hints": [
+    {
+     "text": "Body fluid",
+     "level": 1
+    },
+    {
+     "text": "Red liquid",
+     "level": 1
+    },
+    {
+     "text": "Donated at drives",
+     "level": 2
+    },
+    {
+     "text": "Flows in veins",
+     "level": 2
+    },
+    {
+     "text": "Red cells",
+     "level": 3
+    },
+    {
+     "text": "Plasma",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Plasma",
+    "Lymph",
+    "Sweat"
+   ]
+  },
+  {
+   "word": "Vein",
+   "hints": [
+    {
+     "text": "Blood vessel",
+     "level": 1
+    },
+    {
+     "text": "Body tube",
+     "level": 1
+    },
+    {
+     "text": "Blue under skin",
+     "level": 2
+    },
+    {
+     "text": "Draws blood",
+     "level": 2
+    },
+    {
+     "text": "Carries to heart",
+     "level": 3
+    },
+    {
+     "text": "Valves inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Artery",
+    "Capillary",
+    "Nerve"
+   ]
+  },
+  {
+   "word": "Nerve",
+   "hints": [
+    {
+     "text": "Body wire",
+     "level": 1
+    },
+    {
+     "text": "Signal carrier",
+     "level": 1
+    },
+    {
+     "text": "Tingling limbs",
+     "level": 2
+    },
+    {
+     "text": "Feeling pain",
+     "level": 2
+    },
+    {
+     "text": "Electrical messages",
+     "level": 3
+    },
+    {
+     "text": "Spinal connections",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Vein",
+    "Muscle",
+    "Tendon"
+   ]
+  },
+  {
+   "word": "Eye",
+   "hints": [
+    {
+     "text": "Sense organ",
+     "level": 1
+    },
+    {
+     "text": "Vision organ",
+     "level": 1
+    },
+    {
+     "text": "Blinking",
+     "level": 2
+    },
+    {
+     "text": "Saline drops",
+     "level": 2
+    },
+    {
+     "text": "Iris and pupil",
+     "level": 3
+    },
+    {
+     "text": "Eyelashes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ear",
+    "Nose",
+    "Mouth"
+   ]
+  },
+  {
+   "word": "Ear",
+   "hints": [
+    {
+     "text": "Sense organ",
+     "level": 1
+    },
+    {
+     "text": "Hearing organ",
+     "level": 1
+    },
+    {
+     "text": "Earrings",
+     "level": 2
+    },
+    {
+     "text": "Wax builds up",
+     "level": 2
+    },
+    {
+     "text": "Eardrum",
+     "level": 3
+    },
+    {
+     "text": "Lobe",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Eye",
+    "Nose",
+    "Mouth"
+   ]
+  },
+  {
+   "word": "Nose",
+   "hints": [
+    {
+     "text": "Sense organ",
+     "level": 1
+    },
+    {
+     "text": "Smell organ",
+     "level": 1
+    },
+    {
+     "text": "Sneezing",
+     "level": 2
+    },
+    {
+     "text": "Runny colds",
+     "level": 2
+    },
+    {
+     "text": "Nostrils",
+     "level": 3
+    },
+    {
+     "text": "Bridge on face",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mouth",
+    "Ear",
+    "Chin"
+   ]
+  },
+  {
+   "word": "Mouth",
+   "hints": [
+    {
+     "text": "Face part",
+     "level": 1
+    },
+    {
+     "text": "Eating opening",
+     "level": 1
+    },
+    {
+     "text": "Talking and eating",
+     "level": 2
+    },
+    {
+     "text": "Smiles",
+     "level": 2
+    },
+    {
+     "text": "Lips and teeth",
+     "level": 3
+    },
+    {
+     "text": "Tongue inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nose",
+    "Throat",
+    "Chin"
+   ]
+  },
+  {
+   "word": "Tongue",
+   "hints": [
+    {
+     "text": "Muscle organ",
+     "level": 1
+    },
+    {
+     "text": "Taste organ",
+     "level": 1
+    },
+    {
+     "text": "Sticking it out",
+     "level": 2
+    },
+    {
+     "text": "Taste buds",
+     "level": 2
+    },
+    {
+     "text": "Pink and wet",
+     "level": 3
+    },
+    {
+     "text": "Licks lollipops",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lips",
+    "Teeth",
+    "Throat"
+   ]
+  },
+  {
+   "word": "Teeth",
+   "hints": [
+    {
+     "text": "Mouth parts",
+     "level": 1
+    },
+    {
+     "text": "Chewing tools",
+     "level": 1
+    },
+    {
+     "text": "Brushed twice daily",
+     "level": 2
+    },
+    {
+     "text": "Dentist visits",
+     "level": 2
+    },
+    {
+     "text": "Enamel and molars",
+     "level": 3
+    },
+    {
+     "text": "Biting",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gums",
+    "Tongue",
+    "Jaw"
+   ]
+  },
+  {
+   "word": "Hair",
+   "hints": [
+    {
+     "text": "Body fiber",
+     "level": 1
+    },
+    {
+     "text": "Head covering",
+     "level": 1
+    },
+    {
+     "text": "Salon visits",
+     "level": 2
+    },
+    {
+     "text": "Messy mornings",
+     "level": 2
+    },
+    {
+     "text": "Strands and roots",
+     "level": 3
+    },
+    {
+     "text": "Grows constantly",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fur",
+    "Skin",
+    "Nails"
+   ]
+  },
+  {
+   "word": "Fingernail",
+   "hints": [
+    {
+     "text": "Body part",
+     "level": 1
+    },
+    {
+     "text": "Hand tip",
+     "level": 1
+    },
+    {
+     "text": "Painted with polish",
+     "level": 2
+    },
+    {
+     "text": "Bitten when nervous",
+     "level": 2
+    },
+    {
+     "text": "Keratin layer",
+     "level": 3
+    },
+    {
+     "text": "Grows slowly",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Toenail",
+    "Claw",
+    "Skin"
+   ]
+  },
+  {
+   "word": "Hand",
+   "hints": [
+    {
+     "text": "Body part",
+     "level": 1
+    },
+    {
+     "text": "Limb end",
+     "level": 1
+    },
+    {
+     "text": "Shake to greet",
+     "level": 2
+    },
+    {
+     "text": "Wave hello",
+     "level": 2
+    },
+    {
+     "text": "Five fingers",
+     "level": 3
+    },
+    {
+     "text": "Palm and knuckles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Foot",
+    "Arm",
+    "Paw"
+   ]
+  },
+  {
+   "word": "Foot",
+   "hints": [
+    {
+     "text": "Body part",
+     "level": 1
+    },
+    {
+     "text": "Limb end",
+     "level": 1
+    },
+    {
+     "text": "Walking and running",
+     "level": 2
+    },
+    {
+     "text": "Ticklish soles",
+     "level": 2
+    },
+    {
+     "text": "Toes and heel",
+     "level": 3
+    },
+    {
+     "text": "Arch",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hand",
+    "Leg",
+    "Ankle"
+   ]
+  },
+  {
+   "word": "Knee",
+   "hints": [
+    {
+     "text": "Body joint",
+     "level": 1
+    },
+    {
+     "text": "Leg joint",
+     "level": 1
+    },
+    {
+     "text": "Scraped as kids",
+     "level": 2
+    },
+    {
+     "text": "Praying position",
+     "level": 2
+    },
+    {
+     "text": "Patella",
+     "level": 3
+    },
+    {
+     "text": "Bends the leg",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Elbow",
+    "Ankle",
+    "Hip"
+   ]
+  },
+  {
+   "word": "Elbow",
+   "hints": [
+    {
+     "text": "Body joint",
+     "level": 1
+    },
+    {
+     "text": "Arm joint",
+     "level": 1
+    },
+    {
+     "text": "Funny bone",
+     "level": 2
+    },
+    {
+     "text": "Leaning on tables",
+     "level": 2
+    },
+    {
+     "text": "Bends the arm",
+     "level": 3
+    },
+    {
+     "text": "Pointy tip",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Knee",
+    "Wrist",
+    "Shoulder"
+   ]
+  },
+  {
+   "word": "Shoulder",
+   "hints": [
+    {
+     "text": "Body joint",
+     "level": 1
+    },
+    {
+     "text": "Upper limb joint",
+     "level": 1
+    },
+    {
+     "text": "Carries bags",
+     "level": 2
+    },
+    {
+     "text": "Shrugging",
+     "level": 2
+    },
+    {
+     "text": "Ball and socket",
+     "level": 3
+    },
+    {
+     "text": "Collarbone",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hip",
+    "Elbow",
+    "Neck"
+   ]
+  },
+  {
+   "word": "Neck",
+   "hints": [
+    {
+     "text": "Body part",
+     "level": 1
+    },
+    {
+     "text": "Head support",
+     "level": 1
+    },
+    {
+     "text": "Scarves and ties",
+     "level": 2
+    },
+    {
+     "text": "Stiff mornings",
+     "level": 2
+    },
+    {
+     "text": "Throat and nape",
+     "level": 3
+    },
+    {
+     "text": "Turns the head",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shoulder",
+    "Spine",
+    "Chin"
+   ]
+  },
+  {
+   "word": "Belly button",
+   "hints": [
+    {
+     "text": "Body mark",
+     "level": 1
+    },
+    {
+     "text": "Navel",
+     "level": 1
+    },
+    {
+     "text": "Leftover from birth",
+     "level": 2
+    },
+    {
+     "text": "Innie or outie",
+     "level": 2
+    },
+    {
+     "text": "Center of tummy",
+     "level": 3
+    },
+    {
+     "text": "Small dimple",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nipple",
+    "Freckle",
+    "Dimple"
+   ]
+  },
+  {
+   "word": "Thumb",
+   "hints": [
+    {
+     "text": "Digit",
+     "level": 1
+    },
+    {
+     "text": "Hand part",
+     "level": 1
+    },
+    {
+     "text": "Approval gesture",
+     "level": 2
+    },
+    {
+     "text": "Hitchhiking",
+     "level": 2
+    },
+    {
+     "text": "Opposable",
+     "level": 3
+    },
+    {
+     "text": "Short and wide",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Finger",
+    "Toe",
+    "Wrist"
+   ]
+  },
+  {
+   "word": "Wrist",
+   "hints": [
+    {
+     "text": "Body joint",
+     "level": 1
+    },
+    {
+     "text": "Hand joint",
+     "level": 1
+    },
+    {
+     "text": "Wears watches",
+     "level": 2
+    },
+    {
+     "text": "Sprained easily",
+     "level": 2
+    },
+    {
+     "text": "Pulse point",
+     "level": 3
+    },
+    {
+     "text": "Small bones",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ankle",
+    "Elbow",
+    "Knuckle"
+   ]
+  },
+  {
+   "word": "Ankle",
+   "hints": [
+    {
+     "text": "Body joint",
+     "level": 1
+    },
+    {
+     "text": "Foot joint",
+     "level": 1
+    },
+    {
+     "text": "Twisted in sports",
+     "level": 2
+    },
+    {
+     "text": "Socks cover",
+     "level": 2
+    },
+    {
+     "text": "Above the foot",
+     "level": 3
+    },
+    {
+     "text": "Bony bumps",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wrist",
+    "Knee",
+    "Heel"
+   ]
+  },
+  {
+   "word": "Heel",
+   "hints": [
+    {
+     "text": "Foot part",
+     "level": 1
+    },
+    {
+     "text": "Back of foot",
+     "level": 1
+    },
+    {
+     "text": "Blisters from shoes",
+     "level": 2
+    },
+    {
+     "text": "Achilles",
+     "level": 2
+    },
+    {
+     "text": "Rounded bone",
+     "level": 3
+    },
+    {
+     "text": "Hits ground first",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Toe",
+    "Ankle",
+    "Sole"
+   ]
+  },
+  {
+   "word": "Eyebrow",
+   "hints": [
+    {
+     "text": "Face feature",
+     "level": 1
+    },
+    {
+     "text": "Hair arch",
+     "level": 1
+    },
+    {
+     "text": "Raised in surprise",
+     "level": 2
+    },
+    {
+     "text": "Plucked or threaded",
+     "level": 2
+    },
+    {
+     "text": "Above the eye",
+     "level": 3
+    },
+    {
+     "text": "Thin hair line",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Eyelash",
+    "Beard",
+    "Forehead"
+   ]
+  },
+  {
+   "word": "Eyelash",
+   "hints": [
+    {
+     "text": "Face feature",
+     "level": 1
+    },
+    {
+     "text": "Lid hair",
+     "level": 1
+    },
+    {
+     "text": "Make a wish",
+     "level": 2
+    },
+    {
+     "text": "Mascara",
+     "level": 2
+    },
+    {
+     "text": "Curled hairs",
+     "level": 3
+    },
+    {
+     "text": "Protects eyes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Eyebrow",
+    "Eyelid",
+    "Whisker"
+   ]
+  },
+  {
+   "word": "Fever",
+   "hints": [
+    {
+     "text": "Illness sign",
+     "level": 1
+    },
+    {
+     "text": "High temperature",
+     "level": 1
+    },
+    {
+     "text": "Thermometer check",
+     "level": 2
+    },
+    {
+     "text": "Sweats and chills",
+     "level": 2
+    },
+    {
+     "text": "Hot forehead",
+     "level": 3
+    },
+    {
+     "text": "Body fighting infection",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cold",
+    "Flu",
+    "Headache"
+   ]
+  },
+  {
+   "word": "Cold",
+   "hints": [
+    {
+     "text": "Common illness",
+     "level": 1
+    },
+    {
+     "text": "Sniffles",
+     "level": 1
+    },
+    {
+     "text": "Runny nose",
+     "level": 2
+    },
+    {
+     "text": "Tissues everywhere",
+     "level": 2
+    },
+    {
+     "text": "Sneezing",
+     "level": 3
+    },
+    {
+     "text": "Sore throat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Flu",
+    "Fever",
+    "Allergy"
+   ]
+  },
+  {
+   "word": "Flu",
+   "hints": [
+    {
+     "text": "Illness",
+     "level": 1
+    },
+    {
+     "text": "Seasonal virus",
+     "level": 1
+    },
+    {
+     "text": "Annual vaccine",
+     "level": 2
+    },
+    {
+     "text": "Bedridden days",
+     "level": 2
+    },
+    {
+     "text": "Aches and fever",
+     "level": 3
+    },
+    {
+     "text": "Chills",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cold",
+    "Fever",
+    "Measles"
+   ]
+  },
+  {
+   "word": "Cough",
+   "hints": [
+    {
+     "text": "Symptom",
+     "level": 1
+    },
+    {
+     "text": "Throat reflex",
+     "level": 1
+    },
+    {
+     "text": "Cover your mouth",
+     "level": 2
+    },
+    {
+     "text": "Syrup helps",
+     "level": 2
+    },
+    {
+     "text": "Hacking sound",
+     "level": 3
+    },
+    {
+     "text": "Tickly throat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sneeze",
+    "Hiccup",
+    "Yawn"
+   ]
+  },
+  {
+   "word": "Sneeze",
+   "hints": [
+    {
+     "text": "Body reflex",
+     "level": 1
+    },
+    {
+     "text": "Nose burst",
+     "level": 1
+    },
+    {
+     "text": "Bless you",
+     "level": 2
+    },
+    {
+     "text": "Pepper triggers it",
+     "level": 2
+    },
+    {
+     "text": "Achoo",
+     "level": 3
+    },
+    {
+     "text": "Tissue needed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cough",
+    "Hiccup",
+    "Yawn"
+   ]
+  },
+  {
+   "word": "Hiccup",
+   "hints": [
+    {
+     "text": "Body reflex",
+     "level": 1
+    },
+    {
+     "text": "Diaphragm spasm",
+     "level": 1
+    },
+    {
+     "text": "Scare them away",
+     "level": 2
+    },
+    {
+     "text": "Hold breath cure",
+     "level": 2
+    },
+    {
+     "text": "Squeaky jolts",
+     "level": 3
+    },
+    {
+     "text": "Repeating",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Burp",
+    "Sneeze",
+    "Cough"
+   ]
+  },
+  {
+   "word": "Yawn",
+   "hints": [
+    {
+     "text": "Body reflex",
+     "level": 1
+    },
+    {
+     "text": "Tired sign",
+     "level": 1
+    },
+    {
+     "text": "Contagious",
+     "level": 2
+    },
+    {
+     "text": "Boring meetings",
+     "level": 2
+    },
+    {
+     "text": "Wide open mouth",
+     "level": 3
+    },
+    {
+     "text": "Stretching jaw",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sneeze",
+    "Sigh",
+    "Hiccup"
+   ]
+  },
+  {
+   "word": "Headache",
+   "hints": [
+    {
+     "text": "Pain",
+     "level": 1
+    },
+    {
+     "text": "Temple pain",
+     "level": 1
+    },
+    {
+     "text": "Too much screen time",
+     "level": 2
+    },
+    {
+     "text": "Painkillers",
+     "level": 2
+    },
+    {
+     "text": "Throbbing temples",
+     "level": 3
+    },
+    {
+     "text": "Pressure",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Migraine",
+    "Fever",
+    "Toothache"
+   ]
+  },
+  {
+   "word": "Toothache",
+   "hints": [
+    {
+     "text": "Pain",
+     "level": 1
+    },
+    {
+     "text": "Mouth pain",
+     "level": 1
+    },
+    {
+     "text": "Dentist needed",
+     "level": 2
+    },
+    {
+     "text": "Cavities",
+     "level": 2
+    },
+    {
+     "text": "Throbbing jaw",
+     "level": 3
+    },
+    {
+     "text": "Sensitive to cold",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Headache",
+    "Earache",
+    "Stomach ache"
+   ]
+  },
+  {
+   "word": "Allergy",
+   "hints": [
+    {
+     "text": "Immune reaction",
+     "level": 1
+    },
+    {
+     "text": "Sensitivity",
+     "level": 1
+    },
+    {
+     "text": "Pollen season",
+     "level": 2
+    },
+    {
+     "text": "Peanut warnings",
+     "level": 2
+    },
+    {
+     "text": "Itchy eyes",
+     "level": 3
+    },
+    {
+     "text": "Sneezing fits",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cold",
+    "Rash",
+    "Asthma"
+   ]
+  },
+  {
+   "word": "Asthma",
+   "hints": [
+    {
+     "text": "Breathing condition",
+     "level": 1
+    },
+    {
+     "text": "Lung condition",
+     "level": 1
+    },
+    {
+     "text": "Inhalers",
+     "level": 2
+    },
+    {
+     "text": "Wheezing",
+     "level": 2
+    },
+    {
+     "text": "Tight airways",
+     "level": 3
+    },
+    {
+     "text": "Puffer",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Allergy",
+    "Bronchitis",
+    "Cough"
+   ]
+  },
+  {
+   "word": "Rash",
+   "hints": [
+    {
+     "text": "Skin problem",
+     "level": 1
+    },
+    {
+     "text": "Red patches",
+     "level": 1
+    },
+    {
+     "text": "Allergic reactions",
+     "level": 2
+    },
+    {
+     "text": "Itchy",
+     "level": 2
+    },
+    {
+     "text": "Bumpy skin",
+     "level": 3
+    },
+    {
+     "text": "Ointment",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bruise",
+    "Blister",
+    "Pimple"
+   ]
+  },
+  {
+   "word": "Bruise",
+   "hints": [
+    {
+     "text": "Skin mark",
+     "level": 1
+    },
+    {
+     "text": "Injury sign",
+     "level": 1
+    },
+    {
+     "text": "Bumping into tables",
+     "level": 2
+    },
+    {
+     "text": "Turns colors",
+     "level": 2
+    },
+    {
+     "text": "Purple patch",
+     "level": 3
+    },
+    {
+     "text": "Tender spot",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Scar",
+    "Cut",
+    "Rash"
+   ]
+  },
+  {
+   "word": "Scar",
+   "hints": [
+    {
+     "text": "Skin mark",
+     "level": 1
+    },
+    {
+     "text": "Healed wound",
+     "level": 1
+    },
+    {
+     "text": "Stories behind them",
+     "level": 2
+    },
+    {
+     "text": "Fades over time",
+     "level": 2
+    },
+    {
+     "text": "Raised line",
+     "level": 3
+    },
+    {
+     "text": "Lighter skin",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bruise",
+    "Freckle",
+    "Tattoo"
+   ]
+  },
+  {
+   "word": "Blister",
+   "hints": [
+    {
+     "text": "Skin bubble",
+     "level": 1
+    },
+    {
+     "text": "Friction injury",
+     "level": 1
+    },
+    {
+     "text": "New shoes",
+     "level": 2
+    },
+    {
+     "text": "Do not pop",
+     "level": 2
+    },
+    {
+     "text": "Fluid filled",
+     "level": 3
+    },
+    {
+     "text": "Sore heel",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bruise",
+    "Pimple",
+    "Rash"
+   ]
+  },
+  {
+   "word": "Pimple",
+   "hints": [
+    {
+     "text": "Skin spot",
+     "level": 1
+    },
+    {
+     "text": "Acne bump",
+     "level": 1
+    },
+    {
+     "text": "Teen years",
+     "level": 2
+    },
+    {
+     "text": "Popping temptation",
+     "level": 2
+    },
+    {
+     "text": "Red bump",
+     "level": 3
+    },
+    {
+     "text": "White head",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Freckle",
+    "Blister",
+    "Mole"
+   ]
+  },
+  {
+   "word": "Freckle",
+   "hints": [
+    {
+     "text": "Skin spot",
+     "level": 1
+    },
+    {
+     "text": "Sun mark",
+     "level": 1
+    },
+    {
+     "text": "Summer faces",
+     "level": 2
+    },
+    {
+     "text": "Cute dots",
+     "level": 2
+    },
+    {
+     "text": "Tiny brown dots",
+     "level": 3
+    },
+    {
+     "text": "Across the nose",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mole",
+    "Dimple",
+    "Pimple"
+   ]
+  },
+  {
+   "word": "Sunburn",
+   "hints": [
+    {
+     "text": "Skin injury",
+     "level": 1
+    },
+    {
+     "text": "Sun damage",
+     "level": 1
+    },
+    {
+     "text": "Forgot sunscreen",
+     "level": 2
+    },
+    {
+     "text": "Beach days",
+     "level": 2
+    },
+    {
+     "text": "Red and peeling",
+     "level": 3
+    },
+    {
+     "text": "Stings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tan",
+    "Rash",
+    "Blister"
+   ]
+  },
+  {
+   "word": "Broken bone",
+   "hints": [
+    {
+     "text": "Injury",
+     "level": 1
+    },
+    {
+     "text": "Fracture",
+     "level": 1
+    },
+    {
+     "text": "Cast signing",
+     "level": 2
+    },
+    {
+     "text": "Ski accidents",
+     "level": 2
+    },
+    {
+     "text": "X ray picture",
+     "level": 3
+    },
+    {
+     "text": "Splint",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sprain",
+    "Bruise",
+    "Dislocation"
+   ]
+  },
+  {
+   "word": "Sprain",
+   "hints": [
+    {
+     "text": "Injury",
+     "level": 1
+    },
+    {
+     "text": "Twisted joint",
+     "level": 1
+    },
+    {
+     "text": "Ankle rolls",
+     "level": 2
+    },
+    {
+     "text": "Ice packs",
+     "level": 2
+    },
+    {
+     "text": "Swollen ligament",
+     "level": 3
+    },
+    {
+     "text": "Bandaged",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fracture",
+    "Bruise",
+    "Cramp"
+   ]
+  },
+  {
+   "word": "Cramp",
+   "hints": [
+    {
+     "text": "Muscle pain",
+     "level": 1
+    },
+    {
+     "text": "Sudden tightness",
+     "level": 1
+    },
+    {
+     "text": "Swimming warnings",
+     "level": 2
+    },
+    {
+     "text": "Night leg pain",
+     "level": 2
+    },
+    {
+     "text": "Knotted muscle",
+     "level": 3
+    },
+    {
+     "text": "Stretch it out",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sprain",
+    "Stitch",
+    "Spasm"
+   ]
+  },
+  {
+   "word": "Bandage",
+   "hints": [
+    {
+     "text": "Medical supply",
+     "level": 1
+    },
+    {
+     "text": "Wound cover",
+     "level": 1
+    },
+    {
+     "text": "Wrapped around cuts",
+     "level": 2
+    },
+    {
+     "text": "First aid kit",
+     "level": 2
+    },
+    {
+     "text": "Sticky strip",
+     "level": 3
+    },
+    {
+     "text": "Gauze",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Plaster",
+    "Cast",
+    "Sling"
+   ]
+  },
+  {
+   "word": "Cast",
+   "hints": [
+    {
+     "text": "Medical support",
+     "level": 1
+    },
+    {
+     "text": "Hard wrap",
+     "level": 1
+    },
+    {
+     "text": "Friends sign it",
+     "level": 2
+    },
+    {
+     "text": "Broken arm",
+     "level": 2
+    },
+    {
+     "text": "Plaster shell",
+     "level": 3
+    },
+    {
+     "text": "Itchy inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sling",
+    "Splint",
+    "Bandage"
+   ]
+  },
+  {
+   "word": "Crutches",
+   "hints": [
+    {
+     "text": "Mobility aid",
+     "level": 1
+    },
+    {
+     "text": "Walking support",
+     "level": 1
+    },
+    {
+     "text": "Leg injuries",
+     "level": 2
+    },
+    {
+     "text": "Hopping around",
+     "level": 2
+    },
+    {
+     "text": "Armpit pads",
+     "level": 3
+    },
+    {
+     "text": "Pair of poles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wheelchair",
+    "Walker",
+    "Cane"
+   ]
+  },
+  {
+   "word": "Wheelchair",
+   "hints": [
+    {
+     "text": "Mobility aid",
+     "level": 1
+    },
+    {
+     "text": "Rolling seat",
+     "level": 1
+    },
+    {
+     "text": "Accessibility ramps",
+     "level": 2
+    },
+    {
+     "text": "Hospitals",
+     "level": 2
+    },
+    {
+     "text": "Big wheels",
+     "level": 3
+    },
+    {
+     "text": "Push handles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Crutches",
+    "Walker",
+    "Scooter"
+   ]
+  },
+  {
+   "word": "Stethoscope",
+   "hints": [
+    {
+     "text": "Medical tool",
+     "level": 1
+    },
+    {
+     "text": "Listening device",
+     "level": 1
+    },
+    {
+     "text": "Doctors wear it",
+     "level": 2
+    },
+    {
+     "text": "Cold on chest",
+     "level": 2
+    },
+    {
+     "text": "Ear tubes",
+     "level": 3
+    },
+    {
+     "text": "Round chest piece",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Thermometer",
+    "Syringe",
+    "Otoscope"
+   ]
+  },
+  {
+   "word": "Thermometer",
+   "hints": [
+    {
+     "text": "Medical tool",
+     "level": 1
+    },
+    {
+     "text": "Temperature gauge",
+     "level": 1
+    },
+    {
+     "text": "Under the tongue",
+     "level": 2
+    },
+    {
+     "text": "Fever check",
+     "level": 2
+    },
+    {
+     "text": "Digital beep",
+     "level": 3
+    },
+    {
+     "text": "Degrees reading",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Stethoscope",
+    "Barometer",
+    "Scale"
+   ]
+  },
+  {
+   "word": "Syringe",
+   "hints": [
+    {
+     "text": "Medical tool",
+     "level": 1
+    },
+    {
+     "text": "Injection device",
+     "level": 1
+    },
+    {
+     "text": "Vaccines",
+     "level": 2
+    },
+    {
+     "text": "Nervous patients",
+     "level": 2
+    },
+    {
+     "text": "Sharp needle",
+     "level": 3
+    },
+    {
+     "text": "Plunger",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pill",
+    "Inhaler",
+    "Scalpel"
+   ]
+  },
+  {
+   "word": "Vaccine",
+   "hints": [
+    {
+     "text": "Medicine",
+     "level": 1
+    },
+    {
+     "text": "Immunization",
+     "level": 1
+    },
+    {
+     "text": "Prevents disease",
+     "level": 2
+    },
+    {
+     "text": "Booster shots",
+     "level": 2
+    },
+    {
+     "text": "Injected dose",
+     "level": 3
+    },
+    {
+     "text": "Builds immunity",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Antibiotic",
+    "Vitamin",
+    "Pill"
+   ]
+  },
+  {
+   "word": "Pill",
+   "hints": [
+    {
+     "text": "Medicine",
+     "level": 1
+    },
+    {
+     "text": "Tablet",
+     "level": 1
+    },
+    {
+     "text": "Swallowed with water",
+     "level": 2
+    },
+    {
+     "text": "Daily dose",
+     "level": 2
+    },
+    {
+     "text": "Small capsule",
+     "level": 3
+    },
+    {
+     "text": "Prescription bottle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Syrup",
+    "Injection",
+    "Vitamin"
+   ]
+  },
+  {
+   "word": "Vitamin",
+   "hints": [
+    {
+     "text": "Nutrient",
+     "level": 1
+    },
+    {
+     "text": "Supplement",
+     "level": 1
+    },
+    {
+     "text": "Gummies for kids",
+     "level": 2
+    },
+    {
+     "text": "Healthy diet",
+     "level": 2
+    },
+    {
+     "text": "Daily tablets",
+     "level": 3
+    },
+    {
+     "text": "Citrus source",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mineral",
+    "Protein",
+    "Pill"
+   ]
+  },
+  {
+   "word": "Ambulance",
+   "hints": [
+    {
+     "text": "Emergency vehicle",
+     "level": 1
+    },
+    {
+     "text": "Medical van",
+     "level": 1
+    },
+    {
+     "text": "Rushes to hospital",
+     "level": 2
+    },
+    {
+     "text": "Flashing lights",
+     "level": 2
+    },
+    {
+     "text": "Siren wail",
+     "level": 3
+    },
+    {
+     "text": "Stretcher inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fire truck",
+    "Police car",
+    "Taxi"
+   ]
+  },
+  {
+   "word": "Medicine box",
+   "hints": [
+    {
+     "text": "Medical kit",
+     "level": 1
+    },
+    {
+     "text": "Emergency supplies",
+     "level": 1
+    },
+    {
+     "text": "Camping essential",
+     "level": 2
+    },
+    {
+     "text": "Cuts and scrapes",
+     "level": 2
+    },
+    {
+     "text": "Red cross sign",
+     "level": 3
+    },
+    {
+     "text": "Bandages inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Toolbox",
+    "Lunchbox",
+    "Medicine cabinet"
+   ]
+  },
+  {
+   "word": "Surgery",
+   "hints": [
+    {
+     "text": "Medical procedure",
+     "level": 1
+    },
+    {
+     "text": "Operation",
+     "level": 1
+    },
+    {
+     "text": "Anesthesia",
+     "level": 2
+    },
+    {
+     "text": "Recovery time",
+     "level": 2
+    },
+    {
+     "text": "Scalpel and stitches",
+     "level": 3
+    },
+    {
+     "text": "Operating room",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Checkup",
+    "Therapy",
+    "Vaccination"
+   ]
+  },
+  {
+   "word": "Stitches",
+   "hints": [
+    {
+     "text": "Wound closure",
+     "level": 1
+    },
+    {
+     "text": "Sutures",
+     "level": 1
+    },
+    {
+     "text": "After deep cuts",
+     "level": 2
+    },
+    {
+     "text": "Removed later",
+     "level": 2
+    },
+    {
+     "text": "Thread in skin",
+     "level": 3
+    },
+    {
+     "text": "Tiny knots",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bandage",
+    "Staples",
+    "Cast"
+   ]
+  },
+  {
+   "word": "X-ray",
+   "hints": [
+    {
+     "text": "Medical image",
+     "level": 1
+    },
+    {
+     "text": "Bone scan",
+     "level": 1
+    },
+    {
+     "text": "Broken bone check",
+     "level": 2
+    },
+    {
+     "text": "Dentist pictures",
+     "level": 2
+    },
+    {
+     "text": "See through photo",
+     "level": 3
+    },
+    {
+     "text": "Lead apron",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ultrasound",
+    "Scan",
+    "Photograph"
+   ]
+  },
+  {
+   "word": "Checkup",
+   "hints": [
+    {
+     "text": "Doctor visit",
+     "level": 1
+    },
+    {
+     "text": "Health exam",
+     "level": 1
+    },
+    {
+     "text": "Yearly appointment",
+     "level": 2
+    },
+    {
+     "text": "Say ahh",
+     "level": 2
+    },
+    {
+     "text": "Weight and height",
+     "level": 3
+    },
+    {
+     "text": "Blood pressure",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Surgery",
+    "Vaccination",
+    "Therapy"
+   ]
+  },
+  {
+   "word": "Pulse",
+   "hints": [
+    {
+     "text": "Heartbeat sign",
+     "level": 1
+    },
+    {
+     "text": "Vital sign",
+     "level": 1
+    },
+    {
+     "text": "Checked at wrist",
+     "level": 2
+    },
+    {
+     "text": "Races when scared",
+     "level": 2
+    },
+    {
+     "text": "Beats per minute",
+     "level": 3
+    },
+    {
+     "text": "Throbbing",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Breath",
+    "Blood pressure",
+    "Temperature"
+   ]
+  },
+  {
+   "word": "Breath",
+   "hints": [
+    {
+     "text": "Air intake",
+     "level": 1
+    },
+    {
+     "text": "Respiration",
+     "level": 1
+    },
+    {
+     "text": "Hold it underwater",
+     "level": 2
+    },
+    {
+     "text": "Slow inhales calm",
+     "level": 2
+    },
+    {
+     "text": "Inhale and exhale",
+     "level": 3
+    },
+    {
+     "text": "Lungs fill",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pulse",
+    "Sigh",
+    "Yawn"
+   ]
+  },
+  {
+   "word": "Sweat",
+   "hints": [
+    {
+     "text": "Body fluid",
+     "level": 1
+    },
+    {
+     "text": "Perspiration",
+     "level": 1
+    },
+    {
+     "text": "Hot days",
+     "level": 2
+    },
+    {
+     "text": "Workouts",
+     "level": 2
+    },
+    {
+     "text": "Salty drops",
+     "level": 3
+    },
+    {
+     "text": "Armpits",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tears",
+    "Saliva",
+    "Blood"
+   ]
+  },
+  {
+   "word": "Tears",
+   "hints": [
+    {
+     "text": "Body fluid",
+     "level": 1
+    },
+    {
+     "text": "Eye drops",
+     "level": 1
+    },
+    {
+     "text": "Crying",
+     "level": 2
+    },
+    {
+     "text": "Onion chopping",
+     "level": 2
+    },
+    {
+     "text": "Salty droplets",
+     "level": 3
+    },
+    {
+     "text": "Down the cheeks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sweat",
+    "Saliva",
+    "Rain"
+   ]
+  },
+  {
+   "word": "Saliva",
+   "hints": [
+    {
+     "text": "Body fluid",
+     "level": 1
+    },
+    {
+     "text": "Spit",
+     "level": 1
+    },
+    {
+     "text": "Mouth watering",
+     "level": 2
+    },
+    {
+     "text": "Helps digestion",
+     "level": 2
+    },
+    {
+     "text": "Drool",
+     "level": 3
+    },
+    {
+     "text": "Clear liquid",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sweat",
+    "Tears",
+    "Mucus"
+   ]
+  },
+  {
+   "word": "Sleep",
+   "hints": [
+    {
+     "text": "Rest state",
+     "level": 1
+    },
+    {
+     "text": "Nightly rest",
+     "level": 1
+    },
+    {
+     "text": "Eight hours",
+     "level": 2
+    },
+    {
+     "text": "Bedtime",
+     "level": 2
+    },
+    {
+     "text": "Dreams and snoring",
+     "level": 3
+    },
+    {
+     "text": "Eyes closed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nap",
+    "Coma",
+    "Rest"
+   ]
+  },
+  {
+   "word": "Dream",
+   "hints": [
+    {
+     "text": "Sleep vision",
+     "level": 1
+    },
+    {
+     "text": "Night story",
+     "level": 1
+    },
+    {
+     "text": "Wake up confused",
+     "level": 2
+    },
+    {
+     "text": "Nightmares",
+     "level": 2
+    },
+    {
+     "text": "Images while asleep",
+     "level": 3
+    },
+    {
+     "text": "Surreal",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nightmare",
+    "Vision",
+    "Memory"
+   ]
+  },
+  {
+   "word": "Nightmare",
+   "hints": [
+    {
+     "text": "Bad dream",
+     "level": 1
+    },
+    {
+     "text": "Scary sleep",
+     "level": 1
+    },
+    {
+     "text": "Wake up sweating",
+     "level": 2
+    },
+    {
+     "text": "Monsters chase",
+     "level": 2
+    },
+    {
+     "text": "Frightening visions",
+     "level": 3
+    },
+    {
+     "text": "Sleep terror",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dream",
+    "Vision",
+    "Phobia"
+   ]
+  },
+  {
+   "word": "Snoring",
+   "hints": [
+    {
+     "text": "Sleep noise",
+     "level": 1
+    },
+    {
+     "text": "Nasal sound",
+     "level": 1
+    },
+    {
+     "text": "Partners complain",
+     "level": 2
+    },
+    {
+     "text": "Loud nights",
+     "level": 2
+    },
+    {
+     "text": "Rumbling breath",
+     "level": 3
+    },
+    {
+     "text": "Open mouth",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Yawning",
+    "Sneezing",
+    "Whistling"
+   ]
+  },
+  {
+   "word": "Exercise",
+   "hints": [
+    {
+     "text": "Physical activity",
+     "level": 1
+    },
+    {
+     "text": "Workout",
+     "level": 1
+    },
+    {
+     "text": "Gym routines",
+     "level": 2
+    },
+    {
+     "text": "Keeps you fit",
+     "level": 2
+    },
+    {
+     "text": "Sweat and stretching",
+     "level": 3
+    },
+    {
+     "text": "Push ups",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rest",
+    "Diet",
+    "Sport"
+   ]
+  },
+  {
+   "word": "Diet",
+   "hints": [
+    {
+     "text": "Eating plan",
+     "level": 1
+    },
+    {
+     "text": "Food habits",
+     "level": 1
+    },
+    {
+     "text": "New year goals",
+     "level": 2
+    },
+    {
+     "text": "Calorie counting",
+     "level": 2
+    },
+    {
+     "text": "Healthy meals",
+     "level": 3
+    },
+    {
+     "text": "Portion control",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Exercise",
+    "Fasting",
+    "Feast"
+   ]
+  },
+  {
+   "word": "Fasting",
+   "hints": [
+    {
+     "text": "Not eating",
+     "level": 1
+    },
+    {
+     "text": "Food break",
+     "level": 1
+    },
+    {
+     "text": "Religious practice",
+     "level": 2
+    },
+    {
+     "text": "Intermittent trend",
+     "level": 2
+    },
+    {
+     "text": "Empty stomach",
+     "level": 3
+    },
+    {
+     "text": "Skipped meals",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Diet",
+    "Feast",
+    "Snacking"
+   ]
+  },
+  {
+   "word": "Meditation",
+   "hints": [
+    {
+     "text": "Mind practice",
+     "level": 1
+    },
+    {
+     "text": "Calm technique",
+     "level": 1
+    },
+    {
+     "text": "Stress relief",
+     "level": 2
+    },
+    {
+     "text": "Quiet mornings",
+     "level": 2
+    },
+    {
+     "text": "Closed eyes",
+     "level": 3
+    },
+    {
+     "text": "Breathing focus",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Yoga",
+    "Prayer",
+    "Sleep"
+   ]
+  },
+  {
+   "word": "Yoga",
+   "hints": [
+    {
+     "text": "Mind body exercise",
+     "level": 1
+    },
+    {
+     "text": "Stretching practice",
+     "level": 1
+    },
+    {
+     "text": "Mats in studios",
+     "level": 2
+    },
+    {
+     "text": "Calm breathing",
+     "level": 2
+    },
+    {
+     "text": "Downward dog",
+     "level": 3
+    },
+    {
+     "text": "Lotus pose",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pilates",
+    "Meditation",
+    "Aerobics"
+   ]
+  },
+  {
+   "word": "Massage",
+   "hints": [
+    {
+     "text": "Body therapy",
+     "level": 1
+    },
+    {
+     "text": "Relaxing rub",
+     "level": 1
+    },
+    {
+     "text": "Spa treatment",
+     "level": 2
+    },
+    {
+     "text": "Sore muscles",
+     "level": 2
+    },
+    {
+     "text": "Kneading hands",
+     "level": 3
+    },
+    {
+     "text": "Scented oil",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Acupuncture",
+    "Stretching",
+    "Facial"
+   ]
+  },
+  {
+   "word": "Hospital bed",
+   "hints": [
+    {
+     "text": "Medical furniture",
+     "level": 1
+    },
+    {
+     "text": "Patient cot",
+     "level": 1
+    },
+    {
+     "text": "Recovery rooms",
+     "level": 2
+    },
+    {
+     "text": "Adjustable",
+     "level": 2
+    },
+    {
+     "text": "Rails on sides",
+     "level": 3
+    },
+    {
+     "text": "Wheels",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Stretcher",
+    "Couch",
+    "Cot"
+   ]
+  },
+  {
+   "word": "Doctor",
+   "hints": [
+    {
+     "text": "Medical professional",
+     "level": 1
+    },
+    {
+     "text": "Healer",
+     "level": 1
+    },
+    {
+     "text": "Writes prescriptions",
+     "level": 2
+    },
+    {
+     "text": "White coat",
+     "level": 2
+    },
+    {
+     "text": "Stethoscope",
+     "level": 3
+    },
+    {
+     "text": "Clinic visits",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nurse",
+    "Dentist",
+    "Surgeon"
+   ]
+  },
+  {
+   "word": "Nurse",
+   "hints": [
+    {
+     "text": "Medical professional",
+     "level": 1
+    },
+    {
+     "text": "Caregiver",
+     "level": 1
+    },
+    {
+     "text": "Night shifts",
+     "level": 2
+    },
+    {
+     "text": "Takes temperature",
+     "level": 2
+    },
+    {
+     "text": "Scrubs",
+     "level": 3
+    },
+    {
+     "text": "Hospital wards",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Doctor",
+    "Paramedic",
+    "Midwife"
+   ]
+  },
+  {
+   "word": "Dentist",
+   "hints": [
+    {
+     "text": "Tooth doctor",
+     "level": 1
+    },
+    {
+     "text": "Oral specialist",
+     "level": 1
+    },
+    {
+     "text": "Check ups",
+     "level": 2
+    },
+    {
+     "text": "Fillings",
+     "level": 2
+    },
+    {
+     "text": "Drill sound",
+     "level": 3
+    },
+    {
+     "text": "Reclining chair",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Doctor",
+    "Orthodontist",
+    "Hygienist"
+   ]
+  },
+  {
+   "word": "Braces",
+   "hints": [
+    {
+     "text": "Dental device",
+     "level": 1
+    },
+    {
+     "text": "Teeth straightener",
+     "level": 1
+    },
+    {
+     "text": "Teen years",
+     "level": 2
+    },
+    {
+     "text": "Tightened monthly",
+     "level": 2
+    },
+    {
+     "text": "Metal brackets",
+     "level": 3
+    },
+    {
+     "text": "Rubber bands",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Retainer",
+    "Dentures",
+    "Crown"
+   ]
+  },
+  {
+   "word": "Glasses",
+   "hints": [
+    {
+     "text": "Vision aid",
+     "level": 1
+    },
+    {
+     "text": "Eyewear",
+     "level": 1
+    },
+    {
+     "text": "Reading help",
+     "level": 2
+    },
+    {
+     "text": "Smudged lenses",
+     "level": 2
+    },
+    {
+     "text": "Frames and lenses",
+     "level": 3
+    },
+    {
+     "text": "Rests on nose",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Contact lenses",
+    "Monocle",
+    "Goggles"
+   ]
+  },
+  {
+   "word": "Contact lenses",
+   "hints": [
+    {
+     "text": "Vision aid",
+     "level": 1
+    },
+    {
+     "text": "Eye discs",
+     "level": 1
+    },
+    {
+     "text": "Instead of glasses",
+     "level": 2
+    },
+    {
+     "text": "Daily wear",
+     "level": 2
+    },
+    {
+     "text": "Tiny clear discs",
+     "level": 3
+    },
+    {
+     "text": "On the eyeball",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Glasses",
+    "Eye drops",
+    "Monocle"
+   ]
+  },
+  {
+   "word": "Hearing aid",
+   "hints": [
+    {
+     "text": "Medical device",
+     "level": 1
+    },
+    {
+     "text": "Ear device",
+     "level": 1
+    },
+    {
+     "text": "Elderly users",
+     "level": 2
+    },
+    {
+     "text": "Volume boost",
+     "level": 2
+    },
+    {
+     "text": "Behind the ear",
+     "level": 3
+    },
+    {
+     "text": "Tiny battery",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Earbuds",
+    "Headphones",
+    "Earplugs"
+   ]
+  },
+  {
+   "word": "Inhaler",
+   "hints": [
+    {
+     "text": "Medical device",
+     "level": 1
+    },
+    {
+     "text": "Breathing aid",
+     "level": 1
+    },
+    {
+     "text": "Asthma relief",
+     "level": 2
+    },
+    {
+     "text": "Carried everywhere",
+     "level": 2
+    },
+    {
+     "text": "Puffer",
+     "level": 3
+    },
+    {
+     "text": "Mouthpiece",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nebulizer",
+    "Pill",
+    "Syrup"
+   ]
+  },
+  {
+   "word": "Germ",
+   "hints": [
+    {
+     "text": "Microbe",
+     "level": 1
+    },
+    {
+     "text": "Tiny invader",
+     "level": 1
+    },
+    {
+     "text": "Wash your hands",
+     "level": 2
+    },
+    {
+     "text": "Spreads illness",
+     "level": 2
+    },
+    {
+     "text": "Bacteria or virus",
+     "level": 3
+    },
+    {
+     "text": "Microscopic",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Virus",
+    "Bacteria",
+    "Fungus"
+   ]
+  },
+  {
+   "word": "Virus",
+   "hints": [
+    {
+     "text": "Microbe",
+     "level": 1
+    },
+    {
+     "text": "Infectious agent",
+     "level": 1
+    },
+    {
+     "text": "Colds and flu",
+     "level": 2
+    },
+    {
+     "text": "Spreads fast",
+     "level": 2
+    },
+    {
+     "text": "Tiny particle",
+     "level": 3
+    },
+    {
+     "text": "Needs a host",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bacteria",
+    "Germ",
+    "Fungus"
+   ]
+  },
+  {
+   "word": "Bacteria",
+   "hints": [
+    {
+     "text": "Microbes",
+     "level": 1
+    },
+    {
+     "text": "Single cells",
+     "level": 1
+    },
+    {
+     "text": "Good and bad types",
+     "level": 2
+    },
+    {
+     "text": "Antibiotics fight",
+     "level": 2
+    },
+    {
+     "text": "Rod or round shapes",
+     "level": 3
+    },
+    {
+     "text": "Petri dishes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Virus",
+    "Fungus",
+    "Germ"
+   ]
+  },
+  {
+   "word": "Immune system",
+   "hints": [
+    {
+     "text": "Body defense",
+     "level": 1
+    },
+    {
+     "text": "Protector network",
+     "level": 1
+    },
+    {
+     "text": "Fights infection",
+     "level": 2
+    },
+    {
+     "text": "Vaccines train it",
+     "level": 2
+    },
+    {
+     "text": "White blood cells",
+     "level": 3
+    },
+    {
+     "text": "Antibodies",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nervous system",
+    "Lymph",
+    "Skin"
+   ]
+  },
+  {
+   "word": "Calories",
+   "hints": [
+    {
+     "text": "Energy units",
+     "level": 1
+    },
+    {
+     "text": "Food energy",
+     "level": 1
+    },
+    {
+     "text": "Diet counting",
+     "level": 2
+    },
+    {
+     "text": "Burned in workouts",
+     "level": 2
+    },
+    {
+     "text": "Nutrition labels",
+     "level": 3
+    },
+    {
+     "text": "Energy counts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Protein",
+    "Vitamins",
+    "Carbs"
+   ]
+  },
+  {
+   "word": "Protein",
+   "hints": [
+    {
+     "text": "Nutrient",
+     "level": 1
+    },
+    {
+     "text": "Muscle builder",
+     "level": 1
+    },
+    {
+     "text": "Gym shakes",
+     "level": 2
+    },
+    {
+     "text": "Eggs and meat",
+     "level": 2
+    },
+    {
+     "text": "Amino acids",
+     "level": 3
+    },
+    {
+     "text": "Repairs tissue",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Carbs",
+    "Fat",
+    "Fiber"
+   ]
+  },
+  {
+   "word": "Hydration",
+   "hints": [
+    {
+     "text": "Water intake",
+     "level": 1
+    },
+    {
+     "text": "Fluid balance",
+     "level": 1
+    },
+    {
+     "text": "Drink eight glasses",
+     "level": 2
+    },
+    {
+     "text": "Hot days",
+     "level": 2
+    },
+    {
+     "text": "Water bottles",
+     "level": 3
+    },
+    {
+     "text": "Clear urine",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Diet",
+    "Sleep",
+    "Exercise"
+   ]
+  },
+  {
+   "word": "Posture",
+   "hints": [
+    {
+     "text": "Body position",
+     "level": 1
+    },
+    {
+     "text": "Stance",
+     "level": 1
+    },
+    {
+     "text": "Sit up straight",
+     "level": 2
+    },
+    {
+     "text": "Back pain",
+     "level": 2
+    },
+    {
+     "text": "Shoulders back",
+     "level": 3
+    },
+    {
+     "text": "Spine aligned",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Balance",
+    "Gait",
+    "Flexibility"
+   ]
+  },
+  {
+   "word": "Flexibility",
+   "hints": [
+    {
+     "text": "Body range",
+     "level": 1
+    },
+    {
+     "text": "Stretchiness",
+     "level": 1
+    },
+    {
+     "text": "Yoga goal",
+     "level": 2
+    },
+    {
+     "text": "Gymnasts excel",
+     "level": 2
+    },
+    {
+     "text": "Touch your toes",
+     "level": 3
+    },
+    {
+     "text": "Splits",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Strength",
+    "Balance",
+    "Posture"
+   ]
+  },
+  {
+   "word": "Balance",
+   "hints": [
+    {
+     "text": "Body control",
+     "level": 1
+    },
+    {
+     "text": "Stability",
+     "level": 1
+    },
+    {
+     "text": "Standing on one foot",
+     "level": 2
+    },
+    {
+     "text": "Tightrope",
+     "level": 2
+    },
+    {
+     "text": "Inner ear",
+     "level": 3
+    },
+    {
+     "text": "Core strength",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Posture",
+    "Flexibility",
+    "Coordination"
+   ]
+  },
+  {
+   "word": "Heartbeat",
+   "hints": [
+    {
+     "text": "Body rhythm",
+     "level": 1
+    },
+    {
+     "text": "Cardiac pulse",
+     "level": 1
+    },
+    {
+     "text": "Races when nervous",
+     "level": 2
+    },
+    {
+     "text": "Doctors listen",
+     "level": 2
+    },
+    {
+     "text": "Thump thump",
+     "level": 3
+    },
+    {
+     "text": "Steady rhythm",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Breath",
+    "Pulse",
+    "Blink"
+   ]
+  },
+  {
+   "word": "Blink",
+   "hints": [
+    {
+     "text": "Eye reflex",
+     "level": 1
+    },
+    {
+     "text": "Quick shut",
+     "level": 1
+    },
+    {
+     "text": "Hundreds a day",
+     "level": 2
+    },
+    {
+     "text": "Staring contests",
+     "level": 2
+    },
+    {
+     "text": "Eyelids close",
+     "level": 3
+    },
+    {
+     "text": "Moistens eyes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wink",
+    "Yawn",
+    "Sneeze"
+   ]
+  },
+  {
+   "word": "Goosebumps",
+   "hints": [
+    {
+     "text": "Skin reaction",
+     "level": 1
+    },
+    {
+     "text": "Shiver reaction",
+     "level": 1
+    },
+    {
+     "text": "Cold or scared",
+     "level": 2
+    },
+    {
+     "text": "Spine tingles",
+     "level": 2
+    },
+    {
+     "text": "Raised hairs",
+     "level": 3
+    },
+    {
+     "text": "Bumpy arms",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rash",
+    "Shiver",
+    "Chills"
+   ]
+  },
+  {
+   "word": "Dimple",
+   "hints": [
+    {
+     "text": "Face feature",
+     "level": 1
+    },
+    {
+     "text": "Cheek dent",
+     "level": 1
+    },
+    {
+     "text": "Cute smiles",
+     "level": 2
+    },
+    {
+     "text": "Inherited",
+     "level": 2
+    },
+    {
+     "text": "Small hollow",
+     "level": 3
+    },
+    {
+     "text": "Appears when smiling",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Freckle",
+    "Mole",
+    "Wrinkle"
+   ]
+  },
+  {
+   "word": "Wrinkle",
+   "hints": [
+    {
+     "text": "Skin line",
+     "level": 1
+    },
+    {
+     "text": "Aging sign",
+     "level": 1
+    },
+    {
+     "text": "Laugh lines",
+     "level": 2
+    },
+    {
+     "text": "Anti aging creams",
+     "level": 2
+    },
+    {
+     "text": "Creases",
+     "level": 3
+    },
+    {
+     "text": "Around the eyes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dimple",
+    "Scar",
+    "Freckle"
+   ]
+  },
+  {
+   "word": "Mole",
+   "hints": [
+    {
+     "text": "Skin spot",
+     "level": 1
+    },
+    {
+     "text": "Dark mark",
+     "level": 1
+    },
+    {
+     "text": "Checked by doctors",
+     "level": 2
+    },
+    {
+     "text": "Beauty mark",
+     "level": 2
+    },
+    {
+     "text": "Brown dot",
+     "level": 3
+    },
+    {
+     "text": "Raised or flat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Freckle",
+    "Pimple",
+    "Wart"
+   ]
+  },
+  {
+   "word": "Wart",
+   "hints": [
+    {
+     "text": "Skin growth",
+     "level": 1
+    },
+    {
+     "text": "Bumpy spot",
+     "level": 1
+    },
+    {
+     "text": "Witches noses",
+     "level": 2
+    },
+    {
+     "text": "Frozen off",
+     "level": 2
+    },
+    {
+     "text": "Rough bump",
+     "level": 3
+    },
+    {
+     "text": "Viral cause",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mole",
+    "Pimple",
+    "Blister"
+   ]
+  },
+  {
+   "word": "Callus",
+   "hints": [
+    {
+     "text": "Hard skin",
+     "level": 1
+    },
+    {
+     "text": "Thick patch",
+     "level": 1
+    },
+    {
+     "text": "Guitar players",
+     "level": 2
+    },
+    {
+     "text": "Manual work",
+     "level": 2
+    },
+    {
+     "text": "Rough toughened spot",
+     "level": 3
+    },
+    {
+     "text": "Fingertips or feet",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Blister",
+    "Wart",
+    "Corn"
+   ]
+  },
+  {
+   "word": "Earwax",
+   "hints": [
+    {
+     "text": "Ear secretion",
+     "level": 1
+    },
+    {
+     "text": "Ear gunk",
+     "level": 1
+    },
+    {
+     "text": "Cotton buds",
+     "level": 2
+    },
+    {
+     "text": "Protects ears",
+     "level": 2
+    },
+    {
+     "text": "Yellowish",
+     "level": 3
+    },
+    {
+     "text": "Sticky",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mucus",
+    "Saliva",
+    "Dandruff"
+   ]
+  },
+  {
+   "word": "Dandruff",
+   "hints": [
+    {
+     "text": "Scalp flakes",
+     "level": 1
+    },
+    {
+     "text": "Hair problem",
+     "level": 1
+    },
+    {
+     "text": "Special shampoo",
+     "level": 2
+    },
+    {
+     "text": "Dark shoulders show it",
+     "level": 2
+    },
+    {
+     "text": "White flakes",
+     "level": 3
+    },
+    {
+     "text": "Itchy scalp",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Earwax",
+    "Lice",
+    "Dry skin"
+   ]
+  },
+  {
+   "word": "Lice",
+   "hints": [
+    {
+     "text": "Hair pests",
+     "level": 1
+    },
+    {
+     "text": "Head bugs",
+     "level": 1
+    },
+    {
+     "text": "School outbreaks",
+     "level": 2
+    },
+    {
+     "text": "Fine combs",
+     "level": 2
+    },
+    {
+     "text": "Tiny insects",
+     "level": 3
+    },
+    {
+     "text": "Nits",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fleas",
+    "Ticks",
+    "Dandruff"
+   ]
+  },
+  {
+   "word": "Burp",
+   "hints": [
+    {
+     "text": "Body sound",
+     "level": 1
+    },
+    {
+     "text": "Gas release",
+     "level": 1
+    },
+    {
+     "text": "After fizzy drinks",
+     "level": 2
+    },
+    {
+     "text": "Babies need it",
+     "level": 2
+    },
+    {
+     "text": "Loud from mouth",
+     "level": 3
+    },
+    {
+     "text": "Excuse me",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hiccup",
+    "Sneeze",
+    "Yawn"
+   ]
+  },
+  {
+   "word": "Appetite",
+   "hints": [
+    {
+     "text": "Hunger feeling",
+     "level": 1
+    },
+    {
+     "text": "Desire to eat",
+     "level": 1
+    },
+    {
+     "text": "Grows with exercise",
+     "level": 2
+    },
+    {
+     "text": "Lost when sick",
+     "level": 2
+    },
+    {
+     "text": "Rumbling tummy",
+     "level": 3
+    },
+    {
+     "text": "Craving",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Thirst",
+    "Hunger",
+    "Taste"
+   ]
+  },
+  {
+   "word": "Thirst",
+   "hints": [
+    {
+     "text": "Body need",
+     "level": 1
+    },
+    {
+     "text": "Desire to drink",
+     "level": 1
+    },
+    {
+     "text": "Hot days",
+     "level": 2
+    },
+    {
+     "text": "Dry mouth",
+     "level": 2
+    },
+    {
+     "text": "Craving water",
+     "level": 3
+    },
+    {
+     "text": "Parched",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hunger",
+    "Appetite",
+    "Hydration"
+   ]
+  },
+  {
+   "word": "Fatigue",
+   "hints": [
+    {
+     "text": "Tiredness",
+     "level": 1
+    },
+    {
+     "text": "Low energy",
+     "level": 1
+    },
+    {
+     "text": "After long days",
+     "level": 2
+    },
+    {
+     "text": "Needs rest",
+     "level": 2
+    },
+    {
+     "text": "Heavy eyelids",
+     "level": 3
+    },
+    {
+     "text": "Sluggish",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Insomnia",
+    "Stress",
+    "Boredom"
+   ]
+  },
+  {
+   "word": "Stress",
+   "hints": [
+    {
+     "text": "Mental strain",
+     "level": 1
+    },
+    {
+     "text": "Pressure",
+     "level": 1
+    },
+    {
+     "text": "Deadlines",
+     "level": 2
+    },
+    {
+     "text": "Exams",
+     "level": 2
+    },
+    {
+     "text": "Tension headaches",
+     "level": 3
+    },
+    {
+     "text": "Racing thoughts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Anxiety",
+    "Fatigue",
+    "Anger"
+   ]
+  },
+  {
+   "word": "Anxiety",
+   "hints": [
+    {
+     "text": "Worry",
+     "level": 1
+    },
+    {
+     "text": "Nervous feeling",
+     "level": 1
+    },
+    {
+     "text": "Before exams",
+     "level": 2
+    },
+    {
+     "text": "Panic",
+     "level": 2
+    },
+    {
+     "text": "Racing heart",
+     "level": 3
+    },
+    {
+     "text": "Restless",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Stress",
+    "Fear",
+    "Excitement"
+   ]
+  },
+  {
+   "word": "Laughter",
+   "hints": [
+    {
+     "text": "Joyful sound",
+     "level": 1
+    },
+    {
+     "text": "Happy reaction",
+     "level": 1
+    },
+    {
+     "text": "Best medicine",
+     "level": 2
+    },
+    {
+     "text": "Contagious",
+     "level": 2
+    },
+    {
+     "text": "Belly laughs",
+     "level": 3
+    },
+    {
+     "text": "Giggles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Crying",
+    "Smiling",
+    "Cheering"
+   ]
+  },
+  {
+   "word": "Tickle",
+   "hints": [
+    {
+     "text": "Light touch",
+     "level": 1
+    },
+    {
+     "text": "Giggle trigger",
+     "level": 1
+    },
+    {
+     "text": "Feet and armpits",
+     "level": 2
+    },
+    {
+     "text": "Siblings tease",
+     "level": 2
+    },
+    {
+     "text": "Wiggly fingers",
+     "level": 3
+    },
+    {
+     "text": "Squirming",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Itch",
+    "Pinch",
+    "Massage"
+   ]
+  },
+  {
+   "word": "Itch",
+   "hints": [
+    {
+     "text": "Skin feeling",
+     "level": 1
+    },
+    {
+     "text": "Urge to scratch",
+     "level": 1
+    },
+    {
+     "text": "Mosquito bites",
+     "level": 2
+    },
+    {
+     "text": "Wool sweaters",
+     "level": 2
+    },
+    {
+     "text": "Scratching",
+     "level": 3
+    },
+    {
+     "text": "Irritated skin",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tickle",
+    "Rash",
+    "Sting"
+   ]
+  },
+  {
+   "word": "Puberty",
+   "hints": [
+    {
+     "text": "Life stage",
+     "level": 1
+    },
+    {
+     "text": "Teen changes",
+     "level": 1
+    },
+    {
+     "text": "Growth spurts",
+     "level": 2
+    },
+    {
+     "text": "Voice cracks",
+     "level": 2
+    },
+    {
+     "text": "Hormones",
+     "level": 3
+    },
+    {
+     "text": "Body changes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Childhood",
+    "Adulthood",
+    "Old age"
+   ]
+  },
+  {
+   "word": "Pregnancy",
+   "hints": [
+    {
+     "text": "Life stage",
+     "level": 1
+    },
+    {
+     "text": "Expecting baby",
+     "level": 1
+    },
+    {
+     "text": "Baby bump",
+     "level": 2
+    },
+    {
+     "text": "Cravings",
+     "level": 2
+    },
+    {
+     "text": "Nine months",
+     "level": 3
+    },
+    {
+     "text": "Ultrasound scans",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Birth",
+    "Infancy",
+    "Puberty"
+   ]
+  },
+  {
+   "word": "Old age",
+   "hints": [
+    {
+     "text": "Life stage",
+     "level": 1
+    },
+    {
+     "text": "Senior years",
+     "level": 1
+    },
+    {
+     "text": "Retirement",
+     "level": 2
+    },
+    {
+     "text": "Grandchildren",
+     "level": 2
+    },
+    {
+     "text": "Grey hair",
+     "level": 3
+    },
+    {
+     "text": "Walking stick",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Youth",
+    "Childhood",
+    "Middle age"
+   ]
+  },
+  {
+   "word": "Childhood",
+   "hints": [
+    {
+     "text": "Life stage",
+     "level": 1
+    },
+    {
+     "text": "Early years",
+     "level": 1
+    },
+    {
+     "text": "Playgrounds",
+     "level": 2
+    },
+    {
+     "text": "Bedtime stories",
+     "level": 2
+    },
+    {
+     "text": "Toys and school",
+     "level": 3
+    },
+    {
+     "text": "Growing up",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Adulthood",
+    "Infancy",
+    "Puberty"
+   ]
+  },
+  {
+   "word": "Physiotherapy",
+   "hints": [
+    {
+     "text": "Treatment",
+     "level": 1
+    },
+    {
+     "text": "Rehab sessions",
+     "level": 1
+    },
+    {
+     "text": "After injuries",
+     "level": 2
+    },
+    {
+     "text": "Exercise plans",
+     "level": 2
+    },
+    {
+     "text": "Stretching bands",
+     "level": 3
+    },
+    {
+     "text": "Massage tables",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Surgery",
+    "Massage",
+    "Yoga"
+   ]
+  },
+  {
+   "word": "Acupuncture",
+   "hints": [
+    {
+     "text": "Alternative therapy",
+     "level": 1
+    },
+    {
+     "text": "Needle treatment",
+     "level": 1
+    },
+    {
+     "text": "Ancient chinese medicine",
+     "level": 2
+    },
+    {
+     "text": "Pain relief",
+     "level": 2
+    },
+    {
+     "text": "Thin needles",
+     "level": 3
+    },
+    {
+     "text": "Pressure points",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Massage",
+    "Reflexology",
+    "Yoga"
+   ]
+  },
+  {
+   "word": "Therapy",
+   "hints": [
+    {
+     "text": "Treatment",
+     "level": 1
+    },
+    {
+     "text": "Counseling",
+     "level": 1
+    },
+    {
+     "text": "Talking it out",
+     "level": 2
+    },
+    {
+     "text": "Weekly sessions",
+     "level": 2
+    },
+    {
+     "text": "Couch and notepad",
+     "level": 3
+    },
+    {
+     "text": "Therapist",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Medicine",
+    "Meditation",
+    "Surgery"
+   ]
+  },
+  {
+   "word": "Pharmacy",
+   "hints": [
+    {
+     "text": "Medicine shop",
+     "level": 1
+    },
+    {
+     "text": "Chemist",
+     "level": 1
+    },
+    {
+     "text": "Prescriptions filled",
+     "level": 2
+    },
+    {
+     "text": "Cough syrup",
+     "level": 2
+    },
+    {
+     "text": "Pill bottles",
+     "level": 3
+    },
+    {
+     "text": "Counter",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hospital",
+    "Clinic",
+    "Supermarket"
+   ]
+  },
+  {
+   "word": "Ward",
+   "hints": [
+    {
+     "text": "Hospital room",
+     "level": 1
+    },
+    {
+     "text": "Patient area",
+     "level": 1
+    },
+    {
+     "text": "Visiting hours",
+     "level": 2
+    },
+    {
+     "text": "Rows of beds",
+     "level": 2
+    },
+    {
+     "text": "Curtains around beds",
+     "level": 3
+    },
+    {
+     "text": "Nurses station",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Clinic",
+    "Theater",
+    "Waiting room"
+   ]
+  },
+  {
+   "word": "Waiting room",
+   "hints": [
+    {
+     "text": "Clinic area",
+     "level": 1
+    },
+    {
+     "text": "Lobby",
+     "level": 1
+    },
+    {
+     "text": "Old magazines",
+     "level": 2
+    },
+    {
+     "text": "Name called",
+     "level": 2
+    },
+    {
+     "text": "Rows of chairs",
+     "level": 3
+    },
+    {
+     "text": "Reception desk",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ward",
+    "Office",
+    "Lounge"
+   ]
+  },
+  {
+   "word": "Blood pressure",
+   "hints": [
+    {
+     "text": "Vital sign",
+     "level": 1
+    },
+    {
+     "text": "Circulation measure",
+     "level": 1
+    },
+    {
+     "text": "Cuff on arm",
+     "level": 2
+    },
+    {
+     "text": "High or low",
+     "level": 2
+    },
+    {
+     "text": "Two numbers",
+     "level": 3
+    },
+    {
+     "text": "Squeezing band",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pulse",
+    "Temperature",
+    "Heartbeat"
+   ]
+  },
+  {
+   "word": "Blood test",
+   "hints": [
+    {
+     "text": "Medical check",
+     "level": 1
+    },
+    {
+     "text": "Lab check",
+     "level": 1
+    },
+    {
+     "text": "Fasting before",
+     "level": 2
+    },
+    {
+     "text": "Needle prick",
+     "level": 2
+    },
+    {
+     "text": "Labeled vials",
+     "level": 3
+    },
+    {
+     "text": "Lab results",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Urine test",
+    "X-ray",
+    "Checkup"
+   ]
+  },
+  {
+   "word": "Eye test",
+   "hints": [
+    {
+     "text": "Vision exam",
+     "level": 1
+    },
+    {
+     "text": "Optician check",
+     "level": 1
+    },
+    {
+     "text": "Read the chart",
+     "level": 2
+    },
+    {
+     "text": "New glasses",
+     "level": 2
+    },
+    {
+     "text": "Covering one side",
+     "level": 3
+    },
+    {
+     "text": "Rows shrink",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hearing test",
+    "Blood test",
+    "Checkup"
+   ]
+  },
+  {
+   "word": "Hearing test",
+   "hints": [
+    {
+     "text": "Ear exam",
+     "level": 1
+    },
+    {
+     "text": "Audiology check",
+     "level": 1
+    },
+    {
+     "text": "Beeping sounds",
+     "level": 2
+    },
+    {
+     "text": "Raise your hand",
+     "level": 2
+    },
+    {
+     "text": "Headphones on",
+     "level": 3
+    },
+    {
+     "text": "Soundproof booth",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Eye test",
+    "Blood test",
+    "Checkup"
+   ]
+  },
+  {
+   "word": "Plaster",
+   "hints": [
+    {
+     "text": "Wound cover",
+     "level": 1
+    },
+    {
+     "text": "Sticky strip",
+     "level": 1
+    },
+    {
+     "text": "Small cuts",
+     "level": 2
+    },
+    {
+     "text": "Kids cartoon prints",
+     "level": 2
+    },
+    {
+     "text": "Adhesive edges",
+     "level": 3
+    },
+    {
+     "text": "Padded middle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bandage",
+    "Cast",
+    "Tape"
+   ]
+  },
+  {
+   "word": "Sling",
+   "hints": [
+    {
+     "text": "Arm support",
+     "level": 1
+    },
+    {
+     "text": "Fabric hammock",
+     "level": 1
+    },
+    {
+     "text": "Broken arm",
+     "level": 2
+    },
+    {
+     "text": "Shoulder injury",
+     "level": 2
+    },
+    {
+     "text": "Tied around neck",
+     "level": 3
+    },
+    {
+     "text": "Cradles arm",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cast",
+    "Splint",
+    "Crutches"
+   ]
+  },
+  {
+   "word": "Splint",
+   "hints": [
+    {
+     "text": "Medical support",
+     "level": 1
+    },
+    {
+     "text": "Rigid brace",
+     "level": 1
+    },
+    {
+     "text": "First aid for fractures",
+     "level": 2
+    },
+    {
+     "text": "Finger injuries",
+     "level": 2
+    },
+    {
+     "text": "Stiff strip",
+     "level": 3
+    },
+    {
+     "text": "Taped on",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cast",
+    "Sling",
+    "Bandage"
+   ]
+  },
+  {
+   "word": "Ointment",
+   "hints": [
+    {
+     "text": "Medical cream",
+     "level": 1
+    },
+    {
+     "text": "Skin salve",
+     "level": 1
+    },
+    {
+     "text": "Rashes and burns",
+     "level": 2
+    },
+    {
+     "text": "Rubbed in",
+     "level": 2
+    },
+    {
+     "text": "Greasy cream",
+     "level": 3
+    },
+    {
+     "text": "Small tube",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lotion",
+    "Bandage",
+    "Pill"
+   ]
+  },
+  {
+   "word": "Cough syrup",
+   "hints": [
+    {
+     "text": "Liquid medicine",
+     "level": 1
+    },
+    {
+     "text": "Throat remedy",
+     "level": 1
+    },
+    {
+     "text": "Bedtime dose",
+     "level": 2
+    },
+    {
+     "text": "Bad taste",
+     "level": 2
+    },
+    {
+     "text": "Sticky spoonful",
+     "level": 3
+    },
+    {
+     "text": "Cherry flavor",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lozenge",
+    "Pill",
+    "Honey"
+   ]
+  },
+  {
+   "word": "Lozenge",
+   "hints": [
+    {
+     "text": "Throat sweet",
+     "level": 1
+    },
+    {
+     "text": "Medicated candy",
+     "level": 1
+    },
+    {
+     "text": "Sore throats",
+     "level": 2
+    },
+    {
+     "text": "Sucked slowly",
+     "level": 2
+    },
+    {
+     "text": "Menthol taste",
+     "level": 3
+    },
+    {
+     "text": "Wrapped drops",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cough syrup",
+    "Mint",
+    "Pill"
+   ]
+  },
+  {
+   "word": "Appendix",
+   "hints": [
+    {
+     "text": "Small organ",
+     "level": 1
+    },
+    {
+     "text": "Body mystery",
+     "level": 1
+    },
+    {
+     "text": "Can burst suddenly",
+     "level": 2
+    },
+    {
+     "text": "Often removed",
+     "level": 2
+    },
+    {
+     "text": "Tiny pouch",
+     "level": 3
+    },
+    {
+     "text": "Lower right belly",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tonsils",
+    "Gallbladder",
+    "Spleen"
+   ]
+  },
+  {
+   "word": "Tonsils",
+   "hints": [
+    {
+     "text": "Throat tissue",
+     "level": 1
+    },
+    {
+     "text": "Glands",
+     "level": 1
+    },
+    {
+     "text": "Removed in childhood",
+     "level": 2
+    },
+    {
+     "text": "Sore when infected",
+     "level": 2
+    },
+    {
+     "text": "Back of throat",
+     "level": 3
+    },
+    {
+     "text": "Swell up",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Appendix",
+    "Adenoids",
+    "Uvula"
+   ]
+  },
+  {
+   "word": "Ribcage",
+   "hints": [
+    {
+     "text": "Bone structure",
+     "level": 1
+    },
+    {
+     "text": "Chest shield",
+     "level": 1
+    },
+    {
+     "text": "Protects the heart",
+     "level": 2
+    },
+    {
+     "text": "Breathing room",
+     "level": 2
+    },
+    {
+     "text": "Curved bones",
+     "level": 3
+    },
+    {
+     "text": "Sternum front",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spine",
+    "Skull",
+    "Pelvis"
+   ]
+  },
+  {
+   "word": "Pelvis",
+   "hints": [
+    {
+     "text": "Bone structure",
+     "level": 1
+    },
+    {
+     "text": "Hip bones",
+     "level": 1
+    },
+    {
+     "text": "Supports the spine",
+     "level": 2
+    },
+    {
+     "text": "Childbirth canal",
+     "level": 2
+    },
+    {
+     "text": "Bowl shaped",
+     "level": 3
+    },
+    {
+     "text": "Hip sockets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ribcage",
+    "Skull",
+    "Femur"
+   ]
+  },
+  {
+   "word": "Diaphragm",
+   "hints": [
+    {
+     "text": "Breathing muscle",
+     "level": 1
+    },
+    {
+     "text": "Chest muscle",
+     "level": 1
+    },
+    {
+     "text": "Causes hiccups",
+     "level": 2
+    },
+    {
+     "text": "Singers train it",
+     "level": 2
+    },
+    {
+     "text": "Dome shaped",
+     "level": 3
+    },
+    {
+     "text": "Under the lungs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ribcage",
+    "Stomach",
+    "Spine"
+   ]
+  },
+  {
+   "word": "Eardrum",
+   "hints": [
+    {
+     "text": "Ear part",
+     "level": 1
+    },
+    {
+     "text": "Hearing membrane",
+     "level": 1
+    },
+    {
+     "text": "Pops on planes",
+     "level": 2
+    },
+    {
+     "text": "Loud music damages",
+     "level": 2
+    },
+    {
+     "text": "Thin skin layer",
+     "level": 3
+    },
+    {
+     "text": "Vibrates",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Earlobe",
+    "Cochlea",
+    "Ear canal"
+   ]
+  }
+ ]
+}

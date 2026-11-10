@@ -1,0 +1,112 @@
+[
+ {
+  "id": "animals",
+  "name": "Animals",
+  "count": 151
+ },
+ {
+  "id": "body_health",
+  "name": "Body & Health",
+  "count": 153
+ },
+ {
+  "id": "cities",
+  "name": "Cities",
+  "count": 153
+ },
+ {
+  "id": "clothing",
+  "name": "Clothing",
+  "count": 153
+ },
+ {
+  "id": "countries",
+  "name": "Countries",
+  "count": 153
+ },
+ {
+  "id": "drinks",
+  "name": "Drinks",
+  "count": 155
+ },
+ {
+  "id": "food",
+  "name": "Food",
+  "count": 155
+ },
+ {
+  "id": "fruits_vegetables",
+  "name": "Fruits & Vegetables",
+  "count": 155
+ },
+ {
+  "id": "hobbies",
+  "name": "Hobbies",
+  "count": 154
+ },
+ {
+  "id": "holidays",
+  "name": "Holidays & Festivals",
+  "count": 152
+ },
+ {
+  "id": "household",
+  "name": "Household Objects",
+  "count": 155
+ },
+ {
+  "id": "jobs",
+  "name": "Jobs",
+  "count": 154
+ },
+ {
+  "id": "landmarks",
+  "name": "Landmarks",
+  "count": 159
+ },
+ {
+  "id": "movies",
+  "name": "Movies",
+  "count": 153
+ },
+ {
+  "id": "instruments",
+  "name": "Musical Instruments",
+  "count": 153
+ },
+ {
+  "id": "mythical",
+  "name": "Mythical Creatures",
+  "count": 152
+ },
+ {
+  "id": "nature",
+  "name": "Nature",
+  "count": 158
+ },
+ {
+  "id": "places",
+  "name": "Places",
+  "count": 155
+ },
+ {
+  "id": "school",
+  "name": "School",
+  "count": 153
+ },
+ {
+  "id": "sports",
+  "name": "Sports",
+  "count": 154
+ },
+ {
+  "id": "technology",
+  "name": "Technology",
+  "count": 153
+ },
+ {
+  "id": "transport",
+  "name": "Transport",
+  "count": 153
+ }
+]

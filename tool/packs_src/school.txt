@@ -1,0 +1,143 @@
+@id school
+@name School
+Teacher | School staff; Educator | Grades homework; Gives lessons | Stands at blackboard; Red pen | Principal; Tutor; Student
+Student | Learner; Pupil | Takes exams; Carries backpack | Raises hand; Does homework | Teacher; Graduate; Intern
+Principal | School head; Leader | Morning assembly; Detention threat | Big office; Calls parents | Teacher; Coach; Janitor
+Classroom | School space; Learning space | Rows of desks; Daily lessons | Board at front; Posters on walls | Library; Hall; Office
+Blackboard | Writing surface; Classroom fixture | Teacher writes notes; Erased daily | Chalk dust; Dark green | Whiteboard; Notebook; Screen
+Whiteboard | Writing surface; Office fixture | Meetings and lessons; Wipe clean | Dry erase markers; Glossy surface | Blackboard; Projector; Notebook
+Chalk | Writing tool; Classroom supply | Squeaks on boards; Dusty fingers | White stick; Breaks easily | Crayon; Pencil; Marker
+Pencil | Writing tool; Stationery | Sharpened daily; Exams | Graphite core; Eraser on end | Pen; Crayon; Marker
+Eraser | Stationery; Correction tool | Fixes mistakes; Rubs out marks | Pink rubber; Crumbs left | Sharpener; Pencil; Correction fluid
+Sharpener | Stationery; Small tool | Twist the pencil; Shavings collect | Tiny blade; Hole for tip | Eraser; Pencil; Knife
+Ruler | Measuring tool; Stationery | Draw straight lines; Math class | Inch and centimeter marks; Flat strip | Protractor; Compass; Tape measure
+Protractor | Math tool; Geometry instrument | Measures angles; Exam kit | Half circle; Degree marks | Ruler; Compass; Set square
+Compass | Math tool; Geometry instrument | Draws circles; Sharp point | Two legs; Pencil holder | Protractor; Ruler; Divider
+Calculator | Math gadget; Number tool | Banned in some tests; Solar powered | Number keys; Small display | Abacus; Computer; Ruler
+Notebook | Stationery; Paper pad | Class notes; Doodles in margins | Lined pages; Spiral binding | Diary; Textbook; Folder
+Textbook | School reading; Study material | Heavy in bags; Assigned reading | Chapters and exercises; Index at back | Notebook; Novel; Dictionary
+Dictionary | Reference book; Word book | Look up meanings; Word lookup | Alphabetical entries; Thick book | Thesaurus; Encyclopedia; Atlas
+Atlas | Reference book; Map book | Geography class; Find countries | Maps and borders; Index of places | Globe; Dictionary; Encyclopedia
+Globe | Geography model; Spinning sphere | On teacher desk; Find countries | Round map; Tilted axis | Atlas; Map; Ball
+Backpack | School bag; Carry bag | Heavy with books; Worn on shoulders | Two straps; Zip pockets | Lunchbox; Suitcase; Briefcase
+Lunchbox | Food container; School item | Packed by parents; Traded snacks | Clip lid; Cartoon designs | Backpack; Thermos; Bento
+Homework | School task; After class task | Dog ate it; Due tomorrow | Worksheets; Done at kitchen table | Classwork; Project; Exam
+Exam | Test; Assessment | Stressful week; Study all night | Answer sheets; Invigilator watches | Quiz; Homework; Interview
+Quiz | Short test; Assessment | Pop surprise; Quick questions | Multiple choice; Few minutes | Exam; Homework; Survey
+Report card | Grade sheet; Progress record | Parents sign it; End of term | Marks per subject; Teacher comments | Certificate; Diploma; Exam
+Diploma | Certificate; Graduation document | Framed on walls; Years of study | Rolled scroll; Official seal | Degree; Trophy; Report card
+Graduation | Ceremony; School milestone | Caps thrown in air; Proud parents | Gowns and tassels; Stage walk | Prom; Orientation; Reunion
+Library | Book room; Quiet space | Borrow books; Study area | Shelves and librarian; Silence please | Classroom; Bookstore; Archive
+Cafeteria | Dining hall; Lunch room | Food fights; Long queues | Trays and benches; Mystery meat | Canteen; Kitchen; Restaurant
+Playground | Outdoor area; Recess spot | Kids run around; Break time | Swings and slides; Monkey bars | Gym; Field; Park
+Gymnasium | Sports hall; Exercise space | Basketball games; Assemblies | Wooden floors; Climbing ropes | Playground; Stadium; Auditorium
+Auditorium | Large hall; Performance space | School plays; Assemblies | Stage and curtains; Rows of seats | Gymnasium; Classroom; Theater
+Laboratory | Science room; Experiment space | Chemistry class; Safety goggles | Test tubes and burners; Fume hood | Classroom; Library; Kitchen
+Recess | Break time; Free period | Kids play outside; Snack time | Bell rings; Playground games | Lunch; Assembly; Detention
+Detention | School punishment; After school penalty | Bad behavior; Stay late | Sitting quietly; Teacher supervises | Suspension; Recess; Homework
+Assembly | School gathering; Morning meeting | Announcements; National anthem | Whole school together; Principal speaks | Recess; Class; Graduation
+School bus | Yellow vehicle; Student transport | Morning pickup; Rowdy back seats | Stop sign arm; Bright yellow | Van; Taxi; Coach
+Uniform | School clothes; Dress code | Same for everyone; Ironed shirts | Blazer and tie; School crest | Costume; Tracksuit; Suit
+Bell | School signal; Timer sound | Ends each period; Kids rush out | Loud ring; Hallway speaker | Whistle; Alarm; Clock
+Locker | Storage unit; Hallway cabinet | Combination dial; Stuffed with books | Metal door; Rows in corridor | Cupboard; Drawer; Safe
+Desk | Classroom furniture; Work surface | Carved doodles; Seating charts | Flat top; Chair attached | Table; Bench; Shelf
+Field trip | School outing; Educational visit | Permission slips; Bus rides | Museum visits; Packed lunches | Picnic; Holiday; Excursion
+Science fair | School event; Project show | Volcano models; Judges walk around | Trifold posters; Experiments displayed | Art show; Talent show; Sports day
+Spelling bee | Contest; Word competition | Nervous students; Ask for definition | Say it aloud; Elimination rounds | Quiz; Debate; Exam
+Debate | Argument contest; Speech event | For and against; Judges score | Podium speeches; Rebuttals | Spelling bee; Quiz; Speech
+Sports day | School event; Athletic meet | Sack races; Parents cheer | Medals and ribbons; Track events | Science fair; Field trip; Olympics
+Prom | School dance; Formal party | Ball gowns; Crowned royalty | Corsages; Limousines | Graduation; Wedding; Party
+Semester | School term; Academic period | Half year; New classes | Midterms and finals; Course load | Trimester; Vacation; Year
+Vacation | Holiday; Break | Summer off; Family trips | No school; Sleeping in | Semester; Weekend; Recess
+Math | School subject; Numbers class | Equations; Homework problems | Algebra and geometry; Calculations | Physics; Science; Statistics
+Science | School subject; Experiment class | Lab coats; Hypothesis | Biology chemistry physics; Microscopes | Math; Geography; History
+History | School subject; Past studies | Dates to memorize; Ancient empires | Timelines; Wars and kings | Geography; Literature; Civics
+Geography | School subject; Earth studies | Maps and capitals; Climate zones | Rivers and mountains; Atlas | History; Science; Astronomy
+English | School subject; Language class | Essays and grammar; Reading novels | Poetry and prose; Book reports | History; Drama; Art
+Art | School subject; Creative class | Painting and drawing; Messy hands | Easels and brushes; Clay models | Music; Drama; Craft
+Music | School subject; Sound class | Choir practice; Learning recorder | Notes and rhythm; Instruments | Art; Drama; Dance
+Gym class | School subject; Sports lesson | Running laps; Dodgeball | Sports shorts; Whistle blowing | Recess; Health; Dance
+Chemistry | Science subject; Reactions class | Periodic table; Lab experiments | Beakers and burners; Formulas | Physics; Biology; Alchemy
+Physics | Science subject; Forces class | Gravity and motion; Equations | Newton's laws; Light and energy | Chemistry; Math; Astronomy
+Biology | Science subject; Life class | Cells and genes; Dissecting frogs | Microscope slides; Ecosystems | Chemistry; Physics; Medicine
+Algebra | Math branch; Equation work | Solve for x; High school math | Variables and symbols; Unknowns | Geometry; Calculus; Arithmetic
+Geometry | Math branch; Shapes study | Angles and triangles; Proofs | Protractor and compass; Theorems | Algebra; Trigonometry; Calculus
+Essay | Writing task; Assignment | Word count limits; Late night writing | Introduction and conclusion; Thesis | Report; Story; Poem
+Project | School task; Group work | Poster boards; Presentations | Teamwork; Deadline looming | Homework; Essay; Experiment
+Presentation | Speech task; Class talk | Slides and notes; Nervous speaking | Projector screen; Audience questions | Debate; Essay; Lecture
+Lecture | Teaching talk; University class | Professor speaks; Take notes | Big hall; Slides on screen | Seminar; Lesson; Speech
+Scholarship | Study funding; Merit award | Pays tuition; Competitive application | Grants for grades; Prestigious | Loan; Diploma; Prize
+University | Higher education; Campus | Degrees offered; Dorm life | Lecture halls; Professors | College; School; Academy
+Kindergarten | Early school; Preschool | Nap time; Finger painting | Tiny chairs; Alphabet songs | Nursery; Daycare; Primary school
+Dormitory | Student housing; Campus residence | Roommates; Late night pizza | Bunk beds; Shared bathrooms | Hostel; Apartment; Hotel
+Campus | University grounds; School area | Student life; Walk between classes | Quad lawns; Many buildings | Village; Park; Office park
+Tuition | School fees; Education cost | Expensive degrees; Paid each term | Bills from college; Student loans | Scholarship; Rent; Salary
+Grade | Score; Mark | Report card result; Curve debates | Marks or percentages; Teacher assigns | Rank; Level; Prize
+Attendance | Roll call; Presence record | Absent or present; Morning register | Teacher calls names; Tick marks | Grade; Uniform; Homework
+Hall pass | School permit; Corridor ticket | Bathroom breaks; Teacher signs | Wooden block or card; Leave class | Ticket; Badge; Permission slip
+Permission slip | Parent consent; School form | Field trips; Signed at home | Tear off section; Due this week | Report card; Hall pass; Diploma
+Crayon | Coloring tool; Art supply | Kids drawings; Melts in sun | Wax stick; Many colors | Pencil; Chalk; Marker
+Marker | Writing tool; Art supply | Whiteboards; Posters | Felt tip; Strong smell | Crayon; Pen; Highlighter
+Highlighter | Stationery; Study tool | Marks key points; Textbook pages | Neon yellow; Chisel tip | Marker; Pen; Crayon
+Glue stick | Craft supply; Adhesive | Art projects; Bonds paper | Twist up tube; Dries clear | Tape; Paste; Stapler
+Scissors | Cutting tool; Craft supply | Safety rounded tips; Cutting paper | Two blades; Finger loops | Knife; Glue; Stapler
+Stapler | Office tool; Fastener | Joins worksheets; Jams often | Metal staples; Press down | Paperclip; Tape; Hole punch
+Folder | Paper holder; Stationery | Organizes worksheets; Colored by subject | Two pockets; Folds in half | Binder; Notebook; Envelope
+Binder | Paper holder; Ring folder | Divider tabs; Heavy with notes | Metal rings; Hole punched pages | Folder; Notebook; Clipboard
+Pencil case | Stationery holder; Small pouch | Holds pens; Zip closure | Fabric or tin; Doodled on | Backpack; Wallet; Lunchbox
+Geometry box | Math kit; Tool case | Exam essential; Indian schools | Compass and protractor; Metal case | Pencil case; Calculator; Ruler
+Abacus | Counting tool; Bead frame | Early math; Ancient calculator | Sliding beads; Wooden rods | Calculator; Ruler; Counter
+Flashcards | Study tool; Memory aids | Vocabulary practice; Quiz yourself | Question front; Answer back | Notebook; Worksheet; Quiz
+Worksheet | Practice page; Assignment | Fill in blanks; Handed out | Printed questions; Answer spaces | Textbook; Quiz; Homework
+Encyclopedia | Reference book; Knowledge set | Many volumes; Research projects | Alphabetical articles; Heavy books | Dictionary; Atlas; Almanac
+Microscope | Science tool; Lab instrument | Biology class; Tiny cells | Eyepiece and lenses; Glass slides | Telescope; Magnifier; Camera
+Test tube | Lab glassware; Science vessel | Chemistry experiments; Rack holder | Thin glass vial; Rounded bottom | Beaker; Flask; Pipette
+Beaker | Lab glassware; Measuring cup | Chemistry class; Mixing liquids | Spout lip; Volume marks | Flask; Test tube; Jug
+Periodic table | Chemistry chart; Element list | Classroom poster; Memorize symbols | Rows and columns; Atomic numbers | Formula sheet; Atlas; Timetable
+Skeleton model | Biology prop; Anatomy prop | Science classroom; Halloween prop | Plastic bones; Hanging stand | Torso model; Globe; Mannequin
+Timetable | Schedule; Class plan | Which lesson next; Pinned on wall | Days and periods; Grid layout | Calendar; Syllabus; Diary
+Syllabus | Course plan; Topic list | First day handout; Exam topics | Chapters listed; Reading schedule | Timetable; Textbook; Curriculum
+Favorite student | Favored pupil; Classroom role | Sits in front; Brings apples | Always answers; Teased by others | Class clown; Monitor; Bully
+Class clown | Funny student; Joker role | Makes everyone laugh; Detention regular | Jokes and pranks; Sent outside | Bully; Nerd; Monitor
+Bully | Mean student; Troublemaker | Picks on others; Anti campaigns | Takes lunch money; Pushes kids | Class clown; Prankster; Rival
+Nerd | Studious kid; Bookworm | Loves science; Top grades | Thick glasses; Pocket protector | Jock; Class clown; Bookworm
+Monitor | Class helper; Student leader | Takes attendance; Hall duty | Badge on chest; Keeps order | Prefect; Captain; Teacher
+Prefect | Student leader; School official | Senior students; Supervise younger | Badge; Keeps discipline | Monitor; Head boy; Captain
+Head girl | Student leader; Top prefect | Elected seniors; Speeches | Special badge; Represents school | Prefect; Captain; Monitor
+Tutor | Private teacher; Helper | Extra lessons; Exam prep | One student; After school | Teacher; Coach; Mentor
+Janitor | School staff; Caretaker | Mops hallways; Fixes things | Ring of keys; Cleaning cart | Gardener; Guard; Cook
+Counselor | School staff; Guidance advisor | College applications; Personal problems | Quiet office; Listens well | Teacher; Psychologist; Principal
+Lunch lady | Cafeteria staff; School cook | Serves meals; Hairnet | Big ladle; Tray line | Chef; Waitress; Janitor
+Nurse office | Sick room; Health room | Fake illnesses; Ice packs | Cot and thermometer; First aid | Library; Staff room; Clinic
+Staff room | Teachers lounge; Rest area | Coffee and gossip; Students not allowed | Kettle and sofas; Notice board | Classroom; Nurse office; Library
+Hallway | School corridor; Passage | Rush between classes; No running | Lockers line walls; Long and echoing | Classroom; Staircase; Lobby
+Notice board | Information wall; Bulletin | Announcements; Pinned flyers | Cork surface; Thumb tacks | Whiteboard; Poster; Calendar
+Trophy cabinet | Display case; School pride | Sports wins; Polished cups | Glass doors; Shelves of awards | Bookshelf; Locker; Cupboard
+Fire drill | Safety practice; Evacuation | Line up outside; Alarm sounds | Roll call on field; Exit routes | Assembly; Recess; Detention
+Snow day | School closure; Winter surprise | No classes; Sledging outside | Blizzard overnight; Radio announcements | Holiday; Weekend; Vacation
+Summer school | Extra classes; Holiday learning | Catching up; Retaking courses | Hot classrooms; Short term | Night school; Tutoring; Camp
+Boarding school | Residential academy; Live on campus | Dorms and matrons; Holidays home | Strict rules; Uniforms | Day school; College; Camp
+Homeschool | Learning in the house; Parent taught | Flexible schedule; Kitchen classroom | Parents as teachers; Online lessons | Boarding school; Tutoring; Kindergarten
+Online class | Virtual lesson; Remote learning | Mute your mic; Webcam on | Video call; Shared screen | Lecture; Seminar; Webinar
+Alphabet | Writing basics; Kindergarten lesson | Songs to remember; Learned first | Twenty six symbols; From a to z | Numbers; Vocabulary; Grammar
+Grammar | Language rules; English lesson | Nouns and verbs; Red pen corrections | Punctuation; Sentence structure | Spelling; Vocabulary; Syntax
+Vocabulary | Word knowledge; Language skill | Learn new words; Flashcards | Definitions; Word lists | Grammar; Spelling; Dictionary
+Poem | Writing piece; Verse | Recited in class; Rhyming lines | Stanzas; Metaphors | Essay; Song; Story
+Novel | Long book; Fiction | Reading assignment; Book report | Chapters and characters; Plot twists | Poem; Textbook; Comic
+Book report | School assignment; Reading review | Summarize the plot; Due next week | Characters and themes; Cover page | Essay; Poem; Worksheet
+Spelling test | Weekly quiz; Word drill | Friday practice; Study word lists | Teacher reads aloud; Write correctly | Quiz; Spelling bee; Exam
+Pop quiz | Surprise test; Short exam | No warning; Groans in class | Unannounced questions; Quick marking | Exam; Homework; Spelling test
+Final exam | End assessment; Big assessment | Last week of term; Cramming | Silent hall; Long paper | Midterm; Quiz; Project
+Cheat sheet | Hidden notes; Exam trick | Not allowed; Tiny writing | Scribbled formulas; Hidden in sleeve | Flashcards; Notebook; Textbook
+Gold star | Reward sticker; Teacher praise | Good work; Chart on wall | Shiny sticker; Shape of a point | Certificate; Badge; Trophy
+Sticker chart | Reward system; Progress tracker | Good behavior; Kindergarten | Rows of shiny dots; Prize at end | Report card; Calendar; Trophy
+Valedictorian | Top student; Class leader | Gives graduation speech; Highest grades | Honors cords; Stage moment | Salutatorian; Prefect; Monitor
+Alumni | Former students; Graduates | Reunions; Donations | Old school ties; Yearbook faces | Students; Teachers; Freshmen
+Yearbook | School album; Memory album | Signed by friends; Final term | Class photos; Superlatives | Diary; Photo album; Newspaper
+Freshman | First year student; Newcomer | Gets lost on campus; Orientation | New faces; Youngest class | Senior; Sophomore; Graduate
+Senior | Final year student; Oldest class | College applications; Prom | Last year; Graduating soon | Freshman; Junior; Alumni
+Orientation | Welcome program; First week | Campus tours; Meet new people | Name tags; Icebreakers | Graduation; Assembly; Seminar
+Seminar | Small class; Discussion session | University course; Presentations | Round table; Debate ideas | Lecture; Workshop; Tutorial
+Thesis | Long paper; Research project | Final year; Months of work | Bound volume; Defended before panel | Essay; Dissertation; Report
+Library card | Borrowing pass; Member pass | Check out books; Overdue fines | Barcode on back; Name printed | Student id; Hall pass; Ticket
+Student id | Identity card; School pass | Discounts; Campus access | Photo and number; Lanyard | Library card; Passport; Ticket

@@ -1,0 +1,12 @@
+@id food
+@name Food
+Porridge | Breakfast food; Warm dish | Eaten on cold mornings; Fairy tale breakfast | Thick oat mush; Stirred with honey | Oatmeal; Cereal; Congee
+Couscous | North african dish; Grain dish | Fluffed with a fork; Served with stew | Tiny semolina grains; Steamed and light | Quinoa; Rice; Bulgur
+Fondue | Swiss dish; Shared meal | Party centerpiece; Long forks | Melted cheese pot; Dipped bread cubes | Raclette; Hot pot; Queso
+Pesto | Italian sauce; Green sauce | Tossed with pasta; Made in mortar | Basil and pine nuts; Garlic and oil | Salsa; Hummus; Chimichurri
+Hash brown | Breakfast side; Fried potato | Diner breakfast; Crispy edges | Shredded and pressed; Golden patty | Fries; Rosti; Potato wedge
+Gnocchi | Italian dish; Dumpling type | Made from potato; Soft and pillowy | Little ridged pillows; Boiled then sauced | Ravioli; Pasta; Spaetzle
+Calzone | Italian dish; Baked dough | Pizzeria order; Stuffed and folded | Half moon shape; Cheesy inside | Pizza; Empanada; Stromboli
+Empanada | Latin pastry; Baked snack | Street food; Party snack | Crimped half moon; Savory filling | Samosa; Calzone; Pasty
+Croquette | Fried snack; Party bite | Tapas favorite; Golden and crisp | Breadcrumb coating; Creamy center | Nuggets; Falafel; Arancini
+Congee | Asian porridge; Rice dish | Eaten when sick; Breakfast in china | Watery rice; Topped with scallions | Porridge; Risotto; Soup

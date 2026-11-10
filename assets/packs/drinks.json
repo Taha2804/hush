@@ -1,0 +1,5276 @@
+{
+ "id": "drinks",
+ "name": "Drinks",
+ "words": [
+  {
+   "word": "Water",
+   "hints": [
+    {
+     "text": "Basic need",
+     "level": 1
+    },
+    {
+     "text": "Clear liquid",
+     "level": 1
+    },
+    {
+     "text": "Keeps you hydrated",
+     "level": 2
+    },
+    {
+     "text": "Comes from taps",
+     "level": 2
+    },
+    {
+     "text": "No taste",
+     "level": 3
+    },
+    {
+     "text": "Drink eight glasses",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Juice",
+    "Milk",
+    "Soda"
+   ]
+  },
+  {
+   "word": "Sparkling water",
+   "hints": [
+    {
+     "text": "Fizzy drink",
+     "level": 1
+    },
+    {
+     "text": "Bubbly liquid",
+     "level": 1
+    },
+    {
+     "text": "Fancy restaurant order",
+     "level": 2
+    },
+    {
+     "text": "Sugar free",
+     "level": 2
+    },
+    {
+     "text": "Carbonated bubbles",
+     "level": 3
+    },
+    {
+     "text": "Tingles on tongue",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tonic",
+    "Soda",
+    "Lemonade"
+   ]
+  },
+  {
+   "word": "Coconut water",
+   "hints": [
+    {
+     "text": "Tropical drink",
+     "level": 1
+    },
+    {
+     "text": "Natural refresher",
+     "level": 1
+    },
+    {
+     "text": "Sipped from the shell",
+     "level": 2
+    },
+    {
+     "text": "Beach favorite",
+     "level": 2
+    },
+    {
+     "text": "Clear and slightly sweet",
+     "level": 3
+    },
+    {
+     "text": "Rich in electrolytes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lemonade",
+    "Juice",
+    "Milk"
+   ]
+  },
+  {
+   "word": "Milk",
+   "hints": [
+    {
+     "text": "Dairy drink",
+     "level": 1
+    },
+    {
+     "text": "White liquid",
+     "level": 1
+    },
+    {
+     "text": "Good for bones",
+     "level": 2
+    },
+    {
+     "text": "Poured on cereal",
+     "level": 2
+    },
+    {
+     "text": "Comes from cows",
+     "level": 3
+    },
+    {
+     "text": "Leaves a mustache",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Yogurt",
+    "Cream",
+    "Juice"
+   ]
+  },
+  {
+   "word": "Chocolate milk",
+   "hints": [
+    {
+     "text": "Sweet drink",
+     "level": 1
+    },
+    {
+     "text": "Dairy drink",
+     "level": 1
+    },
+    {
+     "text": "Kids lunch drink",
+     "level": 2
+    },
+    {
+     "text": "After school treat",
+     "level": 2
+    },
+    {
+     "text": "Cocoa flavored",
+     "level": 3
+    },
+    {
+     "text": "Brown and creamy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Milkshake",
+    "Hot cocoa",
+    "Coffee"
+   ]
+  },
+  {
+   "word": "Buttermilk",
+   "hints": [
+    {
+     "text": "Dairy drink",
+     "level": 1
+    },
+    {
+     "text": "Cooling drink",
+     "level": 1
+    },
+    {
+     "text": "Summer refresher",
+     "level": 2
+    },
+    {
+     "text": "Served after meals",
+     "level": 2
+    },
+    {
+     "text": "Thin and tangy",
+     "level": 3
+    },
+    {
+     "text": "Leftover from churning",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lassi",
+    "Yogurt",
+    "Kefir"
+   ]
+  },
+  {
+   "word": "Lassi",
+   "hints": [
+    {
+     "text": "Indian drink",
+     "level": 1
+    },
+    {
+     "text": "Yogurt drink",
+     "level": 1
+    },
+    {
+     "text": "Summer favorite",
+     "level": 2
+    },
+    {
+     "text": "Served in clay cups",
+     "level": 2
+    },
+    {
+     "text": "Thick and creamy",
+     "level": 3
+    },
+    {
+     "text": "Sweet or salty",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Smoothie",
+    "Buttermilk",
+    "Milkshake"
+   ]
+  },
+  {
+   "word": "Mango lassi",
+   "hints": [
+    {
+     "text": "Indian drink",
+     "level": 1
+    },
+    {
+     "text": "Fruity drink",
+     "level": 1
+    },
+    {
+     "text": "Restaurant favorite",
+     "level": 2
+    },
+    {
+     "text": "Summer cooler",
+     "level": 2
+    },
+    {
+     "text": "Yogurt and pulp",
+     "level": 3
+    },
+    {
+     "text": "Bright orange",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Smoothie",
+    "Milkshake",
+    "Juice"
+   ]
+  },
+  {
+   "word": "Chai",
+   "hints": [
+    {
+     "text": "Hot drink",
+     "level": 1
+    },
+    {
+     "text": "Indian drink",
+     "level": 1
+    },
+    {
+     "text": "Served at stalls",
+     "level": 2
+    },
+    {
+     "text": "Shared with biscuits",
+     "level": 2
+    },
+    {
+     "text": "Spiced and milky",
+     "level": 3
+    },
+    {
+     "text": "Boiled with ginger",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Coffee",
+    "Cocoa",
+    "Latte"
+   ]
+  },
+  {
+   "word": "Green tea",
+   "hints": [
+    {
+     "text": "Hot drink",
+     "level": 1
+    },
+    {
+     "text": "Healthy drink",
+     "level": 1
+    },
+    {
+     "text": "Full of antioxidants",
+     "level": 2
+    },
+    {
+     "text": "Popular in east asia",
+     "level": 2
+    },
+    {
+     "text": "Light and grassy",
+     "level": 3
+    },
+    {
+     "text": "Pale color",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Coffee",
+    "Herbal tea",
+    "Lemonade"
+   ]
+  },
+  {
+   "word": "Black tea",
+   "hints": [
+    {
+     "text": "Hot drink",
+     "level": 1
+    },
+    {
+     "text": "Classic brew",
+     "level": 1
+    },
+    {
+     "text": "British breakfast staple",
+     "level": 2
+    },
+    {
+     "text": "Served with milk",
+     "level": 2
+    },
+    {
+     "text": "Strong and dark",
+     "level": 3
+    },
+    {
+     "text": "Steeped leaves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Coffee",
+    "Cocoa",
+    "Green tea"
+   ]
+  },
+  {
+   "word": "Iced tea",
+   "hints": [
+    {
+     "text": "Cold drink",
+     "level": 1
+    },
+    {
+     "text": "Summer drink",
+     "level": 1
+    },
+    {
+     "text": "Sipped on porches",
+     "level": 2
+    },
+    {
+     "text": "Served in pitchers",
+     "level": 2
+    },
+    {
+     "text": "Chilled brew",
+     "level": 3
+    },
+    {
+     "text": "Lemon slice",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lemonade",
+    "Juice",
+    "Soda"
+   ]
+  },
+  {
+   "word": "Herbal tea",
+   "hints": [
+    {
+     "text": "Hot drink",
+     "level": 1
+    },
+    {
+     "text": "Caffeine free",
+     "level": 1
+    },
+    {
+     "text": "Calms you down",
+     "level": 2
+    },
+    {
+     "text": "Bedtime drink",
+     "level": 2
+    },
+    {
+     "text": "Dried flowers and herbs",
+     "level": 3
+    },
+    {
+     "text": "Steeped in bags",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Coffee",
+    "Cocoa",
+    "Broth"
+   ]
+  },
+  {
+   "word": "Mint tea",
+   "hints": [
+    {
+     "text": "Hot drink",
+     "level": 1
+    },
+    {
+     "text": "Refreshing brew",
+     "level": 1
+    },
+    {
+     "text": "North african tradition",
+     "level": 2
+    },
+    {
+     "text": "Poured from height",
+     "level": 2
+    },
+    {
+     "text": "Fresh green leaves",
+     "level": 3
+    },
+    {
+     "text": "Cool aftertaste",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Green tea",
+    "Coffee",
+    "Chamomile"
+   ]
+  },
+  {
+   "word": "Chamomile",
+   "hints": [
+    {
+     "text": "Herbal drink",
+     "level": 1
+    },
+    {
+     "text": "Calming brew",
+     "level": 1
+    },
+    {
+     "text": "Helps you sleep",
+     "level": 2
+    },
+    {
+     "text": "Soothes nerves",
+     "level": 2
+    },
+    {
+     "text": "Daisy like flowers",
+     "level": 3
+    },
+    {
+     "text": "Golden color",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Peppermint",
+    "Lavender",
+    "Rooibos"
+   ]
+  },
+  {
+   "word": "Matcha",
+   "hints": [
+    {
+     "text": "Japanese drink",
+     "level": 1
+    },
+    {
+     "text": "Powdered tea",
+     "level": 1
+    },
+    {
+     "text": "Whisked in bowls",
+     "level": 2
+    },
+    {
+     "text": "Ceremony drink",
+     "level": 2
+    },
+    {
+     "text": "Bright green",
+     "level": 3
+    },
+    {
+     "text": "Earthy taste",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Espresso",
+    "Cocoa",
+    "Chai"
+   ]
+  },
+  {
+   "word": "Bubble tea",
+   "hints": [
+    {
+     "text": "Sweet drink",
+     "level": 1
+    },
+    {
+     "text": "Taiwanese drink",
+     "level": 1
+    },
+    {
+     "text": "Sipped through fat straws",
+     "level": 2
+    },
+    {
+     "text": "Trendy cafes",
+     "level": 2
+    },
+    {
+     "text": "Chewy tapioca pearls",
+     "level": 3
+    },
+    {
+     "text": "Milky and sweet",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Milkshake",
+    "Smoothie",
+    "Slushie"
+   ]
+  },
+  {
+   "word": "Kombucha",
+   "hints": [
+    {
+     "text": "Fermented drink",
+     "level": 1
+    },
+    {
+     "text": "Health drink",
+     "level": 1
+    },
+    {
+     "text": "Trendy wellness drink",
+     "level": 2
+    },
+    {
+     "text": "Homebrewed",
+     "level": 2
+    },
+    {
+     "text": "Tangy and fizzy",
+     "level": 3
+    },
+    {
+     "text": "Made with scoby",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kefir",
+    "Soda",
+    "Vinegar"
+   ]
+  },
+  {
+   "word": "Coffee",
+   "hints": [
+    {
+     "text": "Hot drink",
+     "level": 1
+    },
+    {
+     "text": "Morning drink",
+     "level": 1
+    },
+    {
+     "text": "Wakes you up",
+     "level": 2
+    },
+    {
+     "text": "Served at cafes",
+     "level": 2
+    },
+    {
+     "text": "Roasted beans",
+     "level": 3
+    },
+    {
+     "text": "Full of caffeine",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tea",
+    "Cocoa",
+    "Chai"
+   ]
+  },
+  {
+   "word": "Espresso",
+   "hints": [
+    {
+     "text": "Coffee drink",
+     "level": 1
+    },
+    {
+     "text": "Italian drink",
+     "level": 1
+    },
+    {
+     "text": "Quick shot",
+     "level": 2
+    },
+    {
+     "text": "Served in tiny cups",
+     "level": 2
+    },
+    {
+     "text": "Strong and concentrated",
+     "level": 3
+    },
+    {
+     "text": "Crema on top",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Latte",
+    "Americano",
+    "Cocoa"
+   ]
+  },
+  {
+   "word": "Cappuccino",
+   "hints": [
+    {
+     "text": "Coffee drink",
+     "level": 1
+    },
+    {
+     "text": "Italian drink",
+     "level": 1
+    },
+    {
+     "text": "Breakfast order",
+     "level": 2
+    },
+    {
+     "text": "Cafe classic",
+     "level": 2
+    },
+    {
+     "text": "Thick milk foam",
+     "level": 3
+    },
+    {
+     "text": "Cocoa dusting",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Latte",
+    "Mocha",
+    "Macchiato"
+   ]
+  },
+  {
+   "word": "Latte",
+   "hints": [
+    {
+     "text": "Coffee drink",
+     "level": 1
+    },
+    {
+     "text": "Milky drink",
+     "level": 1
+    },
+    {
+     "text": "Cafe favorite",
+     "level": 2
+    },
+    {
+     "text": "Leaf patterns on top",
+     "level": 2
+    },
+    {
+     "text": "Lots of steamed milk",
+     "level": 3
+    },
+    {
+     "text": "Mild coffee taste",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cappuccino",
+    "Mocha",
+    "Chai"
+   ]
+  },
+  {
+   "word": "Americano",
+   "hints": [
+    {
+     "text": "Coffee drink",
+     "level": 1
+    },
+    {
+     "text": "Black coffee",
+     "level": 1
+    },
+    {
+     "text": "Simple cafe order",
+     "level": 2
+    },
+    {
+     "text": "Long and mild",
+     "level": 2
+    },
+    {
+     "text": "Espresso with water",
+     "level": 3
+    },
+    {
+     "text": "No milk",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Latte",
+    "Espresso",
+    "Mocha"
+   ]
+  },
+  {
+   "word": "Mocha",
+   "hints": [
+    {
+     "text": "Coffee drink",
+     "level": 1
+    },
+    {
+     "text": "Sweet drink",
+     "level": 1
+    },
+    {
+     "text": "Cafe treat",
+     "level": 2
+    },
+    {
+     "text": "Topped with cream",
+     "level": 2
+    },
+    {
+     "text": "Chocolate and espresso",
+     "level": 3
+    },
+    {
+     "text": "Rich and brown",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Latte",
+    "Hot cocoa",
+    "Cappuccino"
+   ]
+  },
+  {
+   "word": "Macchiato",
+   "hints": [
+    {
+     "text": "Coffee drink",
+     "level": 1
+    },
+    {
+     "text": "Italian drink",
+     "level": 1
+    },
+    {
+     "text": "Small cafe order",
+     "level": 2
+    },
+    {
+     "text": "Strong flavor",
+     "level": 2
+    },
+    {
+     "text": "Espresso marked with foam",
+     "level": 3
+    },
+    {
+     "text": "Layered look",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cappuccino",
+    "Latte",
+    "Cortado"
+   ]
+  },
+  {
+   "word": "Cold brew",
+   "hints": [
+    {
+     "text": "Coffee drink",
+     "level": 1
+    },
+    {
+     "text": "Chilled drink",
+     "level": 1
+    },
+    {
+     "text": "Steeped overnight",
+     "level": 2
+    },
+    {
+     "text": "Smooth and strong",
+     "level": 2
+    },
+    {
+     "text": "Served over ice",
+     "level": 3
+    },
+    {
+     "text": "Low acidity",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Iced latte",
+    "Espresso",
+    "Iced tea"
+   ]
+  },
+  {
+   "word": "Iced coffee",
+   "hints": [
+    {
+     "text": "Cold drink",
+     "level": 1
+    },
+    {
+     "text": "Cafe drink",
+     "level": 1
+    },
+    {
+     "text": "Summer pick me up",
+     "level": 2
+    },
+    {
+     "text": "Served in tall glasses",
+     "level": 2
+    },
+    {
+     "text": "Chilled with cubes",
+     "level": 3
+    },
+    {
+     "text": "Sipped through straws",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cold brew",
+    "Iced tea",
+    "Frappe"
+   ]
+  },
+  {
+   "word": "Frappe",
+   "hints": [
+    {
+     "text": "Cold drink",
+     "level": 1
+    },
+    {
+     "text": "Blended coffee",
+     "level": 1
+    },
+    {
+     "text": "Summer cafe order",
+     "level": 2
+    },
+    {
+     "text": "Sweet and frothy",
+     "level": 2
+    },
+    {
+     "text": "Blended with ice",
+     "level": 3
+    },
+    {
+     "text": "Whipped topping",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Milkshake",
+    "Iced coffee",
+    "Smoothie"
+   ]
+  },
+  {
+   "word": "Hot chocolate",
+   "hints": [
+    {
+     "text": "Warm drink",
+     "level": 1
+    },
+    {
+     "text": "Winter drink",
+     "level": 1
+    },
+    {
+     "text": "Cozy evening treat",
+     "level": 2
+    },
+    {
+     "text": "Kids favorite",
+     "level": 2
+    },
+    {
+     "text": "Topped with marshmallows",
+     "level": 3
+    },
+    {
+     "text": "Rich cocoa",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Coffee",
+    "Chai",
+    "Warm milk"
+   ]
+  },
+  {
+   "word": "Milkshake",
+   "hints": [
+    {
+     "text": "Sweet drink",
+     "level": 1
+    },
+    {
+     "text": "Diner drink",
+     "level": 1
+    },
+    {
+     "text": "Served with straws",
+     "level": 2
+    },
+    {
+     "text": "Thick and cold",
+     "level": 2
+    },
+    {
+     "text": "Blended ice cream",
+     "level": 3
+    },
+    {
+     "text": "Topped with cherry",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Smoothie",
+    "Lassi",
+    "Float"
+   ]
+  },
+  {
+   "word": "Smoothie",
+   "hints": [
+    {
+     "text": "Healthy drink",
+     "level": 1
+    },
+    {
+     "text": "Blended drink",
+     "level": 1
+    },
+    {
+     "text": "Breakfast on the go",
+     "level": 2
+    },
+    {
+     "text": "Gym favorite",
+     "level": 2
+    },
+    {
+     "text": "Blended fruit",
+     "level": 3
+    },
+    {
+     "text": "Thick texture",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Milkshake",
+    "Juice",
+    "Lassi"
+   ]
+  },
+  {
+   "word": "Orange juice",
+   "hints": [
+    {
+     "text": "Breakfast drink",
+     "level": 1
+    },
+    {
+     "text": "Fruit drink",
+     "level": 1
+    },
+    {
+     "text": "Full of vitamin c",
+     "level": 2
+    },
+    {
+     "text": "Served at brunch",
+     "level": 2
+    },
+    {
+     "text": "Freshly squeezed",
+     "level": 3
+    },
+    {
+     "text": "Pulp or no pulp",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Apple juice",
+    "Lemonade",
+    "Grapefruit"
+   ]
+  },
+  {
+   "word": "Apple juice",
+   "hints": [
+    {
+     "text": "Fruit drink",
+     "level": 1
+    },
+    {
+     "text": "Kids drink",
+     "level": 1
+    },
+    {
+     "text": "Lunchbox staple",
+     "level": 2
+    },
+    {
+     "text": "Served in boxes",
+     "level": 2
+    },
+    {
+     "text": "Pale gold",
+     "level": 3
+    },
+    {
+     "text": "Pressed fruit",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Orange juice",
+    "Cider",
+    "Pear nectar"
+   ]
+  },
+  {
+   "word": "Grape juice",
+   "hints": [
+    {
+     "text": "Fruit drink",
+     "level": 1
+    },
+    {
+     "text": "Purple drink",
+     "level": 1
+    },
+    {
+     "text": "Kids party drink",
+     "level": 2
+    },
+    {
+     "text": "Stains clothes",
+     "level": 2
+    },
+    {
+     "text": "Deep purple",
+     "level": 3
+    },
+    {
+     "text": "Very sweet",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cranberry",
+    "Plum juice",
+    "Punch"
+   ]
+  },
+  {
+   "word": "Lemonade",
+   "hints": [
+    {
+     "text": "Cold drink",
+     "level": 1
+    },
+    {
+     "text": "Summer drink",
+     "level": 1
+    },
+    {
+     "text": "Sold at kids stands",
+     "level": 2
+    },
+    {
+     "text": "Picnic favorite",
+     "level": 2
+    },
+    {
+     "text": "Sour and sweet",
+     "level": 3
+    },
+    {
+     "text": "Squeezed citrus",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Iced tea",
+    "Limeade",
+    "Soda"
+   ]
+  },
+  {
+   "word": "Limeade",
+   "hints": [
+    {
+     "text": "Cold drink",
+     "level": 1
+    },
+    {
+     "text": "Citrus drink",
+     "level": 1
+    },
+    {
+     "text": "Summer cooler",
+     "level": 2
+    },
+    {
+     "text": "Tart refresher",
+     "level": 2
+    },
+    {
+     "text": "Green citrus",
+     "level": 3
+    },
+    {
+     "text": "Sugar and water",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lemonade",
+    "Soda",
+    "Mojito"
+   ]
+  },
+  {
+   "word": "Pineapple juice",
+   "hints": [
+    {
+     "text": "Tropical drink",
+     "level": 1
+    },
+    {
+     "text": "Fruit drink",
+     "level": 1
+    },
+    {
+     "text": "Beach drink",
+     "level": 2
+    },
+    {
+     "text": "Sweet and tangy",
+     "level": 2
+    },
+    {
+     "text": "Yellow and frothy",
+     "level": 3
+    },
+    {
+     "text": "Pressed tropical fruit",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mango juice",
+    "Orange juice",
+    "Coconut water"
+   ]
+  },
+  {
+   "word": "Mango juice",
+   "hints": [
+    {
+     "text": "Tropical drink",
+     "level": 1
+    },
+    {
+     "text": "Fruit drink",
+     "level": 1
+    },
+    {
+     "text": "Summer favorite",
+     "level": 2
+    },
+    {
+     "text": "Sold in cartons",
+     "level": 2
+    },
+    {
+     "text": "Thick and orange",
+     "level": 3
+    },
+    {
+     "text": "Very sweet pulp",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pineapple juice",
+    "Orange juice",
+    "Lassi"
+   ]
+  },
+  {
+   "word": "Tomato juice",
+   "hints": [
+    {
+     "text": "Vegetable drink",
+     "level": 1
+    },
+    {
+     "text": "Savory drink",
+     "level": 1
+    },
+    {
+     "text": "Airplane drink",
+     "level": 2
+    },
+    {
+     "text": "Seasoned with salt",
+     "level": 2
+    },
+    {
+     "text": "Thick and red",
+     "level": 3
+    },
+    {
+     "text": "Made from vines",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Carrot juice",
+    "Gazpacho",
+    "Ketchup"
+   ]
+  },
+  {
+   "word": "Carrot juice",
+   "hints": [
+    {
+     "text": "Vegetable drink",
+     "level": 1
+    },
+    {
+     "text": "Healthy drink",
+     "level": 1
+    },
+    {
+     "text": "Good for eyesight",
+     "level": 2
+    },
+    {
+     "text": "Health bar order",
+     "level": 2
+    },
+    {
+     "text": "Bright orange",
+     "level": 3
+    },
+    {
+     "text": "Earthy sweet",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tomato juice",
+    "Beet juice",
+    "Orange juice"
+   ]
+  },
+  {
+   "word": "Cranberry juice",
+   "hints": [
+    {
+     "text": "Fruit drink",
+     "level": 1
+    },
+    {
+     "text": "Tart drink",
+     "level": 1
+    },
+    {
+     "text": "Good for health",
+     "level": 2
+    },
+    {
+     "text": "Holiday drink",
+     "level": 2
+    },
+    {
+     "text": "Deep red",
+     "level": 3
+    },
+    {
+     "text": "Sour berries",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Grape juice",
+    "Cherry juice",
+    "Pomegranate"
+   ]
+  },
+  {
+   "word": "Watermelon juice",
+   "hints": [
+    {
+     "text": "Summer drink",
+     "level": 1
+    },
+    {
+     "text": "Fruit drink",
+     "level": 1
+    },
+    {
+     "text": "Super refreshing",
+     "level": 2
+    },
+    {
+     "text": "Beach cooler",
+     "level": 2
+    },
+    {
+     "text": "Pink and watery",
+     "level": 3
+    },
+    {
+     "text": "Made from melons",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lemonade",
+    "Strawberry shake",
+    "Coconut water"
+   ]
+  },
+  {
+   "word": "Sugarcane juice",
+   "hints": [
+    {
+     "text": "Street drink",
+     "level": 1
+    },
+    {
+     "text": "Sweet drink",
+     "level": 1
+    },
+    {
+     "text": "Pressed by roadside carts",
+     "level": 2
+    },
+    {
+     "text": "Summer cooler",
+     "level": 2
+    },
+    {
+     "text": "Crushed stalks",
+     "level": 3
+    },
+    {
+     "text": "Green and frothy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Coconut water",
+    "Lemonade",
+    "Lassi"
+   ]
+  },
+  {
+   "word": "Pomegranate",
+   "hints": [
+    {
+     "text": "Fruit drink",
+     "level": 1
+    },
+    {
+     "text": "Healthy drink",
+     "level": 1
+    },
+    {
+     "text": "Rich in antioxidants",
+     "level": 2
+    },
+    {
+     "text": "Pricey drink",
+     "level": 2
+    },
+    {
+     "text": "Deep ruby red",
+     "level": 3
+    },
+    {
+     "text": "Made from seeds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cranberry juice",
+    "Grape juice",
+    "Cherry juice"
+   ]
+  },
+  {
+   "word": "Almond milk",
+   "hints": [
+    {
+     "text": "Plant based",
+     "level": 1
+    },
+    {
+     "text": "Dairy alternative",
+     "level": 1
+    },
+    {
+     "text": "Vegan favorite",
+     "level": 2
+    },
+    {
+     "text": "Used in lattes",
+     "level": 2
+    },
+    {
+     "text": "Made from nuts",
+     "level": 3
+    },
+    {
+     "text": "Nutty taste",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Soy milk",
+    "Oat milk",
+    "Coconut milk"
+   ]
+  },
+  {
+   "word": "Soy milk",
+   "hints": [
+    {
+     "text": "Plant based",
+     "level": 1
+    },
+    {
+     "text": "Dairy alternative",
+     "level": 1
+    },
+    {
+     "text": "Vegan staple",
+     "level": 2
+    },
+    {
+     "text": "High in protein",
+     "level": 2
+    },
+    {
+     "text": "Made from beans",
+     "level": 3
+    },
+    {
+     "text": "Creamy beige",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Almond milk",
+    "Oat milk",
+    "Rice milk"
+   ]
+  },
+  {
+   "word": "Oat milk",
+   "hints": [
+    {
+     "text": "Plant based",
+     "level": 1
+    },
+    {
+     "text": "Dairy alternative",
+     "level": 1
+    },
+    {
+     "text": "Barista favorite",
+     "level": 2
+    },
+    {
+     "text": "Creamy in coffee",
+     "level": 2
+    },
+    {
+     "text": "Made from grains",
+     "level": 3
+    },
+    {
+     "text": "Slightly sweet",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Almond milk",
+    "Soy milk",
+    "Rice milk"
+   ]
+  },
+  {
+   "word": "Cola",
+   "hints": [
+    {
+     "text": "Soft drink",
+     "level": 1
+    },
+    {
+     "text": "Fizzy drink",
+     "level": 1
+    },
+    {
+     "text": "Served with pizza",
+     "level": 2
+    },
+    {
+     "text": "Famous secret recipe",
+     "level": 2
+    },
+    {
+     "text": "Dark brown",
+     "level": 3
+    },
+    {
+     "text": "Lots of sugar",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lemonade",
+    "Ginger ale",
+    "Cream soda"
+   ]
+  },
+  {
+   "word": "Ginger ale",
+   "hints": [
+    {
+     "text": "Soft drink",
+     "level": 1
+    },
+    {
+     "text": "Fizzy drink",
+     "level": 1
+    },
+    {
+     "text": "Settles your stomach",
+     "level": 2
+    },
+    {
+     "text": "Served on planes",
+     "level": 2
+    },
+    {
+     "text": "Pale gold",
+     "level": 3
+    },
+    {
+     "text": "Spicy root flavor",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cola",
+    "Tonic water",
+    "Lemonade"
+   ]
+  },
+  {
+   "word": "Cream soda",
+   "hints": [
+    {
+     "text": "Soft drink",
+     "level": 1
+    },
+    {
+     "text": "Sweet drink",
+     "level": 1
+    },
+    {
+     "text": "Old fashioned fizz",
+     "level": 2
+    },
+    {
+     "text": "Diner favorite",
+     "level": 2
+    },
+    {
+     "text": "Vanilla flavor",
+     "level": 3
+    },
+    {
+     "text": "Fizzy and smooth",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cola",
+    "Ginger ale",
+    "Root float"
+   ]
+  },
+  {
+   "word": "Orange soda",
+   "hints": [
+    {
+     "text": "Soft drink",
+     "level": 1
+    },
+    {
+     "text": "Fizzy drink",
+     "level": 1
+    },
+    {
+     "text": "Kids party drink",
+     "level": 2
+    },
+    {
+     "text": "Bright and sweet",
+     "level": 2
+    },
+    {
+     "text": "Neon colored",
+     "level": 3
+    },
+    {
+     "text": "Citrus flavored",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cola",
+    "Lemonade",
+    "Grape soda"
+   ]
+  },
+  {
+   "word": "Tonic water",
+   "hints": [
+    {
+     "text": "Fizzy drink",
+     "level": 1
+    },
+    {
+     "text": "Mixer",
+     "level": 1
+    },
+    {
+     "text": "Glows under blacklight",
+     "level": 2
+    },
+    {
+     "text": "Slightly bitter",
+     "level": 2
+    },
+    {
+     "text": "Contains quinine",
+     "level": 3
+    },
+    {
+     "text": "Clear and bubbly",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Soda water",
+    "Ginger ale",
+    "Seltzer"
+   ]
+  },
+  {
+   "word": "Energy drink",
+   "hints": [
+    {
+     "text": "Canned beverage",
+     "level": 1
+    },
+    {
+     "text": "Caffeinated beverage",
+     "level": 1
+    },
+    {
+     "text": "Student all nighter",
+     "level": 2
+    },
+    {
+     "text": "Gamer fuel",
+     "level": 2
+    },
+    {
+     "text": "Taurine and sugar",
+     "level": 3
+    },
+    {
+     "text": "Tall slim can",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Coffee",
+    "Sports drink",
+    "Soda"
+   ]
+  },
+  {
+   "word": "Sports drink",
+   "hints": [
+    {
+     "text": "Workout beverage",
+     "level": 1
+    },
+    {
+     "text": "Hydration beverage",
+     "level": 1
+    },
+    {
+     "text": "Athletes gulp it",
+     "level": 2
+    },
+    {
+     "text": "Sold at gyms",
+     "level": 2
+    },
+    {
+     "text": "Electrolytes",
+     "level": 3
+    },
+    {
+     "text": "Neon colors",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Energy drink",
+    "Water",
+    "Juice"
+   ]
+  },
+  {
+   "word": "Protein shake",
+   "hints": [
+    {
+     "text": "Gym drink",
+     "level": 1
+    },
+    {
+     "text": "Workout drink",
+     "level": 1
+    },
+    {
+     "text": "After lifting weights",
+     "level": 2
+    },
+    {
+     "text": "Mixed in bottles",
+     "level": 2
+    },
+    {
+     "text": "Powder mixed with milk",
+     "level": 3
+    },
+    {
+     "text": "Muscle builder",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Smoothie",
+    "Milkshake",
+    "Sports drink"
+   ]
+  },
+  {
+   "word": "Eggnog",
+   "hints": [
+    {
+     "text": "Holiday drink",
+     "level": 1
+    },
+    {
+     "text": "Creamy drink",
+     "level": 1
+    },
+    {
+     "text": "Winter tradition",
+     "level": 2
+    },
+    {
+     "text": "Served at parties",
+     "level": 2
+    },
+    {
+     "text": "Nutmeg on top",
+     "level": 3
+    },
+    {
+     "text": "Thick and eggy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Custard",
+    "Milkshake",
+    "Hot cocoa"
+   ]
+  },
+  {
+   "word": "Fruit punch",
+   "hints": [
+    {
+     "text": "Party drink",
+     "level": 1
+    },
+    {
+     "text": "Sweet drink",
+     "level": 1
+    },
+    {
+     "text": "Served in big bowls",
+     "level": 2
+    },
+    {
+     "text": "Kids birthday drink",
+     "level": 2
+    },
+    {
+     "text": "Mixed berry flavors",
+     "level": 3
+    },
+    {
+     "text": "Bright red",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lemonade",
+    "Juice",
+    "Soda"
+   ]
+  },
+  {
+   "word": "Slushie",
+   "hints": [
+    {
+     "text": "Frozen drink",
+     "level": 1
+    },
+    {
+     "text": "Summer treat",
+     "level": 1
+    },
+    {
+     "text": "Gives brain freeze",
+     "level": 2
+    },
+    {
+     "text": "Sold at stores",
+     "level": 2
+    },
+    {
+     "text": "Crushed ice",
+     "level": 3
+    },
+    {
+     "text": "Neon syrup",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Snow cone",
+    "Smoothie",
+    "Milkshake"
+   ]
+  },
+  {
+   "word": "Horchata",
+   "hints": [
+    {
+     "text": "Latin drink",
+     "level": 1
+    },
+    {
+     "text": "Sweet drink",
+     "level": 1
+    },
+    {
+     "text": "Served at taco stands",
+     "level": 2
+    },
+    {
+     "text": "Very refreshing",
+     "level": 2
+    },
+    {
+     "text": "Rice and cinnamon",
+     "level": 3
+    },
+    {
+     "text": "Milky white",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lassi",
+    "Milkshake",
+    "Chai"
+   ]
+  },
+  {
+   "word": "Jaljeera",
+   "hints": [
+    {
+     "text": "Indian drink",
+     "level": 1
+    },
+    {
+     "text": "Spicy cooler",
+     "level": 1
+    },
+    {
+     "text": "Summer refresher",
+     "level": 2
+    },
+    {
+     "text": "Aids digestion",
+     "level": 2
+    },
+    {
+     "text": "Cumin and mint",
+     "level": 3
+    },
+    {
+     "text": "Tangy and salty",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Buttermilk",
+    "Lemonade",
+    "Aam panna"
+   ]
+  },
+  {
+   "word": "Aam panna",
+   "hints": [
+    {
+     "text": "Indian drink",
+     "level": 1
+    },
+    {
+     "text": "Summer cooler",
+     "level": 1
+    },
+    {
+     "text": "Beats the heat",
+     "level": 2
+    },
+    {
+     "text": "Homemade remedy",
+     "level": 2
+    },
+    {
+     "text": "Raw mango pulp",
+     "level": 3
+    },
+    {
+     "text": "Tangy and green",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jaljeera",
+    "Lemonade",
+    "Mango juice"
+   ]
+  },
+  {
+   "word": "Thandai",
+   "hints": [
+    {
+     "text": "Indian drink",
+     "level": 1
+    },
+    {
+     "text": "Festive drink",
+     "level": 1
+    },
+    {
+     "text": "Spring festival favorite",
+     "level": 2
+    },
+    {
+     "text": "Served chilled",
+     "level": 2
+    },
+    {
+     "text": "Milk with nuts",
+     "level": 3
+    },
+    {
+     "text": "Saffron and fennel",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lassi",
+    "Milkshake",
+    "Kheer"
+   ]
+  },
+  {
+   "word": "Nimbu pani",
+   "hints": [
+    {
+     "text": "Indian drink",
+     "level": 1
+    },
+    {
+     "text": "Citrus cooler",
+     "level": 1
+    },
+    {
+     "text": "Street stall favorite",
+     "level": 2
+    },
+    {
+     "text": "Summer staple",
+     "level": 2
+    },
+    {
+     "text": "Lemon with salt",
+     "level": 3
+    },
+    {
+     "text": "Sometimes fizzy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lemonade",
+    "Jaljeera",
+    "Soda"
+   ]
+  },
+  {
+   "word": "Rose milk",
+   "hints": [
+    {
+     "text": "Indian drink",
+     "level": 1
+    },
+    {
+     "text": "Sweet drink",
+     "level": 1
+    },
+    {
+     "text": "South indian favorite",
+     "level": 2
+    },
+    {
+     "text": "Served chilled",
+     "level": 2
+    },
+    {
+     "text": "Pink and floral",
+     "level": 3
+    },
+    {
+     "text": "Flavored syrup",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Badam milk",
+    "Strawberry shake",
+    "Falooda"
+   ]
+  },
+  {
+   "word": "Badam milk",
+   "hints": [
+    {
+     "text": "Indian drink",
+     "level": 1
+    },
+    {
+     "text": "Nutty drink",
+     "level": 1
+    },
+    {
+     "text": "Served hot or cold",
+     "level": 2
+    },
+    {
+     "text": "Healthy treat",
+     "level": 2
+    },
+    {
+     "text": "Ground almonds",
+     "level": 3
+    },
+    {
+     "text": "Saffron tinted",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rose milk",
+    "Thandai",
+    "Milkshake"
+   ]
+  },
+  {
+   "word": "Falooda",
+   "hints": [
+    {
+     "text": "Indian dessert drink",
+     "level": 1
+    },
+    {
+     "text": "Layered drink",
+     "level": 1
+    },
+    {
+     "text": "Summer treat",
+     "level": 2
+    },
+    {
+     "text": "Served in tall glasses",
+     "level": 2
+    },
+    {
+     "text": "Vermicelli and basil seeds",
+     "level": 3
+    },
+    {
+     "text": "Topped with kulfi",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Milkshake",
+    "Sundae",
+    "Bubble tea"
+   ]
+  },
+  {
+   "word": "Sharbat",
+   "hints": [
+    {
+     "text": "Sweet drink",
+     "level": 1
+    },
+    {
+     "text": "Traditional cooler",
+     "level": 1
+    },
+    {
+     "text": "Served to guests",
+     "level": 2
+    },
+    {
+     "text": "Ramadan favorite",
+     "level": 2
+    },
+    {
+     "text": "Fruit or flower syrup",
+     "level": 3
+    },
+    {
+     "text": "Diluted with water",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lemonade",
+    "Squash",
+    "Cordial"
+   ]
+  },
+  {
+   "word": "Ayran",
+   "hints": [
+    {
+     "text": "Yogurt drink",
+     "level": 1
+    },
+    {
+     "text": "Turkish drink",
+     "level": 1
+    },
+    {
+     "text": "Served with kebabs",
+     "level": 2
+    },
+    {
+     "text": "Salty refresher",
+     "level": 2
+    },
+    {
+     "text": "Frothy and white",
+     "level": 3
+    },
+    {
+     "text": "Yogurt and water",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Buttermilk",
+    "Lassi",
+    "Kefir"
+   ]
+  },
+  {
+   "word": "Kefir",
+   "hints": [
+    {
+     "text": "Fermented drink",
+     "level": 1
+    },
+    {
+     "text": "Dairy drink",
+     "level": 1
+    },
+    {
+     "text": "Gut health favorite",
+     "level": 2
+    },
+    {
+     "text": "Tangy probiotic",
+     "level": 2
+    },
+    {
+     "text": "Grains and milk",
+     "level": 3
+    },
+    {
+     "text": "Slightly fizzy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Yogurt",
+    "Kombucha",
+    "Buttermilk"
+   ]
+  },
+  {
+   "word": "Milk tea",
+   "hints": [
+    {
+     "text": "Sweet drink",
+     "level": 1
+    },
+    {
+     "text": "Asian drink",
+     "level": 1
+    },
+    {
+     "text": "Sold at cafes",
+     "level": 2
+    },
+    {
+     "text": "Hot or iced",
+     "level": 2
+    },
+    {
+     "text": "Creamy and sweet",
+     "level": 3
+    },
+    {
+     "text": "Brewed leaves and cream",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bubble tea",
+    "Chai",
+    "Latte"
+   ]
+  },
+  {
+   "word": "Thai tea",
+   "hints": [
+    {
+     "text": "Sweet drink",
+     "level": 1
+    },
+    {
+     "text": "Asian drink",
+     "level": 1
+    },
+    {
+     "text": "Street food partner",
+     "level": 2
+    },
+    {
+     "text": "Served over ice",
+     "level": 2
+    },
+    {
+     "text": "Bright orange",
+     "level": 3
+    },
+    {
+     "text": "Condensed milk",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chai",
+    "Bubble tea",
+    "Iced coffee"
+   ]
+  },
+  {
+   "word": "Hibiscus tea",
+   "hints": [
+    {
+     "text": "Herbal drink",
+     "level": 1
+    },
+    {
+     "text": "Tart drink",
+     "level": 1
+    },
+    {
+     "text": "Served hot or iced",
+     "level": 2
+    },
+    {
+     "text": "Lowers blood pressure",
+     "level": 2
+    },
+    {
+     "text": "Deep red petals",
+     "level": 3
+    },
+    {
+     "text": "Cranberry like",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rooibos",
+    "Chamomile",
+    "Rosehip"
+   ]
+  },
+  {
+   "word": "Barley water",
+   "hints": [
+    {
+     "text": "Old drink",
+     "level": 1
+    },
+    {
+     "text": "Cooling drink",
+     "level": 1
+    },
+    {
+     "text": "Wimbledon tradition",
+     "level": 2
+    },
+    {
+     "text": "Homemade remedy",
+     "level": 2
+    },
+    {
+     "text": "Boiled grain",
+     "level": 3
+    },
+    {
+     "text": "Lemony",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lemonade",
+    "Rice water",
+    "Squash"
+   ]
+  },
+  {
+   "word": "Lemon water",
+   "hints": [
+    {
+     "text": "Healthy drink",
+     "level": 1
+    },
+    {
+     "text": "Morning drink",
+     "level": 1
+    },
+    {
+     "text": "Detox ritual",
+     "level": 2
+    },
+    {
+     "text": "Served warm or cold",
+     "level": 2
+    },
+    {
+     "text": "Citrus slices",
+     "level": 3
+    },
+    {
+     "text": "Plain and sour",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lemonade",
+    "Mint water",
+    "Green tea"
+   ]
+  },
+  {
+   "word": "Mineral water",
+   "hints": [
+    {
+     "text": "Bottled drink",
+     "level": 1
+    },
+    {
+     "text": "Pure drink",
+     "level": 1
+    },
+    {
+     "text": "Sold in bottles",
+     "level": 2
+    },
+    {
+     "text": "From natural springs",
+     "level": 2
+    },
+    {
+     "text": "Naturally filtered",
+     "level": 3
+    },
+    {
+     "text": "Still or sparkling",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tap water",
+    "Soda water",
+    "Juice"
+   ]
+  },
+  {
+   "word": "Soda water",
+   "hints": [
+    {
+     "text": "Fizzy drink",
+     "level": 1
+    },
+    {
+     "text": "Mixer",
+     "level": 1
+    },
+    {
+     "text": "Plain bubbles",
+     "level": 2
+    },
+    {
+     "text": "Settles tummy",
+     "level": 2
+    },
+    {
+     "text": "Carbonated and clear",
+     "level": 3
+    },
+    {
+     "text": "No sugar",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tonic water",
+    "Lemonade",
+    "Cola"
+   ]
+  },
+  {
+   "word": "Seltzer",
+   "hints": [
+    {
+     "text": "Fizzy drink",
+     "level": 1
+    },
+    {
+     "text": "Bubbly water",
+     "level": 1
+    },
+    {
+     "text": "Flavored versions",
+     "level": 2
+    },
+    {
+     "text": "Calorie free",
+     "level": 2
+    },
+    {
+     "text": "Carbonated",
+     "level": 3
+    },
+    {
+     "text": "Sold in cans",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tonic water",
+    "Club soda",
+    "Cola"
+   ]
+  },
+  {
+   "word": "Club soda",
+   "hints": [
+    {
+     "text": "Fizzy drink",
+     "level": 1
+    },
+    {
+     "text": "Mixer",
+     "level": 1
+    },
+    {
+     "text": "Removes stains myth",
+     "level": 2
+    },
+    {
+     "text": "Bar staple",
+     "level": 2
+    },
+    {
+     "text": "Slightly salty bubbles",
+     "level": 3
+    },
+    {
+     "text": "Clear",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Seltzer",
+    "Tonic water",
+    "Ginger ale"
+   ]
+  },
+  {
+   "word": "Grape soda",
+   "hints": [
+    {
+     "text": "Soft drink",
+     "level": 1
+    },
+    {
+     "text": "Fizzy drink",
+     "level": 1
+    },
+    {
+     "text": "Purple tongue",
+     "level": 2
+    },
+    {
+     "text": "Kids favorite",
+     "level": 2
+    },
+    {
+     "text": "Artificial flavor",
+     "level": 3
+    },
+    {
+     "text": "Deep purple",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Orange soda",
+    "Cola",
+    "Cream soda"
+   ]
+  },
+  {
+   "word": "Malted milk",
+   "hints": [
+    {
+     "text": "Dairy drink",
+     "level": 1
+    },
+    {
+     "text": "Vintage drink",
+     "level": 1
+    },
+    {
+     "text": "Old diner treat",
+     "level": 2
+    },
+    {
+     "text": "Bedtime drink",
+     "level": 2
+    },
+    {
+     "text": "Barley powder",
+     "level": 3
+    },
+    {
+     "text": "Creamy and nutty",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Milkshake",
+    "Hot cocoa",
+    "Horlicks"
+   ]
+  },
+  {
+   "word": "Hot water",
+   "hints": [
+    {
+     "text": "Simple drink",
+     "level": 1
+    },
+    {
+     "text": "Warm liquid",
+     "level": 1
+    },
+    {
+     "text": "Soothes throat",
+     "level": 2
+    },
+    {
+     "text": "Morning ritual",
+     "level": 2
+    },
+    {
+     "text": "No flavor",
+     "level": 3
+    },
+    {
+     "text": "Kettle boiled",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tea",
+    "Broth",
+    "Coffee"
+   ]
+  },
+  {
+   "word": "Coconut milk",
+   "hints": [
+    {
+     "text": "Tropical liquid",
+     "level": 1
+    },
+    {
+     "text": "Creamy liquid",
+     "level": 1
+    },
+    {
+     "text": "Used in curries",
+     "level": 2
+    },
+    {
+     "text": "Dairy free",
+     "level": 2
+    },
+    {
+     "text": "White and rich",
+     "level": 3
+    },
+    {
+     "text": "Pressed from flesh",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Almond milk",
+    "Soy milk",
+    "Cream"
+   ]
+  },
+  {
+   "word": "Rice milk",
+   "hints": [
+    {
+     "text": "Plant based",
+     "level": 1
+    },
+    {
+     "text": "Dairy alternative",
+     "level": 1
+    },
+    {
+     "text": "Allergy friendly",
+     "level": 2
+    },
+    {
+     "text": "Thin and sweet",
+     "level": 2
+    },
+    {
+     "text": "Made from grains",
+     "level": 3
+    },
+    {
+     "text": "Watery white",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Oat milk",
+    "Soy milk",
+    "Almond milk"
+   ]
+  },
+  {
+   "word": "Beet juice",
+   "hints": [
+    {
+     "text": "Vegetable drink",
+     "level": 1
+    },
+    {
+     "text": "Health drink",
+     "level": 1
+    },
+    {
+     "text": "Athletes drink it",
+     "level": 2
+    },
+    {
+     "text": "Earthy flavor",
+     "level": 2
+    },
+    {
+     "text": "Deep magenta",
+     "level": 3
+    },
+    {
+     "text": "Root vegetable",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Carrot juice",
+    "Cranberry juice",
+    "Pomegranate"
+   ]
+  },
+  {
+   "word": "Celery juice",
+   "hints": [
+    {
+     "text": "Green drink",
+     "level": 1
+    },
+    {
+     "text": "Health fad",
+     "level": 1
+    },
+    {
+     "text": "Morning wellness trend",
+     "level": 2
+    },
+    {
+     "text": "Very bitter",
+     "level": 2
+    },
+    {
+     "text": "Pale green",
+     "level": 3
+    },
+    {
+     "text": "Pressed stalks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cucumber water",
+    "Wheatgrass",
+    "Kale smoothie"
+   ]
+  },
+  {
+   "word": "Wheatgrass",
+   "hints": [
+    {
+     "text": "Health shot",
+     "level": 1
+    },
+    {
+     "text": "Green drink",
+     "level": 1
+    },
+    {
+     "text": "Juice bar shot",
+     "level": 2
+    },
+    {
+     "text": "Very grassy",
+     "level": 2
+    },
+    {
+     "text": "Bright green",
+     "level": 3
+    },
+    {
+     "text": "Tiny cup",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spirulina",
+    "Celery juice",
+    "Matcha"
+   ]
+  },
+  {
+   "word": "Banana shake",
+   "hints": [
+    {
+     "text": "Sweet drink",
+     "level": 1
+    },
+    {
+     "text": "Blended drink",
+     "level": 1
+    },
+    {
+     "text": "Breakfast blend",
+     "level": 2
+    },
+    {
+     "text": "Gym favorite",
+     "level": 2
+    },
+    {
+     "text": "Fruit blended with milk",
+     "level": 3
+    },
+    {
+     "text": "Pale yellow",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Strawberry shake",
+    "Smoothie",
+    "Mango lassi"
+   ]
+  },
+  {
+   "word": "Strawberry shake",
+   "hints": [
+    {
+     "text": "Sweet drink",
+     "level": 1
+    },
+    {
+     "text": "Pink drink",
+     "level": 1
+    },
+    {
+     "text": "Diner favorite",
+     "level": 2
+    },
+    {
+     "text": "Kids treat",
+     "level": 2
+    },
+    {
+     "text": "Fruity flavored",
+     "level": 3
+    },
+    {
+     "text": "Topped with cream",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chocolate milk",
+    "Banana shake",
+    "Smoothie"
+   ]
+  },
+  {
+   "word": "Cold coffee",
+   "hints": [
+    {
+     "text": "Chilled beverage",
+     "level": 1
+    },
+    {
+     "text": "Cafe beverage",
+     "level": 1
+    },
+    {
+     "text": "Indian cafe favorite",
+     "level": 2
+    },
+    {
+     "text": "Summer treat",
+     "level": 2
+    },
+    {
+     "text": "Blended with milk",
+     "level": 3
+    },
+    {
+     "text": "Frothy top",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Frappe",
+    "Iced latte",
+    "Milkshake"
+   ]
+  },
+  {
+   "word": "Dalgona",
+   "hints": [
+    {
+     "text": "Coffee drink",
+     "level": 1
+    },
+    {
+     "text": "Viral drink",
+     "level": 1
+    },
+    {
+     "text": "Internet trend",
+     "level": 2
+    },
+    {
+     "text": "Whipped by hand",
+     "level": 2
+    },
+    {
+     "text": "Fluffy foam on milk",
+     "level": 3
+    },
+    {
+     "text": "Caramel colored",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cappuccino",
+    "Latte",
+    "Frappe"
+   ]
+  },
+  {
+   "word": "Golden milk",
+   "hints": [
+    {
+     "text": "Healthy drink",
+     "level": 1
+    },
+    {
+     "text": "Indian drink",
+     "level": 1
+    },
+    {
+     "text": "Bedtime remedy",
+     "level": 2
+    },
+    {
+     "text": "Soothes colds",
+     "level": 2
+    },
+    {
+     "text": "Turmeric infusion",
+     "level": 3
+    },
+    {
+     "text": "Bright yellow",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chai",
+    "Badam milk",
+    "Hot cocoa"
+   ]
+  },
+  {
+   "word": "Chai latte",
+   "hints": [
+    {
+     "text": "Cafe drink",
+     "level": 1
+    },
+    {
+     "text": "Spiced drink",
+     "level": 1
+    },
+    {
+     "text": "Cafe version of tradition",
+     "level": 2
+    },
+    {
+     "text": "Sweet and creamy",
+     "level": 2
+    },
+    {
+     "text": "Spiced tea with foam",
+     "level": 3
+    },
+    {
+     "text": "Cinnamon dusted",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cappuccino",
+    "Masala chai",
+    "Matcha latte"
+   ]
+  },
+  {
+   "word": "Matcha latte",
+   "hints": [
+    {
+     "text": "Cafe drink",
+     "level": 1
+    },
+    {
+     "text": "Green drink",
+     "level": 1
+    },
+    {
+     "text": "Trendy breakfast drink",
+     "level": 2
+    },
+    {
+     "text": "Trendy cafe pick",
+     "level": 2
+    },
+    {
+     "text": "Whisked powder with milk",
+     "level": 3
+    },
+    {
+     "text": "Bright green",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chai latte",
+    "Cappuccino",
+    "Green tea"
+   ]
+  },
+  {
+   "word": "Turmeric latte",
+   "hints": [
+    {
+     "text": "Cafe drink",
+     "level": 1
+    },
+    {
+     "text": "Healthy drink",
+     "level": 1
+    },
+    {
+     "text": "Wellness cafe order",
+     "level": 2
+    },
+    {
+     "text": "Warming spice",
+     "level": 2
+    },
+    {
+     "text": "Yellow root powder",
+     "level": 3
+    },
+    {
+     "text": "Steamed milk",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Golden milk",
+    "Chai latte",
+    "Hot cocoa"
+   ]
+  },
+  {
+   "word": "Kahwa",
+   "hints": [
+    {
+     "text": "Kashmiri drink",
+     "level": 1
+    },
+    {
+     "text": "Hot tea",
+     "level": 1
+    },
+    {
+     "text": "Served at weddings",
+     "level": 2
+    },
+    {
+     "text": "Winter warmer",
+     "level": 2
+    },
+    {
+     "text": "Saffron and almonds",
+     "level": 3
+    },
+    {
+     "text": "Green tea base",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chai",
+    "Green tea",
+    "Butter tea"
+   ]
+  },
+  {
+   "word": "Butter tea",
+   "hints": [
+    {
+     "text": "Himalayan drink",
+     "level": 1
+    },
+    {
+     "text": "Salty brew",
+     "level": 1
+    },
+    {
+     "text": "Mountain tradition",
+     "level": 2
+    },
+    {
+     "text": "Keeps you warm",
+     "level": 2
+    },
+    {
+     "text": "Churned with yak fat",
+     "level": 3
+    },
+    {
+     "text": "Thick and salty",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kahwa",
+    "Chai",
+    "Milk tea"
+   ]
+  },
+  {
+   "word": "Sencha",
+   "hints": [
+    {
+     "text": "Japanese tea",
+     "level": 1
+    },
+    {
+     "text": "Green tea",
+     "level": 1
+    },
+    {
+     "text": "Everyday tea in japan",
+     "level": 2
+    },
+    {
+     "text": "Served hot",
+     "level": 2
+    },
+    {
+     "text": "Steamed leaves",
+     "level": 3
+    },
+    {
+     "text": "Grassy taste",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Matcha",
+    "Oolong",
+    "Jasmine tea"
+   ]
+  },
+  {
+   "word": "Oolong",
+   "hints": [
+    {
+     "text": "Chinese tea",
+     "level": 1
+    },
+    {
+     "text": "Traditional brew",
+     "level": 1
+    },
+    {
+     "text": "Partially oxidized",
+     "level": 2
+    },
+    {
+     "text": "Served in small cups",
+     "level": 2
+    },
+    {
+     "text": "Floral aroma",
+     "level": 3
+    },
+    {
+     "text": "Rolled leaves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Green tea",
+    "Black tea",
+    "Jasmine tea"
+   ]
+  },
+  {
+   "word": "Jasmine tea",
+   "hints": [
+    {
+     "text": "Chinese brew",
+     "level": 1
+    },
+    {
+     "text": "Floral brew",
+     "level": 1
+    },
+    {
+     "text": "Served at dim sum",
+     "level": 2
+    },
+    {
+     "text": "Sweet aroma",
+     "level": 2
+    },
+    {
+     "text": "Scented with flowers",
+     "level": 3
+    },
+    {
+     "text": "Pale gold",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Oolong",
+    "Green tea",
+    "Chamomile"
+   ]
+  },
+  {
+   "word": "Rooibos",
+   "hints": [
+    {
+     "text": "Herbal tea",
+     "level": 1
+    },
+    {
+     "text": "South african tea",
+     "level": 1
+    },
+    {
+     "text": "Caffeine free",
+     "level": 2
+    },
+    {
+     "text": "Red bush",
+     "level": 2
+    },
+    {
+     "text": "Reddish color",
+     "level": 3
+    },
+    {
+     "text": "Sweet and nutty",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chamomile",
+    "Hibiscus tea",
+    "Black tea"
+   ]
+  },
+  {
+   "word": "Peppermint",
+   "hints": [
+    {
+     "text": "Herbal tea",
+     "level": 1
+    },
+    {
+     "text": "Fresh brew",
+     "level": 1
+    },
+    {
+     "text": "Settles the stomach",
+     "level": 2
+    },
+    {
+     "text": "Cool and fresh",
+     "level": 2
+    },
+    {
+     "text": "Bright green leaves",
+     "level": 3
+    },
+    {
+     "text": "Menthol taste",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chamomile",
+    "Spearmint",
+    "Ginger tea"
+   ]
+  },
+  {
+   "word": "Ginger tea",
+   "hints": [
+    {
+     "text": "Herbal brew",
+     "level": 1
+    },
+    {
+     "text": "Spicy infusion",
+     "level": 1
+    },
+    {
+     "text": "Cure for colds",
+     "level": 2
+    },
+    {
+     "text": "Warms you up",
+     "level": 2
+    },
+    {
+     "text": "Root slices",
+     "level": 3
+    },
+    {
+     "text": "Peppery bite",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lemon tea",
+    "Chai",
+    "Peppermint"
+   ]
+  },
+  {
+   "word": "Lemon tea",
+   "hints": [
+    {
+     "text": "Hot drink",
+     "level": 1
+    },
+    {
+     "text": "Citrus brew",
+     "level": 1
+    },
+    {
+     "text": "Soothes sore throats",
+     "level": 2
+    },
+    {
+     "text": "Light and tangy",
+     "level": 2
+    },
+    {
+     "text": "Citrus infusion",
+     "level": 3
+    },
+    {
+     "text": "No milk",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ginger tea",
+    "Green tea",
+    "Iced tea"
+   ]
+  },
+  {
+   "word": "Yerba mate",
+   "hints": [
+    {
+     "text": "South american drink",
+     "level": 1
+    },
+    {
+     "text": "Herbal brew",
+     "level": 1
+    },
+    {
+     "text": "Shared in a gourd",
+     "level": 2
+    },
+    {
+     "text": "Gives energy",
+     "level": 2
+    },
+    {
+     "text": "Metal straw",
+     "level": 3
+    },
+    {
+     "text": "Bitter leaves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Green tea",
+    "Coffee",
+    "Matcha"
+   ]
+  },
+  {
+   "word": "Masala chai",
+   "hints": [
+    {
+     "text": "Indian drink",
+     "level": 1
+    },
+    {
+     "text": "Spiced tea",
+     "level": 1
+    },
+    {
+     "text": "Train station favorite",
+     "level": 2
+    },
+    {
+     "text": "Rainy day drink",
+     "level": 2
+    },
+    {
+     "text": "Cardamom and cloves",
+     "level": 3
+    },
+    {
+     "text": "Milky brew",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ginger tea",
+    "Coffee",
+    "Kahwa"
+   ]
+  },
+  {
+   "word": "Filter coffee",
+   "hints": [
+    {
+     "text": "South indian drink",
+     "level": 1
+    },
+    {
+     "text": "Caffeinated drink",
+     "level": 1
+    },
+    {
+     "text": "Poured between cups",
+     "level": 2
+    },
+    {
+     "text": "Morning ritual",
+     "level": 2
+    },
+    {
+     "text": "Frothy and strong",
+     "level": 3
+    },
+    {
+     "text": "Steel tumbler",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Espresso",
+    "Chai",
+    "Cappuccino"
+   ]
+  },
+  {
+   "word": "Turkish coffee",
+   "hints": [
+    {
+     "text": "Caffeinated drink",
+     "level": 1
+    },
+    {
+     "text": "Traditional brew",
+     "level": 1
+    },
+    {
+     "text": "Fortune telling grounds",
+     "level": 2
+    },
+    {
+     "text": "Served in tiny cups",
+     "level": 2
+    },
+    {
+     "text": "Unfiltered and thick",
+     "level": 3
+    },
+    {
+     "text": "Cooked in a pot",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Espresso",
+    "Filter coffee",
+    "Mocha"
+   ]
+  },
+  {
+   "word": "Decaf",
+   "hints": [
+    {
+     "text": "Coffee drink",
+     "level": 1
+    },
+    {
+     "text": "Mild drink",
+     "level": 1
+    },
+    {
+     "text": "Late night coffee",
+     "level": 2
+    },
+    {
+     "text": "Gentle on sleep",
+     "level": 2
+    },
+    {
+     "text": "Caffeine removed",
+     "level": 3
+    },
+    {
+     "text": "Same roasty taste",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Espresso",
+    "Herbal tea",
+    "Latte"
+   ]
+  },
+  {
+   "word": "Iced latte",
+   "hints": [
+    {
+     "text": "Cold drink",
+     "level": 1
+    },
+    {
+     "text": "Coffee drink",
+     "level": 1
+    },
+    {
+     "text": "Summer cafe order",
+     "level": 2
+    },
+    {
+     "text": "Served in clear cups",
+     "level": 2
+    },
+    {
+     "text": "Espresso over ice",
+     "level": 3
+    },
+    {
+     "text": "Lots of milk",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cold brew",
+    "Frappe",
+    "Iced tea"
+   ]
+  },
+  {
+   "word": "Cortado",
+   "hints": [
+    {
+     "text": "Coffee drink",
+     "level": 1
+    },
+    {
+     "text": "Spanish drink",
+     "level": 1
+    },
+    {
+     "text": "Small but strong",
+     "level": 2
+    },
+    {
+     "text": "Cafe favorite",
+     "level": 2
+    },
+    {
+     "text": "Equal espresso and milk",
+     "level": 3
+    },
+    {
+     "text": "Glass cup",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Macchiato",
+    "Flat white",
+    "Latte"
+   ]
+  },
+  {
+   "word": "Flat white",
+   "hints": [
+    {
+     "text": "Coffee drink",
+     "level": 1
+    },
+    {
+     "text": "Milky drink",
+     "level": 1
+    },
+    {
+     "text": "Popular down under",
+     "level": 2
+    },
+    {
+     "text": "Cafe order",
+     "level": 2
+    },
+    {
+     "text": "Velvety microfoam",
+     "level": 3
+    },
+    {
+     "text": "Double shot",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Latte",
+    "Cortado",
+    "Cappuccino"
+   ]
+  },
+  {
+   "word": "Affogato",
+   "hints": [
+    {
+     "text": "Coffee dessert",
+     "level": 1
+    },
+    {
+     "text": "Italian treat",
+     "level": 1
+    },
+    {
+     "text": "After dinner treat",
+     "level": 2
+    },
+    {
+     "text": "Served in small glass",
+     "level": 2
+    },
+    {
+     "text": "Espresso over ice cream",
+     "level": 3
+    },
+    {
+     "text": "Melty and bitter",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mocha",
+    "Float",
+    "Frappe"
+   ]
+  },
+  {
+   "word": "Cocoa",
+   "hints": [
+    {
+     "text": "Hot drink",
+     "level": 1
+    },
+    {
+     "text": "Winter drink",
+     "level": 1
+    },
+    {
+     "text": "Cozy night in",
+     "level": 2
+    },
+    {
+     "text": "Kids favorite",
+     "level": 2
+    },
+    {
+     "text": "Chocolate powder",
+     "level": 3
+    },
+    {
+     "text": "Stirred with milk",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Coffee",
+    "Chai",
+    "Malted milk"
+   ]
+  },
+  {
+   "word": "Soda float",
+   "hints": [
+    {
+     "text": "Dessert drink",
+     "level": 1
+    },
+    {
+     "text": "Diner treat",
+     "level": 1
+    },
+    {
+     "text": "Retro diner order",
+     "level": 2
+    },
+    {
+     "text": "Fizzy and creamy",
+     "level": 2
+    },
+    {
+     "text": "Scoop in fizz",
+     "level": 3
+    },
+    {
+     "text": "Long spoon",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Milkshake",
+    "Slushie",
+    "Smoothie"
+   ]
+  },
+  {
+   "word": "Snow cone",
+   "hints": [
+    {
+     "text": "Frozen treat",
+     "level": 1
+    },
+    {
+     "text": "Summer drink",
+     "level": 1
+    },
+    {
+     "text": "Sold at fairs",
+     "level": 2
+    },
+    {
+     "text": "Melts quickly",
+     "level": 2
+    },
+    {
+     "text": "Shaved ice",
+     "level": 3
+    },
+    {
+     "text": "Colorful syrup",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Slushie",
+    "Popsicle",
+    "Sorbet"
+   ]
+  },
+  {
+   "word": "Pink lemonade",
+   "hints": [
+    {
+     "text": "Cold drink",
+     "level": 1
+    },
+    {
+     "text": "Summer drink",
+     "level": 1
+    },
+    {
+     "text": "Picnic favorite",
+     "level": 2
+    },
+    {
+     "text": "Fair stand drink",
+     "level": 2
+    },
+    {
+     "text": "Rosy color",
+     "level": 3
+    },
+    {
+     "text": "Berry tint",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Limeade",
+    "Fruit punch",
+    "Iced tea"
+   ]
+  },
+  {
+   "word": "Mint water",
+   "hints": [
+    {
+     "text": "Infused drink",
+     "level": 1
+    },
+    {
+     "text": "Cooling drink",
+     "level": 1
+    },
+    {
+     "text": "Spa drink",
+     "level": 2
+    },
+    {
+     "text": "Very refreshing",
+     "level": 2
+    },
+    {
+     "text": "Fresh leaves infused",
+     "level": 3
+    },
+    {
+     "text": "Cool taste",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lemon water",
+    "Cucumber water",
+    "Iced tea"
+   ]
+  },
+  {
+   "word": "Cucumber water",
+   "hints": [
+    {
+     "text": "Infused drink",
+     "level": 1
+    },
+    {
+     "text": "Spa drink",
+     "level": 1
+    },
+    {
+     "text": "Served at spas",
+     "level": 2
+    },
+    {
+     "text": "Cool and light",
+     "level": 2
+    },
+    {
+     "text": "Green slices infused",
+     "level": 3
+    },
+    {
+     "text": "Very subtle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mint water",
+    "Lemon water",
+    "Coconut water"
+   ]
+  },
+  {
+   "word": "Oral rehydration",
+   "hints": [
+    {
+     "text": "Medical drink",
+     "level": 1
+    },
+    {
+     "text": "Recovery remedy",
+     "level": 1
+    },
+    {
+     "text": "Given when sick",
+     "level": 2
+    },
+    {
+     "text": "Replaces lost salts",
+     "level": 2
+    },
+    {
+     "text": "Salty and sweet",
+     "level": 3
+    },
+    {
+     "text": "Mixed from sachets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sports drink",
+    "Coconut water",
+    "Soda"
+   ]
+  },
+  {
+   "word": "Shikanji",
+   "hints": [
+    {
+     "text": "Indian drink",
+     "level": 1
+    },
+    {
+     "text": "Lemon cooler",
+     "level": 1
+    },
+    {
+     "text": "North indian favorite",
+     "level": 2
+    },
+    {
+     "text": "Summer street drink",
+     "level": 2
+    },
+    {
+     "text": "Roasted cumin",
+     "level": 3
+    },
+    {
+     "text": "Black salt",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nimbu pani",
+    "Lemonade",
+    "Jaljeera"
+   ]
+  },
+  {
+   "word": "Panakam",
+   "hints": [
+    {
+     "text": "South indian drink",
+     "level": 1
+    },
+    {
+     "text": "Festive drink",
+     "level": 1
+    },
+    {
+     "text": "Temple offering",
+     "level": 2
+    },
+    {
+     "text": "Summer cooler",
+     "level": 2
+    },
+    {
+     "text": "Jaggery and pepper",
+     "level": 3
+    },
+    {
+     "text": "Cardamom scented",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sharbat",
+    "Lemonade",
+    "Jaljeera"
+   ]
+  },
+  {
+   "word": "Neer mor",
+   "hints": [
+    {
+     "text": "South indian drink",
+     "level": 1
+    },
+    {
+     "text": "Spiced buttermilk",
+     "level": 1
+    },
+    {
+     "text": "Summer refresher",
+     "level": 2
+    },
+    {
+     "text": "Temple offering",
+     "level": 2
+    },
+    {
+     "text": "Curry leaves",
+     "level": 3
+    },
+    {
+     "text": "Thin and salty",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Buttermilk",
+    "Lassi",
+    "Jaljeera"
+   ]
+  },
+  {
+   "word": "Lychee juice",
+   "hints": [
+    {
+     "text": "Fruit drink",
+     "level": 1
+    },
+    {
+     "text": "Tropical drink",
+     "level": 1
+    },
+    {
+     "text": "Summer favorite",
+     "level": 2
+    },
+    {
+     "text": "Very fragrant",
+     "level": 2
+    },
+    {
+     "text": "Pale and sweet",
+     "level": 3
+    },
+    {
+     "text": "Floral fruit",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Coconut water",
+    "Pear juice",
+    "Grape juice"
+   ]
+  },
+  {
+   "word": "Guava juice",
+   "hints": [
+    {
+     "text": "Tropical drink",
+     "level": 1
+    },
+    {
+     "text": "Fruit drink",
+     "level": 1
+    },
+    {
+     "text": "Rich in vitamin c",
+     "level": 2
+    },
+    {
+     "text": "Thick and pulpy",
+     "level": 2
+    },
+    {
+     "text": "Pink or white",
+     "level": 3
+    },
+    {
+     "text": "Sweet and grainy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mango juice",
+    "Papaya juice",
+    "Pineapple juice"
+   ]
+  },
+  {
+   "word": "Plum juice",
+   "hints": [
+    {
+     "text": "Fruit drink",
+     "level": 1
+    },
+    {
+     "text": "Tart drink",
+     "level": 1
+    },
+    {
+     "text": "Helps digestion",
+     "level": 2
+    },
+    {
+     "text": "Dark and sweet",
+     "level": 2
+    },
+    {
+     "text": "Deep purple",
+     "level": 3
+    },
+    {
+     "text": "Stone fruit",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Grape juice",
+    "Cherry juice",
+    "Cranberry juice"
+   ]
+  },
+  {
+   "word": "Cherry juice",
+   "hints": [
+    {
+     "text": "Fruit drink",
+     "level": 1
+    },
+    {
+     "text": "Red drink",
+     "level": 1
+    },
+    {
+     "text": "Helps with sleep",
+     "level": 2
+    },
+    {
+     "text": "Tart variety",
+     "level": 2
+    },
+    {
+     "text": "Dark red",
+     "level": 3
+    },
+    {
+     "text": "Stone fruit",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cranberry juice",
+    "Grape juice",
+    "Pomegranate"
+   ]
+  },
+  {
+   "word": "Pear juice",
+   "hints": [
+    {
+     "text": "Fruit drink",
+     "level": 1
+    },
+    {
+     "text": "Mild drink",
+     "level": 1
+    },
+    {
+     "text": "Baby food staple",
+     "level": 2
+    },
+    {
+     "text": "Gentle sweet",
+     "level": 2
+    },
+    {
+     "text": "Pale gold",
+     "level": 3
+    },
+    {
+     "text": "Soft fruit",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Apple juice",
+    "Grape juice",
+    "Peach nectar"
+   ]
+  },
+  {
+   "word": "Peach nectar",
+   "hints": [
+    {
+     "text": "Fruit drink",
+     "level": 1
+    },
+    {
+     "text": "Thick drink",
+     "level": 1
+    },
+    {
+     "text": "Brunch favorite",
+     "level": 2
+    },
+    {
+     "text": "Velvety texture",
+     "level": 2
+    },
+    {
+     "text": "Orange pulp",
+     "level": 3
+    },
+    {
+     "text": "Stone fruit",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Apricot nectar",
+    "Mango juice",
+    "Pear juice"
+   ]
+  },
+  {
+   "word": "Apricot nectar",
+   "hints": [
+    {
+     "text": "Fruit drink",
+     "level": 1
+    },
+    {
+     "text": "Thick drink",
+     "level": 1
+    },
+    {
+     "text": "Sold in cans",
+     "level": 2
+    },
+    {
+     "text": "Velvety sweet",
+     "level": 2
+    },
+    {
+     "text": "Golden pulp",
+     "level": 3
+    },
+    {
+     "text": "Stone fruit",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Peach nectar",
+    "Mango juice",
+    "Orange juice"
+   ]
+  },
+  {
+   "word": "Papaya juice",
+   "hints": [
+    {
+     "text": "Tropical drink",
+     "level": 1
+    },
+    {
+     "text": "Fruit drink",
+     "level": 1
+    },
+    {
+     "text": "Good for digestion",
+     "level": 2
+    },
+    {
+     "text": "Breakfast drink",
+     "level": 2
+    },
+    {
+     "text": "Orange flesh",
+     "level": 3
+    },
+    {
+     "text": "Musky sweet",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mango juice",
+    "Guava juice",
+    "Carrot juice"
+   ]
+  },
+  {
+   "word": "Kiwi smoothie",
+   "hints": [
+    {
+     "text": "Green drink",
+     "level": 1
+    },
+    {
+     "text": "Blended drink",
+     "level": 1
+    },
+    {
+     "text": "Breakfast blend",
+     "level": 2
+    },
+    {
+     "text": "Tangy and fresh",
+     "level": 2
+    },
+    {
+     "text": "Bright green",
+     "level": 3
+    },
+    {
+     "text": "Tiny black seeds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spinach smoothie",
+    "Lime juice",
+    "Matcha latte"
+   ]
+  },
+  {
+   "word": "Spinach smoothie",
+   "hints": [
+    {
+     "text": "Green drink",
+     "level": 1
+    },
+    {
+     "text": "Healthy blend",
+     "level": 1
+    },
+    {
+     "text": "Hides your veggies",
+     "level": 2
+    },
+    {
+     "text": "Gym favorite",
+     "level": 2
+    },
+    {
+     "text": "Leafy greens blended",
+     "level": 3
+    },
+    {
+     "text": "Dark green",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kale juice",
+    "Kiwi smoothie",
+    "Wheatgrass"
+   ]
+  },
+  {
+   "word": "Hot cider",
+   "hints": [
+    {
+     "text": "Winter drink",
+     "level": 1
+    },
+    {
+     "text": "Warm drink",
+     "level": 1
+    },
+    {
+     "text": "Autumn fair favorite",
+     "level": 2
+    },
+    {
+     "text": "Spiced and steamy",
+     "level": 2
+    },
+    {
+     "text": "Mulled apples",
+     "level": 3
+    },
+    {
+     "text": "Cinnamon sticks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hot cocoa",
+    "Chai",
+    "Apple juice"
+   ]
+  },
+  {
+   "word": "Lime juice",
+   "hints": [
+    {
+     "text": "Citrus drink",
+     "level": 1
+    },
+    {
+     "text": "Sour drink",
+     "level": 1
+    },
+    {
+     "text": "Squeezed fresh",
+     "level": 2
+    },
+    {
+     "text": "Used in cooking",
+     "level": 2
+    },
+    {
+     "text": "Green citrus",
+     "level": 3
+    },
+    {
+     "text": "Very tart",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lemonade",
+    "Orange juice",
+    "Grapefruit"
+   ]
+  },
+  {
+   "word": "Grapefruit",
+   "hints": [
+    {
+     "text": "Citrus drink",
+     "level": 1
+    },
+    {
+     "text": "Bitter citrus",
+     "level": 1
+    },
+    {
+     "text": "Breakfast juice",
+     "level": 2
+    },
+    {
+     "text": "Diet favorite",
+     "level": 2
+    },
+    {
+     "text": "Pink inside",
+     "level": 3
+    },
+    {
+     "text": "Very tart",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Orange juice",
+    "Lime juice",
+    "Pomelo"
+   ]
+  },
+  {
+   "word": "Squash",
+   "hints": [
+    {
+     "text": "Concentrate drink",
+     "level": 1
+    },
+    {
+     "text": "British cordial",
+     "level": 1
+    },
+    {
+     "text": "Diluted with water",
+     "level": 2
+    },
+    {
+     "text": "Kids drink",
+     "level": 2
+    },
+    {
+     "text": "Fruit syrup",
+     "level": 3
+    },
+    {
+     "text": "Comes in bottles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cordial",
+    "Sharbat",
+    "Juice"
+   ]
+  },
+  {
+   "word": "Cordial",
+   "hints": [
+    {
+     "text": "Concentrate drink",
+     "level": 1
+    },
+    {
+     "text": "Sweet syrup",
+     "level": 1
+    },
+    {
+     "text": "Mixed with water",
+     "level": 2
+    },
+    {
+     "text": "Victorian drink",
+     "level": 2
+    },
+    {
+     "text": "Flower or fruit syrup",
+     "level": 3
+    },
+    {
+     "text": "Very sweet",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Squash",
+    "Sharbat",
+    "Lemonade"
+   ]
+  },
+  {
+   "word": "Taro tea",
+   "hints": [
+    {
+     "text": "Boba shop flavor",
+     "level": 1
+    },
+    {
+     "text": "Sweet drink",
+     "level": 1
+    },
+    {
+     "text": "Asian cafe order",
+     "level": 2
+    },
+    {
+     "text": "Purple color",
+     "level": 2
+    },
+    {
+     "text": "Root vegetable flavor",
+     "level": 3
+    },
+    {
+     "text": "Nutty and creamy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Thai tea",
+    "Milk tea",
+    "Matcha latte"
+   ]
+  },
+  {
+   "word": "Warm milk",
+   "hints": [
+    {
+     "text": "Bedtime drink",
+     "level": 1
+    },
+    {
+     "text": "Comforting drink",
+     "level": 1
+    },
+    {
+     "text": "Helps kids sleep",
+     "level": 2
+    },
+    {
+     "text": "Heated on stove",
+     "level": 2
+    },
+    {
+     "text": "Plain and creamy",
+     "level": 3
+    },
+    {
+     "text": "Sometimes with honey",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hot cocoa",
+    "Golden milk",
+    "Chai"
+   ]
+  },
+  {
+   "word": "Sweet tea",
+   "hints": [
+    {
+     "text": "Southern drink",
+     "level": 1
+    },
+    {
+     "text": "Cold drink",
+     "level": 1
+    },
+    {
+     "text": "Porch favorite",
+     "level": 2
+    },
+    {
+     "text": "Served by the jug",
+     "level": 2
+    },
+    {
+     "text": "Sugary brew",
+     "level": 3
+    },
+    {
+     "text": "Lots of ice",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lemonade",
+    "Iced coffee",
+    "Punch"
+   ]
+  },
+  {
+   "word": "Agua fresca",
+   "hints": [
+    {
+     "text": "Mexican drink",
+     "level": 1
+    },
+    {
+     "text": "Fruity cooler",
+     "level": 1
+    },
+    {
+     "text": "Sold at markets",
+     "level": 2
+    },
+    {
+     "text": "Big glass jars",
+     "level": 2
+    },
+    {
+     "text": "Blended fruit and water",
+     "level": 3
+    },
+    {
+     "text": "Light and sweet",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Horchata",
+    "Lemonade",
+    "Smoothie"
+   ]
+  },
+  {
+   "word": "Sikhye",
+   "hints": [
+    {
+     "text": "Korean drink",
+     "level": 1
+    },
+    {
+     "text": "Rice drink",
+     "level": 1
+    },
+    {
+     "text": "Served after meals",
+     "level": 2
+    },
+    {
+     "text": "Spa favorite",
+     "level": 2
+    },
+    {
+     "text": "Floating grains",
+     "level": 3
+    },
+    {
+     "text": "Malt sweetened",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Horchata",
+    "Barley tea",
+    "Kheer"
+   ]
+  },
+  {
+   "word": "Barley tea",
+   "hints": [
+    {
+     "text": "Korean drink",
+     "level": 1
+    },
+    {
+     "text": "Roasted brew",
+     "level": 1
+    },
+    {
+     "text": "Served instead of water",
+     "level": 2
+    },
+    {
+     "text": "Hot or cold",
+     "level": 2
+    },
+    {
+     "text": "Nutty grain taste",
+     "level": 3
+    },
+    {
+     "text": "Golden brown",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Corn tea",
+    "Green tea",
+    "Coffee"
+   ]
+  },
+  {
+   "word": "Corn tea",
+   "hints": [
+    {
+     "text": "Korean drink",
+     "level": 1
+    },
+    {
+     "text": "Roasted brew",
+     "level": 1
+    },
+    {
+     "text": "Caffeine free",
+     "level": 2
+    },
+    {
+     "text": "Nutty and sweet",
+     "level": 2
+    },
+    {
+     "text": "Roasted kernels",
+     "level": 3
+    },
+    {
+     "text": "Golden color",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Barley tea",
+    "Green tea",
+    "Rooibos"
+   ]
+  },
+  {
+   "word": "Yuzu tea",
+   "hints": [
+    {
+     "text": "Korean drink",
+     "level": 1
+    },
+    {
+     "text": "Citrus brew",
+     "level": 1
+    },
+    {
+     "text": "Winter cold remedy",
+     "level": 2
+    },
+    {
+     "text": "Made from marmalade",
+     "level": 2
+    },
+    {
+     "text": "Sweet citrus peel",
+     "level": 3
+    },
+    {
+     "text": "Spooned from jars",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lemon tea",
+    "Ginger tea",
+    "Honey water"
+   ]
+  },
+  {
+   "word": "Lemongrass tea",
+   "hints": [
+    {
+     "text": "Herbal drink",
+     "level": 1
+    },
+    {
+     "text": "Fragrant brew",
+     "level": 1
+    },
+    {
+     "text": "Thai kitchen herb",
+     "level": 2
+    },
+    {
+     "text": "Calming drink",
+     "level": 2
+    },
+    {
+     "text": "Grassy stalks",
+     "level": 3
+    },
+    {
+     "text": "Citrusy aroma",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ginger tea",
+    "Peppermint",
+    "Chamomile"
+   ]
+  },
+  {
+   "word": "Ginseng tea",
+   "hints": [
+    {
+     "text": "Herbal drink",
+     "level": 1
+    },
+    {
+     "text": "Korean remedy",
+     "level": 1
+    },
+    {
+     "text": "Boosts energy",
+     "level": 2
+    },
+    {
+     "text": "Pricey root",
+     "level": 2
+    },
+    {
+     "text": "Earthy bitter taste",
+     "level": 3
+    },
+    {
+     "text": "Gnarled root",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ginger tea",
+    "Green tea",
+    "Chamomile"
+   ]
+  },
+  {
+   "word": "Genmaicha",
+   "hints": [
+    {
+     "text": "Japanese brew",
+     "level": 1
+    },
+    {
+     "text": "Green blend",
+     "level": 1
+    },
+    {
+     "text": "Popcorn tea nickname",
+     "level": 2
+    },
+    {
+     "text": "Nutty aroma",
+     "level": 2
+    },
+    {
+     "text": "Toasted rice kernels",
+     "level": 3
+    },
+    {
+     "text": "Light green",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sencha",
+    "Matcha",
+    "Barley tea"
+   ]
+  },
+  {
+   "word": "Chicory coffee",
+   "hints": [
+    {
+     "text": "Caffeine substitute",
+     "level": 1
+    },
+    {
+     "text": "Roasted drink",
+     "level": 1
+    },
+    {
+     "text": "New orleans favorite",
+     "level": 2
+    },
+    {
+     "text": "Caffeine free",
+     "level": 2
+    },
+    {
+     "text": "Roasted root",
+     "level": 3
+    },
+    {
+     "text": "Bitter and woody",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Decaf",
+    "Barley tea",
+    "Espresso"
+   ]
+  },
+  {
+   "word": "Jigarthanda",
+   "hints": [
+    {
+     "text": "South indian drink",
+     "level": 1
+    },
+    {
+     "text": "Cooling drink",
+     "level": 1
+    },
+    {
+     "text": "Madurai specialty",
+     "level": 2
+    },
+    {
+     "text": "Summer treat",
+     "level": 2
+    },
+    {
+     "text": "Milk and almond gum",
+     "level": 3
+    },
+    {
+     "text": "Topped with ice cream",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Falooda",
+    "Milkshake",
+    "Rose milk"
+   ]
+  },
+  {
+   "word": "Sol kadhi",
+   "hints": [
+    {
+     "text": "Konkan drink",
+     "level": 1
+    },
+    {
+     "text": "Pink drink",
+     "level": 1
+    },
+    {
+     "text": "Served after seafood",
+     "level": 2
+    },
+    {
+     "text": "Aids digestion",
+     "level": 2
+    },
+    {
+     "text": "Coconut and kokum",
+     "level": 3
+    },
+    {
+     "text": "Pale pink",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Buttermilk",
+    "Rose milk",
+    "Lassi"
+   ]
+  },
+  {
+   "word": "Mango shake",
+   "hints": [
+    {
+     "text": "Sweet drink",
+     "level": 1
+    },
+    {
+     "text": "Summer drink",
+     "level": 1
+    },
+    {
+     "text": "Juice shop favorite",
+     "level": 2
+    },
+    {
+     "text": "Thick and fruity",
+     "level": 2
+    },
+    {
+     "text": "Blended pulp and milk",
+     "level": 3
+    },
+    {
+     "text": "Bright yellow",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Banana shake",
+    "Mango lassi",
+    "Smoothie"
+   ]
+  },
+  {
+   "word": "Vanilla shake",
+   "hints": [
+    {
+     "text": "Sweet drink",
+     "level": 1
+    },
+    {
+     "text": "Diner drink",
+     "level": 1
+    },
+    {
+     "text": "Classic order",
+     "level": 2
+    },
+    {
+     "text": "Thick and cold",
+     "level": 2
+    },
+    {
+     "text": "Pale cream color",
+     "level": 3
+    },
+    {
+     "text": "Bean specks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Strawberry shake",
+    "Chocolate milk",
+    "Malted milk"
+   ]
+  },
+  {
+   "word": "Tamarind drink",
+   "hints": [
+    {
+     "text": "Tangy cooler",
+     "level": 1
+    },
+    {
+     "text": "Street refresher",
+     "level": 1
+    },
+    {
+     "text": "Sold in markets",
+     "level": 2
+    },
+    {
+     "text": "Sweet and sour",
+     "level": 2
+    },
+    {
+     "text": "Brown pulp",
+     "level": 3
+    },
+    {
+     "text": "Pod fruit",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jaljeera",
+    "Lemonade",
+    "Kokum sharbat"
+   ]
+  },
+  {
+   "word": "Kokum sharbat",
+   "hints": [
+    {
+     "text": "Indian cooler",
+     "level": 1
+    },
+    {
+     "text": "Purple drink",
+     "level": 1
+    },
+    {
+     "text": "Coastal favorite",
+     "level": 2
+    },
+    {
+     "text": "Beats the heat",
+     "level": 2
+    },
+    {
+     "text": "Dried fruit rind",
+     "level": 3
+    },
+    {
+     "text": "Deep purple",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sol kadhi",
+    "Jaljeera",
+    "Rose milk"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,153 @@
+﻿@id animals
+@name Animals
+Lion | Wild animal; Big cat | Lives in a pride; Loud roar | Golden mane; Savanna king | Tiger; Leopard; Cheetah
+Tiger | Wild animal; Big cat | Jungle hunter; Endangered species | Orange with stripes; Loves to swim | Lion; Jaguar; Leopard
+Elephant | Huge mammal; Gentle giant | Great memory; Lives in herds | Long trunk; Ivory tusks | Rhino; Hippo; Mammoth
+Giraffe | African mammal; Tall animal | Eats tree leaves; Spotted coat | Very long neck; Tiny horns | Zebra; Camel; Okapi
+Zebra | African mammal; Grazing animal | Lives in herds; Related to horses | Black and white; Striped coat | Giraffe; Donkey; Horse
+Monkey | Clever mammal; Jungle animal | Swings from trees; Loves bananas | Long tail; Playful primate | Gorilla; Lemur; Chimpanzee
+Gorilla | Big primate; Forest mammal | Beats its chest; Very strong | Silverback leader; Knuckle walker | Chimpanzee; Orangutan; Baboon
+Kangaroo | Pouched mammal; Outback animal | Hops around; Carries baby joey | Powerful tail; Boxing legs | Koala; Wallaby; Wombat
+Koala | Tree mammal; Cuddly animal | Sleeps all day; Australian native | Eats eucalyptus; Fluffy ears | Panda; Sloth; Wombat
+Panda | Black and white; Bear species | Mostly in bamboo forests; Endangered icon | Eats bamboo; Eye patches | Koala; Polar bear; Raccoon
+Polar bear | Arctic mammal; Big predator | Hunts seals; Lives on ice | White fur; Strong swimmer | Penguin; Walrus; Panda
+Penguin | Flightless bird; Cold animal | Waddles around; Lives in colonies | Tuxedo look; Slides on belly | Puffin; Ostrich; Seal
+Dolphin | Sea mammal; Smart animal | Clicks and whistles; Swims in pods | Curved fin; Jumps through waves | Shark; Whale; Porpoise
+Shark | Sea predator; Ocean fish | Feared by swimmers; Never stops swimming | Rows of teeth; Dorsal fin | Dolphin; Barracuda; Orca
+Whale | Sea mammal; Ocean giant | Sings underwater; Migrates far | Blowhole spray; Huge tail fluke | Dolphin; Shark; Walrus
+Octopus | Sea creature; Soft animal | Very clever; Changes color | Eight arms; Squirts ink | Squid; Jellyfish; Cuttlefish
+Jellyfish | Sea creature; Drifting animal | Can sting you; No brain | Clear blobby body; Long tentacles | Octopus; Starfish; Coral
+Crab | Sea creature; Shelled animal | Lives on beaches; Has claws | Walks sideways; Pinching pincers | Lobster; Shrimp; Scorpion
+Lobster | Sea creature; Shellfish | Fancy seafood; Turns red when cooked | Big claws; Long antennae | Crab; Shrimp; Crayfish
+Turtle | Reptile; Slow animal | Lives very long; Lays eggs on beaches | Hard shell; Hides its head | Tortoise; Lizard; Snail
+Crocodile | Reptile; River predator | Lurks in water; Ancient creature | Powerful jaws; Scaly back | Alligator; Lizard; Komodo dragon
+Snake | Reptile; Legless animal | Sheds its skin; Can be venomous | Forked tongue; Slithers along | Lizard; Worm; Eel
+Frog | Amphibian; Pond animal | Starts as tadpole; Loud croaker | Long sticky tongue; Great jumper | Toad; Lizard; Newt
+Owl | Night bird; Bird of prey | Seen as wise; Silent flyer | Turns head around; Big round eyes | Hawk; Eagle; Bat
+Eagle | Bird of prey; Sky hunter | National symbol; Builds huge nests | Sharp talons; Sharp eyesight | Hawk; Falcon; Vulture
+Parrot | Colorful bird; Tropical bird | Can mimic speech; Popular pet | Curved beak; Bright feathers | Toucan; Macaw; Pigeon
+Peacock | Colorful bird; Showy bird | Shows off to mates; National bird somewhere | Fan of feathers; Eye spots | Turkey; Pheasant; Flamingo
+Flamingo | Wading bird; Tropical bird | Lives in flocks; Eats shrimp | Pink feathers; Stands on one leg | Heron; Stork; Pelican
+Ostrich | Flightless bird; Huge bird | Runs very fast; Lays giant eggs | Long neck; Buries head myth | Emu; Penguin; Turkey
+Bat | Night animal; Flying mammal | Sleeps upside down; Lives in caves | Echolocation; Leathery wings | Owl; Moth; Bird
+Wolf | Wild canine; Forest predator | Hunts in packs; Howls at night | Alpha leader; Grey fur | Fox; Coyote; Dog
+Fox | Wild canine; Clever animal | Sneaky trickster; Hunts at dusk | Bushy tail; Reddish fur | Wolf; Coyote; Raccoon
+Bear | Big mammal; Forest animal | Hibernates in winter; Loves honey | Sharp claws; Stands on hind legs | Wolf; Gorilla; Bison
+Deer | Forest mammal; Grazing animal | Shy and quick; Hunted for sport | Branching antlers; White tail | Moose; Elk; Antelope
+Moose | Forest mammal; Big deer | Lives in cold forests; Strong swimmer | Huge flat antlers; Dangling dewlap | Deer; Elk; Bison
+Rabbit | Small mammal; Furry pet | Breeds quickly; Loves carrots | Long ears; Fluffy tail | Hamster; Hare; Squirrel
+Squirrel | Small mammal; Tree climber | Stores food; Lives in parks | Bushy tail; Hoards acorns | Chipmunk; Rabbit; Rat
+Mouse | Small mammal; Tiny rodent | Loves cheese; Afraid of cats | Squeaky noise; Long thin tail | Rat; Hamster; Gerbil
+Hamster | Small mammal; Pocket pet | Runs on wheel; Kept in cages | Stuffs its cheeks; Tiny paws | Gerbil; Mouse; Guinea pig
+Horse | Farm animal; Riding animal | Gallops fast; Eats hay | Has hooves; Flowing mane | Donkey; Zebra; Pony
+Cow | Farm animal; Grazing animal | Gives milk; Says moo | Has udders; Chews cud | Buffalo; Goat; Sheep
+Pig | Farm animal; Muddy animal | Rolls in mud; Says oink | Curly tail; Pink snout | Boar; Sheep; Hippo
+Sheep | Farm animal; Woolly animal | Counted to sleep; Moves in flocks | Fluffy fleece; Says baa | Goat; Llama; Alpaca
+Goat | Farm animal; Climbing animal | Eats almost anything; Gives milk | Little beard; Curved horns | Sheep; Ibex; Deer
+Chicken | Farm bird; Poultry | Lays eggs; Clucks around | Red comb; Pecks seeds | Duck; Turkey; Pigeon
+Duck | Water bird; Pond bird | Says quack; Swims in ponds | Webbed feet; Flat bill | Goose; Swan; Chicken
+Swan | Water bird; Graceful bird | Mates for life; Glides on lakes | Long curved neck; White feathers | Goose; Duck; Pelican
+Camel | Desert animal; Riding animal | Survives without water; Carries loads | One or two humps; Long eyelashes | Llama; Horse; Donkey
+Llama | Andean animal; Woolly animal | Spits when annoyed; Pack animal | Long neck; Fluffy coat | Alpaca; Camel; Sheep
+Hippo | African mammal; River animal | Very dangerous; Wallows in water | Giant mouth; Barrel body | Rhino; Elephant; Walrus
+Rhino | African mammal; Armored animal | Endangered species; Charges at threats | Horn on nose; Thick grey skin | Hippo; Elephant; Triceratops
+Cheetah | Big cat; Wild hunter | Fastest on land; Hunts in daylight | Black tear marks; Spotted coat | Leopard; Lion; Jaguar
+Leopard | Big cat; Wild hunter | Drags prey up trees; Stealthy | Rosette spots; Golden coat | Cheetah; Jaguar; Tiger
+Sloth | Rainforest mammal; Tree dweller | Super slow; Sleeps a lot | Hangs upside down; Long claws | Koala; Monkey; Lemur
+Raccoon | Night animal; Clever mammal | Raids trash cans; Washes its food | Masked face; Ringed tail | Badger; Possum; Fox
+Skunk | Small mammal; Night animal | Smells terrible; Sprays when scared | Black with white stripe; Bushy tail | Raccoon; Badger; Weasel
+Hedgehog | Small mammal; Garden animal | Curls into ball; Eats insects | Covered in spines; Tiny snout | Porcupine; Mole; Hamster
+Porcupine | Rodent; Spiky animal | Defends itself well; Climbs trees | Sharp quills; Rattles its tail | Hedgehog; Armadillo; Beaver
+Beaver | Rodent; River animal | Builds dams; Busy worker | Flat paddle tail; Big front teeth | Otter; Muskrat; Squirrel
+Otter | River mammal; Playful animal | Holds hands sleeping; Uses rocks as tools | Floats on back; Thick fur | Beaver; Seal; Weasel
+Seal | Sea mammal; Marine animal | Barks loudly; Basks on rocks | Flippers; Whiskered face | Walrus; Manatee; Otter
+Walrus | Arctic mammal; Marine animal | Lives on ice floes; Very heavy | Long tusks; Bushy whiskers | Seal; Hippo; Elephant
+Butterfly | Insect; Flying bug | Starts as caterpillar; Visits flowers | Colorful wings; Thin antennae | Moth; Dragonfly; Bee
+Bee | Insect; Buzzing bug | Lives in a hive; Pollinates flowers | Makes honey; Has a stinger | Wasp; Hornet; Fly
+Ant | Insect; Tiny bug | Lives in colonies; Very hard working | Carries huge loads; Follows trails | Termite; Beetle; Spider
+Spider | Arachnid; Creepy crawly | Catches flies; Many people fear it | Eight legs; Spins webs | Scorpion; Ant; Tick
+Ladybug | Insect; Garden bug | Considered lucky; Eats aphids | Red with spots; Round shell | Beetle; Firefly; Bee
+Mosquito | Insect; Pesky bug | Spreads disease; Buzzes in ears | Itchy bites; Sucks blood | Fly; Gnat; Wasp
+Snail | Mollusk; Slow creature | Comes out in rain; Garden pest | Spiral shell; Slimy trail | Slug; Turtle; Clam
+Worm | Soil creature; Wriggly animal | Bait for fishing; Good for gardens | No legs; Lives underground | Snake; Caterpillar; Eel
+Scorpion | Arachnid; Desert creature | Glows under blacklight; Hides under rocks | Curved stinger; Pincers | Spider; Crab; Lobster
+Chameleon | Reptile; Tree lizard | Changes color; Moves slowly | Eyes move separately; Curly tail | Gecko; Iguana; Frog
+Iguana | Reptile; Large lizard | Basks in sun; Popular exotic pet | Spiky back; Dewlap under chin | Chameleon; Gecko; Komodo dragon
+Gecko | Reptile; Small lizard | Clings to walls; Makes chirping sounds | Sticky toe pads; Licks its eyes | Iguana; Chameleon; Newt
+Alligator | Reptile; Swamp predator | Lives in marshes; Ancient hunter | Rounded snout; Armored back | Crocodile; Lizard; Iguana
+Pelican | Water bird; Coastal bird | Dives for fish; Flies in lines | Big throat pouch; Long beak | Seagull; Stork; Heron
+Seagull | Coastal bird; Beach bird | Steals your chips; Loud squawks | White and grey; Hovers over waves | Pigeon; Pelican; Albatross
+Pigeon | City bird; Common bird | Carried messages; Gathers in squares | Cooing sound; Bobbing head | Dove; Sparrow; Seagull
+Crow | Black bird; Clever bird | Uses tools; Very loud caw | Shiny black feathers; Scares farmers | Raven; Magpie; Pigeon
+Hummingbird | Small flyer; Flower visitor | Drinks nectar; Hovers in place | Wings beat super fast; Long thin beak | Sparrow; Butterfly; Finch
+Woodpecker | Forest bird; Tree bird | Drums on trees; Eats insects | Strong pointy beak; Red head patch | Parrot; Toucan; Robin
+Toucan | Tropical bird; Rainforest bird | Eats fruit; Lives in canopy | Huge colorful beak; Black body | Parrot; Hornbill; Macaw
+Kiwi | Flightless bird; Island bird | Night forager; National symbol | Long thin beak; Fuzzy brown feathers | Emu; Ostrich; Penguin
+Vulture | Bird of prey; Scavenger | Circles overhead; Cleans up carcasses | Bald head; Broad wings | Eagle; Condor; Crow
+Swallow | Small bird; Migratory bird | Signals summer; Catches insects midair | Forked tail; Mud nests | Sparrow; Robin; Swift
+Goldfish | Aquarium pet; Freshwater swimmer | Kept in bowls; Short memory myth | Orange scales; Flowing fins | Guppy; Koi; Carp
+Salmon | Fish; River swimmer | Swims upstream; Popular seafood | Pink flesh; Leaps waterfalls | Trout; Tuna; Cod
+Tuna | Ocean fish; Seafood | Fast swimmer; Comes in cans | Huge and silver; Sushi favorite | Salmon; Swordfish; Mackerel
+Swordfish | Ocean swimmer; Big game catch | Very fast swimmer; Sport fishing prize | Long pointed bill; Sleek body | Marlin; Tuna; Shark
+Starfish | Sea creature; Tide pool animal | Regrows lost arms; Lives on reefs | Five arms; Pointy outline | Jellyfish; Sand dollar; Crab
+Seahorse | Sea creature; Tiny fish | Dad carries babies; Grips seagrass | Curled tail; Upright swimmer | Starfish; Eel; Shrimp
+Squid | Sea creature; Ocean dweller | Fried as calamari; Squirts ink | Ten arms; Torpedo body | Octopus; Cuttlefish; Jellyfish
+Eel | Sea creature; Long fish | Can give shocks; Hides in rocks | Slippery body; Snake shaped | Snake; Worm; Catfish
+Orca | Ocean predator; Sea mammal | Hunts in pods; Very intelligent | Black and white; Tall dorsal fin | Dolphin; Shark; Beluga
+Panther | Big cat; Wild hunter | Stealthy stalker; Night hunter | All black coat; Glowing eyes | Jaguar; Leopard; Puma
+Jaguar | Big cat; Rainforest hunter | Strong swimmer; Powerful bite | Spotted rosettes; Stocky body | Leopard; Cheetah; Tiger
+Hyena | African mammal; Scavenger | Sounds like laughing; Hunts in clans | Spotted fur; Strong jaws | Jackal; Wolf; Wild dog
+Meerkat | Desert mammal; Small animal | Lives in burrows; Takes turns on guard | Stands upright; Peeks around | Prairie dog; Mongoose; Squirrel
+Armadillo | Armored mammal; Desert animal | Digs burrows; Rolls into ball | Bony shell; Long snout | Hedgehog; Pangolin; Turtle
+Anteater | Odd mammal; South american animal | Eats termites; Has no teeth | Very long tongue; Long snout | Aardvark; Armadillo; Sloth
+Bison | Big mammal; Grazing animal | Roams prairies; Once nearly extinct | Shaggy hump; Short horns | Buffalo; Yak; Moose
+Buffalo | Big mammal; Grazing animal | Wallows in mud; Used on farms | Big curved horns; Dark hide | Bison; Cow; Yak
+Yak | Mountain mammal; Shaggy animal | Lives at high altitude; Pack animal | Long hairy coat; Big horns | Bison; Buffalo; Llama
+Donkey | Farm animal; Working animal | Very stubborn; Carries loads | Long ears; Loud bray | Horse; Mule; Zebra
+Mule | Farm animal; Hybrid animal | Sure footed; Carries packs | Long ears; Strong back | Donkey; Horse; Pony
+Pony | Small horse; Riding animal | Kids ride it; Shown at fairs | Short legs; Thick mane | Horse; Donkey; Foal
+Turkey | Farm bird; Large bird | Holiday dinner; Gobble sound | Fleshy wattle; Fan tail | Chicken; Peacock; Goose
+Goose | Water bird; Farm bird | Flies in vee shapes; Honks loudly | Long neck; Chases people | Duck; Swan; Pelican
+Rooster | Farm bird; Male bird | Crows at dawn; Wakes the farm | Big red comb; Colorful tail | Hen; Turkey; Pheasant
+Dog | Pet animal; Loyal companion | Wags its tail; Fetches balls | Barks loudly; Man's best friend | Cat; Wolf; Fox
+Cat | Pet animal; Furry companion | Purrs when happy; Loves naps | Has whiskers; Lands on feet | Dog; Rabbit; Ferret
+Parakeet | Small bird; Pet bird | Chirps all day; Lives in cages | Bright green feathers; Little beak | Canary; Parrot; Finch
+Canary | Small bird; Pet bird | Sweet singer; Once used in mines | Bright yellow; Tiny cage bird | Parakeet; Finch; Sparrow
+Guinea pig | Small rodent; Furry pet | Squeaks loudly; Lives in hutch | No tail; Chubby body | Hamster; Rabbit; Gerbil
+Ferret | Small mammal; Playful pet | Steals small items; Very curious | Long thin body; Masked face | Weasel; Otter; Mink
+Lizard | Reptile; Cold blooded | Basks in sun; Can drop its tail | Scaly skin; Darting tongue | Snake; Gecko; Salamander
+Tortoise | Reptile; Slow animal | Lives over a century; Wins a famous race | Domed shell; Land dweller | Turtle; Armadillo; Snail
+Toad | Amphibian; Garden animal | Lives on land; Eats bugs | Bumpy dry skin; Squat body | Frog; Newt; Lizard
+Salamander | Amphibian; Damp animal | Lives under logs; Regrows limbs | Moist skin; Lizard shaped | Newt; Lizard; Gecko
+Moth | Insect; Night bug | Drawn to lamps; Eats clothes | Dusty wings; Feathery antennae | Butterfly; Fly; Beetle
+Dragonfly | Insect; Pond bug | Ancient flyer; Darts over water | Four clear wings; Long thin body | Butterfly; Mosquito; Damselfly
+Grasshopper | Insect; Field bug | Chirps in summer; Big jumper | Powerful back legs; Green body | Cricket; Locust; Mantis
+Beetle | Insect; Crawling bug | Most common insect; Many species | Hard wing case; Shiny shell | Ladybug; Cockroach; Ant
+Firefly | Insect; Summer bug | Seen at dusk; Kids catch them | Glowing tail; Blinking light | Ladybug; Moth; Beetle
+Cockroach | Insect; Household pest | Survives anything; Scurries in kitchens | Brown and shiny; Long antennae | Beetle; Cricket; Ant
+Caterpillar | Larva; Crawling bug | Becomes a butterfly; Very hungry | Munches leaves; Soft segmented body | Worm; Slug; Centipede
+Koi | Pond fish; Ornamental fish | Symbol of luck; Lives in gardens | Orange and white; Big carp | Goldfish; Carp; Catfish
+Lemur | Primate; Island animal | Lives in trees; Sunbathes in groups | Ringed tail; Big orange eyes | Monkey; Sloth; Raccoon
+Chimpanzee | Primate; Clever ape | Uses tools; Close human relative | Expressive face; Long arms | Gorilla; Monkey; Orangutan
+Orangutan | Great ape; Rainforest primate | Lives alone in trees; Very smart | Shaggy orange hair; Very long arms | Gorilla; Chimpanzee; Gibbon
+Mole | Small mammal; Burrowing animal | Digs tunnels; Nearly blind | Big digging paws; Velvety fur | Hedgehog; Shrew; Gopher
+Badger | Burrowing mammal; Night animal | Lives in setts; Fierce fighter | Striped face; Stocky body | Raccoon; Skunk; Wolverine
+Coyote | Wild canine; Desert animal | Howls at night; Clever survivor | Pointed ears; Scrappy fur | Wolf; Fox; Jackal
+Antelope | Grazing animal; Plains animal | Very fast runner; Lives in herds | Spiral horns; Slender legs | Deer; Gazelle; Impala
+Gazelle | Grazing animal; Plains animal | Leaps high; Prey for cheetahs | Graceful legs; Ringed horns | Antelope; Deer; Impala
+Platypus | Odd mammal; River animal | Lays eggs; Has venom spurs | Duck bill; Beaver tail | Otter; Beaver; Duck
+Pangolin | Scaly mammal; Endangered animal | Rolls into ball; Eats ants | Covered in scales; Long tongue | Armadillo; Anteater; Hedgehog
+Komodo dragon | Giant lizard; Reptile | Island predator; Venomous bite | Forked tongue; Heavy tail | Iguana; Crocodile; Alligator
+Mongoose | Small mammal; Quick hunter | Fights cobras; Very fast | Slim body; Bushy tail | Meerkat; Weasel; Ferret
+Cobra | Snake; Venomous reptile | Charmed by flutes; Spits venom | Spreads a hood; Rises up | Python; Viper; Mamba
+Python | Snake; Big reptile | Squeezes its prey; Not venomous | Very long body; Patterned scales | Cobra; Boa; Anaconda
+Hen | Farm bird; Female bird | Lays eggs; Sits on nest | Clucks softly; Pecks seeds | Rooster; Duck; Goose
+Lamb | Young animal; Farm baby | Born in spring; Follows its mother | Soft woolly coat; Bleats softly | Calf; Kid; Foal
+Puppy | Young animal; Pet baby | Chews everything; Very playful | Floppy ears; Tiny barks | Kitten; Cub; Foal
+Kitten | Young animal; Pet baby | Chases string; Very playful | Tiny whiskers; Soft mews | Puppy; Cub; Bunny
+Raven | Black bird; Clever bird | Symbol of mystery; Mimics sounds | Shaggy throat feathers; Deep croak | Crow; Magpie; Blackbird
+Robin | Small bird; Garden bird | Sign of spring; Pulls up worms | Red breast; Cheerful song | Sparrow; Finch; Bluebird
+Sparrow | Small bird; Common bird | Hops on ground; Lives near people | Brown and streaky; Chirpy song | Robin; Finch; Wren
+Heron | Wading bird; Water bird | Stands very still; Spears fish | Long legs; Dagger beak | Stork; Crane; Flamingo
+Stork | Wading bird; Large bird | Delivers babies myth; Nests on rooftops | Long red beak; White plumage | Heron; Crane; Pelican
+Wombat | Pouched mammal; Burrowing animal | Australian native; Digs big tunnels | Cube shaped droppings; Stocky body | Koala; Badger; Beaver

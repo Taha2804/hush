@@ -1,0 +1,13 @@
+@id mythical
+@name Mythical Creatures
+Mandrake | Magical plant; Folklore root | Screams when pulled; Potion ingredient | Human shaped root; Earmuffs needed | Mushroom; Ginseng; Bonsai
+Homunculus | Alchemy creature; Tiny artificial being | Made in flasks; Medieval alchemy | Miniature person; Grown in glass | Golem; Changeling; Imp
+Basilisk king | Serpent ruler; Crowned reptile | Stare turns to stone; Ancient bestiary | Golden crown; Venomous fangs | Cockatrice; Hydra; Naga
+Qilin | Chinese beast; Lucky creature | Arrives with sages; Gentle step | Scaly body; Single horn | Kirin; Unicorn; Pegasus
+Hellcat | Demonic feline; Underworld beast | Witches companion; Curses | Fiery eyes; Black fur | Hellhound; Werewolf; Gremlin
+Gryphon chick | Young beast; Hybrid hatchling | Fantasy pet; Hatched from egg | Fluffy feathers; Tiny talons | Phoenix; Pegasus; Hippogriff
+Drake | Wingless dragon; Fire reptile | Fantasy games; Cave dweller | Scaly body; Breathes flame | Wyvern; Dragon; Basilisk
+Wyrm | Serpent dragon; Ancient worm | Norse sagas; Treasure hoarder | Legless coils; Poisonous breath | Wyvern; Drake; Hydra
+Werecat | Shapeshifter; Feline beast | Moonlit change; Folklore across cultures | Cat eyes; Sharp claws | Werewolf; Kitsune; Skinwalker
+Mermaid queen | Ocean royalty; Sea monarch | Undersea palace; Commands tides | Pearl crown; Shimmering tail | Siren; Selkie; Triton
+Harpy eagle | Real bird; Named after monster | Rainforest raptor; Huge talons | Feathered crest; Powerful grip | Condor; Falcon; Hawk

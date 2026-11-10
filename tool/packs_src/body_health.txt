@@ -1,0 +1,149 @@
+@id body_health
+@name Body & Health
+Heart | Organ; Vital organ | Pumps blood; Symbol of love | Beats per minute; Four chambers | Lungs; Liver; Kidney
+Brain | Organ; Control center | Thinks and remembers; Very complex | Wrinkly folds; Inside the skull | Heart; Spine; Nerves
+Lungs | Organs; Breathing organs | Fill with air; Smoking harms them | Pair in chest; Alveoli sacs | Heart; Kidneys; Ribs
+Liver | Organ; Filter organ | Cleans the blood; Can regrow | Largest internal organ; Right side | Kidney; Stomach; Pancreas
+Kidney | Organ; Filter organ | Makes urine; Pair of them | Bean shaped; Lower back | Liver; Bladder; Lungs
+Stomach | Organ; Digestive organ | Growls when hungry; Butterflies feeling | Acidic juices; Stretchy pouch | Intestine; Liver; Esophagus
+Skin | Organ; Body covering | Sunburns; Goosebumps | Largest organ; Pores and freckles | Hair; Nails; Muscle
+Bone | Body part; Skeleton piece | Breaks in falls; Dogs chew them | Hard and white; Calcium rich | Cartilage; Muscle; Tooth
+Skeleton | Body frame; Bone structure | Halloween decoration; Holds you up | Two hundred bones; Skull and ribs | Muscle; Spine; Ribcage
+Skull | Head bone; Cranium | Pirate flags; Protects the brain | Eye sockets; Jaw bone | Spine; Ribcage; Pelvis
+Spine | Back bone; Vertebral column | Good posture; Back pain | Stacked vertebrae; Spinal cord | Ribcage; Pelvis; Skull
+Muscle | Body tissue; Strength source | Gym workouts; Gets sore | Biceps and triceps; Contracts | Bone; Tendon; Fat
+Blood | Body fluid; Red liquid | Donated at drives; Flows in veins | Red cells; Plasma | Plasma; Lymph; Sweat
+Vein | Blood vessel; Body tube | Blue under skin; Draws blood | Carries to heart; Valves inside | Artery; Capillary; Nerve
+Nerve | Body wire; Signal carrier | Tingling limbs; Feeling pain | Electrical messages; Spinal connections | Vein; Muscle; Tendon
+Eye | Sense organ; Vision organ | Blinking; Saline drops | Iris and pupil; Eyelashes | Ear; Nose; Mouth
+Ear | Sense organ; Hearing organ | Earrings; Wax builds up | Eardrum; Lobe | Eye; Nose; Mouth
+Nose | Sense organ; Smell organ | Sneezing; Runny colds | Nostrils; Bridge on face | Mouth; Ear; Chin
+Mouth | Face part; Eating opening | Talking and eating; Smiles | Lips and teeth; Tongue inside | Nose; Throat; Chin
+Tongue | Muscle organ; Taste organ | Sticking it out; Taste buds | Pink and wet; Licks lollipops | Lips; Teeth; Throat
+Teeth | Mouth parts; Chewing tools | Brushed twice daily; Dentist visits | Enamel and molars; Biting | Gums; Tongue; Jaw
+Hair | Body fiber; Head covering | Salon visits; Messy mornings | Strands and roots; Grows constantly | Fur; Skin; Nails
+Fingernail | Body part; Hand tip | Painted with polish; Bitten when nervous | Keratin layer; Grows slowly | Toenail; Claw; Skin
+Hand | Body part; Limb end | Shake to greet; Wave hello | Five fingers; Palm and knuckles | Foot; Arm; Paw
+Foot | Body part; Limb end | Walking and running; Ticklish soles | Toes and heel; Arch | Hand; Leg; Ankle
+Knee | Body joint; Leg joint | Scraped as kids; Praying position | Patella; Bends the leg | Elbow; Ankle; Hip
+Elbow | Body joint; Arm joint | Funny bone; Leaning on tables | Bends the arm; Pointy tip | Knee; Wrist; Shoulder
+Shoulder | Body joint; Upper limb joint | Carries bags; Shrugging | Ball and socket; Collarbone | Hip; Elbow; Neck
+Neck | Body part; Head support | Scarves and ties; Stiff mornings | Throat and nape; Turns the head | Shoulder; Spine; Chin
+Belly button | Body mark; Navel | Leftover from birth; Innie or outie | Center of tummy; Small dimple | Nipple; Freckle; Dimple
+Thumb | Digit; Hand part | Approval gesture; Hitchhiking | Opposable; Short and wide | Finger; Toe; Wrist
+Wrist | Body joint; Hand joint | Wears watches; Sprained easily | Pulse point; Small bones | Ankle; Elbow; Knuckle
+Ankle | Body joint; Foot joint | Twisted in sports; Socks cover | Above the foot; Bony bumps | Wrist; Knee; Heel
+Heel | Foot part; Back of foot | Blisters from shoes; Achilles | Rounded bone; Hits ground first | Toe; Ankle; Sole
+Eyebrow | Face feature; Hair arch | Raised in surprise; Plucked or threaded | Above the eye; Thin hair line | Eyelash; Beard; Forehead
+Eyelash | Face feature; Lid hair | Make a wish; Mascara | Curled hairs; Protects eyes | Eyebrow; Eyelid; Whisker
+Fever | Illness sign; High temperature | Thermometer check; Sweats and chills | Hot forehead; Body fighting infection | Cold; Flu; Headache
+Cold | Common illness; Sniffles | Runny nose; Tissues everywhere | Sneezing; Sore throat | Flu; Fever; Allergy
+Flu | Illness; Seasonal virus | Annual vaccine; Bedridden days | Aches and fever; Chills | Cold; Fever; Measles
+Cough | Symptom; Throat reflex | Cover your mouth; Syrup helps | Hacking sound; Tickly throat | Sneeze; Hiccup; Yawn
+Sneeze | Body reflex; Nose burst | Bless you; Pepper triggers it | Achoo; Tissue needed | Cough; Hiccup; Yawn
+Hiccup | Body reflex; Diaphragm spasm | Scare them away; Hold breath cure | Squeaky jolts; Repeating | Burp; Sneeze; Cough
+Yawn | Body reflex; Tired sign | Contagious; Boring meetings | Wide open mouth; Stretching jaw | Sneeze; Sigh; Hiccup
+Headache | Pain; Temple pain | Too much screen time; Painkillers | Throbbing temples; Pressure | Migraine; Fever; Toothache
+Toothache | Pain; Mouth pain | Dentist needed; Cavities | Throbbing jaw; Sensitive to cold | Headache; Earache; Stomach ache
+Allergy | Immune reaction; Sensitivity | Pollen season; Peanut warnings | Itchy eyes; Sneezing fits | Cold; Rash; Asthma
+Asthma | Breathing condition; Lung condition | Inhalers; Wheezing | Tight airways; Puffer | Allergy; Bronchitis; Cough
+Rash | Skin problem; Red patches | Allergic reactions; Itchy | Bumpy skin; Ointment | Bruise; Blister; Pimple
+Bruise | Skin mark; Injury sign | Bumping into tables; Turns colors | Purple patch; Tender spot | Scar; Cut; Rash
+Scar | Skin mark; Healed wound | Stories behind them; Fades over time | Raised line; Lighter skin | Bruise; Freckle; Tattoo
+Blister | Skin bubble; Friction injury | New shoes; Do not pop | Fluid filled; Sore heel | Bruise; Pimple; Rash
+Pimple | Skin spot; Acne bump | Teen years; Popping temptation | Red bump; White head | Freckle; Blister; Mole
+Freckle | Skin spot; Sun mark | Summer faces; Cute dots | Tiny brown dots; Across the nose | Mole; Dimple; Pimple
+Sunburn | Skin injury; Sun damage | Forgot sunscreen; Beach days | Red and peeling; Stings | Tan; Rash; Blister
+Broken bone | Injury; Fracture | Cast signing; Ski accidents | X ray picture; Splint | Sprain; Bruise; Dislocation
+Sprain | Injury; Twisted joint | Ankle rolls; Ice packs | Swollen ligament; Bandaged | Fracture; Bruise; Cramp
+Cramp | Muscle pain; Sudden tightness | Swimming warnings; Night leg pain | Knotted muscle; Stretch it out | Sprain; Stitch; Spasm
+Bandage | Medical supply; Wound cover | Wrapped around cuts; First aid kit | Sticky strip; Gauze | Plaster; Cast; Sling
+Cast | Medical support; Hard wrap | Friends sign it; Broken arm | Plaster shell; Itchy inside | Sling; Splint; Bandage
+Crutches | Mobility aid; Walking support | Leg injuries; Hopping around | Armpit pads; Pair of poles | Wheelchair; Walker; Cane
+Wheelchair | Mobility aid; Rolling seat | Accessibility ramps; Hospitals | Big wheels; Push handles | Crutches; Walker; Scooter
+Stethoscope | Medical tool; Listening device | Doctors wear it; Cold on chest | Ear tubes; Round chest piece | Thermometer; Syringe; Otoscope
+Thermometer | Medical tool; Temperature gauge | Under the tongue; Fever check | Digital beep; Degrees reading | Stethoscope; Barometer; Scale
+Syringe | Medical tool; Injection device | Vaccines; Nervous patients | Sharp needle; Plunger | Pill; Inhaler; Scalpel
+Vaccine | Medicine; Immunization | Prevents disease; Booster shots | Injected dose; Builds immunity | Antibiotic; Vitamin; Pill
+Pill | Medicine; Tablet | Swallowed with water; Daily dose | Small capsule; Prescription bottle | Syrup; Injection; Vitamin
+Vitamin | Nutrient; Supplement | Gummies for kids; Healthy diet | Daily tablets; Citrus source | Mineral; Protein; Pill
+Ambulance | Emergency vehicle; Medical van | Rushes to hospital; Flashing lights | Siren wail; Stretcher inside | Fire truck; Police car; Taxi
+Medicine box | Medical kit; Emergency supplies | Camping essential; Cuts and scrapes | Red cross sign; Bandages inside | Toolbox; Lunchbox; Medicine cabinet
+Surgery | Medical procedure; Operation | Anesthesia; Recovery time | Scalpel and stitches; Operating room | Checkup; Therapy; Vaccination
+Stitches | Wound closure; Sutures | After deep cuts; Removed later | Thread in skin; Tiny knots | Bandage; Staples; Cast
+X-ray | Medical image; Bone scan | Broken bone check; Dentist pictures | See through photo; Lead apron | Ultrasound; Scan; Photograph
+Checkup | Doctor visit; Health exam | Yearly appointment; Say ahh | Weight and height; Blood pressure | Surgery; Vaccination; Therapy
+Pulse | Heartbeat sign; Vital sign | Checked at wrist; Races when scared | Beats per minute; Throbbing | Breath; Blood pressure; Temperature
+Breath | Air intake; Respiration | Hold it underwater; Slow inhales calm | Inhale and exhale; Lungs fill | Pulse; Sigh; Yawn
+Sweat | Body fluid; Perspiration | Hot days; Workouts | Salty drops; Armpits | Tears; Saliva; Blood
+Tears | Body fluid; Eye drops | Crying; Onion chopping | Salty droplets; Down the cheeks | Sweat; Saliva; Rain
+Saliva | Body fluid; Spit | Mouth watering; Helps digestion | Drool; Clear liquid | Sweat; Tears; Mucus
+Sleep | Rest state; Nightly rest | Eight hours; Bedtime | Dreams and snoring; Eyes closed | Nap; Coma; Rest
+Dream | Sleep vision; Night story | Wake up confused; Nightmares | Images while asleep; Surreal | Nightmare; Vision; Memory
+Nightmare | Bad dream; Scary sleep | Wake up sweating; Monsters chase | Frightening visions; Sleep terror | Dream; Vision; Phobia
+Snoring | Sleep noise; Nasal sound | Partners complain; Loud nights | Rumbling breath; Open mouth | Yawning; Sneezing; Whistling
+Exercise | Physical activity; Workout | Gym routines; Keeps you fit | Sweat and stretching; Push ups | Rest; Diet; Sport
+Diet | Eating plan; Food habits | New year goals; Calorie counting | Healthy meals; Portion control | Exercise; Fasting; Feast
+Fasting | Not eating; Food break | Religious practice; Intermittent trend | Empty stomach; Skipped meals | Diet; Feast; Snacking
+Meditation | Mind practice; Calm technique | Stress relief; Quiet mornings | Closed eyes; Breathing focus | Yoga; Prayer; Sleep
+Yoga | Mind body exercise; Stretching practice | Mats in studios; Calm breathing | Downward dog; Lotus pose | Pilates; Meditation; Aerobics
+Massage | Body therapy; Relaxing rub | Spa treatment; Sore muscles | Kneading hands; Scented oil | Acupuncture; Stretching; Facial
+Hospital bed | Medical furniture; Patient cot | Recovery rooms; Adjustable | Rails on sides; Wheels | Stretcher; Couch; Cot
+Doctor | Medical professional; Healer | Writes prescriptions; White coat | Stethoscope; Clinic visits | Nurse; Dentist; Surgeon
+Nurse | Medical professional; Caregiver | Night shifts; Takes temperature | Scrubs; Hospital wards | Doctor; Paramedic; Midwife
+Dentist | Tooth doctor; Oral specialist | Check ups; Fillings | Drill sound; Reclining chair | Doctor; Orthodontist; Hygienist
+Braces | Dental device; Teeth straightener | Teen years; Tightened monthly | Metal brackets; Rubber bands | Retainer; Dentures; Crown
+Glasses | Vision aid; Eyewear | Reading help; Smudged lenses | Frames and lenses; Rests on nose | Contact lenses; Monocle; Goggles
+Contact lenses | Vision aid; Eye discs | Instead of glasses; Daily wear | Tiny clear discs; On the eyeball | Glasses; Eye drops; Monocle
+Hearing aid | Medical device; Ear device | Elderly users; Volume boost | Behind the ear; Tiny battery | Earbuds; Headphones; Earplugs
+Inhaler | Medical device; Breathing aid | Asthma relief; Carried everywhere | Puffer; Mouthpiece | Nebulizer; Pill; Syrup
+Germ | Microbe; Tiny invader | Wash your hands; Spreads illness | Bacteria or virus; Microscopic | Virus; Bacteria; Fungus
+Virus | Microbe; Infectious agent | Colds and flu; Spreads fast | Tiny particle; Needs a host | Bacteria; Germ; Fungus
+Bacteria | Microbes; Single cells | Good and bad types; Antibiotics fight | Rod or round shapes; Petri dishes | Virus; Fungus; Germ
+Immune system | Body defense; Protector network | Fights infection; Vaccines train it | White blood cells; Antibodies | Nervous system; Lymph; Skin
+Calories | Energy units; Food energy | Diet counting; Burned in workouts | Nutrition labels; Energy counts | Protein; Vitamins; Carbs
+Protein | Nutrient; Muscle builder | Gym shakes; Eggs and meat | Amino acids; Repairs tissue | Carbs; Fat; Fiber
+Hydration | Water intake; Fluid balance | Drink eight glasses; Hot days | Water bottles; Clear urine | Diet; Sleep; Exercise
+Posture | Body position; Stance | Sit up straight; Back pain | Shoulders back; Spine aligned | Balance; Gait; Flexibility
+Flexibility | Body range; Stretchiness | Yoga goal; Gymnasts excel | Touch your toes; Splits | Strength; Balance; Posture
+Balance | Body control; Stability | Standing on one foot; Tightrope | Inner ear; Core strength | Posture; Flexibility; Coordination
+Heartbeat | Body rhythm; Cardiac pulse | Races when nervous; Doctors listen | Thump thump; Steady rhythm | Breath; Pulse; Blink
+Blink | Eye reflex; Quick shut | Hundreds a day; Staring contests | Eyelids close; Moistens eyes | Wink; Yawn; Sneeze
+Goosebumps | Skin reaction; Shiver reaction | Cold or scared; Spine tingles | Raised hairs; Bumpy arms | Rash; Shiver; Chills
+Dimple | Face feature; Cheek dent | Cute smiles; Inherited | Small hollow; Appears when smiling | Freckle; Mole; Wrinkle
+Wrinkle | Skin line; Aging sign | Laugh lines; Anti aging creams | Creases; Around the eyes | Dimple; Scar; Freckle
+Mole | Skin spot; Dark mark | Checked by doctors; Beauty mark | Brown dot; Raised or flat | Freckle; Pimple; Wart
+Wart | Skin growth; Bumpy spot | Witches noses; Frozen off | Rough bump; Viral cause | Mole; Pimple; Blister
+Callus | Hard skin; Thick patch | Guitar players; Manual work | Rough toughened spot; Fingertips or feet | Blister; Wart; Corn
+Earwax | Ear secretion; Ear gunk | Cotton buds; Protects ears | Yellowish; Sticky | Mucus; Saliva; Dandruff
+Dandruff | Scalp flakes; Hair problem | Special shampoo; Dark shoulders show it | White flakes; Itchy scalp | Earwax; Lice; Dry skin
+Lice | Hair pests; Head bugs | School outbreaks; Fine combs | Tiny insects; Nits | Fleas; Ticks; Dandruff
+Burp | Body sound; Gas release | After fizzy drinks; Babies need it | Loud from mouth; Excuse me | Hiccup; Sneeze; Yawn
+Appetite | Hunger feeling; Desire to eat | Grows with exercise; Lost when sick | Rumbling tummy; Craving | Thirst; Hunger; Taste
+Thirst | Body need; Desire to drink | Hot days; Dry mouth | Craving water; Parched | Hunger; Appetite; Hydration
+Fatigue | Tiredness; Low energy | After long days; Needs rest | Heavy eyelids; Sluggish | Insomnia; Stress; Boredom
+Stress | Mental strain; Pressure | Deadlines; Exams | Tension headaches; Racing thoughts | Anxiety; Fatigue; Anger
+Anxiety | Worry; Nervous feeling | Before exams; Panic | Racing heart; Restless | Stress; Fear; Excitement
+Laughter | Joyful sound; Happy reaction | Best medicine; Contagious | Belly laughs; Giggles | Crying; Smiling; Cheering
+Tickle | Light touch; Giggle trigger | Feet and armpits; Siblings tease | Wiggly fingers; Squirming | Itch; Pinch; Massage
+Itch | Skin feeling; Urge to scratch | Mosquito bites; Wool sweaters | Scratching; Irritated skin | Tickle; Rash; Sting
+Puberty | Life stage; Teen changes | Growth spurts; Voice cracks | Hormones; Body changes | Childhood; Adulthood; Old age
+Pregnancy | Life stage; Expecting baby | Baby bump; Cravings | Nine months; Ultrasound scans | Birth; Infancy; Puberty
+Old age | Life stage; Senior years | Retirement; Grandchildren | Grey hair; Walking stick | Youth; Childhood; Middle age
+Childhood | Life stage; Early years | Playgrounds; Bedtime stories | Toys and school; Growing up | Adulthood; Infancy; Puberty
+Physiotherapy | Treatment; Rehab sessions | After injuries; Exercise plans | Stretching bands; Massage tables | Surgery; Massage; Yoga
+Acupuncture | Alternative therapy; Needle treatment | Ancient chinese medicine; Pain relief | Thin needles; Pressure points | Massage; Reflexology; Yoga
+Therapy | Treatment; Counseling | Talking it out; Weekly sessions | Couch and notepad; Therapist | Medicine; Meditation; Surgery
+Pharmacy | Medicine shop; Chemist | Prescriptions filled; Cough syrup | Pill bottles; Counter | Hospital; Clinic; Supermarket
+Ward | Hospital room; Patient area | Visiting hours; Rows of beds | Curtains around beds; Nurses station | Clinic; Theater; Waiting room
+Waiting room | Clinic area; Lobby | Old magazines; Name called | Rows of chairs; Reception desk | Ward; Office; Lounge
+Blood pressure | Vital sign; Circulation measure | Cuff on arm; High or low | Two numbers; Squeezing band | Pulse; Temperature; Heartbeat
+Blood test | Medical check; Lab check | Fasting before; Needle prick | Labeled vials; Lab results | Urine test; X-ray; Checkup
+Eye test | Vision exam; Optician check | Read the chart; New glasses | Covering one side; Rows shrink | Hearing test; Blood test; Checkup
+Hearing test | Ear exam; Audiology check | Beeping sounds; Raise your hand | Headphones on; Soundproof booth | Eye test; Blood test; Checkup
+Plaster | Wound cover; Sticky strip | Small cuts; Kids cartoon prints | Adhesive edges; Padded middle | Bandage; Cast; Tape
+Sling | Arm support; Fabric hammock | Broken arm; Shoulder injury | Tied around neck; Cradles arm | Cast; Splint; Crutches
+Splint | Medical support; Rigid brace | First aid for fractures; Finger injuries | Stiff strip; Taped on | Cast; Sling; Bandage
+Ointment | Medical cream; Skin salve | Rashes and burns; Rubbed in | Greasy cream; Small tube | Lotion; Bandage; Pill
+Cough syrup | Liquid medicine; Throat remedy | Bedtime dose; Bad taste | Sticky spoonful; Cherry flavor | Lozenge; Pill; Honey
+Lozenge | Throat sweet; Medicated candy | Sore throats; Sucked slowly | Menthol taste; Wrapped drops | Cough syrup; Mint; Pill

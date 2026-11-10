@@ -1,0 +1,12 @@
+@id holidays
+@name Holidays & Festivals
+Hogmanay | Scottish celebration; Year end party | First footing visitors; Street parties | Bagpipes at midnight; Torchlight procession | Christmas eve; Bonfire night; Burns night
+Burns night | Scottish celebration; Poetry supper | Haggis is piped in; Recited verses | Kilts and tartan; Address to haggis | Hogmanay; Saint patrick; Bonfire night
+Beltane | Gaelic festival; Spring celebration | Bonfires on hills; Maypole dances | Flower crowns; Ancient rites | Samhain; Midsummer; Easter
+Vesak | Buddhist festival; Enlightenment celebration | Temple visits; Releasing birds | Paper lanterns; Monks chanting | Buddha purnima; Diwali; Lantern festival
+Navroz | Persian new year; Spring celebration | Table of seven items; Jumping over fires | Sprouted grains; Painted eggs | Diwali; Tet; Baisakhi
+Sukkot | Jewish festival; Harvest celebration | Eating in huts; Week long | Leafy roofs; Palm fronds | Passover; Hanukkah; Purim
+Purim | Jewish festival; Costume celebration | Reading a scroll; Noisemakers | Triangle cookies; Gift baskets | Hanukkah; Passover; Sukkot
+Thaipusam | Hindu festival; Tamil celebration | Pilgrimage to temples; Devotional piercings | Milk pots carried; Peacock feathers | Pongal; Navratri; Onam
+Yuletide | Holiday season; Winter festivities | Kids wake early; Pajamas all day | Torn wrapping paper; Stockings emptied | Boxing day; Hogmanay; Epiphany
+Diwali sweets | Festival treats; Indian desserts | Shared with neighbors; Silver leaf | Barfi and ladoo; Boxes stacked | Gift hamper; Chocolate box; Fruitcake

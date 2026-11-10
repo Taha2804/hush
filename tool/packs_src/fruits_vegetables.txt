@@ -1,0 +1,140 @@
+@id fruits_vegetables
+@name Fruits & Vegetables
+Apple | Common fruit; Orchard fruit | Keeps the doctor away; Lunchbox snack | Red or green; Crunchy bite | Pear; Peach; Quince
+Banana | Tropical fruit; Yellow fruit | Monkeys love it; Potassium rich | Peel it first; Curved shape | Plantain; Mango; Papaya
+Orange | Citrus fruit; Juicy fruit | Breakfast juice; Full of vitamin c | Peel in segments; Dimpled skin | Tangerine; Grapefruit; Lemon
+Mango | Tropical fruit; Summer fruit | King of fruits; Juicy and messy | Big flat seed; Golden flesh | Papaya; Peach; Apricot
+Grapes | Small fruit; Vine fruit | Grow in bunches; Made into raisins | Green or purple; Pop in mouth | Berries; Cherries; Olives
+Strawberry | Red fruit; Summer fruit | Dipped in chocolate; Picked in fields | Seeds on outside; Heart shaped | Raspberry; Cherry; Blackberry
+Blueberry | Small fruit; Superfood | Baked in muffins; Picked in summer | Tiny and round; Dusty indigo skin | Blackberry; Grape; Cranberry
+Raspberry | Red fruit; Soft fruit | Used in jams; Grows on canes | Hollow middle; Tiny bumps | Strawberry; Blackberry; Cherry
+Watermelon | Summer fruit; Big fruit | Picnic favorite; Seed spitting contests | Green rind; Juicy red flesh | Cantaloupe; Honeydew; Pumpkin
+Pineapple | Tropical fruit; Spiky fruit | Pizza debate; Beach drinks | Spiky crown; Rough skin | Mango; Coconut; Papaya
+Cherry | Small fruit; Stone fruit | Tops a sundae; Blossoms in spring | Long stem; Deep red | Plum; Grape; Cranberry
+Peach | Stone fruit; Summer fruit | Grown in orchards; Juicy and sweet | Fuzzy skin; Pink blush | Apricot; Plum; Nectarine
+Pear | Orchard fruit; Juicy fruit | Ripens off the tree; Lunchbox snack | Bell shaped; Grainy flesh | Apple; Quince; Fig
+Plum | Stone fruit; Purple fruit | Dried into prunes; Juicy and tart | Smooth dark skin; Pit inside | Peach; Cherry; Apricot
+Lemon | Citrus fruit; Sour fruit | Squeezed on fish; Squeezed into drinks | Bright yellow; Makes you pucker | Lime; Orange; Grapefruit
+Lime | Citrus fruit; Sour fruit | Used in tacos; Garnish for drinks | Small and green; Very tart | Lemon; Orange; Kiwi
+Coconut | Tropical fruit; Hard fruit | Grows on palms; Beach symbol | Hairy brown shell; White flesh inside | Pineapple; Walnut; Mango
+Kiwi | Small fruit; Fuzzy fruit | Named after a bird; Rich in vitamins | Brown fuzzy skin; Green inside | Gooseberry; Fig; Passion fruit
+Papaya | Tropical fruit; Orange fruit | Good for digestion; Breakfast fruit | Black seeds inside; Soft orange flesh | Mango; Melon; Guava
+Guava | Tropical fruit; Green fruit | Eaten with chili salt; Very fragrant | Pink or white inside; Many small seeds | Pear; Papaya; Feijoa
+Pomegranate | Ruby fruit; Ancient fruit | Hard to open; Symbol of plenty | Hundreds of seeds; Crown on top | Apple; Persimmon; Fig
+Fig | Ancient fruit; Sweet fruit | Dried as snack; Grows in warm regions | Teardrop shape; Seedy pink inside | Date; Plum; Prune
+Date | Desert fruit; Sweet fruit | Breaks the fast; Grows on palms | Sticky and brown; Long pit | Fig; Prune; Raisin
+Apricot | Stone fruit; Orange fruit | Dried as snack; Made into jam | Velvety skin; Small and golden | Peach; Plum; Nectarine
+Avocado | Creamy fruit; Green fruit | Smashed on toast; Trendy brunch item | Big round pit; Bumpy dark skin | Pear; Mango; Olive
+Melon | Summer fruit; Juicy fruit | Served at breakfast; Cut into wedges | Netted rind; Sweet orange flesh | Pumpkin; Papaya; Squash
+Cantaloupe | Summer melon; Orange fruit | Breakfast buffet fruit; Balled with scoops | Netted rind; Musky smell | Honeydew; Watermelon; Papaya
+Honeydew | Summer melon; Pale fruit | Fruit salad filler; Mild and sweet | Smooth pale rind; Light green flesh | Cantaloupe; Watermelon; Cucumber
+Lychee | Tropical fruit; Asian fruit | Summer treat; Very fragrant | Bumpy red shell; Translucent white flesh | Rambutan; Longan; Grape
+Passion fruit | Tropical treat; Tangy treat | Used in desserts; Very aromatic | Wrinkly purple skin; Seedy pulp | Guava; Kiwi; Lychee
+Dragon fruit | Exotic produce; Cactus produce | Social media famous; Mild flavor | Pink scaly skin; Speckled white flesh | Lychee; Pitaya; Kiwi
+Blackberry | Dark fruit; Wild fruit | Picked from brambles; Stains fingers | Cluster of bubbles; Deep purple | Raspberry; Blueberry; Mulberry
+Cranberry | Tart fruit; Bog fruit | Holiday sauce; Grown in bogs | Very sour; Bounces when ripe | Cherry; Raspberry; Redcurrant
+Grapefruit | Breakfast citrus; Big citrus | Diet breakfast; Very bitter | Pink inside; Eaten with spoon | Orange; Pomelo; Lemon
+Tangerine | Citrus fruit; Small citrus | Easy to peel; Winter fruit | Loose skin; Sweet segments | Orange; Clementine; Lemon
+Nectarine | Stone fruit; Summer fruit | Juicy snack; Grown in orchards | Smooth skin; Red and yellow | Peach; Plum; Apricot
+Persimmon | Autumn fruit; Orange fruit | Popular in east asia; Dried as treat | Tomato shaped; Leafy cap | Tomato; Apricot; Pomegranate
+Jackfruit | Huge produce; Tropical produce | Meat substitute; Very fragrant | Spiky green skin; Sticky yellow pods | Durian; Breadfruit; Pineapple
+Durian | Tropical fruit; Smelly fruit | Banned on trains; Love it or hate | Thorny husk; Custard flesh | Jackfruit; Pineapple; Mangosteen
+Gooseberry | Tart fruit; Small fruit | Made into pickles; Very sour | Pale green; Striped skin | Grape; Kiwi; Currant
+Mulberry | Dark fruit; Tree fruit | Silkworms eat leaves; Stains everything | Long and bumpy; Deep purple | Blackberry; Raspberry; Fig
+Quince | Old fruit; Hard fruit | Made into jelly; Must be cooked | Lumpy yellow; Very fragrant | Pear; Apple; Medlar
+Starfruit | Tropical produce; Waxy produce | Garnish for drinks; Sweet and sour | Five ridges; Pointy slices | Kiwi; Lime; Papaya
+Rambutan | Tropical fruit; Hairy fruit | Southeast asian favorite; Sweet and juicy | Spiky red shell; White flesh | Lychee; Longan; Grape
+Tomato | Vegetable; Red fruit | Base of ketchup; Used in salads | Round and juicy; Grows on vines | Pepper; Cherry; Potato
+Potato | Root vegetable; Starchy food | Made into chips; Mashed or fried | Grows underground; Brown skin | Carrot; Turnip; Yam
+Carrot | Root vegetable; Orange vegetable | Good for eyesight; Rabbits love it | Long and pointed; Leafy top | Parsnip; Radish; Beetroot
+Onion | Bulb vegetable; Kitchen staple | Makes you cry; Base of curries | Papery skin; Many layers | Garlic; Shallot; Leek
+Garlic | Bulb vegetable; Strong flavor | Scares vampires; Bad breath | Many cloves; Papery white skin | Onion; Ginger; Shallot
+Ginger | Root spice; Spicy root | Cure for nausea; Used in tea | Knobby shape; Peppery bite | Turmeric; Garlic; Horseradish
+Cabbage | Leafy vegetable; Round vegetable | Made into coleslaw; Fermented into kimchi | Tight leafy head; Green or purple | Lettuce; Cauliflower; Kale
+Lettuce | Leafy vegetable; Salad green | Goes in burgers; Very crunchy | Pale green leaves; Mostly water | Spinach; Cabbage; Kale
+Spinach | Leafy vegetable; Dark green | Makes sailors strong; Rich in iron | Wilts when cooked; Tender leaves | Kale; Lettuce; Chard
+Broccoli | Green vegetable; Healthy vegetable | Kids push it away; Steamed side | Tiny tree shape; Green florets | Cauliflower; Cabbage; Asparagus
+Cauliflower | White vegetable; Cruciferous vegetable | Low carb swap; Roasted whole | White florets; Brain shaped head | Broccoli; Cabbage; Turnip
+Cucumber | Green vegetable; Cool vegetable | Used in salads; Spa eye slices | Long and green; Watery crunch | Zucchini; Pickle; Celery
+Pumpkin | Orange vegetable; Autumn vegetable | Carved for halloween; Pie filling | Big and round; Ribbed orange shell | Squash; Melon; Gourd
+Corn | Grain vegetable; Yellow vegetable | Grilled at barbecues; Popped for movies | Golden kernels; Eaten off the cob | Wheat; Peas; Rice
+Peas | Green vegetable; Small vegetable | Kids hide them; Frozen in bags | Grow in pods; Tiny green balls | Beans; Corn; Lentils
+Green beans | Garden vegetable; Long vegetable | Holiday casserole; Snapped in half | Thin pods; Snap when bent | Peas; Asparagus; Okra
+Eggplant | Purple vegetable; Nightshade | Used in curries; Grilled or fried | Glossy purple skin; Spongy flesh | Zucchini; Squash; Pepper
+Bell pepper | Crunchy vegetable; Colorful vegetable | Stuffed and baked; Used in stir fry | Hollow inside; Red yellow or green | Chili; Tomato; Eggplant
+Chili | Spicy vegetable; Hot pepper | Makes eyes water; Used in salsa | Small and red; Burns your tongue | Bell pepper; Jalapeno; Paprika
+Mushroom | Fungus; Forest food | Pizza topping; Grows after rain | Cap and stem; Spongy gills | Truffle; Toadstool; Onion
+Celery | Green vegetable; Crunchy stalk | Diet snack; Soup base | Long pale stalks; Stringy crunch | Asparagus; Rhubarb; Leek
+Asparagus | Green vegetable; Spring vegetable | Fancy side dish; Grilled with butter | Thin green spears; Pointed tips | Celery; Green beans; Leek
+Zucchini | Green vegetable; Summer squash | Grated into bread; Grilled in slices | Long and green; Soft skin | Cucumber; Eggplant; Pumpkin
+Radish | Root vegetable; Peppery vegetable | Sliced in salads; Fast growing | Small and red; White inside | Turnip; Beetroot; Carrot
+Beetroot | Earthy vegetable; Purple vegetable | Stains your hands; Made into soup | Deep magenta; Earthy sweet | Radish; Turnip; Carrot
+Turnip | Root vegetable; Winter vegetable | Peasant food; Mashed or roasted | Purple top; White bulb | Radish; Parsnip; Potato
+Sweet potato | Root vegetable; Orange tuber | Holiday casserole; Baked fries | Orange flesh; Long and tapered | Yam; Pumpkin; Carrot
+Kale | Leafy vegetable; Superfood | Baked into chips; Smoothie green | Curly dark leaves; Tough stems | Spinach; Cabbage; Chard
+Okra | Green vegetable; Pod vegetable | Used in gumbo; Fried in curries | Slimy inside; Ridged green pods | Green beans; Zucchini; Chili
+Leek | Allium vegetable; Long vegetable | Used in soups; Welsh symbol | White and green stalk; Mild onion flavor | Onion; Celery; Scallion
+Artichoke | Thistle vegetable; Fancy vegetable | Dipped in butter; Hearts in jars | Scaly green leaves; Spiky tips | Asparagus; Cabbage; Brussels sprouts
+Brussels sprouts | Green vegetable; Mini cabbage | Holiday side dish; Kids dislike them | Tiny round heads; Roasted until crisp | Cabbage; Broccoli; Peas
+Lentils | Pulse; Legume | Cooked into dal; Cheap protein | Tiny flat discs; Red or green | Beans; Peas; Chickpeas
+Chickpeas | Legume; Pulse | Made into hummus; Used in curries | Round and beige; Nutty bite | Lentils; Beans; Soybeans
+Kidney beans | Legume; Red pulse | Used in chili; Cooked as rajma | Dark red; Organ shaped | Chickpeas; Lentils; Black beans
+Yam | Root vegetable; Starchy tuber | Staple in africa; Boiled or pounded | Rough bark skin; White or purple flesh | Sweet potato; Potato; Taro
+Parsnip | Root vegetable; Winter vegetable | Roasted at holidays; Sweet when cooked | Pale and tapered; Like a white carrot | Turnip; Radish; Potato
+Shallot | Allium; Small onion | Used in french cooking; Mild and sweet | Copper skin; Clustered bulbs | Onion; Garlic; Leek
+Scallion | Allium; Green onion | Garnish for noodles; Mild flavor | Long green tops; White base | Leek; Chives; Onion
+Bitter gourd | Sharp tasting vegetable; Healthy vine vegetable | Used in indian cooking; Acquired taste | Bumpy green skin; Warty texture | Okra; Cucumber; Zucchini
+Bottle gourd | Indian vegetable; Pale vine vegetable | Cooked as curry; Very watery | Long and pale green; Smooth skin | Zucchini; Cucumber; Pumpkin
+Drumstick | Indian vegetable; Moringa pod | Used in sambar; Long woody pods | Very long and thin; Chewy fibers | Okra; Green beans; Asparagus
+Taro | Root vegetable; Starchy tuber | Purple bubble tea; Eaten in islands | Hairy brown skin; Lilac flesh | Yam; Potato; Cassava
+Cassava | Root vegetable; Tropical tuber | Made into tapioca; Staple crop | Long and woody; Waxy brown skin | Yam; Taro; Potato
+Jalapeno | Spicy pepper; Green chili | Topping for nachos; Mexican favorite | Small and green; Pickled slices | Chili; Bell pepper; Paprika
+Rhubarb | Sour vegetable; Spring stalk | Baked in pies; Paired with strawberry | Pink stalks; Poisonous leaves | Celery; Beetroot; Asparagus
+Chard | Leafy vegetable; Colorful greens | Sauteed with garlic; Mild flavor | Rainbow stems; Big glossy leaves | Spinach; Kale; Lettuce
+Arugula | Salad green; Peppery leaf | Pizza topping; Fancy salads | Small notched leaves; Spicy bite | Lettuce; Spinach; Watercress
+Fennel | Aromatic vegetable; Bulb vegetable | Seeds chewed after meals; Licorice flavor | Pale bulb; Feathery fronds | Celery; Onion; Dill
+Plantain | Starchy fruit; Cooking banana | Fried as chips; Caribbean staple | Green or black; Bigger than banana | Banana; Yam; Potato
+Clementine | Citrus fruit; Small citrus | Christmas stocking fruit; Easy to peel | Seedless segments; Bright orange | Tangerine; Orange; Kumquat
+Kumquat | Citrus fruit; Tiny citrus | Eaten whole; Lunar new year gift | Sweet peel; Sour inside | Clementine; Lime; Grape
+Pomelo | Citrus fruit; Giant citrus | Asian festival fruit; Thick pith | Pale green skin; Huge segments | Grapefruit; Orange; Lemon
+Longan | Tropical fruit; Asian fruit | Called dragon eye; Dried for soup | Tan shell; Clear juicy flesh | Lychee; Rambutan; Grape
+Mangosteen | Tropical fruit; Purple fruit | Queen of fruits; Southeast asian treat | Thick purple rind; White segments | Lychee; Rambutan; Durian
+Custard apple | Tropical fruit; Creamy fruit | Eaten with spoon; Winter fruit in india | Knobby green skin; Black seeds | Guava; Jackfruit; Cherimoya
+Sapodilla | Tropical fruit; Brown fruit | Called chikoo in india; Very sweet | Grainy brown flesh; Malty taste | Fig; Date; Pear
+Jamun | Indian fruit; Purple berry | Stains your tongue; Summer fruit | Dark purple; Astringent taste | Plum; Blackberry; Grape
+Raisin | Dried fruit; Sweet snack | Baked into cookies; Lunchbox snack | Wrinkly and brown; Dried grape | Date; Prune; Currant
+Prune | Dried fruit; Purple snack | Good for digestion; Grandparent favorite | Wrinkly dark plum; Sticky sweet | Raisin; Date; Fig
+Olive oil | Cooking fat; Mediterranean staple | Drizzled on salads; Pressed from fruit | Golden green; Extra virgin | Butter; Vinegar; Sesame oil
+Peanut | Legume; Snack nut | Sold at ballparks; Common allergy | Grows underground; Papery shell | Almond; Cashew; Walnut
+Almond | Tree nut; Healthy snack | Made into milk; Comes from blossoms | Teardrop shape; Brown skin | Cashew; Walnut; Peanut
+Cashew | Tree nut; Creamy nut | Used in curries; Grows on fruit | Curved shape; Buttery taste | Almond; Peanut; Pistachio
+Walnut | Tree nut; Brain food | Baked in brownies; Hard to crack | Wrinkly brain shape; Hard shell | Pecan; Almond; Hazelnut
+Pistachio | Tree nut; Green nut | Ice cream flavor; Salty snack | Cracked open shell; Green kernel | Cashew; Almond; Peanut
+Hazelnut | Tree nut; Round nut | Paired with chocolate; Coffee flavor | Small round; Smooth brown shell | Walnut; Almond; Chestnut
+Chestnut | Tree nut; Winter treat | Roasted on fires; Sold on streets | Shiny brown; Spiky husk | Hazelnut; Walnut; Acorn
+Pecan | Tree nut; Southern nut | Baked in pies; Sweet and buttery | Long ridged kernel; Smooth shell | Walnut; Almond; Hazelnut
+Sweet corn | Yellow vegetable; Summer crop | Boiled and buttered; Kids favorite | Juicy kernels; Silky threads | Peas; Green beans; Popcorn
+Spring onion | Allium; Salad allium | Garnish for soups; Chopped finely | Thin white bulb; Hollow green leaves | Leek; Chives; Shallot
+Snow peas | Pod vegetable; Flat pods | Used in stir fry; Eaten whole | Flat green pods; Crunchy and sweet | Green beans; Okra; Edamame
+Edamame | Soybean pod; Japanese snack | Served salted; Popped from pods | Fuzzy green pods; Bright beans | Peas; Snow peas; Green beans
+Watercress | Salad green; Peppery leaf | Grows in streams; Tea sandwich filling | Small round leaves; Crisp stems | Arugula; Spinach; Lettuce
+Horseradish | Root spice; Fiery root | Served with roast beef; Clears sinuses | White grated root; Eye watering | Wasabi; Ginger; Mustard
+Wasabi | Japanese spice; Green paste | Served with sushi; Clears sinuses | Bright green; Fiery kick | Horseradish; Ginger; Mustard
+Turmeric | Golden spice; Medicinal root | Used in curries; Stains everything | Bright orange root; Earthy flavor | Ginger; Saffron; Cumin
+Basil | Herb; Fragrant leaf | Used in pesto; Pizza garnish | Soft green leaves; Sweet aroma | Mint; Oregano; Parsley
+Mint | Herb; Cool leaf | Used in drinks; Freshens breath | Bright green; Cooling taste | Basil; Parsley; Coriander
+Coriander | Herb; Leafy garnish | Soapy to some; Used in curries | Delicate leaves; Citrusy aroma | Parsley; Mint; Basil
+Parsley | Herb; Garnish leaf | Sprinkled on plates; Mild and fresh | Curly or flat; Bright green | Coriander; Basil; Dill
+Dill | Herb; Feathery leaf | Used with pickles; Paired with fish | Thin fronds; Tangy aroma | Fennel; Parsley; Chives
+Chives | Herb; Allium | Sprinkled on baked potatoes; Mild onion flavor | Thin hollow stalks; Purple flowers | Scallion; Leek; Dill
+Rosemary | Herb; Woody herb | Used with roast lamb; Strong aroma | Needle like leaves; Woody stems | Thyme; Sage; Basil
+Thyme | Herb; Tiny leaf | Used in stews; Earthy aroma | Tiny leaves on twigs; Hardy plant | Rosemary; Oregano; Sage
+Oregano | Herb; Pizza herb | Sprinkled on pizza; Dried in jars | Small oval leaves; Peppery aroma | Basil; Thyme; Marjoram
+Sage | Herb; Soft leaf | Used in stuffing; Burned for cleansing | Velvety grey leaves; Earthy aroma | Rosemary; Thyme; Mint
+Bok choy | Asian vegetable; Leafy greens | Used in stir fry; Mild flavor | White stalks; Dark green leaves | Cabbage; Chard; Spinach
+Lemongrass | Herb stalk; Citrus herb | Used in thai curries; Brewed as tea | Long woody stalk; Lemony aroma | Ginger; Scallion; Leek
+Gourd | Vine vegetable; Hard fruit | Dried as containers; Autumn decoration | Bumpy shell; Odd shapes | Pumpkin; Squash; Melon
+Squash | Vine vegetable; Autumn vegetable | Roasted in winter; Made into soup | Hard rind; Orange flesh | Pumpkin; Zucchini; Gourd
+Mustard greens | Leafy vegetable; Peppery leaves | Cooked as saag; Winter vegetable | Frilly leaves; Spicy bite | Spinach; Kale; Chard
+Corn cob | Grain vegetable; Summer snack | Grilled on charcoal; Sold by vendors | Golden rows; Buttered and salted | Wheat; Peas; Potato
+Bean sprouts | Crunchy vegetable; Asian topping | Added to pho; Grown in jars | White shoots; Tiny tails | Edamame; Lentils; Peas

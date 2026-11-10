@@ -1,0 +1,20 @@
+@id hobbies
+@name Hobbies
+Chocolate making | Kitchen hobby; Sweet craft | Tempering lessons; Holiday gifts | Molds and cocoa; Glossy truffles | Baking; Candle making; Cheese tasting
+Sketching | Art hobby; Quick drawing | Urban scenes; Cafe doodles | Charcoal pencils; Pocket notebook | Painting; Calligraphy; Origami
+Watercolor | Art hobby; Paint style | Soft washes; Landscape scenes | Wet brushes; Paper blooms | Oil painting; Sketching; Pastels
+Oil painting | Art hobby; Classic art style | Canvas portraits; Slow drying | Turpentine smell; Thick strokes | Watercolor; Acrylics; Sketching
+Comic drawing | Art hobby; Panel art | Superhero fan art; Online strips | Speech bubbles; Inked panels | Sketching; Animation; Calligraphy
+Animation | Digital hobby; Moving pictures | Flipbooks; Stop motion | Frame by frame; Keyframes | Comic drawing; Filmmaking; Gaming
+Filmmaking | Creative hobby; Movie creation | Short films with friends; Festivals | Camera rigs; Editing timeline | Photography; Vlogging; Animation
+Rollerblading | Wheeled hobby; Inline skating | Boardwalk rides; Retro fun | Knee pads; Brake heel | Skateboarding; Ice skating; Cycling
+Parkour | Urban hobby; Freerunning | Rooftop leaps; Wall flips | Vaulting railings; Precision jumps | Climbing; Gymnastics; Skateboarding
+Frisbee | Park hobby; Disc throwing | Beach games; Dogs chase it | Flying plastic plate; Spinning toss | Kite flying; Boomerang; Volleyball
+Bird table | Garden hobby; Wildlife care | Winter feeders; Window watching | Seed trays; Suet cakes | Birdwatching; Gardening; Beekeeping
+Composting | Garden hobby; Waste recycling | Kitchen scraps; Rich soil | Worm bins; Turning piles | Gardening; Beekeeping; Recycling
+Trail photos | Outdoor hobby; Hiking snapshots | Scenic views; Sunrise hikes | Backpack camera; Summit selfies | Birdwatching; Painting; Camping
+Kite surfing | Water hobby; Wind sport | Windy beaches; Big jumps | Giant canopy; Board and harness | Windsurfing; Sailing; Paragliding
+Patch making | Craft hobby; Badge crafting | Jacket decorations; Iron ons | Satin stitches; Felt backing | Knitting; Jewelry making; Sewing
+Diorama building | Miniature hobby; Scene crafting | Museum style displays; School projects | Tiny figures; Painted backdrops | Model trains; Lego; Dollhouses
+Dollhouses | Miniature hobby; Tiny homes | Collectors decorate; Inherited treasures | Furniture miniatures; Wallpaper scraps | Diorama building; Lego; Model trains
+Calisthenics | Fitness hobby; Bodyweight training | Park bars; Pull up challenges | No equipment; Muscle ups | Gymnastics; Yoga; Pilates

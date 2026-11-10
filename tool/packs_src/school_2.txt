@@ -1,0 +1,14 @@
+@id school
+@name School
+Backpack strap | Bag part; Shoulder band | Adjust the length; Breaks when overloaded | Padded strip; Buckle clip | Handle; Zipper; Pocket
+Whistle | Coach tool; Signal device | Gym teachers blow it; Ends the game | Shrill sound; Hangs on lanyard | Bell; Horn; Megaphone
+Megaphone | Loud speaker; Voice amplifier | Sports day announcements; Cheerleaders | Cone shape; Handle trigger | Microphone; Whistle; Bell
+Duster | Cleaning tool; Classroom item | Clapped outside; Dusty clouds | Felt pad; Wooden block | Sponge; Wiper; Brush
+Inkpot | Old stationery; Writing supply | Quill era; Spills easily | Glass bottle; Dark liquid | Fountain pen; Marker; Stamp
+Fountain pen | Writing tool; Classic nib | Calligraphy practice; Fancy handwriting | Metal nib; Ink cartridge | Ballpoint; Pencil; Quill
+Quill | Old writing tool; Feather pen | Medieval scribes; Dipped in ink | Feather shaft; Sharp tip | Fountain pen; Brush; Pencil
+Set square | Geometry tool; Triangle ruler | Technical drawing; Exam kit | Right angle; Clear plastic | Protractor; Ruler; Compass
+Easel | Art stand; Painting support | Art class; Artists use it | Three legs; Holds canvas | Tripod; Desk; Board
+Clay | Modeling material; Art supply | Pottery class; Squishy fun | Moldable mud; Baked in kiln | Dough; Plaster; Wax
+Choir | Singing group; Music ensemble | School concerts; Hymns | Rows of singers; Conductor leads | Band; Orchestra; Chorus
+School band | Music group; Student ensemble | Marching at games; Practice after class | Drums and brass; Uniformed players | Choir; Orchestra; Club

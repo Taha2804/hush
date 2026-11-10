@@ -1,0 +1,5208 @@
+{
+ "id": "movies",
+ "name": "Movies",
+ "words": [
+  {
+   "word": "Comedy",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "Funny movies",
+     "level": 1
+    },
+    {
+     "text": "Laugh out loud",
+     "level": 2
+    },
+    {
+     "text": "Stand up stars",
+     "level": 2
+    },
+    {
+     "text": "Slapstick gags",
+     "level": 3
+    },
+    {
+     "text": "Happy endings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Drama",
+    "Satire",
+    "Parody"
+   ]
+  },
+  {
+   "word": "Horror",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "Scary movies",
+     "level": 1
+    },
+    {
+     "text": "Jump scares",
+     "level": 2
+    },
+    {
+     "text": "Watch through fingers",
+     "level": 2
+    },
+    {
+     "text": "Haunted houses",
+     "level": 3
+    },
+    {
+     "text": "Creepy music",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Thriller",
+    "Mystery",
+    "Suspense"
+   ]
+  },
+  {
+   "word": "Romance",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "Love stories",
+     "level": 1
+    },
+    {
+     "text": "Date night pick",
+     "level": 2
+    },
+    {
+     "text": "Tearjerker kisses",
+     "level": 2
+    },
+    {
+     "text": "Meet cute",
+     "level": 3
+    },
+    {
+     "text": "Happily ever after",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Drama",
+    "Comedy",
+    "Musical"
+   ]
+  },
+  {
+   "word": "Action",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "Blockbuster style",
+     "level": 1
+    },
+    {
+     "text": "Car chases",
+     "level": 2
+    },
+    {
+     "text": "Explosions",
+     "level": 2
+    },
+    {
+     "text": "Fist fights",
+     "level": 3
+    },
+    {
+     "text": "Stunt doubles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Adventure",
+    "Thriller",
+    "War"
+   ]
+  },
+  {
+   "word": "Thriller",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "Suspense movies",
+     "level": 1
+    },
+    {
+     "text": "Edge of seat",
+     "level": 2
+    },
+    {
+     "text": "Plot twists",
+     "level": 2
+    },
+    {
+     "text": "Ticking clock",
+     "level": 3
+    },
+    {
+     "text": "Cat and mouse",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Horror",
+    "Mystery",
+    "Action"
+   ]
+  },
+  {
+   "word": "Documentary",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "Factual movies",
+     "level": 1
+    },
+    {
+     "text": "Real events",
+     "level": 2
+    },
+    {
+     "text": "Narrated footage",
+     "level": 2
+    },
+    {
+     "text": "Interviews",
+     "level": 3
+    },
+    {
+     "text": "Nature footage",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Biopic",
+    "News",
+    "Drama"
+   ]
+  },
+  {
+   "word": "Animation",
+   "hints": [
+    {
+     "text": "Film style",
+     "level": 1
+    },
+    {
+     "text": "Cartoon movies",
+     "level": 1
+    },
+    {
+     "text": "Family favorites",
+     "level": 2
+    },
+    {
+     "text": "Voice actors",
+     "level": 2
+    },
+    {
+     "text": "Hand drawn frames",
+     "level": 3
+    },
+    {
+     "text": "Computer graphics",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Puppetry",
+    "Live action",
+    "Comic"
+   ]
+  },
+  {
+   "word": "Musical",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "Song movies",
+     "level": 1
+    },
+    {
+     "text": "Characters burst into song",
+     "level": 2
+    },
+    {
+     "text": "Broadway adaptations",
+     "level": 2
+    },
+    {
+     "text": "Dance numbers",
+     "level": 3
+    },
+    {
+     "text": "Showstoppers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Opera",
+    "Concert",
+    "Romance"
+   ]
+  },
+  {
+   "word": "Western",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "Cowboy movies",
+     "level": 1
+    },
+    {
+     "text": "Frontier towns",
+     "level": 2
+    },
+    {
+     "text": "High noon duels",
+     "level": 2
+    },
+    {
+     "text": "Saloons and sheriffs",
+     "level": 3
+    },
+    {
+     "text": "Tumbleweeds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Action",
+    "War",
+    "Adventure"
+   ]
+  },
+  {
+   "word": "Fantasy",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "Magic movies",
+     "level": 1
+    },
+    {
+     "text": "Dragons and wizards",
+     "level": 2
+    },
+    {
+     "text": "Epic quests",
+     "level": 2
+    },
+    {
+     "text": "Enchanted kingdoms",
+     "level": 3
+    },
+    {
+     "text": "Magic swords",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Science fiction",
+    "Fairy tale",
+    "Adventure"
+   ]
+  },
+  {
+   "word": "Science fiction",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "Future movies",
+     "level": 1
+    },
+    {
+     "text": "Space travel",
+     "level": 2
+    },
+    {
+     "text": "Alien invasions",
+     "level": 2
+    },
+    {
+     "text": "Robots and lasers",
+     "level": 3
+    },
+    {
+     "text": "Time machines",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fantasy",
+    "Superhero",
+    "Horror"
+   ]
+  },
+  {
+   "word": "Superhero",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "Caped heroes",
+     "level": 1
+    },
+    {
+     "text": "Comic book adaptations",
+     "level": 2
+    },
+    {
+     "text": "Saves the city",
+     "level": 2
+    },
+    {
+     "text": "Secret identity",
+     "level": 3
+    },
+    {
+     "text": "Special abilities",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Villain",
+    "Sidekick",
+    "Vigilante"
+   ]
+  },
+  {
+   "word": "Mystery",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "Puzzle movies",
+     "level": 1
+    },
+    {
+     "text": "Whodunit",
+     "level": 2
+    },
+    {
+     "text": "Detective solves it",
+     "level": 2
+    },
+    {
+     "text": "Clues and suspects",
+     "level": 3
+    },
+    {
+     "text": "Big reveal",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Thriller",
+    "Crime",
+    "Horror"
+   ]
+  },
+  {
+   "word": "Crime",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "Gangster movies",
+     "level": 1
+    },
+    {
+     "text": "Heists and mobsters",
+     "level": 2
+    },
+    {
+     "text": "Police chases",
+     "level": 2
+    },
+    {
+     "text": "Undercover agents",
+     "level": 3
+    },
+    {
+     "text": "Shootouts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mystery",
+    "Thriller",
+    "Action"
+   ]
+  },
+  {
+   "word": "Adventure",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "Quest movies",
+     "level": 1
+    },
+    {
+     "text": "Treasure hunts",
+     "level": 2
+    },
+    {
+     "text": "Exotic locations",
+     "level": 2
+    },
+    {
+     "text": "Maps and jungles",
+     "level": 3
+    },
+    {
+     "text": "Daring escapes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Action",
+    "Fantasy",
+    "Western"
+   ]
+  },
+  {
+   "word": "Drama",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "Serious movies",
+     "level": 1
+    },
+    {
+     "text": "Award season favorites",
+     "level": 2
+    },
+    {
+     "text": "Emotional",
+     "level": 2
+    },
+    {
+     "text": "Character studies",
+     "level": 3
+    },
+    {
+     "text": "Tears and conflict",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Comedy",
+    "Romance",
+    "Tragedy"
+   ]
+  },
+  {
+   "word": "War",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "Battle movies",
+     "level": 1
+    },
+    {
+     "text": "Soldiers and trenches",
+     "level": 2
+    },
+    {
+     "text": "Historical battles",
+     "level": 2
+    },
+    {
+     "text": "Tanks and helmets",
+     "level": 3
+    },
+    {
+     "text": "Brotherhood",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Action",
+    "Western",
+    "History"
+   ]
+  },
+  {
+   "word": "Disaster",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "Catastrophe movies",
+     "level": 1
+    },
+    {
+     "text": "Volcanoes and earthquakes",
+     "level": 2
+    },
+    {
+     "text": "Survival",
+     "level": 2
+    },
+    {
+     "text": "Collapsing buildings",
+     "level": 3
+    },
+    {
+     "text": "Race against time",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Action",
+    "Thriller",
+    "Horror"
+   ]
+  },
+  {
+   "word": "Zombie",
+   "hints": [
+    {
+     "text": "Movie monster",
+     "level": 1
+    },
+    {
+     "text": "Undead horde",
+     "level": 1
+    },
+    {
+     "text": "Apocalypse films",
+     "level": 2
+    },
+    {
+     "text": "Survival groups",
+     "level": 2
+    },
+    {
+     "text": "Shambling hordes",
+     "level": 3
+    },
+    {
+     "text": "Bite infects",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Vampire",
+    "Mummy",
+    "Ghost"
+   ]
+  },
+  {
+   "word": "Heist",
+   "hints": [
+    {
+     "text": "Movie plot",
+     "level": 1
+    },
+    {
+     "text": "Robbery caper",
+     "level": 1
+    },
+    {
+     "text": "Crew of experts",
+     "level": 2
+    },
+    {
+     "text": "Elaborate plans",
+     "level": 2
+    },
+    {
+     "text": "Bank vault",
+     "level": 3
+    },
+    {
+     "text": "Getaway car",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mystery",
+    "Escape",
+    "Con"
+   ]
+  },
+  {
+   "word": "Time travel",
+   "hints": [
+    {
+     "text": "Movie theme",
+     "level": 1
+    },
+    {
+     "text": "Science fiction plot",
+     "level": 1
+    },
+    {
+     "text": "Paradoxes",
+     "level": 2
+    },
+    {
+     "text": "Change the past",
+     "level": 2
+    },
+    {
+     "text": "Flux capacitor",
+     "level": 3
+    },
+    {
+     "text": "Future selves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Teleport",
+    "Dream",
+    "Flashback"
+   ]
+  },
+  {
+   "word": "Alien invasion",
+   "hints": [
+    {
+     "text": "Movie plot",
+     "level": 1
+    },
+    {
+     "text": "Science fiction theme",
+     "level": 1
+    },
+    {
+     "text": "Spaceships over cities",
+     "level": 2
+    },
+    {
+     "text": "Humanity fights",
+     "level": 2
+    },
+    {
+     "text": "Flying saucers",
+     "level": 3
+    },
+    {
+     "text": "Tripods",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Zombie outbreak",
+    "Robot uprising",
+    "Asteroid"
+   ]
+  },
+  {
+   "word": "Robot uprising",
+   "hints": [
+    {
+     "text": "Movie plot",
+     "level": 1
+    },
+    {
+     "text": "Machine rebellion",
+     "level": 1
+    },
+    {
+     "text": "Artificial minds turn",
+     "level": 2
+    },
+    {
+     "text": "Humans resist",
+     "level": 2
+    },
+    {
+     "text": "Metal armies",
+     "level": 3
+    },
+    {
+     "text": "Glowing red eyes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Alien invasion",
+    "Zombie outbreak",
+    "Cyborg"
+   ]
+  },
+  {
+   "word": "Haunted house",
+   "hints": [
+    {
+     "text": "Movie setting",
+     "level": 1
+    },
+    {
+     "text": "Spooky mansion",
+     "level": 1
+    },
+    {
+     "text": "Creaking floors",
+     "level": 2
+    },
+    {
+     "text": "Ghostly visitors",
+     "level": 2
+    },
+    {
+     "text": "Cobwebs",
+     "level": 3
+    },
+    {
+     "text": "Slamming doors",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Graveyard",
+    "Asylum",
+    "Castle"
+   ]
+  },
+  {
+   "word": "Road trip",
+   "hints": [
+    {
+     "text": "Movie plot",
+     "level": 1
+    },
+    {
+     "text": "Journey story",
+     "level": 1
+    },
+    {
+     "text": "Friends in a car",
+     "level": 2
+    },
+    {
+     "text": "Motels",
+     "level": 2
+    },
+    {
+     "text": "Highway scenery",
+     "level": 3
+    },
+    {
+     "text": "Map arguments",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Vacation",
+    "Adventure",
+    "Camping"
+   ]
+  },
+  {
+   "word": "Growing up",
+   "hints": [
+    {
+     "text": "Movie theme",
+     "level": 1
+    },
+    {
+     "text": "Adolescent story",
+     "level": 1
+    },
+    {
+     "text": "Teen years",
+     "level": 2
+    },
+    {
+     "text": "First love",
+     "level": 2
+    },
+    {
+     "text": "School dances",
+     "level": 3
+    },
+    {
+     "text": "Summer change",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Romance",
+    "Drama",
+    "Comedy"
+   ]
+  },
+  {
+   "word": "Rom com",
+   "hints": [
+    {
+     "text": "Movie genre",
+     "level": 1
+    },
+    {
+     "text": "Romantic comedy",
+     "level": 1
+    },
+    {
+     "text": "Meet cute",
+     "level": 2
+    },
+    {
+     "text": "Airport chase",
+     "level": 2
+    },
+    {
+     "text": "Misunderstandings",
+     "level": 3
+    },
+    {
+     "text": "Happy kiss",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Drama",
+    "Musical",
+    "Sitcom"
+   ]
+  },
+  {
+   "word": "Sequel",
+   "hints": [
+    {
+     "text": "Movie follow up",
+     "level": 1
+    },
+    {
+     "text": "Second part",
+     "level": 1
+    },
+    {
+     "text": "Bigger budget",
+     "level": 2
+    },
+    {
+     "text": "Returning cast",
+     "level": 2
+    },
+    {
+     "text": "Part two",
+     "level": 3
+    },
+    {
+     "text": "Continues story",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Prequel",
+    "Remake",
+    "Spinoff"
+   ]
+  },
+  {
+   "word": "Prequel",
+   "hints": [
+    {
+     "text": "Movie backstory",
+     "level": 1
+    },
+    {
+     "text": "Earlier chapter",
+     "level": 1
+    },
+    {
+     "text": "Origin story",
+     "level": 2
+    },
+    {
+     "text": "Before the original",
+     "level": 2
+    },
+    {
+     "text": "Younger characters",
+     "level": 3
+    },
+    {
+     "text": "Set earlier",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sequel",
+    "Remake",
+    "Reboot"
+   ]
+  },
+  {
+   "word": "Remake",
+   "hints": [
+    {
+     "text": "Movie redo",
+     "level": 1
+    },
+    {
+     "text": "New version",
+     "level": 1
+    },
+    {
+     "text": "Updated effects",
+     "level": 2
+    },
+    {
+     "text": "Classic retold",
+     "level": 2
+    },
+    {
+     "text": "Same story",
+     "level": 3
+    },
+    {
+     "text": "New cast",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sequel",
+    "Reboot",
+    "Parody"
+   ]
+  },
+  {
+   "word": "Trailer",
+   "hints": [
+    {
+     "text": "Movie preview",
+     "level": 1
+    },
+    {
+     "text": "Teaser",
+     "level": 1
+    },
+    {
+     "text": "Plays before films",
+     "level": 2
+    },
+    {
+     "text": "Online hype",
+     "level": 2
+    },
+    {
+     "text": "Dramatic voice",
+     "level": 3
+    },
+    {
+     "text": "Coming soon",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Poster",
+    "Review",
+    "Premiere"
+   ]
+  },
+  {
+   "word": "Popcorn",
+   "hints": [
+    {
+     "text": "Cinema snack",
+     "level": 1
+    },
+    {
+     "text": "Movie treat",
+     "level": 1
+    },
+    {
+     "text": "Shared at theaters",
+     "level": 2
+    },
+    {
+     "text": "Buttery",
+     "level": 2
+    },
+    {
+     "text": "Big paper tub",
+     "level": 3
+    },
+    {
+     "text": "Salty kernels",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nachos",
+    "Candy",
+    "Soda"
+   ]
+  },
+  {
+   "word": "Premiere",
+   "hints": [
+    {
+     "text": "Movie launch",
+     "level": 1
+    },
+    {
+     "text": "Opening night",
+     "level": 1
+    },
+    {
+     "text": "Red carpet",
+     "level": 2
+    },
+    {
+     "text": "Celebrities arrive",
+     "level": 2
+    },
+    {
+     "text": "Flashing cameras",
+     "level": 3
+    },
+    {
+     "text": "Gala event",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Trailer",
+    "Award show",
+    "Screening"
+   ]
+  },
+  {
+   "word": "Red carpet",
+   "hints": [
+    {
+     "text": "Premiere walkway",
+     "level": 1
+    },
+    {
+     "text": "Glamour event",
+     "level": 1
+    },
+    {
+     "text": "Celebrities pose",
+     "level": 2
+    },
+    {
+     "text": "Award nights",
+     "level": 2
+    },
+    {
+     "text": "Velvet ropes",
+     "level": 3
+    },
+    {
+     "text": "Paparazzi",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Premiere",
+    "Runway",
+    "Gala"
+   ]
+  },
+  {
+   "word": "Oscar",
+   "hints": [
+    {
+     "text": "Film award",
+     "level": 1
+    },
+    {
+     "text": "Golden statue",
+     "level": 1
+    },
+    {
+     "text": "Award ceremony",
+     "level": 2
+    },
+    {
+     "text": "Acceptance speech",
+     "level": 2
+    },
+    {
+     "text": "Golden figure",
+     "level": 3
+    },
+    {
+     "text": "Best picture",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Trophy",
+    "Medal",
+    "Globe"
+   ]
+  },
+  {
+   "word": "Director",
+   "hints": [
+    {
+     "text": "Film maker",
+     "level": 1
+    },
+    {
+     "text": "Movie boss",
+     "level": 1
+    },
+    {
+     "text": "Shouts action",
+     "level": 2
+    },
+    {
+     "text": "Leads the crew",
+     "level": 2
+    },
+    {
+     "text": "Megaphone",
+     "level": 3
+    },
+    {
+     "text": "Folding chair",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Producer",
+    "Actor",
+    "Writer"
+   ]
+  },
+  {
+   "word": "Villain",
+   "hints": [
+    {
+     "text": "Movie bad guy",
+     "level": 1
+    },
+    {
+     "text": "Antagonist",
+     "level": 1
+    },
+    {
+     "text": "Evil plans",
+     "level": 2
+    },
+    {
+     "text": "Monologues",
+     "level": 2
+    },
+    {
+     "text": "Sinister laugh",
+     "level": 3
+    },
+    {
+     "text": "Dark costume",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hero",
+    "Sidekick",
+    "Henchman"
+   ]
+  },
+  {
+   "word": "Hero",
+   "hints": [
+    {
+     "text": "Movie protagonist",
+     "level": 1
+    },
+    {
+     "text": "Good guy",
+     "level": 1
+    },
+    {
+     "text": "Saves the day",
+     "level": 2
+    },
+    {
+     "text": "Brave choices",
+     "level": 2
+    },
+    {
+     "text": "Cape or armor",
+     "level": 3
+    },
+    {
+     "text": "Final showdown",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Villain",
+    "Sidekick",
+    "Mentor"
+   ]
+  },
+  {
+   "word": "Sidekick",
+   "hints": [
+    {
+     "text": "Movie companion",
+     "level": 1
+    },
+    {
+     "text": "Helper",
+     "level": 1
+    },
+    {
+     "text": "Comic relief",
+     "level": 2
+    },
+    {
+     "text": "Loyal friend",
+     "level": 2
+    },
+    {
+     "text": "Assists the protagonist",
+     "level": 3
+    },
+    {
+     "text": "Wisecracks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hero",
+    "Villain",
+    "Mentor"
+   ]
+  },
+  {
+   "word": "Plot twist",
+   "hints": [
+    {
+     "text": "Movie surprise",
+     "level": 1
+    },
+    {
+     "text": "Shock reveal",
+     "level": 1
+    },
+    {
+     "text": "Nobody saw it coming",
+     "level": 2
+    },
+    {
+     "text": "Rewatch value",
+     "level": 2
+    },
+    {
+     "text": "Hidden identity",
+     "level": 3
+    },
+    {
+     "text": "Mind blown",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cliffhanger",
+    "Spoiler",
+    "Flashback"
+   ]
+  },
+  {
+   "word": "Cliffhanger",
+   "hints": [
+    {
+     "text": "Story ending",
+     "level": 1
+    },
+    {
+     "text": "Suspense hook",
+     "level": 1
+    },
+    {
+     "text": "Wait for sequel",
+     "level": 2
+    },
+    {
+     "text": "Season finale",
+     "level": 2
+    },
+    {
+     "text": "Unresolved danger",
+     "level": 3
+    },
+    {
+     "text": "Hanging moment",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Plot twist",
+    "Spoiler",
+    "Epilogue"
+   ]
+  },
+  {
+   "word": "Spoiler",
+   "hints": [
+    {
+     "text": "Plot reveal",
+     "level": 1
+    },
+    {
+     "text": "Ruined surprise",
+     "level": 1
+    },
+    {
+     "text": "Warnings online",
+     "level": 2
+    },
+    {
+     "text": "Friends ruin it",
+     "level": 2
+    },
+    {
+     "text": "Giving away ending",
+     "level": 3
+    },
+    {
+     "text": "Internet etiquette",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Trailer",
+    "Review",
+    "Plot twist"
+   ]
+  },
+  {
+   "word": "Flashback",
+   "hints": [
+    {
+     "text": "Story device",
+     "level": 1
+    },
+    {
+     "text": "Past scene",
+     "level": 1
+    },
+    {
+     "text": "Memories revealed",
+     "level": 2
+    },
+    {
+     "text": "Backstory",
+     "level": 2
+    },
+    {
+     "text": "Sepia tones",
+     "level": 3
+    },
+    {
+     "text": "Earlier timeline",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dream",
+    "Montage",
+    "Prequel"
+   ]
+  },
+  {
+   "word": "Montage",
+   "hints": [
+    {
+     "text": "Film technique",
+     "level": 1
+    },
+    {
+     "text": "Quick sequence",
+     "level": 1
+    },
+    {
+     "text": "Training scenes",
+     "level": 2
+    },
+    {
+     "text": "Upbeat music",
+     "level": 2
+    },
+    {
+     "text": "Rapid cuts",
+     "level": 3
+    },
+    {
+     "text": "Time passing",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Flashback",
+    "Trailer",
+    "Slow motion"
+   ]
+  },
+  {
+   "word": "Slow motion",
+   "hints": [
+    {
+     "text": "Film effect",
+     "level": 1
+    },
+    {
+     "text": "Dramatic speed",
+     "level": 1
+    },
+    {
+     "text": "Action highlights",
+     "level": 2
+    },
+    {
+     "text": "Bullet dodges",
+     "level": 2
+    },
+    {
+     "text": "Frames stretched",
+     "level": 3
+    },
+    {
+     "text": "Every detail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fast forward",
+    "Montage",
+    "Freeze frame"
+   ]
+  },
+  {
+   "word": "Stunt double",
+   "hints": [
+    {
+     "text": "Film role",
+     "level": 1
+    },
+    {
+     "text": "Risk taker",
+     "level": 1
+    },
+    {
+     "text": "Dangerous scenes",
+     "level": 2
+    },
+    {
+     "text": "Looks like star",
+     "level": 2
+    },
+    {
+     "text": "Car flips",
+     "level": 3
+    },
+    {
+     "text": "Falls from heights",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Body double",
+    "Actor",
+    "Extra"
+   ]
+  },
+  {
+   "word": "Special effects",
+   "hints": [
+    {
+     "text": "Film magic",
+     "level": 1
+    },
+    {
+     "text": "Visual tricks",
+     "level": 1
+    },
+    {
+     "text": "Explosions and aliens",
+     "level": 2
+    },
+    {
+     "text": "Movie wizardry",
+     "level": 2
+    },
+    {
+     "text": "Computer graphics",
+     "level": 3
+    },
+    {
+     "text": "Green screens",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Animation",
+    "Makeup",
+    "Props"
+   ]
+  },
+  {
+   "word": "Green screen",
+   "hints": [
+    {
+     "text": "Film technique",
+     "level": 1
+    },
+    {
+     "text": "Chroma background",
+     "level": 1
+    },
+    {
+     "text": "Weather reports",
+     "level": 2
+    },
+    {
+     "text": "Superhero scenes",
+     "level": 2
+    },
+    {
+     "text": "Bright colored wall",
+     "level": 3
+    },
+    {
+     "text": "Replaced later",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Special effects",
+    "Backdrop",
+    "Set"
+   ]
+  },
+  {
+   "word": "Soundtrack",
+   "hints": [
+    {
+     "text": "Movie music",
+     "level": 1
+    },
+    {
+     "text": "Film score",
+     "level": 1
+    },
+    {
+     "text": "Iconic themes",
+     "level": 2
+    },
+    {
+     "text": "Album release",
+     "level": 2
+    },
+    {
+     "text": "Orchestral pieces",
+     "level": 3
+    },
+    {
+     "text": "Hit songs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Score",
+    "Playlist",
+    "Sound effects"
+   ]
+  },
+  {
+   "word": "Blockbuster",
+   "hints": [
+    {
+     "text": "Movie hit",
+     "level": 1
+    },
+    {
+     "text": "Big film",
+     "level": 1
+    },
+    {
+     "text": "Summer releases",
+     "level": 2
+    },
+    {
+     "text": "Record sales",
+     "level": 2
+    },
+    {
+     "text": "Huge budget",
+     "level": 3
+    },
+    {
+     "text": "Long queues",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Flop",
+    "Indie",
+    "Sequel"
+   ]
+  },
+  {
+   "word": "Box office",
+   "hints": [
+    {
+     "text": "Movie earnings",
+     "level": 1
+    },
+    {
+     "text": "Ticket sales",
+     "level": 1
+    },
+    {
+     "text": "Opening weekend",
+     "level": 2
+    },
+    {
+     "text": "Records broken",
+     "level": 2
+    },
+    {
+     "text": "Revenue charts",
+     "level": 3
+    },
+    {
+     "text": "Theater tills",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Budget",
+    "Ratings",
+    "Reviews"
+   ]
+  },
+  {
+   "word": "Cinema",
+   "hints": [
+    {
+     "text": "Movie theater",
+     "level": 1
+    },
+    {
+     "text": "Film venue",
+     "level": 1
+    },
+    {
+     "text": "Date nights",
+     "level": 2
+    },
+    {
+     "text": "Big screen",
+     "level": 2
+    },
+    {
+     "text": "Dark hall",
+     "level": 3
+    },
+    {
+     "text": "Popcorn stand",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Theater",
+    "Drive in",
+    "Arena"
+   ]
+  },
+  {
+   "word": "Drive in",
+   "hints": [
+    {
+     "text": "Outdoor cinema",
+     "level": 1
+    },
+    {
+     "text": "Car theater",
+     "level": 1
+    },
+    {
+     "text": "Retro dates",
+     "level": 2
+    },
+    {
+     "text": "Watch from car",
+     "level": 2
+    },
+    {
+     "text": "Giant outdoor screen",
+     "level": 3
+    },
+    {
+     "text": "Radio sound",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cinema",
+    "Picnic",
+    "Theater"
+   ]
+  },
+  {
+   "word": "Film festival",
+   "hints": [
+    {
+     "text": "Movie event",
+     "level": 1
+    },
+    {
+     "text": "Industry showcase",
+     "level": 1
+    },
+    {
+     "text": "Premieres and awards",
+     "level": 2
+    },
+    {
+     "text": "Indie gems",
+     "level": 2
+    },
+    {
+     "text": "Juries and screenings",
+     "level": 3
+    },
+    {
+     "text": "Coastal venues",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Award show",
+    "Premiere",
+    "Convention"
+   ]
+  },
+  {
+   "word": "Screenplay",
+   "hints": [
+    {
+     "text": "Movie script",
+     "level": 1
+    },
+    {
+     "text": "Writer's text",
+     "level": 1
+    },
+    {
+     "text": "Dialogue and directions",
+     "level": 2
+    },
+    {
+     "text": "Drafts",
+     "level": 2
+    },
+    {
+     "text": "Formatted pages",
+     "level": 3
+    },
+    {
+     "text": "Scene headings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Novel",
+    "Storyboard",
+    "Script"
+   ]
+  },
+  {
+   "word": "Storyboard",
+   "hints": [
+    {
+     "text": "Film planning",
+     "level": 1
+    },
+    {
+     "text": "Drawn sequence",
+     "level": 1
+    },
+    {
+     "text": "Pre production",
+     "level": 2
+    },
+    {
+     "text": "Shot planning",
+     "level": 2
+    },
+    {
+     "text": "Comic style panels",
+     "level": 3
+    },
+    {
+     "text": "Sketches",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Screenplay",
+    "Animation",
+    "Comic"
+   ]
+  },
+  {
+   "word": "Clapperboard",
+   "hints": [
+    {
+     "text": "Film tool",
+     "level": 1
+    },
+    {
+     "text": "Scene marker",
+     "level": 1
+    },
+    {
+     "text": "Take one",
+     "level": 2
+    },
+    {
+     "text": "Snaps before shooting",
+     "level": 2
+    },
+    {
+     "text": "Black and white stripes",
+     "level": 3
+    },
+    {
+     "text": "Chalk numbers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Megaphone",
+    "Camera",
+    "Script"
+   ]
+  },
+  {
+   "word": "Cameo",
+   "hints": [
+    {
+     "text": "Brief appearance",
+     "level": 1
+    },
+    {
+     "text": "Surprise role",
+     "level": 1
+    },
+    {
+     "text": "Director pops up",
+     "level": 2
+    },
+    {
+     "text": "Fans spot it",
+     "level": 2
+    },
+    {
+     "text": "Few seconds",
+     "level": 3
+    },
+    {
+     "text": "Famous face",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Extra",
+    "Lead role",
+    "Narrator"
+   ]
+  },
+  {
+   "word": "Extra",
+   "hints": [
+    {
+     "text": "Background actor",
+     "level": 1
+    },
+    {
+     "text": "Film crowd",
+     "level": 1
+    },
+    {
+     "text": "Walks in background",
+     "level": 2
+    },
+    {
+     "text": "No lines",
+     "level": 2
+    },
+    {
+     "text": "Crowd scenes",
+     "level": 3
+    },
+    {
+     "text": "Paid daily",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cameo",
+    "Stunt double",
+    "Lead"
+   ]
+  },
+  {
+   "word": "Narrator",
+   "hints": [
+    {
+     "text": "Story voice",
+     "level": 1
+    },
+    {
+     "text": "Offscreen speaker",
+     "level": 1
+    },
+    {
+     "text": "Documentaries",
+     "level": 2
+    },
+    {
+     "text": "Fairy tale films",
+     "level": 2
+    },
+    {
+     "text": "Deep voiceover",
+     "level": 3
+    },
+    {
+     "text": "Guides story",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Host",
+    "Actor",
+    "Director"
+   ]
+  },
+  {
+   "word": "Subtitles",
+   "hints": [
+    {
+     "text": "On screen text",
+     "level": 1
+    },
+    {
+     "text": "Translation",
+     "level": 1
+    },
+    {
+     "text": "Foreign films",
+     "level": 2
+    },
+    {
+     "text": "Hard of hearing",
+     "level": 2
+    },
+    {
+     "text": "Bottom of screen",
+     "level": 3
+    },
+    {
+     "text": "Read along",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dubbing",
+    "Captions",
+    "Credits"
+   ]
+  },
+  {
+   "word": "Credits",
+   "hints": [
+    {
+     "text": "Film ending",
+     "level": 1
+    },
+    {
+     "text": "Cast list",
+     "level": 1
+    },
+    {
+     "text": "Roll at the end",
+     "level": 2
+    },
+    {
+     "text": "Bonus scenes after",
+     "level": 2
+    },
+    {
+     "text": "Scrolling names",
+     "level": 3
+    },
+    {
+     "text": "Crew listed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Trailer",
+    "Subtitles",
+    "Poster"
+   ]
+  },
+  {
+   "word": "Dubbing",
+   "hints": [
+    {
+     "text": "Voice replacement",
+     "level": 1
+    },
+    {
+     "text": "Language swap",
+     "level": 1
+    },
+    {
+     "text": "Foreign releases",
+     "level": 2
+    },
+    {
+     "text": "Mismatched lips",
+     "level": 2
+    },
+    {
+     "text": "Recorded voices",
+     "level": 3
+    },
+    {
+     "text": "Studio booth",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Subtitles",
+    "Narration",
+    "Lip sync"
+   ]
+  },
+  {
+   "word": "Silent film",
+   "hints": [
+    {
+     "text": "Old movie",
+     "level": 1
+    },
+    {
+     "text": "Early cinema",
+     "level": 1
+    },
+    {
+     "text": "Piano accompaniment",
+     "level": 2
+    },
+    {
+     "text": "Title cards",
+     "level": 2
+    },
+    {
+     "text": "Black and white",
+     "level": 3
+    },
+    {
+     "text": "No dialogue",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Talkie",
+    "Cartoon",
+    "Mime"
+   ]
+  },
+  {
+   "word": "Monochrome",
+   "hints": [
+    {
+     "text": "Old film style",
+     "level": 1
+    },
+    {
+     "text": "Grayscale",
+     "level": 1
+    },
+    {
+     "text": "Classic cinema",
+     "level": 2
+    },
+    {
+     "text": "Noir mood",
+     "level": 2
+    },
+    {
+     "text": "Grey tones",
+     "level": 3
+    },
+    {
+     "text": "No color",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Technicolor",
+    "Sepia",
+    "Silent film"
+   ]
+  },
+  {
+   "word": "Film noir",
+   "hints": [
+    {
+     "text": "Movie style",
+     "level": 1
+    },
+    {
+     "text": "Dark crime genre",
+     "level": 1
+    },
+    {
+     "text": "Detectives and femme fatales",
+     "level": 2
+    },
+    {
+     "text": "Rainy streets",
+     "level": 2
+    },
+    {
+     "text": "Shadows and smoke",
+     "level": 3
+    },
+    {
+     "text": "Trench coats",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Thriller",
+    "Mystery",
+    "Western"
+   ]
+  },
+  {
+   "word": "Mockumentary",
+   "hints": [
+    {
+     "text": "Comedy style",
+     "level": 1
+    },
+    {
+     "text": "Fake documentary",
+     "level": 1
+    },
+    {
+     "text": "Talking heads",
+     "level": 2
+    },
+    {
+     "text": "Deadpan humor",
+     "level": 2
+    },
+    {
+     "text": "Shaky camera",
+     "level": 3
+    },
+    {
+     "text": "Interviews",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Documentary",
+    "Parody",
+    "Sitcom"
+   ]
+  },
+  {
+   "word": "Parody",
+   "hints": [
+    {
+     "text": "Comedy style",
+     "level": 1
+    },
+    {
+     "text": "Spoof",
+     "level": 1
+    },
+    {
+     "text": "Mocks famous films",
+     "level": 2
+    },
+    {
+     "text": "Silly jokes",
+     "level": 2
+    },
+    {
+     "text": "Exaggerated copy",
+     "level": 3
+    },
+    {
+     "text": "Pop culture gags",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Satire",
+    "Remake",
+    "Comedy"
+   ]
+  },
+  {
+   "word": "Biopic",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "Life story",
+     "level": 1
+    },
+    {
+     "text": "Real person portrayed",
+     "level": 2
+    },
+    {
+     "text": "Award bait",
+     "level": 2
+    },
+    {
+     "text": "Makeup transformations",
+     "level": 3
+    },
+    {
+     "text": "Based on facts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Documentary",
+    "Drama",
+    "Memoir"
+   ]
+  },
+  {
+   "word": "Epic",
+   "hints": [
+    {
+     "text": "Film style",
+     "level": 1
+    },
+    {
+     "text": "Grand scale",
+     "level": 1
+    },
+    {
+     "text": "Long runtime",
+     "level": 2
+    },
+    {
+     "text": "Thousands of extras",
+     "level": 2
+    },
+    {
+     "text": "Sweeping battles",
+     "level": 3
+    },
+    {
+     "text": "Historical sagas",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Saga",
+    "Blockbuster",
+    "Drama"
+   ]
+  },
+  {
+   "word": "Musical number",
+   "hints": [
+    {
+     "text": "Film moment",
+     "level": 1
+    },
+    {
+     "text": "Song sequence",
+     "level": 1
+    },
+    {
+     "text": "Everyone dances",
+     "level": 2
+    },
+    {
+     "text": "Showstopper",
+     "level": 2
+    },
+    {
+     "text": "Choreography",
+     "level": 3
+    },
+    {
+     "text": "Catchy tune",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Montage",
+    "Soundtrack",
+    "Finale"
+   ]
+  },
+  {
+   "word": "Love triangle",
+   "hints": [
+    {
+     "text": "Story trope",
+     "level": 1
+    },
+    {
+     "text": "Romantic rivalry",
+     "level": 1
+    },
+    {
+     "text": "Two suitors",
+     "level": 2
+    },
+    {
+     "text": "Choose one",
+     "level": 2
+    },
+    {
+     "text": "Jealousy",
+     "level": 3
+    },
+    {
+     "text": "Heartbreak",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Romance",
+    "Rivalry",
+    "Breakup"
+   ]
+  },
+  {
+   "word": "Chosen one",
+   "hints": [
+    {
+     "text": "Story trope",
+     "level": 1
+    },
+    {
+     "text": "Destined hero",
+     "level": 1
+    },
+    {
+     "text": "Prophecy foretold",
+     "level": 2
+    },
+    {
+     "text": "Reluctant start",
+     "level": 2
+    },
+    {
+     "text": "Special mark",
+     "level": 3
+    },
+    {
+     "text": "Saves the world",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mentor",
+    "Villain",
+    "Sidekick"
+   ]
+  },
+  {
+   "word": "Mentor",
+   "hints": [
+    {
+     "text": "Story role",
+     "level": 1
+    },
+    {
+     "text": "Wise guide",
+     "level": 1
+    },
+    {
+     "text": "Trains the hero",
+     "level": 2
+    },
+    {
+     "text": "Often dies",
+     "level": 2
+    },
+    {
+     "text": "Old and wise",
+     "level": 3
+    },
+    {
+     "text": "Gives advice",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sidekick",
+    "Villain",
+    "Hero"
+   ]
+  },
+  {
+   "word": "Training montage",
+   "hints": [
+    {
+     "text": "Story sequence",
+     "level": 1
+    },
+    {
+     "text": "Improvement scenes",
+     "level": 1
+    },
+    {
+     "text": "Underdog prepares",
+     "level": 2
+    },
+    {
+     "text": "Pumping music",
+     "level": 2
+    },
+    {
+     "text": "Push ups and running",
+     "level": 3
+    },
+    {
+     "text": "Quick cuts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Flashback",
+    "Finale",
+    "Slow motion"
+   ]
+  },
+  {
+   "word": "Final battle",
+   "hints": [
+    {
+     "text": "Story climax",
+     "level": 1
+    },
+    {
+     "text": "Showdown",
+     "level": 1
+    },
+    {
+     "text": "Hero faces villain",
+     "level": 2
+    },
+    {
+     "text": "Everything at stake",
+     "level": 2
+    },
+    {
+     "text": "Epic fight",
+     "level": 3
+    },
+    {
+     "text": "Last stand",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Prologue",
+    "Montage",
+    "Cliffhanger"
+   ]
+  },
+  {
+   "word": "Happy ending",
+   "hints": [
+    {
+     "text": "Story conclusion",
+     "level": 1
+    },
+    {
+     "text": "Feel good finish",
+     "level": 1
+    },
+    {
+     "text": "Couple reunites",
+     "level": 2
+    },
+    {
+     "text": "Credits roll smiling",
+     "level": 2
+    },
+    {
+     "text": "Celebrations",
+     "level": 3
+    },
+    {
+     "text": "Everything resolved",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tragedy",
+    "Cliffhanger",
+    "Twist"
+   ]
+  },
+  {
+   "word": "Car chase",
+   "hints": [
+    {
+     "text": "Action scene",
+     "level": 1
+    },
+    {
+     "text": "Pursuit",
+     "level": 1
+    },
+    {
+     "text": "Screeching tires",
+     "level": 2
+    },
+    {
+     "text": "Police sirens",
+     "level": 2
+    },
+    {
+     "text": "Crashing through markets",
+     "level": 3
+    },
+    {
+     "text": "Wrong way driving",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shootout",
+    "Explosion",
+    "Foot chase"
+   ]
+  },
+  {
+   "word": "Explosion",
+   "hints": [
+    {
+     "text": "Action effect",
+     "level": 1
+    },
+    {
+     "text": "Big blast",
+     "level": 1
+    },
+    {
+     "text": "Hero walks away",
+     "level": 2
+    },
+    {
+     "text": "Slow motion fireball",
+     "level": 2
+    },
+    {
+     "text": "Fire and debris",
+     "level": 3
+    },
+    {
+     "text": "Loud boom",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Car chase",
+    "Shootout",
+    "Crash"
+   ]
+  },
+  {
+   "word": "Shootout",
+   "hints": [
+    {
+     "text": "Action scene",
+     "level": 1
+    },
+    {
+     "text": "Gunfight",
+     "level": 1
+    },
+    {
+     "text": "Western duels",
+     "level": 2
+    },
+    {
+     "text": "Crime films",
+     "level": 2
+    },
+    {
+     "text": "Bullets flying",
+     "level": 3
+    },
+    {
+     "text": "Taking cover",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Car chase",
+    "Explosion",
+    "Sword fight"
+   ]
+  },
+  {
+   "word": "Sword fight",
+   "hints": [
+    {
+     "text": "Action scene",
+     "level": 1
+    },
+    {
+     "text": "Duel",
+     "level": 1
+    },
+    {
+     "text": "Pirates and knights",
+     "level": 2
+    },
+    {
+     "text": "Clashing blades",
+     "level": 2
+    },
+    {
+     "text": "Fencing moves",
+     "level": 3
+    },
+    {
+     "text": "Sparks fly",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shootout",
+    "Fist fight",
+    "Archery"
+   ]
+  },
+  {
+   "word": "Kung fu",
+   "hints": [
+    {
+     "text": "Martial arts film",
+     "level": 1
+    },
+    {
+     "text": "Action genre",
+     "level": 1
+    },
+    {
+     "text": "Training masters",
+     "level": 2
+    },
+    {
+     "text": "Flying kicks",
+     "level": 2
+    },
+    {
+     "text": "Dubbed dialogue",
+     "level": 3
+    },
+    {
+     "text": "Bamboo sets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Samurai film",
+    "Boxing film",
+    "Western"
+   ]
+  },
+  {
+   "word": "Samurai film",
+   "hints": [
+    {
+     "text": "Japanese genre",
+     "level": 1
+    },
+    {
+     "text": "Sword epic",
+     "level": 1
+    },
+    {
+     "text": "Honor and duty",
+     "level": 2
+    },
+    {
+     "text": "Masterless warriors",
+     "level": 2
+    },
+    {
+     "text": "Katana duels",
+     "level": 3
+    },
+    {
+     "text": "Feudal villages",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kung fu",
+    "Western",
+    "War film"
+   ]
+  },
+  {
+   "word": "Spy movie",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "Espionage thriller",
+     "level": 1
+    },
+    {
+     "text": "Secret agents",
+     "level": 2
+    },
+    {
+     "text": "Gadgets",
+     "level": 2
+    },
+    {
+     "text": "Tuxedos and martinis",
+     "level": 3
+    },
+    {
+     "text": "Double agents",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Heist",
+    "Thriller",
+    "War"
+   ]
+  },
+  {
+   "word": "Monster movie",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "Creature feature",
+     "level": 1
+    },
+    {
+     "text": "Giant beasts",
+     "level": 2
+    },
+    {
+     "text": "Cities destroyed",
+     "level": 2
+    },
+    {
+     "text": "Rampaging lizard",
+     "level": 3
+    },
+    {
+     "text": "Screaming crowds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Disaster",
+    "Horror",
+    "Alien invasion"
+   ]
+  },
+  {
+   "word": "Pirate movie",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "High seas adventure",
+     "level": 1
+    },
+    {
+     "text": "Treasure maps",
+     "level": 2
+    },
+    {
+     "text": "Sword fights",
+     "level": 2
+    },
+    {
+     "text": "Eye patches",
+     "level": 3
+    },
+    {
+     "text": "Skull flags",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Western",
+    "Adventure",
+    "Fantasy"
+   ]
+  },
+  {
+   "word": "Dinosaur movie",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "Prehistoric adventure",
+     "level": 1
+    },
+    {
+     "text": "Theme park disaster",
+     "level": 2
+    },
+    {
+     "text": "Roaring beasts",
+     "level": 2
+    },
+    {
+     "text": "Raptors chase",
+     "level": 3
+    },
+    {
+     "text": "Fossils come alive",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Monster movie",
+    "Disaster",
+    "Jungle"
+   ]
+  },
+  {
+   "word": "Space opera",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "Galactic epic",
+     "level": 1
+    },
+    {
+     "text": "Star empires",
+     "level": 2
+    },
+    {
+     "text": "Laser swords",
+     "level": 2
+    },
+    {
+     "text": "Rebels and empires",
+     "level": 3
+    },
+    {
+     "text": "Starships",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Science fiction",
+    "Fantasy",
+    "Western"
+   ]
+  },
+  {
+   "word": "Fairy tale",
+   "hints": [
+    {
+     "text": "Story type",
+     "level": 1
+    },
+    {
+     "text": "Classic fable",
+     "level": 1
+    },
+    {
+     "text": "Once upon a time",
+     "level": 2
+    },
+    {
+     "text": "Bedtime stories",
+     "level": 2
+    },
+    {
+     "text": "Princesses and witches",
+     "level": 3
+    },
+    {
+     "text": "Magic spells",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fable",
+    "Myth",
+    "Legend"
+   ]
+  },
+  {
+   "word": "Teen movie",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "High school story",
+     "level": 1
+    },
+    {
+     "text": "Prom night",
+     "level": 2
+    },
+    {
+     "text": "Popular cliques",
+     "level": 2
+    },
+    {
+     "text": "Lockers and cafeterias",
+     "level": 3
+    },
+    {
+     "text": "First crush",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Growing up",
+    "Rom com",
+    "Sitcom"
+   ]
+  },
+  {
+   "word": "Sports movie",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "Underdog story",
+     "level": 1
+    },
+    {
+     "text": "Big game finale",
+     "level": 2
+    },
+    {
+     "text": "Locker room speeches",
+     "level": 2
+    },
+    {
+     "text": "Training scenes",
+     "level": 3
+    },
+    {
+     "text": "Comeback victory",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Biopic",
+    "Drama",
+    "Documentary"
+   ]
+  },
+  {
+   "word": "Courtroom drama",
+   "hints": [
+    {
+     "text": "Film genre",
+     "level": 1
+    },
+    {
+     "text": "Legal story",
+     "level": 1
+    },
+    {
+     "text": "Objection your honor",
+     "level": 2
+    },
+    {
+     "text": "Shocking testimony",
+     "level": 2
+    },
+    {
+     "text": "Judge and jury",
+     "level": 3
+    },
+    {
+     "text": "Closing argument",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+   ]
+  },
+  {
+   "word": "Disaster film",
+   "hints": [
+    {
+     "text": "Movie genre",
+     "level": 1
+    },
+    {
+     "text": "Catastrophe story",
+     "level": 1
+    },
+    {
+     "text": "Tsunamis and twisters",
+     "level": 2
+    },
+    {
+     "text": "Survival race",
+     "level": 2
+    },
+    {
+     "text": "Crumbling cities",
+     "level": 3
+    },
+    {
+     "text": "Heroic scientists",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Monster movie",
+    "Thriller",
+    "War film"
+   ]
+  },
+  {
+   "word": "Martial arts",
+   "hints": [
+    {
+     "text": "Fight style",
+     "level": 1
+    },
+    {
+     "text": "Action genre",
+     "level": 1
+    },
+    {
+     "text": "Training dojos",
+     "level": 2
+    },
+    {
+     "text": "Belts and masters",
+     "level": 2
+    },
+    {
+     "text": "High kicks",
+     "level": 3
+    },
+    {
+     "text": "Choreographed fights",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Boxing",
+    "Wrestling",
+    "Fencing"
+   ]
+  },
+  {
+   "word": "Bollywood",
+   "hints": [
+    {
+     "text": "Film industry",
+     "level": 1
+    },
+    {
+     "text": "Indian cinema",
+     "level": 1
+    },
+    {
+     "text": "Song and dance",
+     "level": 2
+    },
+    {
+     "text": "Big weddings",
+     "level": 2
+    },
+    {
+     "text": "Colorful sets",
+     "level": 3
+    },
+    {
+     "text": "Three hour films",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hollywood",
+    "Tollywood",
+    "Nollywood"
+   ]
+  },
+  {
+   "word": "Hollywood",
+   "hints": [
+    {
+     "text": "Film industry",
+     "level": 1
+    },
+    {
+     "text": "Movie capital",
+     "level": 1
+    },
+    {
+     "text": "Studios and stars",
+     "level": 2
+    },
+    {
+     "text": "Walk of fame",
+     "level": 2
+    },
+    {
+     "text": "Hillside sign",
+     "level": 3
+    },
+    {
+     "text": "Big budgets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bollywood",
+    "Broadway",
+    "Nollywood"
+   ]
+  },
+  {
+   "word": "Anime",
+   "hints": [
+    {
+     "text": "Animation style",
+     "level": 1
+    },
+    {
+     "text": "Japanese cartoons",
+     "level": 1
+    },
+    {
+     "text": "Big expressive eyes",
+     "level": 2
+    },
+    {
+     "text": "Fan conventions",
+     "level": 2
+    },
+    {
+     "text": "Hand drawn action",
+     "level": 3
+    },
+    {
+     "text": "Dubbed or subbed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cartoon",
+    "Manga",
+    "Animation"
+   ]
+  },
+  {
+   "word": "Cartoon",
+   "hints": [
+    {
+     "text": "Animation",
+     "level": 1
+    },
+    {
+     "text": "Kids show",
+     "level": 1
+    },
+    {
+     "text": "Saturday mornings",
+     "level": 2
+    },
+    {
+     "text": "Talking animals",
+     "level": 2
+    },
+    {
+     "text": "Bright colors",
+     "level": 3
+    },
+    {
+     "text": "Slapstick gags",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Anime",
+    "Comic",
+    "Puppet show"
+   ]
+  },
+  {
+   "word": "Sitcom",
+   "hints": [
+    {
+     "text": "Television genre",
+     "level": 1
+    },
+    {
+     "text": "Comedy series",
+     "level": 1
+    },
+    {
+     "text": "Laugh track",
+     "level": 2
+    },
+    {
+     "text": "Family living room",
+     "level": 2
+    },
+    {
+     "text": "Episodes",
+     "level": 3
+    },
+    {
+     "text": "Catchphrases",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Drama",
+    "Reality show",
+    "Soap opera"
+   ]
+  },
+  {
+   "word": "Soap opera",
+   "hints": [
+    {
+     "text": "Television genre",
+     "level": 1
+    },
+    {
+     "text": "Daily drama",
+     "level": 1
+    },
+    {
+     "text": "Evil twins",
+     "level": 2
+    },
+    {
+     "text": "Dramatic slaps",
+     "level": 2
+    },
+    {
+     "text": "Long running",
+     "level": 3
+    },
+    {
+     "text": "Cliffhanger episodes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sitcom",
+    "Telenovela",
+    "Drama"
+   ]
+  },
+  {
+   "word": "Reality show",
+   "hints": [
+    {
+     "text": "Television genre",
+     "level": 1
+    },
+    {
+     "text": "Unscripted series",
+     "level": 1
+    },
+    {
+     "text": "Contestants voted off",
+     "level": 2
+    },
+    {
+     "text": "Confessionals",
+     "level": 2
+    },
+    {
+     "text": "Hidden cameras",
+     "level": 3
+    },
+    {
+     "text": "Drama queens",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Game show",
+    "Sitcom",
+    "Documentary"
+   ]
+  },
+  {
+   "word": "Game show",
+   "hints": [
+    {
+     "text": "Television genre",
+     "level": 1
+    },
+    {
+     "text": "Quiz program",
+     "level": 1
+    },
+    {
+     "text": "Contestants win prizes",
+     "level": 2
+    },
+    {
+     "text": "Studio audience",
+     "level": 2
+    },
+    {
+     "text": "Buzzers",
+     "level": 3
+    },
+    {
+     "text": "Host with cards",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Reality show",
+    "Talk show",
+    "Quiz"
+   ]
+  },
+  {
+   "word": "Talk show",
+   "hints": [
+    {
+     "text": "Television genre",
+     "level": 1
+    },
+    {
+     "text": "Interview program",
+     "level": 1
+    },
+    {
+     "text": "Celebrity guests",
+     "level": 2
+    },
+    {
+     "text": "Late night",
+     "level": 2
+    },
+    {
+     "text": "Desk and couch",
+     "level": 3
+    },
+    {
+     "text": "House band",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Game show",
+    "News",
+    "Podcast"
+   ]
+  },
+  {
+   "word": "Binge watch",
+   "hints": [
+    {
+     "text": "Viewing habit",
+     "level": 1
+    },
+    {
+     "text": "Marathon viewing",
+     "level": 1
+    },
+    {
+     "text": "Whole season overnight",
+     "level": 2
+    },
+    {
+     "text": "Next episode autoplay",
+     "level": 2
+    },
+    {
+     "text": "Couch and snacks",
+     "level": 3
+    },
+    {
+     "text": "Streaming",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rewatch",
+    "Channel surf",
+    "Skim"
+   ]
+  },
+  {
+   "word": "Video streaming",
+   "hints": [
+    {
+     "text": "Online platform",
+     "level": 1
+    },
+    {
+     "text": "Monthly subscription",
+     "level": 1
+    },
+    {
+     "text": "Binge worthy shows",
+     "level": 2
+    },
+    {
+     "text": "Monthly fee",
+     "level": 2
+    },
+    {
+     "text": "Recommendations",
+     "level": 3
+    },
+    {
+     "text": "Skip intro",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cable",
+    "Cinema",
+    "Rental"
+   ]
+  },
+  {
+   "word": "Movie night",
+   "hints": [
+    {
+     "text": "Social event",
+     "level": 1
+    },
+    {
+     "text": "Home cinema",
+     "level": 1
+    },
+    {
+     "text": "Friends and popcorn",
+     "level": 2
+    },
+    {
+     "text": "Pick a film",
+     "level": 2
+    },
+    {
+     "text": "Dim lights",
+     "level": 3
+    },
+    {
+     "text": "Blankets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Game night",
+    "Party",
+    "Concert"
+   ]
+  },
+  {
+   "word": "Usher",
+   "hints": [
+    {
+     "text": "Cinema worker",
+     "level": 1
+    },
+    {
+     "text": "Seat guide",
+     "level": 1
+    },
+    {
+     "text": "Flashlight in aisles",
+     "level": 2
+    },
+    {
+     "text": "Checks tickets",
+     "level": 2
+    },
+    {
+     "text": "Uniform",
+     "level": 3
+    },
+    {
+     "text": "Shushes talkers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Projectionist",
+    "Cashier",
+    "Guard"
+   ]
+  },
+  {
+   "word": "Projector",
+   "hints": [
+    {
+     "text": "Cinema machine",
+     "level": 1
+    },
+    {
+     "text": "Light beam",
+     "level": 1
+    },
+    {
+     "text": "Film reels",
+     "level": 2
+    },
+    {
+     "text": "Booth upstairs",
+     "level": 2
+    },
+    {
+     "text": "Bright beam",
+     "level": 3
+    },
+    {
+     "text": "Whirring",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Screen",
+    "Camera",
+    "Speaker"
+   ]
+  },
+  {
+   "word": "Movie poster",
+   "hints": [
+    {
+     "text": "Promotional art",
+     "level": 1
+    },
+    {
+     "text": "Film advert",
+     "level": 1
+    },
+    {
+     "text": "Hung in lobbies",
+     "level": 2
+    },
+    {
+     "text": "Collectibles",
+     "level": 2
+    },
+    {
+     "text": "Tagline and title",
+     "level": 3
+    },
+    {
+     "text": "Star faces",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Trailer",
+    "Billboard",
+    "Flyer"
+   ]
+  },
+  {
+   "word": "Ticket stub",
+   "hints": [
+    {
+     "text": "Cinema keepsake",
+     "level": 1
+    },
+    {
+     "text": "Admission slip",
+     "level": 1
+    },
+    {
+     "text": "Saved in wallets",
+     "level": 2
+    },
+    {
+     "text": "Torn at entry",
+     "level": 2
+    },
+    {
+     "text": "Seat number",
+     "level": 3
+    },
+    {
+     "text": "Showtime printed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Popcorn bucket",
+    "Poster",
+    "Receipt"
+   ]
+  },
+  {
+   "word": "Movie glasses",
+   "hints": [
+    {
+     "text": "Cinema accessory",
+     "level": 1
+    },
+    {
+     "text": "Viewing gear",
+     "level": 1
+    },
+    {
+     "text": "Things pop out",
+     "level": 2
+    },
+    {
+     "text": "Cardboard or plastic",
+     "level": 2
+    },
+    {
+     "text": "Tinted lenses",
+     "level": 3
+    },
+    {
+     "text": "Depth effect",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sunglasses",
+    "Goggles",
+    "Monocle"
+   ]
+  },
+  {
+   "word": "Extended cut",
+   "hints": [
+    {
+     "text": "Movie version",
+     "level": 1
+    },
+    {
+     "text": "Longer edition",
+     "level": 1
+    },
+    {
+     "text": "Deleted scenes restored",
+     "level": 2
+    },
+    {
+     "text": "Collectors buy",
+     "level": 2
+    },
+    {
+     "text": "Longer runtime",
+     "level": 3
+    },
+    {
+     "text": "Original vision",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Remake",
+    "Sequel",
+    "Trailer"
+   ]
+  },
+  {
+   "word": "Blooper",
+   "hints": [
+    {
+     "text": "Filming mistake",
+     "level": 1
+    },
+    {
+     "text": "Outtake",
+     "level": 1
+    },
+    {
+     "text": "Shown during credits",
+     "level": 2
+    },
+    {
+     "text": "Funny flubs",
+     "level": 2
+    },
+    {
+     "text": "Forgotten lines",
+     "level": 3
+    },
+    {
+     "text": "Giggling actors",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spoiler",
+    "Cameo",
+    "Trailer"
+   ]
+  },
+  {
+   "word": "Box set",
+   "hints": [
+    {
+     "text": "Collector item",
+     "level": 1
+    },
+    {
+     "text": "Complete series",
+     "level": 1
+    },
+    {
+     "text": "Gift for fans",
+     "level": 2
+    },
+    {
+     "text": "Shelf display",
+     "level": 2
+    },
+    {
+     "text": "Many discs",
+     "level": 3
+    },
+    {
+     "text": "Special packaging",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Trailer",
+    "Poster",
+    "Single"
+   ]
+  },
+  {
+   "word": "Costume designer",
+   "hints": [
+    {
+     "text": "Film crew role",
+     "level": 1
+    },
+    {
+     "text": "Wardrobe creator",
+     "level": 1
+    },
+    {
+     "text": "Period outfits",
+     "level": 2
+    },
+    {
+     "text": "Sketches clothes",
+     "level": 2
+    },
+    {
+     "text": "Fabric choices",
+     "level": 3
+    },
+    {
+     "text": "Fittings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Makeup artist",
+    "Director",
+    "Tailor"
+   ]
+  },
+  {
+   "word": "Screenwriter",
+   "hints": [
+    {
+     "text": "Movie author",
+     "level": 1
+    },
+    {
+     "text": "Script author",
+     "level": 1
+    },
+    {
+     "text": "Writes dialogue",
+     "level": 2
+    },
+    {
+     "text": "Rewrites drafts",
+     "level": 2
+    },
+    {
+     "text": "Typing scripts",
+     "level": 3
+    },
+    {
+     "text": "Plot outlines",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Novelist",
+    "Director",
+    "Editor"
+   ]
+  },
+  {
+   "word": "Movie star",
+   "hints": [
+    {
+     "text": "Famous actor",
+     "level": 1
+    },
+    {
+     "text": "Celebrity",
+     "level": 1
+    },
+    {
+     "text": "Red carpets",
+     "level": 2
+    },
+    {
+     "text": "Paparazzi chase",
+     "level": 2
+    },
+    {
+     "text": "Autographs",
+     "level": 3
+    },
+    {
+     "text": "Big salary",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Director",
+    "Extra",
+    "Producer"
+   ]
+  },
+  {
+   "word": "Award show",
+   "hints": [
+    {
+     "text": "Ceremony",
+     "level": 1
+    },
+    {
+     "text": "Film honors",
+     "level": 1
+    },
+    {
+     "text": "Speeches and envelopes",
+     "level": 2
+    },
+    {
+     "text": "Glamorous outfits",
+     "level": 2
+    },
+    {
+     "text": "Golden statues",
+     "level": 3
+    },
+    {
+     "text": "Host jokes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Premiere",
+    "Festival",
+    "Concert"
+   ]
+  },
+  {
+   "word": "Indie film",
+   "hints": [
+    {
+     "text": "Small movie",
+     "level": 1
+    },
+    {
+     "text": "Independent cinema",
+     "level": 1
+    },
+    {
+     "text": "Festival favorite",
+     "level": 2
+    },
+    {
+     "text": "Low budget",
+     "level": 2
+    },
+    {
+     "text": "Quirky characters",
+     "level": 3
+    },
+    {
+     "text": "Handheld camera",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Blockbuster",
+    "Documentary",
+    "Short film"
+   ]
+  },
+  {
+   "word": "Short film",
+   "hints": [
+    {
+     "text": "Brief movie",
+     "level": 1
+    },
+    {
+     "text": "Mini feature",
+     "level": 1
+    },
+    {
+     "text": "Student projects",
+     "level": 2
+    },
+    {
+     "text": "Festival category",
+     "level": 2
+    },
+    {
+     "text": "Under half hour",
+     "level": 3
+    },
+    {
+     "text": "Tight story",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Feature film",
+    "Trailer",
+    "Commercial"
+   ]
+  },
+  {
+   "word": "Feature film",
+   "hints": [
+    {
+     "text": "Full length movie",
+     "level": 1
+    },
+    {
+     "text": "Main picture",
+     "level": 1
+    },
+    {
+     "text": "Theater release",
+     "level": 2
+    },
+    {
+     "text": "Two hours",
+     "level": 2
+    },
+    {
+     "text": "Opening credits",
+     "level": 3
+    },
+    {
+     "text": "Three acts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Short film",
+    "Series",
+    "Documentary"
+   ]
+  },
+  {
+   "word": "Horror villain",
+   "hints": [
+    {
+     "text": "Scary antagonist",
+     "level": 1
+    },
+    {
+     "text": "Slasher figure",
+     "level": 1
+    },
+    {
+     "text": "Masked killer",
+     "level": 2
+    },
+    {
+     "text": "Never stays down",
+     "level": 2
+    },
+    {
+     "text": "Creepy mask",
+     "level": 3
+    },
+    {
+     "text": "Heavy breathing",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Monster",
+    "Ghost",
+    "Zombie"
+   ]
+  },
+  {
+   "word": "Jump scare",
+   "hints": [
+    {
+     "text": "Horror trick",
+     "level": 1
+    },
+    {
+     "text": "Sudden fright",
+     "level": 1
+    },
+    {
+     "text": "Loud bang",
+     "level": 2
+    },
+    {
+     "text": "Audience screams",
+     "level": 2
+    },
+    {
+     "text": "Quiet build up",
+     "level": 3
+    },
+    {
+     "text": "Something leaps out",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Plot twist",
+    "Cliffhanger",
+    "Spoiler"
+   ]
+  },
+  {
+   "word": "Haunted doll",
+   "hints": [
+    {
+     "text": "Horror prop",
+     "level": 1
+    },
+    {
+     "text": "Creepy toy",
+     "level": 1
+    },
+    {
+     "text": "Moves at night",
+     "level": 2
+    },
+    {
+     "text": "Cursed object",
+     "level": 2
+    },
+    {
+     "text": "Porcelain face",
+     "level": 3
+    },
+    {
+     "text": "Glassy eyes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Puppet",
+    "Ghost",
+    "Mannequin"
+   ]
+  },
+  {
+   "word": "Found footage",
+   "hints": [
+    {
+     "text": "Horror style",
+     "level": 1
+    },
+    {
+     "text": "Shaky camera",
+     "level": 1
+    },
+    {
+     "text": "Lost tapes",
+     "level": 2
+    },
+    {
+     "text": "Night vision",
+     "level": 2
+    },
+    {
+     "text": "Handheld recording",
+     "level": 3
+    },
+    {
+     "text": "Missing filmmakers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mockumentary",
+    "Documentary",
+    "Thriller"
+   ]
+  },
+  {
+   "word": "Slasher",
+   "hints": [
+    {
+     "text": "Horror subgenre",
+     "level": 1
+    },
+    {
+     "text": "Masked killer film",
+     "level": 1
+    },
+    {
+     "text": "Teens at camp",
+     "level": 2
+    },
+    {
+     "text": "Final girl",
+     "level": 2
+    },
+    {
+     "text": "Knife wielding",
+     "level": 3
+    },
+    {
+     "text": "Sequel heavy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Thriller",
+    "Zombie",
+    "Haunted house"
+   ]
+  },
+  {
+   "word": "Ghost story",
+   "hints": [
+    {
+     "text": "Spooky tale",
+     "level": 1
+    },
+    {
+     "text": "Haunting plot",
+     "level": 1
+    },
+    {
+     "text": "Told around campfires",
+     "level": 2
+    },
+    {
+     "text": "Restless spirits",
+     "level": 2
+    },
+    {
+     "text": "Old mansions",
+     "level": 3
+    },
+    {
+     "text": "Whispering voices",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fairy tale",
+    "Legend",
+    "Mystery"
+   ]
+  },
+  {
+   "word": "Love story",
+   "hints": [
+    {
+     "text": "Romance tale",
+     "level": 1
+    },
+    {
+     "text": "Heartfelt plot",
+     "level": 1
+    },
+    {
+     "text": "Doomed couples",
+     "level": 2
+    },
+    {
+     "text": "Tear jerker",
+     "level": 2
+    },
+    {
+     "text": "Grand gestures",
+     "level": 3
+    },
+    {
+     "text": "Rain kisses",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fairy tale",
+    "Tragedy",
+    "Comedy"
+   ]
+  },
+  {
+   "word": "Tragedy",
+   "hints": [
+    {
+     "text": "Story type",
+     "level": 1
+    },
+    {
+     "text": "Sad ending",
+     "level": 1
+    },
+    {
+     "text": "Shakespeare classics",
+     "level": 2
+    },
+    {
+     "text": "Heartbreak",
+     "level": 2
+    },
+    {
+     "text": "Fatal flaw",
+     "level": 3
+    },
+    {
+     "text": "Downfall",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ]
+  },
+  {
+   "word": "Satire",
+   "hints": [
+    {
+     "text": "Comedy style",
+     "level": 1
+    },
+    {
+     "text": "Social mockery",
+     "level": 1
+    },
+    {
+     "text": "Political humor",
+     "level": 2
+    },
+    {
+     "text": "Biting wit",
+     "level": 2
+    },
+    {
+     "text": "Exaggeration",
+     "level": 3
+    },
+    {
+     "text": "Irony",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Parody",
+    "Comedy",
+    "Farce"
+   ]
+  },
+  {
+   "word": "Slapstick",
+   "hints": [
+    {
+     "text": "Comedy style",
+     "level": 1
+    },
+    {
+     "text": "Physical humor",
+     "level": 1
+    },
+    {
+     "text": "Pies in face",
+     "level": 2
+    },
+    {
+     "text": "Silent era",
+     "level": 2
+    },
+    {
+     "text": "Pratfalls",
+     "level": 3
+    },
+    {
+     "text": "Banana peels",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Satire",
+    "Parody",
+    "Mime"
+   ]
+  },
+  {
+   "word": "Underdog",
+   "hints": [
+    {
+     "text": "Story trope",
+     "level": 1
+    },
+    {
+     "text": "Unlikely hero",
+     "level": 1
+    },
+    {
+     "text": "Nobody believes in them",
+     "level": 2
+    },
+    {
+     "text": "Big comeback",
+     "level": 2
+    },
+    {
+     "text": "Long odds",
+     "level": 3
+    },
+    {
+     "text": "Triumph",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Champion",
+    "Villain",
+    "Rookie"
+   ]
+  },
+  {
+   "word": "Buddy cop",
+   "hints": [
+    {
+     "text": "Movie trope",
+     "level": 1
+    },
+    {
+     "text": "Mismatched partners",
+     "level": 1
+    },
+    {
+     "text": "Odd couple detectives",
+     "level": 2
+    },
+    {
+     "text": "Wisecracks",
+     "level": 2
+    },
+    {
+     "text": "Two partners",
+     "level": 3
+    },
+    {
+     "text": "Car banter",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Heist",
+    "Spy movie",
+    "Western"
+   ]
+  },
+  {
+   "word": "Femme fatale",
+   "hints": [
+    {
+     "text": "Noir trope",
+     "level": 1
+    },
+    {
+     "text": "Dangerous woman",
+     "level": 1
+    },
+    {
+     "text": "Seduces the detective",
+     "level": 2
+    },
+    {
+     "text": "Mysterious past",
+     "level": 2
+    },
+    {
+     "text": "Red lipstick",
+     "level": 3
+    },
+    {
+     "text": "Smoky glances",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Villain",
+    "Heroine",
+    "Spy"
+   ]
+  },
+  {
+   "word": "Mad scientist",
+   "hints": [
+    {
+     "text": "Movie trope",
+     "level": 1
+    },
+    {
+     "text": "Crazy inventor",
+     "level": 1
+    },
+    {
+     "text": "Evil experiments",
+     "level": 2
+    },
+    {
+     "text": "Lightning lab",
+     "level": 2
+    },
+    {
+     "text": "Wild white hair",
+     "level": 3
+    },
+    {
+     "text": "Bubbling beakers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Villain",
+    "Inventor",
+    "Wizard"
+   ]
+  },
+  {
+   "word": "Evil twin",
+   "hints": [
+    {
+     "text": "Story trope",
+     "level": 1
+    },
+    {
+     "text": "Sinister double",
+     "level": 1
+    },
+    {
+     "text": "Soap opera twist",
+     "level": 2
+    },
+    {
+     "text": "Mistaken identity",
+     "level": 2
+    },
+    {
+     "text": "Identical face",
+     "level": 3
+    },
+    {
+     "text": "Secret sibling",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Doppelganger",
+    "Clone",
+    "Villain"
+   ]
+  },
+  {
+   "word": "Last stand",
+   "hints": [
+    {
+     "text": "Story climax",
+     "level": 1
+    },
+    {
+     "text": "Final defense",
+     "level": 1
+    },
+    {
+     "text": "Heroes outnumbered",
+     "level": 2
+    },
+    {
+     "text": "Defend the fort",
+     "level": 2
+    },
+    {
+     "text": "Barricades",
+     "level": 3
+    },
+    {
+     "text": "Brave sacrifice",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Final battle",
+    "Siege",
+    "Retreat"
+   ]
+  },
+  {
+   "word": "Damsel",
+   "hints": [
+    {
+     "text": "Story trope",
+     "level": 1
+    },
+    {
+     "text": "Rescued character",
+     "level": 1
+    },
+    {
+     "text": "Tied to tracks",
+     "level": 2
+    },
+    {
+     "text": "Tower captive",
+     "level": 2
+    },
+    {
+     "text": "Waits for rescue",
+     "level": 3
+    },
+    {
+     "text": "Classic trope",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hero",
+    "Villain",
+    "Princess"
+   ]
+  },
+  {
+   "word": "Princess",
+   "hints": [
+    {
+     "text": "Royal character",
+     "level": 1
+    },
+    {
+     "text": "Fairy tale lead",
+     "level": 1
+    },
+    {
+     "text": "Castles and balls",
+     "level": 2
+    },
+    {
+     "text": "Tiara",
+     "level": 2
+    },
+    {
+     "text": "Ballgown",
+     "level": 3
+    },
+    {
+     "text": "Royal title",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Queen",
+    "Duchess",
+    "Damsel"
+   ]
+  },
+  {
+   "word": "Treasure map",
+   "hints": [
+    {
+     "text": "Adventure prop",
+     "level": 1
+    },
+    {
+     "text": "Pirate chart",
+     "level": 1
+    },
+    {
+     "text": "Marked with an x",
+     "level": 2
+    },
+    {
+     "text": "Buried gold",
+     "level": 2
+    },
+    {
+     "text": "Old parchment",
+     "level": 3
+    },
+    {
+     "text": "Dotted path",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Compass",
+    "Chest",
+    "Scroll"
+   ]
+  },
+  {
+   "word": "Secret agent",
+   "hints": [
+    {
+     "text": "Spy character",
+     "level": 1
+    },
+    {
+     "text": "Undercover operative",
+     "level": 1
+    },
+    {
+     "text": "Gadgets and disguises",
+     "level": 2
+    },
+    {
+     "text": "License to act",
+     "level": 2
+    },
+    {
+     "text": "Earpiece",
+     "level": 3
+    },
+    {
+     "text": "Sunglasses",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Detective",
+    "Hacker",
+    "Soldier"
+   ]
+  },
+  {
+   "word": "Time loop",
+   "hints": [
+    {
+     "text": "Movie theme",
+     "level": 1
+    },
+    {
+     "text": "Repeating day",
+     "level": 1
+    },
+    {
+     "text": "Wakes up again",
+     "level": 2
+    },
+    {
+     "text": "Same day repeats",
+     "level": 2
+    },
+    {
+     "text": "Alarm clock reset",
+     "level": 3
+    },
+    {
+     "text": "Endless repetition",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Time travel",
+    "Dream",
+    "Flashback"
+   ]
+  },
+  {
+   "word": "Multiverse",
+   "hints": [
+    {
+     "text": "Movie theme",
+     "level": 1
+    },
+    {
+     "text": "Alternate world",
+     "level": 1
+    },
+    {
+     "text": "Other versions of you",
+     "level": 2
+    },
+    {
+     "text": "Portal travel",
+     "level": 2
+    },
+    {
+     "text": "Mirror worlds",
+     "level": 3
+    },
+    {
+     "text": "Infinite versions",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Time travel",
+    "Dream",
+    "Simulation"
+   ]
+  },
+  {
+   "word": "Dream sequence",
+   "hints": [
+    {
+     "text": "Film device",
+     "level": 1
+    },
+    {
+     "text": "Surreal scene",
+     "level": 1
+    },
+    {
+     "text": "Wakes up shocked",
+     "level": 2
+    },
+    {
+     "text": "Floaty visuals",
+     "level": 2
+    },
+    {
+     "text": "Hazy edges",
+     "level": 3
+    },
+    {
+     "text": "Impossible events",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Flashback",
+    "Montage",
+    "Hallucination"
+   ]
+  },
+  {
+   "word": "Cyborg",
+   "hints": [
+    {
+     "text": "Science fiction figure",
+     "level": 1
+    },
+    {
+     "text": "Machine human",
+     "level": 1
+    },
+    {
+     "text": "Robotic limbs",
+     "level": 2
+    },
+    {
+     "text": "Future cops",
+     "level": 2
+    },
+    {
+     "text": "Glowing eye",
+     "level": 3
+    },
+    {
+     "text": "Metal parts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Robot",
+    "Android",
+    "Alien"
+   ]
+  },
+  {
+   "word": "Post apocalyptic",
+   "hints": [
+    {
+     "text": "Movie setting",
+     "level": 1
+    },
+    {
+     "text": "Ruined world",
+     "level": 1
+    },
+    {
+     "text": "Survivors scavenge",
+     "level": 2
+    },
+    {
+     "text": "Wastelands",
+     "level": 2
+    },
+    {
+     "text": "Rusty vehicles",
+     "level": 3
+    },
+    {
+     "text": "Gas masks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dystopia",
+    "Zombie outbreak",
+    "Western"
+   ]
+  },
+  {
+   "word": "Dystopia",
+   "hints": [
+    {
+     "text": "Movie setting",
+     "level": 1
+    },
+    {
+     "text": "Oppressive future",
+     "level": 1
+    },
+    {
+     "text": "Rebels rise",
+     "level": 2
+    },
+    {
+     "text": "Controlled society",
+     "level": 2
+    },
+    {
+     "text": "Surveillance",
+     "level": 3
+    },
+    {
+     "text": "Grey uniforms",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Utopia",
+    "Post apocalyptic",
+    "Kingdom"
+   ]
+  },
+  {
+   "word": "Ensemble cast",
+   "hints": [
+    {
+     "text": "Film style",
+     "level": 1
+    },
+    {
+     "text": "Many stars",
+     "level": 1
+    },
+    {
+     "text": "Interwoven stories",
+     "level": 2
+    },
+    {
+     "text": "Big posters",
+     "level": 2
+    },
+    {
+     "text": "Dozens of actors",
+     "level": 3
+    },
+    {
+     "text": "Equal billing",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Solo lead",
+    "Cameo",
+    "Duo"
+   ]
+  },
+  {
+   "word": "Antihero",
+   "hints": [
+    {
+     "text": "Story role",
+     "level": 1
+    },
+    {
+     "text": "Flawed protagonist",
+     "level": 1
+    },
+    {
+     "text": "Morally grey",
+     "level": 2
+    },
+    {
+     "text": "Fans love them",
+     "level": 2
+    },
+    {
+     "text": "Breaks rules",
+     "level": 3
+    },
+    {
+     "text": "Reluctant savior",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Villain",
+    "Rogue",
+    "Sidekick"
+   ]
+  },
+  {
+   "word": "Henchman",
+   "hints": [
+    {
+     "text": "Movie role",
+     "level": 1
+    },
+    {
+     "text": "Villain helper",
+     "level": 1
+    },
+    {
+     "text": "Easily defeated",
+     "level": 2
+    },
+    {
+     "text": "Matching uniforms",
+     "level": 2
+    },
+    {
+     "text": "Hired muscle",
+     "level": 3
+    },
+    {
+     "text": "Falls first",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sidekick",
+    "Mentor",
+    "Bodyguard"
+   ]
+  },
+  {
+   "word": "Bodyguard",
+   "hints": [
+    {
+     "text": "Movie role",
+     "level": 1
+    },
+    {
+     "text": "Protector",
+     "level": 1
+    },
+    {
+     "text": "Shields the star",
+     "level": 2
+    },
+    {
+     "text": "Sunglasses indoors",
+     "level": 2
+    },
+    {
+     "text": "Earpiece",
+     "level": 3
+    },
+    {
+     "text": "Stern face",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Henchman",
+    "Sidekick",
+    "Chauffeur"
+   ]
+  },
+  {
+   "word": "Chase scene",
+   "hints": [
+    {
+     "text": "Action sequence",
+     "level": 1
+    },
+    {
+     "text": "Pursuit",
+     "level": 1
+    },
+    {
+     "text": "Rooftop runs",
+     "level": 2
+    },
+    {
+     "text": "Market stalls toppled",
+     "level": 2
+    },
+    {
+     "text": "Running and jumping",
+     "level": 3
+    },
+    {
+     "text": "Heart pounding",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Car chase",
+    "Shootout",
+    "Montage"
+   ]
+  },
+  {
+   "word": "Opening scene",
+   "hints": [
+    {
+     "text": "Story start",
+     "level": 1
+    },
+    {
+     "text": "First moments",
+     "level": 1
+    },
+    {
+     "text": "Hooks the audience",
+     "level": 2
+    },
+    {
+     "text": "Sets the tone",
+     "level": 2
+    },
+    {
+     "text": "Establishing shot",
+     "level": 3
+    },
+    {
+     "text": "Title card",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Finale",
+    "Credits",
+    "Trailer"
+   ]
+  }
+ ]
+}

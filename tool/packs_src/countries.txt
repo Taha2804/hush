@@ -1,0 +1,142 @@
+@id countries
+@name Countries
+India | Asian nation; Huge population | Cricket crazy; Land of spices | Taj mahal home; Saris and curries | Pakistan; Nepal; Bangladesh
+China | Asian nation; Most populous | Ancient dynasties; Invented paper | Great wall home; Giant pandas | Japan; Korea; Mongolia
+Japan | Island nation; Asian country | Bullet trains; Cherry blossoms | Sushi and samurai; Rising sun flag | China; Korea; Taiwan
+France | European nation; Romantic country | Famous for cuisine; Fashion capital home | Eiffel tower; Croissants and baguettes | Italy; Belgium; Spain
+Italy | European nation; Mediterranean country | Pasta and pizza; Ancient empire | Boot shaped; Leaning tower | Greece; Spain; France
+Spain | European nation; Sunny country | Flamenco dancing; Afternoon siesta | Paella and tapas; Bullfighting tradition | Portugal; Mexico; Italy
+Germany | European nation; Industrial country | Famous for cars; Oktoberfest home | Pretzels and sausages; Autobahn highways | Austria; Switzerland; Netherlands
+Brazil | South american nation; Huge country | Football legends; Carnival parades | Amazon rainforest; Speaks portuguese | Argentina; Portugal; Colombia
+Mexico | North american nation; Latin country | Tacos and burritos; Day of the dead | Ancient pyramids; Sombreros and mariachi | Spain; Brazil; Colombia
+Canada | North american nation; Cold country | Very polite people; Hockey crazy | Maple leaf flag; Moose and mounties | Alaska; Norway; Sweden
+Australia | Island continent; Southern nation | Kangaroos and koalas; Outback desert | Opera house; Barrier reef | New zealand; Fiji; Indonesia
+Russia | Huge nation; Eurasian country | Freezing winters; Ballet tradition | Nesting dolls; Onion domes | Ukraine; Kazakhstan; Finland
+Egypt | African nation; Desert country | Ancient pharaohs; Hieroglyphics | Pyramids and sphinx; Along the nile | Morocco; Jordan; Sudan
+Greece | European nation; Ancient civilization | Birthplace of democracy; Olympic origins | White and blue houses; Island hopping | Italy; Turkey; Cyprus
+Turkey | Transcontinental nation; Bridge country | Grand bazaars; Strong coffee | Hot air balloons; Kebabs and delight | Greece; Iran; Egypt
+Thailand | Asian nation; Tropical country | Smiling people; Street food heaven | Tuk tuks; Golden temples | Vietnam; Cambodia; Laos
+Vietnam | Asian nation; Long country | Rice paddies; Motorbike streets | Conical hats; Pho noodles | Thailand; Cambodia; Laos
+Indonesia | Island nation; Asian archipelago | Thousands of islands; Volcanic land | Bali beaches; Komodo dragons | Malaysia; Philippines; Thailand
+Philippines | Island nation; Asian archipelago | Thousands of islands; Karaoke lovers | Jeepney rides; Tropical beaches | Indonesia; Malaysia; Vietnam
+Nepal | Mountain nation; Himalayan country | Trekking paradise; Landlocked | Highest peak home; Prayer flags | Bhutan; Tibet; India
+Pakistan | Asian nation; South asian country | Cricket rivalry; Mountain ranges | Green crescent flag; Biryani lovers | India; Afghanistan; Iran
+Bangladesh | South asian nation; River country | Densely populated; Monsoon floods | Bengal tigers; Green and red flag | India; Myanmar; Nepal
+Sri lanka | Island nation; South asian country | Famous for tea; Teardrop island | Elephants and temples; Golden beaches | Maldives; India; Thailand
+Maldives | Island nation; Tropical paradise | Honeymoon destination; Low lying islands | Overwater villas; Coral atolls | Seychelles; Mauritius; Sri lanka
+South korea | Asian nation; Peninsula country | Pop music craze; Tech giants | Kimchi lovers; Northern border tension | Japan; China; Taiwan
+North korea | Asian nation; Secretive country | Very isolated; Strict regime | Military parades; Divided peninsula | Cuba; China; Mongolia
+Mongolia | Asian nation; Landlocked country | Nomadic herders; Vast steppes | Gers or yurts; Horseback culture | Kazakhstan; China; Tibet
+Kazakhstan | Central asian nation; Steppe country | Largest landlocked; Space launch site | Eagle hunters; Vast grasslands | Mongolia; Uzbekistan; Russia
+Iran | Middle eastern nation; Ancient persia | Persian rugs; Saffron producer | Ancient ruins; Poetry tradition | Iraq; Turkey; Afghanistan
+Iraq | Middle eastern nation; Ancient land | Cradle of civilization; Two great rivers | Ancient babylon; Date palms | Iran; Syria; Jordan
+Saudi arabia | Middle eastern nation; Desert kingdom | Oil rich; Holy cities | Vast sand dunes; Green flag | Oman; Yemen; Kuwait
+Israel | Middle eastern nation; Small country | Ancient holy land; Tech hub | Dead sea floating; Desert farming | Jordan; Lebanon; Cyprus
+Jordan | Middle eastern nation; Desert kingdom | Ancient rose city; Bedouin culture | Floating in salty sea; Red rock canyons | Israel; Egypt; Lebanon
+Morocco | North african nation; Desert country | Colorful souks; Mint tea culture | Blue painted town; Tagine dishes | Egypt; Tunisia; Algeria
+Kenya | East african nation; Safari country | Marathon runners; Great migration | Maasai warriors; Savanna wildlife | Tanzania; Uganda; Ethiopia
+Nigeria | West african nation; Populous country | Movie industry giant; Oil producer | Jollof rice; Afrobeats music | Ghana; Cameroon; Kenya
+South africa | Continental tip nation; Rainbow nation | Three capital cities; Safari parks | Table mountain; Penguins on beaches | Namibia; Botswana; Zimbabwe
+Ethiopia | East african nation; Ancient country | Birthplace of coffee; Never colonized | Injera bread; Unique calendar | Kenya; Eritrea; Somalia
+Ghana | West african nation; Golden coast | Cocoa producer; Friendly people | Kente cloth; Jollof debates | Nigeria; Ivory coast; Togo
+Tanzania | East african nation; Safari country | Tallest african mountain; Great migration | Zanzibar spices; Serengeti plains | Kenya; Uganda; Mozambique
+Madagascar | Island nation; African island | Unique wildlife; Vanilla producer | Lemurs everywhere; Baobab trees | Mauritius; Mozambique; Comoros
+Argentina | South american nation; Southern country | Tango dancing; Football legends | Beef and asado; Glaciers in south | Chile; Uruguay; Brazil
+Chile | South american nation; Long thin country | Desert to glaciers; Vineyard region | Easter island statues; Andes border | Argentina; Peru; Bolivia
+Peru | South american nation; Andean country | Ancient incas; Llamas and alpacas | Mountain citadel ruins; Ceviche dish | Bolivia; Ecuador; Chile
+Colombia | South american nation; Tropical country | Coffee growers; Emerald mines | Salsa dancing; Two coastlines | Venezuela; Ecuador; Peru
+Venezuela | South american nation; Oil country | Beauty pageant winners; Tallest waterfall | Arepas; Caribbean coast | Colombia; Ecuador; Guyana
+Cuba | Caribbean nation; Island country | Classic old cars; Salsa music | Famous cigars; Colorful havana | Jamaica; Puerto rico; Haiti
+Jamaica | Caribbean nation; Island country | Reggae music; Sprinting legends | Jerk chicken; Rasta colors | Cuba; Barbados; Bahamas
+Ireland | European nation; Emerald isle | Lucky charms; Pub culture | Shamrocks; Rolling green hills | Scotland; Wales; Iceland
+Scotland | European nation; Northern territory | Bagpipes; Highland games | Kilts and tartan; Lake monster legend | Ireland; Wales; Norway
+England | European nation; Island country | Royal family; Afternoon tea | Red phone boxes; Rainy weather | Scotland; Wales; Ireland
+Wales | European nation; Small country | Rugby crazy; Singing tradition | Red dragon flag; Many castles | Scotland; Ireland; England
+Netherlands | European nation; Low country | Windmills and canals; Bicycles everywhere | Tulip fields; Wooden clogs | Belgium; Denmark; Germany
+Belgium | European nation; Small country | Waffles and chocolate; Comic strip home | Famous fries; Peeing boy statue | Netherlands; France; Luxembourg
+Switzerland | European nation; Alpine country | Neutral country; Banking hub | Cheese with holes; Precise watches | Austria; Norway; Liechtenstein
+Austria | European nation; Alpine country | Classical composers; Ski resorts | Waltzes and opera; Schnitzel | Switzerland; Germany; Hungary
+Sweden | Nordic nation; Scandinavian country | Flat pack furniture; Pop music exports | Meatballs; Northern lights | Norway; Finland; Denmark
+Norway | Nordic nation; Scandinavian country | Fjords; Oil wealth | Midnight sun; Viking history | Sweden; Iceland; Denmark
+Denmark | Nordic nation; Scandinavian country | Happiest people; Cycling culture | Building bricks toy; Little mermaid statue | Sweden; Norway; Netherlands
+Finland | Nordic nation; Lakeland nation | Saunas everywhere; Great education | Santa village; Thousands of lakes | Sweden; Estonia; Norway
+Iceland | Nordic nation; Island country | Volcanoes and glaciers; Northern lights | Geysers and hot springs; Fire and ice | Norway; Greenland; Ireland
+Poland | European nation; Central country | Pierogi dumplings; Rich history | Famous composer home; Salt mine | Czechia; Ukraine; Hungary
+Portugal | European nation; Coastal country | Explorer history; Famous footballer home | Custard tarts; Fado music | Spain; Brazil; Italy
+Ukraine | European nation; Breadbasket country | Sunflower fields; Golden domes | Borscht soup; Blue and yellow flag | Poland; Russia; Belarus
+Hungary | European nation; Central country | Thermal baths; Paprika lovers | Goulash stew; Danube river capital | Austria; Poland; Romania
+Czechia | European nation; Central country | Castles everywhere; Fairytale capital | Astronomical clock; Puppet tradition | Slovakia; Poland; Austria
+Romania | European nation; Eastern country | Vampire legends; Carpathian mountains | Painted monasteries; Castle tours | Bulgaria; Hungary; Moldova
+Croatia | European nation; Coastal country | Island hopping; Football finals | Walled old town; Dalmatian dogs | Slovenia; Serbia; Greece
+Singapore | City state; Asian island | Very clean; Strict rules | Lion city; Hawker food | Malaysia; Hong kong; Brunei
+Malaysia | Asian nation; Tropical country | Twin towers; Diverse cultures | Rainforests; Nasi lemak | Singapore; Indonesia; Thailand
+New zealand | Island nation; Southern country | Movie fantasy filming; Rugby legends | Kiwi birds; More sheep than people | Australia; Fiji; Tonga
+Fiji | Island nation; Pacific country | Tropical resorts; Rugby sevens | Coral reefs; Bula greeting | Samoa; Tonga; Vanuatu
+Bhutan | Himalayan nation; Small kingdom | Measures happiness; Carbon negative | Thunder dragon flag; Cliff monasteries | Nepal; Tibet; Sikkim
+Afghanistan | Central asian nation; Mountain country | Ancient silk road; Rugged terrain | Kite flying; Pomegranate fields | Pakistan; Iran; Tajikistan
+Myanmar | Southeast asian nation; Golden land | Thousands of pagodas; Formerly burma | Balloons over temples; Longyi skirts | Thailand; Laos; Bangladesh
+Cambodia | Southeast asian nation; Ancient kingdom | Temple ruins; River life | Angkor temples; Floating villages | Thailand; Vietnam; Laos
+Laos | Southeast asian nation; Landlocked country | Mekong river; Sticky rice | Monk alms giving; Waterfalls | Cambodia; Thailand; Vietnam
+Taiwan | Island nation; Asian island | Night markets; Tech chips | Bubble tea birthplace; Tall tower | Japan; Hong kong; Philippines
+Qatar | Gulf nation; Desert country | Very rich; Hosted world cup | Futuristic skyline; Pearl diving history | Bahrain; Kuwait; Oman
+Oman | Gulf nation; Desert country | Frankincense trade; Ancient forts | Rugged mountains; Dhow boats | Yemen; Qatar; Bahrain
+Kuwait | Gulf nation; Small country | Oil rich; Desert heat | Iconic water towers; Gulf coast | Qatar; Bahrain; Oman
+Lebanon | Middle eastern nation; Mediterranean country | Cedar trees; Mountain and sea | Hummus and tabbouleh; Ancient ports | Syria; Jordan; Cyprus
+Syria | Middle eastern nation; Ancient land | Ancient trade cities; Old souks | Rose water; Ancient columns | Lebanon; Iraq; Jordan
+Algeria | North african nation; Largest african country | Sahara desert; French colonial past | Couscous dishes; Green white flag | Morocco; Tunisia; Libya
+Tunisia | North african nation; Mediterranean country | Desert movie sets; Blue and white town | Couscous; Ancient carthage | Morocco; Algeria; Libya
+Libya | North african nation; Desert country | Mostly sahara; Oil rich | Ancient ruins; Mediterranean coast | Egypt; Tunisia; Chad
+Sudan | African nation; Nile country | Many pyramids; Desert land | Two niles meet; Hot climate | Egypt; Chad; Ethiopia
+Uganda | East african nation; Pearl of africa | Mountain gorillas; Source of the nile | Lake victoria; Crested crane | Kenya; Rwanda; Tanzania
+Rwanda | East african nation; Land of hills | Mountain gorillas; Very clean | Thousand hills; Coffee farms | Uganda; Burundi; Kenya
+Zimbabwe | Southern african nation; Landlocked country | Giant waterfall; Ancient stone ruins | Mighty falls; Rich wildlife | Zambia; Botswana; Mozambique
+Zambia | Southern african nation; Landlocked country | Shares giant falls; Copper mining | Walking safaris; River rafting | Zimbabwe; Malawi; Botswana
+Botswana | Southern african nation; Safari country | Elephant haven; Diamond mines | River delta; Kalahari desert | Namibia; Zimbabwe; Zambia
+Namibia | Southern african nation; Desert country | Tall red dunes; Skeleton coast | Desert elephants; Oldest desert | Botswana; Angola; South africa
+Senegal | West african nation; Coastal country | Pink lake; Wrestling sport | Colorful fabrics; Thieboudienne dish | Gambia; Mali; Ghana
+Cameroon | Central african nation; Diverse country | Africa in miniature; Football lions | Rainforests and volcano; Many languages | Nigeria; Gabon; Chad
+Somalia | East african nation; Horn of africa | Longest african coastline; Camel herders | Pirate history; Arid land | Ethiopia; Kenya; Yemen
+Ecuador | South american nation; Equator country | Unique island wildlife; Banana exporter | Giant tortoises; Volcano avenue | Peru; Colombia; Bolivia
+Bolivia | South american nation; Landlocked country | Salt flats; High altitude capital | Llamas; Bowler hats | Peru; Paraguay; Chile
+Uruguay | South american nation; Small country | First world cup host; Mate drinkers | Beef lovers; Beach resorts | Argentina; Paraguay; Brazil
+Paraguay | South american nation; Landlocked country | Huge dam; Two languages | Harp music; Lace weaving | Uruguay; Bolivia; Argentina
+Panama | Central american nation; Isthmus country | Famous canal; Links two oceans | Straw hats; Rainforest | Costa rica; Colombia; Nicaragua
+Costa rica | Central isthmus nation; Green country | No army; Pura vida | Cloud forests; Sloths and toucans | Panama; Nicaragua; Belize
+Guatemala | Central american nation; Mayan country | Mayan ruins; Colorful textiles | Volcano lakes; Quetzal bird | Honduras; Mexico; Belize
+Honduras | Central american nation; Tropical country | Mayan ruins; Coral reef islands | Banana plantations; Rainforest | Guatemala; Nicaragua; Belize
+Haiti | Caribbean nation; Island country | First black republic; Vibrant art | Shares an island; Mountain land | Cuba; Jamaica; Dominica
+Bahamas | Caribbean nation; Island chain | Swimming pigs; Clear water | Pink sand beaches; Coral reefs | Jamaica; Bermuda; Cuba
+Barbados | Caribbean nation; Island country | Cricket lovers; Pop star home | Flying fish; Sugarcane history | Jamaica; Trinidad; Bahamas
+Belarus | European nation; Landlocked country | Ancient forests; Bison reserve | Red and green flag; Flat lands | Ukraine; Poland; Lithuania
+Lithuania | Baltic nation; European country | Basketball crazy; Hill of crosses | Amber jewelry; Baltic coast | Latvia; Estonia; Poland
+Latvia | Baltic nation; European country | Art nouveau buildings; Song festivals | Amber coast; Dense forests | Lithuania; Estonia; Finland
+Estonia | Baltic nation; Digital country | Online voting; Startup hub | Medieval old town; Saunas | Latvia; Finland; Lithuania
+Slovakia | European nation; Central country | Many castles; Mountain hiking | Folk traditions; Wooden churches | Czechia; Hungary; Slovenia
+Slovenia | European nation; Green country | Lake with island church; Caves | Alpine meadows; Honey bees | Croatia; Slovakia; Austria
+Serbia | European nation; Balkan country | Tennis star home; Lively nightlife | Grilled meats; Danube rivers | Croatia; Bosnia; Bulgaria
+Bulgaria | European nation; Balkan country | Rose oil producer; Yogurt origins | Black sea coast; Painted monasteries | Romania; Serbia; Greece
+Albania | European nation; Balkan country | Concrete bunkers; Hidden beaches | Double headed eagle; Mountain villages | Greece; Kosovo; Montenegro
+Montenegro | European nation; Small country | Dramatic bay; Black mountains | Walled coastal towns; Adriatic beaches | Albania; Croatia; Serbia
+Cyprus | Island nation; Mediterranean country | Divided island; Sunny beaches | Halloumi cheese; Ancient mosaics | Greece; Malta; Lebanon
+Malta | Island nation; Tiny country | Knights history; Ancient temples | Golden limestone; Blue lagoon | Cyprus; Sicily; Greece
+Luxembourg | European nation; Tiny country | Very rich; Banking hub | Grand duchy; Castle towns | Belgium; Monaco; Liechtenstein
+Monaco | European nation; Tiny country | Glamorous casinos; Super rich | Racing grand prix; Royal palace | Luxembourg; Andorra; San marino
+Vatican | City state; Smallest country | Home of the pope; Holy see | Famous painted ceiling; Swiss guards | Monaco; Malta; San marino
+Andorra | European nation; Mountain country | Duty free shopping; Ski slopes | Between two countries; Tiny principality | Monaco; Liechtenstein; Luxembourg
+Georgia | Caucasus nation; Mountain country | Vineyard cradle; Ancient churches | Cheesy bread; Polyphonic singing | Armenia; Azerbaijan; Turkey
+Armenia | Caucasus nation; Ancient country | First christian nation; Ancient alphabet | Apricot symbol; Mountain monasteries | Georgia; Azerbaijan; Iran
+Azerbaijan | Caucasus nation; Land of fire | Oil fields; Flame towers | Burning hillsides; Carpet weaving | Georgia; Armenia; Turkey
+Uzbekistan | Central asian nation; Silk road country | Blue tiled cities; Ancient caravan routes | Plov rice; Domed mosques | Kazakhstan; Tajikistan; Turkmenistan
+Tajikistan | Central asian nation; Mountain country | Roof of the world; Mostly mountains | High passes; Turquoise lakes | Kyrgyzstan; Uzbekistan; Afghanistan
+Kyrgyzstan | Central asian nation; Mountain country | Nomadic yurts; Horse games | Alpine lakes; Felt carpets | Kazakhstan; Tajikistan; Mongolia
+Turkmenistan | Central asian nation; Desert country | Gas crater; Marble city | Burning crater; Carpet traditions | Uzbekistan; Kazakhstan; Iran
+Brunei | Asian nation; Small sultanate | Oil rich; Water villages | Golden domed mosque; Rainforest | Malaysia; Singapore; Qatar
+Samoa | Island nation; Pacific country | Rugby lovers; Traditional tattoos | Open sided huts; Lush volcanic islands | Tonga; Fiji; Tahiti
+Tonga | Island nation; Pacific kingdom | Rugby lovers; Royal family | Humpback whales; Coral islands | Samoa; Fiji; Vanuatu
+Vanuatu | Island nation; Pacific country | Active volcanoes; Land diving ritual | Coral reefs; Tribal villages | Fiji; Samoa; Tonga
+Greenland | Arctic island; Largest island | Mostly ice; Inuit culture | Glaciers and icebergs; Northern lights | Iceland; Canada; Norway
+Mauritius | Island nation; Indian ocean country | Extinct dodo bird; Luxury resorts | Underwater waterfall illusion; Sugarcane fields | Maldives; Seychelles; Madagascar
+Seychelles | Island nation; Indian ocean country | Giant tortoises; Granite boulders | Coco de mer palm; Turquoise beaches | Maldives; Mauritius; Comoros
+United states | North american nation; Superpower | Fifty regions; Hollywood movies | Stars and stripes; Statue of liberty | Canada; Mexico; England
+Chad | Central african nation; Landlocked country | Shrinking lake; Sahara edge | Desert nomads; Blue yellow red | Niger; Sudan; Libya
+Mali | West african nation; Desert country | Ancient mud mosques; Historic trade city | Timbuktu legend; Niger river | Niger; Senegal; Chad

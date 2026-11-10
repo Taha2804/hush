@@ -1,0 +1,142 @@
+@id cities
+@name Cities
+Paris | European capital; Romantic city | City of light; Fashion week host | Iron lattice tower; Riverside cafes | London; Rome; Madrid
+London | European capital; Historic city | Royal palace; Double decker buses | Big clock tower; Underground tube | Paris; Dublin; Edinburgh
+New york | American city; Huge metropolis | Never sleeps; Yellow taxis | Famous green statue; Central park | Chicago; Boston; Los angeles
+Tokyo | Asian capital; Huge metropolis | Neon streets; Busy crossings | Bullet trains; Sushi counters | Osaka; Seoul; Kyoto
+Rome | European capital; Ancient city | Eternal city; Ancient empire seat | Gladiator arena; Throw coins in fountains | Athens; Florence; Milan
+Dubai | Gulf city; Desert metropolis | Luxury shopping; Artificial islands | Tallest building; Indoor ski slope | Doha; Abu dhabi; Riyadh
+Mumbai | Indian city; Coastal metropolis | Film industry hub; Financial capital | Vada pav; Seaside promenade | Delhi; Kolkata; Chennai
+Delhi | Indian capital; Huge city | Old and new parts; Street food heaven | Red fort; Ancient minarets | Mumbai; Agra; Jaipur
+Bangalore | Indian city; Tech hub | Garden city; Pleasant weather | Software parks; Pub culture | Hyderabad; Chennai; Pune
+Kolkata | Indian city; Eastern metropolis | City of joy; Intellectual hub | Yellow taxis; Big iron bridge | Dhaka; Mumbai; Patna
+Chennai | Indian city; Coastal metropolis | Classical dance hub; Filter coffee | Long urban beach; Temple towers | Bangalore; Madurai; Hyderabad
+Hyderabad | Indian city; Southern metropolis | Famous biryani; Pearl trading | Arched monument; Tech campuses | Bangalore; Chennai; Lucknow
+Jaipur | Indian city; Pink city | Royal palaces; Desert state capital | Wind palace; Hilltop forts | Udaipur; Jodhpur; Agra
+Agra | Indian city; Historic city | Mughal history; Tourist magnet | White marble mausoleum; Red sandstone fort | Jaipur; Delhi; Lucknow
+Goa | Indian state; Beach destination | Party scene; Portuguese heritage | Sandy beaches; Seafood shacks | Kerala; Pondicherry; Mumbai
+Varanasi | Indian city; Holy city | Ancient spiritual center; River rituals | Ghats and boats; Evening lamp ceremony | Rishikesh; Haridwar; Allahabad
+Beijing | Asian capital; Ancient city | Imperial history; Olympic host | Forbidden palace; Peking duck | Shanghai; Seoul; Tokyo
+Shanghai | Chinese city; Huge port | Financial hub; Futuristic skyline | Riverside promenade; Soup dumplings | Beijing; Hong kong; Shenzhen
+Hong kong | Asian city; Harbor city | Dim sum; Shopping paradise | Star ferry; Dense skyscrapers | Singapore; Macau; Shanghai
+Seoul | Asian capital; Modern city | Pop music hub; Late night food | Palaces and towers; Kimchi stew | Busan; Tokyo; Beijing
+Bangkok | Asian capital; Busy city | Street food heaven; Floating markets | Tuk tuks; Golden temples | Phuket; Hanoi; Manila
+Singapore city | Asian hub; Garden island | Very clean; Hawker centers | Lion statue fountain; Giant supertrees | Kuala lumpur; Hong kong; Jakarta
+Sydney | Australian city; Harbor city | Famous beaches; New year fireworks | Sail shaped opera house; Big arch bridge | Melbourne; Brisbane; Auckland
+Melbourne | Australian city; Cultural city | Coffee culture; Tennis tournament | Laneway art; Historic trams | Sydney; Adelaide; Perth
+Los angeles | American city; Sprawling city | Film industry; Traffic jams | Hillside sign; Beaches and palm trees | San diego; Las vegas; San francisco
+Chicago | American city; Windy city | Deep dish pizza; Blues music | Shiny bean sculpture; Lakefront skyline | Detroit; New york; Boston
+San francisco | American city; Hilly city | Tech startups; Foggy summers | Red suspension bridge; Cable cars | Seattle; Los angeles; Oakland
+Las vegas | American city; Desert city | Casinos everywhere; Quick weddings | Neon strip; Magic shows | Reno; Atlantic city; Macau
+Miami | American city; Beach city | Latin culture; Art deco buildings | Palm lined beaches; Cuban coffee | Orlando; Havana; Cancun
+Boston | American city; Historic city | Famous universities; Tea party history | Clam chowder; Freedom trail | Philadelphia; New york; Chicago
+Washington | American capital; Political city | White house; Cherry blossoms | Tall obelisk; Marble memorials | Boston; Philadelphia; Ottawa
+Seattle | American city; Rainy city | Coffee culture; Tech giants | Space needle tower; Fish throwing market | Portland; Vancouver; San francisco
+Toronto | Canadian city; Big city | Multicultural; Hockey fans | Tall needle tower; Lake views | Vancouver; Montreal; Chicago
+Vancouver | Canadian city; Coastal city | Mountains and ocean; Very rainy | Seaplanes; Stanley park | Seattle; Toronto; Victoria
+Montreal | Canadian city; French speaking city | Bagels and poutine; Jazz festival | Underground city; Cobblestone old town | Quebec; Toronto; Paris
+Mexico city | Mexican capital; Huge metropolis | Built on a lake; Street tacos | Ancient pyramids nearby; Colorful boats | Guadalajara; Bogota; Lima
+Rio | Brazilian city; Beach city | Carnival parade; Samba music | Big statue on mountain; Copacabana beach | Sao paulo; Buenos aires; Salvador
+Buenos aires | Argentine capital; South american city | Tango dancing; Steak houses | Colorful houses; Wide avenues | Montevideo; Santiago; Rio
+Lima | Peruvian capital; Coastal city | Food capital; Spanish colonial | Ceviche; Cliffside parks | Quito; Bogota; Santiago
+Cairo | Egyptian capital; African metropolis | Ancient wonders nearby; Busy bazaars | Pyramids on edge; Nile river | Alexandria; Istanbul; Dubai
+Istanbul | Turkish city; Bridge of continents | Grand bazaar; Two continents | Domed mosques; Bosphorus strait | Athens; Cairo; Ankara
+Athens | Greek capital; Ancient city | Birthplace of democracy; Olympic history | Hilltop temple; Ancient ruins | Rome; Istanbul; Sparta
+Barcelona | Spanish city; Coastal city | Famous football club; Quirky architecture | Unfinished basilica; Las ramblas | Madrid; Valencia; Lisbon
+Madrid | Spanish capital; Central city | Late dinners; Royal palace | Art museums; Football rivalry | Barcelona; Lisbon; Seville
+Lisbon | Portuguese capital; Hilly city | Yellow trams; Custard tarts | Fado music; Coastal hills | Porto; Madrid; Barcelona
+Amsterdam | Dutch capital; Canal city | Bicycles everywhere; Museum hub | Canal houses; Tulip markets | Brussels; Copenhagen; Rotterdam
+Berlin | German capital; Historic city | Divided by a wall; Techno clubs | Famous gate; Currywurst | Munich; Vienna; Prague
+Munich | German city; Bavarian capital | Autumn festival host; Football club | Pretzels; Alpine views | Berlin; Vienna; Zurich
+Vienna | Austrian capital; Imperial city | Classical music; Coffee houses | Opera balls; Palaces | Prague; Budapest; Salzburg
+Prague | Czech capital; Fairytale city | Castle district; Gothic spires | Astronomical clock; Old bridge | Vienna; Budapest; Krakow
+Budapest | Hungarian capital; River city | Thermal baths; Two halves | Parliament on river; Chain bridge | Vienna; Prague; Bratislava
+Venice | Italian city; Canal city | Gondola rides; Sinking slowly | Masked carnival; No cars | Florence; Amsterdam; Milan
+Florence | Italian city; Renaissance city | Art masterpieces; Leather markets | Famous dome; Marble statue | Venice; Rome; Siena
+Milan | Italian city; Fashion city | Fashion week; Football rivalry | Gothic cathedral; Famous last supper | Rome; Turin; Florence
+Moscow | Russian capital; Huge city | Freezing winters; Ballet theatre | Red square; Colorful onion domes | Saint petersburg; Kyiv; Minsk
+Dublin | Irish capital; Historic city | Pub culture; Famous writers | Stout brewery; River liffey | London; Edinburgh; Belfast
+Edinburgh | Scottish capital; Historic city | Arts festival; Old town | Castle on rock; Bagpipe music | Glasgow; Dublin; London
+Copenhagen | Danish capital; Harbor city | Cycling city; Happiest people | Colorful harbor houses; Mermaid statue | Stockholm; Oslo; Amsterdam
+Stockholm | Swedish capital; Island city | Built on islands; Nobel ceremony | Old town; Pop music history | Oslo; Copenhagen; Helsinki
+Oslo | Norwegian capital; Fjord city | Peace prize; Ski jump | Viking ship museum; Opera roof walk | Stockholm; Bergen; Copenhagen
+Helsinki | Finnish capital; Northern city | Sauna culture; Design hub | Island fortress; White cathedral | Stockholm; Tallinn; Oslo
+Reykjavik | Icelandic capital; Northernmost capital | Northern lights; Geothermal pools | Rocket shaped church; Colorful roofs | Oslo; Helsinki; Nuuk
+Zurich | Swiss city; Banking city | Very expensive; Chocolate shops | Lake views; Alpine backdrop | Geneva; Munich; Vienna
+Geneva | Swiss city; Diplomatic city | Peace talks; Luxury watches | Giant lake fountain; Mountains nearby | Zurich; Lyon; Brussels
+Brussels | Belgian capital; European hub | Waffles; Chocolate shops | Grand square; Atomium | Amsterdam; Paris; Luxembourg
+Warsaw | Polish capital; Rebuilt city | Composer home; Rebuilt old town | Mermaid symbol; Pierogi | Krakow; Prague; Berlin
+Krakow | Polish city; Historic city | Royal castle; Huge market square | Dragon legend; Salt mine nearby | Warsaw; Prague; Budapest
+Kyiv | Ukrainian capital; Historic city | Golden domes; Ancient caves | River city; Chestnut trees | Moscow; Minsk; Warsaw
+Nairobi | Kenyan capital; African city | Safari gateway; Tech hub | National park in city; Giraffe centre | Mombasa; Kampala; Addis ababa
+Cape town | South african city; Coastal city | Vineyard country; Penguin beach | Flat topped mountain; Island prison | Johannesburg; Durban; Sydney
+Lagos | Nigerian city; Huge metropolis | Music scene; Traffic jams | Jollof rice; Lagoon city | Accra; Abuja; Nairobi
+Marrakech | Moroccan city; Red city | Busy souks; Snake charmers | Main square; Riad hotels | Fez; Casablanca; Tunis
+Casablanca | Moroccan city; Port city | Classic movie title; Business hub | Huge seaside mosque; White buildings | Marrakech; Rabat; Tangier
+Jerusalem | Holy city; Ancient city | Sacred to three faiths; Old walls | Golden dome; Western wall | Bethlehem; Tel aviv; Damascus
+Doha | Qatari capital; Gulf city | World cup host; Futuristic skyline | Museum of islamic art; Desert dunes | Dubai; Abu dhabi; Manama
+Abu dhabi | Emirati capital; Gulf city | Oil wealth; Grand mosque | White marble mosque; Theme parks | Dubai; Doha; Muscat
+Riyadh | Saudi capital; Desert city | Modern skyline; Royal kingdom | Bottle opener tower; Date palms | Jeddah; Dubai; Doha
+Tehran | Iranian capital; Mountain city | Huge bazaar; Snowy peaks nearby | Freedom tower; Persian rugs | Isfahan; Baghdad; Kabul
+Kathmandu | Nepali capital; Valley city | Trekking gateway; Ancient temples | Stupas and prayer flags; Momos | Pokhara; Thimphu; Lhasa
+Dhaka | Bangladeshi capital; Crowded city | Rickshaw capital; River trade | Pink palace; Busy rivers | Kolkata; Karachi; Yangon
+Karachi | Pakistani city; Port city | Biggest city there; Seaside promenade | Street food; Busy harbor | Lahore; Mumbai; Dhaka
+Lahore | Pakistani city; Cultural city | Food lovers; Mughal history | Great mosque; Old walled city | Karachi; Delhi; Amritsar
+Colombo | Sri lankan city; Port city | Colonial buildings; Tea trade | Seaside green; Lotus tower | Kandy; Male; Chennai
+Manila | Philippine capital; Busy metropolis | Jeepneys; Colonial walled city | Bay sunsets; Shopping malls | Cebu; Jakarta; Bangkok
+Jakarta | Indonesian capital; Huge metropolis | Traffic jams; Sinking city | National monument; Street food | Bali; Manila; Kuala lumpur
+Kuala lumpur | Malaysian capital; Modern city | Twin towers; Food heaven | Cave temples nearby; Night markets | Singapore city; Jakarta; Bangkok
+Hanoi | Vietnamese capital; Historic city | Motorbike chaos; Old quarter | Lake with pagoda; Pho stalls | Saigon; Bangkok; Vientiane
+Kyoto | Japanese city; Ancient capital | Thousands of temples; Geisha district | Bamboo grove; Golden pavilion | Tokyo; Osaka; Nara
+Osaka | Japanese city; Food city | Street food capital; Comedy hub | Neon canal; Takoyaki balls | Tokyo; Kyoto; Kobe
+Shenzhen | Chinese city; Tech city | Electronics markets; Fast growth | Factory hub; Modern skyline | Shanghai; Hong kong; Guangzhou
+Macau | Asian city; Gambling city | Casino resorts; Portuguese heritage | Egg tarts; Cobbled squares | Hong kong; Las vegas; Singapore city
+Auckland | New zealand city; Harbor city | City of sails; Volcanic cones | Sky tower; Islands nearby | Wellington; Sydney; Christchurch
+Honolulu | Hawaiian city; Island city | Surfing beaches; Tropical paradise | Famous beach strip; Volcanic crater | Miami; Fiji; San diego
+Havana | Cuban capital; Caribbean city | Classic cars; Salsa music | Seaside wall; Colorful colonial | Miami; San juan; Cartagena
+Cancun | Mexican city; Beach resort | Spring break; Turquoise sea | Mayan ruins nearby; Hotel strip | Miami; Tulum; Havana
+Santiago | Chilean capital; Andes city | Mountain backdrop; Vineyard valleys | Hilltop funicular; Snowy peaks | Lima; Buenos aires; Bogota
+Bogota | Colombian capital; High city | Street art; Coffee culture | Mountain sanctuary; Gold museum | Medellin; Quito; Lima
+Sao paulo | Brazilian city; Huge metropolis | Biggest southern city; Business hub | Endless skyline; Pizza lovers | Rio; Buenos aires; Mexico city
+Philadelphia | American city; Historic city | Founding fathers; Cheesesteak | Cracked bell; Museum steps | Boston; New york; Washington
+Orlando | American city; Theme park capital | Family vacations; Hot and humid | Mouse castle; Roller coasters | Miami; Tampa; Anaheim
+New orleans | American city; Jazz city | Mardi gras; Creole food | Jazz clubs; Beignets | Memphis; Houston; Miami
+Nashville | American city; Music city | Country music; Hot chicken | Honky tonk bars; Guitar stores | Memphis; Austin; Atlanta
+Houston | American city; Space city | Mission control; Oil industry | Rodeo; Barbecue | Dallas; Austin; Atlanta
+Atlanta | American city; Southern city | Busy airport; Peach symbol | Civil rights history; Soft drink museum | Houston; Nashville; Charlotte
+Denver | American city; Mile high city | Ski trips; Craft breweries | Rocky mountains; Sunny days | Boise; Phoenix; Austin
+Venice beach | Californian district; Seaside neighborhood | Skate park; Street performers | Outdoor gym; Canal homes | Malibu; Miami beach; Santa monica
+Ottawa | Canadian capital; River city | Parliament hill; Winter skating | Frozen canal; Tulip festival | Toronto; Montreal; Washington
+Quebec city | Canadian capital region; Francophone hub | Walled old town; Winter carnival | Castle hotel; Cobblestone streets | Montreal; Paris; Ottawa
+Seville | Spanish city; Southern city | Flamenco dance; Orange trees | Huge cathedral; Royal palace gardens | Madrid; Granada; Lisbon
+Porto | Portuguese city; River city | Riverside cellars; Riverside houses | Tiled churches; Iron bridge | Lisbon; Bilbao; Seville
+Nice | French city; Riviera city | Seaside promenade; Pebbly beach | Blue bay; Flower market | Cannes; Monaco; Marseille
+Marseille | French city; Port city | Fish stew; Oldest french city | Old port; Hilltop basilica | Nice; Lyon; Genoa
+Lyon | French city; Food city | Gastronomy capital; Silk history | Two rivers; Festival of lights | Marseille; Paris; Geneva
+Naples | Italian city; Port city | Birthplace of pizza; Lively streets | Volcano nearby; Buried city ruins | Rome; Palermo; Florence
+Salzburg | Austrian city; Musical city | Famous composer birthplace; Musical film | Hilltop fortress; Baroque old town | Vienna; Innsbruck; Munich
+Bruges | Belgian city; Medieval city | Canals and chocolate; Lace makers | Bell tower; Cobbled squares | Ghent; Amsterdam; Brussels
+Santorini | Greek island; Volcanic island | Famous sunsets; Honeymoon spot | White houses; Blue domes | Mykonos; Crete; Capri
+Mykonos | Greek island; Party island | Windmills; Beach clubs | White alleys; Pelican mascot | Santorini; Ibiza; Crete
+Bali | Indonesian island; Tropical island | Surfing paradise; Yoga retreats | Rice terraces; Temple gates | Phuket; Lombok; Maldives
+Phuket | Thai island; Beach destination | Party beaches; Island hopping | Limestone cliffs; Big buddha | Bali; Bangkok; Langkawi
+Kandy | Sri lankan city; Hill city | Sacred tooth temple; Elephant parade | Lakeside city; Tea hills | Colombo; Ooty; Darjeeling
+Darjeeling | Indian hill town; Tea town | Toy train; Himalayan views | Tea gardens; Sunrise peak | Shimla; Gangtok; Kandy
+Shimla | Indian hill town; Summer capital | Colonial history; Toy train | Mall road; Snowy winters | Manali; Darjeeling; Mussoorie
+Manali | Indian hill town; Adventure town | Snowy passes; Backpacker hub | Apple orchards; Paragliding | Shimla; Leh; Rishikesh
+Rishikesh | Indian town; Yoga capital | River rafting; Spiritual retreats | Suspension bridges; Evening river prayers | Haridwar; Varanasi; Manali
+Udaipur | Indian city; City of lakes | Romantic palaces; Royal weddings | Lake palace hotel; Boat rides | Jaipur; Jodhpur; Venice
+Amritsar | Indian city; Holy city | Golden temple; Border ceremony | Community kitchen; Stuffed kulcha | Lahore; Chandigarh; Ludhiana
+Pune | Indian city; Student city | Pleasant weather; Tech hub | Historic fort; Misal pav | Mumbai; Bangalore; Nashik
+Lucknow | Indian city; City of nawabs | Fine manners; Kebab heaven | Grand gateway; Chikan embroidery | Hyderabad; Delhi; Kanpur
+Kochi | Indian city; Port city | Spice trade; Backwaters gateway | Chinese fishing nets; Colonial fort area | Chennai; Goa; Mangalore
+Mysore | Indian city; Royal city | Grand palace; Silk sarees | Dussehra lights; Sandalwood | Bangalore; Ooty; Coimbatore
+Leh | Indian town; High desert town | Mountain passes; Monasteries | Blue lakes; Prayer wheels | Manali; Lhasa; Shimla
+Pondicherry | Indian town; Coastal town | French quarter; Spiritual ashram | Yellow colonial houses; Seaside promenade | Goa; Chennai; Kochi
+Ahmedabad | Indian city; Gujarati city | Kite festival; Textile history | Stepwells; Riverside ashram | Surat; Mumbai; Jaipur
+Chandigarh | Indian city; Planned city | Modernist design; Very green | Rock garden; Lake promenade | Amritsar; Delhi; Shimla
+Bhopal | Indian city; City of lakes | Central indian capital; Lakes and mosques | Upper lake; Tribal museum | Indore; Lucknow; Nagpur
+Indore | Indian city; Cleanest city | Street food hub; Night market | Poha and jalebi; Royal palace | Bhopal; Nagpur; Pune
+Patna | Indian city; Ancient city | Very old city; River city | Long river bridge; Litti chokha | Varanasi; Kolkata; Lucknow
+Guwahati | Indian city; Northeast gateway | Tea trade; River island | Hilltop temple; Brahmaputra river | Shillong; Kolkata; Gangtok
+Shillong | Northeastern mountain resort; Scotland of east | Rock music; Waterfalls | Pine forests; Living root bridges | Guwahati; Darjeeling; Gangtok

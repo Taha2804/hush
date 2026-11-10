@@ -1,0 +1,170 @@
+import 'dart:convert';
+
+import 'package:shared_preferences/shared_preferences.dart';
+
+import '../../domain/models/game_config.dart';
+
+enum AppThemeMode { system, light, dark, amoled }
+
+/// User preferences (persisted in shared_preferences).
+class AppSettings {
+  const AppSettings({
+    this.themeMode = AppThemeMode.system,
+    this.accent = 0,
+    this.language = 'en',
+    this.sound = true,
+    this.haptics = true,
+    this.textScale = 1.0,
+    this.reduceMotion = false,
+    this.askSourceEveryLaunch = true,
+    this.lastSource,
+    this.game = const GameConfig(),
+    this.scores = const {},
+    this.selectedCategories = const {},
+    this.playerGroups = const [],
+  });
+
+  final AppThemeMode themeMode;
+  final int accent;
+  final String language;
+  final bool sound;
+  final bool haptics;
+  final double textScale;
+  final bool reduceMotion;
+  final bool askSourceEveryLaunch;
+  final String? lastSource;
+  final GameConfig game;
+  final Map<String, int> scores;
+
+  /// Selected categories remembered per source id.
+  final Map<String, List<String>> selectedCategories;
+
+  /// Saved player-name presets.
+  final List<PlayerGroup> playerGroups;
+
+  AppSettings copyWith({
+    AppThemeMode? themeMode,
+    int? accent,
+    String? language,
+    bool? sound,
+    bool? haptics,
+    double? textScale,
+    bool? reduceMotion,
+    bool? askSourceEveryLaunch,
+    String? Function()? lastSource,
+    GameConfig? game,
+    Map<String, int>? scores,
+    Map<String, List<String>>? selectedCategories,
+    List<PlayerGroup>? playerGroups,
+  }) =>
+      AppSettings(
+        themeMode: themeMode ?? this.themeMode,
+        accent: accent ?? this.accent,
+        language: language ?? this.language,
+        sound: sound ?? this.sound,
+        haptics: haptics ?? this.haptics,
+        textScale: textScale ?? this.textScale,
+        reduceMotion: reduceMotion ?? this.reduceMotion,
+        askSourceEveryLaunch: askSourceEveryLaunch ?? this.askSourceEveryLaunch,
+        lastSource: lastSource != null ? lastSource() : this.lastSource,
+        game: game ?? this.game,
+        scores: scores ?? this.scores,
+        selectedCategories: selectedCategories ?? this.selectedCategories,
+        playerGroups: playerGroups ?? this.playerGroups,
+      );
+
+  Map<String, dynamic> toJson() => {
+        'themeMode': themeMode.name,
+        'accent': accent,
+        'language': language,
+        'sound': sound,
+        'haptics': haptics,
+        'textScale': textScale,
+        'reduceMotion': reduceMotion,
+        'askSourceEveryLaunch': askSourceEveryLaunch,
+        'lastSource': lastSource,
+        'game': game.toJson(),
+        'scores': scores,
+        'selectedCategories': selectedCategories,
+        'playerGroups': [for (final g in playerGroups) g.toJson()],
+      };
+
+  factory AppSettings.fromJson(Map<String, dynamic> j) {
+    T pick<T>(String k, T fallback) => j[k] is T ? j[k] as T : fallback;
+    GameConfig game;
+    try {
+      game = GameConfig.fromJson(Map<String, dynamic>.from(j['game'] as Map));
+    } catch (_) {
+      game = const GameConfig();
+    }
+    return AppSettings(
+      themeMode: AppThemeMode.values.firstWhere((m) => m.name == j['themeMode'],
+          orElse: () => AppThemeMode.system),
+      accent: pick<num>('accent', 0).toInt().clamp(0, 5),
+      language: pick('language', 'en'),
+      sound: pick('sound', true),
+      haptics: pick('haptics', true),
+      textScale: pick<num>('textScale', 1.0).toDouble().clamp(0.85, 1.5),
+      reduceMotion: pick('reduceMotion', false),
+      askSourceEveryLaunch: pick('askSourceEveryLaunch', true),
+      lastSource: j['lastSource'] as String?,
+      game: game,
+      scores: {
+        for (final e in (j['scores'] as Map? ?? const {}).entries)
+          e.key.toString(): (e.value as num).toInt(),
+      },
+      selectedCategories: {
+        for (final e in (j['selectedCategories'] as Map? ?? const {}).entries)
+          e.key.toString(): List<String>.from(e.value as List),
+      },
+      playerGroups: [
+        for (final g in (j['playerGroups'] as List? ?? const []))
+          if (g is Map) PlayerGroup.fromJson(Map<String, dynamic>.from(g)),
+      ],
+    );
+  }
+}
+
+/// A saved set of player names ("group preset"). Survives app restarts.
+class PlayerGroup {
+  const PlayerGroup({required this.name, required this.players});
+  final String name;
+  final List<String> players;
+
+  Map<String, dynamic> toJson() => {'name': name, 'players': players};
+  factory PlayerGroup.fromJson(Map<String, dynamic> j) => PlayerGroup(
+        name: (j['name'] ?? '').toString(),
+        players: [for (final p in (j['players'] as List? ?? const [])) p.toString()],
+      );
+}
+
+class SettingsRepository {
+  SettingsRepository(this.prefs);
+  final SharedPreferences prefs;
+  static const _key = 'hushbug.settings.v1';
+
+  /// Loads saved preferences for a fresh app launch.
+  ///
+  /// Only real preferences survive a restart (theme, language, sound, game
+  /// rules, chosen categories...). Session data — player names, the imposter
+  /// count that depends on them, and the scoreboard — starts fresh.
+  AppSettings load() {
+    final raw = prefs.getString(_key);
+    if (raw == null) return const AppSettings();
+    try {
+      return freshSession(AppSettings.fromJson(jsonDecode(raw) as Map<String, dynamic>));
+    } catch (_) {
+      return const AppSettings();
+    }
+  }
+
+  static AppSettings freshSession(AppSettings s) {
+    const defaults = GameConfig();
+    return s.copyWith(
+      game: s.game.copyWith(players: defaults.players, imposterCount: defaults.imposterCount),
+      scores: const {},
+    );
+  }
+
+  Future<void> save(AppSettings s) => prefs.setString(_key, jsonEncode(s.toJson()));
+}

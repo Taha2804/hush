@@ -1,0 +1,138 @@
+@id hobbies
+@name Hobbies
+Painting | Art hobby; Creative pastime | Weekend canvases; Gallery dreams | Brushes and easel; Watercolor or oil | Drawing; Sculpting; Sketching
+Drawing | Art hobby; Sketch practice | Doodles in notebooks; Portraits | Pencil shading; Paper pads | Painting; Sketching; Calligraphy
+Photography | Visual hobby; Picture taking | Travel snapshots; Golden hour | Lens and tripod; Shutter speed | Videography; Painting; Drawing
+Gardening | Outdoor hobby; Plant care | Growing vegetables; Weekend digging | Seeds and soil; Watering can | Farming; Landscaping; Composting
+Cooking | Kitchen hobby; Food making | Family recipes; Trying cuisines | Pots and pans; Tasting spoons | Baking; Grilling; Brewing
+Baking | Kitchen hobby; Oven craft | Bread and cakes; Sweet aromas | Flour and butter; Mixing bowls | Cooking; Grilling; Decorating
+Knitting | Craft hobby; Yarn craft | Scarves for gifts; Grandma favorite | Two needles; Balls of wool | Crochet; Sewing; Weaving
+Crochet | Craft hobby; Yarn craft | Blankets and toys; Granny squares | Single hook; Looped stitches | Knitting; Embroidery; Macrame
+Sewing | Craft hobby; Fabric craft | Making clothes; Mending tears | Needle and thread; Machine pedal | Knitting; Embroidery; Quilting
+Embroidery | Craft hobby; Needle art | Decorative patterns; Hoops on walls | Colored floss; Hoop frame | Cross stitch; Sewing; Knitting
+Quilting | Craft hobby; Patchwork | Family heirlooms; Sewing circles | Fabric squares; Stitched layers | Sewing; Knitting; Weaving
+Pottery | Craft hobby; Clay art | Throwing bowls; Messy hands | Spinning wheel; Kiln firing | Sculpting; Ceramics; Glassblowing
+Woodworking | Craft hobby; Carpentry | Building furniture; Garage workshop | Saws and chisels; Sawdust | Carving; Metalwork; Pottery
+Origami | Paper craft; Japanese folding | Paper cranes; Classroom fun | Folded squares; No glue | Kirigami; Calligraphy; Scrapbooking
+Scrapbooking | Craft hobby; Memory keeping | Photo albums; Stickers and washi | Decorated pages; Glue and ribbons | Journaling; Collage; Origami
+Calligraphy | Writing art; Lettering hobby | Wedding invitations; Elegant scripts | Nib pens; Ink pots | Drawing; Origami; Typography
+Journaling | Writing hobby; Diary keeping | Daily reflections; Gratitude lists | Notebook and pen; Bedside habit | Blogging; Scrapbooking; Poetry
+Reading | Quiet hobby; Book loving | Book clubs; Bedtime chapters | Novels and libraries; Bookmarks | Writing; Listening; Studying
+Writing | Creative hobby; Storytelling | Novels and poems; Writer's notebook | Plot outlines; Drafts | Reading; Journaling; Blogging
+Blogging | Online hobby; Web writing | Sharing opinions; Followers | Posts and comments; Personal site | Vlogging; Journaling; Podcasting
+Vlogging | Online hobby; Video diary | Daily uploads; Talking to camera | Selfie stick; Editing software | Blogging; Streaming; Photography
+Podcasting | Audio hobby; Talk show making | Interviews with guests; Weekly episodes | Microphone; Audio editing | Blogging; Radio; Vlogging
+Gaming | Digital hobby; Video games | Late night sessions; Online friends | Controllers and headsets; High scores | Board games; Puzzles; Esports
+Board games | Tabletop hobby; Family fun | Family evenings; Rolling dice | Tokens and pieces; Rule books | Card games; Puzzles; Gaming
+Chess | Strategy game; Board hobby | Tournaments; Grandmasters | Checkmate; Knights and bishops | Checkers; Shogi; Backgammon
+Puzzles | Brain hobby; Problem solving | Rainy day activity; Thousand pieces | Jigsaw edges; Corner pieces first | Crosswords; Sudoku; Board games
+Crossword | Vocabulary puzzle; Newspaper game | Sunday morning; Ink pens | Grid of squares; Clues across and down | Sudoku; Word search; Puzzles
+Sudoku | Number puzzle; Logic game | Newspaper puzzle; Commute pastime | Nine by nine grid; No repeats | Crossword; Kakuro; Chess
+Collecting | Hobby type; Gathering items | Displays and albums; Rare finds | Shelves of treasures; Catalog lists | Hoarding; Trading; Shopping
+Stamp collecting | Postal hobby; Philately | Rare postage; Albums and tweezers | Perforated edges; Postmarks | Coin collecting; Scrapbooking; Origami
+Coin collecting | Currency hobby; Numismatics | Rare currency; Magnifying glass | Mint condition; Old currency | Stamp collecting; Antiques; Medals
+Birdwatching | Nature hobby; Feather spotting | Early mornings; Field guides | Binoculars; Notebook tallies | Hiking; Photography; Fishing
+Fishing | Outdoor hobby; Angling | Patient waiting; Lake weekends | Rod and reel; Bait and tackle | Hunting; Boating; Birdwatching
+Hiking | Outdoor hobby; Trail walking | Mountain views; Weekend escapes | Boots and backpack; Trail maps | Camping; Climbing; Running
+Camping | Outdoor hobby; Nights in nature | Campfires and stories; Starry skies | Tents and sleeping bags; Marshmallows | Hiking; Glamping; Fishing
+Cycling | Outdoor hobby; Bike riding | Weekend rides; Fitness trails | Helmet and pedals; Water bottle | Running; Hiking; Skating
+Running | Fitness hobby; Jogging | Morning routine; Marathon goals | Sneakers; Fitness tracker | Cycling; Walking; Swimming
+Swimming | Fitness hobby; Water sport | Pool laps; Summer beaches | Goggles and cap; Freestyle | Diving; Running; Surfing
+Yoga | Fitness hobby; Mindful exercise | Morning stretches; Calm breathing | Mats and poses; Sun salutation | Pilates; Meditation; Tai chi
+Meditation | Mindful hobby; Calm practice | Quiet mornings; Stress relief | Closed eyes; Breathing focus | Yoga; Prayer; Napping
+Dancing | Movement hobby; Rhythm activity | Classes and parties; Wedding floors | Steps and spins; Music beats | Singing; Aerobics; Gymnastics
+Singing | Musical hobby; Vocal practice | Shower concerts; Karaoke nights | Scales and songs; Microphone | Dancing; Humming; Rapping
+Karaoke | Singing activity; Party fun | Friends cheer; Off key performances | Lyrics on screen; Microphone | Singing; Dancing; Open mic
+Playing guitar | Musical hobby; String practice | Campfire songs; Learning chords | Six strings; Pick in hand | Playing piano; Singing; Drumming
+Playing piano | Musical hobby; Keyboard practice | Lessons and recitals; Classical pieces | Keys and pedals; Sheet music | Playing guitar; Singing; Composing
+Drumming | Musical hobby; Rhythm practice | Loud practice; Garage bands | Sticks and kit; Keeping time | Playing guitar; Dancing; Beatboxing
+Magic tricks | Performance hobby; Illusions | Party illusions; Pulling coins | Deck of cards; Top hat | Juggling; Comedy; Puppetry
+Juggling | Skill hobby; Circus art | Street performers; Practice in parks | Balls in the air; Hand eye coordination | Magic tricks; Unicycling; Yo yo
+Kite flying | Outdoor hobby; Windy pastime | Beach afternoons; Festival battles | String and spool; Diamond shape | Frisbee; Paragliding; Sailing
+Model building | Craft hobby; Miniature making | Ships in bottles; Miniature railways | Glue and tiny parts; Paint brushes | Lego; Woodworking; Collecting
+Model trains | Miniature hobby; Railway replicas | Basement layouts; Holiday displays | Tiny tracks; Scenery villages | Model building; Collecting; Lego
+Lego | Building toy; Brick hobby | Adult collectors; Sets with manuals | Interlocking bricks; Minifigures | Model building; Puzzles; Blocks
+Astronomy | Science hobby; Stargazing | Meteor showers; Dark sky sites | Telescope; Star charts | Birdwatching; Photography; Astrology
+Stargazing | Night hobby; Sky watching | Constellations; Shooting stars | Blanket on grass; Clear nights | Astronomy; Birdwatching; Camping
+Geocaching | Treasure hunt hobby; Outdoor game | Gps hunts; Hidden boxes | Logbooks; Coordinates | Orienteering; Hiking; Scavenger hunt
+Scuba diving | Water hobby; Underwater exploring | Coral reefs; Certification | Air tanks; Wetsuit and fins | Snorkeling; Swimming; Surfing
+Surfing | Water hobby; Wave riding | Beach mornings; Beach culture | Wetsuit and wax; Paddling out | Skateboarding; Swimming; Sailing
+Skateboarding | Street hobby; Deck tricks | Concrete bowls; Kickflips | Grip tape; Four wheels | Surfing; Rollerblading; Biking
+Rock climbing | Adventure hobby; Vertical sport | Indoor walls; Cliff faces | Harness and chalk; Belay ropes | Hiking; Bouldering; Parkour
+Skiing | Winter hobby; Snow sport | Snowy getaways; Mountain lodges | Poles and boots; Chair lifts | Snowboarding; Skating; Sledding
+Ice skating | Winter hobby; Rink fun | Holiday rinks; Spins and glides | Bladed boots; Frozen ponds | Skiing; Rollerblading; Dancing
+Horse riding | Outdoor hobby; Equestrian | Pony lessons; Trail rides | Saddle and reins; Helmet | Cycling; Polo; Hiking
+Archery | Target hobby; Bow sport | Ranges and clubs; Focus practice | Bow and arrows; Bullseye | Darts; Shooting; Javelin
+Golfing | Leisure sport; Club hobby | Weekend rounds; Country clubs | Clubs and tees; Putting greens | Croquet; Tennis; Bowling
+Bowling | Leisure activity; Alley game | League nights; Rental shoes | Pins and balls; Strikes | Billiards; Darts; Golfing
+Billiards | Table game; Cue hobby | Pool halls; Bar games | Cue stick; Colored balls | Snooker; Bowling; Darts
+Darts | Pub game; Throwing hobby | League nights; Friendly matches | Board and arrows; Bullseye | Archery; Billiards; Bowling
+Card games | Tabletop hobby; Deck pastimes | Family poker nights; Solitaire | Shuffled deck; Dealt hands | Board games; Puzzles; Dice games
+Poker | Card game; Betting hobby | Bluffing friends; Tournament nights | Chips and cards; Royal flush | Blackjack; Bridge; Rummy
+Bird feeding | Garden hobby; Nature care | Watching from windows; Winter help | Seed feeders; Suet balls | Birdwatching; Gardening; Fishing
+Aquarium keeping | Pet hobby; Fish tank care | Tropical fish; Calming display | Filters and gravel; Glass tank | Gardening; Bird feeding; Terrarium
+Terrarium | Plant hobby; Miniature garden | Glass jars; Succulents | Sealed glass; Layered soil | Aquarium keeping; Bonsai; Gardening
+Bonsai | Plant hobby; Miniature trees | Japanese art; Patient pruning | Tiny trees; Shallow pots | Terrarium; Gardening; Topiary
+Candle making | Craft hobby; Wax craft | Scented gifts; Melted wax | Wicks and molds; Fragrance oils | Soap making; Pottery; Knitting
+Soap making | Craft hobby; Bath product craft | Handmade gifts; Natural oils | Molds and lye; Fragrant bars | Candle making; Baking; Pottery
+Jewelry making | Craft hobby; Bead craft | Handmade gifts; Craft fairs | Beads and wire; Pliers | Knitting; Pottery; Embroidery
+Macrame | Craft hobby; Knot art | Plant hangers; Boho decor | Knotted cords; Wall hangings | Crochet; Weaving; Embroidery
+Weaving | Craft hobby; Loom work | Rugs and tapestries; Ancient craft | Warp and weft; Wooden loom | Knitting; Macrame; Quilting
+Glassblowing | Craft hobby; Molten art | Studio classes; Molten shapes | Blowpipe; Glowing furnace | Pottery; Metalwork; Sculpting
+Sculpting | Art hobby; Three dimensional art | Clay or stone; Gallery pieces | Chisels and tools; Busts | Pottery; Painting; Carving
+Carving | Craft hobby; Whittling | Pocket knife projects; Wooden figures | Knife and blocks; Wood shavings | Sculpting; Woodworking; Pottery
+Metal detecting | Treasure hobby; Beach hunting | Buried coins; Beeping finds | Sweeping wand; Headphones on | Geocaching; Fishing; Coin collecting
+Genealogy | Family research; Ancestry hobby | Family trees; Old records | Census papers; Archives | History; Journaling; Scrapbooking
+Volunteering | Giving hobby; Community service | Food banks; Animal shelters | Helping hands; Charity events | Fundraising; Mentoring; Gardening
+Languages | Study hobby; Linguistic practice | Apps and flashcards; Travel prep | Vocabulary drills; Conversation partners | Reading; Writing; Traveling
+Traveling | Leisure hobby; Exploring places | Passport stamps; Bucket lists | Suitcases and maps; Airport lounges | Camping; Hiking; Photography
+Antiquing | Shopping hobby; Vintage hunting | Flea markets; Estate sales | Old furniture; Price haggling | Collecting; Thrifting; Auctions
+Thrifting | Shopping hobby; Secondhand hunting | Charity shops; Vintage clothes | Bargain racks; Hidden gems | Antiquing; Shopping; Collecting
+Cosplay | Costume hobby; Fan dress up | Comic conventions; Anime fans | Handmade outfits; Wigs and props | Acting; Sewing; Makeup
+Acting | Performance hobby; Theater craft | Community plays; Auditions | Scripts and rehearsals; Stage lights | Cosplay; Singing; Dancing
+Comedy club | Performance hobby; Joke telling | Open mic nights; Heckled | Microphone; Punchlines | Acting; Magic tricks; Improv
+Improv | Performance hobby; Unscripted comedy | Yes and; Audience suggestions | Spontaneous scenes; Quick wit | Comedy club; Acting; Charades
+Bird photography | Nature hobby; Wildlife shots | Long lenses; Patient waiting | Camouflage hides; Telephoto | Birdwatching; Hiking; Painting
+Fly tying | Craft hobby; Lure making | Angling prep; Feathers and thread | Tiny hooks; Vise clamp | Knitting; Model building; Jewelry making
+Beekeeping | Farming hobby; Hive care | Fresh honey; Protecting pollinators | Smoker and veil; Wooden frames | Gardening; Bird feeding; Farming
+Homebrewing | Kitchen hobby; Fermentation craft | Kombucha batches; Bubbling jars | Airlocks and bottles; Yeast | Baking; Cooking; Pickling
+Pickling | Kitchen hobby; Food preserving | Jars of cucumbers; Grandma recipes | Vinegar and brine; Mason jars | Canning; Baking; Fermenting
+Fermenting | Kitchen hobby; Food culture | Sauerkraut and kimchi; Gut health | Bubbling crocks; Salt brine | Pickling; Brewing; Baking
+Grilling | Outdoor cooking; Barbecue hobby | Summer cookouts; Backyard parties | Charcoal and tongs; Charred stripes | Baking; Smoking; Cooking
+Food blogging | Online hobby; Recipe sharing | Photographing dishes; Followers | Plating shots; Recipe cards | Cooking; Vlogging; Photography
+Cheese tasting | Gourmet hobby; Deli visits | Pairing crackers; Sampling notes | Aged wheels; Cellar tours | Cooking; Coffee brewing; Chocolate making
+Coffee brewing | Kitchen hobby; Barista craft | Pour over rituals; Bean grinding | Scales and kettles; Latte art | Tea ceremony; Baking; Homebrewing
+Tea ceremony | Cultural hobby; Ritual brewing | Japanese tradition; Mindful sipping | Whisk and bowl; Kneeling | Coffee brewing; Meditation; Calligraphy
+Flower arranging | Craft hobby; Floral design | Ikebana art; Bouquets | Vases and stems; Floral foam | Gardening; Painting; Decorating
+Decorating | Home hobby; Room styling | Rearranging furniture; Mood boards | Cushions and paint swatches; Throw rugs | Gardening; Painting; Thrifting
+Home improvement | Weekend projects; Fixing up | Painting walls; Tiling bathrooms | Toolbox and ladder; Hardware stores | Woodworking; Decorating; Gardening
+Car restoration | Mechanical hobby; Vintage vehicles | Garage weekends; Auto shows | Engines and polish; Rust removal | Woodworking; Model building; Racing
+Motorbiking | Riding hobby; Two wheel trips | Weekend road trips; Biker clubs | Leather jackets; Helmets | Cycling; Car restoration; Racing
+Drone flying | Tech hobby; Aerial filming | Sky photography; Racing quadcopters | Propellers and remote; Goggles | Kite flying; Model building; Photography
+Coding | Tech hobby; Programming | Building apps; Hackathons | Laptops and code; Debugging | Gaming; Robotics; Blogging
+Robotics | Tech hobby; Machine building | School competitions; Arduino kits | Motors and sensors; Soldering | Coding; Model building; Electronics
+Electronics | Tech hobby; Circuit tinkering | Soldering kits; Fixing gadgets | Breadboards and wires; Multimeter | Robotics; Coding; Model building
+Ham radio | Tech hobby; Amateur broadcasting | Talks across the world; Call signs | Antennas and transceivers; Morse code | Podcasting; Electronics; Astronomy
+Speedcubing | Puzzle toy; Cube twisting | Timed solves; Algorithms | Colored squares; Twisting faces | Sudoku; Jigsaw; Puzzles
+Yo yo | Skill toy; Tricks hobby | Walk the dog; Playground fad | String loop; Spinning disc | Juggling; Kite flying; Speedcubing
+Fantasy football | Sports hobby; Online league | Draft day; Weekly lineups | Points tables; Trade offers | Gaming; Betting; Board games
+Trivia nights | Quiz hobby; Pub games | Teams compete; General knowledge | Answer sheets; Quizmaster | Board games; Crossword; Karaoke
+Escape rooms | Puzzle outing; Team challenge | Hour long countdown; Locked doors | Clues and padlocks; Hidden keys | Puzzles; Board games; Treasure hunt
+Paintball | Outdoor game; Team combat | Bachelor parties; Splattered colors | Masks and markers; Bunkers | Laser tag; Archery; Airsoft
+Laser tag | Arcade game; Team combat | Birthday parties; Dark arenas | Vests and blasters; Fog and lights | Paintball; Arcade; Dodgeball
+Bird calling | Nature hobby; Imitation skill | Whistling to finches; Contests | Wooden whistles; Mimicry | Birdwatching; Singing; Whistling
+Whittling | Craft hobby; Knife carving | Porch pastime; Small figures | Pocket knife; Wood shavings | Carving; Woodworking; Sculpting
+Bookbinding | Craft hobby; Journal making | Handmade journals; Old craft | Thread and glue; Leather covers | Calligraphy; Scrapbooking; Origami
+Leathercraft | Artisan hobby; Hide working | Wallets and belts; Tooling patterns | Stitching awl; Stamps | Woodworking; Sewing; Jewelry making
+Puppetry | Performance hobby; Marionette shows | Kids entertainment; Hand puppets | Strings and sock figures; Voices | Acting; Ventriloquism; Magic tricks
+Ventriloquism | Performance skill; Voice throwing | Talking dummy; Comedy acts | Lips stay still; Wooden puppet | Puppetry; Acting; Magic tricks
+Snorkeling | Water hobby; Reef viewing | Tropical holidays; Shallow lagoons | Mask and breathing tube; Flippers | Scuba diving; Swimming; Surfing
+Kayaking | Water hobby; Paddle outings | Lake mornings; River trips | Double bladed paddle; Life vest | Canoeing; Rowing; Surfing
+Sailing | Water hobby; Wind voyaging | Yacht clubs; Regattas | Canvas and ropes; Knots | Kayaking; Rowing; Surfing
+Bodybuilding | Fitness hobby; Muscle training | Gym rats; Protein shakes | Heavy weights; Posing | Weightlifting; Running; Yoga
+Pilates | Fitness hobby; Core training | Studio classes; Reformer machines | Mat exercises; Controlled moves | Yoga; Aerobics; Stretching
+Tai chi | Martial practice; Slow exercise | Parks at dawn; Elderly groups | Flowing movements; Balance | Yoga; Kung fu; Meditation
+Martial arts | Fitness hobby; Combat practice | Belt gradings; Dojo classes | Kicks and punches; Uniforms | Boxing; Yoga; Wrestling
+People watching | Idle hobby; Observation | Cafe windows; Park benches | Quiet curiosity; Imagining stories | Birdwatching; Daydreaming; Reading
+Daydreaming | Idle pastime; Mind wandering | Staring out windows; Lost in thought | Imaginary worlds; Spacing out | Meditation; Napping; People watching
+Napping | Relaxing habit; Short sleep | Sunday afternoons; Power recharge | Couch snoozes; Eye mask | Daydreaming; Meditation; Reading

@@ -1,0 +1,8 @@
+@id body_health
+@name Body & Health
+Appendix | Small organ; Body mystery | Can burst suddenly; Often removed | Tiny pouch; Lower right belly | Tonsils; Gallbladder; Spleen
+Tonsils | Throat tissue; Glands | Removed in childhood; Sore when infected | Back of throat; Swell up | Appendix; Adenoids; Uvula
+Ribcage | Bone structure; Chest shield | Protects the heart; Breathing room | Curved bones; Sternum front | Spine; Skull; Pelvis
+Pelvis | Bone structure; Hip bones | Supports the spine; Childbirth canal | Bowl shaped; Hip sockets | Ribcage; Skull; Femur
+Diaphragm | Breathing muscle; Chest muscle | Causes hiccups; Singers train it | Dome shaped; Under the lungs | Ribcage; Stomach; Spine
+Eardrum | Ear part; Hearing membrane | Pops on planes; Loud music damages | Thin skin layer; Vibrates | Earlobe; Cochlea; Ear canal

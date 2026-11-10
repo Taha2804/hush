@@ -1,0 +1,5208 @@
+{
+ "id": "instruments",
+ "name": "Musical Instruments",
+ "words": [
+  {
+   "word": "Piano",
+   "hints": [
+    {
+     "text": "Keyboard instrument",
+     "level": 1
+    },
+    {
+     "text": "Classical staple",
+     "level": 1
+    },
+    {
+     "text": "Lessons for kids",
+     "level": 2
+    },
+    {
+     "text": "Concert halls",
+     "level": 2
+    },
+    {
+     "text": "Black and white keys",
+     "level": 3
+    },
+    {
+     "text": "Pedals underneath",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Organ",
+    "Harpsichord",
+    "Keyboard"
+   ]
+  },
+  {
+   "word": "Guitar",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Rock staple",
+     "level": 1
+    },
+    {
+     "text": "Campfire songs",
+     "level": 2
+    },
+    {
+     "text": "Strummed chords",
+     "level": 2
+    },
+    {
+     "text": "Six strings",
+     "level": 3
+    },
+    {
+     "text": "Frets on neck",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ukulele",
+    "Banjo",
+    "Mandolin"
+   ]
+  },
+  {
+   "word": "Violin",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Orchestra staple",
+     "level": 1
+    },
+    {
+     "text": "Played with a bow",
+     "level": 2
+    },
+    {
+     "text": "Classical solos",
+     "level": 2
+    },
+    {
+     "text": "Tucked under chin",
+     "level": 3
+    },
+    {
+     "text": "Four strings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Viola",
+    "Cello",
+    "Fiddle"
+   ]
+  },
+  {
+   "word": "Cello",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Large fiddle",
+     "level": 1
+    },
+    {
+     "text": "Deep mellow tones",
+     "level": 2
+    },
+    {
+     "text": "Seated players",
+     "level": 2
+    },
+    {
+     "text": "Rests on floor",
+     "level": 3
+    },
+    {
+     "text": "Spike at bottom",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Violin",
+    "Double bass",
+    "Viola"
+   ]
+  },
+  {
+   "word": "Drums",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Rhythm section",
+     "level": 1
+    },
+    {
+     "text": "Rock bands",
+     "level": 2
+    },
+    {
+     "text": "Loud practice",
+     "level": 2
+    },
+    {
+     "text": "Sticks and cymbals",
+     "level": 3
+    },
+    {
+     "text": "Kick pedal",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tambourine",
+    "Bongos",
+    "Xylophone"
+   ]
+  },
+  {
+   "word": "Flute",
+   "hints": [
+    {
+     "text": "Woodwind instrument",
+     "level": 1
+    },
+    {
+     "text": "Breathy sound",
+     "level": 1
+    },
+    {
+     "text": "Played sideways",
+     "level": 2
+    },
+    {
+     "text": "Orchestra solos",
+     "level": 2
+    },
+    {
+     "text": "Silver tube",
+     "level": 3
+    },
+    {
+     "text": "Finger keys",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Clarinet",
+    "Piccolo",
+    "Recorder"
+   ]
+  },
+  {
+   "word": "Trumpet",
+   "hints": [
+    {
+     "text": "Brass instrument",
+     "level": 1
+    },
+    {
+     "text": "Loud horn",
+     "level": 1
+    },
+    {
+     "text": "Jazz bands",
+     "level": 2
+    },
+    {
+     "text": "Military calls",
+     "level": 2
+    },
+    {
+     "text": "Three valves",
+     "level": 3
+    },
+    {
+     "text": "Flared bell",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Trombone",
+    "Cornet",
+    "Bugle"
+   ]
+  },
+  {
+   "word": "Saxophone",
+   "hints": [
+    {
+     "text": "Woodwind instrument",
+     "level": 1
+    },
+    {
+     "text": "Jazz horn",
+     "level": 1
+    },
+    {
+     "text": "Smooth jazz",
+     "level": 2
+    },
+    {
+     "text": "Late night clubs",
+     "level": 2
+    },
+    {
+     "text": "Curved brass body",
+     "level": 3
+    },
+    {
+     "text": "Reed mouthpiece",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Clarinet",
+    "Trumpet",
+    "Oboe"
+   ]
+  },
+  {
+   "word": "Clarinet",
+   "hints": [
+    {
+     "text": "Woodwind instrument",
+     "level": 1
+    },
+    {
+     "text": "Reed instrument",
+     "level": 1
+    },
+    {
+     "text": "School bands",
+     "level": 2
+    },
+    {
+     "text": "Klezmer music",
+     "level": 2
+    },
+    {
+     "text": "Black tube",
+     "level": 3
+    },
+    {
+     "text": "Single reed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Oboe",
+    "Flute",
+    "Saxophone"
+   ]
+  },
+  {
+   "word": "Trombone",
+   "hints": [
+    {
+     "text": "Brass instrument",
+     "level": 1
+    },
+    {
+     "text": "Slide horn",
+     "level": 1
+    },
+    {
+     "text": "Marching bands",
+     "level": 2
+    },
+    {
+     "text": "Comic slides",
+     "level": 2
+    },
+    {
+     "text": "Long slide",
+     "level": 3
+    },
+    {
+     "text": "Big bell",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Trumpet",
+    "Tuba",
+    "Euphonium"
+   ]
+  },
+  {
+   "word": "Tuba",
+   "hints": [
+    {
+     "text": "Brass instrument",
+     "level": 1
+    },
+    {
+     "text": "Huge horn",
+     "level": 1
+    },
+    {
+     "text": "Oompah bands",
+     "level": 2
+    },
+    {
+     "text": "Bass notes",
+     "level": 2
+    },
+    {
+     "text": "Massive coiled tubing",
+     "level": 3
+    },
+    {
+     "text": "Upward bell",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Trombone",
+    "Sousaphone",
+    "Euphonium"
+   ]
+  },
+  {
+   "word": "Harp",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Plucked frame",
+     "level": 1
+    },
+    {
+     "text": "Angels play it",
+     "level": 2
+    },
+    {
+     "text": "Heavenly sound",
+     "level": 2
+    },
+    {
+     "text": "Tall triangle",
+     "level": 3
+    },
+    {
+     "text": "Many strings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lyre",
+    "Zither",
+    "Piano"
+   ]
+  },
+  {
+   "word": "Accordion",
+   "hints": [
+    {
+     "text": "Squeezebox",
+     "level": 1
+    },
+    {
+     "text": "Bellows instrument",
+     "level": 1
+    },
+    {
+     "text": "Polka music",
+     "level": 2
+    },
+    {
+     "text": "Street performers",
+     "level": 2
+    },
+    {
+     "text": "Pleated folds",
+     "level": 3
+    },
+    {
+     "text": "Buttons and keys",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Harmonica",
+    "Concertina",
+    "Bagpipes"
+   ]
+  },
+  {
+   "word": "Harmonica",
+   "hints": [
+    {
+     "text": "Mouth organ",
+     "level": 1
+    },
+    {
+     "text": "Pocket instrument",
+     "level": 1
+    },
+    {
+     "text": "Blues players",
+     "level": 2
+    },
+    {
+     "text": "Campfire tunes",
+     "level": 2
+    },
+    {
+     "text": "Small metal bar",
+     "level": 3
+    },
+    {
+     "text": "Blow and draw",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kazoo",
+    "Accordion",
+    "Whistle"
+   ]
+  },
+  {
+   "word": "Banjo",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Country twang",
+     "level": 1
+    },
+    {
+     "text": "Bluegrass music",
+     "level": 2
+    },
+    {
+     "text": "Southern porches",
+     "level": 2
+    },
+    {
+     "text": "Round drum body",
+     "level": 3
+    },
+    {
+     "text": "Plucky sound",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Guitar",
+    "Ukulele",
+    "Mandolin"
+   ]
+  },
+  {
+   "word": "Ukulele",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Small guitar",
+     "level": 1
+    },
+    {
+     "text": "Hawaiian music",
+     "level": 2
+    },
+    {
+     "text": "Beach songs",
+     "level": 2
+    },
+    {
+     "text": "Four strings",
+     "level": 3
+    },
+    {
+     "text": "Tiny body",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Guitar",
+    "Banjo",
+    "Mandolin"
+   ]
+  },
+  {
+   "word": "Xylophone",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Mallet instrument",
+     "level": 1
+    },
+    {
+     "text": "Kids toy version",
+     "level": 2
+    },
+    {
+     "text": "Plinky notes",
+     "level": 2
+    },
+    {
+     "text": "Wooden bars",
+     "level": 3
+    },
+    {
+     "text": "Struck with mallets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Glockenspiel",
+    "Marimba",
+    "Vibraphone"
+   ]
+  },
+  {
+   "word": "Tambourine",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Hand drum",
+     "level": 1
+    },
+    {
+     "text": "Shaken at concerts",
+     "level": 2
+    },
+    {
+     "text": "Folk dances",
+     "level": 2
+    },
+    {
+     "text": "Jingling discs",
+     "level": 3
+    },
+    {
+     "text": "Round frame",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Maracas",
+    "Triangle",
+    "Drums"
+   ]
+  },
+  {
+   "word": "Maracas",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Shakers",
+     "level": 1
+    },
+    {
+     "text": "Latin music",
+     "level": 2
+    },
+    {
+     "text": "Party rhythms",
+     "level": 2
+    },
+    {
+     "text": "Pair of gourds",
+     "level": 3
+    },
+    {
+     "text": "Rattling seeds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tambourine",
+    "Castanets",
+    "Bongos"
+   ]
+  },
+  {
+   "word": "Triangle",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Metal chime",
+     "level": 1
+    },
+    {
+     "text": "Orchestra joke",
+     "level": 2
+    },
+    {
+     "text": "Single ting",
+     "level": 2
+    },
+    {
+     "text": "Bent steel rod",
+     "level": 3
+    },
+    {
+     "text": "Struck with beater",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bell",
+    "Cymbal",
+    "Chime"
+   ]
+  },
+  {
+   "word": "Cymbal",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Metal disc",
+     "level": 1
+    },
+    {
+     "text": "Crash in drum kits",
+     "level": 2
+    },
+    {
+     "text": "Big finales",
+     "level": 2
+    },
+    {
+     "text": "Brass plate",
+     "level": 3
+    },
+    {
+     "text": "Shimmering crash",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gong",
+    "Triangle",
+    "Drum"
+   ]
+  },
+  {
+   "word": "Gong",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Large disc",
+     "level": 1
+    },
+    {
+     "text": "Temple ceremonies",
+     "level": 2
+    },
+    {
+     "text": "Dramatic entrance",
+     "level": 2
+    },
+    {
+     "text": "Hanging bronze plate",
+     "level": 3
+    },
+    {
+     "text": "Deep boom",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cymbal",
+    "Bell",
+    "Drum"
+   ]
+  },
+  {
+   "word": "Bagpipes",
+   "hints": [
+    {
+     "text": "Wind instrument",
+     "level": 1
+    },
+    {
+     "text": "Highland instrument",
+     "level": 1
+    },
+    {
+     "text": "Scottish parades",
+     "level": 2
+    },
+    {
+     "text": "Funeral laments",
+     "level": 2
+    },
+    {
+     "text": "Air bag",
+     "level": 3
+    },
+    {
+     "text": "Droning tubes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Accordion",
+    "Flute",
+    "Horn"
+   ]
+  },
+  {
+   "word": "Organ",
+   "hints": [
+    {
+     "text": "Keyboard instrument",
+     "level": 1
+    },
+    {
+     "text": "Church instrument",
+     "level": 1
+    },
+    {
+     "text": "Wedding marches",
+     "level": 2
+    },
+    {
+     "text": "Cathedral music",
+     "level": 2
+    },
+    {
+     "text": "Huge pipes",
+     "level": 3
+    },
+    {
+     "text": "Many keyboards",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Piano",
+    "Harpsichord",
+    "Accordion"
+   ]
+  },
+  {
+   "word": "Recorder",
+   "hints": [
+    {
+     "text": "Woodwind instrument",
+     "level": 1
+    },
+    {
+     "text": "School instrument",
+     "level": 1
+    },
+    {
+     "text": "Kids learn it first",
+     "level": 2
+    },
+    {
+     "text": "Squeaky notes",
+     "level": 2
+    },
+    {
+     "text": "Plastic tube",
+     "level": 3
+    },
+    {
+     "text": "Thumb hole",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Flute",
+    "Whistle",
+    "Ocarina"
+   ]
+  },
+  {
+   "word": "Oboe",
+   "hints": [
+    {
+     "text": "Woodwind instrument",
+     "level": 1
+    },
+    {
+     "text": "Double reed",
+     "level": 1
+    },
+    {
+     "text": "Tunes the orchestra",
+     "level": 2
+    },
+    {
+     "text": "Nasal tone",
+     "level": 2
+    },
+    {
+     "text": "Black body",
+     "level": 3
+    },
+    {
+     "text": "Thin reed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Clarinet",
+    "Bassoon",
+    "Flute"
+   ]
+  },
+  {
+   "word": "Bassoon",
+   "hints": [
+    {
+     "text": "Woodwind instrument",
+     "level": 1
+    },
+    {
+     "text": "Low reed",
+     "level": 1
+    },
+    {
+     "text": "Grandfather sound",
+     "level": 2
+    },
+    {
+     "text": "Comic parts",
+     "level": 2
+    },
+    {
+     "text": "Tall wooden tube",
+     "level": 3
+    },
+    {
+     "text": "Bent crook",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Oboe",
+    "Clarinet",
+    "Tuba"
+   ]
+  },
+  {
+   "word": "Piccolo",
+   "hints": [
+    {
+     "text": "Woodwind instrument",
+     "level": 1
+    },
+    {
+     "text": "Tiny flute",
+     "level": 1
+    },
+    {
+     "text": "Marching bands",
+     "level": 2
+    },
+    {
+     "text": "Highest pitch",
+     "level": 2
+    },
+    {
+     "text": "Short silver tube",
+     "level": 3
+    },
+    {
+     "text": "Shrill notes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Flute",
+    "Recorder",
+    "Whistle"
+   ]
+  },
+  {
+   "word": "French horn",
+   "hints": [
+    {
+     "text": "Brass instrument",
+     "level": 1
+    },
+    {
+     "text": "Coiled brass",
+     "level": 1
+    },
+    {
+     "text": "Orchestra brass",
+     "level": 2
+    },
+    {
+     "text": "Hand in bell",
+     "level": 2
+    },
+    {
+     "text": "Circular tubing",
+     "level": 3
+    },
+    {
+     "text": "Rotary valves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tuba",
+    "Trumpet",
+    "Bugle"
+   ]
+  },
+  {
+   "word": "Bugle",
+   "hints": [
+    {
+     "text": "Brass instrument",
+     "level": 1
+    },
+    {
+     "text": "Military horn",
+     "level": 1
+    },
+    {
+     "text": "Morning wake up call",
+     "level": 2
+    },
+    {
+     "text": "Army camps",
+     "level": 2
+    },
+    {
+     "text": "No valves",
+     "level": 3
+    },
+    {
+     "text": "Simple tube",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Trumpet",
+    "Cornet",
+    "Horn"
+   ]
+  },
+  {
+   "word": "Double bass",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Biggest fiddle",
+     "level": 1
+    },
+    {
+     "text": "Jazz grooves",
+     "level": 2
+    },
+    {
+     "text": "Plucked or bowed",
+     "level": 2
+    },
+    {
+     "text": "Taller than player",
+     "level": 3
+    },
+    {
+     "text": "Deep notes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cello",
+    "Bass guitar",
+    "Viola"
+   ]
+  },
+  {
+   "word": "Viola",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Middle fiddle",
+     "level": 1
+    },
+    {
+     "text": "Orchestra alto",
+     "level": 2
+    },
+    {
+     "text": "Mellow tone",
+     "level": 2
+    },
+    {
+     "text": "Slightly bigger body",
+     "level": 3
+    },
+    {
+     "text": "Under chin",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Violin",
+    "Cello",
+    "Fiddle"
+   ]
+  },
+  {
+   "word": "Mandolin",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Folk lute",
+     "level": 1
+    },
+    {
+     "text": "Italian serenades",
+     "level": 2
+    },
+    {
+     "text": "Bluegrass",
+     "level": 2
+    },
+    {
+     "text": "Teardrop body",
+     "level": 3
+    },
+    {
+     "text": "Paired strings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Banjo",
+    "Ukulele",
+    "Lute"
+   ]
+  },
+  {
+   "word": "Lute",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Medieval instrument",
+     "level": 1
+    },
+    {
+     "text": "Renaissance minstrels",
+     "level": 2
+    },
+    {
+     "text": "Courtly songs",
+     "level": 2
+    },
+    {
+     "text": "Pear shaped body",
+     "level": 3
+    },
+    {
+     "text": "Bent neck",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mandolin",
+    "Harp",
+    "Lyre"
+   ]
+  },
+  {
+   "word": "Lyre",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Ancient instrument",
+     "level": 1
+    },
+    {
+     "text": "Greek myths",
+     "level": 2
+    },
+    {
+     "text": "Poets played it",
+     "level": 2
+    },
+    {
+     "text": "U shaped frame",
+     "level": 3
+    },
+    {
+     "text": "Plucked strings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Harp",
+    "Lute",
+    "Zither"
+   ]
+  },
+  {
+   "word": "Sitar",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Indian instrument",
+     "level": 1
+    },
+    {
+     "text": "Classical ragas",
+     "level": 2
+    },
+    {
+     "text": "Sixties rock",
+     "level": 2
+    },
+    {
+     "text": "Long neck",
+     "level": 3
+    },
+    {
+     "text": "Gourd body",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Veena",
+    "Sarod",
+    "Tanpura"
+   ]
+  },
+  {
+   "word": "Tabla",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Indian drums",
+     "level": 1
+    },
+    {
+     "text": "Classical rhythms",
+     "level": 2
+    },
+    {
+     "text": "Played with fingers",
+     "level": 2
+    },
+    {
+     "text": "Pair of drums",
+     "level": 3
+    },
+    {
+     "text": "Black center spot",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dholak",
+    "Mridangam",
+    "Bongos"
+   ]
+  },
+  {
+   "word": "Veena",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Indian lute",
+     "level": 1
+    },
+    {
+     "text": "Carnatic music",
+     "level": 2
+    },
+    {
+     "text": "Goddess holds it",
+     "level": 2
+    },
+    {
+     "text": "Two gourds",
+     "level": 3
+    },
+    {
+     "text": "Long fretted neck",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sitar",
+    "Sarod",
+    "Tanpura"
+   ]
+  },
+  {
+   "word": "Bansuri",
+   "hints": [
+    {
+     "text": "Bamboo pipe",
+     "level": 1
+    },
+    {
+     "text": "Indian woodwind",
+     "level": 1
+    },
+    {
+     "text": "Krishna plays it",
+     "level": 2
+    },
+    {
+     "text": "Soulful tunes",
+     "level": 2
+    },
+    {
+     "text": "Hollow bamboo",
+     "level": 3
+    },
+    {
+     "text": "Six holes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shehnai",
+    "Recorder",
+    "Piccolo"
+   ]
+  },
+  {
+   "word": "Shehnai",
+   "hints": [
+    {
+     "text": "Wind instrument",
+     "level": 1
+    },
+    {
+     "text": "Indian oboe",
+     "level": 1
+    },
+    {
+     "text": "Weddings in india",
+     "level": 2
+    },
+    {
+     "text": "Auspicious music",
+     "level": 2
+    },
+    {
+     "text": "Flared bell",
+     "level": 3
+    },
+    {
+     "text": "Double reed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nadaswaram",
+    "Oboe",
+    "Clarinet"
+   ]
+  },
+  {
+   "word": "Harmonium",
+   "hints": [
+    {
+     "text": "Keyboard instrument",
+     "level": 1
+    },
+    {
+     "text": "Reed organ",
+     "level": 1
+    },
+    {
+     "text": "Devotional songs",
+     "level": 2
+    },
+    {
+     "text": "Qawwali",
+     "level": 2
+    },
+    {
+     "text": "Hand pumped bellows",
+     "level": 3
+    },
+    {
+     "text": "Small keyboard",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Accordion",
+    "Organ",
+    "Piano"
+   ]
+  },
+  {
+   "word": "Dhol",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Barrel drum",
+     "level": 1
+    },
+    {
+     "text": "Bhangra dancing",
+     "level": 2
+    },
+    {
+     "text": "Weddings",
+     "level": 2
+    },
+    {
+     "text": "Two sided drum",
+     "level": 3
+    },
+    {
+     "text": "Hung from shoulder",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tabla",
+    "Taiko",
+    "Bass drum"
+   ]
+  },
+  {
+   "word": "Mridangam",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "South indian drum",
+     "level": 1
+    },
+    {
+     "text": "Carnatic concerts",
+     "level": 2
+    },
+    {
+     "text": "Ancient rhythms",
+     "level": 2
+    },
+    {
+     "text": "Double headed barrel",
+     "level": 3
+    },
+    {
+     "text": "Played sideways",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tabla",
+    "Dholak",
+    "Ghatam"
+   ]
+  },
+  {
+   "word": "Sarod",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Indian lute",
+     "level": 1
+    },
+    {
+     "text": "Classical ragas",
+     "level": 2
+    },
+    {
+     "text": "Fretless",
+     "level": 2
+    },
+    {
+     "text": "Metal fingerboard",
+     "level": 3
+    },
+    {
+     "text": "Skin covered body",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sitar",
+    "Veena",
+    "Rubab"
+   ]
+  },
+  {
+   "word": "Santoor",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Hammered dulcimer",
+     "level": 1
+    },
+    {
+     "text": "Kashmiri music",
+     "level": 2
+    },
+    {
+     "text": "Soothing tones",
+     "level": 2
+    },
+    {
+     "text": "Trapezoid box",
+     "level": 3
+    },
+    {
+     "text": "Tiny mallets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dulcimer",
+    "Zither",
+    "Harp"
+   ]
+  },
+  {
+   "word": "Tanpura",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Drone lute",
+     "level": 1
+    },
+    {
+     "text": "Accompanies singers",
+     "level": 2
+    },
+    {
+     "text": "Constant hum",
+     "level": 2
+    },
+    {
+     "text": "Long neck",
+     "level": 3
+    },
+    {
+     "text": "No frets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sitar",
+    "Veena",
+    "Sarod"
+   ]
+  },
+  {
+   "word": "Didgeridoo",
+   "hints": [
+    {
+     "text": "Wind instrument",
+     "level": 1
+    },
+    {
+     "text": "Aboriginal horn",
+     "level": 1
+    },
+    {
+     "text": "Australian outback",
+     "level": 2
+    },
+    {
+     "text": "Circular breathing",
+     "level": 2
+    },
+    {
+     "text": "Long hollow log",
+     "level": 3
+    },
+    {
+     "text": "Droning buzz",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Alphorn",
+    "Bagpipes",
+    "Tuba"
+   ]
+  },
+  {
+   "word": "Bongos",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Hand drums",
+     "level": 1
+    },
+    {
+     "text": "Latin rhythms",
+     "level": 2
+    },
+    {
+     "text": "Beach jams",
+     "level": 2
+    },
+    {
+     "text": "Pair of small drums",
+     "level": 3
+    },
+    {
+     "text": "Held between knees",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Congas",
+    "Tabla",
+    "Djembe"
+   ]
+  },
+  {
+   "word": "Congas",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Tall drums",
+     "level": 1
+    },
+    {
+     "text": "Salsa bands",
+     "level": 2
+    },
+    {
+     "text": "Afro cuban music",
+     "level": 2
+    },
+    {
+     "text": "Barrel shaped",
+     "level": 3
+    },
+    {
+     "text": "Slapped by hand",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bongos",
+    "Djembe",
+    "Timbales"
+   ]
+  },
+  {
+   "word": "Djembe",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "African drum",
+     "level": 1
+    },
+    {
+     "text": "Drum circles",
+     "level": 2
+    },
+    {
+     "text": "West african music",
+     "level": 2
+    },
+    {
+     "text": "Goblet shape",
+     "level": 3
+    },
+    {
+     "text": "Goatskin head",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bongos",
+    "Congas",
+    "Tabla"
+   ]
+  },
+  {
+   "word": "Castanets",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Clappers",
+     "level": 1
+    },
+    {
+     "text": "Flamenco dancers",
+     "level": 2
+    },
+    {
+     "text": "Spanish rhythms",
+     "level": 2
+    },
+    {
+     "text": "Shell pairs",
+     "level": 3
+    },
+    {
+     "text": "Clicked in palm",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Maracas",
+    "Tambourine",
+    "Spoons"
+   ]
+  },
+  {
+   "word": "Kazoo",
+   "hints": [
+    {
+     "text": "Toy instrument",
+     "level": 1
+    },
+    {
+     "text": "Humming tube",
+     "level": 1
+    },
+    {
+     "text": "Party noise",
+     "level": 2
+    },
+    {
+     "text": "Silly buzz",
+     "level": 2
+    },
+    {
+     "text": "Paper membrane",
+     "level": 3
+    },
+    {
+     "text": "Hum into it",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Whistle",
+    "Harmonica",
+    "Recorder"
+   ]
+  },
+  {
+   "word": "Ocarina",
+   "hints": [
+    {
+     "text": "Wind instrument",
+     "level": 1
+    },
+    {
+     "text": "Vessel flute",
+     "level": 1
+    },
+    {
+     "text": "Video game fame",
+     "level": 2
+    },
+    {
+     "text": "Ancient origins",
+     "level": 2
+    },
+    {
+     "text": "Egg shaped clay",
+     "level": 3
+    },
+    {
+     "text": "Finger holes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Recorder",
+    "Flute",
+    "Whistle"
+   ]
+  },
+  {
+   "word": "Glockenspiel",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Bell lyre",
+     "level": 1
+    },
+    {
+     "text": "Christmas music",
+     "level": 2
+    },
+    {
+     "text": "Twinkly notes",
+     "level": 2
+    },
+    {
+     "text": "Metal bars",
+     "level": 3
+    },
+    {
+     "text": "Small mallets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Xylophone",
+    "Marimba",
+    "Celesta"
+   ]
+  },
+  {
+   "word": "Marimba",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Wooden mallet instrument",
+     "level": 1
+    },
+    {
+     "text": "Latin and african music",
+     "level": 2
+    },
+    {
+     "text": "Warm tones",
+     "level": 2
+    },
+    {
+     "text": "Wide wooden bars",
+     "level": 3
+    },
+    {
+     "text": "Resonator tubes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Xylophone",
+    "Vibraphone",
+    "Glockenspiel"
+   ]
+  },
+  {
+   "word": "Vibraphone",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Jazz mallets",
+     "level": 1
+    },
+    {
+     "text": "Shimmering tones",
+     "level": 2
+    },
+    {
+     "text": "Cool jazz",
+     "level": 2
+    },
+    {
+     "text": "Metal bars",
+     "level": 3
+    },
+    {
+     "text": "Spinning fans",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Marimba",
+    "Xylophone",
+    "Glockenspiel"
+   ]
+  },
+  {
+   "word": "Harpsichord",
+   "hints": [
+    {
+     "text": "Keyboard instrument",
+     "level": 1
+    },
+    {
+     "text": "Baroque keyboard",
+     "level": 1
+    },
+    {
+     "text": "Bach era",
+     "level": 2
+    },
+    {
+     "text": "Royal courts",
+     "level": 2
+    },
+    {
+     "text": "Plucked strings",
+     "level": 3
+    },
+    {
+     "text": "Two keyboards",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Piano",
+    "Organ",
+    "Clavichord"
+   ]
+  },
+  {
+   "word": "Synthesizer",
+   "hints": [
+    {
+     "text": "Electronic instrument",
+     "level": 1
+    },
+    {
+     "text": "Sound generator",
+     "level": 1
+    },
+    {
+     "text": "Eighties pop",
+     "level": 2
+    },
+    {
+     "text": "Dance music",
+     "level": 2
+    },
+    {
+     "text": "Knobs and sliders",
+     "level": 3
+    },
+    {
+     "text": "Electronic sounds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Keyboard",
+    "Organ",
+    "Theremin"
+   ]
+  },
+  {
+   "word": "Keyboard",
+   "hints": [
+    {
+     "text": "Electronic instrument",
+     "level": 1
+    },
+    {
+     "text": "Portable piano",
+     "level": 1
+    },
+    {
+     "text": "School music rooms",
+     "level": 2
+    },
+    {
+     "text": "Preset rhythms",
+     "level": 2
+    },
+    {
+     "text": "Plastic keys",
+     "level": 3
+    },
+    {
+     "text": "Built in speakers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Piano",
+    "Synthesizer",
+    "Organ"
+   ]
+  },
+  {
+   "word": "Electric guitar",
+   "hints": [
+    {
+     "text": "Amplified instrument",
+     "level": 1
+    },
+    {
+     "text": "Rock axe",
+     "level": 1
+    },
+    {
+     "text": "Shredding solos",
+     "level": 2
+    },
+    {
+     "text": "Stadium concerts",
+     "level": 2
+    },
+    {
+     "text": "Solid body",
+     "level": 3
+    },
+    {
+     "text": "Pickups and amp",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bass guitar",
+    "Acoustic guitar",
+    "Banjo"
+   ]
+  },
+  {
+   "word": "Bass guitar",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Low rhythm",
+     "level": 1
+    },
+    {
+     "text": "Funky grooves",
+     "level": 2
+    },
+    {
+     "text": "Band backbone",
+     "level": 2
+    },
+    {
+     "text": "Four thick strings",
+     "level": 3
+    },
+    {
+     "text": "Long neck",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Double bass",
+    "Electric guitar",
+    "Cello"
+   ]
+  },
+  {
+   "word": "Acoustic guitar",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Wooden strummer",
+     "level": 1
+    },
+    {
+     "text": "Campfire songs",
+     "level": 2
+    },
+    {
+     "text": "Unplugged sessions",
+     "level": 2
+    },
+    {
+     "text": "Hollow body",
+     "level": 3
+    },
+    {
+     "text": "Sound hole",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Electric guitar",
+    "Ukulele",
+    "Banjo"
+   ]
+  },
+  {
+   "word": "Fiddle",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Folk violin",
+     "level": 1
+    },
+    {
+     "text": "Country dances",
+     "level": 2
+    },
+    {
+     "text": "Irish jigs",
+     "level": 2
+    },
+    {
+     "text": "Bowed strings",
+     "level": 3
+    },
+    {
+     "text": "Hoedown music",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Violin",
+    "Banjo",
+    "Mandolin"
+   ]
+  },
+  {
+   "word": "Theremin",
+   "hints": [
+    {
+     "text": "Electronic instrument",
+     "level": 1
+    },
+    {
+     "text": "Touchless instrument",
+     "level": 1
+    },
+    {
+     "text": "Spooky movie sounds",
+     "level": 2
+    },
+    {
+     "text": "Hand waving",
+     "level": 2
+    },
+    {
+     "text": "Two antennas",
+     "level": 3
+    },
+    {
+     "text": "Eerie whine",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Synthesizer",
+    "Saw",
+    "Organ"
+   ]
+  },
+  {
+   "word": "Steel drum",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Caribbean pan",
+     "level": 1
+    },
+    {
+     "text": "Calypso music",
+     "level": 2
+    },
+    {
+     "text": "Beach parties",
+     "level": 2
+    },
+    {
+     "text": "Dimpled metal pan",
+     "level": 3
+    },
+    {
+     "text": "Bright ringing",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Marimba",
+    "Bongos",
+    "Gong"
+   ]
+  },
+  {
+   "word": "Snare drum",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Marching percussion",
+     "level": 1
+    },
+    {
+     "text": "Military rolls",
+     "level": 2
+    },
+    {
+     "text": "Kit staple",
+     "level": 2
+    },
+    {
+     "text": "Rattling wires",
+     "level": 3
+    },
+    {
+     "text": "Crisp crack",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bass drum",
+    "Tom",
+    "Bongos"
+   ]
+  },
+  {
+   "word": "Bass drum",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Big boomer",
+     "level": 1
+    },
+    {
+     "text": "Marching bands",
+     "level": 2
+    },
+    {
+     "text": "Kick pedal",
+     "level": 2
+    },
+    {
+     "text": "Deep boom",
+     "level": 3
+    },
+    {
+     "text": "Large round shell",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Snare drum",
+    "Timpani",
+    "Dhol"
+   ]
+  },
+  {
+   "word": "Timpani",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Kettle drums",
+     "level": 1
+    },
+    {
+     "text": "Orchestra climaxes",
+     "level": 2
+    },
+    {
+     "text": "Thunder effects",
+     "level": 2
+    },
+    {
+     "text": "Copper bowls",
+     "level": 3
+    },
+    {
+     "text": "Tuning pedals",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bass drum",
+    "Gong",
+    "Snare drum"
+   ]
+  },
+  {
+   "word": "Cowbell",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Metal clanker",
+     "level": 1
+    },
+    {
+     "text": "Rock songs",
+     "level": 2
+    },
+    {
+     "text": "Need more of it",
+     "level": 2
+    },
+    {
+     "text": "Clanky metal",
+     "level": 3
+    },
+    {
+     "text": "Struck with stick",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Triangle",
+    "Gong",
+    "Woodblock"
+   ]
+  },
+  {
+   "word": "Chimes",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Tubular bells",
+     "level": 1
+    },
+    {
+     "text": "Church sounds",
+     "level": 2
+    },
+    {
+     "text": "Orchestra effects",
+     "level": 2
+    },
+    {
+     "text": "Hanging metal tubes",
+     "level": 3
+    },
+    {
+     "text": "Ringing tones",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bells",
+    "Gong",
+    "Glockenspiel"
+   ]
+  },
+  {
+   "word": "Bells",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Ringing metal",
+     "level": 1
+    },
+    {
+     "text": "Church towers",
+     "level": 2
+    },
+    {
+     "text": "Holiday songs",
+     "level": 2
+    },
+    {
+     "text": "Cup shaped",
+     "level": 3
+    },
+    {
+     "text": "Clappers inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chimes",
+    "Gong",
+    "Cymbal"
+   ]
+  },
+  {
+   "word": "Handbell",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Held ringer",
+     "level": 1
+    },
+    {
+     "text": "Ringing choirs",
+     "level": 2
+    },
+    {
+     "text": "Christmas concerts",
+     "level": 2
+    },
+    {
+     "text": "Polished brass",
+     "level": 3
+    },
+    {
+     "text": "Leather handle",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chimes",
+    "Triangle",
+    "Cowbell"
+   ]
+  },
+  {
+   "word": "Washboard",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Folk rhythm",
+     "level": 1
+    },
+    {
+     "text": "Zydeco music",
+     "level": 2
+    },
+    {
+     "text": "Jug bands",
+     "level": 2
+    },
+    {
+     "text": "Ridged metal",
+     "level": 3
+    },
+    {
+     "text": "Thimbles scrape",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spoons",
+    "Cowbell",
+    "Tambourine"
+   ]
+  },
+  {
+   "word": "Spoons",
+   "hints": [
+    {
+     "text": "Folk percussion",
+     "level": 1
+    },
+    {
+     "text": "Household rhythm",
+     "level": 1
+    },
+    {
+     "text": "Kitchen jam sessions",
+     "level": 2
+    },
+    {
+     "text": "Irish music",
+     "level": 2
+    },
+    {
+     "text": "Two utensils clicked",
+     "level": 3
+    },
+    {
+     "text": "Back to back",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Castanets",
+    "Washboard",
+    "Bones"
+   ]
+  },
+  {
+   "word": "Jaw harp",
+   "hints": [
+    {
+     "text": "Mouth instrument",
+     "level": 1
+    },
+    {
+     "text": "Twangy plucker",
+     "level": 1
+    },
+    {
+     "text": "Folk music",
+     "level": 2
+    },
+    {
+     "text": "Boing sounds",
+     "level": 2
+    },
+    {
+     "text": "Metal frame",
+     "level": 3
+    },
+    {
+     "text": "Flexible tongue",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Harmonica",
+    "Kazoo",
+    "Didgeridoo"
+   ]
+  },
+  {
+   "word": "Pan flute",
+   "hints": [
+    {
+     "text": "Wind instrument",
+     "level": 1
+    },
+    {
+     "text": "Tube pipes",
+     "level": 1
+    },
+    {
+     "text": "Andean music",
+     "level": 2
+    },
+    {
+     "text": "Greek myth god",
+     "level": 2
+    },
+    {
+     "text": "Row of tubes",
+     "level": 3
+    },
+    {
+     "text": "Blown across top",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Recorder",
+    "Ocarina",
+    "Whistle"
+   ]
+  },
+  {
+   "word": "Alphorn",
+   "hints": [
+    {
+     "text": "Wind instrument",
+     "level": 1
+    },
+    {
+     "text": "Swiss trumpet",
+     "level": 1
+    },
+    {
+     "text": "Alpine valleys",
+     "level": 2
+    },
+    {
+     "text": "Herders call",
+     "level": 2
+    },
+    {
+     "text": "Very long wooden tube",
+     "level": 3
+    },
+    {
+     "text": "Upturned bell",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Didgeridoo",
+    "Bugle",
+    "Tuba"
+   ]
+  },
+  {
+   "word": "Sousaphone",
+   "hints": [
+    {
+     "text": "Brass instrument",
+     "level": 1
+    },
+    {
+     "text": "Marching tuba",
+     "level": 1
+    },
+    {
+     "text": "Football halftime",
+     "level": 2
+    },
+    {
+     "text": "Wrapped around player",
+     "level": 2
+    },
+    {
+     "text": "Huge front bell",
+     "level": 3
+    },
+    {
+     "text": "Circular coil",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tuba",
+    "Trombone",
+    "French horn"
+   ]
+  },
+  {
+   "word": "Euphonium",
+   "hints": [
+    {
+     "text": "Brass instrument",
+     "level": 1
+    },
+    {
+     "text": "Small tuba",
+     "level": 1
+    },
+    {
+     "text": "Brass bands",
+     "level": 2
+    },
+    {
+     "text": "Mellow solos",
+     "level": 2
+    },
+    {
+     "text": "Tenor range",
+     "level": 3
+    },
+    {
+     "text": "Upright valves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tuba",
+    "Trombone",
+    "Baritone"
+   ]
+  },
+  {
+   "word": "Cornet",
+   "hints": [
+    {
+     "text": "Brass instrument",
+     "level": 1
+    },
+    {
+     "text": "Compact trumpet",
+     "level": 1
+    },
+    {
+     "text": "Brass bands",
+     "level": 2
+    },
+    {
+     "text": "Mellow tone",
+     "level": 2
+    },
+    {
+     "text": "Shorter body",
+     "level": 3
+    },
+    {
+     "text": "Three valves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Trumpet",
+    "Bugle",
+    "Flugelhorn"
+   ]
+  },
+  {
+   "word": "Flugelhorn",
+   "hints": [
+    {
+     "text": "Brass instrument",
+     "level": 1
+    },
+    {
+     "text": "Wide trumpet",
+     "level": 1
+    },
+    {
+     "text": "Jazz ballads",
+     "level": 2
+    },
+    {
+     "text": "Dark tone",
+     "level": 2
+    },
+    {
+     "text": "Conical bore",
+     "level": 3
+    },
+    {
+     "text": "Large bell",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Trumpet",
+    "Cornet",
+    "French horn"
+   ]
+  },
+  {
+   "word": "Zither",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Flat box",
+     "level": 1
+    },
+    {
+     "text": "Folk music",
+     "level": 2
+    },
+    {
+     "text": "Laid on lap",
+     "level": 2
+    },
+    {
+     "text": "Many strings",
+     "level": 3
+    },
+    {
+     "text": "Flat soundboard",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dulcimer",
+    "Harp",
+    "Lyre"
+   ]
+  },
+  {
+   "word": "Dulcimer",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Folk box",
+     "level": 1
+    },
+    {
+     "text": "Appalachian music",
+     "level": 2
+    },
+    {
+     "text": "Lap played",
+     "level": 2
+    },
+    {
+     "text": "Hourglass body",
+     "level": 3
+    },
+    {
+     "text": "Strummed or hammered",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Zither",
+    "Santoor",
+    "Lute"
+   ]
+  },
+  {
+   "word": "Koto",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Japanese zither",
+     "level": 1
+    },
+    {
+     "text": "Traditional japanese music",
+     "level": 2
+    },
+    {
+     "text": "Kneeling players",
+     "level": 2
+    },
+    {
+     "text": "Long wooden body",
+     "level": 3
+    },
+    {
+     "text": "Movable bridges",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shamisen",
+    "Guzheng",
+    "Harp"
+   ]
+  },
+  {
+   "word": "Shamisen",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Japanese lute",
+     "level": 1
+    },
+    {
+     "text": "Kabuki theater",
+     "level": 2
+    },
+    {
+     "text": "Three strings",
+     "level": 2
+    },
+    {
+     "text": "Square body",
+     "level": 3
+    },
+    {
+     "text": "Large plectrum",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Koto",
+    "Banjo",
+    "Lute"
+   ]
+  },
+  {
+   "word": "Erhu",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Chinese fiddle",
+     "level": 1
+    },
+    {
+     "text": "Mournful melodies",
+     "level": 2
+    },
+    {
+     "text": "Two strings",
+     "level": 2
+    },
+    {
+     "text": "Snake skin body",
+     "level": 3
+    },
+    {
+     "text": "Bow between strings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Violin",
+    "Pipa",
+    "Sarangi"
+   ]
+  },
+  {
+   "word": "Pipa",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Chinese lute",
+     "level": 1
+    },
+    {
+     "text": "Ancient chinese music",
+     "level": 2
+    },
+    {
+     "text": "Rapid plucking",
+     "level": 2
+    },
+    {
+     "text": "Pear shaped",
+     "level": 3
+    },
+    {
+     "text": "Many frets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lute",
+    "Erhu",
+    "Koto"
+   ]
+  },
+  {
+   "word": "Guzheng",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Chinese zither",
+     "level": 1
+    },
+    {
+     "text": "Flowing melodies",
+     "level": 2
+    },
+    {
+     "text": "Plucked with picks",
+     "level": 2
+    },
+    {
+     "text": "Long board",
+     "level": 3
+    },
+    {
+     "text": "Many strings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Koto",
+    "Zither",
+    "Harp"
+   ]
+  },
+  {
+   "word": "Taiko",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Japanese drum",
+     "level": 1
+    },
+    {
+     "text": "Thundering festivals",
+     "level": 2
+    },
+    {
+     "text": "Group drumming",
+     "level": 2
+    },
+    {
+     "text": "Huge barrel drum",
+     "level": 3
+    },
+    {
+     "text": "Thick sticks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dhol",
+    "Bass drum",
+    "Timpani"
+   ]
+  },
+  {
+   "word": "Sarangi",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Indian fiddle",
+     "level": 1
+    },
+    {
+     "text": "Accompanies singers",
+     "level": 2
+    },
+    {
+     "text": "Weeping sound",
+     "level": 2
+    },
+    {
+     "text": "Bowed strings",
+     "level": 3
+    },
+    {
+     "text": "Carved wood block",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Erhu",
+    "Violin",
+    "Sarod"
+   ]
+  },
+  {
+   "word": "Nadaswaram",
+   "hints": [
+    {
+     "text": "Wind instrument",
+     "level": 1
+    },
+    {
+     "text": "South indian horn",
+     "level": 1
+    },
+    {
+     "text": "Temple processions",
+     "level": 2
+    },
+    {
+     "text": "Weddings",
+     "level": 2
+    },
+    {
+     "text": "Long wooden pipe",
+     "level": 3
+    },
+    {
+     "text": "Loud reed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shehnai",
+    "Oboe",
+    "Clarinet"
+   ]
+  },
+  {
+   "word": "Ghatam",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Clay pot",
+     "level": 1
+    },
+    {
+     "text": "Carnatic concerts",
+     "level": 2
+    },
+    {
+     "text": "Played on lap",
+     "level": 2
+    },
+    {
+     "text": "Earthenware pot",
+     "level": 3
+    },
+    {
+     "text": "Finger taps",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mridangam",
+    "Tabla",
+    "Udu"
+   ]
+  },
+  {
+   "word": "Dholak",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Folk drum",
+     "level": 1
+    },
+    {
+     "text": "Wedding songs",
+     "level": 2
+    },
+    {
+     "text": "Indian folk",
+     "level": 2
+    },
+    {
+     "text": "Two sided barrel",
+     "level": 3
+    },
+    {
+     "text": "Rope tuned",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mridangam",
+    "Tabla",
+    "Bongos"
+   ]
+  },
+  {
+   "word": "Damru",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Hourglass drum",
+     "level": 1
+    },
+    {
+     "text": "Shiva holds it",
+     "level": 2
+    },
+    {
+     "text": "Street monkey shows",
+     "level": 2
+    },
+    {
+     "text": "Tiny hourglass",
+     "level": 3
+    },
+    {
+     "text": "Bead strikers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dhol",
+    "Tabla",
+    "Tambourine"
+   ]
+  },
+  {
+   "word": "Ektara",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "One string",
+     "level": 1
+    },
+    {
+     "text": "Folk singers",
+     "level": 2
+    },
+    {
+     "text": "Baul music",
+     "level": 2
+    },
+    {
+     "text": "Single string",
+     "level": 3
+    },
+    {
+     "text": "Bamboo neck",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sitar",
+    "Tanpura",
+    "Banjo"
+   ]
+  },
+  {
+   "word": "Morsing",
+   "hints": [
+    {
+     "text": "Mouth instrument",
+     "level": 1
+    },
+    {
+     "text": "Indian jaw harp",
+     "level": 1
+    },
+    {
+     "text": "Carnatic percussion",
+     "level": 2
+    },
+    {
+     "text": "Twangy",
+     "level": 2
+    },
+    {
+     "text": "Metal frame",
+     "level": 3
+    },
+    {
+     "text": "Held in teeth",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jaw harp",
+    "Harmonica",
+    "Kazoo"
+   ]
+  },
+  {
+   "word": "Practice chanter",
+   "hints": [
+    {
+     "text": "Learner reed",
+     "level": 1
+    },
+    {
+     "text": "Melody tube",
+     "level": 1
+    },
+    {
+     "text": "Highland beginners",
+     "level": 2
+    },
+    {
+     "text": "Fingered tune",
+     "level": 2
+    },
+    {
+     "text": "Reed tube",
+     "level": 3
+    },
+    {
+     "text": "Finger holes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Recorder",
+    "Whistle",
+    "Flute"
+   ]
+  },
+  {
+   "word": "Tin whistle",
+   "hints": [
+    {
+     "text": "Wind instrument",
+     "level": 1
+    },
+    {
+     "text": "Cheap pipe",
+     "level": 1
+    },
+    {
+     "text": "Irish folk",
+     "level": 2
+    },
+    {
+     "text": "Cheap and cheerful",
+     "level": 2
+    },
+    {
+     "text": "Metal tube",
+     "level": 3
+    },
+    {
+     "text": "Six holes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Recorder",
+    "Flute",
+    "Piccolo"
+   ]
+  },
+  {
+   "word": "Melodica",
+   "hints": [
+    {
+     "text": "Keyboard instrument",
+     "level": 1
+    },
+    {
+     "text": "Blow organ",
+     "level": 1
+    },
+    {
+     "text": "School music class",
+     "level": 2
+    },
+    {
+     "text": "Reggae",
+     "level": 2
+    },
+    {
+     "text": "Mouthpiece tube",
+     "level": 3
+    },
+    {
+     "text": "Small keys",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Harmonica",
+    "Accordion",
+    "Keyboard"
+   ]
+  },
+  {
+   "word": "Concertina",
+   "hints": [
+    {
+     "text": "Squeezebox",
+     "level": 1
+    },
+    {
+     "text": "Small accordion",
+     "level": 1
+    },
+    {
+     "text": "Sea shanties",
+     "level": 2
+    },
+    {
+     "text": "Irish music",
+     "level": 2
+    },
+    {
+     "text": "Hexagonal ends",
+     "level": 3
+    },
+    {
+     "text": "Buttons",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Accordion",
+    "Harmonium",
+    "Bandoneon"
+   ]
+  },
+  {
+   "word": "Bandoneon",
+   "hints": [
+    {
+     "text": "Squeezebox",
+     "level": 1
+    },
+    {
+     "text": "Tango instrument",
+     "level": 1
+    },
+    {
+     "text": "Argentine tango",
+     "level": 2
+    },
+    {
+     "text": "Buenos aires",
+     "level": 2
+    },
+    {
+     "text": "Square bellows",
+     "level": 3
+    },
+    {
+     "text": "Many buttons",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Accordion",
+    "Concertina",
+    "Harmonium"
+   ]
+  },
+  {
+   "word": "Banjolele",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Hybrid uke",
+     "level": 1
+    },
+    {
+     "text": "Music hall songs",
+     "level": 2
+    },
+    {
+     "text": "Plinky",
+     "level": 2
+    },
+    {
+     "text": "Drum body",
+     "level": 3
+    },
+    {
+     "text": "Four strings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ukulele",
+    "Mandolin",
+    "Lute"
+   ]
+  },
+  {
+   "word": "Lap steel",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Slide guitar",
+     "level": 1
+    },
+    {
+     "text": "Hawaiian sound",
+     "level": 2
+    },
+    {
+     "text": "Country weeping",
+     "level": 2
+    },
+    {
+     "text": "Laid flat",
+     "level": 3
+    },
+    {
+     "text": "Metal bar slide",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dobro",
+    "Banjo",
+    "Pedal steel"
+   ]
+  },
+  {
+   "word": "Cajon",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Box drum",
+     "level": 1
+    },
+    {
+     "text": "Unplugged sessions",
+     "level": 2
+    },
+    {
+     "text": "Flamenco",
+     "level": 2
+    },
+    {
+     "text": "Wooden box",
+     "level": 3
+    },
+    {
+     "text": "Sit on it",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bongos",
+    "Djembe",
+    "Snare drum"
+   ]
+  },
+  {
+   "word": "Rainstick",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Shaker tube",
+     "level": 1
+    },
+    {
+     "text": "Relaxing sound",
+     "level": 2
+    },
+    {
+     "text": "Shower imitation",
+     "level": 2
+    },
+    {
+     "text": "Cactus tube",
+     "level": 3
+    },
+    {
+     "text": "Pebbles inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Maracas",
+    "Ocean drum",
+    "Shaker"
+   ]
+  },
+  {
+   "word": "Woodblock",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Wooden clapper",
+     "level": 1
+    },
+    {
+     "text": "Clip clop effects",
+     "level": 2
+    },
+    {
+     "text": "Orchestra",
+     "level": 2
+    },
+    {
+     "text": "Hollow chamber",
+     "level": 3
+    },
+    {
+     "text": "Struck with stick",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cowbell",
+    "Claves",
+    "Castanets"
+   ]
+  },
+  {
+   "word": "Claves",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Rhythm sticks",
+     "level": 1
+    },
+    {
+     "text": "Salsa rhythms",
+     "level": 2
+    },
+    {
+     "text": "Latin pattern",
+     "level": 2
+    },
+    {
+     "text": "Two wooden dowels",
+     "level": 3
+    },
+    {
+     "text": "Sharp click",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Woodblock",
+    "Castanets",
+    "Spoons"
+   ]
+  },
+  {
+   "word": "Shaker",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Rattle",
+     "level": 1
+    },
+    {
+     "text": "Acoustic gigs",
+     "level": 2
+    },
+    {
+     "text": "Egg shaped",
+     "level": 2
+    },
+    {
+     "text": "Filled with beads",
+     "level": 3
+    },
+    {
+     "text": "Shaken rhythm",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Maracas",
+    "Tambourine",
+    "Rainstick"
+   ]
+  },
+  {
+   "word": "Guiro",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Scraper",
+     "level": 1
+    },
+    {
+     "text": "Latin music",
+     "level": 2
+    },
+    {
+     "text": "Raspy sound",
+     "level": 2
+    },
+    {
+     "text": "Ridged gourd",
+     "level": 3
+    },
+    {
+     "text": "Scraped with stick",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Washboard",
+    "Maracas",
+    "Claves"
+   ]
+  },
+  {
+   "word": "Vuvuzela",
+   "hints": [
+    {
+     "text": "Horn",
+     "level": 1
+    },
+    {
+     "text": "Stadium trumpet",
+     "level": 1
+    },
+    {
+     "text": "World cup buzz",
+     "level": 2
+    },
+    {
+     "text": "Very loud",
+     "level": 2
+    },
+    {
+     "text": "Long plastic horn",
+     "level": 3
+    },
+    {
+     "text": "Monotone blare",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bugle",
+    "Kazoo",
+    "Whistle"
+   ]
+  },
+  {
+   "word": "Conch shell",
+   "hints": [
+    {
+     "text": "Wind instrument",
+     "level": 1
+    },
+    {
+     "text": "Ocean horn",
+     "level": 1
+    },
+    {
+     "text": "Temple rituals",
+     "level": 2
+    },
+    {
+     "text": "Ancient signal",
+     "level": 2
+    },
+    {
+     "text": "Spiral sea spiral",
+     "level": 3
+    },
+    {
+     "text": "Deep blast",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bugle",
+    "Horn",
+    "Didgeridoo"
+   ]
+  },
+  {
+   "word": "Whistle",
+   "hints": [
+    {
+     "text": "Wind instrument",
+     "level": 1
+    },
+    {
+     "text": "Signal pipe",
+     "level": 1
+    },
+    {
+     "text": "Referees blow it",
+     "level": 2
+    },
+    {
+     "text": "Shrill sound",
+     "level": 2
+    },
+    {
+     "text": "Tiny metal",
+     "level": 3
+    },
+    {
+     "text": "Pea inside",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kazoo",
+    "Recorder",
+    "Horn"
+   ]
+  },
+  {
+   "word": "Music box",
+   "hints": [
+    {
+     "text": "Mechanical instrument",
+     "level": 1
+    },
+    {
+     "text": "Wind up toy",
+     "level": 1
+    },
+    {
+     "text": "Ballerina spins",
+     "level": 2
+    },
+    {
+     "text": "Lullabies",
+     "level": 2
+    },
+    {
+     "text": "Turning cylinder",
+     "level": 3
+    },
+    {
+     "text": "Metal comb",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jukebox",
+    "Chimes",
+    "Gramophone"
+   ]
+  },
+  {
+   "word": "Hurdy gurdy",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Crank instrument",
+     "level": 1
+    },
+    {
+     "text": "Medieval fairs",
+     "level": 2
+    },
+    {
+     "text": "Buzzing drone",
+     "level": 2
+    },
+    {
+     "text": "Turning wheel",
+     "level": 3
+    },
+    {
+     "text": "Keyed strings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bagpipes",
+    "Violin",
+    "Accordion"
+   ]
+  },
+  {
+   "word": "Celesta",
+   "hints": [
+    {
+     "text": "Keyboard instrument",
+     "level": 1
+    },
+    {
+     "text": "Bell piano",
+     "level": 1
+    },
+    {
+     "text": "Sugar plum fairy",
+     "level": 2
+    },
+    {
+     "text": "Twinkly",
+     "level": 2
+    },
+    {
+     "text": "Hammers hit metal plates",
+     "level": 3
+    },
+    {
+     "text": "Small keys",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Glockenspiel",
+    "Piano",
+    "Harpsichord"
+   ]
+  },
+  {
+   "word": "Clavichord",
+   "hints": [
+    {
+     "text": "Keyboard instrument",
+     "level": 1
+    },
+    {
+     "text": "Early keyboard",
+     "level": 1
+    },
+    {
+     "text": "Baroque practice",
+     "level": 2
+    },
+    {
+     "text": "Very quiet",
+     "level": 2
+    },
+    {
+     "text": "Struck strings",
+     "level": 3
+    },
+    {
+     "text": "Small box",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Harpsichord",
+    "Piano",
+    "Organ"
+   ]
+  },
+  {
+   "word": "Pipe organ",
+   "hints": [
+    {
+     "text": "Keyboard instrument",
+     "level": 1
+    },
+    {
+     "text": "Cathedral giant",
+     "level": 1
+    },
+    {
+     "text": "Weddings and funerals",
+     "level": 2
+    },
+    {
+     "text": "Thunderous",
+     "level": 2
+    },
+    {
+     "text": "Hundreds of tubes",
+     "level": 3
+    },
+    {
+     "text": "Stops and pedals",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Harmonium",
+    "Piano",
+    "Harpsichord"
+   ]
+  },
+  {
+   "word": "Turntable",
+   "hints": [
+    {
+     "text": "Dj equipment",
+     "level": 1
+    },
+    {
+     "text": "Record player",
+     "level": 1
+    },
+    {
+     "text": "Scratching sounds",
+     "level": 2
+    },
+    {
+     "text": "Hip hop roots",
+     "level": 2
+    },
+    {
+     "text": "Spinning platter",
+     "level": 3
+    },
+    {
+     "text": "Needle arm",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Synthesizer",
+    "Drum machine",
+    "Mixer"
+   ]
+  },
+  {
+   "word": "Drum machine",
+   "hints": [
+    {
+     "text": "Electronic instrument",
+     "level": 1
+    },
+    {
+     "text": "Beat maker",
+     "level": 1
+    },
+    {
+     "text": "Hip hop beats",
+     "level": 2
+    },
+    {
+     "text": "Dance music",
+     "level": 2
+    },
+    {
+     "text": "Pads and buttons",
+     "level": 3
+    },
+    {
+     "text": "Programmed rhythm",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Synthesizer",
+    "Sampler",
+    "Turntable"
+   ]
+  },
+  {
+   "word": "Electric violin",
+   "hints": [
+    {
+     "text": "Amplified instrument",
+     "level": 1
+    },
+    {
+     "text": "Modern fiddle",
+     "level": 1
+    },
+    {
+     "text": "Crossover music",
+     "level": 2
+    },
+    {
+     "text": "Neon designs",
+     "level": 2
+    },
+    {
+     "text": "Skeletal body",
+     "level": 3
+    },
+    {
+     "text": "Plugged in",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cello",
+    "Viola",
+    "Electric guitar"
+   ]
+  },
+  {
+   "word": "Acoustic bass",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Hollow low end",
+     "level": 1
+    },
+    {
+     "text": "Unplugged gigs",
+     "level": 2
+    },
+    {
+     "text": "Folk bands",
+     "level": 2
+    },
+    {
+     "text": "Big hollow body",
+     "level": 3
+    },
+    {
+     "text": "Four strings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Double bass",
+    "Bass guitar",
+    "Cello"
+   ]
+  },
+  {
+   "word": "Twelve string",
+   "hints": [
+    {
+     "text": "Fretted instrument",
+     "level": 1
+    },
+    {
+     "text": "Jangly guitar",
+     "level": 1
+    },
+    {
+     "text": "Folk rock shimmer",
+     "level": 2
+    },
+    {
+     "text": "Rich chime",
+     "level": 2
+    },
+    {
+     "text": "Doubled courses",
+     "level": 3
+    },
+    {
+     "text": "Wide neck",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mandolin",
+    "Banjo",
+    "Ukulele"
+   ]
+  },
+  {
+   "word": "Tenor sax",
+   "hints": [
+    {
+     "text": "Woodwind instrument",
+     "level": 1
+    },
+    {
+     "text": "Jazz horn",
+     "level": 1
+    },
+    {
+     "text": "Smoky solos",
+     "level": 2
+    },
+    {
+     "text": "Rock and roll",
+     "level": 2
+    },
+    {
+     "text": "Curved neck",
+     "level": 3
+    },
+    {
+     "text": "Big brass body",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Alto sax",
+    "Clarinet",
+    "Trumpet"
+   ]
+  },
+  {
+   "word": "Alto sax",
+   "hints": [
+    {
+     "text": "Woodwind instrument",
+     "level": 1
+    },
+    {
+     "text": "Jazz horn",
+     "level": 1
+    },
+    {
+     "text": "School bands",
+     "level": 2
+    },
+    {
+     "text": "Bright solos",
+     "level": 2
+    },
+    {
+     "text": "Smaller brass body",
+     "level": 3
+    },
+    {
+     "text": "Single reed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tenor sax",
+    "Clarinet",
+    "Oboe"
+   ]
+  },
+  {
+   "word": "Steel guitar",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Country sound",
+     "level": 1
+    },
+    {
+     "text": "Weeping notes",
+     "level": 2
+    },
+    {
+     "text": "Nashville",
+     "level": 2
+    },
+    {
+     "text": "Pedals and knees",
+     "level": 3
+    },
+    {
+     "text": "Slide bar",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Banjo",
+    "Dobro",
+    "Fiddle"
+   ]
+  },
+  {
+   "word": "Dobro",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Resonator guitar",
+     "level": 1
+    },
+    {
+     "text": "Bluegrass slides",
+     "level": 2
+    },
+    {
+     "text": "Metallic tone",
+     "level": 2
+    },
+    {
+     "text": "Metal cone",
+     "level": 3
+    },
+    {
+     "text": "Played flat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Banjo",
+    "Steel guitar",
+    "Mandolin"
+   ]
+  },
+  {
+   "word": "Balalaika",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Russian lute",
+     "level": 1
+    },
+    {
+     "text": "Folk dances",
+     "level": 2
+    },
+    {
+     "text": "Triangular body",
+     "level": 2
+    },
+    {
+     "text": "Three strings",
+     "level": 3
+    },
+    {
+     "text": "Triangle shape",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mandolin",
+    "Banjo",
+    "Domra"
+   ]
+  },
+  {
+   "word": "Bouzouki",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Greek lute",
+     "level": 1
+    },
+    {
+     "text": "Taverna music",
+     "level": 2
+    },
+    {
+     "text": "Zorba dance",
+     "level": 2
+    },
+    {
+     "text": "Long neck",
+     "level": 3
+    },
+    {
+     "text": "Round back",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mandolin",
+    "Lute",
+    "Banjo"
+   ]
+  },
+  {
+   "word": "Oud",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Arabic lute",
+     "level": 1
+    },
+    {
+     "text": "Middle eastern music",
+     "level": 2
+    },
+    {
+     "text": "Fretless",
+     "level": 2
+    },
+    {
+     "text": "Bowl back",
+     "level": 3
+    },
+    {
+     "text": "Short neck",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lute",
+    "Bouzouki",
+    "Sitar"
+   ]
+  },
+  {
+   "word": "Kalimba",
+   "hints": [
+    {
+     "text": "Thumb piano",
+     "level": 1
+    },
+    {
+     "text": "African instrument",
+     "level": 1
+    },
+    {
+     "text": "Soothing plinks",
+     "level": 2
+    },
+    {
+     "text": "Pocket music",
+     "level": 2
+    },
+    {
+     "text": "Metal tines",
+     "level": 3
+    },
+    {
+     "text": "Wooden board",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Music box",
+    "Xylophone",
+    "Glockenspiel"
+   ]
+  },
+  {
+   "word": "Hang drum",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Handpan",
+     "level": 1
+    },
+    {
+     "text": "Meditative tones",
+     "level": 2
+    },
+    {
+     "text": "Street buskers",
+     "level": 2
+    },
+    {
+     "text": "Flying saucer shape",
+     "level": 3
+    },
+    {
+     "text": "Dimpled steel",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Steel drum",
+    "Gong",
+    "Bongos"
+   ]
+  },
+  {
+   "word": "Tongue drum",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Steel percussion",
+     "level": 1
+    },
+    {
+     "text": "Relaxing tones",
+     "level": 2
+    },
+    {
+     "text": "Kids play easily",
+     "level": 2
+    },
+    {
+     "text": "Cut steel tabs",
+     "level": 3
+    },
+    {
+     "text": "Round body",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hang drum",
+    "Kalimba",
+    "Xylophone"
+   ]
+  },
+  {
+   "word": "Gamelan",
+   "hints": [
+    {
+     "text": "Percussion ensemble",
+     "level": 1
+    },
+    {
+     "text": "Indonesian orchestra",
+     "level": 1
+    },
+    {
+     "text": "Bali ceremonies",
+     "level": 2
+    },
+    {
+     "text": "Shimmering tones",
+     "level": 2
+    },
+    {
+     "text": "Bronze gongs",
+     "level": 3
+    },
+    {
+     "text": "Metal keys",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Orchestra",
+    "Steel band",
+    "Marimba"
+   ]
+  },
+  {
+   "word": "Bodhran",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Irish frame drum",
+     "level": 1
+    },
+    {
+     "text": "Celtic music",
+     "level": 2
+    },
+    {
+     "text": "Pub sessions",
+     "level": 2
+    },
+    {
+     "text": "Goatskin frame",
+     "level": 3
+    },
+    {
+     "text": "Double ended stick",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tambourine",
+    "Snare drum",
+    "Djembe"
+   ]
+  },
+  {
+   "word": "Timbales",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Latin drums",
+     "level": 1
+    },
+    {
+     "text": "Salsa music",
+     "level": 2
+    },
+    {
+     "text": "Shallow shells",
+     "level": 2
+    },
+    {
+     "text": "Metal drums on stand",
+     "level": 3
+    },
+    {
+     "text": "Cowbell attached",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bongos",
+    "Congas",
+    "Snare drum"
+   ]
+  },
+  {
+   "word": "Tom drum",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Kit piece",
+     "level": 1
+    },
+    {
+     "text": "Rolling fills",
+     "level": 2
+    },
+    {
+     "text": "Rock kits",
+     "level": 2
+    },
+    {
+     "text": "Mounted cylinders",
+     "level": 3
+    },
+    {
+     "text": "Tuned pitches",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Snare drum",
+    "Bass drum",
+    "Bongos"
+   ]
+  },
+  {
+   "word": "Hi hat",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Pedal cymbals",
+     "level": 1
+    },
+    {
+     "text": "Disco beats",
+     "level": 2
+    },
+    {
+     "text": "Tight ticks",
+     "level": 2
+    },
+    {
+     "text": "Paired cymbals",
+     "level": 3
+    },
+    {
+     "text": "Foot pedal",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ride cymbal",
+    "Snare drum",
+    "Cowbell"
+   ]
+  },
+  {
+   "word": "Ride cymbal",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Large bronze",
+     "level": 1
+    },
+    {
+     "text": "Jazz patterns",
+     "level": 2
+    },
+    {
+     "text": "Steady pinging",
+     "level": 2
+    },
+    {
+     "text": "Big bronze disc",
+     "level": 3
+    },
+    {
+     "text": "Bell center",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Crash cymbal",
+    "Gong",
+    "Hi hat"
+   ]
+  },
+  {
+   "word": "Glass harp",
+   "hints": [
+    {
+     "text": "Musical goblets",
+     "level": 1
+    },
+    {
+     "text": "Friction instrument",
+     "level": 1
+    },
+    {
+     "text": "Wet finger rims",
+     "level": 2
+    },
+    {
+     "text": "Eerie tones",
+     "level": 2
+    },
+    {
+     "text": "Stemmed goblets",
+     "level": 3
+    },
+    {
+     "text": "Water levels",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Glockenspiel",
+    "Chimes",
+    "Celesta"
+   ]
+  },
+  {
+   "word": "Singing bowl",
+   "hints": [
+    {
+     "text": "Meditation instrument",
+     "level": 1
+    },
+    {
+     "text": "Tibetan instrument",
+     "level": 1
+    },
+    {
+     "text": "Yoga classes",
+     "level": 2
+    },
+    {
+     "text": "Healing sound",
+     "level": 2
+    },
+    {
+     "text": "Metal vessel",
+     "level": 3
+    },
+    {
+     "text": "Rubbed wooden stick",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gong",
+    "Bell",
+    "Chimes"
+   ]
+  },
+  {
+   "word": "Musical saw",
+   "hints": [
+    {
+     "text": "Odd instrument",
+     "level": 1
+    },
+    {
+     "text": "Bowed blade",
+     "level": 1
+    },
+    {
+     "text": "Spooky wail",
+     "level": 2
+    },
+    {
+     "text": "Folk oddity",
+     "level": 2
+    },
+    {
+     "text": "Bent handsaw",
+     "level": 3
+    },
+    {
+     "text": "Bow on edge",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Theremin",
+    "Violin",
+    "Glass harp"
+   ]
+  },
+  {
+   "word": "Steel pan",
+   "hints": [
+    {
+     "text": "Percussion instrument",
+     "level": 1
+    },
+    {
+     "text": "Trinidad drum",
+     "level": 1
+    },
+    {
+     "text": "Carnival bands",
+     "level": 2
+    },
+    {
+     "text": "Bright plinks",
+     "level": 2
+    },
+    {
+     "text": "Hammered oil barrel",
+     "level": 3
+    },
+    {
+     "text": "Note bumps",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hang drum",
+    "Marimba",
+    "Gong"
+   ]
+  },
+  {
+   "word": "Lyre harp",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "Compact strummer",
+     "level": 1
+    },
+    {
+     "text": "Folk tunes",
+     "level": 2
+    },
+    {
+     "text": "Easy to learn",
+     "level": 2
+    },
+    {
+     "text": "Few strings",
+     "level": 3
+    },
+    {
+     "text": "Wooden frame",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Zither",
+    "Dulcimer",
+    "Lute"
+   ]
+  },
+  {
+   "word": "Recorder flute",
+   "hints": [
+    {
+     "text": "Woodwind instrument",
+     "level": 1
+    },
+    {
+     "text": "School pipe",
+     "level": 1
+    },
+    {
+     "text": "Music class",
+     "level": 2
+    },
+    {
+     "text": "Squeaky notes",
+     "level": 2
+    },
+    {
+     "text": "Plastic tube",
+     "level": 3
+    },
+    {
+     "text": "Thumb hole",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tin whistle",
+    "Ocarina",
+    "Piccolo"
+   ]
+  },
+  {
+   "word": "Baritone",
+   "hints": [
+    {
+     "text": "Brass instrument",
+     "level": 1
+    },
+    {
+     "text": "Small euphonium",
+     "level": 1
+    },
+    {
+     "text": "Brass bands",
+     "level": 2
+    },
+    {
+     "text": "Mellow middle",
+     "level": 2
+    },
+    {
+     "text": "Upright bell",
+     "level": 3
+    },
+    {
+     "text": "Three valves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Euphonium",
+    "Tuba",
+    "Trombone"
+   ]
+  },
+  {
+   "word": "Contrabassoon",
+   "hints": [
+    {
+     "text": "Woodwind instrument",
+     "level": 1
+    },
+    {
+     "text": "Lowest reed",
+     "level": 1
+    },
+    {
+     "text": "Rumbling low notes",
+     "level": 2
+    },
+    {
+     "text": "Rare in bands",
+     "level": 2
+    },
+    {
+     "text": "Doubled back tube",
+     "level": 3
+    },
+    {
+     "text": "Huge length",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Clarinet",
+    "Tuba",
+    "Oboe"
+   ]
+  },
+  {
+   "word": "Bass clarinet",
+   "hints": [
+    {
+     "text": "Woodwind instrument",
+     "level": 1
+    },
+    {
+     "text": "Low reed",
+     "level": 1
+    },
+    {
+     "text": "Film scores",
+     "level": 2
+    },
+    {
+     "text": "Jazz textures",
+     "level": 2
+    },
+    {
+     "text": "Curved neck",
+     "level": 3
+    },
+    {
+     "text": "Upturned bell",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bassoon",
+    "Saxophone",
+    "Oboe"
+   ]
+  },
+  {
+   "word": "English horn",
+   "hints": [
+    {
+     "text": "Woodwind instrument",
+     "level": 1
+    },
+    {
+     "text": "Alto oboe",
+     "level": 1
+    },
+    {
+     "text": "Pastoral solos",
+     "level": 2
+    },
+    {
+     "text": "Melancholy tone",
+     "level": 2
+    },
+    {
+     "text": "Pear shaped bell",
+     "level": 3
+    },
+    {
+     "text": "Bent crook",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Oboe",
+    "Bassoon",
+    "Clarinet"
+   ]
+  },
+  {
+   "word": "Mbira",
+   "hints": [
+    {
+     "text": "Thumb piano",
+     "level": 1
+    },
+    {
+     "text": "Zimbabwean instrument",
+     "level": 1
+    },
+    {
+     "text": "Spiritual ceremonies",
+     "level": 2
+    },
+    {
+     "text": "Buzzing tone",
+     "level": 2
+    },
+    {
+     "text": "Metal keys",
+     "level": 3
+    },
+    {
+     "text": "Gourd resonator",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kalimba",
+    "Marimba",
+    "Xylophone"
+   ]
+  },
+  {
+   "word": "Kora",
+   "hints": [
+    {
+     "text": "String instrument",
+     "level": 1
+    },
+    {
+     "text": "West african harp",
+     "level": 1
+    },
+    {
+     "text": "Griot storytellers",
+     "level": 2
+    },
+    {
+     "text": "Flowing melodies",
+     "level": 2
+    },
+    {
+     "text": "Calabash body",
+     "level": 3
+    },
+    {
+     "text": "Many strings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Harp",
+    "Lute",
+    "Ngoni"
+   ]
+  },
+  {
+   "word": "Shofar",
+   "hints": [
+    {
+     "text": "Wind instrument",
+     "level": 1
+    },
+    {
+     "text": "Ram horn",
+     "level": 1
+    },
+    {
+     "text": "High holy days",
+     "level": 2
+    },
+    {
+     "text": "Ancient call",
+     "level": 2
+    },
+    {
+     "text": "Curved animal horn",
+     "level": 3
+    },
+    {
+     "text": "Raw blast",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bugle",
+    "Conch shell",
+    "Alphorn"
+   ]
+  },
+  {
+   "word": "Bugle call",
+   "hints": [
+    {
+     "text": "Military signal",
+     "level": 1
+    },
+    {
+     "text": "Brass tune",
+     "level": 1
+    },
+    {
+     "text": "Morning reveille",
+     "level": 2
+    },
+    {
+     "text": "Lights out",
+     "level": 2
+    },
+    {
+     "text": "Short notes",
+     "level": 3
+    },
+    {
+     "text": "No valves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fanfare",
+    "Whistle",
+    "Drumroll"
+   ]
+  },
+  {
+   "word": "Rattle",
+   "hints": [
+    {
+     "text": "Percussion toy",
+     "level": 1
+    },
+    {
+     "text": "Shaker",
+     "level": 1
+    },
+    {
+     "text": "Baby toy",
+     "level": 2
+    },
+    {
+     "text": "Ritual dances",
+     "level": 2
+    },
+    {
+     "text": "Beads inside",
+     "level": 3
+    },
+    {
+     "text": "Handle grip",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Maracas",
+    "Shaker",
+    "Tambourine"
+   ]
+  }
+ ]
+}

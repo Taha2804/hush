@@ -1,0 +1,17 @@
+@id clothing
+@name Clothing
+Slip | Inner garment; Under dress layer | Prevents see through; Vintage lingerie | Silky fabric; Thin straps | Nightgown; Camisole; Petticoat
+Camisole | Light top; Inner layer | Under blazers; Summer layering | Spaghetti straps; Silky fabric | Tank top; Slip; Crop top
+Petticoat | Under skirt; Vintage layer | Adds volume; Victorian fashion | Frilly layers; Worn beneath | Slip; Tutu; Skirt
+Mitts | Hand wear; Fingerless gloves | Gamers and cyclists; Winter typing | Open fingertips; Knitted wool | Gloves; Mittens; Wristbands
+Anklet | Jewelry; Foot accessory | Beach style; Jingling bells | Chain above foot; Delicate loop | Bracelet; Necklace; Toe ring
+Choker | Jewelry; Tight necklace | Nineties trend; Gothic style | Snug band; Velvet or lace | Necklace; Collar; Scarf
+Pendant | Jewelry; Hanging charm | Locket photos; Gift idea | Dangling stone; On a chain | Brooch; Earring; Medal
+Locket | Jewelry; Keepsake | Holds a photo; Opens on hinge | Heart shaped; Tiny clasp | Pendant; Brooch; Charm
+Nose ring | Jewelry; Facial piercing | Bridal adornment; Trendy look | Small hoop; Stud on side | Earrings; Bindi; Anklet
+Toe ring | Jewelry; Foot accessory | Married women tradition; Beach wear | Silver band; Worn barefoot | Anklet; Bangle; Bracelet
+Cravat | Neckwear; Dapper accessory | Victorian gentlemen; Silk knot | Folded silk; Tucked into shirt | Tie; Scarf; Bow tie
+Wristband | Sport accessory; Festival accessory | Festival entry; Charity colors | Rubber or fabric; Snug loop | Bracelet; Watch; Headband
+Boilersuit | Work wear; One piece | Mechanics and factory; Utilitarian | Zip front; Long sleeves | Jumpsuit; Overalls; Tracksuit
+Knee pads | Protective gear; Sports gear | Skating and volleyball; Gardening | Padded caps; Strapped on | Elbow pads; Shin guards; Helmet
+Shin guards | Protective gear; Football gear | Under socks; Tackle protection | Hard plastic; Front of leg | Knee pads; Socks; Boots

@@ -1,0 +1,15 @@
+@id countries
+@name Countries
+Niger | West african nation; Landlocked country | Mostly desert; Giraffe reserves | Tuareg nomads; Orange disc flag | Mali; Chad; Burkina faso
+Angola | Southern african nation; Coastal country | Oil producer; Portuguese speaking | Huge waterfalls; Kizomba dance | Namibia; Zambia; Mozambique
+Mozambique | Southeast african nation; Coastal country | Long coastline; Portuguese speaking | Rifle on flag; Island archipelagos | Tanzania; Madagascar; Malawi
+Malawi | Southeast african nation; Warm heart | Huge lake; Very friendly | Colorful cichlid fish; Rising sun flag | Zambia; Mozambique; Tanzania
+Ivory coast | West african nation; Cocoa giant | Football stars; Cocoa exporter | Huge basilica; Orange white green | Ghana; Liberia; Senegal
+Eritrea | East african nation; Red sea country | Art deco capital; Coffee ceremonies | Italian heritage; Red sea coast | Ethiopia; Djibouti; Sudan
+Liberia | West african nation; Founded by freed people | Lone star flag; Rubber plantations | Atlantic beaches; Rainforests | Sierra leone; Ghana; Guinea
+Sierra leone | West african nation; Coastal country | Diamond mines; Freetown capital | Lion mountains; Sandy beaches | Liberia; Guinea; Gambia
+Gambia | West african nation; Smallest mainland | Follows a river; Bird watching | Thin river shape; Smiling coast | Senegal; Guinea; Sierra leone
+Gabon | Central african nation; Rainforest country | Surfing hippos; National parks | Dense forests; Lowland gorillas | Cameroon; Congo; Angola
+Nicaragua | Central american nation; Lakes and volcanoes | Colonial towns; Volcano boarding | Huge freshwater lake; Ash slopes | Honduras; Costa rica; Panama
+El salvador | Central american nation; Smallest isthmus country | Surfing beaches; Pupusas | Volcano chain; Coffee farms | Honduras; Guatemala; Nicaragua
+Belize | Central american nation; Caribbean coast | Barrier reef; English speaking | Blue hole dive; Mayan ruins | Guatemala; Honduras; Jamaica

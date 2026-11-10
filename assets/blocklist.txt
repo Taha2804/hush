@@ -1,0 +1,98 @@
+# Family-friendly blocklist. Applied to words, hints, fake words and custom
+# topics from every source. One term per line; multi-word phrases allowed.
+# Profanity
+fuck
+fucking
+shit
+bitch
+bastard
+asshole
+damn
+crap
+piss
+dick
+cock
+pussy
+slut
+whore
+wanker
+bollocks
+twat
+cunt
+# Adult / sexual
+sex
+sexy
+sexual
+porn
+porno
+pornography
+nude
+nudity
+naked
+erotic
+fetish
+orgasm
+prostitute
+prostitution
+brothel
+stripper
+condom
+viagra
+playboy
+hooker
+escort service
+# Drugs, alcohol, tobacco
+cocaine
+heroin
+meth
+methamphetamine
+marijuana
+cannabis
+ecstasy
+lsd
+opium
+narcotic
+overdose
+cigarette
+tobacco
+vape
+beer
+wine
+vodka
+whisky
+whiskey
+tequila
+rum
+gin
+brandy
+liquor
+alcohol
+alcoholic
+drunk
+hangover
+cocktail bar
+# Violence / harm
+murder
+murderer
+suicide
+rape
+rapist
+terrorist
+terrorism
+massacre
+genocide
+torture
+execution
+abuse
+molest
+gore
+bloodbath
+behead
+slaughter
+# Hate
+nazi
+hitler
+racist
+racism
+slur
+kkk

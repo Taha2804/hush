@@ -1,0 +1,18 @@
+@id drinks
+@name Drinks
+Sweet tea | Southern drink; Cold drink | Porch favorite; Served by the jug | Sugary brew; Lots of ice | Lemonade; Iced coffee; Punch
+Agua fresca | Mexican drink; Fruity cooler | Sold at markets; Big glass jars | Blended fruit and water; Light and sweet | Horchata; Lemonade; Smoothie
+Sikhye | Korean drink; Rice drink | Served after meals; Spa favorite | Floating grains; Malt sweetened | Horchata; Barley tea; Kheer
+Barley tea | Korean drink; Roasted brew | Served instead of water; Hot or cold | Nutty grain taste; Golden brown | Corn tea; Green tea; Coffee
+Corn tea | Korean drink; Roasted brew | Caffeine free; Nutty and sweet | Roasted kernels; Golden color | Barley tea; Green tea; Rooibos
+Yuzu tea | Korean drink; Citrus brew | Winter cold remedy; Made from marmalade | Sweet citrus peel; Spooned from jars | Lemon tea; Ginger tea; Honey water
+Lemongrass tea | Herbal drink; Fragrant brew | Thai kitchen herb; Calming drink | Grassy stalks; Citrusy aroma | Ginger tea; Peppermint; Chamomile
+Ginseng tea | Herbal drink; Korean remedy | Boosts energy; Pricey root | Earthy bitter taste; Gnarled root | Ginger tea; Green tea; Chamomile
+Genmaicha | Japanese brew; Green blend | Popcorn tea nickname; Nutty aroma | Toasted rice kernels; Light green | Sencha; Matcha; Barley tea
+Chicory coffee | Caffeine substitute; Roasted drink | New orleans favorite; Caffeine free | Roasted root; Bitter and woody | Decaf; Barley tea; Espresso
+Jigarthanda | South indian drink; Cooling drink | Madurai specialty; Summer treat | Milk and almond gum; Topped with ice cream | Falooda; Milkshake; Rose milk
+Sol kadhi | Konkan drink; Pink drink | Served after seafood; Aids digestion | Coconut and kokum; Pale pink | Buttermilk; Rose milk; Lassi
+Mango shake | Sweet drink; Summer drink | Juice shop favorite; Thick and fruity | Blended pulp and milk; Bright yellow | Banana shake; Mango lassi; Smoothie
+Vanilla shake | Sweet drink; Diner drink | Classic order; Thick and cold | Pale cream color; Bean specks | Strawberry shake; Chocolate milk; Malted milk
+Tamarind drink | Tangy cooler; Street refresher | Sold in markets; Sweet and sour | Brown pulp; Pod fruit | Jaljeera; Lemonade; Kokum sharbat
+Kokum sharbat | Indian cooler; Purple drink | Coastal favorite; Beats the heat | Dried fruit rind; Deep purple | Sol kadhi; Jaljeera; Rose milk

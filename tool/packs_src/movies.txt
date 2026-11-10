@@ -1,0 +1,149 @@
+@id movies
+@name Movies
+Comedy | Film genre; Funny movies | Laugh out loud; Stand up stars | Slapstick gags; Happy endings | Drama; Satire; Parody
+Horror | Film genre; Scary movies | Jump scares; Watch through fingers | Haunted houses; Creepy music | Thriller; Mystery; Suspense
+Romance | Film genre; Love stories | Date night pick; Tearjerker kisses | Meet cute; Happily ever after | Drama; Comedy; Musical
+Action | Film genre; Blockbuster style | Car chases; Explosions | Fist fights; Stunt doubles | Adventure; Thriller; War
+Thriller | Film genre; Suspense movies | Edge of seat; Plot twists | Ticking clock; Cat and mouse | Horror; Mystery; Action
+Documentary | Film genre; Factual movies | Real events; Narrated footage | Interviews; Nature footage | Biopic; News; Drama
+Animation | Film style; Cartoon movies | Family favorites; Voice actors | Hand drawn frames; Computer graphics | Puppetry; Live action; Comic
+Musical | Film genre; Song movies | Characters burst into song; Broadway adaptations | Dance numbers; Showstoppers | Opera; Concert; Romance
+Western | Film genre; Cowboy movies | Frontier towns; High noon duels | Saloons and sheriffs; Tumbleweeds | Action; War; Adventure
+Fantasy | Film genre; Magic movies | Dragons and wizards; Epic quests | Enchanted kingdoms; Magic swords | Science fiction; Fairy tale; Adventure
+Science fiction | Film genre; Future movies | Space travel; Alien invasions | Robots and lasers; Time machines | Fantasy; Superhero; Horror
+Superhero | Film genre; Caped heroes | Comic book adaptations; Saves the city | Secret identity; Special abilities | Villain; Sidekick; Vigilante
+Mystery | Film genre; Puzzle movies | Whodunit; Detective solves it | Clues and suspects; Big reveal | Thriller; Crime; Horror
+Crime | Film genre; Gangster movies | Heists and mobsters; Police chases | Undercover agents; Shootouts | Mystery; Thriller; Action
+Adventure | Film genre; Quest movies | Treasure hunts; Exotic locations | Maps and jungles; Daring escapes | Action; Fantasy; Western
+Drama | Film genre; Serious movies | Award season favorites; Emotional | Character studies; Tears and conflict | Comedy; Romance; Tragedy
+War | Film genre; Battle movies | Soldiers and trenches; Historical battles | Tanks and helmets; Brotherhood | Action; Western; History
+Disaster | Film genre; Catastrophe movies | Volcanoes and earthquakes; Survival | Collapsing buildings; Race against time | Action; Thriller; Horror
+Zombie | Movie monster; Undead horde | Apocalypse films; Survival groups | Shambling hordes; Bite infects | Vampire; Mummy; Ghost
+Heist | Movie plot; Robbery caper | Crew of experts; Elaborate plans | Bank vault; Getaway car | Mystery; Escape; Con
+Time travel | Movie theme; Science fiction plot | Paradoxes; Change the past | Flux capacitor; Future selves | Teleport; Dream; Flashback
+Alien invasion | Movie plot; Science fiction theme | Spaceships over cities; Humanity fights | Flying saucers; Tripods | Zombie outbreak; Robot uprising; Asteroid
+Robot uprising | Movie plot; Machine rebellion | Artificial minds turn; Humans resist | Metal armies; Glowing red eyes | Alien invasion; Zombie outbreak; Cyborg
+Haunted house | Movie setting; Spooky mansion | Creaking floors; Ghostly visitors | Cobwebs; Slamming doors | Graveyard; Asylum; Castle
+Road trip | Movie plot; Journey story | Friends in a car; Motels | Highway scenery; Map arguments | Vacation; Adventure; Camping
+Growing up | Movie theme; Adolescent story | Teen years; First love | School dances; Summer change | Romance; Drama; Comedy
+Rom com | Movie genre; Romantic comedy | Meet cute; Airport chase | Misunderstandings; Happy kiss | Drama; Musical; Sitcom
+Sequel | Movie follow up; Second part | Bigger budget; Returning cast | Part two; Continues story | Prequel; Remake; Spinoff
+Prequel | Movie backstory; Earlier chapter | Origin story; Before the original | Younger characters; Set earlier | Sequel; Remake; Reboot
+Remake | Movie redo; New version | Updated effects; Classic retold | Same story; New cast | Sequel; Reboot; Parody
+Trailer | Movie preview; Teaser | Plays before films; Online hype | Dramatic voice; Coming soon | Poster; Review; Premiere
+Popcorn | Cinema snack; Movie treat | Shared at theaters; Buttery | Big paper tub; Salty kernels | Nachos; Candy; Soda
+Premiere | Movie launch; Opening night | Red carpet; Celebrities arrive | Flashing cameras; Gala event | Trailer; Award show; Screening
+Red carpet | Premiere walkway; Glamour event | Celebrities pose; Award nights | Velvet ropes; Paparazzi | Premiere; Runway; Gala
+Oscar | Film award; Golden statue | Award ceremony; Acceptance speech | Golden figure; Best picture | Trophy; Medal; Globe
+Director | Film maker; Movie boss | Shouts action; Leads the crew | Megaphone; Folding chair | Producer; Actor; Writer
+Villain | Movie bad guy; Antagonist | Evil plans; Monologues | Sinister laugh; Dark costume | Hero; Sidekick; Henchman
+Hero | Movie protagonist; Good guy | Saves the day; Brave choices | Cape or armor; Final showdown | Villain; Sidekick; Mentor
+Sidekick | Movie companion; Helper | Comic relief; Loyal friend | Assists the protagonist; Wisecracks | Hero; Villain; Mentor
+Plot twist | Movie surprise; Shock reveal | Nobody saw it coming; Rewatch value | Hidden identity; Mind blown | Cliffhanger; Spoiler; Flashback
+Cliffhanger | Story ending; Suspense hook | Wait for sequel; Season finale | Unresolved danger; Hanging moment | Plot twist; Spoiler; Epilogue
+Spoiler | Plot reveal; Ruined surprise | Warnings online; Friends ruin it | Giving away ending; Internet etiquette | Trailer; Review; Plot twist
+Flashback | Story device; Past scene | Memories revealed; Backstory | Sepia tones; Earlier timeline | Dream; Montage; Prequel
+Montage | Film technique; Quick sequence | Training scenes; Upbeat music | Rapid cuts; Time passing | Flashback; Trailer; Slow motion
+Slow motion | Film effect; Dramatic speed | Action highlights; Bullet dodges | Frames stretched; Every detail | Fast forward; Montage; Freeze frame
+Stunt double | Film role; Risk taker | Dangerous scenes; Looks like star | Car flips; Falls from heights | Body double; Actor; Extra
+Special effects | Film magic; Visual tricks | Explosions and aliens; Movie wizardry | Computer graphics; Green screens | Animation; Makeup; Props
+Green screen | Film technique; Chroma background | Weather reports; Superhero scenes | Bright colored wall; Replaced later | Special effects; Backdrop; Set
+Soundtrack | Movie music; Film score | Iconic themes; Album release | Orchestral pieces; Hit songs | Score; Playlist; Sound effects
+Blockbuster | Movie hit; Big film | Summer releases; Record sales | Huge budget; Long queues | Flop; Indie; Sequel
+Box office | Movie earnings; Ticket sales | Opening weekend; Records broken | Revenue charts; Theater tills | Budget; Ratings; Reviews
+Cinema | Movie theater; Film venue | Date nights; Big screen | Dark hall; Popcorn stand | Theater; Drive in; Arena
+Drive in | Outdoor cinema; Car theater | Retro dates; Watch from car | Giant outdoor screen; Radio sound | Cinema; Picnic; Theater
+Film festival | Movie event; Industry showcase | Premieres and awards; Indie gems | Juries and screenings; Coastal venues | Award show; Premiere; Convention
+Screenplay | Movie script; Writer's text | Dialogue and directions; Drafts | Formatted pages; Scene headings | Novel; Storyboard; Script
+Storyboard | Film planning; Drawn sequence | Pre production; Shot planning | Comic style panels; Sketches | Screenplay; Animation; Comic
+Clapperboard | Film tool; Scene marker | Take one; Snaps before shooting | Black and white stripes; Chalk numbers | Megaphone; Camera; Script
+Cameo | Brief appearance; Surprise role | Director pops up; Fans spot it | Few seconds; Famous face | Extra; Lead role; Narrator
+Extra | Background actor; Film crowd | Walks in background; No lines | Crowd scenes; Paid daily | Cameo; Stunt double; Lead
+Narrator | Story voice; Offscreen speaker | Documentaries; Fairy tale films | Deep voiceover; Guides story | Host; Actor; Director
+Subtitles | On screen text; Translation | Foreign films; Hard of hearing | Bottom of screen; Read along | Dubbing; Captions; Credits
+Credits | Film ending; Cast list | Roll at the end; Bonus scenes after | Scrolling names; Crew listed | Trailer; Subtitles; Poster
+Dubbing | Voice replacement; Language swap | Foreign releases; Mismatched lips | Recorded voices; Studio booth | Subtitles; Narration; Lip sync
+Silent film | Old movie; Early cinema | Piano accompaniment; Title cards | Black and white; No dialogue | Talkie; Cartoon; Mime
+Monochrome | Old film style; Grayscale | Classic cinema; Noir mood | Grey tones; No color | Technicolor; Sepia; Silent film
+Film noir | Movie style; Dark crime genre | Detectives and femme fatales; Rainy streets | Shadows and smoke; Trench coats | Thriller; Mystery; Western
+Mockumentary | Comedy style; Fake documentary | Talking heads; Deadpan humor | Shaky camera; Interviews | Documentary; Parody; Sitcom
+Parody | Comedy style; Spoof | Mocks famous films; Silly jokes | Exaggerated copy; Pop culture gags | Satire; Remake; Comedy
+Biopic | Film genre; Life story | Real person portrayed; Award bait | Makeup transformations; Based on facts | Documentary; Drama; Memoir
+Epic | Film style; Grand scale | Long runtime; Thousands of extras | Sweeping battles; Historical sagas | Saga; Blockbuster; Drama
+Musical number | Film moment; Song sequence | Everyone dances; Showstopper | Choreography; Catchy tune | Montage; Soundtrack; Finale
+Love triangle | Story trope; Romantic rivalry | Two suitors; Choose one | Jealousy; Heartbreak | Romance; Rivalry; Breakup
+Chosen one | Story trope; Destined hero | Prophecy foretold; Reluctant start | Special mark; Saves the world | Mentor; Villain; Sidekick
+Mentor | Story role; Wise guide | Trains the hero; Often dies | Old and wise; Gives advice | Sidekick; Villain; Hero
+Training montage | Story sequence; Improvement scenes | Underdog prepares; Pumping music | Push ups and running; Quick cuts | Flashback; Finale; Slow motion
+Final battle | Story climax; Showdown | Hero faces villain; Everything at stake | Epic fight; Last stand | Prologue; Montage; Cliffhanger
+Happy ending | Story conclusion; Feel good finish | Couple reunites; Credits roll smiling | Celebrations; Everything resolved | Tragedy; Cliffhanger; Twist
+Car chase | Action scene; Pursuit | Screeching tires; Police sirens | Crashing through markets; Wrong way driving | Shootout; Explosion; Foot chase
+Explosion | Action effect; Big blast | Hero walks away; Slow motion fireball | Fire and debris; Loud boom | Car chase; Shootout; Crash
+Shootout | Action scene; Gunfight | Western duels; Crime films | Bullets flying; Taking cover | Car chase; Explosion; Sword fight
+Sword fight | Action scene; Duel | Pirates and knights; Clashing blades | Fencing moves; Sparks fly | Shootout; Fist fight; Archery
+Kung fu | Martial arts film; Action genre | Training masters; Flying kicks | Dubbed dialogue; Bamboo sets | Samurai film; Boxing film; Western
+Samurai film | Japanese genre; Sword epic | Honor and duty; Masterless warriors | Katana duels; Feudal villages | Kung fu; Western; War film
+Spy movie | Film genre; Espionage thriller | Secret agents; Gadgets | Tuxedos and martinis; Double agents | Heist; Thriller; War
+Monster movie | Film genre; Creature feature | Giant beasts; Cities destroyed | Rampaging lizard; Screaming crowds | Disaster; Horror; Alien invasion
+Pirate movie | Film genre; High seas adventure | Treasure maps; Sword fights | Eye patches; Skull flags | Western; Adventure; Fantasy
+Dinosaur movie | Film genre; Prehistoric adventure | Theme park disaster; Roaring beasts | Raptors chase; Fossils come alive | Monster movie; Disaster; Jungle
+Space opera | Film genre; Galactic epic | Star empires; Laser swords | Rebels and empires; Starships | Science fiction; Fantasy; Western
+Fairy tale | Story type; Classic fable | Once upon a time; Bedtime stories | Princesses and witches; Magic spells | Fable; Myth; Legend
+Teen movie | Film genre; High school story | Prom night; Popular cliques | Lockers and cafeterias; First crush | Growing up; Rom com; Sitcom
+Sports movie | Film genre; Underdog story | Big game finale; Locker room speeches | Training scenes; Comeback victory | Biopic; Drama; Documentary
+Courtroom drama | Film genre; Legal story | Objection your honor; Shocking testimony | Judge and jury; Closing argument | Crime; Mystery; Thriller
+Disaster film | Movie genre; Catastrophe story | Tsunamis and twisters; Survival race | Crumbling cities; Heroic scientists | Monster movie; Thriller; War film
+Martial arts | Fight style; Action genre | Training dojos; Belts and masters | High kicks; Choreographed fights | Boxing; Wrestling; Fencing
+Bollywood | Film industry; Indian cinema | Song and dance; Big weddings | Colorful sets; Three hour films | Hollywood; Tollywood; Nollywood
+Hollywood | Film industry; Movie capital | Studios and stars; Walk of fame | Hillside sign; Big budgets | Bollywood; Broadway; Nollywood
+Anime | Animation style; Japanese cartoons | Big expressive eyes; Fan conventions | Hand drawn action; Dubbed or subbed | Cartoon; Manga; Animation
+Cartoon | Animation; Kids show | Saturday mornings; Talking animals | Bright colors; Slapstick gags | Anime; Comic; Puppet show
+Sitcom | Television genre; Comedy series | Laugh track; Family living room | Episodes; Catchphrases | Drama; Reality show; Soap opera
+Soap opera | Television genre; Daily drama | Evil twins; Dramatic slaps | Long running; Cliffhanger episodes | Sitcom; Telenovela; Drama
+Reality show | Television genre; Unscripted series | Contestants voted off; Confessionals | Hidden cameras; Drama queens | Game show; Sitcom; Documentary
+Game show | Television genre; Quiz program | Contestants win prizes; Studio audience | Buzzers; Host with cards | Reality show; Talk show; Quiz
+Talk show | Television genre; Interview program | Celebrity guests; Late night | Desk and couch; House band | Game show; News; Podcast
+Binge watch | Viewing habit; Marathon viewing | Whole season overnight; Next episode autoplay | Couch and snacks; Streaming | Rewatch; Channel surf; Skim
+Video streaming | Online platform; Monthly subscription | Binge worthy shows; Monthly fee | Recommendations; Skip intro | Cable; Cinema; Rental
+Movie night | Social event; Home cinema | Friends and popcorn; Pick a film | Dim lights; Blankets | Game night; Party; Concert
+Usher | Cinema worker; Seat guide | Flashlight in aisles; Checks tickets | Uniform; Shushes talkers | Projectionist; Cashier; Guard
+Projector | Cinema machine; Light beam | Film reels; Booth upstairs | Bright beam; Whirring | Screen; Camera; Speaker
+Movie poster | Promotional art; Film advert | Hung in lobbies; Collectibles | Tagline and title; Star faces | Trailer; Billboard; Flyer
+Ticket stub | Cinema keepsake; Admission slip | Saved in wallets; Torn at entry | Seat number; Showtime printed | Popcorn bucket; Poster; Receipt
+Movie glasses | Cinema accessory; Viewing gear | Things pop out; Cardboard or plastic | Tinted lenses; Depth effect | Sunglasses; Goggles; Monocle
+Extended cut | Movie version; Longer edition | Deleted scenes restored; Collectors buy | Longer runtime; Original vision | Remake; Sequel; Trailer
+Blooper | Filming mistake; Outtake | Shown during credits; Funny flubs | Forgotten lines; Giggling actors | Spoiler; Cameo; Trailer
+Box set | Collector item; Complete series | Gift for fans; Shelf display | Many discs; Special packaging | Trailer; Poster; Single
+Costume designer | Film crew role; Wardrobe creator | Period outfits; Sketches clothes | Fabric choices; Fittings | Makeup artist; Director; Tailor
+Screenwriter | Movie author; Script author | Writes dialogue; Rewrites drafts | Typing scripts; Plot outlines | Novelist; Director; Editor
+Movie star | Famous actor; Celebrity | Red carpets; Paparazzi chase | Autographs; Big salary | Director; Extra; Producer
+Award show | Ceremony; Film honors | Speeches and envelopes; Glamorous outfits | Golden statues; Host jokes | Premiere; Festival; Concert
+Indie film | Small movie; Independent cinema | Festival favorite; Low budget | Quirky characters; Handheld camera | Blockbuster; Documentary; Short film
+Short film | Brief movie; Mini feature | Student projects; Festival category | Under half hour; Tight story | Feature film; Trailer; Commercial
+Feature film | Full length movie; Main picture | Theater release; Two hours | Opening credits; Three acts | Short film; Series; Documentary
+Horror villain | Scary antagonist; Slasher figure | Masked killer; Never stays down | Creepy mask; Heavy breathing | Monster; Ghost; Zombie
+Jump scare | Horror trick; Sudden fright | Loud bang; Audience screams | Quiet build up; Something leaps out | Plot twist; Cliffhanger; Spoiler
+Haunted doll | Horror prop; Creepy toy | Moves at night; Cursed object | Porcelain face; Glassy eyes | Puppet; Ghost; Mannequin
+Found footage | Horror style; Shaky camera | Lost tapes; Night vision | Handheld recording; Missing filmmakers | Mockumentary; Documentary; Thriller
+Slasher | Horror subgenre; Masked killer film | Teens at camp; Final girl | Knife wielding; Sequel heavy | Thriller; Zombie; Haunted house
+Ghost story | Spooky tale; Haunting plot | Told around campfires; Restless spirits | Old mansions; Whispering voices | Fairy tale; Legend; Mystery
+Love story | Romance tale; Heartfelt plot | Doomed couples; Tear jerker | Grand gestures; Rain kisses | Fairy tale; Tragedy; Comedy
+Tragedy | Story type; Sad ending | Shakespeare classics; Heartbreak | Fatal flaw; Downfall | Comedy; Drama; Romance
+Satire | Comedy style; Social mockery | Political humor; Biting wit | Exaggeration; Irony | Parody; Comedy; Farce
+Slapstick | Comedy style; Physical humor | Pies in face; Silent era | Pratfalls; Banana peels | Satire; Parody; Mime
+Underdog | Story trope; Unlikely hero | Nobody believes in them; Big comeback | Long odds; Triumph | Champion; Villain; Rookie
+Buddy cop | Movie trope; Mismatched partners | Odd couple detectives; Wisecracks | Two partners; Car banter | Heist; Spy movie; Western
+Femme fatale | Noir trope; Dangerous woman | Seduces the detective; Mysterious past | Red lipstick; Smoky glances | Villain; Heroine; Spy
+Mad scientist | Movie trope; Crazy inventor | Evil experiments; Lightning lab | Wild white hair; Bubbling beakers | Villain; Inventor; Wizard
+Evil twin | Story trope; Sinister double | Soap opera twist; Mistaken identity | Identical face; Secret sibling | Doppelganger; Clone; Villain
+Last stand | Story climax; Final defense | Heroes outnumbered; Defend the fort | Barricades; Brave sacrifice | Final battle; Siege; Retreat
+Damsel | Story trope; Rescued character | Tied to tracks; Tower captive | Waits for rescue; Classic trope | Hero; Villain; Princess
+Princess | Royal character; Fairy tale lead | Castles and balls; Tiara | Ballgown; Royal title | Queen; Duchess; Damsel
+Treasure map | Adventure prop; Pirate chart | Marked with an x; Buried gold | Old parchment; Dotted path | Compass; Chest; Scroll
+Secret agent | Spy character; Undercover operative | Gadgets and disguises; License to act | Earpiece; Sunglasses | Detective; Hacker; Soldier
+Time loop | Movie theme; Repeating day | Wakes up again; Same day repeats | Alarm clock reset; Endless repetition | Time travel; Dream; Flashback
+Multiverse | Movie theme; Alternate world | Other versions of you; Portal travel | Mirror worlds; Infinite versions | Time travel; Dream; Simulation
+Dream sequence | Film device; Surreal scene | Wakes up shocked; Floaty visuals | Hazy edges; Impossible events | Flashback; Montage; Hallucination
+Cyborg | Science fiction figure; Machine human | Robotic limbs; Future cops | Glowing eye; Metal parts | Robot; Android; Alien
+Post apocalyptic | Movie setting; Ruined world | Survivors scavenge; Wastelands | Rusty vehicles; Gas masks | Dystopia; Zombie outbreak; Western
+Dystopia | Movie setting; Oppressive future | Rebels rise; Controlled society | Surveillance; Grey uniforms | Utopia; Post apocalyptic; Kingdom

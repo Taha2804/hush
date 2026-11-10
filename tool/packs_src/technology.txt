@@ -1,0 +1,143 @@
+@id technology
+@name Technology
+Computer | Electronic device; Work machine | Used in offices; Runs programs | Keyboard and mouse; Monitor screen | Laptop; Tablet; Phone
+Laptop | Portable computer; Electronic device | Work on the go; Cafe workers | Folding screen; Built in keyboard | Tablet; Desktop; Phone
+Smartphone | Mobile device; Pocket gadget | Always in hand; Social apps | Touchscreen; Camera on back | Tablet; Laptop; Smartwatch
+Tablet | Portable device; Touchscreen gadget | Kids watch cartoons; Reading ebooks | Flat glass slab; No keyboard | Laptop; Phone; Kindle
+Smartwatch | Wearable gadget; Wrist device | Counts steps; Shows messages | Tiny screen; Strap on wrist | Fitness band; Phone; Pager
+Headphones | Audio device; Listening gear | Music on commutes; Gaming sessions | Over the ears; Padded cushions | Earbuds; Speaker; Microphone
+Earbuds | Audio device; Tiny speakers | Wireless listening; Lost easily | Fit in ears; Charging case | Headphones; Speaker; Hearing aid
+Speaker | Audio device; Sound system | Party music; Bluetooth pairing | Booming bass; Cone driver | Headphones; Microphone; Amplifier
+Microphone | Audio device; Recording tool | Karaoke nights; Podcasts | Mesh head; Tap to test | Speaker; Headphones; Megaphone
+Keyboard | Input device; Typing tool | Office work; Gamers love clicky ones | Rows of keys; Space bar | Mouse; Touchpad; Piano
+Mouse | Input device; Pointing tool | Click and scroll; Desk companion | Two buttons; Scroll wheel | Keyboard; Touchpad; Joystick
+Monitor | Display device; Computer screen | Desk setup; Dual setups | Flat panel; Stand underneath | Television; Projector; Tablet
+Printer | Office device; Paper machine | Prints documents; Always jams | Ink cartridges; Paper tray | Scanner; Copier; Fax
+Scanner | Office device; Digitizer | Copies documents; Flatbed glass | Light bar; Lid on top | Printer; Copier; Camera
+Router | Network device; Internet box | Home wifi; Blinking lights | Antennas; Ethernet ports | Modem; Switch; Hub
+Modem | Network device; Internet gateway | Connects to provider; Dial up history | Blinking lights; Phone line | Router; Switch; Server
+Charger | Power accessory; Cable plug | Plug in at night; Phone dies | Cable and adapter; Wall socket | Battery; Power bank; Cable
+Power bank | Portable battery; Charging gadget | Travel essential; Saves dead phones | Pocket sized brick; Charging ports | Charger; Battery; Cable
+Usb drive | Storage device; Portable memory | Transfers files; Lost in pockets | Small stick; Plug in port | Hard drive; Memory card; Cloud storage
+Hard drive | Storage device; Data keeper | Backups; Spinning platters | Gigabytes or terabytes; Whirring sound | Usb drive; Cloud storage; Memory card
+Memory card | Storage device; Tiny chip | Camera photos; Slots into phones | Thumbnail sized; Gigabytes | Usb drive; Hard drive; Sim card
+Sim card | Phone chip; Network chip | Swapped abroad; Carrier plan | Tiny gold contacts; Ejector pin | Memory card; Battery; Chip
+Camera | Photo device; Imaging gadget | Holiday snaps; Wedding photos | Lens and shutter; Flash | Phone; Camcorder; Webcam
+Webcam | Video device; Computer camera | Video calls; Streaming | Clips on monitor; Tiny lens | Camera; Microphone; Phone
+Drone | Flying gadget; Unmanned aircraft | Aerial videos; Remote pilots | Four propellers; Camera underneath | Helicopter; Kite; Remote car
+Robot | Machine; Automaton | Factory work; Sci fi movies | Metal arms; Beeping sounds | Android; Drone; Computer
+Television | Display device; Living room screen | Watch shows; Streaming nights | Remote control; Big flat panel | Monitor; Projector; Radio
+Projector | Display device; Beam machine | Classroom slides; Movie nights | Throws image on wall; Bright lamp | Television; Monitor; Screen
+Game console | Gaming device; Entertainment box | Multiplayer nights; Exclusive titles | Controllers; Plugs into tv | Computer; Handheld; Arcade
+Joystick | Game controller; Input lever | Flight games; Arcade machines | Tilting lever; Trigger button | Gamepad; Mouse; Keyboard
+Virtual reality | Immersive tech; Simulated world | Gaming headsets; Training simulations | Goggles on face; Hand controllers | Simulator; Hologram; Metaverse
+Hologram | Light projection; Futuristic display | Sci fi messages; Concert tricks | Three dimensional image; Floating light | Projector; Virtual reality; Laser
+Laser | Light beam; Focused light | Cat chases dot; Barcode scanners | Red dot; Narrow beam | Flashlight; Hologram; Spotlight
+Satellite | Orbiting device; Space machine | Weather images; Phone signals | Solar panels; Dish antenna | Rocket; Drone; Radar
+Gps | Navigation system; Location service | Map directions; Recalculating route | Satellite signals; Coordinates | Compass; Map; Radar
+Radar | Detection system; Radio tech | Weather tracking; Speed traps | Rotating dish; Blips on screen | Sonar; Gps; Satellite
+Wifi | Wireless network; Internet signal | Password asked; Cafe freebie | Signal bars; Router broadcasts | Bluetooth; Ethernet; Cellular
+Bluetooth | Wireless tech; Short range link | Pairs headphones; Car audio | Rune logo; Pairing mode | Wifi; Infrared; Nfc
+Internet | Global network; Information web | Browsing websites; Always online | Servers and cables; World wide web | Intranet; Library; Television
+Website | Online page; Web address | Bookmarked; Visited daily | Homepage; Links and menus | App; Blog; Email
+App | Software program; Phone tool | Download from store; Notifications | Icon on home screen; Updates | Website; Game; Widget
+Email | Digital message; Online note | Inbox full; Spam folder | At symbol address; Attachments | Text message; Letter; Fax
+Password | Security code; Secret phrase | Forgotten often; Keep it strong | Asterisks on screen; Special characters | Pin; Username; Fingerprint
+Emoji | Digital icon; Tiny picture | Texting fun; Expresses feelings | Smiley faces; Yellow circles | Sticker; Gif; Meme
+Meme | Internet joke; Viral image | Shared in group chats; Funny captions | Image with text; Spreads fast | Emoji; Gif; Cartoon
+Video call | Online meeting; Face chat | Remote work; Family far away | Webcam and mic; You are on mute | Phone call; Text message; Email
+Social media | Online platform; Sharing network | Likes and followers; Endless scrolling | Profile pictures; News feed | Blog; Forum; Email
+Search engine | Web tool; Finder | Type a question; Billions of pages | Query box; Ranked results | Browser; Encyclopedia; Directory
+Browser | Software; Web viewer | Opens websites; Many tabs | Address bar; Back button | Search engine; App; Email
+Cloud storage | Online backup; Remote files | Backups anywhere; Sync devices | Upload and download; Servers far away | Hard drive; Usb drive; Memory card
+Server | Network computer; Data center machine | Hosts websites; Runs nonstop | Racks of blades; Humming fans | Computer; Router; Mainframe
+Algorithm | Step procedure; Computer logic | Recommends videos; Sorts data | Instructions in order; Flowchart | Program; Formula; Recipe
+Coding | Programming; Software writing | Builds apps; Debugging nights | Lines of syntax; Curly brackets | Hacking; Typing; Designing
+Machine learning | Smart software; Trained models | Chatbots; Self driving cars | Neural networks; Trained on data | Robot; Algorithm; Computer
+Chatbot | Conversational software; Virtual assistant | Customer support; Answers questions | Text bubbles; Automatic replies | Robot; Search engine; Email
+Virus | Malicious program; Computer threat | Security scans; Infected files | Spreads through downloads; Corrupts data | Bug; Spam; Hacker
+Bug | Software error; Glitch | Developers fix it; Crashes apps | Unexpected behavior; Patch needed | Virus; Crash; Typo
+Hacker | Computer intruder; Code breaker | Breaks security; Hoodie stereotype | Green screen text; Passwords stolen | Programmer; Virus; Spy
+Firewall | Security software; Network shield | Blocks threats; Corporate networks | Traffic rules; Ports closed | Antivirus; Password; Router
+Battery | Power cell; Energy store | Dies at worst time; Recharge nightly | Plus and minus; Lithium ion | Charger; Power bank; Plug
+Solar panel | Energy device; Green tech | Rooftop power; Sunny days | Blue cells; Faces the sun | Wind turbine; Battery; Generator
+Wind turbine | Energy device; Green tech | Breezy hilltops; Clean power | Giant blades; Tall white tower | Solar panel; Windmill; Generator
+Electric car | Battery vehicle; Green transport | Charging stations; Quiet ride | Plug in port; No exhaust | Hybrid; Petrol car; Scooter
+Microchip | Tiny circuit; Silicon component | Inside every gadget; Global shortage | Transistors; Black square with pins | Processor; Circuit board; Sensor
+Processor | Computer brain; Central chip | Speed in gigahertz; Gets hot | Many cores; Under the fan | Microchip; Memory; Graphics card
+Motherboard | Main circuit; Computer part | Connects everything; Inside the tower | Slots and sockets; Green panel | Processor; Hard drive; Graphics card
+Graphics card | Computer part; Video processor | Gamers upgrade it; Renders images | Big fans; Plugs into slot | Processor; Motherboard; Monitor
+Calculator | Math device; Number gadget | Exam helper; Solar powered | Number keys; Small display | Computer; Abacus; Phone
+Abacus | Counting tool; Ancient calculator | Teaches arithmetic; Beads slide | Wooden frame; Rows of beads | Calculator; Ruler; Slide rule
+Typewriter | Writing machine; Retro device | Old novelists; Clack clack | Ink ribbon; Carriage return | Keyboard; Printer; Computer
+Fax machine | Office device; Document sender | Outdated tech; Screeching tones | Phone line; Thermal paper | Printer; Scanner; Email
+Pager | Retro device; Message beeper | Doctors used them; Nineties tech | Tiny screen; Clips on belt | Phone; Walkie talkie; Watch
+Walkie talkie | Radio device; Handheld transceiver | Roger that; Camping trips | Press to speak; Antenna | Phone; Pager; Radio
+Radio | Audio device; Broadcast receiver | Morning shows; Car stereo | Tuning dial; Antenna | Television; Speaker; Walkie talkie
+Vinyl record | Music format; Retro disc | Collectors love them; Played on turntables | Grooves; Black disc | Cassette; Compact disc; Streaming
+Cassette | Music format; Retro tape | Mixtapes; Rewind with pencil | Magnetic tape; Two spools | Vinyl record; Compact disc; Floppy disk
+Floppy disk | Storage medium; Retro device | Save icon; Nineties computers | Square plastic; Metal shutter | Cassette; Usb drive; Compact disc
+Compact disc | Music format; Shiny platter | Albums in cases; Scratches skip | Rainbow reflection; Laser read | Vinyl record; Cassette; Dvd
+Dvd player | Video device; Movie machine | Movie nights; Rental stores | Disc tray; Remote control | Vcr; Projector; Game console
+Remote control | Handheld device; Wireless clicker | Lost in the sofa; Changes channels | Infrared beam; Rubber buttons | Joystick; Phone; Keyboard
+Smart speaker | Voice assistant; Home device | Asks the weather; Plays music | Glowing ring; Always listening | Tablet; Phone; Radio
+Fitness tracker | Wearable device; Health gadget | Counts steps; Sleep tracking | Wrist band; Heart sensor | Smartwatch; Pedometer; Watch
+E-reader | Reading device; Digital book | Thousands of books; Long battery life | Electronic ink; Paper like screen | Tablet; Laptop; Book
+Laser cutter | Fabrication machine; Maker tool | Cuts wood and acrylic; Precise outlines | Focused beam; Smoky smell | Lathe; Router; Drill press
+Barcode | Product label; Scannable label | Supermarket checkout; Inventory | Black and white stripes; Numbers underneath | Qr code; Price tag; Receipt
+Qr code | Scannable square; Square pattern | Restaurant menus; Payments | Pixelated square; Phone camera | Barcode; Hashtag; Link
+Touchscreen | Interactive display; Glass panel | Swipe and tap; Phones and kiosks | Fingerprint smudges; Pinch to zoom | Keyboard; Mouse; Monitor
+Thumbprint | Biometric sensor; Security marker | Unlocks phones; Border control | Swirls and ridges; Touch to unlock | Face unlock; Password; Keycard
+Face unlock | Biometric tech; Security feature | Phones and laptops; Airport gates | Camera scan; Matching features | Thumbprint; Password; Iris scan
+Selfie stick | Photo accessory; Extendable pole | Tourist spots; Group pictures | Telescopic rod; Phone clamp | Tripod; Monopod; Camera strap
+Tripod | Camera stand; Three legs | Long exposures; Steady shots | Adjustable legs; Mounting head | Selfie stick; Easel; Stand
+Gimbal | Camera stabilizer; Smooth motion gear | Vloggers; Cinematic shots | Motorized axes; Handheld grip | Tripod; Selfie stick; Drone
+Dashcam | Car camera; Recording gadget | Accident evidence; Road trips | On the windshield; Loop recording | Webcam; Gopro; Camera
+Action camera | Rugged recorder; Sports recorder | Extreme sports; Helmet mounts | Waterproof case; Wide angle | Dashcam; Webcam; Drone
+Electric scooter | Battery ride; Urban transport | Rental apps; Sidewalk zipping | Folding stem; Small wheels | Hoverboard; Bicycle; Moped
+Robotaxi | Autonomous vehicle; Driverless ride | Future roads; Testing in cities | Lidar sensors; No hands needed | Electric car; Limousine; Drone
+Spreadsheet | Office software; Data grid | Budgets and charts; Formulas | Rows and columns; Cells | Database; Calculator; Document
+Database | Record storage; Organized records | Stores customer info; Queries | Tables and rows; Indexes | Spreadsheet; Server; Cloud storage
+Operating system | Core software; Platform | Boots the computer; Updates nightly | Desktop and icons; File manager | App; Browser; Firmware
+Software update | Program patch; New version | Restart required; Bug fixes | Progress bar; Download size | Bug; Virus; App
+Screenshot | Display capture; Saved image | Proof in chats; Keyboard shortcut | Camera shutter sound; Cropped picture | Photo; Scan; Recording
+Download | File transfer; Saving from web | Progress bar; Slow internet | Arrow pointing lower; Saved file | Upload; Stream; Install
+Streaming | Online media; Live playback | Binge watching; Buffering wheel | Subscription; No downloading | Download; Broadcast; Podcast
+Podcast | Audio show; Online series | Commute listening; Episodes weekly | Hosts talk; Subscribe button | Radio; Audiobook; Streaming
+Video game | Interactive entertainment; Digital play | Level up; Save points | Controller in hand; High scores | Board game; Movie; Arcade
+Arcade | Game hall; Retro gaming | Tokens and tickets; Claw machines | Cabinets with joysticks; Flashing lights | Casino; Bowling alley; Cinema
+Pixel | Image dot; Screen element | Retro graphics; Resolution counts | Tiny square; Colored light | Byte; Bit; Vector
+Byte | Data unit; Digital measure | File sizes; Kilo mega giga | Eight bits; Binary storage | Pixel; Bit; Hertz
+Binary | Number system; Computer language | Ones and zeros; Machine code | Base two; Digits one zero | Decimal; Hexadecimal; Morse code
+Circuit board | Electronic component; Green panel | Inside gadgets; Soldered parts | Copper traces; Tiny chips | Microchip; Motherboard; Breadboard
+Transistor | Electronic switch; Semiconductor | Billions per chip; Changed computing | Three legs; Amplifies signals | Diode; Resistor; Capacitor
+Electricity | Energy form; Power supply | Lights the home; Power cuts | Flowing electrons; Volts and amps | Magnetism; Gas; Battery
+Light bulb | Electric device; Glowing glass | Bright idea symbol; Screws in | Filament or led; Glass globe | Candle; Lamp; Torch
+Led | Light source; Efficient lamp | Fairy lights; Low energy | Tiny diode; Bright colors | Bulb; Neon; Laser
+Generator | Power machine; Backup energy | Power cuts; Camping sites | Fuel engine; Loud rumble | Battery; Solar panel; Turbine
+Nuclear reactor | Power plant core; Atomic energy | Cooling towers; Strict safety | Uranium rods; Control room | Generator; Wind turbine; Dam
+Microscope | Science instrument; Lab tool | Tiny cells; Biology class | Lenses; Glass slides | Telescope; Magnifying glass; Camera
+Telescope | Science instrument; Star viewer | Astronomy nights; Observatories | Long tube; Big lens | Microscope; Binoculars; Camera
+Binoculars | Optical device; Viewing tool | Bird watching; Stadium seats | Twin lenses; Neck strap | Telescope; Microscope; Camera
+X-ray | Medical imaging; Radiation scan | Broken bones; Airport security | See through photo; Lead apron | Ultrasound; Scanner; Microscope
+Ultrasound | Medical imaging; Echo scan | Baby scans; Cold gel | Grainy picture; Handheld probe | X-ray; Stethoscope; Scanner
+Smart home | Connected house; Automation | Lights by voice; App controls | Sensors and hubs; Remote thermostat | Robot; Smart speaker; Alarm system
+Robot vacuum | Cleaning gadget; Autonomous cleaner | Cats ride them; Bumps into walls | Round disc; Charging dock | Vacuum cleaner; Mop; Drone
+Air fryer | Kitchen gadget; Countertop cooker | Crispy fries; Less oil | Basket drawer; Convection fan | Microwave; Oven; Toaster
+Microwave oven | Kitchen appliance; Quick heater | Reheats food; Pops popcorn | Rotating plate; Beeps when done | Toaster; Air fryer; Kettle
+Electric razor | Bathroom gadget; Grooming tool | Morning shave; Buzzing sound | Rotating heads; Charging base | Trimmer; Hairdryer; Toothbrush
+Hearing aid | Medical device; Sound amplifier | Elderly users; Behind the ear | Tiny earpiece; Battery powered | Earbuds; Headphones; Microphone
+Pacemaker | Medical device; Heart implant | Keeps rhythm steady; Surgery needed | Small battery; Electrical pulses | Defibrillator; Stethoscope; Hearing aid
+Antenna | Signal receiver; Metal rod | Rooftop tv; Old radios | Picks up waves; Extends upward | Satellite dish; Router; Radar
+Satellite dish | Signal receiver; Rooftop device | Cable tv; Space signals | Curved bowl; Points at sky | Antenna; Radar; Telescope
+Cable | Wire connector; Power cord | Tangled behind desks; Charging | Plug at each end; Rubber coating | Wire; Rope; Charger
+Plug | Electrical connector; Wall fitting | Into the socket; Travel adapters | Metal prongs; Three pins | Socket; Switch; Cable
+Switch | Electrical control; Flip control | Wall lights; Flip it | Toggle lever; Click sound | Button; Plug; Dial
+Thermostat | Climate controller; Smart device | Sets the heat; Saves energy | Temperature dial; Wall mounted | Heater; Fan; Switch
+Alarm system | Security setup; Home protection | Burglar deterrent; Loud siren | Motion sensors; Keypad code | Smoke detector; Lock; Camera
+Security camera | Surveillance device; Watchful eye | Shops and homes; Recording footage | Mounted lens; Red light | Webcam; Dashcam; Alarm
+Doorbell camera | Smart chime; Porch device | Package thieves; Answer remotely | Lens by entrance; Motion alerts | Security camera; Intercom; Webcam
+Gaming laptop | Powerful notebook; Portable rig | Esports on the go; Heavy and loud | Glowing keyboard; Big fans | Desktop; Ultrabook; Console
+Stylus | Digital pen; Tablet tool | Drawing apps; Note taking | Pointed tip; Pressure sensitive | Pen; Mouse; Finger
+Graphics tablet | Drawing device; Artist gadget | Digital art; Animators use it | Pen on pad; Pressure levels | Sketchbook; Stylus; Mouse
+Keycaps | Keyboard parts; Enthusiast gear | Gamers and coders; Custom sets | Printed symbols; Pop off switches | Typewriter; Mouse; Stylus

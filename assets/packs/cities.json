@@ -1,0 +1,5208 @@
+{
+ "id": "cities",
+ "name": "Cities",
+ "words": [
+  {
+   "word": "Paris",
+   "hints": [
+    {
+     "text": "European capital",
+     "level": 1
+    },
+    {
+     "text": "Romantic city",
+     "level": 1
+    },
+    {
+     "text": "City of light",
+     "level": 2
+    },
+    {
+     "text": "Fashion week host",
+     "level": 2
+    },
+    {
+     "text": "Iron lattice tower",
+     "level": 3
+    },
+    {
+     "text": "Riverside cafes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "London",
+    "Rome",
+    "Madrid"
+   ]
+  },
+  {
+   "word": "London",
+   "hints": [
+    {
+     "text": "European capital",
+     "level": 1
+    },
+    {
+     "text": "Historic city",
+     "level": 1
+    },
+    {
+     "text": "Royal palace",
+     "level": 2
+    },
+    {
+     "text": "Double decker buses",
+     "level": 2
+    },
+    {
+     "text": "Big clock tower",
+     "level": 3
+    },
+    {
+     "text": "Underground tube",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Paris",
+    "Dublin",
+    "Edinburgh"
+   ]
+  },
+  {
+   "word": "New york",
+   "hints": [
+    {
+     "text": "American city",
+     "level": 1
+    },
+    {
+     "text": "Huge metropolis",
+     "level": 1
+    },
+    {
+     "text": "Never sleeps",
+     "level": 2
+    },
+    {
+     "text": "Yellow taxis",
+     "level": 2
+    },
+    {
+     "text": "Famous green statue",
+     "level": 3
+    },
+    {
+     "text": "Central park",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chicago",
+    "Boston",
+    "Los angeles"
+   ]
+  },
+  {
+   "word": "Tokyo",
+   "hints": [
+    {
+     "text": "Asian capital",
+     "level": 1
+    },
+    {
+     "text": "Huge metropolis",
+     "level": 1
+    },
+    {
+     "text": "Neon streets",
+     "level": 2
+    },
+    {
+     "text": "Busy crossings",
+     "level": 2
+    },
+    {
+     "text": "Bullet trains",
+     "level": 3
+    },
+    {
+     "text": "Sushi counters",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Osaka",
+    "Seoul",
+    "Kyoto"
+   ]
+  },
+  {
+   "word": "Rome",
+   "hints": [
+    {
+     "text": "European capital",
+     "level": 1
+    },
+    {
+     "text": "Ancient city",
+     "level": 1
+    },
+    {
+     "text": "Eternal city",
+     "level": 2
+    },
+    {
+     "text": "Ancient empire seat",
+     "level": 2
+    },
+    {
+     "text": "Gladiator arena",
+     "level": 3
+    },
+    {
+     "text": "Throw coins in fountains",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Athens",
+    "Florence",
+    "Milan"
+   ]
+  },
+  {
+   "word": "Dubai",
+   "hints": [
+    {
+     "text": "Gulf city",
+     "level": 1
+    },
+    {
+     "text": "Desert metropolis",
+     "level": 1
+    },
+    {
+     "text": "Luxury shopping",
+     "level": 2
+    },
+    {
+     "text": "Artificial islands",
+     "level": 2
+    },
+    {
+     "text": "Tallest building",
+     "level": 3
+    },
+    {
+     "text": "Indoor ski slope",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Doha",
+    "Abu dhabi",
+    "Riyadh"
+   ]
+  },
+  {
+   "word": "Mumbai",
+   "hints": [
+    {
+     "text": "Indian city",
+     "level": 1
+    },
+    {
+     "text": "Coastal metropolis",
+     "level": 1
+    },
+    {
+     "text": "Film industry hub",
+     "level": 2
+    },
+    {
+     "text": "Financial capital",
+     "level": 2
+    },
+    {
+     "text": "Vada pav",
+     "level": 3
+    },
+    {
+     "text": "Seaside promenade",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Delhi",
+    "Kolkata",
+    "Chennai"
+   ]
+  },
+  {
+   "word": "Delhi",
+   "hints": [
+    {
+     "text": "Indian capital",
+     "level": 1
+    },
+    {
+     "text": "Huge city",
+     "level": 1
+    },
+    {
+     "text": "Old and new parts",
+     "level": 2
+    },
+    {
+     "text": "Street food heaven",
+     "level": 2
+    },
+    {
+     "text": "Red fort",
+     "level": 3
+    },
+    {
+     "text": "Ancient minarets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mumbai",
+    "Agra",
+    "Jaipur"
+   ]
+  },
+  {
+   "word": "Bangalore",
+   "hints": [
+    {
+     "text": "Indian city",
+     "level": 1
+    },
+    {
+     "text": "Tech hub",
+     "level": 1
+    },
+    {
+     "text": "Garden city",
+     "level": 2
+    },
+    {
+     "text": "Pleasant weather",
+     "level": 2
+    },
+    {
+     "text": "Software parks",
+     "level": 3
+    },
+    {
+     "text": "Pub culture",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hyderabad",
+    "Chennai",
+    "Pune"
+   ]
+  },
+  {
+   "word": "Kolkata",
+   "hints": [
+    {
+     "text": "Indian city",
+     "level": 1
+    },
+    {
+     "text": "Eastern metropolis",
+     "level": 1
+    },
+    {
+     "text": "City of joy",
+     "level": 2
+    },
+    {
+     "text": "Intellectual hub",
+     "level": 2
+    },
+    {
+     "text": "Yellow taxis",
+     "level": 3
+    },
+    {
+     "text": "Big iron bridge",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dhaka",
+    "Mumbai",
+    "Patna"
+   ]
+  },
+  {
+   "word": "Chennai",
+   "hints": [
+    {
+     "text": "Indian city",
+     "level": 1
+    },
+    {
+     "text": "Coastal metropolis",
+     "level": 1
+    },
+    {
+     "text": "Classical dance hub",
+     "level": 2
+    },
+    {
+     "text": "Filter coffee",
+     "level": 2
+    },
+    {
+     "text": "Long urban beach",
+     "level": 3
+    },
+    {
+     "text": "Temple towers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bangalore",
+    "Madurai",
+    "Hyderabad"
+   ]
+  },
+  {
+   "word": "Hyderabad",
+   "hints": [
+    {
+     "text": "Indian city",
+     "level": 1
+    },
+    {
+     "text": "Southern metropolis",
+     "level": 1
+    },
+    {
+     "text": "Famous biryani",
+     "level": 2
+    },
+    {
+     "text": "Pearl trading",
+     "level": 2
+    },
+    {
+     "text": "Arched monument",
+     "level": 3
+    },
+    {
+     "text": "Tech campuses",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bangalore",
+    "Chennai",
+    "Lucknow"
+   ]
+  },
+  {
+   "word": "Jaipur",
+   "hints": [
+    {
+     "text": "Indian city",
+     "level": 1
+    },
+    {
+     "text": "Pink city",
+     "level": 1
+    },
+    {
+     "text": "Royal palaces",
+     "level": 2
+    },
+    {
+     "text": "Desert state capital",
+     "level": 2
+    },
+    {
+     "text": "Wind palace",
+     "level": 3
+    },
+    {
+     "text": "Hilltop forts",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Udaipur",
+    "Jodhpur",
+    "Agra"
+   ]
+  },
+  {
+   "word": "Agra",
+   "hints": [
+    {
+     "text": "Indian city",
+     "level": 1
+    },
+    {
+     "text": "Historic city",
+     "level": 1
+    },
+    {
+     "text": "Mughal history",
+     "level": 2
+    },
+    {
+     "text": "Tourist magnet",
+     "level": 2
+    },
+    {
+     "text": "White marble mausoleum",
+     "level": 3
+    },
+    {
+     "text": "Red sandstone fort",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jaipur",
+    "Delhi",
+    "Lucknow"
+   ]
+  },
+  {
+   "word": "Goa",
+   "hints": [
+    {
+     "text": "Indian state",
+     "level": 1
+    },
+    {
+     "text": "Beach destination",
+     "level": 1
+    },
+    {
+     "text": "Party scene",
+     "level": 2
+    },
+    {
+     "text": "Portuguese heritage",
+     "level": 2
+    },
+    {
+     "text": "Sandy beaches",
+     "level": 3
+    },
+    {
+     "text": "Seafood shacks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kerala",
+    "Pondicherry",
+    "Mumbai"
+   ]
+  },
+  {
+   "word": "Varanasi",
+   "hints": [
+    {
+     "text": "Indian city",
+     "level": 1
+    },
+    {
+     "text": "Holy city",
+     "level": 1
+    },
+    {
+     "text": "Ancient spiritual center",
+     "level": 2
+    },
+    {
+     "text": "River rituals",
+     "level": 2
+    },
+    {
+     "text": "Ghats and boats",
+     "level": 3
+    },
+    {
+     "text": "Evening lamp ceremony",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rishikesh",
+    "Haridwar",
+    "Allahabad"
+   ]
+  },
+  {
+   "word": "Beijing",
+   "hints": [
+    {
+     "text": "Asian capital",
+     "level": 1
+    },
+    {
+     "text": "Ancient city",
+     "level": 1
+    },
+    {
+     "text": "Imperial history",
+     "level": 2
+    },
+    {
+     "text": "Olympic host",
+     "level": 2
+    },
+    {
+     "text": "Forbidden palace",
+     "level": 3
+    },
+    {
+     "text": "Peking duck",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shanghai",
+    "Seoul",
+    "Tokyo"
+   ]
+  },
+  {
+   "word": "Shanghai",
+   "hints": [
+    {
+     "text": "Chinese city",
+     "level": 1
+    },
+    {
+     "text": "Huge port",
+     "level": 1
+    },
+    {
+     "text": "Financial hub",
+     "level": 2
+    },
+    {
+     "text": "Futuristic skyline",
+     "level": 2
+    },
+    {
+     "text": "Riverside promenade",
+     "level": 3
+    },
+    {
+     "text": "Soup dumplings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Beijing",
+    "Hong kong",
+    "Shenzhen"
+   ]
+  },
+  {
+   "word": "Hong kong",
+   "hints": [
+    {
+     "text": "Asian city",
+     "level": 1
+    },
+    {
+     "text": "Harbor city",
+     "level": 1
+    },
+    {
+     "text": "Dim sum",
+     "level": 2
+    },
+    {
+     "text": "Shopping paradise",
+     "level": 2
+    },
+    {
+     "text": "Star ferry",
+     "level": 3
+    },
+    {
+     "text": "Dense skyscrapers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Singapore",
+    "Macau",
+    "Shanghai"
+   ]
+  },
+  {
+   "word": "Seoul",
+   "hints": [
+    {
+     "text": "Asian capital",
+     "level": 1
+    },
+    {
+     "text": "Modern city",
+     "level": 1
+    },
+    {
+     "text": "Pop music hub",
+     "level": 2
+    },
+    {
+     "text": "Late night food",
+     "level": 2
+    },
+    {
+     "text": "Palaces and towers",
+     "level": 3
+    },
+    {
+     "text": "Kimchi stew",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Busan",
+    "Tokyo",
+    "Beijing"
+   ]
+  },
+  {
+   "word": "Bangkok",
+   "hints": [
+    {
+     "text": "Asian capital",
+     "level": 1
+    },
+    {
+     "text": "Busy city",
+     "level": 1
+    },
+    {
+     "text": "Street food heaven",
+     "level": 2
+    },
+    {
+     "text": "Floating markets",
+     "level": 2
+    },
+    {
+     "text": "Tuk tuks",
+     "level": 3
+    },
+    {
+     "text": "Golden temples",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Phuket",
+    "Hanoi",
+    "Manila"
+   ]
+  },
+  {
+   "word": "Singapore city",
+   "hints": [
+    {
+     "text": "Asian hub",
+     "level": 1
+    },
+    {
+     "text": "Garden island",
+     "level": 1
+    },
+    {
+     "text": "Very clean",
+     "level": 2
+    },
+    {
+     "text": "Hawker centers",
+     "level": 2
+    },
+    {
+     "text": "Lion statue fountain",
+     "level": 3
+    },
+    {
+     "text": "Giant supertrees",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kuala lumpur",
+    "Hong kong",
+    "Jakarta"
+   ]
+  },
+  {
+   "word": "Sydney",
+   "hints": [
+    {
+     "text": "Australian city",
+     "level": 1
+    },
+    {
+     "text": "Harbor city",
+     "level": 1
+    },
+    {
+     "text": "Famous beaches",
+     "level": 2
+    },
+    {
+     "text": "New year fireworks",
+     "level": 2
+    },
+    {
+     "text": "Sail shaped opera house",
+     "level": 3
+    },
+    {
+     "text": "Big arch bridge",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Melbourne",
+    "Brisbane",
+    "Auckland"
+   ]
+  },
+  {
+   "word": "Melbourne",
+   "hints": [
+    {
+     "text": "Australian city",
+     "level": 1
+    },
+    {
+     "text": "Cultural city",
+     "level": 1
+    },
+    {
+     "text": "Coffee culture",
+     "level": 2
+    },
+    {
+     "text": "Tennis tournament",
+     "level": 2
+    },
+    {
+     "text": "Laneway art",
+     "level": 3
+    },
+    {
+     "text": "Historic trams",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sydney",
+    "Adelaide",
+    "Perth"
+   ]
+  },
+  {
+   "word": "Los angeles",
+   "hints": [
+    {
+     "text": "American city",
+     "level": 1
+    },
+    {
+     "text": "Sprawling city",
+     "level": 1
+    },
+    {
+     "text": "Film industry",
+     "level": 2
+    },
+    {
+     "text": "Traffic jams",
+     "level": 2
+    },
+    {
+     "text": "Hillside sign",
+     "level": 3
+    },
+    {
+     "text": "Beaches and palm trees",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "San diego",
+    "Las vegas",
+    "San francisco"
+   ]
+  },
+  {
+   "word": "Chicago",
+   "hints": [
+    {
+     "text": "American city",
+     "level": 1
+    },
+    {
+     "text": "Windy city",
+     "level": 1
+    },
+    {
+     "text": "Deep dish pizza",
+     "level": 2
+    },
+    {
+     "text": "Blues music",
+     "level": 2
+    },
+    {
+     "text": "Shiny bean sculpture",
+     "level": 3
+    },
+    {
+     "text": "Lakefront skyline",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Detroit",
+    "New york",
+    "Boston"
+   ]
+  },
+  {
+   "word": "San francisco",
+   "hints": [
+    {
+     "text": "American city",
+     "level": 1
+    },
+    {
+     "text": "Hilly city",
+     "level": 1
+    },
+    {
+     "text": "Tech startups",
+     "level": 2
+    },
+    {
+     "text": "Foggy summers",
+     "level": 2
+    },
+    {
+     "text": "Red suspension bridge",
+     "level": 3
+    },
+    {
+     "text": "Cable cars",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Seattle",
+    "Los angeles",
+    "Oakland"
+   ]
+  },
+  {
+   "word": "Las vegas",
+   "hints": [
+    {
+     "text": "American city",
+     "level": 1
+    },
+    {
+     "text": "Desert city",
+     "level": 1
+    },
+    {
+     "text": "Casinos everywhere",
+     "level": 2
+    },
+    {
+     "text": "Quick weddings",
+     "level": 2
+    },
+    {
+     "text": "Neon strip",
+     "level": 3
+    },
+    {
+     "text": "Magic shows",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Reno",
+    "Atlantic city",
+    "Macau"
+   ]
+  },
+  {
+   "word": "Miami",
+   "hints": [
+    {
+     "text": "American city",
+     "level": 1
+    },
+    {
+     "text": "Beach city",
+     "level": 1
+    },
+    {
+     "text": "Latin culture",
+     "level": 2
+    },
+    {
+     "text": "Art deco buildings",
+     "level": 2
+    },
+    {
+     "text": "Palm lined beaches",
+     "level": 3
+    },
+    {
+     "text": "Cuban coffee",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Orlando",
+    "Havana",
+    "Cancun"
+   ]
+  },
+  {
+   "word": "Boston",
+   "hints": [
+    {
+     "text": "American city",
+     "level": 1
+    },
+    {
+     "text": "Historic city",
+     "level": 1
+    },
+    {
+     "text": "Famous universities",
+     "level": 2
+    },
+    {
+     "text": "Tea party history",
+     "level": 2
+    },
+    {
+     "text": "Clam chowder",
+     "level": 3
+    },
+    {
+     "text": "Freedom trail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Philadelphia",
+    "New york",
+    "Chicago"
+   ]
+  },
+  {
+   "word": "Washington",
+   "hints": [
+    {
+     "text": "American capital",
+     "level": 1
+    },
+    {
+     "text": "Political city",
+     "level": 1
+    },
+    {
+     "text": "White house",
+     "level": 2
+    },
+    {
+     "text": "Cherry blossoms",
+     "level": 2
+    },
+    {
+     "text": "Tall obelisk",
+     "level": 3
+    },
+    {
+     "text": "Marble memorials",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Boston",
+    "Philadelphia",
+    "Ottawa"
+   ]
+  },
+  {
+   "word": "Seattle",
+   "hints": [
+    {
+     "text": "American city",
+     "level": 1
+    },
+    {
+     "text": "Rainy city",
+     "level": 1
+    },
+    {
+     "text": "Coffee culture",
+     "level": 2
+    },
+    {
+     "text": "Tech giants",
+     "level": 2
+    },
+    {
+     "text": "Space needle tower",
+     "level": 3
+    },
+    {
+     "text": "Fish throwing market",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Portland",
+    "Vancouver",
+    "San francisco"
+   ]
+  },
+  {
+   "word": "Toronto",
+   "hints": [
+    {
+     "text": "Canadian city",
+     "level": 1
+    },
+    {
+     "text": "Big city",
+     "level": 1
+    },
+    {
+     "text": "Multicultural",
+     "level": 2
+    },
+    {
+     "text": "Hockey fans",
+     "level": 2
+    },
+    {
+     "text": "Tall needle tower",
+     "level": 3
+    },
+    {
+     "text": "Lake views",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Vancouver",
+    "Montreal",
+    "Chicago"
+   ]
+  },
+  {
+   "word": "Vancouver",
+   "hints": [
+    {
+     "text": "Canadian city",
+     "level": 1
+    },
+    {
+     "text": "Coastal city",
+     "level": 1
+    },
+    {
+     "text": "Mountains and ocean",
+     "level": 2
+    },
+    {
+     "text": "Very rainy",
+     "level": 2
+    },
+    {
+     "text": "Seaplanes",
+     "level": 3
+    },
+    {
+     "text": "Stanley park",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Seattle",
+    "Toronto",
+    "Victoria"
+   ]
+  },
+  {
+   "word": "Montreal",
+   "hints": [
+    {
+     "text": "Canadian city",
+     "level": 1
+    },
+    {
+     "text": "French speaking city",
+     "level": 1
+    },
+    {
+     "text": "Bagels and poutine",
+     "level": 2
+    },
+    {
+     "text": "Jazz festival",
+     "level": 2
+    },
+    {
+     "text": "Underground city",
+     "level": 3
+    },
+    {
+     "text": "Cobblestone old town",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Quebec",
+    "Toronto",
+    "Paris"
+   ]
+  },
+  {
+   "word": "Mexico city",
+   "hints": [
+    {
+     "text": "Mexican capital",
+     "level": 1
+    },
+    {
+     "text": "Huge metropolis",
+     "level": 1
+    },
+    {
+     "text": "Built on a lake",
+     "level": 2
+    },
+    {
+     "text": "Street tacos",
+     "level": 2
+    },
+    {
+     "text": "Ancient pyramids nearby",
+     "level": 3
+    },
+    {
+     "text": "Colorful boats",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Guadalajara",
+    "Bogota",
+    "Lima"
+   ]
+  },
+  {
+   "word": "Rio",
+   "hints": [
+    {
+     "text": "Brazilian city",
+     "level": 1
+    },
+    {
+     "text": "Beach city",
+     "level": 1
+    },
+    {
+     "text": "Carnival parade",
+     "level": 2
+    },
+    {
+     "text": "Samba music",
+     "level": 2
+    },
+    {
+     "text": "Big statue on mountain",
+     "level": 3
+    },
+    {
+     "text": "Copacabana beach",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sao paulo",
+    "Buenos aires",
+    "Salvador"
+   ]
+  },
+  {
+   "word": "Buenos aires",
+   "hints": [
+    {
+     "text": "Argentine capital",
+     "level": 1
+    },
+    {
+     "text": "South american city",
+     "level": 1
+    },
+    {
+     "text": "Tango dancing",
+     "level": 2
+    },
+    {
+     "text": "Steak houses",
+     "level": 2
+    },
+    {
+     "text": "Colorful houses",
+     "level": 3
+    },
+    {
+     "text": "Wide avenues",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Montevideo",
+    "Santiago",
+    "Rio"
+   ]
+  },
+  {
+   "word": "Lima",
+   "hints": [
+    {
+     "text": "Peruvian capital",
+     "level": 1
+    },
+    {
+     "text": "Coastal city",
+     "level": 1
+    },
+    {
+     "text": "Food capital",
+     "level": 2
+    },
+    {
+     "text": "Spanish colonial",
+     "level": 2
+    },
+    {
+     "text": "Ceviche",
+     "level": 3
+    },
+    {
+     "text": "Cliffside parks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Quito",
+    "Bogota",
+    "Santiago"
+   ]
+  },
+  {
+   "word": "Cairo",
+   "hints": [
+    {
+     "text": "Egyptian capital",
+     "level": 1
+    },
+    {
+     "text": "African metropolis",
+     "level": 1
+    },
+    {
+     "text": "Ancient wonders nearby",
+     "level": 2
+    },
+    {
+     "text": "Busy bazaars",
+     "level": 2
+    },
+    {
+     "text": "Pyramids on edge",
+     "level": 3
+    },
+    {
+     "text": "Nile river",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Alexandria",
+    "Istanbul",
+    "Dubai"
+   ]
+  },
+  {
+   "word": "Istanbul",
+   "hints": [
+    {
+     "text": "Turkish city",
+     "level": 1
+    },
+    {
+     "text": "Bridge of continents",
+     "level": 1
+    },
+    {
+     "text": "Grand bazaar",
+     "level": 2
+    },
+    {
+     "text": "Two continents",
+     "level": 2
+    },
+    {
+     "text": "Domed mosques",
+     "level": 3
+    },
+    {
+     "text": "Bosphorus strait",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Athens",
+    "Cairo",
+    "Ankara"
+   ]
+  },
+  {
+   "word": "Athens",
+   "hints": [
+    {
+     "text": "Greek capital",
+     "level": 1
+    },
+    {
+     "text": "Ancient city",
+     "level": 1
+    },
+    {
+     "text": "Birthplace of democracy",
+     "level": 2
+    },
+    {
+     "text": "Olympic history",
+     "level": 2
+    },
+    {
+     "text": "Hilltop temple",
+     "level": 3
+    },
+    {
+     "text": "Ancient ruins",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rome",
+    "Istanbul",
+    "Sparta"
+   ]
+  },
+  {
+   "word": "Barcelona",
+   "hints": [
+    {
+     "text": "Spanish city",
+     "level": 1
+    },
+    {
+     "text": "Coastal city",
+     "level": 1
+    },
+    {
+     "text": "Famous football club",
+     "level": 2
+    },
+    {
+     "text": "Quirky architecture",
+     "level": 2
+    },
+    {
+     "text": "Unfinished basilica",
+     "level": 3
+    },
+    {
+     "text": "Las ramblas",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Madrid",
+    "Valencia",
+    "Lisbon"
+   ]
+  },
+  {
+   "word": "Madrid",
+   "hints": [
+    {
+     "text": "Spanish capital",
+     "level": 1
+    },
+    {
+     "text": "Central city",
+     "level": 1
+    },
+    {
+     "text": "Late dinners",
+     "level": 2
+    },
+    {
+     "text": "Royal palace",
+     "level": 2
+    },
+    {
+     "text": "Art museums",
+     "level": 3
+    },
+    {
+     "text": "Football rivalry",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Barcelona",
+    "Lisbon",
+    "Seville"
+   ]
+  },
+  {
+   "word": "Lisbon",
+   "hints": [
+    {
+     "text": "Portuguese capital",
+     "level": 1
+    },
+    {
+     "text": "Hilly city",
+     "level": 1
+    },
+    {
+     "text": "Yellow trams",
+     "level": 2
+    },
+    {
+     "text": "Custard tarts",
+     "level": 2
+    },
+    {
+     "text": "Fado music",
+     "level": 3
+    },
+    {
+     "text": "Coastal hills",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Porto",
+    "Madrid",
+    "Barcelona"
+   ]
+  },
+  {
+   "word": "Amsterdam",
+   "hints": [
+    {
+     "text": "Dutch capital",
+     "level": 1
+    },
+    {
+     "text": "Canal city",
+     "level": 1
+    },
+    {
+     "text": "Bicycles everywhere",
+     "level": 2
+    },
+    {
+     "text": "Museum hub",
+     "level": 2
+    },
+    {
+     "text": "Canal houses",
+     "level": 3
+    },
+    {
+     "text": "Tulip markets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Brussels",
+    "Copenhagen",
+    "Rotterdam"
+   ]
+  },
+  {
+   "word": "Berlin",
+   "hints": [
+    {
+     "text": "German capital",
+     "level": 1
+    },
+    {
+     "text": "Historic city",
+     "level": 1
+    },
+    {
+     "text": "Divided by a wall",
+     "level": 2
+    },
+    {
+     "text": "Techno clubs",
+     "level": 2
+    },
+    {
+     "text": "Famous gate",
+     "level": 3
+    },
+    {
+     "text": "Currywurst",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Munich",
+    "Vienna",
+    "Prague"
+   ]
+  },
+  {
+   "word": "Munich",
+   "hints": [
+    {
+     "text": "German city",
+     "level": 1
+    },
+    {
+     "text": "Bavarian capital",
+     "level": 1
+    },
+    {
+     "text": "Autumn festival host",
+     "level": 2
+    },
+    {
+     "text": "Football club",
+     "level": 2
+    },
+    {
+     "text": "Pretzels",
+     "level": 3
+    },
+    {
+     "text": "Alpine views",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Berlin",
+    "Vienna",
+    "Zurich"
+   ]
+  },
+  {
+   "word": "Vienna",
+   "hints": [
+    {
+     "text": "Austrian capital",
+     "level": 1
+    },
+    {
+     "text": "Imperial city",
+     "level": 1
+    },
+    {
+     "text": "Classical music",
+     "level": 2
+    },
+    {
+     "text": "Coffee houses",
+     "level": 2
+    },
+    {
+     "text": "Opera balls",
+     "level": 3
+    },
+    {
+     "text": "Palaces",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Prague",
+    "Budapest",
+    "Salzburg"
+   ]
+  },
+  {
+   "word": "Prague",
+   "hints": [
+    {
+     "text": "Czech capital",
+     "level": 1
+    },
+    {
+     "text": "Fairytale city",
+     "level": 1
+    },
+    {
+     "text": "Castle district",
+     "level": 2
+    },
+    {
+     "text": "Gothic spires",
+     "level": 2
+    },
+    {
+     "text": "Astronomical clock",
+     "level": 3
+    },
+    {
+     "text": "Old bridge",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Vienna",
+    "Budapest",
+    "Krakow"
+   ]
+  },
+  {
+   "word": "Budapest",
+   "hints": [
+    {
+     "text": "Hungarian capital",
+     "level": 1
+    },
+    {
+     "text": "River city",
+     "level": 1
+    },
+    {
+     "text": "Thermal baths",
+     "level": 2
+    },
+    {
+     "text": "Two halves",
+     "level": 2
+    },
+    {
+     "text": "Parliament on river",
+     "level": 3
+    },
+    {
+     "text": "Chain bridge",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Vienna",
+    "Prague",
+    "Bratislava"
+   ]
+  },
+  {
+   "word": "Venice",
+   "hints": [
+    {
+     "text": "Italian city",
+     "level": 1
+    },
+    {
+     "text": "Canal city",
+     "level": 1
+    },
+    {
+     "text": "Gondola rides",
+     "level": 2
+    },
+    {
+     "text": "Sinking slowly",
+     "level": 2
+    },
+    {
+     "text": "Masked carnival",
+     "level": 3
+    },
+    {
+     "text": "No cars",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Florence",
+    "Amsterdam",
+    "Milan"
+   ]
+  },
+  {
+   "word": "Florence",
+   "hints": [
+    {
+     "text": "Italian city",
+     "level": 1
+    },
+    {
+     "text": "Renaissance city",
+     "level": 1
+    },
+    {
+     "text": "Art masterpieces",
+     "level": 2
+    },
+    {
+     "text": "Leather markets",
+     "level": 2
+    },
+    {
+     "text": "Famous dome",
+     "level": 3
+    },
+    {
+     "text": "Marble statue",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Venice",
+    "Rome",
+    "Siena"
+   ]
+  },
+  {
+   "word": "Milan",
+   "hints": [
+    {
+     "text": "Italian city",
+     "level": 1
+    },
+    {
+     "text": "Fashion city",
+     "level": 1
+    },
+    {
+     "text": "Fashion week",
+     "level": 2
+    },
+    {
+     "text": "Football rivalry",
+     "level": 2
+    },
+    {
+     "text": "Gothic cathedral",
+     "level": 3
+    },
+    {
+     "text": "Famous last supper",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rome",
+    "Turin",
+    "Florence"
+   ]
+  },
+  {
+   "word": "Moscow",
+   "hints": [
+    {
+     "text": "Russian capital",
+     "level": 1
+    },
+    {
+     "text": "Huge city",
+     "level": 1
+    },
+    {
+     "text": "Freezing winters",
+     "level": 2
+    },
+    {
+     "text": "Ballet theatre",
+     "level": 2
+    },
+    {
+     "text": "Red square",
+     "level": 3
+    },
+    {
+     "text": "Colorful onion domes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Saint petersburg",
+    "Kyiv",
+    "Minsk"
+   ]
+  },
+  {
+   "word": "Dublin",
+   "hints": [
+    {
+     "text": "Irish capital",
+     "level": 1
+    },
+    {
+     "text": "Historic city",
+     "level": 1
+    },
+    {
+     "text": "Pub culture",
+     "level": 2
+    },
+    {
+     "text": "Famous writers",
+     "level": 2
+    },
+    {
+     "text": "Stout brewery",
+     "level": 3
+    },
+    {
+     "text": "River liffey",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "London",
+    "Edinburgh",
+    "Belfast"
+   ]
+  },
+  {
+   "word": "Edinburgh",
+   "hints": [
+    {
+     "text": "Scottish capital",
+     "level": 1
+    },
+    {
+     "text": "Historic city",
+     "level": 1
+    },
+    {
+     "text": "Arts festival",
+     "level": 2
+    },
+    {
+     "text": "Old town",
+     "level": 2
+    },
+    {
+     "text": "Castle on rock",
+     "level": 3
+    },
+    {
+     "text": "Bagpipe music",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Glasgow",
+    "Dublin",
+    "London"
+   ]
+  },
+  {
+   "word": "Copenhagen",
+   "hints": [
+    {
+     "text": "Danish capital",
+     "level": 1
+    },
+    {
+     "text": "Harbor city",
+     "level": 1
+    },
+    {
+     "text": "Cycling city",
+     "level": 2
+    },
+    {
+     "text": "Happiest people",
+     "level": 2
+    },
+    {
+     "text": "Colorful harbor houses",
+     "level": 3
+    },
+    {
+     "text": "Mermaid statue",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Stockholm",
+    "Oslo",
+    "Amsterdam"
+   ]
+  },
+  {
+   "word": "Stockholm",
+   "hints": [
+    {
+     "text": "Swedish capital",
+     "level": 1
+    },
+    {
+     "text": "Island city",
+     "level": 1
+    },
+    {
+     "text": "Built on islands",
+     "level": 2
+    },
+    {
+     "text": "Nobel ceremony",
+     "level": 2
+    },
+    {
+     "text": "Old town",
+     "level": 3
+    },
+    {
+     "text": "Pop music history",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Oslo",
+    "Copenhagen",
+    "Helsinki"
+   ]
+  },
+  {
+   "word": "Oslo",
+   "hints": [
+    {
+     "text": "Norwegian capital",
+     "level": 1
+    },
+    {
+     "text": "Fjord city",
+     "level": 1
+    },
+    {
+     "text": "Peace prize",
+     "level": 2
+    },
+    {
+     "text": "Ski jump",
+     "level": 2
+    },
+    {
+     "text": "Viking ship museum",
+     "level": 3
+    },
+    {
+     "text": "Opera roof walk",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Stockholm",
+    "Bergen",
+    "Copenhagen"
+   ]
+  },
+  {
+   "word": "Helsinki",
+   "hints": [
+    {
+     "text": "Finnish capital",
+     "level": 1
+    },
+    {
+     "text": "Northern city",
+     "level": 1
+    },
+    {
+     "text": "Sauna culture",
+     "level": 2
+    },
+    {
+     "text": "Design hub",
+     "level": 2
+    },
+    {
+     "text": "Island fortress",
+     "level": 3
+    },
+    {
+     "text": "White cathedral",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Stockholm",
+    "Tallinn",
+    "Oslo"
+   ]
+  },
+  {
+   "word": "Reykjavik",
+   "hints": [
+    {
+     "text": "Icelandic capital",
+     "level": 1
+    },
+    {
+     "text": "Northernmost capital",
+     "level": 1
+    },
+    {
+     "text": "Northern lights",
+     "level": 2
+    },
+    {
+     "text": "Geothermal pools",
+     "level": 2
+    },
+    {
+     "text": "Rocket shaped church",
+     "level": 3
+    },
+    {
+     "text": "Colorful roofs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Oslo",
+    "Helsinki",
+    "Nuuk"
+   ]
+  },
+  {
+   "word": "Zurich",
+   "hints": [
+    {
+     "text": "Swiss city",
+     "level": 1
+    },
+    {
+     "text": "Banking city",
+     "level": 1
+    },
+    {
+     "text": "Very expensive",
+     "level": 2
+    },
+    {
+     "text": "Chocolate shops",
+     "level": 2
+    },
+    {
+     "text": "Lake views",
+     "level": 3
+    },
+    {
+     "text": "Alpine backdrop",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Geneva",
+    "Munich",
+    "Vienna"
+   ]
+  },
+  {
+   "word": "Geneva",
+   "hints": [
+    {
+     "text": "Swiss city",
+     "level": 1
+    },
+    {
+     "text": "Diplomatic city",
+     "level": 1
+    },
+    {
+     "text": "Peace talks",
+     "level": 2
+    },
+    {
+     "text": "Luxury watches",
+     "level": 2
+    },
+    {
+     "text": "Giant lake fountain",
+     "level": 3
+    },
+    {
+     "text": "Mountains nearby",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Zurich",
+    "Lyon",
+    "Brussels"
+   ]
+  },
+  {
+   "word": "Brussels",
+   "hints": [
+    {
+     "text": "Belgian capital",
+     "level": 1
+    },
+    {
+     "text": "European hub",
+     "level": 1
+    },
+    {
+     "text": "Waffles",
+     "level": 2
+    },
+    {
+     "text": "Chocolate shops",
+     "level": 2
+    },
+    {
+     "text": "Grand square",
+     "level": 3
+    },
+    {
+     "text": "Atomium",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Amsterdam",
+    "Paris",
+    "Luxembourg"
+   ]
+  },
+  {
+   "word": "Warsaw",
+   "hints": [
+    {
+     "text": "Polish capital",
+     "level": 1
+    },
+    {
+     "text": "Rebuilt city",
+     "level": 1
+    },
+    {
+     "text": "Composer home",
+     "level": 2
+    },
+    {
+     "text": "Rebuilt old town",
+     "level": 2
+    },
+    {
+     "text": "Mermaid symbol",
+     "level": 3
+    },
+    {
+     "text": "Pierogi",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Krakow",
+    "Prague",
+    "Berlin"
+   ]
+  },
+  {
+   "word": "Krakow",
+   "hints": [
+    {
+     "text": "Polish city",
+     "level": 1
+    },
+    {
+     "text": "Historic city",
+     "level": 1
+    },
+    {
+     "text": "Royal castle",
+     "level": 2
+    },
+    {
+     "text": "Huge market square",
+     "level": 2
+    },
+    {
+     "text": "Dragon legend",
+     "level": 3
+    },
+    {
+     "text": "Salt mine nearby",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Warsaw",
+    "Prague",
+    "Budapest"
+   ]
+  },
+  {
+   "word": "Kyiv",
+   "hints": [
+    {
+     "text": "Ukrainian capital",
+     "level": 1
+    },
+    {
+     "text": "Historic city",
+     "level": 1
+    },
+    {
+     "text": "Golden domes",
+     "level": 2
+    },
+    {
+     "text": "Ancient caves",
+     "level": 2
+    },
+    {
+     "text": "River city",
+     "level": 3
+    },
+    {
+     "text": "Chestnut trees",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Moscow",
+    "Minsk",
+    "Warsaw"
+   ]
+  },
+  {
+   "word": "Nairobi",
+   "hints": [
+    {
+     "text": "Kenyan capital",
+     "level": 1
+    },
+    {
+     "text": "African city",
+     "level": 1
+    },
+    {
+     "text": "Safari gateway",
+     "level": 2
+    },
+    {
+     "text": "Tech hub",
+     "level": 2
+    },
+    {
+     "text": "National park in city",
+     "level": 3
+    },
+    {
+     "text": "Giraffe centre",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mombasa",
+    "Kampala",
+    "Addis ababa"
+   ]
+  },
+  {
+   "word": "Cape town",
+   "hints": [
+    {
+     "text": "South african city",
+     "level": 1
+    },
+    {
+     "text": "Coastal city",
+     "level": 1
+    },
+    {
+     "text": "Vineyard country",
+     "level": 2
+    },
+    {
+     "text": "Penguin beach",
+     "level": 2
+    },
+    {
+     "text": "Flat topped mountain",
+     "level": 3
+    },
+    {
+     "text": "Island prison",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Johannesburg",
+    "Durban",
+    "Sydney"
+   ]
+  },
+  {
+   "word": "Lagos",
+   "hints": [
+    {
+     "text": "Nigerian city",
+     "level": 1
+    },
+    {
+     "text": "Huge metropolis",
+     "level": 1
+    },
+    {
+     "text": "Music scene",
+     "level": 2
+    },
+    {
+     "text": "Traffic jams",
+     "level": 2
+    },
+    {
+     "text": "Jollof rice",
+     "level": 3
+    },
+    {
+     "text": "Lagoon city",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Accra",
+    "Abuja",
+    "Nairobi"
+   ]
+  },
+  {
+   "word": "Marrakech",
+   "hints": [
+    {
+     "text": "Moroccan city",
+     "level": 1
+    },
+    {
+     "text": "Red city",
+     "level": 1
+    },
+    {
+     "text": "Busy souks",
+     "level": 2
+    },
+    {
+     "text": "Snake charmers",
+     "level": 2
+    },
+    {
+     "text": "Main square",
+     "level": 3
+    },
+    {
+     "text": "Riad hotels",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fez",
+    "Casablanca",
+    "Tunis"
+   ]
+  },
+  {
+   "word": "Casablanca",
+   "hints": [
+    {
+     "text": "Moroccan city",
+     "level": 1
+    },
+    {
+     "text": "Port city",
+     "level": 1
+    },
+    {
+     "text": "Classic movie title",
+     "level": 2
+    },
+    {
+     "text": "Business hub",
+     "level": 2
+    },
+    {
+     "text": "Huge seaside mosque",
+     "level": 3
+    },
+    {
+     "text": "White buildings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Marrakech",
+    "Rabat",
+    "Tangier"
+   ]
+  },
+  {
+   "word": "Jerusalem",
+   "hints": [
+    {
+     "text": "Holy city",
+     "level": 1
+    },
+    {
+     "text": "Ancient city",
+     "level": 1
+    },
+    {
+     "text": "Sacred to three faiths",
+     "level": 2
+    },
+    {
+     "text": "Old walls",
+     "level": 2
+    },
+    {
+     "text": "Golden dome",
+     "level": 3
+    },
+    {
+     "text": "Western wall",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bethlehem",
+    "Tel aviv",
+    "Damascus"
+   ]
+  },
+  {
+   "word": "Doha",
+   "hints": [
+    {
+     "text": "Qatari capital",
+     "level": 1
+    },
+    {
+     "text": "Gulf city",
+     "level": 1
+    },
+    {
+     "text": "World cup host",
+     "level": 2
+    },
+    {
+     "text": "Futuristic skyline",
+     "level": 2
+    },
+    {
+     "text": "Museum of islamic art",
+     "level": 3
+    },
+    {
+     "text": "Desert dunes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dubai",
+    "Abu dhabi",
+    "Manama"
+   ]
+  },
+  {
+   "word": "Abu dhabi",
+   "hints": [
+    {
+     "text": "Emirati capital",
+     "level": 1
+    },
+    {
+     "text": "Gulf city",
+     "level": 1
+    },
+    {
+     "text": "Oil wealth",
+     "level": 2
+    },
+    {
+     "text": "Grand mosque",
+     "level": 2
+    },
+    {
+     "text": "White marble mosque",
+     "level": 3
+    },
+    {
+     "text": "Theme parks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dubai",
+    "Doha",
+    "Muscat"
+   ]
+  },
+  {
+   "word": "Riyadh",
+   "hints": [
+    {
+     "text": "Saudi capital",
+     "level": 1
+    },
+    {
+     "text": "Desert city",
+     "level": 1
+    },
+    {
+     "text": "Modern skyline",
+     "level": 2
+    },
+    {
+     "text": "Royal kingdom",
+     "level": 2
+    },
+    {
+     "text": "Bottle opener tower",
+     "level": 3
+    },
+    {
+     "text": "Date palms",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jeddah",
+    "Dubai",
+    "Doha"
+   ]
+  },
+  {
+   "word": "Tehran",
+   "hints": [
+    {
+     "text": "Iranian capital",
+     "level": 1
+    },
+    {
+     "text": "Mountain city",
+     "level": 1
+    },
+    {
+     "text": "Huge bazaar",
+     "level": 2
+    },
+    {
+     "text": "Snowy peaks nearby",
+     "level": 2
+    },
+    {
+     "text": "Freedom tower",
+     "level": 3
+    },
+    {
+     "text": "Persian rugs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Isfahan",
+    "Baghdad",
+    "Kabul"
+   ]
+  },
+  {
+   "word": "Kathmandu",
+   "hints": [
+    {
+     "text": "Nepali capital",
+     "level": 1
+    },
+    {
+     "text": "Valley city",
+     "level": 1
+    },
+    {
+     "text": "Trekking gateway",
+     "level": 2
+    },
+    {
+     "text": "Ancient temples",
+     "level": 2
+    },
+    {
+     "text": "Stupas and prayer flags",
+     "level": 3
+    },
+    {
+     "text": "Momos",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pokhara",
+    "Thimphu",
+    "Lhasa"
+   ]
+  },
+  {
+   "word": "Dhaka",
+   "hints": [
+    {
+     "text": "Bangladeshi capital",
+     "level": 1
+    },
+    {
+     "text": "Crowded city",
+     "level": 1
+    },
+    {
+     "text": "Rickshaw capital",
+     "level": 2
+    },
+    {
+     "text": "River trade",
+     "level": 2
+    },
+    {
+     "text": "Pink palace",
+     "level": 3
+    },
+    {
+     "text": "Busy rivers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kolkata",
+    "Karachi",
+    "Yangon"
+   ]
+  },
+  {
+   "word": "Karachi",
+   "hints": [
+    {
+     "text": "Pakistani city",
+     "level": 1
+    },
+    {
+     "text": "Port city",
+     "level": 1
+    },
+    {
+     "text": "Biggest city there",
+     "level": 2
+    },
+    {
+     "text": "Seaside promenade",
+     "level": 2
+    },
+    {
+     "text": "Street food",
+     "level": 3
+    },
+    {
+     "text": "Busy harbor",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lahore",
+    "Mumbai",
+    "Dhaka"
+   ]
+  },
+  {
+   "word": "Lahore",
+   "hints": [
+    {
+     "text": "Pakistani city",
+     "level": 1
+    },
+    {
+     "text": "Cultural city",
+     "level": 1
+    },
+    {
+     "text": "Food lovers",
+     "level": 2
+    },
+    {
+     "text": "Mughal history",
+     "level": 2
+    },
+    {
+     "text": "Great mosque",
+     "level": 3
+    },
+    {
+     "text": "Old walled city",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Karachi",
+    "Delhi",
+    "Amritsar"
+   ]
+  },
+  {
+   "word": "Colombo",
+   "hints": [
+    {
+     "text": "Sri lankan city",
+     "level": 1
+    },
+    {
+     "text": "Port city",
+     "level": 1
+    },
+    {
+     "text": "Colonial buildings",
+     "level": 2
+    },
+    {
+     "text": "Tea trade",
+     "level": 2
+    },
+    {
+     "text": "Seaside green",
+     "level": 3
+    },
+    {
+     "text": "Lotus tower",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kandy",
+    "Male",
+    "Chennai"
+   ]
+  },
+  {
+   "word": "Manila",
+   "hints": [
+    {
+     "text": "Philippine capital",
+     "level": 1
+    },
+    {
+     "text": "Busy metropolis",
+     "level": 1
+    },
+    {
+     "text": "Jeepneys",
+     "level": 2
+    },
+    {
+     "text": "Colonial walled city",
+     "level": 2
+    },
+    {
+     "text": "Bay sunsets",
+     "level": 3
+    },
+    {
+     "text": "Shopping malls",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cebu",
+    "Jakarta",
+    "Bangkok"
+   ]
+  },
+  {
+   "word": "Jakarta",
+   "hints": [
+    {
+     "text": "Indonesian capital",
+     "level": 1
+    },
+    {
+     "text": "Huge metropolis",
+     "level": 1
+    },
+    {
+     "text": "Traffic jams",
+     "level": 2
+    },
+    {
+     "text": "Sinking city",
+     "level": 2
+    },
+    {
+     "text": "National monument",
+     "level": 3
+    },
+    {
+     "text": "Street food",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bali",
+    "Manila",
+    "Kuala lumpur"
+   ]
+  },
+  {
+   "word": "Kuala lumpur",
+   "hints": [
+    {
+     "text": "Malaysian capital",
+     "level": 1
+    },
+    {
+     "text": "Modern city",
+     "level": 1
+    },
+    {
+     "text": "Twin towers",
+     "level": 2
+    },
+    {
+     "text": "Food heaven",
+     "level": 2
+    },
+    {
+     "text": "Cave temples nearby",
+     "level": 3
+    },
+    {
+     "text": "Night markets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Singapore city",
+    "Jakarta",
+    "Bangkok"
+   ]
+  },
+  {
+   "word": "Hanoi",
+   "hints": [
+    {
+     "text": "Vietnamese capital",
+     "level": 1
+    },
+    {
+     "text": "Historic city",
+     "level": 1
+    },
+    {
+     "text": "Motorbike chaos",
+     "level": 2
+    },
+    {
+     "text": "Old quarter",
+     "level": 2
+    },
+    {
+     "text": "Lake with pagoda",
+     "level": 3
+    },
+    {
+     "text": "Pho stalls",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Saigon",
+    "Bangkok",
+    "Vientiane"
+   ]
+  },
+  {
+   "word": "Kyoto",
+   "hints": [
+    {
+     "text": "Japanese city",
+     "level": 1
+    },
+    {
+     "text": "Ancient capital",
+     "level": 1
+    },
+    {
+     "text": "Thousands of temples",
+     "level": 2
+    },
+    {
+     "text": "Geisha district",
+     "level": 2
+    },
+    {
+     "text": "Bamboo grove",
+     "level": 3
+    },
+    {
+     "text": "Golden pavilion",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tokyo",
+    "Osaka",
+    "Nara"
+   ]
+  },
+  {
+   "word": "Osaka",
+   "hints": [
+    {
+     "text": "Japanese city",
+     "level": 1
+    },
+    {
+     "text": "Food city",
+     "level": 1
+    },
+    {
+     "text": "Street food capital",
+     "level": 2
+    },
+    {
+     "text": "Comedy hub",
+     "level": 2
+    },
+    {
+     "text": "Neon canal",
+     "level": 3
+    },
+    {
+     "text": "Takoyaki balls",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tokyo",
+    "Kyoto",
+    "Kobe"
+   ]
+  },
+  {
+   "word": "Shenzhen",
+   "hints": [
+    {
+     "text": "Chinese city",
+     "level": 1
+    },
+    {
+     "text": "Tech city",
+     "level": 1
+    },
+    {
+     "text": "Electronics markets",
+     "level": 2
+    },
+    {
+     "text": "Fast growth",
+     "level": 2
+    },
+    {
+     "text": "Factory hub",
+     "level": 3
+    },
+    {
+     "text": "Modern skyline",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shanghai",
+    "Hong kong",
+    "Guangzhou"
+   ]
+  },
+  {
+   "word": "Macau",
+   "hints": [
+    {
+     "text": "Asian city",
+     "level": 1
+    },
+    {
+     "text": "Gambling city",
+     "level": 1
+    },
+    {
+     "text": "Casino resorts",
+     "level": 2
+    },
+    {
+     "text": "Portuguese heritage",
+     "level": 2
+    },
+    {
+     "text": "Egg tarts",
+     "level": 3
+    },
+    {
+     "text": "Cobbled squares",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hong kong",
+    "Las vegas",
+    "Singapore city"
+   ]
+  },
+  {
+   "word": "Auckland",
+   "hints": [
+    {
+     "text": "New zealand city",
+     "level": 1
+    },
+    {
+     "text": "Harbor city",
+     "level": 1
+    },
+    {
+     "text": "City of sails",
+     "level": 2
+    },
+    {
+     "text": "Volcanic cones",
+     "level": 2
+    },
+    {
+     "text": "Sky tower",
+     "level": 3
+    },
+    {
+     "text": "Islands nearby",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wellington",
+    "Sydney",
+    "Christchurch"
+   ]
+  },
+  {
+   "word": "Honolulu",
+   "hints": [
+    {
+     "text": "Hawaiian city",
+     "level": 1
+    },
+    {
+     "text": "Island city",
+     "level": 1
+    },
+    {
+     "text": "Surfing beaches",
+     "level": 2
+    },
+    {
+     "text": "Tropical paradise",
+     "level": 2
+    },
+    {
+     "text": "Famous beach strip",
+     "level": 3
+    },
+    {
+     "text": "Volcanic crater",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Miami",
+    "Fiji",
+    "San diego"
+   ]
+  },
+  {
+   "word": "Havana",
+   "hints": [
+    {
+     "text": "Cuban capital",
+     "level": 1
+    },
+    {
+     "text": "Caribbean city",
+     "level": 1
+    },
+    {
+     "text": "Classic cars",
+     "level": 2
+    },
+    {
+     "text": "Salsa music",
+     "level": 2
+    },
+    {
+     "text": "Seaside wall",
+     "level": 3
+    },
+    {
+     "text": "Colorful colonial",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Miami",
+    "San juan",
+    "Cartagena"
+   ]
+  },
+  {
+   "word": "Cancun",
+   "hints": [
+    {
+     "text": "Mexican city",
+     "level": 1
+    },
+    {
+     "text": "Beach resort",
+     "level": 1
+    },
+    {
+     "text": "Spring break",
+     "level": 2
+    },
+    {
+     "text": "Turquoise sea",
+     "level": 2
+    },
+    {
+     "text": "Mayan ruins nearby",
+     "level": 3
+    },
+    {
+     "text": "Hotel strip",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Miami",
+    "Tulum",
+    "Havana"
+   ]
+  },
+  {
+   "word": "Santiago",
+   "hints": [
+    {
+     "text": "Chilean capital",
+     "level": 1
+    },
+    {
+     "text": "Andes city",
+     "level": 1
+    },
+    {
+     "text": "Mountain backdrop",
+     "level": 2
+    },
+    {
+     "text": "Vineyard valleys",
+     "level": 2
+    },
+    {
+     "text": "Hilltop funicular",
+     "level": 3
+    },
+    {
+     "text": "Snowy peaks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lima",
+    "Buenos aires",
+    "Bogota"
+   ]
+  },
+  {
+   "word": "Bogota",
+   "hints": [
+    {
+     "text": "Colombian capital",
+     "level": 1
+    },
+    {
+     "text": "High city",
+     "level": 1
+    },
+    {
+     "text": "Street art",
+     "level": 2
+    },
+    {
+     "text": "Coffee culture",
+     "level": 2
+    },
+    {
+     "text": "Mountain sanctuary",
+     "level": 3
+    },
+    {
+     "text": "Gold museum",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Medellin",
+    "Quito",
+    "Lima"
+   ]
+  },
+  {
+   "word": "Sao paulo",
+   "hints": [
+    {
+     "text": "Brazilian city",
+     "level": 1
+    },
+    {
+     "text": "Huge metropolis",
+     "level": 1
+    },
+    {
+     "text": "Biggest southern city",
+     "level": 2
+    },
+    {
+     "text": "Business hub",
+     "level": 2
+    },
+    {
+     "text": "Endless skyline",
+     "level": 3
+    },
+    {
+     "text": "Pizza lovers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rio",
+    "Buenos aires",
+    "Mexico city"
+   ]
+  },
+  {
+   "word": "Philadelphia",
+   "hints": [
+    {
+     "text": "American city",
+     "level": 1
+    },
+    {
+     "text": "Historic city",
+     "level": 1
+    },
+    {
+     "text": "Founding fathers",
+     "level": 2
+    },
+    {
+     "text": "Cheesesteak",
+     "level": 2
+    },
+    {
+     "text": "Cracked bell",
+     "level": 3
+    },
+    {
+     "text": "Museum steps",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Boston",
+    "New york",
+    "Washington"
+   ]
+  },
+  {
+   "word": "Orlando",
+   "hints": [
+    {
+     "text": "American city",
+     "level": 1
+    },
+    {
+     "text": "Theme park capital",
+     "level": 1
+    },
+    {
+     "text": "Family vacations",
+     "level": 2
+    },
+    {
+     "text": "Hot and humid",
+     "level": 2
+    },
+    {
+     "text": "Mouse castle",
+     "level": 3
+    },
+    {
+     "text": "Roller coasters",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Miami",
+    "Tampa",
+    "Anaheim"
+   ]
+  },
+  {
+   "word": "New orleans",
+   "hints": [
+    {
+     "text": "American city",
+     "level": 1
+    },
+    {
+     "text": "Jazz city",
+     "level": 1
+    },
+    {
+     "text": "Mardi gras",
+     "level": 2
+    },
+    {
+     "text": "Creole food",
+     "level": 2
+    },
+    {
+     "text": "Jazz clubs",
+     "level": 3
+    },
+    {
+     "text": "Beignets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Memphis",
+    "Houston",
+    "Miami"
+   ]
+  },
+  {
+   "word": "Nashville",
+   "hints": [
+    {
+     "text": "American city",
+     "level": 1
+    },
+    {
+     "text": "Music city",
+     "level": 1
+    },
+    {
+     "text": "Country music",
+     "level": 2
+    },
+    {
+     "text": "Hot chicken",
+     "level": 2
+    },
+    {
+     "text": "Honky tonk bars",
+     "level": 3
+    },
+    {
+     "text": "Guitar stores",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Memphis",
+    "Austin",
+    "Atlanta"
+   ]
+  },
+  {
+   "word": "Houston",
+   "hints": [
+    {
+     "text": "American city",
+     "level": 1
+    },
+    {
+     "text": "Space city",
+     "level": 1
+    },
+    {
+     "text": "Mission control",
+     "level": 2
+    },
+    {
+     "text": "Oil industry",
+     "level": 2
+    },
+    {
+     "text": "Rodeo",
+     "level": 3
+    },
+    {
+     "text": "Barbecue",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dallas",
+    "Austin",
+    "Atlanta"
+   ]
+  },
+  {
+   "word": "Atlanta",
+   "hints": [
+    {
+     "text": "American city",
+     "level": 1
+    },
+    {
+     "text": "Southern city",
+     "level": 1
+    },
+    {
+     "text": "Busy airport",
+     "level": 2
+    },
+    {
+     "text": "Peach symbol",
+     "level": 2
+    },
+    {
+     "text": "Civil rights history",
+     "level": 3
+    },
+    {
+     "text": "Soft drink museum",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Houston",
+    "Nashville",
+    "Charlotte"
+   ]
+  },
+  {
+   "word": "Denver",
+   "hints": [
+    {
+     "text": "American city",
+     "level": 1
+    },
+    {
+     "text": "Mile high city",
+     "level": 1
+    },
+    {
+     "text": "Ski trips",
+     "level": 2
+    },
+    {
+     "text": "Craft breweries",
+     "level": 2
+    },
+    {
+     "text": "Rocky mountains",
+     "level": 3
+    },
+    {
+     "text": "Sunny days",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Boise",
+    "Phoenix",
+    "Austin"
+   ]
+  },
+  {
+   "word": "Venice beach",
+   "hints": [
+    {
+     "text": "Californian district",
+     "level": 1
+    },
+    {
+     "text": "Seaside neighborhood",
+     "level": 1
+    },
+    {
+     "text": "Skate park",
+     "level": 2
+    },
+    {
+     "text": "Street performers",
+     "level": 2
+    },
+    {
+     "text": "Outdoor gym",
+     "level": 3
+    },
+    {
+     "text": "Canal homes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Malibu",
+    "Miami beach",
+    "Santa monica"
+   ]
+  },
+  {
+   "word": "Ottawa",
+   "hints": [
+    {
+     "text": "Canadian capital",
+     "level": 1
+    },
+    {
+     "text": "River city",
+     "level": 1
+    },
+    {
+     "text": "Parliament hill",
+     "level": 2
+    },
+    {
+     "text": "Winter skating",
+     "level": 2
+    },
+    {
+     "text": "Frozen canal",
+     "level": 3
+    },
+    {
+     "text": "Tulip festival",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Toronto",
+    "Montreal",
+    "Washington"
+   ]
+  },
+  {
+   "word": "Quebec city",
+   "hints": [
+    {
+     "text": "Canadian capital region",
+     "level": 1
+    },
+    {
+     "text": "Francophone hub",
+     "level": 1
+    },
+    {
+     "text": "Walled old town",
+     "level": 2
+    },
+    {
+     "text": "Winter carnival",
+     "level": 2
+    },
+    {
+     "text": "Castle hotel",
+     "level": 3
+    },
+    {
+     "text": "Cobblestone streets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Montreal",
+    "Paris",
+    "Ottawa"
+   ]
+  },
+  {
+   "word": "Seville",
+   "hints": [
+    {
+     "text": "Spanish city",
+     "level": 1
+    },
+    {
+     "text": "Southern city",
+     "level": 1
+    },
+    {
+     "text": "Flamenco dance",
+     "level": 2
+    },
+    {
+     "text": "Orange trees",
+     "level": 2
+    },
+    {
+     "text": "Huge cathedral",
+     "level": 3
+    },
+    {
+     "text": "Royal palace gardens",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Madrid",
+    "Granada",
+    "Lisbon"
+   ]
+  },
+  {
+   "word": "Porto",
+   "hints": [
+    {
+     "text": "Portuguese city",
+     "level": 1
+    },
+    {
+     "text": "River city",
+     "level": 1
+    },
+    {
+     "text": "Riverside cellars",
+     "level": 2
+    },
+    {
+     "text": "Riverside houses",
+     "level": 2
+    },
+    {
+     "text": "Tiled churches",
+     "level": 3
+    },
+    {
+     "text": "Iron bridge",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lisbon",
+    "Bilbao",
+    "Seville"
+   ]
+  },
+  {
+   "word": "Nice",
+   "hints": [
+    {
+     "text": "French city",
+     "level": 1
+    },
+    {
+     "text": "Riviera city",
+     "level": 1
+    },
+    {
+     "text": "Seaside promenade",
+     "level": 2
+    },
+    {
+     "text": "Pebbly beach",
+     "level": 2
+    },
+    {
+     "text": "Blue bay",
+     "level": 3
+    },
+    {
+     "text": "Flower market",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cannes",
+    "Monaco",
+    "Marseille"
+   ]
+  },
+  {
+   "word": "Marseille",
+   "hints": [
+    {
+     "text": "French city",
+     "level": 1
+    },
+    {
+     "text": "Port city",
+     "level": 1
+    },
+    {
+     "text": "Fish stew",
+     "level": 2
+    },
+    {
+     "text": "Oldest french city",
+     "level": 2
+    },
+    {
+     "text": "Old port",
+     "level": 3
+    },
+    {
+     "text": "Hilltop basilica",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nice",
+    "Lyon",
+    "Genoa"
+   ]
+  },
+  {
+   "word": "Lyon",
+   "hints": [
+    {
+     "text": "French city",
+     "level": 1
+    },
+    {
+     "text": "Food city",
+     "level": 1
+    },
+    {
+     "text": "Gastronomy capital",
+     "level": 2
+    },
+    {
+     "text": "Silk history",
+     "level": 2
+    },
+    {
+     "text": "Two rivers",
+     "level": 3
+    },
+    {
+     "text": "Festival of lights",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Marseille",
+    "Paris",
+    "Geneva"
+   ]
+  },
+  {
+   "word": "Naples",
+   "hints": [
+    {
+     "text": "Italian city",
+     "level": 1
+    },
+    {
+     "text": "Port city",
+     "level": 1
+    },
+    {
+     "text": "Birthplace of pizza",
+     "level": 2
+    },
+    {
+     "text": "Lively streets",
+     "level": 2
+    },
+    {
+     "text": "Volcano nearby",
+     "level": 3
+    },
+    {
+     "text": "Buried city ruins",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rome",
+    "Palermo",
+    "Florence"
+   ]
+  },
+  {
+   "word": "Salzburg",
+   "hints": [
+    {
+     "text": "Austrian city",
+     "level": 1
+    },
+    {
+     "text": "Musical city",
+     "level": 1
+    },
+    {
+     "text": "Famous composer birthplace",
+     "level": 2
+    },
+    {
+     "text": "Musical film",
+     "level": 2
+    },
+    {
+     "text": "Hilltop fortress",
+     "level": 3
+    },
+    {
+     "text": "Baroque old town",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Vienna",
+    "Innsbruck",
+    "Munich"
+   ]
+  },
+  {
+   "word": "Bruges",
+   "hints": [
+    {
+     "text": "Belgian city",
+     "level": 1
+    },
+    {
+     "text": "Medieval city",
+     "level": 1
+    },
+    {
+     "text": "Canals and chocolate",
+     "level": 2
+    },
+    {
+     "text": "Lace makers",
+     "level": 2
+    },
+    {
+     "text": "Bell tower",
+     "level": 3
+    },
+    {
+     "text": "Cobbled squares",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ghent",
+    "Amsterdam",
+    "Brussels"
+   ]
+  },
+  {
+   "word": "Santorini",
+   "hints": [
+    {
+     "text": "Greek island",
+     "level": 1
+    },
+    {
+     "text": "Volcanic island",
+     "level": 1
+    },
+    {
+     "text": "Famous sunsets",
+     "level": 2
+    },
+    {
+     "text": "Honeymoon spot",
+     "level": 2
+    },
+    {
+     "text": "White houses",
+     "level": 3
+    },
+    {
+     "text": "Blue domes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mykonos",
+    "Crete",
+    "Capri"
+   ]
+  },
+  {
+   "word": "Mykonos",
+   "hints": [
+    {
+     "text": "Greek island",
+     "level": 1
+    },
+    {
+     "text": "Party island",
+     "level": 1
+    },
+    {
+     "text": "Windmills",
+     "level": 2
+    },
+    {
+     "text": "Beach clubs",
+     "level": 2
+    },
+    {
+     "text": "White alleys",
+     "level": 3
+    },
+    {
+     "text": "Pelican mascot",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Santorini",
+    "Ibiza",
+    "Crete"
+   ]
+  },
+  {
+   "word": "Bali",
+   "hints": [
+    {
+     "text": "Indonesian island",
+     "level": 1
+    },
+    {
+     "text": "Tropical island",
+     "level": 1
+    },
+    {
+     "text": "Surfing paradise",
+     "level": 2
+    },
+    {
+     "text": "Yoga retreats",
+     "level": 2
+    },
+    {
+     "text": "Rice terraces",
+     "level": 3
+    },
+    {
+     "text": "Temple gates",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Phuket",
+    "Lombok",
+    "Maldives"
+   ]
+  },
+  {
+   "word": "Phuket",
+   "hints": [
+    {
+     "text": "Thai island",
+     "level": 1
+    },
+    {
+     "text": "Beach destination",
+     "level": 1
+    },
+    {
+     "text": "Party beaches",
+     "level": 2
+    },
+    {
+     "text": "Island hopping",
+     "level": 2
+    },
+    {
+     "text": "Limestone cliffs",
+     "level": 3
+    },
+    {
+     "text": "Big buddha",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bali",
+    "Bangkok",
+    "Langkawi"
+   ]
+  },
+  {
+   "word": "Kandy",
+   "hints": [
+    {
+     "text": "Sri lankan city",
+     "level": 1
+    },
+    {
+     "text": "Hill city",
+     "level": 1
+    },
+    {
+     "text": "Sacred tooth temple",
+     "level": 2
+    },
+    {
+     "text": "Elephant parade",
+     "level": 2
+    },
+    {
+     "text": "Lakeside city",
+     "level": 3
+    },
+    {
+     "text": "Tea hills",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Colombo",
+    "Ooty",
+    "Darjeeling"
+   ]
+  },
+  {
+   "word": "Darjeeling",
+   "hints": [
+    {
+     "text": "Indian hill town",
+     "level": 1
+    },
+    {
+     "text": "Tea town",
+     "level": 1
+    },
+    {
+     "text": "Toy train",
+     "level": 2
+    },
+    {
+     "text": "Himalayan views",
+     "level": 2
+    },
+    {
+     "text": "Tea gardens",
+     "level": 3
+    },
+    {
+     "text": "Sunrise peak",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shimla",
+    "Gangtok",
+    "Kandy"
+   ]
+  },
+  {
+   "word": "Shimla",
+   "hints": [
+    {
+     "text": "Indian hill town",
+     "level": 1
+    },
+    {
+     "text": "Summer capital",
+     "level": 1
+    },
+    {
+     "text": "Colonial history",
+     "level": 2
+    },
+    {
+     "text": "Toy train",
+     "level": 2
+    },
+    {
+     "text": "Mall road",
+     "level": 3
+    },
+    {
+     "text": "Snowy winters",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Manali",
+    "Darjeeling",
+    "Mussoorie"
+   ]
+  },
+  {
+   "word": "Manali",
+   "hints": [
+    {
+     "text": "Indian hill town",
+     "level": 1
+    },
+    {
+     "text": "Adventure town",
+     "level": 1
+    },
+    {
+     "text": "Snowy passes",
+     "level": 2
+    },
+    {
+     "text": "Backpacker hub",
+     "level": 2
+    },
+    {
+     "text": "Apple orchards",
+     "level": 3
+    },
+    {
+     "text": "Paragliding",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shimla",
+    "Leh",
+    "Rishikesh"
+   ]
+  },
+  {
+   "word": "Rishikesh",
+   "hints": [
+    {
+     "text": "Indian town",
+     "level": 1
+    },
+    {
+     "text": "Yoga capital",
+     "level": 1
+    },
+    {
+     "text": "River rafting",
+     "level": 2
+    },
+    {
+     "text": "Spiritual retreats",
+     "level": 2
+    },
+    {
+     "text": "Suspension bridges",
+     "level": 3
+    },
+    {
+     "text": "Evening river prayers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Haridwar",
+    "Varanasi",
+    "Manali"
+   ]
+  },
+  {
+   "word": "Udaipur",
+   "hints": [
+    {
+     "text": "Indian city",
+     "level": 1
+    },
+    {
+     "text": "City of lakes",
+     "level": 1
+    },
+    {
+     "text": "Romantic palaces",
+     "level": 2
+    },
+    {
+     "text": "Royal weddings",
+     "level": 2
+    },
+    {
+     "text": "Lake palace hotel",
+     "level": 3
+    },
+    {
+     "text": "Boat rides",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jaipur",
+    "Jodhpur",
+    "Venice"
+   ]
+  },
+  {
+   "word": "Amritsar",
+   "hints": [
+    {
+     "text": "Indian city",
+     "level": 1
+    },
+    {
+     "text": "Holy city",
+     "level": 1
+    },
+    {
+     "text": "Golden temple",
+     "level": 2
+    },
+    {
+     "text": "Border ceremony",
+     "level": 2
+    },
+    {
+     "text": "Community kitchen",
+     "level": 3
+    },
+    {
+     "text": "Stuffed kulcha",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lahore",
+    "Chandigarh",
+    "Ludhiana"
+   ]
+  },
+  {
+   "word": "Pune",
+   "hints": [
+    {
+     "text": "Indian city",
+     "level": 1
+    },
+    {
+     "text": "Student city",
+     "level": 1
+    },
+    {
+     "text": "Pleasant weather",
+     "level": 2
+    },
+    {
+     "text": "Tech hub",
+     "level": 2
+    },
+    {
+     "text": "Historic fort",
+     "level": 3
+    },
+    {
+     "text": "Misal pav",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mumbai",
+    "Bangalore",
+    "Nashik"
+   ]
+  },
+  {
+   "word": "Lucknow",
+   "hints": [
+    {
+     "text": "Indian city",
+     "level": 1
+    },
+    {
+     "text": "City of nawabs",
+     "level": 1
+    },
+    {
+     "text": "Fine manners",
+     "level": 2
+    },
+    {
+     "text": "Kebab heaven",
+     "level": 2
+    },
+    {
+     "text": "Grand gateway",
+     "level": 3
+    },
+    {
+     "text": "Chikan embroidery",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hyderabad",
+    "Delhi",
+    "Kanpur"
+   ]
+  },
+  {
+   "word": "Kochi",
+   "hints": [
+    {
+     "text": "Indian city",
+     "level": 1
+    },
+    {
+     "text": "Port city",
+     "level": 1
+    },
+    {
+     "text": "Spice trade",
+     "level": 2
+    },
+    {
+     "text": "Backwaters gateway",
+     "level": 2
+    },
+    {
+     "text": "Chinese fishing nets",
+     "level": 3
+    },
+    {
+     "text": "Colonial fort area",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chennai",
+    "Goa",
+    "Mangalore"
+   ]
+  },
+  {
+   "word": "Mysore",
+   "hints": [
+    {
+     "text": "Indian city",
+     "level": 1
+    },
+    {
+     "text": "Royal city",
+     "level": 1
+    },
+    {
+     "text": "Grand palace",
+     "level": 2
+    },
+    {
+     "text": "Silk sarees",
+     "level": 2
+    },
+    {
+     "text": "Dussehra lights",
+     "level": 3
+    },
+    {
+     "text": "Sandalwood",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bangalore",
+    "Ooty",
+    "Coimbatore"
+   ]
+  },
+  {
+   "word": "Leh",
+   "hints": [
+    {
+     "text": "Indian town",
+     "level": 1
+    },
+    {
+     "text": "High desert town",
+     "level": 1
+    },
+    {
+     "text": "Mountain passes",
+     "level": 2
+    },
+    {
+     "text": "Monasteries",
+     "level": 2
+    },
+    {
+     "text": "Blue lakes",
+     "level": 3
+    },
+    {
+     "text": "Prayer wheels",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Manali",
+    "Lhasa",
+    "Shimla"
+   ]
+  },
+  {
+   "word": "Pondicherry",
+   "hints": [
+    {
+     "text": "Indian town",
+     "level": 1
+    },
+    {
+     "text": "Coastal town",
+     "level": 1
+    },
+    {
+     "text": "French quarter",
+     "level": 2
+    },
+    {
+     "text": "Spiritual ashram",
+     "level": 2
+    },
+    {
+     "text": "Yellow colonial houses",
+     "level": 3
+    },
+    {
+     "text": "Seaside promenade",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Goa",
+    "Chennai",
+    "Kochi"
+   ]
+  },
+  {
+   "word": "Ahmedabad",
+   "hints": [
+    {
+     "text": "Indian city",
+     "level": 1
+    },
+    {
+     "text": "Gujarati city",
+     "level": 1
+    },
+    {
+     "text": "Kite festival",
+     "level": 2
+    },
+    {
+     "text": "Textile history",
+     "level": 2
+    },
+    {
+     "text": "Stepwells",
+     "level": 3
+    },
+    {
+     "text": "Riverside ashram",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Surat",
+    "Mumbai",
+    "Jaipur"
+   ]
+  },
+  {
+   "word": "Chandigarh",
+   "hints": [
+    {
+     "text": "Indian city",
+     "level": 1
+    },
+    {
+     "text": "Planned city",
+     "level": 1
+    },
+    {
+     "text": "Modernist design",
+     "level": 2
+    },
+    {
+     "text": "Very green",
+     "level": 2
+    },
+    {
+     "text": "Rock garden",
+     "level": 3
+    },
+    {
+     "text": "Lake promenade",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Amritsar",
+    "Delhi",
+    "Shimla"
+   ]
+  },
+  {
+   "word": "Bhopal",
+   "hints": [
+    {
+     "text": "Indian city",
+     "level": 1
+    },
+    {
+     "text": "City of lakes",
+     "level": 1
+    },
+    {
+     "text": "Central indian capital",
+     "level": 2
+    },
+    {
+     "text": "Lakes and mosques",
+     "level": 2
+    },
+    {
+     "text": "Upper lake",
+     "level": 3
+    },
+    {
+     "text": "Tribal museum",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Indore",
+    "Lucknow",
+    "Nagpur"
+   ]
+  },
+  {
+   "word": "Indore",
+   "hints": [
+    {
+     "text": "Indian city",
+     "level": 1
+    },
+    {
+     "text": "Cleanest city",
+     "level": 1
+    },
+    {
+     "text": "Street food hub",
+     "level": 2
+    },
+    {
+     "text": "Night market",
+     "level": 2
+    },
+    {
+     "text": "Poha and jalebi",
+     "level": 3
+    },
+    {
+     "text": "Royal palace",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bhopal",
+    "Nagpur",
+    "Pune"
+   ]
+  },
+  {
+   "word": "Patna",
+   "hints": [
+    {
+     "text": "Indian city",
+     "level": 1
+    },
+    {
+     "text": "Ancient city",
+     "level": 1
+    },
+    {
+     "text": "Very old city",
+     "level": 2
+    },
+    {
+     "text": "River city",
+     "level": 2
+    },
+    {
+     "text": "Long river bridge",
+     "level": 3
+    },
+    {
+     "text": "Litti chokha",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Varanasi",
+    "Kolkata",
+    "Lucknow"
+   ]
+  },
+  {
+   "word": "Guwahati",
+   "hints": [
+    {
+     "text": "Indian city",
+     "level": 1
+    },
+    {
+     "text": "Northeast gateway",
+     "level": 1
+    },
+    {
+     "text": "Tea trade",
+     "level": 2
+    },
+    {
+     "text": "River island",
+     "level": 2
+    },
+    {
+     "text": "Hilltop temple",
+     "level": 3
+    },
+    {
+     "text": "Brahmaputra river",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shillong",
+    "Kolkata",
+    "Gangtok"
+   ]
+  },
+  {
+   "word": "Shillong",
+   "hints": [
+    {
+     "text": "Northeastern mountain resort",
+     "level": 1
+    },
+    {
+     "text": "Scotland of east",
+     "level": 1
+    },
+    {
+     "text": "Rock music",
+     "level": 2
+    },
+    {
+     "text": "Waterfalls",
+     "level": 2
+    },
+    {
+     "text": "Pine forests",
+     "level": 3
+    },
+    {
+     "text": "Living root bridges",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Guwahati",
+    "Darjeeling",
+    "Gangtok"
+   ]
+  },
+  {
+   "word": "Dallas",
+   "hints": [
+    {
+     "text": "American city",
+     "level": 1
+    },
+    {
+     "text": "Texan metropolis",
+     "level": 1
+    },
+    {
+     "text": "Cowboys and rodeos",
+     "level": 2
+    },
+    {
+     "text": "Big business",
+     "level": 2
+    },
+    {
+     "text": "Steakhouses",
+     "level": 3
+    },
+    {
+     "text": "Wide highways",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Houston",
+    "Austin",
+    "Denver"
+   ]
+  },
+  {
+   "word": "Austin",
+   "hints": [
+    {
+     "text": "American city",
+     "level": 1
+    },
+    {
+     "text": "Texan capital",
+     "level": 1
+    },
+    {
+     "text": "Live music capital",
+     "level": 2
+    },
+    {
+     "text": "Tech scene",
+     "level": 2
+    },
+    {
+     "text": "Bat bridge",
+     "level": 3
+    },
+    {
+     "text": "Food trucks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dallas",
+    "Nashville",
+    "Portland"
+   ]
+  },
+  {
+   "word": "Portland",
+   "hints": [
+    {
+     "text": "American city",
+     "level": 1
+    },
+    {
+     "text": "Quirky city",
+     "level": 1
+    },
+    {
+     "text": "Craft coffee",
+     "level": 2
+    },
+    {
+     "text": "Bike friendly",
+     "level": 2
+    },
+    {
+     "text": "Food carts",
+     "level": 3
+    },
+    {
+     "text": "Rose gardens",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Seattle",
+    "Austin",
+    "Denver"
+   ]
+  },
+  {
+   "word": "San diego",
+   "hints": [
+    {
+     "text": "American city",
+     "level": 1
+    },
+    {
+     "text": "Coastal city",
+     "level": 1
+    },
+    {
+     "text": "Famous zoo",
+     "level": 2
+    },
+    {
+     "text": "Sunny weather",
+     "level": 2
+    },
+    {
+     "text": "Navy harbor",
+     "level": 3
+    },
+    {
+     "text": "Fish tacos",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Los angeles",
+    "Phoenix",
+    "Tijuana"
+   ]
+  },
+  {
+   "word": "Phoenix",
+   "hints": [
+    {
+     "text": "American city",
+     "level": 1
+    },
+    {
+     "text": "Desert city",
+     "level": 1
+    },
+    {
+     "text": "Very hot summers",
+     "level": 2
+    },
+    {
+     "text": "Golf resorts",
+     "level": 2
+    },
+    {
+     "text": "Saguaro cactus",
+     "level": 3
+    },
+    {
+     "text": "Red rocks nearby",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tucson",
+    "Las vegas",
+    "Denver"
+   ]
+  },
+  {
+   "word": "Detroit",
+   "hints": [
+    {
+     "text": "American city",
+     "level": 1
+    },
+    {
+     "text": "Motor city",
+     "level": 1
+    },
+    {
+     "text": "Car industry",
+     "level": 2
+    },
+    {
+     "text": "Soul music label",
+     "level": 2
+    },
+    {
+     "text": "Assembly lines",
+     "level": 3
+    },
+    {
+     "text": "Riverfront",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chicago",
+    "Cleveland",
+    "Toronto"
+   ]
+  },
+  {
+   "word": "Glasgow",
+   "hints": [
+    {
+     "text": "Scottish city",
+     "level": 1
+    },
+    {
+     "text": "Industrial city",
+     "level": 1
+    },
+    {
+     "text": "Football rivalry",
+     "level": 2
+    },
+    {
+     "text": "Music scene",
+     "level": 2
+    },
+    {
+     "text": "Victorian buildings",
+     "level": 3
+    },
+    {
+     "text": "River clyde",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Edinburgh",
+    "Manchester",
+    "Dublin"
+   ]
+  },
+  {
+   "word": "Manchester",
+   "hints": [
+    {
+     "text": "English city",
+     "level": 1
+    },
+    {
+     "text": "Industrial city",
+     "level": 1
+    },
+    {
+     "text": "Football giants",
+     "level": 2
+    },
+    {
+     "text": "Music scene",
+     "level": 2
+    },
+    {
+     "text": "Red brick mills",
+     "level": 3
+    },
+    {
+     "text": "Rainy days",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Liverpool",
+    "London",
+    "Glasgow"
+   ]
+  },
+  {
+   "word": "Liverpool",
+   "hints": [
+    {
+     "text": "English city",
+     "level": 1
+    },
+    {
+     "text": "Port city",
+     "level": 1
+    },
+    {
+     "text": "Famous band birthplace",
+     "level": 2
+    },
+    {
+     "text": "Football rivals",
+     "level": 2
+    },
+    {
+     "text": "Docks",
+     "level": 3
+    },
+    {
+     "text": "Ferry crossing",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Manchester",
+    "London",
+    "Belfast"
+   ]
+  },
+  {
+   "word": "Oxford",
+   "hints": [
+    {
+     "text": "English city",
+     "level": 1
+    },
+    {
+     "text": "University city",
+     "level": 1
+    },
+    {
+     "text": "Dreaming spires",
+     "level": 2
+    },
+    {
+     "text": "Famous colleges",
+     "level": 2
+    },
+    {
+     "text": "Punting boats",
+     "level": 3
+    },
+    {
+     "text": "Ancient libraries",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cambridge",
+    "London",
+    "Bath"
+   ]
+  },
+  {
+   "word": "Cambridge",
+   "hints": [
+    {
+     "text": "English city",
+     "level": 1
+    },
+    {
+     "text": "University city",
+     "level": 1
+    },
+    {
+     "text": "Famous college",
+     "level": 2
+    },
+    {
+     "text": "Science history",
+     "level": 2
+    },
+    {
+     "text": "Punting on river",
+     "level": 3
+    },
+    {
+     "text": "Bicycles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Oxford",
+    "London",
+    "Norwich"
+   ]
+  },
+  {
+   "word": "Granada",
+   "hints": [
+    {
+     "text": "Spanish city",
+     "level": 1
+    },
+    {
+     "text": "Moorish city",
+     "level": 1
+    },
+    {
+     "text": "Flamenco caves",
+     "level": 2
+    },
+    {
+     "text": "Free tapas",
+     "level": 2
+    },
+    {
+     "text": "Red fortress palace",
+     "level": 3
+    },
+    {
+     "text": "Snowy mountains",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Seville",
+    "Cordoba",
+    "Madrid"
+   ]
+  },
+  {
+   "word": "Valencia",
+   "hints": [
+    {
+     "text": "Spanish city",
+     "level": 1
+    },
+    {
+     "text": "Coastal city",
+     "level": 1
+    },
+    {
+     "text": "Paella birthplace",
+     "level": 2
+    },
+    {
+     "text": "Orange groves",
+     "level": 2
+    },
+    {
+     "text": "Futuristic arts complex",
+     "level": 3
+    },
+    {
+     "text": "Fire festival",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Barcelona",
+    "Seville",
+    "Madrid"
+   ]
+  }
+ ]
+}

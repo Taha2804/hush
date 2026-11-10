@@ -1,0 +1,5174 @@
+{
+ "id": "mythical",
+ "name": "Mythical Creatures",
+ "words": [
+  {
+   "word": "Dragon",
+   "hints": [
+    {
+     "text": "Mythical beast",
+     "level": 1
+    },
+    {
+     "text": "Legendary monster",
+     "level": 1
+    },
+    {
+     "text": "Hoards gold",
+     "level": 2
+    },
+    {
+     "text": "Knights fight it",
+     "level": 2
+    },
+    {
+     "text": "Breathes fire",
+     "level": 3
+    },
+    {
+     "text": "Scaly wings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wyvern",
+    "Serpent",
+    "Griffin"
+   ]
+  },
+  {
+   "word": "Unicorn",
+   "hints": [
+    {
+     "text": "Mythical horse",
+     "level": 1
+    },
+    {
+     "text": "Magical creature",
+     "level": 1
+    },
+    {
+     "text": "Symbol of purity",
+     "level": 2
+    },
+    {
+     "text": "Rainbow fantasies",
+     "level": 2
+    },
+    {
+     "text": "Single horn",
+     "level": 3
+    },
+    {
+     "text": "White coat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pegasus",
+    "Alicorn",
+    "Kirin"
+   ]
+  },
+  {
+   "word": "Phoenix",
+   "hints": [
+    {
+     "text": "Mythical bird",
+     "level": 1
+    },
+    {
+     "text": "Fire creature",
+     "level": 1
+    },
+    {
+     "text": "Rises from ashes",
+     "level": 2
+    },
+    {
+     "text": "Symbol of rebirth",
+     "level": 2
+    },
+    {
+     "text": "Flaming feathers",
+     "level": 3
+    },
+    {
+     "text": "Reborn eternally",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Thunderbird",
+    "Griffin",
+    "Roc"
+   ]
+  },
+  {
+   "word": "Griffin",
+   "hints": [
+    {
+     "text": "Mythical beast",
+     "level": 1
+    },
+    {
+     "text": "Hybrid creature",
+     "level": 1
+    },
+    {
+     "text": "Guards treasure",
+     "level": 2
+    },
+    {
+     "text": "Heraldry symbol",
+     "level": 2
+    },
+    {
+     "text": "Eagle head",
+     "level": 3
+    },
+    {
+     "text": "Lion body",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hippogriff",
+    "Sphinx",
+    "Manticore"
+   ]
+  },
+  {
+   "word": "Mermaid",
+   "hints": [
+    {
+     "text": "Sea creature",
+     "level": 1
+    },
+    {
+     "text": "Mythical maiden",
+     "level": 1
+    },
+    {
+     "text": "Lures sailors",
+     "level": 2
+    },
+    {
+     "text": "Sings on rocks",
+     "level": 2
+    },
+    {
+     "text": "Fish tail",
+     "level": 3
+    },
+    {
+     "text": "Long flowing hair",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Siren",
+    "Selkie",
+    "Nymph"
+   ]
+  },
+  {
+   "word": "Centaur",
+   "hints": [
+    {
+     "text": "Mythical hybrid",
+     "level": 1
+    },
+    {
+     "text": "Greek creature",
+     "level": 1
+    },
+    {
+     "text": "Skilled archers",
+     "level": 2
+    },
+    {
+     "text": "Wise teachers",
+     "level": 2
+    },
+    {
+     "text": "Horse body",
+     "level": 3
+    },
+    {
+     "text": "Human torso",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Minotaur",
+    "Satyr",
+    "Faun"
+   ]
+  },
+  {
+   "word": "Minotaur",
+   "hints": [
+    {
+     "text": "Greek monster",
+     "level": 1
+    },
+    {
+     "text": "Hybrid beast",
+     "level": 1
+    },
+    {
+     "text": "Lives in a labyrinth",
+     "level": 2
+    },
+    {
+     "text": "Eats tributes",
+     "level": 2
+    },
+    {
+     "text": "Bull head",
+     "level": 3
+    },
+    {
+     "text": "Human body",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Centaur",
+    "Cyclops",
+    "Satyr"
+   ]
+  },
+  {
+   "word": "Cyclops",
+   "hints": [
+    {
+     "text": "Greek giant",
+     "level": 1
+    },
+    {
+     "text": "One eyed monster",
+     "level": 1
+    },
+    {
+     "text": "Blinded by a hero",
+     "level": 2
+    },
+    {
+     "text": "Forges thunderbolts",
+     "level": 2
+    },
+    {
+     "text": "Single eye",
+     "level": 3
+    },
+    {
+     "text": "Huge and strong",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Titan",
+    "Ogre",
+    "Giant"
+   ]
+  },
+  {
+   "word": "Hydra",
+   "hints": [
+    {
+     "text": "Greek monster",
+     "level": 1
+    },
+    {
+     "text": "Serpent beast",
+     "level": 1
+    },
+    {
+     "text": "Heads grow back",
+     "level": 2
+    },
+    {
+     "text": "Hero's labor",
+     "level": 2
+    },
+    {
+     "text": "Many heads",
+     "level": 3
+    },
+    {
+     "text": "Poisonous breath",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dragon",
+    "Kraken",
+    "Basilisk"
+   ]
+  },
+  {
+   "word": "Kraken",
+   "hints": [
+    {
+     "text": "Sea monster",
+     "level": 1
+    },
+    {
+     "text": "Giant beast",
+     "level": 1
+    },
+    {
+     "text": "Sinks ships",
+     "level": 2
+    },
+    {
+     "text": "Sailor legends",
+     "level": 2
+    },
+    {
+     "text": "Huge tentacles",
+     "level": 3
+    },
+    {
+     "text": "Lurks in deep",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Leviathan",
+    "Hydra",
+    "Sea serpent"
+   ]
+  },
+  {
+   "word": "Yeti",
+   "hints": [
+    {
+     "text": "Snow creature",
+     "level": 1
+    },
+    {
+     "text": "Cryptid",
+     "level": 1
+    },
+    {
+     "text": "Himalayan legend",
+     "level": 2
+    },
+    {
+     "text": "Abominable snowman",
+     "level": 2
+    },
+    {
+     "text": "White fur",
+     "level": 3
+    },
+    {
+     "text": "Giant footprints",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bigfoot",
+    "Sasquatch",
+    "Wendigo"
+   ]
+  },
+  {
+   "word": "Bigfoot",
+   "hints": [
+    {
+     "text": "Forest cryptid",
+     "level": 1
+    },
+    {
+     "text": "Hairy giant",
+     "level": 1
+    },
+    {
+     "text": "Blurry photos",
+     "level": 2
+    },
+    {
+     "text": "Hikers claim sightings",
+     "level": 2
+    },
+    {
+     "text": "Huge footprints",
+     "level": 3
+    },
+    {
+     "text": "Ape like",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Yeti",
+    "Sasquatch",
+    "Yowie"
+   ]
+  },
+  {
+   "word": "Vampire",
+   "hints": [
+    {
+     "text": "Undead creature",
+     "level": 1
+    },
+    {
+     "text": "Night stalker",
+     "level": 1
+    },
+    {
+     "text": "Sleeps in coffins",
+     "level": 2
+    },
+    {
+     "text": "Hates garlic",
+     "level": 2
+    },
+    {
+     "text": "Sharp fangs",
+     "level": 3
+    },
+    {
+     "text": "No reflection",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Werewolf",
+    "Zombie",
+    "Ghost"
+   ]
+  },
+  {
+   "word": "Werewolf",
+   "hints": [
+    {
+     "text": "Shapeshifter",
+     "level": 1
+    },
+    {
+     "text": "Night creature",
+     "level": 1
+    },
+    {
+     "text": "Full moon transformation",
+     "level": 2
+    },
+    {
+     "text": "Silver bullets",
+     "level": 2
+    },
+    {
+     "text": "Howls",
+     "level": 3
+    },
+    {
+     "text": "Hairy beast",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Vampire",
+    "Wendigo",
+    "Skinwalker"
+   ]
+  },
+  {
+   "word": "Ghost",
+   "hints": [
+    {
+     "text": "Spirit",
+     "level": 1
+    },
+    {
+     "text": "Haunting presence",
+     "level": 1
+    },
+    {
+     "text": "Haunted houses",
+     "level": 2
+    },
+    {
+     "text": "Moans at night",
+     "level": 2
+    },
+    {
+     "text": "See through",
+     "level": 3
+    },
+    {
+     "text": "White sheet",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spirit",
+    "Phantom",
+    "Poltergeist"
+   ]
+  },
+  {
+   "word": "Zombie",
+   "hints": [
+    {
+     "text": "Undead creature",
+     "level": 1
+    },
+    {
+     "text": "Walking dead",
+     "level": 1
+    },
+    {
+     "text": "Apocalypse stories",
+     "level": 2
+    },
+    {
+     "text": "Craves brains",
+     "level": 2
+    },
+    {
+     "text": "Shambling walk",
+     "level": 3
+    },
+    {
+     "text": "Rotting flesh",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mummy",
+    "Ghoul",
+    "Vampire"
+   ]
+  },
+  {
+   "word": "Mummy",
+   "hints": [
+    {
+     "text": "Undead creature",
+     "level": 1
+    },
+    {
+     "text": "Ancient corpse",
+     "level": 1
+    },
+    {
+     "text": "Egyptian tombs",
+     "level": 2
+    },
+    {
+     "text": "Pharaoh's curse",
+     "level": 2
+    },
+    {
+     "text": "Wrapped in bandages",
+     "level": 3
+    },
+    {
+     "text": "Shuffling",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Zombie",
+    "Skeleton",
+    "Ghoul"
+   ]
+  },
+  {
+   "word": "Goblin",
+   "hints": [
+    {
+     "text": "Small monster",
+     "level": 1
+    },
+    {
+     "text": "Mischievous creature",
+     "level": 1
+    },
+    {
+     "text": "Lives in caves",
+     "level": 2
+    },
+    {
+     "text": "Steals things",
+     "level": 2
+    },
+    {
+     "text": "Green skin",
+     "level": 3
+    },
+    {
+     "text": "Pointy ears",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gremlin",
+    "Imp",
+    "Troll"
+   ]
+  },
+  {
+   "word": "Troll",
+   "hints": [
+    {
+     "text": "Mythical brute",
+     "level": 1
+    },
+    {
+     "text": "Bridge dweller",
+     "level": 1
+    },
+    {
+     "text": "Demands tolls",
+     "level": 2
+    },
+    {
+     "text": "Turns to stone",
+     "level": 2
+    },
+    {
+     "text": "Huge and ugly",
+     "level": 3
+    },
+    {
+     "text": "Lives under bridges",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ogre",
+    "Goblin",
+    "Giant"
+   ]
+  },
+  {
+   "word": "Ogre",
+   "hints": [
+    {
+     "text": "Giant brute",
+     "level": 1
+    },
+    {
+     "text": "Fairy tale monster",
+     "level": 1
+    },
+    {
+     "text": "Eats people",
+     "level": 2
+    },
+    {
+     "text": "Lives in swamps",
+     "level": 2
+    },
+    {
+     "text": "Huge and smelly",
+     "level": 3
+    },
+    {
+     "text": "Club wielding",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Troll",
+    "Giant",
+    "Cyclops"
+   ]
+  },
+  {
+   "word": "Elf",
+   "hints": [
+    {
+     "text": "Magical being",
+     "level": 1
+    },
+    {
+     "text": "Woodland folk",
+     "level": 1
+    },
+    {
+     "text": "Santa's helpers",
+     "level": 2
+    },
+    {
+     "text": "Archers in fantasy",
+     "level": 2
+    },
+    {
+     "text": "Pointy ears",
+     "level": 3
+    },
+    {
+     "text": "Long life",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fairy",
+    "Dwarf",
+    "Pixie"
+   ]
+  },
+  {
+   "word": "Dwarf",
+   "hints": [
+    {
+     "text": "Mythical miner",
+     "level": 1
+    },
+    {
+     "text": "Short folk",
+     "level": 1
+    },
+    {
+     "text": "Mine for gems",
+     "level": 2
+    },
+    {
+     "text": "Forge weapons",
+     "level": 2
+    },
+    {
+     "text": "Long beard",
+     "level": 3
+    },
+    {
+     "text": "Pickaxe",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Elf",
+    "Gnome",
+    "Hobbit"
+   ]
+  },
+  {
+   "word": "Fairy",
+   "hints": [
+    {
+     "text": "Magical being",
+     "level": 1
+    },
+    {
+     "text": "Tiny sprite",
+     "level": 1
+    },
+    {
+     "text": "Grants wishes",
+     "level": 2
+    },
+    {
+     "text": "Lives in gardens",
+     "level": 2
+    },
+    {
+     "text": "Glittering wings",
+     "level": 3
+    },
+    {
+     "text": "Magic wand",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pixie",
+    "Sprite",
+    "Elf"
+   ]
+  },
+  {
+   "word": "Pixie",
+   "hints": [
+    {
+     "text": "Magical sprite",
+     "level": 1
+    },
+    {
+     "text": "Tiny folk",
+     "level": 1
+    },
+    {
+     "text": "Mischief makers",
+     "level": 2
+    },
+    {
+     "text": "Sparkly dust",
+     "level": 2
+    },
+    {
+     "text": "Pointed hats",
+     "level": 3
+    },
+    {
+     "text": "Tiny wings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fairy",
+    "Sprite",
+    "Imp"
+   ]
+  },
+  {
+   "word": "Gnome",
+   "hints": [
+    {
+     "text": "Garden folk",
+     "level": 1
+    },
+    {
+     "text": "Earth spirit",
+     "level": 1
+    },
+    {
+     "text": "Garden statues",
+     "level": 2
+    },
+    {
+     "text": "Guards treasure",
+     "level": 2
+    },
+    {
+     "text": "Pointy red hat",
+     "level": 3
+    },
+    {
+     "text": "White beard",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dwarf",
+    "Leprechaun",
+    "Elf"
+   ]
+  },
+  {
+   "word": "Leprechaun",
+   "hints": [
+    {
+     "text": "Irish fairy",
+     "level": 1
+    },
+    {
+     "text": "Tiny cobbler",
+     "level": 1
+    },
+    {
+     "text": "Pot of gold",
+     "level": 2
+    },
+    {
+     "text": "Lucky charms",
+     "level": 2
+    },
+    {
+     "text": "Green suit",
+     "level": 3
+    },
+    {
+     "text": "Buckled hat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gnome",
+    "Elf",
+    "Pixie"
+   ]
+  },
+  {
+   "word": "Sphinx",
+   "hints": [
+    {
+     "text": "Mythical riddler",
+     "level": 1
+    },
+    {
+     "text": "Hybrid guardian",
+     "level": 1
+    },
+    {
+     "text": "Asks riddles",
+     "level": 2
+    },
+    {
+     "text": "Guards pyramids",
+     "level": 2
+    },
+    {
+     "text": "Lion body",
+     "level": 3
+    },
+    {
+     "text": "Human head",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Griffin",
+    "Manticore",
+    "Chimera"
+   ]
+  },
+  {
+   "word": "Pegasus",
+   "hints": [
+    {
+     "text": "Winged horse",
+     "level": 1
+    },
+    {
+     "text": "Greek creature",
+     "level": 1
+    },
+    {
+     "text": "Born from a gorgon",
+     "level": 2
+    },
+    {
+     "text": "Flies heroes",
+     "level": 2
+    },
+    {
+     "text": "Feathered wings",
+     "level": 3
+    },
+    {
+     "text": "White stallion",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Unicorn",
+    "Hippogriff",
+    "Alicorn"
+   ]
+  },
+  {
+   "word": "Chimera",
+   "hints": [
+    {
+     "text": "Greek monster",
+     "level": 1
+    },
+    {
+     "text": "Hybrid beast",
+     "level": 1
+    },
+    {
+     "text": "Breathes fire",
+     "level": 2
+    },
+    {
+     "text": "Slain by a hero",
+     "level": 2
+    },
+    {
+     "text": "Lion goat serpent",
+     "level": 3
+    },
+    {
+     "text": "Three heads",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Manticore",
+    "Griffin",
+    "Hydra"
+   ]
+  },
+  {
+   "word": "Basilisk",
+   "hints": [
+    {
+     "text": "Serpent king",
+     "level": 1
+    },
+    {
+     "text": "Deadly reptile",
+     "level": 1
+    },
+    {
+     "text": "Deadly gaze",
+     "level": 2
+    },
+    {
+     "text": "Petrifies victims",
+     "level": 2
+    },
+    {
+     "text": "Crowned serpent",
+     "level": 3
+    },
+    {
+     "text": "Venomous",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cockatrice",
+    "Hydra",
+    "Gorgon"
+   ]
+  },
+  {
+   "word": "Cockatrice",
+   "hints": [
+    {
+     "text": "Mythical beast",
+     "level": 1
+    },
+    {
+     "text": "Rooster serpent",
+     "level": 1
+    },
+    {
+     "text": "Hatched from egg",
+     "level": 2
+    },
+    {
+     "text": "Deadly gaze",
+     "level": 2
+    },
+    {
+     "text": "Rooster head",
+     "level": 3
+    },
+    {
+     "text": "Serpent tail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Basilisk",
+    "Wyvern",
+    "Griffin"
+   ]
+  },
+  {
+   "word": "Wyvern",
+   "hints": [
+    {
+     "text": "Dragon kin",
+     "level": 1
+    },
+    {
+     "text": "Winged reptile",
+     "level": 1
+    },
+    {
+     "text": "Heraldry beast",
+     "level": 2
+    },
+    {
+     "text": "Medieval legend",
+     "level": 2
+    },
+    {
+     "text": "Two legs",
+     "level": 3
+    },
+    {
+     "text": "Barbed tail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dragon",
+    "Basilisk",
+    "Cockatrice"
+   ]
+  },
+  {
+   "word": "Manticore",
+   "hints": [
+    {
+     "text": "Persian monster",
+     "level": 1
+    },
+    {
+     "text": "Hybrid beast",
+     "level": 1
+    },
+    {
+     "text": "Man eater",
+     "level": 2
+    },
+    {
+     "text": "Shoots spikes",
+     "level": 2
+    },
+    {
+     "text": "Lion body",
+     "level": 3
+    },
+    {
+     "text": "Scorpion tail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chimera",
+    "Sphinx",
+    "Griffin"
+   ]
+  },
+  {
+   "word": "Harpy",
+   "hints": [
+    {
+     "text": "Greek monster",
+     "level": 1
+    },
+    {
+     "text": "Bird woman",
+     "level": 1
+    },
+    {
+     "text": "Snatches food",
+     "level": 2
+    },
+    {
+     "text": "Storm spirits",
+     "level": 2
+    },
+    {
+     "text": "Woman face",
+     "level": 3
+    },
+    {
+     "text": "Bird body",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Siren",
+    "Gorgon",
+    "Valkyrie"
+   ]
+  },
+  {
+   "word": "Siren",
+   "hints": [
+    {
+     "text": "Sea enchantress",
+     "level": 1
+    },
+    {
+     "text": "Greek creature",
+     "level": 1
+    },
+    {
+     "text": "Lures sailors",
+     "level": 2
+    },
+    {
+     "text": "Deadly songs",
+     "level": 2
+    },
+    {
+     "text": "Beautiful voice",
+     "level": 3
+    },
+    {
+     "text": "Rocky islands",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mermaid",
+    "Harpy",
+    "Nymph"
+   ]
+  },
+  {
+   "word": "Gorgon",
+   "hints": [
+    {
+     "text": "Greek monster",
+     "level": 1
+    },
+    {
+     "text": "Snake haired woman",
+     "level": 1
+    },
+    {
+     "text": "Turns people to stone",
+     "level": 2
+    },
+    {
+     "text": "Slain by a hero",
+     "level": 2
+    },
+    {
+     "text": "Snakes for hair",
+     "level": 3
+    },
+    {
+     "text": "Deadly gaze",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Basilisk",
+    "Harpy",
+    "Siren"
+   ]
+  },
+  {
+   "word": "Cerberus",
+   "hints": [
+    {
+     "text": "Greek hound",
+     "level": 1
+    },
+    {
+     "text": "Underworld guard",
+     "level": 1
+    },
+    {
+     "text": "Guards the dead",
+     "level": 2
+    },
+    {
+     "text": "Lulled by music",
+     "level": 2
+    },
+    {
+     "text": "Three heads",
+     "level": 3
+    },
+    {
+     "text": "Serpent tail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hellhound",
+    "Fenrir",
+    "Chimera"
+   ]
+  },
+  {
+   "word": "Satyr",
+   "hints": [
+    {
+     "text": "Greek creature",
+     "level": 1
+    },
+    {
+     "text": "Woodland spirit",
+     "level": 1
+    },
+    {
+     "text": "Loves music and parties",
+     "level": 2
+    },
+    {
+     "text": "Follows revelry god",
+     "level": 2
+    },
+    {
+     "text": "Goat legs",
+     "level": 3
+    },
+    {
+     "text": "Small horns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Faun",
+    "Centaur",
+    "Minotaur"
+   ]
+  },
+  {
+   "word": "Faun",
+   "hints": [
+    {
+     "text": "Roman spirit",
+     "level": 1
+    },
+    {
+     "text": "Forest creature",
+     "level": 1
+    },
+    {
+     "text": "Plays pipes",
+     "level": 2
+    },
+    {
+     "text": "Gentle woodland dweller",
+     "level": 2
+    },
+    {
+     "text": "Goat legs",
+     "level": 3
+    },
+    {
+     "text": "Curly horns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Satyr",
+    "Centaur",
+    "Dryad"
+   ]
+  },
+  {
+   "word": "Nymph",
+   "hints": [
+    {
+     "text": "Nature spirit",
+     "level": 1
+    },
+    {
+     "text": "Greek maiden",
+     "level": 1
+    },
+    {
+     "text": "Lives in springs",
+     "level": 2
+    },
+    {
+     "text": "Dances in woods",
+     "level": 2
+    },
+    {
+     "text": "Beautiful maiden",
+     "level": 3
+    },
+    {
+     "text": "Tied to nature",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dryad",
+    "Naiad",
+    "Siren"
+   ]
+  },
+  {
+   "word": "Dryad",
+   "hints": [
+    {
+     "text": "Tree spirit",
+     "level": 1
+    },
+    {
+     "text": "Forest nymph",
+     "level": 1
+    },
+    {
+     "text": "Lives in oaks",
+     "level": 2
+    },
+    {
+     "text": "Dies with tree",
+     "level": 2
+    },
+    {
+     "text": "Bark skin",
+     "level": 3
+    },
+    {
+     "text": "Leafy hair",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nymph",
+    "Ent",
+    "Faun"
+   ]
+  },
+  {
+   "word": "Selkie",
+   "hints": [
+    {
+     "text": "Sea creature",
+     "level": 1
+    },
+    {
+     "text": "Shapeshifter",
+     "level": 1
+    },
+    {
+     "text": "Celtic legend",
+     "level": 2
+    },
+    {
+     "text": "Sheds seal skin",
+     "level": 2
+    },
+    {
+     "text": "Seal form",
+     "level": 3
+    },
+    {
+     "text": "Human form",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mermaid",
+    "Kelpie",
+    "Siren"
+   ]
+  },
+  {
+   "word": "Kelpie",
+   "hints": [
+    {
+     "text": "Water spirit",
+     "level": 1
+    },
+    {
+     "text": "Shapeshifting horse",
+     "level": 1
+    },
+    {
+     "text": "Scottish lochs",
+     "level": 2
+    },
+    {
+     "text": "Drowns riders",
+     "level": 2
+    },
+    {
+     "text": "Horse form",
+     "level": 3
+    },
+    {
+     "text": "Dripping mane",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Selkie",
+    "Pegasus",
+    "Hippocamp"
+   ]
+  },
+  {
+   "word": "Golem",
+   "hints": [
+    {
+     "text": "Clay giant",
+     "level": 1
+    },
+    {
+     "text": "Animated statue",
+     "level": 1
+    },
+    {
+     "text": "Jewish folklore",
+     "level": 2
+    },
+    {
+     "text": "Guards a city",
+     "level": 2
+    },
+    {
+     "text": "Made of clay",
+     "level": 3
+    },
+    {
+     "text": "Word on forehead",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gargoyle",
+    "Robot",
+    "Titan"
+   ]
+  },
+  {
+   "word": "Genie",
+   "hints": [
+    {
+     "text": "Magical spirit",
+     "level": 1
+    },
+    {
+     "text": "Wish granter",
+     "level": 1
+    },
+    {
+     "text": "Lives in a lamp",
+     "level": 2
+    },
+    {
+     "text": "Three wishes",
+     "level": 2
+    },
+    {
+     "text": "Smoke wisps",
+     "level": 3
+    },
+    {
+     "text": "Rubbed lamp",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Djinn",
+    "Fairy",
+    "Wizard"
+   ]
+  },
+  {
+   "word": "Kitsune",
+   "hints": [
+    {
+     "text": "Japanese spirit",
+     "level": 1
+    },
+    {
+     "text": "Fox spirit",
+     "level": 1
+    },
+    {
+     "text": "Shapeshifts into women",
+     "level": 2
+    },
+    {
+     "text": "Trickster",
+     "level": 2
+    },
+    {
+     "text": "Many tails",
+     "level": 3
+    },
+    {
+     "text": "Glowing fur",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tanuki",
+    "Tengu",
+    "Werewolf"
+   ]
+  },
+  {
+   "word": "Tengu",
+   "hints": [
+    {
+     "text": "Japanese spirit",
+     "level": 1
+    },
+    {
+     "text": "Mountain goblin",
+     "level": 1
+    },
+    {
+     "text": "Masters of martial arts",
+     "level": 2
+    },
+    {
+     "text": "Mischief",
+     "level": 2
+    },
+    {
+     "text": "Long nose",
+     "level": 3
+    },
+    {
+     "text": "Red face",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kappa",
+    "Oni",
+    "Kitsune"
+   ]
+  },
+  {
+   "word": "Kappa",
+   "hints": [
+    {
+     "text": "Japanese creature",
+     "level": 1
+    },
+    {
+     "text": "River imp",
+     "level": 1
+    },
+    {
+     "text": "Loves cucumbers",
+     "level": 2
+    },
+    {
+     "text": "Drowns swimmers",
+     "level": 2
+    },
+    {
+     "text": "Water dish on head",
+     "level": 3
+    },
+    {
+     "text": "Turtle shell",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tengu",
+    "Kitsune",
+    "Goblin"
+   ]
+  },
+  {
+   "word": "Oni",
+   "hints": [
+    {
+     "text": "Japanese demon",
+     "level": 1
+    },
+    {
+     "text": "Ogre",
+     "level": 1
+    },
+    {
+     "text": "Festival masks",
+     "level": 2
+    },
+    {
+     "text": "Carries club",
+     "level": 2
+    },
+    {
+     "text": "Red or blue skin",
+     "level": 3
+    },
+    {
+     "text": "Horns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Troll",
+    "Ogre",
+    "Tengu"
+   ]
+  },
+  {
+   "word": "Naga",
+   "hints": [
+    {
+     "text": "Serpent being",
+     "level": 1
+    },
+    {
+     "text": "South asian deity",
+     "level": 1
+    },
+    {
+     "text": "Guards treasures",
+     "level": 2
+    },
+    {
+     "text": "Water realms",
+     "level": 2
+    },
+    {
+     "text": "Cobra hood",
+     "level": 3
+    },
+    {
+     "text": "Half snake",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Basilisk",
+    "Lamia",
+    "Hydra"
+   ]
+  },
+  {
+   "word": "Garuda",
+   "hints": [
+    {
+     "text": "Bird deity",
+     "level": 1
+    },
+    {
+     "text": "Hindu legend",
+     "level": 1
+    },
+    {
+     "text": "Vishnu's mount",
+     "level": 2
+    },
+    {
+     "text": "Enemy of serpents",
+     "level": 2
+    },
+    {
+     "text": "Eagle like",
+     "level": 3
+    },
+    {
+     "text": "Golden wings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Phoenix",
+    "Roc",
+    "Thunderbird"
+   ]
+  },
+  {
+   "word": "Wendigo",
+   "hints": [
+    {
+     "text": "Cryptid",
+     "level": 1
+    },
+    {
+     "text": "Cannibal spirit",
+     "level": 1
+    },
+    {
+     "text": "North woods legend",
+     "level": 2
+    },
+    {
+     "text": "Endless hunger",
+     "level": 2
+    },
+    {
+     "text": "Antlered skull",
+     "level": 3
+    },
+    {
+     "text": "Gaunt body",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Yeti",
+    "Skinwalker",
+    "Werewolf"
+   ]
+  },
+  {
+   "word": "Chupacabra",
+   "hints": [
+    {
+     "text": "Cryptid",
+     "level": 1
+    },
+    {
+     "text": "Blood drinker",
+     "level": 1
+    },
+    {
+     "text": "Latin american legend",
+     "level": 2
+    },
+    {
+     "text": "Livestock attacks",
+     "level": 2
+    },
+    {
+     "text": "Spiky back",
+     "level": 3
+    },
+    {
+     "text": "Glowing eyes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wendigo",
+    "Vampire",
+    "Jackalope"
+   ]
+  },
+  {
+   "word": "Mothman",
+   "hints": [
+    {
+     "text": "Cryptid",
+     "level": 1
+    },
+    {
+     "text": "Winged humanoid",
+     "level": 1
+    },
+    {
+     "text": "West virginia legend",
+     "level": 2
+    },
+    {
+     "text": "Bridge sighting",
+     "level": 2
+    },
+    {
+     "text": "Glowing red eyes",
+     "level": 3
+    },
+    {
+     "text": "Large wings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bigfoot",
+    "Jersey devil",
+    "Owlman"
+   ]
+  },
+  {
+   "word": "Jackalope",
+   "hints": [
+    {
+     "text": "Cryptid",
+     "level": 1
+    },
+    {
+     "text": "Joke creature",
+     "level": 1
+    },
+    {
+     "text": "Postcard prank",
+     "level": 2
+    },
+    {
+     "text": "Wild west tall tale",
+     "level": 2
+    },
+    {
+     "text": "Rabbit body",
+     "level": 3
+    },
+    {
+     "text": "Antlers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Unicorn",
+    "Chupacabra",
+    "Wolpertinger"
+   ]
+  },
+  {
+   "word": "Thunderbird",
+   "hints": [
+    {
+     "text": "Mythical flyer",
+     "level": 1
+    },
+    {
+     "text": "Native american legend",
+     "level": 1
+    },
+    {
+     "text": "Creates storms",
+     "level": 2
+    },
+    {
+     "text": "Totem poles",
+     "level": 2
+    },
+    {
+     "text": "Giant wings",
+     "level": 3
+    },
+    {
+     "text": "Lightning eyes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Phoenix",
+    "Roc",
+    "Garuda"
+   ]
+  },
+  {
+   "word": "Roc",
+   "hints": [
+    {
+     "text": "Giant bird",
+     "level": 1
+    },
+    {
+     "text": "Arabian legend",
+     "level": 1
+    },
+    {
+     "text": "Carries elephants",
+     "level": 2
+    },
+    {
+     "text": "Sailor tales",
+     "level": 2
+    },
+    {
+     "text": "Enormous wingspan",
+     "level": 3
+    },
+    {
+     "text": "Huge eggs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Phoenix",
+    "Thunderbird",
+    "Garuda"
+   ]
+  },
+  {
+   "word": "Hippogriff",
+   "hints": [
+    {
+     "text": "Mythical beast",
+     "level": 1
+    },
+    {
+     "text": "Hybrid flyer",
+     "level": 1
+    },
+    {
+     "text": "Bow before riding",
+     "level": 2
+    },
+    {
+     "text": "Fantasy steed",
+     "level": 2
+    },
+    {
+     "text": "Eagle front",
+     "level": 3
+    },
+    {
+     "text": "Horse back",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Griffin",
+    "Pegasus",
+    "Unicorn"
+   ]
+  },
+  {
+   "word": "Kirin",
+   "hints": [
+    {
+     "text": "Asian beast",
+     "level": 1
+    },
+    {
+     "text": "Auspicious creature",
+     "level": 1
+    },
+    {
+     "text": "Appears for wise rulers",
+     "level": 2
+    },
+    {
+     "text": "Gentle",
+     "level": 2
+    },
+    {
+     "text": "Dragon scales",
+     "level": 3
+    },
+    {
+     "text": "Deer body",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Unicorn",
+    "Qilin",
+    "Dragon"
+   ]
+  },
+  {
+   "word": "Banshee",
+   "hints": [
+    {
+     "text": "Irish spirit",
+     "level": 1
+    },
+    {
+     "text": "Wailing woman",
+     "level": 1
+    },
+    {
+     "text": "Wails before death",
+     "level": 2
+    },
+    {
+     "text": "Omen",
+     "level": 2
+    },
+    {
+     "text": "Piercing scream",
+     "level": 3
+    },
+    {
+     "text": "Ghostly figure",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ghost",
+    "Siren",
+    "Wraith"
+   ]
+  },
+  {
+   "word": "Wraith",
+   "hints": [
+    {
+     "text": "Ghostly being",
+     "level": 1
+    },
+    {
+     "text": "Spectral figure",
+     "level": 1
+    },
+    {
+     "text": "Dark fantasy villain",
+     "level": 2
+    },
+    {
+     "text": "Drains life",
+     "level": 2
+    },
+    {
+     "text": "Shadowy form",
+     "level": 3
+    },
+    {
+     "text": "Hooded cloak",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ghost",
+    "Specter",
+    "Banshee"
+   ]
+  },
+  {
+   "word": "Poltergeist",
+   "hints": [
+    {
+     "text": "Noisy ghost",
+     "level": 1
+    },
+    {
+     "text": "Haunting spirit",
+     "level": 1
+    },
+    {
+     "text": "Throws objects",
+     "level": 2
+    },
+    {
+     "text": "Bangs in night",
+     "level": 2
+    },
+    {
+     "text": "Flying furniture",
+     "level": 3
+    },
+    {
+     "text": "Unseen force",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ghost",
+    "Phantom",
+    "Demon"
+   ]
+  },
+  {
+   "word": "Ghoul",
+   "hints": [
+    {
+     "text": "Undead creature",
+     "level": 1
+    },
+    {
+     "text": "Grave robber",
+     "level": 1
+    },
+    {
+     "text": "Feeds on corpses",
+     "level": 2
+    },
+    {
+     "text": "Lurks in cemeteries",
+     "level": 2
+    },
+    {
+     "text": "Pale skin",
+     "level": 3
+    },
+    {
+     "text": "Sharp claws",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Zombie",
+    "Vampire",
+    "Mummy"
+   ]
+  },
+  {
+   "word": "Imp",
+   "hints": [
+    {
+     "text": "Small demon",
+     "level": 1
+    },
+    {
+     "text": "Mischievous creature",
+     "level": 1
+    },
+    {
+     "text": "Plays pranks",
+     "level": 2
+    },
+    {
+     "text": "Pesky helper",
+     "level": 2
+    },
+    {
+     "text": "Tiny horns",
+     "level": 3
+    },
+    {
+     "text": "Bat wings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Goblin",
+    "Gremlin",
+    "Pixie"
+   ]
+  },
+  {
+   "word": "Gremlin",
+   "hints": [
+    {
+     "text": "Mischievous creature",
+     "level": 1
+    },
+    {
+     "text": "Machine wrecker",
+     "level": 1
+    },
+    {
+     "text": "Pilots blamed them",
+     "level": 2
+    },
+    {
+     "text": "Breaks gadgets",
+     "level": 2
+    },
+    {
+     "text": "Pointy ears",
+     "level": 3
+    },
+    {
+     "text": "Grinning teeth",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Goblin",
+    "Imp",
+    "Troll"
+   ]
+  },
+  {
+   "word": "Hobgoblin",
+   "hints": [
+    {
+     "text": "Household spirit",
+     "level": 1
+    },
+    {
+     "text": "Puckish kin",
+     "level": 1
+    },
+    {
+     "text": "Helpful or tricky",
+     "level": 2
+    },
+    {
+     "text": "English folklore",
+     "level": 2
+    },
+    {
+     "text": "Small and hairy",
+     "level": 3
+    },
+    {
+     "text": "Mischievous grin",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gremlin",
+    "Brownie",
+    "Imp"
+   ]
+  },
+  {
+   "word": "Brownie",
+   "hints": [
+    {
+     "text": "Household spirit",
+     "level": 1
+    },
+    {
+     "text": "Helpful fairy",
+     "level": 1
+    },
+    {
+     "text": "Does chores at night",
+     "level": 2
+    },
+    {
+     "text": "Leave out milk",
+     "level": 2
+    },
+    {
+     "text": "Tiny and shaggy",
+     "level": 3
+    },
+    {
+     "text": "Shy helper",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hobgoblin",
+    "Elf",
+    "Gnome"
+   ]
+  },
+  {
+   "word": "Boggart",
+   "hints": [
+    {
+     "text": "Household spirit",
+     "level": 1
+    },
+    {
+     "text": "Shapeshifter",
+     "level": 1
+    },
+    {
+     "text": "English folklore",
+     "level": 2
+    },
+    {
+     "text": "Scares children",
+     "level": 2
+    },
+    {
+     "text": "Takes feared forms",
+     "level": 3
+    },
+    {
+     "text": "Hides in closets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bogeyman",
+    "Poltergeist",
+    "Hobgoblin"
+   ]
+  },
+  {
+   "word": "Bogeyman",
+   "hints": [
+    {
+     "text": "Scary figure",
+     "level": 1
+    },
+    {
+     "text": "Child fright",
+     "level": 1
+    },
+    {
+     "text": "Hides under beds",
+     "level": 2
+    },
+    {
+     "text": "Behave warning",
+     "level": 2
+    },
+    {
+     "text": "Shadowy shape",
+     "level": 3
+    },
+    {
+     "text": "Lurks in closets",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ghost",
+    "Boggart",
+    "Monster"
+   ]
+  },
+  {
+   "word": "Sandman",
+   "hints": [
+    {
+     "text": "Sleep spirit",
+     "level": 1
+    },
+    {
+     "text": "Folklore figure",
+     "level": 1
+    },
+    {
+     "text": "Brings dreams",
+     "level": 2
+    },
+    {
+     "text": "Sprinkles sleepy dust",
+     "level": 2
+    },
+    {
+     "text": "Sack of dust",
+     "level": 3
+    },
+    {
+     "text": "Night visitor",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tooth fairy",
+    "Bogeyman",
+    "Elf"
+   ]
+  },
+  {
+   "word": "Tooth fairy",
+   "hints": [
+    {
+     "text": "Childhood spirit",
+     "level": 1
+    },
+    {
+     "text": "Night visitor",
+     "level": 1
+    },
+    {
+     "text": "Swaps teeth for coins",
+     "level": 2
+    },
+    {
+     "text": "Under pillows",
+     "level": 2
+    },
+    {
+     "text": "Tiny wings",
+     "level": 3
+    },
+    {
+     "text": "Collects baby teeth",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sandman",
+    "Easter bunny",
+    "Elf"
+   ]
+  },
+  {
+   "word": "Kobold",
+   "hints": [
+    {
+     "text": "Household sprite",
+     "level": 1
+    },
+    {
+     "text": "German goblin",
+     "level": 1
+    },
+    {
+     "text": "Mines and kitchens",
+     "level": 2
+    },
+    {
+     "text": "Mischief",
+     "level": 2
+    },
+    {
+     "text": "Small and sneaky",
+     "level": 3
+    },
+    {
+     "text": "Glowing eyes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gnome",
+    "Goblin",
+    "Brownie"
+   ]
+  },
+  {
+   "word": "Nixie",
+   "hints": [
+    {
+     "text": "Water sprite",
+     "level": 1
+    },
+    {
+     "text": "Shapeshifter",
+     "level": 1
+    },
+    {
+     "text": "Lures to rivers",
+     "level": 2
+    },
+    {
+     "text": "Germanic legend",
+     "level": 2
+    },
+    {
+     "text": "Lives in rivers",
+     "level": 3
+    },
+    {
+     "text": "Plays music",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Naiad",
+    "Kelpie",
+    "Mermaid"
+   ]
+  },
+  {
+   "word": "Sprite",
+   "hints": [
+    {
+     "text": "Small spirit",
+     "level": 1
+    },
+    {
+     "text": "Elemental being",
+     "level": 1
+    },
+    {
+     "text": "Woodland mischief",
+     "level": 2
+    },
+    {
+     "text": "Quick and light",
+     "level": 2
+    },
+    {
+     "text": "Tiny glowing figure",
+     "level": 3
+    },
+    {
+     "text": "Airy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fairy",
+    "Pixie",
+    "Wisp"
+   ]
+  },
+  {
+   "word": "Specter",
+   "hints": [
+    {
+     "text": "Ghostly figure",
+     "level": 1
+    },
+    {
+     "text": "Apparition",
+     "level": 1
+    },
+    {
+     "text": "Haunts castles",
+     "level": 2
+    },
+    {
+     "text": "Chilling presence",
+     "level": 2
+    },
+    {
+     "text": "Transparent form",
+     "level": 3
+    },
+    {
+     "text": "Cold air",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ghost",
+    "Wraith",
+    "Phantom"
+   ]
+  },
+  {
+   "word": "Phantom",
+   "hints": [
+    {
+     "text": "Ghostly figure",
+     "level": 1
+    },
+    {
+     "text": "Apparition",
+     "level": 1
+    },
+    {
+     "text": "Opera legend",
+     "level": 2
+    },
+    {
+     "text": "Vanishes suddenly",
+     "level": 2
+    },
+    {
+     "text": "Masked face",
+     "level": 3
+    },
+    {
+     "text": "Shadowy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ghost",
+    "Specter",
+    "Wraith"
+   ]
+  },
+  {
+   "word": "Lich",
+   "hints": [
+    {
+     "text": "Undead sorcerer",
+     "level": 1
+    },
+    {
+     "text": "Dark wizard",
+     "level": 1
+    },
+    {
+     "text": "Seeks immortality",
+     "level": 2
+    },
+    {
+     "text": "Fantasy villain",
+     "level": 2
+    },
+    {
+     "text": "Skeletal mage",
+     "level": 3
+    },
+    {
+     "text": "Hidden soul jar",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wraith",
+    "Necromancer",
+    "Vampire"
+   ]
+  },
+  {
+   "word": "Revenant",
+   "hints": [
+    {
+     "text": "Undead returner",
+     "level": 1
+    },
+    {
+     "text": "Vengeful corpse",
+     "level": 1
+    },
+    {
+     "text": "Returns for revenge",
+     "level": 2
+    },
+    {
+     "text": "Medieval legend",
+     "level": 2
+    },
+    {
+     "text": "Decayed figure",
+     "level": 3
+    },
+    {
+     "text": "Unfinished business",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Zombie",
+    "Ghoul",
+    "Wraith"
+   ]
+  },
+  {
+   "word": "Dullahan",
+   "hints": [
+    {
+     "text": "Irish spirit",
+     "level": 1
+    },
+    {
+     "text": "Headless rider",
+     "level": 1
+    },
+    {
+     "text": "Omen of death",
+     "level": 2
+    },
+    {
+     "text": "Black horse",
+     "level": 2
+    },
+    {
+     "text": "Carries own head",
+     "level": 3
+    },
+    {
+     "text": "Whip of spine",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Banshee",
+    "Wraith",
+    "Phantom"
+   ]
+  },
+  {
+   "word": "Lamia",
+   "hints": [
+    {
+     "text": "Greek monster",
+     "level": 1
+    },
+    {
+     "text": "Serpent woman",
+     "level": 1
+    },
+    {
+     "text": "Devours children",
+     "level": 2
+    },
+    {
+     "text": "Ancient legend",
+     "level": 2
+    },
+    {
+     "text": "Snake lower body",
+     "level": 3
+    },
+    {
+     "text": "Woman upper",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Naga",
+    "Gorgon",
+    "Siren"
+   ]
+  },
+  {
+   "word": "Sea serpent",
+   "hints": [
+    {
+     "text": "Ocean monster",
+     "level": 1
+    },
+    {
+     "text": "Giant snake",
+     "level": 1
+    },
+    {
+     "text": "Sailor sightings",
+     "level": 2
+    },
+    {
+     "text": "Ancient maps",
+     "level": 2
+    },
+    {
+     "text": "Coiling body",
+     "level": 3
+    },
+    {
+     "text": "Rises from waves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kraken",
+    "Leviathan",
+    "Hydra"
+   ]
+  },
+  {
+   "word": "Leviathan",
+   "hints": [
+    {
+     "text": "Sea monster",
+     "level": 1
+    },
+    {
+     "text": "Biblical beast",
+     "level": 1
+    },
+    {
+     "text": "Ocean chaos",
+     "level": 2
+    },
+    {
+     "text": "Ancient scripture",
+     "level": 2
+    },
+    {
+     "text": "Colossal size",
+     "level": 3
+    },
+    {
+     "text": "Scaly coils",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kraken",
+    "Behemoth",
+    "Sea serpent"
+   ]
+  },
+  {
+   "word": "Behemoth",
+   "hints": [
+    {
+     "text": "Land monster",
+     "level": 1
+    },
+    {
+     "text": "Biblical beast",
+     "level": 1
+    },
+    {
+     "text": "Ancient scripture",
+     "level": 2
+    },
+    {
+     "text": "Unstoppable",
+     "level": 2
+    },
+    {
+     "text": "Colossal size",
+     "level": 3
+    },
+    {
+     "text": "Mighty tail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Leviathan",
+    "Titan",
+    "Giant"
+   ]
+  },
+  {
+   "word": "Nessie",
+   "hints": [
+    {
+     "text": "Lake monster",
+     "level": 1
+    },
+    {
+     "text": "Scottish cryptid",
+     "level": 1
+    },
+    {
+     "text": "Blurry photos",
+     "level": 2
+    },
+    {
+     "text": "Tourist legend",
+     "level": 2
+    },
+    {
+     "text": "Long neck",
+     "level": 3
+    },
+    {
+     "text": "Humps in water",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kraken",
+    "Sea serpent",
+    "Bigfoot"
+   ]
+  },
+  {
+   "word": "Hellhound",
+   "hints": [
+    {
+     "text": "Demonic dog",
+     "level": 1
+    },
+    {
+     "text": "Underworld beast",
+     "level": 1
+    },
+    {
+     "text": "Hunts souls",
+     "level": 2
+    },
+    {
+     "text": "Omen of death",
+     "level": 2
+    },
+    {
+     "text": "Fiery eyes",
+     "level": 3
+    },
+    {
+     "text": "Black fur",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cerberus",
+    "Werewolf",
+    "Barghest"
+   ]
+  },
+  {
+   "word": "Fenrir",
+   "hints": [
+    {
+     "text": "Norse wolf",
+     "level": 1
+    },
+    {
+     "text": "Giant beast",
+     "level": 1
+    },
+    {
+     "text": "Bound by gods",
+     "level": 2
+    },
+    {
+     "text": "Swallows the sun",
+     "level": 2
+    },
+    {
+     "text": "Enormous wolf",
+     "level": 3
+    },
+    {
+     "text": "Broken chains",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cerberus",
+    "Werewolf",
+    "Hellhound"
+   ]
+  },
+  {
+   "word": "Valkyrie",
+   "hints": [
+    {
+     "text": "Norse warrior maiden",
+     "level": 1
+    },
+    {
+     "text": "Battle spirit",
+     "level": 1
+    },
+    {
+     "text": "Chooses the fallen",
+     "level": 2
+    },
+    {
+     "text": "Rides to hall",
+     "level": 2
+    },
+    {
+     "text": "Winged helmet",
+     "level": 3
+    },
+    {
+     "text": "Flying horse",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Harpy",
+    "Angel",
+    "Amazon"
+   ]
+  },
+  {
+   "word": "Titan",
+   "hints": [
+    {
+     "text": "Greek giant",
+     "level": 1
+    },
+    {
+     "text": "Primordial god",
+     "level": 1
+    },
+    {
+     "text": "Before the olympians",
+     "level": 2
+    },
+    {
+     "text": "Overthrown",
+     "level": 2
+    },
+    {
+     "text": "Colossal size",
+     "level": 3
+    },
+    {
+     "text": "Ancient power",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Giant",
+    "Cyclops",
+    "Golem"
+   ]
+  },
+  {
+   "word": "Giant",
+   "hints": [
+    {
+     "text": "Huge being",
+     "level": 1
+    },
+    {
+     "text": "Fairy tale figure",
+     "level": 1
+    },
+    {
+     "text": "Beanstalk story",
+     "level": 2
+    },
+    {
+     "text": "Fee fi fo fum",
+     "level": 2
+    },
+    {
+     "text": "Towering height",
+     "level": 3
+    },
+    {
+     "text": "Stomps",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Titan",
+    "Ogre",
+    "Troll"
+   ]
+  },
+  {
+   "word": "Angel",
+   "hints": [
+    {
+     "text": "Heavenly being",
+     "level": 1
+    },
+    {
+     "text": "Divine messenger",
+     "level": 1
+    },
+    {
+     "text": "Guardian protector",
+     "level": 2
+    },
+    {
+     "text": "Christmas tree topper",
+     "level": 2
+    },
+    {
+     "text": "Feathered wings",
+     "level": 3
+    },
+    {
+     "text": "Halo",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cherub",
+    "Fairy",
+    "Valkyrie"
+   ]
+  },
+  {
+   "word": "Cherub",
+   "hints": [
+    {
+     "text": "Winged child",
+     "level": 1
+    },
+    {
+     "text": "Heavenly being",
+     "level": 1
+    },
+    {
+     "text": "Valentine imagery",
+     "level": 2
+    },
+    {
+     "text": "Church paintings",
+     "level": 2
+    },
+    {
+     "text": "Chubby baby",
+     "level": 3
+    },
+    {
+     "text": "Tiny wings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Angel",
+    "Cupid",
+    "Fairy"
+   ]
+  },
+  {
+   "word": "Demon",
+   "hints": [
+    {
+     "text": "Evil spirit",
+     "level": 1
+    },
+    {
+     "text": "Underworld being",
+     "level": 1
+    },
+    {
+     "text": "Possession stories",
+     "level": 2
+    },
+    {
+     "text": "Exorcisms",
+     "level": 2
+    },
+    {
+     "text": "Horns and tail",
+     "level": 3
+    },
+    {
+     "text": "Red eyes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Devil",
+    "Imp",
+    "Ghost"
+   ]
+  },
+  {
+   "word": "Gargoyle",
+   "hints": [
+    {
+     "text": "Stone creature",
+     "level": 1
+    },
+    {
+     "text": "Cathedral guardian",
+     "level": 1
+    },
+    {
+     "text": "Comes alive at night",
+     "level": 2
+    },
+    {
+     "text": "Gothic buildings",
+     "level": 2
+    },
+    {
+     "text": "Winged statue",
+     "level": 3
+    },
+    {
+     "text": "Water spout",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Golem",
+    "Statue",
+    "Demon"
+   ]
+  },
+  {
+   "word": "Shapeshifter",
+   "hints": [
+    {
+     "text": "Transforming being",
+     "level": 1
+    },
+    {
+     "text": "Mythical changer",
+     "level": 1
+    },
+    {
+     "text": "Mimics others",
+     "level": 2
+    },
+    {
+     "text": "Folklore across cultures",
+     "level": 2
+    },
+    {
+     "text": "Changes form",
+     "level": 3
+    },
+    {
+     "text": "Hidden identity",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Werewolf",
+    "Changeling",
+    "Doppelganger"
+   ]
+  },
+  {
+   "word": "Changeling",
+   "hints": [
+    {
+     "text": "Fairy child",
+     "level": 1
+    },
+    {
+     "text": "Swapped baby",
+     "level": 1
+    },
+    {
+     "text": "Left by fairies",
+     "level": 2
+    },
+    {
+     "text": "Irish folklore",
+     "level": 2
+    },
+    {
+     "text": "Strange behavior",
+     "level": 3
+    },
+    {
+     "text": "Looks like a child",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shapeshifter",
+    "Elf",
+    "Pixie"
+   ]
+  },
+  {
+   "word": "Doppelganger",
+   "hints": [
+    {
+     "text": "Ghostly double",
+     "level": 1
+    },
+    {
+     "text": "Look alike",
+     "level": 1
+    },
+    {
+     "text": "Bad omen",
+     "level": 2
+    },
+    {
+     "text": "Meeting yourself",
+     "level": 2
+    },
+    {
+     "text": "Identical twin",
+     "level": 3
+    },
+    {
+     "text": "Spooky copy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shapeshifter",
+    "Twin",
+    "Clone"
+   ]
+  },
+  {
+   "word": "Skinwalker",
+   "hints": [
+    {
+     "text": "Shapeshifter",
+     "level": 1
+    },
+    {
+     "text": "Navajo legend",
+     "level": 1
+    },
+    {
+     "text": "Wears animal skins",
+     "level": 2
+    },
+    {
+     "text": "Night terror",
+     "level": 2
+    },
+    {
+     "text": "Eerie howls",
+     "level": 3
+    },
+    {
+     "text": "Walks upright",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Werewolf",
+    "Wendigo",
+    "Shapeshifter"
+   ]
+  },
+  {
+   "word": "Rakshasa",
+   "hints": [
+    {
+     "text": "Hindu demon",
+     "level": 1
+    },
+    {
+     "text": "Shapeshifter",
+     "level": 1
+    },
+    {
+     "text": "Epic villains",
+     "level": 2
+    },
+    {
+     "text": "Man eater",
+     "level": 2
+    },
+    {
+     "text": "Fangs and claws",
+     "level": 3
+    },
+    {
+     "text": "Many forms",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Asura",
+    "Ogre",
+    "Vampire"
+   ]
+  },
+  {
+   "word": "Vetala",
+   "hints": [
+    {
+     "text": "Hindu spirit",
+     "level": 1
+    },
+    {
+     "text": "Corpse dweller",
+     "level": 1
+    },
+    {
+     "text": "Riddles a king",
+     "level": 2
+    },
+    {
+     "text": "Lives in cemeteries",
+     "level": 2
+    },
+    {
+     "text": "Hangs from trees",
+     "level": 3
+    },
+    {
+     "text": "Possesses bodies",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ghost",
+    "Vampire",
+    "Rakshasa"
+   ]
+  },
+  {
+   "word": "Yaksha",
+   "hints": [
+    {
+     "text": "Nature spirit",
+     "level": 1
+    },
+    {
+     "text": "Treasure guardian",
+     "level": 1
+    },
+    {
+     "text": "Hindu and buddhist lore",
+     "level": 2
+    },
+    {
+     "text": "Guards wealth",
+     "level": 2
+    },
+    {
+     "text": "Stout figure",
+     "level": 3
+    },
+    {
+     "text": "Temple carvings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gandharva",
+    "Naga",
+    "Genie"
+   ]
+  },
+  {
+   "word": "Apsara",
+   "hints": [
+    {
+     "text": "Celestial dancer",
+     "level": 1
+    },
+    {
+     "text": "Heavenly nymph",
+     "level": 1
+    },
+    {
+     "text": "Temple carvings",
+     "level": 2
+    },
+    {
+     "text": "Divine courts",
+     "level": 2
+    },
+    {
+     "text": "Graceful dancer",
+     "level": 3
+    },
+    {
+     "text": "Jeweled crown",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Nymph",
+    "Angel",
+    "Gandharva"
+   ]
+  },
+  {
+   "word": "Makara",
+   "hints": [
+    {
+     "text": "Sea creature",
+     "level": 1
+    },
+    {
+     "text": "Hindu beast",
+     "level": 1
+    },
+    {
+     "text": "River goddess mount",
+     "level": 2
+    },
+    {
+     "text": "Temple gates",
+     "level": 2
+    },
+    {
+     "text": "Crocodile body",
+     "level": 3
+    },
+    {
+     "text": "Elephant snout",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Naga",
+    "Kraken",
+    "Leviathan"
+   ]
+  },
+  {
+   "word": "Kinnara",
+   "hints": [
+    {
+     "text": "Celestial musician",
+     "level": 1
+    },
+    {
+     "text": "Half bird being",
+     "level": 1
+    },
+    {
+     "text": "Buddhist art",
+     "level": 2
+    },
+    {
+     "text": "Heavenly songs",
+     "level": 2
+    },
+    {
+     "text": "Human torso",
+     "level": 3
+    },
+    {
+     "text": "Bird legs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Harpy",
+    "Apsara",
+    "Garuda"
+   ]
+  },
+  {
+   "word": "Asura",
+   "hints": [
+    {
+     "text": "Demon race",
+     "level": 1
+    },
+    {
+     "text": "Power seekers",
+     "level": 1
+    },
+    {
+     "text": "Fight the devas",
+     "level": 2
+    },
+    {
+     "text": "Hindu epics",
+     "level": 2
+    },
+    {
+     "text": "Many arms",
+     "level": 3
+    },
+    {
+     "text": "Fierce faces",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rakshasa",
+    "Titan",
+    "Demon"
+   ]
+  },
+  {
+   "word": "Djinn",
+   "hints": [
+    {
+     "text": "Spirit being",
+     "level": 1
+    },
+    {
+     "text": "Arabian legend",
+     "level": 1
+    },
+    {
+     "text": "Made of smokeless fire",
+     "level": 2
+    },
+    {
+     "text": "Grants wishes",
+     "level": 2
+    },
+    {
+     "text": "Bound to lamps",
+     "level": 3
+    },
+    {
+     "text": "Invisible",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Genie",
+    "Ifrit",
+    "Demon"
+   ]
+  },
+  {
+   "word": "Ifrit",
+   "hints": [
+    {
+     "text": "Fire spirit",
+     "level": 1
+    },
+    {
+     "text": "Arabian demon",
+     "level": 1
+    },
+    {
+     "text": "Powerful djinn class",
+     "level": 2
+    },
+    {
+     "text": "Feared",
+     "level": 2
+    },
+    {
+     "text": "Flaming body",
+     "level": 3
+    },
+    {
+     "text": "Smoky wings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Djinn",
+    "Genie",
+    "Demon"
+   ]
+  },
+  {
+   "word": "Bunyip",
+   "hints": [
+    {
+     "text": "Australian cryptid",
+     "level": 1
+    },
+    {
+     "text": "Swamp monster",
+     "level": 1
+    },
+    {
+     "text": "Aboriginal legend",
+     "level": 2
+    },
+    {
+     "text": "Lurks in billabongs",
+     "level": 2
+    },
+    {
+     "text": "Booming cry",
+     "level": 3
+    },
+    {
+     "text": "Furry body",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Yowie",
+    "Kelpie",
+    "Swamp thing"
+   ]
+  },
+  {
+   "word": "Yowie",
+   "hints": [
+    {
+     "text": "Australian cryptid",
+     "level": 1
+    },
+    {
+     "text": "Hairy giant",
+     "level": 1
+    },
+    {
+     "text": "Outback sightings",
+     "level": 2
+    },
+    {
+     "text": "Blurry photos",
+     "level": 2
+    },
+    {
+     "text": "Ape like",
+     "level": 3
+    },
+    {
+     "text": "Big footprints",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bigfoot",
+    "Yeti",
+    "Bunyip"
+   ]
+  },
+  {
+   "word": "Tikbalang",
+   "hints": [
+    {
+     "text": "Filipino creature",
+     "level": 1
+    },
+    {
+     "text": "Trickster",
+     "level": 1
+    },
+    {
+     "text": "Leads travelers astray",
+     "level": 2
+    },
+    {
+     "text": "Forest dweller",
+     "level": 2
+    },
+    {
+     "text": "Horse head",
+     "level": 3
+    },
+    {
+     "text": "Long limbs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kapre",
+    "Aswang",
+    "Centaur"
+   ]
+  },
+  {
+   "word": "Aswang",
+   "hints": [
+    {
+     "text": "Filipino monster",
+     "level": 1
+    },
+    {
+     "text": "Shapeshifter",
+     "level": 1
+    },
+    {
+     "text": "Night terror",
+     "level": 2
+    },
+    {
+     "text": "Village legend",
+     "level": 2
+    },
+    {
+     "text": "Long tongue",
+     "level": 3
+    },
+    {
+     "text": "Flying torso",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Vampire",
+    "Ghoul",
+    "Tikbalang"
+   ]
+  },
+  {
+   "word": "Baku",
+   "hints": [
+    {
+     "text": "Dream eater",
+     "level": 1
+    },
+    {
+     "text": "Japanese spirit",
+     "level": 1
+    },
+    {
+     "text": "Eats nightmares",
+     "level": 2
+    },
+    {
+     "text": "Pillow charm",
+     "level": 2
+    },
+    {
+     "text": "Elephant trunk",
+     "level": 3
+    },
+    {
+     "text": "Tiger paws",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tapir",
+    "Kirin",
+    "Kitsune"
+   ]
+  },
+  {
+   "word": "Tanuki",
+   "hints": [
+    {
+     "text": "Japanese creature",
+     "level": 1
+    },
+    {
+     "text": "Raccoon dog spirit",
+     "level": 1
+    },
+    {
+     "text": "Shapeshifting trickster",
+     "level": 2
+    },
+    {
+     "text": "Statues outside shops",
+     "level": 2
+    },
+    {
+     "text": "Big belly",
+     "level": 3
+    },
+    {
+     "text": "Straw hat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kitsune",
+    "Kappa",
+    "Raccoon"
+   ]
+  },
+  {
+   "word": "Rusalka",
+   "hints": [
+    {
+     "text": "Slavic spirit",
+     "level": 1
+    },
+    {
+     "text": "Water maiden",
+     "level": 1
+    },
+    {
+     "text": "Drowns young men",
+     "level": 2
+    },
+    {
+     "text": "Haunts rivers",
+     "level": 2
+    },
+    {
+     "text": "Pale maiden",
+     "level": 3
+    },
+    {
+     "text": "Wet hair",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mermaid",
+    "Nixie",
+    "Siren"
+   ]
+  },
+  {
+   "word": "Domovoi",
+   "hints": [
+    {
+     "text": "Slavic spirit",
+     "level": 1
+    },
+    {
+     "text": "House guardian",
+     "level": 1
+    },
+    {
+     "text": "Lives behind stove",
+     "level": 2
+    },
+    {
+     "text": "Protects home",
+     "level": 2
+    },
+    {
+     "text": "Small bearded man",
+     "level": 3
+    },
+    {
+     "text": "Hairy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Brownie",
+    "Kobold",
+    "Gnome"
+   ]
+  },
+  {
+   "word": "Firebird",
+   "hints": [
+    {
+     "text": "Slavic legend",
+     "level": 1
+    },
+    {
+     "text": "Glowing creature",
+     "level": 1
+    },
+    {
+     "text": "Russian fairy tales",
+     "level": 2
+    },
+    {
+     "text": "Quest prize",
+     "level": 2
+    },
+    {
+     "text": "Flaming plumage",
+     "level": 3
+    },
+    {
+     "text": "Golden glow",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Phoenix",
+    "Thunderbird",
+    "Roc"
+   ]
+  },
+  {
+   "word": "Baba yaga",
+   "hints": [
+    {
+     "text": "Slavic witch",
+     "level": 1
+    },
+    {
+     "text": "Forest crone",
+     "level": 1
+    },
+    {
+     "text": "Fairy tale villain",
+     "level": 2
+    },
+    {
+     "text": "Eats children",
+     "level": 2
+    },
+    {
+     "text": "Chicken leg hut",
+     "level": 3
+    },
+    {
+     "text": "Flying mortar",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hag",
+    "Witch",
+    "Crone"
+   ]
+  },
+  {
+   "word": "Zmey",
+   "hints": [
+    {
+     "text": "Slavic dragon",
+     "level": 1
+    },
+    {
+     "text": "Multi headed beast",
+     "level": 1
+    },
+    {
+     "text": "Russian epics",
+     "level": 2
+    },
+    {
+     "text": "Kidnaps princesses",
+     "level": 2
+    },
+    {
+     "text": "Three heads",
+     "level": 3
+    },
+    {
+     "text": "Breathes fire",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dragon",
+    "Hydra",
+    "Wyvern"
+   ]
+  },
+  {
+   "word": "Alicorn",
+   "hints": [
+    {
+     "text": "Winged unicorn",
+     "level": 1
+    },
+    {
+     "text": "Fantasy creature",
+     "level": 1
+    },
+    {
+     "text": "Royal ponies",
+     "level": 2
+    },
+    {
+     "text": "Ultimate magic",
+     "level": 2
+    },
+    {
+     "text": "Horn and wings",
+     "level": 3
+    },
+    {
+     "text": "Shimmering coat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Unicorn",
+    "Pegasus",
+    "Hippogriff"
+   ]
+  },
+  {
+   "word": "Peryton",
+   "hints": [
+    {
+     "text": "Mythical beast",
+     "level": 1
+    },
+    {
+     "text": "Deer bird",
+     "level": 1
+    },
+    {
+     "text": "Casts human shadow",
+     "level": 2
+    },
+    {
+     "text": "Atlantis myth",
+     "level": 2
+    },
+    {
+     "text": "Stag body",
+     "level": 3
+    },
+    {
+     "text": "Bird wings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hippogriff",
+    "Griffin",
+    "Jackalope"
+   ]
+  },
+  {
+   "word": "Amphisbaena",
+   "hints": [
+    {
+     "text": "Serpent beast",
+     "level": 1
+    },
+    {
+     "text": "Two headed snake",
+     "level": 1
+    },
+    {
+     "text": "Ancient bestiary",
+     "level": 2
+    },
+    {
+     "text": "Rolls like hoop",
+     "level": 2
+    },
+    {
+     "text": "Head at each end",
+     "level": 3
+    },
+    {
+     "text": "Glowing eyes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Basilisk",
+    "Hydra",
+    "Naga"
+   ]
+  },
+  {
+   "word": "Ouroboros",
+   "hints": [
+    {
+     "text": "Serpent symbol",
+     "level": 1
+    },
+    {
+     "text": "Endless loop",
+     "level": 1
+    },
+    {
+     "text": "Eternity sign",
+     "level": 2
+    },
+    {
+     "text": "Alchemy emblem",
+     "level": 2
+    },
+    {
+     "text": "Eats own tail",
+     "level": 3
+    },
+    {
+     "text": "Circular",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dragon",
+    "Basilisk",
+    "Naga"
+   ]
+  },
+  {
+   "word": "Hippocamp",
+   "hints": [
+    {
+     "text": "Sea horse beast",
+     "level": 1
+    },
+    {
+     "text": "Greek creature",
+     "level": 1
+    },
+    {
+     "text": "Pulls sea god chariot",
+     "level": 2
+    },
+    {
+     "text": "Fountains",
+     "level": 2
+    },
+    {
+     "text": "Horse front",
+     "level": 3
+    },
+    {
+     "text": "Fish tail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kelpie",
+    "Mermaid",
+    "Pegasus"
+   ]
+  },
+  {
+   "word": "Triton",
+   "hints": [
+    {
+     "text": "Sea god",
+     "level": 1
+    },
+    {
+     "text": "Merman",
+     "level": 1
+    },
+    {
+     "text": "Blows conch shell",
+     "level": 2
+    },
+    {
+     "text": "Calms waves",
+     "level": 2
+    },
+    {
+     "text": "Fish tail",
+     "level": 3
+    },
+    {
+     "text": "Trident",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mermaid",
+    "Siren",
+    "Selkie"
+   ]
+  },
+  {
+   "word": "Merman",
+   "hints": [
+    {
+     "text": "Sea creature",
+     "level": 1
+    },
+    {
+     "text": "Male mermaid",
+     "level": 1
+    },
+    {
+     "text": "Ocean kingdom",
+     "level": 2
+    },
+    {
+     "text": "Fairy tales",
+     "level": 2
+    },
+    {
+     "text": "Fish tail",
+     "level": 3
+    },
+    {
+     "text": "Trident in hand",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mermaid",
+    "Triton",
+    "Selkie"
+   ]
+  },
+  {
+   "word": "Ent",
+   "hints": [
+    {
+     "text": "Tree giant",
+     "level": 1
+    },
+    {
+     "text": "Forest shepherd",
+     "level": 1
+    },
+    {
+     "text": "Fantasy novel",
+     "level": 2
+    },
+    {
+     "text": "Slow speaking",
+     "level": 2
+    },
+    {
+     "text": "Bark skin",
+     "level": 3
+    },
+    {
+     "text": "Walking tree",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dryad",
+    "Golem",
+    "Troll"
+   ]
+  },
+  {
+   "word": "Treant",
+   "hints": [
+    {
+     "text": "Tree creature",
+     "level": 1
+    },
+    {
+     "text": "Forest guardian",
+     "level": 1
+    },
+    {
+     "text": "Fantasy games",
+     "level": 2
+    },
+    {
+     "text": "Protects woods",
+     "level": 2
+    },
+    {
+     "text": "Moving trunk",
+     "level": 3
+    },
+    {
+     "text": "Branch arms",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ent",
+    "Dryad",
+    "Golem"
+   ]
+  },
+  {
+   "word": "Wisp",
+   "hints": [
+    {
+     "text": "Ghost light",
+     "level": 1
+    },
+    {
+     "text": "Marsh spirit",
+     "level": 1
+    },
+    {
+     "text": "Leads travelers astray",
+     "level": 2
+    },
+    {
+     "text": "Swamp glow",
+     "level": 2
+    },
+    {
+     "text": "Floating flame",
+     "level": 3
+    },
+    {
+     "text": "Flickering",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sprite",
+    "Firefly",
+    "Phantom"
+   ]
+  },
+  {
+   "word": "Hag",
+   "hints": [
+    {
+     "text": "Old witch",
+     "level": 1
+    },
+    {
+     "text": "Folklore crone",
+     "level": 1
+    },
+    {
+     "text": "Curses villages",
+     "level": 2
+    },
+    {
+     "text": "Fairy tale villain",
+     "level": 2
+    },
+    {
+     "text": "Warty nose",
+     "level": 3
+    },
+    {
+     "text": "Bent back",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Witch",
+    "Crone",
+    "Banshee"
+   ]
+  },
+  {
+   "word": "Witch",
+   "hints": [
+    {
+     "text": "Magic user",
+     "level": 1
+    },
+    {
+     "text": "Spell caster",
+     "level": 1
+    },
+    {
+     "text": "Flies on broom",
+     "level": 2
+    },
+    {
+     "text": "Brews potions",
+     "level": 2
+    },
+    {
+     "text": "Pointy hat",
+     "level": 3
+    },
+    {
+     "text": "Black cat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wizard",
+    "Hag",
+    "Sorcerer"
+   ]
+  },
+  {
+   "word": "Wizard",
+   "hints": [
+    {
+     "text": "Magic user",
+     "level": 1
+    },
+    {
+     "text": "Spellcaster",
+     "level": 1
+    },
+    {
+     "text": "Casts spells",
+     "level": 2
+    },
+    {
+     "text": "Wise mentor",
+     "level": 2
+    },
+    {
+     "text": "Long beard",
+     "level": 3
+    },
+    {
+     "text": "Pointed hat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Witch",
+    "Sorcerer",
+    "Warlock"
+   ]
+  },
+  {
+   "word": "Sorcerer",
+   "hints": [
+    {
+     "text": "Magic user",
+     "level": 1
+    },
+    {
+     "text": "Dark mage",
+     "level": 1
+    },
+    {
+     "text": "Commands spirits",
+     "level": 2
+    },
+    {
+     "text": "Ancient tomes",
+     "level": 2
+    },
+    {
+     "text": "Glowing staff",
+     "level": 3
+    },
+    {
+     "text": "Dark robes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wizard",
+    "Warlock",
+    "Witch"
+   ]
+  },
+  {
+   "word": "Necromancer",
+   "hints": [
+    {
+     "text": "Dark magician",
+     "level": 1
+    },
+    {
+     "text": "Death mage",
+     "level": 1
+    },
+    {
+     "text": "Raises the dead",
+     "level": 2
+    },
+    {
+     "text": "Graveyard rituals",
+     "level": 2
+    },
+    {
+     "text": "Skull staff",
+     "level": 3
+    },
+    {
+     "text": "Hooded robe",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lich",
+    "Sorcerer",
+    "Wizard"
+   ]
+  },
+  {
+   "word": "Grim reaper",
+   "hints": [
+    {
+     "text": "Death figure",
+     "level": 1
+    },
+    {
+     "text": "Soul collector",
+     "level": 1
+    },
+    {
+     "text": "Comes for souls",
+     "level": 2
+    },
+    {
+     "text": "Hourglass",
+     "level": 2
+    },
+    {
+     "text": "Black hooded cloak",
+     "level": 3
+    },
+    {
+     "text": "Scythe",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ghost",
+    "Banshee",
+    "Wraith"
+   ]
+  },
+  {
+   "word": "Cupid",
+   "hints": [
+    {
+     "text": "Love god",
+     "level": 1
+    },
+    {
+     "text": "Winged archer",
+     "level": 1
+    },
+    {
+     "text": "Valentines day icon",
+     "level": 2
+    },
+    {
+     "text": "Matchmaker",
+     "level": 2
+    },
+    {
+     "text": "Bow and arrows",
+     "level": 3
+    },
+    {
+     "text": "Chubby wings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cherub",
+    "Angel",
+    "Fairy"
+   ]
+  },
+  {
+   "word": "Medusa",
+   "hints": [
+    {
+     "text": "Gorgon queen",
+     "level": 1
+    },
+    {
+     "text": "Greek monster",
+     "level": 1
+    },
+    {
+     "text": "Defeated by a hero",
+     "level": 2
+    },
+    {
+     "text": "Cursed beauty",
+     "level": 2
+    },
+    {
+     "text": "Snakes for hair",
+     "level": 3
+    },
+    {
+     "text": "Stone gaze",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gorgon",
+    "Harpy",
+    "Lamia"
+   ]
+  },
+  {
+   "word": "Sasquatch",
+   "hints": [
+    {
+     "text": "Forest cryptid",
+     "level": 1
+    },
+    {
+     "text": "Hairy giant",
+     "level": 1
+    },
+    {
+     "text": "Pacific northwest",
+     "level": 2
+    },
+    {
+     "text": "Hiker legends",
+     "level": 2
+    },
+    {
+     "text": "Ape like",
+     "level": 3
+    },
+    {
+     "text": "Big feet",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bigfoot",
+    "Yeti",
+    "Yowie"
+   ]
+  },
+  {
+   "word": "Water kelpie",
+   "hints": [
+    {
+     "text": "Loch horse",
+     "level": 1
+    },
+    {
+     "text": "Scottish spirit",
+     "level": 1
+    },
+    {
+     "text": "Lures children",
+     "level": 2
+    },
+    {
+     "text": "Lochs and rivers",
+     "level": 2
+    },
+    {
+     "text": "Seaweed mane",
+     "level": 3
+    },
+    {
+     "text": "Wet coat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Selkie",
+    "Hippocamp",
+    "Nixie"
+   ]
+  },
+  {
+   "word": "Jersey devil",
+   "hints": [
+    {
+     "text": "Cryptid",
+     "level": 1
+    },
+    {
+     "text": "Winged creature",
+     "level": 1
+    },
+    {
+     "text": "Pine barrens legend",
+     "level": 2
+    },
+    {
+     "text": "Thirteenth child",
+     "level": 2
+    },
+    {
+     "text": "Hooves and wings",
+     "level": 3
+    },
+    {
+     "text": "Forked tail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mothman",
+    "Chupacabra",
+    "Gargoyle"
+   ]
+  },
+  {
+   "word": "Wolpertinger",
+   "hints": [
+    {
+     "text": "Bavarian cryptid",
+     "level": 1
+    },
+    {
+     "text": "Hybrid beast",
+     "level": 1
+    },
+    {
+     "text": "Tourist joke",
+     "level": 2
+    },
+    {
+     "text": "Taxidermy prank",
+     "level": 2
+    },
+    {
+     "text": "Rabbit with wings",
+     "level": 3
+    },
+    {
+     "text": "Antlers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jackalope",
+    "Griffin",
+    "Chimera"
+   ]
+  },
+  {
+   "word": "Bigfoot cousin",
+   "hints": [
+    {
+     "text": "Cryptid kin",
+     "level": 1
+    },
+    {
+     "text": "Hairy beast",
+     "level": 1
+    },
+    {
+     "text": "Campfire tales",
+     "level": 2
+    },
+    {
+     "text": "Blurry legend",
+     "level": 2
+    },
+    {
+     "text": "Footprints in mud",
+     "level": 3
+    },
+    {
+     "text": "Shaggy",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Yeti",
+    "Yowie",
+    "Sasquatch"
+   ]
+  },
+  {
+   "word": "Swamp monster",
+   "hints": [
+    {
+     "text": "Bog creature",
+     "level": 1
+    },
+    {
+     "text": "Cryptid",
+     "level": 1
+    },
+    {
+     "text": "Bayou legends",
+     "level": 2
+    },
+    {
+     "text": "Horror films",
+     "level": 2
+    },
+    {
+     "text": "Slimy green",
+     "level": 3
+    },
+    {
+     "text": "Moss covered",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bunyip",
+    "Kraken",
+    "Troll"
+   ]
+  },
+  {
+   "word": "Mandrake",
+   "hints": [
+    {
+     "text": "Magical plant",
+     "level": 1
+    },
+    {
+     "text": "Folklore root",
+     "level": 1
+    },
+    {
+     "text": "Screams when pulled",
+     "level": 2
+    },
+    {
+     "text": "Potion ingredient",
+     "level": 2
+    },
+    {
+     "text": "Human shaped root",
+     "level": 3
+    },
+    {
+     "text": "Earmuffs needed",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Mushroom",
+    "Ginseng",
+    "Bonsai"
+   ]
+  },
+  {
+   "word": "Homunculus",
+   "hints": [
+    {
+     "text": "Alchemy creature",
+     "level": 1
+    },
+    {
+     "text": "Tiny artificial being",
+     "level": 1
+    },
+    {
+     "text": "Made in flasks",
+     "level": 2
+    },
+    {
+     "text": "Medieval alchemy",
+     "level": 2
+    },
+    {
+     "text": "Miniature person",
+     "level": 3
+    },
+    {
+     "text": "Grown in glass",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Golem",
+    "Changeling",
+    "Imp"
+   ]
+  },
+  {
+   "word": "Basilisk king",
+   "hints": [
+    {
+     "text": "Serpent ruler",
+     "level": 1
+    },
+    {
+     "text": "Crowned reptile",
+     "level": 1
+    },
+    {
+     "text": "Stare turns to stone",
+     "level": 2
+    },
+    {
+     "text": "Ancient bestiary",
+     "level": 2
+    },
+    {
+     "text": "Golden crown",
+     "level": 3
+    },
+    {
+     "text": "Venomous fangs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cockatrice",
+    "Hydra",
+    "Naga"
+   ]
+  },
+  {
+   "word": "Qilin",
+   "hints": [
+    {
+     "text": "Chinese beast",
+     "level": 1
+    },
+    {
+     "text": "Lucky creature",
+     "level": 1
+    },
+    {
+     "text": "Arrives with sages",
+     "level": 2
+    },
+    {
+     "text": "Gentle step",
+     "level": 2
+    },
+    {
+     "text": "Scaly body",
+     "level": 3
+    },
+    {
+     "text": "Single horn",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kirin",
+    "Unicorn",
+    "Pegasus"
+   ]
+  },
+  {
+   "word": "Hellcat",
+   "hints": [
+    {
+     "text": "Demonic feline",
+     "level": 1
+    },
+    {
+     "text": "Underworld beast",
+     "level": 1
+    },
+    {
+     "text": "Witches companion",
+     "level": 2
+    },
+    {
+     "text": "Curses",
+     "level": 2
+    },
+    {
+     "text": "Fiery eyes",
+     "level": 3
+    },
+    {
+     "text": "Black fur",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hellhound",
+    "Werewolf",
+    "Gremlin"
+   ]
+  },
+  {
+   "word": "Gryphon chick",
+   "hints": [
+    {
+     "text": "Young beast",
+     "level": 1
+    },
+    {
+     "text": "Hybrid hatchling",
+     "level": 1
+    },
+    {
+     "text": "Fantasy pet",
+     "level": 2
+    },
+    {
+     "text": "Hatched from egg",
+     "level": 2
+    },
+    {
+     "text": "Fluffy feathers",
+     "level": 3
+    },
+    {
+     "text": "Tiny talons",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Phoenix",
+    "Pegasus",
+    "Hippogriff"
+   ]
+  },
+  {
+   "word": "Drake",
+   "hints": [
+    {
+     "text": "Wingless dragon",
+     "level": 1
+    },
+    {
+     "text": "Fire reptile",
+     "level": 1
+    },
+    {
+     "text": "Fantasy games",
+     "level": 2
+    },
+    {
+     "text": "Cave dweller",
+     "level": 2
+    },
+    {
+     "text": "Scaly body",
+     "level": 3
+    },
+    {
+     "text": "Breathes flame",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wyvern",
+    "Dragon",
+    "Basilisk"
+   ]
+  },
+  {
+   "word": "Wyrm",
+   "hints": [
+    {
+     "text": "Serpent dragon",
+     "level": 1
+    },
+    {
+     "text": "Ancient worm",
+     "level": 1
+    },
+    {
+     "text": "Norse sagas",
+     "level": 2
+    },
+    {
+     "text": "Treasure hoarder",
+     "level": 2
+    },
+    {
+     "text": "Legless coils",
+     "level": 3
+    },
+    {
+     "text": "Poisonous breath",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wyvern",
+    "Drake",
+    "Hydra"
+   ]
+  },
+  {
+   "word": "Werecat",
+   "hints": [
+    {
+     "text": "Shapeshifter",
+     "level": 1
+    },
+    {
+     "text": "Feline beast",
+     "level": 1
+    },
+    {
+     "text": "Moonlit change",
+     "level": 2
+    },
+    {
+     "text": "Folklore across cultures",
+     "level": 2
+    },
+    {
+     "text": "Cat eyes",
+     "level": 3
+    },
+    {
+     "text": "Sharp claws",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Werewolf",
+    "Kitsune",
+    "Skinwalker"
+   ]
+  },
+  {
+   "word": "Mermaid queen",
+   "hints": [
+    {
+     "text": "Ocean royalty",
+     "level": 1
+    },
+    {
+     "text": "Sea monarch",
+     "level": 1
+    },
+    {
+     "text": "Undersea palace",
+     "level": 2
+    },
+    {
+     "text": "Commands tides",
+     "level": 2
+    },
+    {
+     "text": "Pearl crown",
+     "level": 3
+    },
+    {
+     "text": "Shimmering tail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Siren",
+    "Selkie",
+    "Triton"
+   ]
+  },
+  {
+   "word": "Harpy eagle",
+   "hints": [
+    {
+     "text": "Real bird",
+     "level": 1
+    },
+    {
+     "text": "Named after monster",
+     "level": 1
+    },
+    {
+     "text": "Rainforest raptor",
+     "level": 2
+    },
+    {
+     "text": "Huge talons",
+     "level": 2
+    },
+    {
+     "text": "Feathered crest",
+     "level": 3
+    },
+    {
+     "text": "Powerful grip",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Condor",
+    "Falcon",
+    "Hawk"
+   ]
+  }
+ ]
+}

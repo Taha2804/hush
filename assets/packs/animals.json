@@ -1,0 +1,5140 @@
+{
+ "id": "animals",
+ "name": "Animals",
+ "words": [
+  {
+   "word": "Lion",
+   "hints": [
+    {
+     "text": "Wild animal",
+     "level": 1
+    },
+    {
+     "text": "Big cat",
+     "level": 1
+    },
+    {
+     "text": "Lives in a pride",
+     "level": 2
+    },
+    {
+     "text": "Loud roar",
+     "level": 2
+    },
+    {
+     "text": "Golden mane",
+     "level": 3
+    },
+    {
+     "text": "Savanna king",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tiger",
+    "Leopard",
+    "Cheetah"
+   ]
+  },
+  {
+   "word": "Tiger",
+   "hints": [
+    {
+     "text": "Wild animal",
+     "level": 1
+    },
+    {
+     "text": "Big cat",
+     "level": 1
+    },
+    {
+     "text": "Jungle hunter",
+     "level": 2
+    },
+    {
+     "text": "Endangered species",
+     "level": 2
+    },
+    {
+     "text": "Orange with stripes",
+     "level": 3
+    },
+    {
+     "text": "Loves to swim",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lion",
+    "Jaguar",
+    "Leopard"
+   ]
+  },
+  {
+   "word": "Elephant",
+   "hints": [
+    {
+     "text": "Huge mammal",
+     "level": 1
+    },
+    {
+     "text": "Gentle giant",
+     "level": 1
+    },
+    {
+     "text": "Great memory",
+     "level": 2
+    },
+    {
+     "text": "Lives in herds",
+     "level": 2
+    },
+    {
+     "text": "Long trunk",
+     "level": 3
+    },
+    {
+     "text": "Ivory tusks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rhino",
+    "Hippo",
+    "Mammoth"
+   ]
+  },
+  {
+   "word": "Giraffe",
+   "hints": [
+    {
+     "text": "African mammal",
+     "level": 1
+    },
+    {
+     "text": "Tall animal",
+     "level": 1
+    },
+    {
+     "text": "Eats tree leaves",
+     "level": 2
+    },
+    {
+     "text": "Spotted coat",
+     "level": 2
+    },
+    {
+     "text": "Very long neck",
+     "level": 3
+    },
+    {
+     "text": "Tiny horns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Zebra",
+    "Camel",
+    "Okapi"
+   ]
+  },
+  {
+   "word": "Zebra",
+   "hints": [
+    {
+     "text": "African mammal",
+     "level": 1
+    },
+    {
+     "text": "Grazing animal",
+     "level": 1
+    },
+    {
+     "text": "Lives in herds",
+     "level": 2
+    },
+    {
+     "text": "Related to horses",
+     "level": 2
+    },
+    {
+     "text": "Black and white",
+     "level": 3
+    },
+    {
+     "text": "Striped coat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Giraffe",
+    "Donkey",
+    "Horse"
+   ]
+  },
+  {
+   "word": "Monkey",
+   "hints": [
+    {
+     "text": "Clever mammal",
+     "level": 1
+    },
+    {
+     "text": "Jungle animal",
+     "level": 1
+    },
+    {
+     "text": "Swings from trees",
+     "level": 2
+    },
+    {
+     "text": "Loves bananas",
+     "level": 2
+    },
+    {
+     "text": "Long tail",
+     "level": 3
+    },
+    {
+     "text": "Playful primate",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gorilla",
+    "Lemur",
+    "Chimpanzee"
+   ]
+  },
+  {
+   "word": "Gorilla",
+   "hints": [
+    {
+     "text": "Big primate",
+     "level": 1
+    },
+    {
+     "text": "Forest mammal",
+     "level": 1
+    },
+    {
+     "text": "Beats its chest",
+     "level": 2
+    },
+    {
+     "text": "Very strong",
+     "level": 2
+    },
+    {
+     "text": "Silverback leader",
+     "level": 3
+    },
+    {
+     "text": "Knuckle walker",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chimpanzee",
+    "Orangutan",
+    "Baboon"
+   ]
+  },
+  {
+   "word": "Kangaroo",
+   "hints": [
+    {
+     "text": "Pouched mammal",
+     "level": 1
+    },
+    {
+     "text": "Outback animal",
+     "level": 1
+    },
+    {
+     "text": "Hops around",
+     "level": 2
+    },
+    {
+     "text": "Carries baby joey",
+     "level": 2
+    },
+    {
+     "text": "Powerful tail",
+     "level": 3
+    },
+    {
+     "text": "Boxing legs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Koala",
+    "Wallaby",
+    "Wombat"
+   ]
+  },
+  {
+   "word": "Koala",
+   "hints": [
+    {
+     "text": "Tree mammal",
+     "level": 1
+    },
+    {
+     "text": "Cuddly animal",
+     "level": 1
+    },
+    {
+     "text": "Sleeps all day",
+     "level": 2
+    },
+    {
+     "text": "Australian native",
+     "level": 2
+    },
+    {
+     "text": "Eats eucalyptus",
+     "level": 3
+    },
+    {
+     "text": "Fluffy ears",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Panda",
+    "Sloth",
+    "Wombat"
+   ]
+  },
+  {
+   "word": "Panda",
+   "hints": [
+    {
+     "text": "Black and white",
+     "level": 1
+    },
+    {
+     "text": "Bear species",
+     "level": 1
+    },
+    {
+     "text": "Mostly in bamboo forests",
+     "level": 2
+    },
+    {
+     "text": "Endangered icon",
+     "level": 2
+    },
+    {
+     "text": "Eats bamboo",
+     "level": 3
+    },
+    {
+     "text": "Eye patches",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Koala",
+    "Polar bear",
+    "Raccoon"
+   ]
+  },
+  {
+   "word": "Polar bear",
+   "hints": [
+    {
+     "text": "Arctic mammal",
+     "level": 1
+    },
+    {
+     "text": "Big predator",
+     "level": 1
+    },
+    {
+     "text": "Hunts seals",
+     "level": 2
+    },
+    {
+     "text": "Lives on ice",
+     "level": 2
+    },
+    {
+     "text": "White fur",
+     "level": 3
+    },
+    {
+     "text": "Strong swimmer",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Penguin",
+    "Walrus",
+    "Panda"
+   ]
+  },
+  {
+   "word": "Penguin",
+   "hints": [
+    {
+     "text": "Flightless bird",
+     "level": 1
+    },
+    {
+     "text": "Cold animal",
+     "level": 1
+    },
+    {
+     "text": "Waddles around",
+     "level": 2
+    },
+    {
+     "text": "Lives in colonies",
+     "level": 2
+    },
+    {
+     "text": "Tuxedo look",
+     "level": 3
+    },
+    {
+     "text": "Slides on belly",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Puffin",
+    "Ostrich",
+    "Seal"
+   ]
+  },
+  {
+   "word": "Dolphin",
+   "hints": [
+    {
+     "text": "Sea mammal",
+     "level": 1
+    },
+    {
+     "text": "Smart animal",
+     "level": 1
+    },
+    {
+     "text": "Clicks and whistles",
+     "level": 2
+    },
+    {
+     "text": "Swims in pods",
+     "level": 2
+    },
+    {
+     "text": "Curved fin",
+     "level": 3
+    },
+    {
+     "text": "Jumps through waves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Shark",
+    "Whale",
+    "Porpoise"
+   ]
+  },
+  {
+   "word": "Shark",
+   "hints": [
+    {
+     "text": "Sea predator",
+     "level": 1
+    },
+    {
+     "text": "Ocean fish",
+     "level": 1
+    },
+    {
+     "text": "Feared by swimmers",
+     "level": 2
+    },
+    {
+     "text": "Never stops swimming",
+     "level": 2
+    },
+    {
+     "text": "Rows of teeth",
+     "level": 3
+    },
+    {
+     "text": "Dorsal fin",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dolphin",
+    "Barracuda",
+    "Orca"
+   ]
+  },
+  {
+   "word": "Whale",
+   "hints": [
+    {
+     "text": "Sea mammal",
+     "level": 1
+    },
+    {
+     "text": "Ocean giant",
+     "level": 1
+    },
+    {
+     "text": "Sings underwater",
+     "level": 2
+    },
+    {
+     "text": "Migrates far",
+     "level": 2
+    },
+    {
+     "text": "Blowhole spray",
+     "level": 3
+    },
+    {
+     "text": "Huge tail fluke",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dolphin",
+    "Shark",
+    "Walrus"
+   ]
+  },
+  {
+   "word": "Octopus",
+   "hints": [
+    {
+     "text": "Sea creature",
+     "level": 1
+    },
+    {
+     "text": "Soft animal",
+     "level": 1
+    },
+    {
+     "text": "Very clever",
+     "level": 2
+    },
+    {
+     "text": "Changes color",
+     "level": 2
+    },
+    {
+     "text": "Eight arms",
+     "level": 3
+    },
+    {
+     "text": "Squirts ink",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Squid",
+    "Jellyfish",
+    "Cuttlefish"
+   ]
+  },
+  {
+   "word": "Jellyfish",
+   "hints": [
+    {
+     "text": "Sea creature",
+     "level": 1
+    },
+    {
+     "text": "Drifting animal",
+     "level": 1
+    },
+    {
+     "text": "Can sting you",
+     "level": 2
+    },
+    {
+     "text": "No brain",
+     "level": 2
+    },
+    {
+     "text": "Clear blobby body",
+     "level": 3
+    },
+    {
+     "text": "Long tentacles",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Octopus",
+    "Starfish",
+    "Coral"
+   ]
+  },
+  {
+   "word": "Crab",
+   "hints": [
+    {
+     "text": "Sea creature",
+     "level": 1
+    },
+    {
+     "text": "Shelled animal",
+     "level": 1
+    },
+    {
+     "text": "Lives on beaches",
+     "level": 2
+    },
+    {
+     "text": "Has claws",
+     "level": 2
+    },
+    {
+     "text": "Walks sideways",
+     "level": 3
+    },
+    {
+     "text": "Pinching pincers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lobster",
+    "Shrimp",
+    "Scorpion"
+   ]
+  },
+  {
+   "word": "Lobster",
+   "hints": [
+    {
+     "text": "Sea creature",
+     "level": 1
+    },
+    {
+     "text": "Shellfish",
+     "level": 1
+    },
+    {
+     "text": "Fancy seafood",
+     "level": 2
+    },
+    {
+     "text": "Turns red when cooked",
+     "level": 2
+    },
+    {
+     "text": "Big claws",
+     "level": 3
+    },
+    {
+     "text": "Long antennae",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Crab",
+    "Shrimp",
+    "Crayfish"
+   ]
+  },
+  {
+   "word": "Turtle",
+   "hints": [
+    {
+     "text": "Reptile",
+     "level": 1
+    },
+    {
+     "text": "Slow animal",
+     "level": 1
+    },
+    {
+     "text": "Lives very long",
+     "level": 2
+    },
+    {
+     "text": "Lays eggs on beaches",
+     "level": 2
+    },
+    {
+     "text": "Hard shell",
+     "level": 3
+    },
+    {
+     "text": "Hides its head",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Tortoise",
+    "Lizard",
+    "Snail"
+   ]
+  },
+  {
+   "word": "Crocodile",
+   "hints": [
+    {
+     "text": "Reptile",
+     "level": 1
+    },
+    {
+     "text": "River predator",
+     "level": 1
+    },
+    {
+     "text": "Lurks in water",
+     "level": 2
+    },
+    {
+     "text": "Ancient creature",
+     "level": 2
+    },
+    {
+     "text": "Powerful jaws",
+     "level": 3
+    },
+    {
+     "text": "Scaly back",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Alligator",
+    "Lizard",
+    "Komodo dragon"
+   ]
+  },
+  {
+   "word": "Snake",
+   "hints": [
+    {
+     "text": "Reptile",
+     "level": 1
+    },
+    {
+     "text": "Legless animal",
+     "level": 1
+    },
+    {
+     "text": "Sheds its skin",
+     "level": 2
+    },
+    {
+     "text": "Can be venomous",
+     "level": 2
+    },
+    {
+     "text": "Forked tongue",
+     "level": 3
+    },
+    {
+     "text": "Slithers along",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Lizard",
+    "Worm",
+    "Eel"
+   ]
+  },
+  {
+   "word": "Frog",
+   "hints": [
+    {
+     "text": "Amphibian",
+     "level": 1
+    },
+    {
+     "text": "Pond animal",
+     "level": 1
+    },
+    {
+     "text": "Starts as tadpole",
+     "level": 2
+    },
+    {
+     "text": "Loud croaker",
+     "level": 2
+    },
+    {
+     "text": "Long sticky tongue",
+     "level": 3
+    },
+    {
+     "text": "Great jumper",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Toad",
+    "Lizard",
+    "Newt"
+   ]
+  },
+  {
+   "word": "Owl",
+   "hints": [
+    {
+     "text": "Night bird",
+     "level": 1
+    },
+    {
+     "text": "Bird of prey",
+     "level": 1
+    },
+    {
+     "text": "Seen as wise",
+     "level": 2
+    },
+    {
+     "text": "Silent flyer",
+     "level": 2
+    },
+    {
+     "text": "Turns head around",
+     "level": 3
+    },
+    {
+     "text": "Big round eyes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hawk",
+    "Eagle",
+    "Bat"
+   ]
+  },
+  {
+   "word": "Eagle",
+   "hints": [
+    {
+     "text": "Bird of prey",
+     "level": 1
+    },
+    {
+     "text": "Sky hunter",
+     "level": 1
+    },
+    {
+     "text": "National symbol",
+     "level": 2
+    },
+    {
+     "text": "Builds huge nests",
+     "level": 2
+    },
+    {
+     "text": "Sharp talons",
+     "level": 3
+    },
+    {
+     "text": "Sharp eyesight",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hawk",
+    "Falcon",
+    "Vulture"
+   ]
+  },
+  {
+   "word": "Parrot",
+   "hints": [
+    {
+     "text": "Colorful bird",
+     "level": 1
+    },
+    {
+     "text": "Tropical bird",
+     "level": 1
+    },
+    {
+     "text": "Can mimic speech",
+     "level": 2
+    },
+    {
+     "text": "Popular pet",
+     "level": 2
+    },
+    {
+     "text": "Curved beak",
+     "level": 3
+    },
+    {
+     "text": "Bright feathers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Toucan",
+    "Macaw",
+    "Pigeon"
+   ]
+  },
+  {
+   "word": "Peacock",
+   "hints": [
+    {
+     "text": "Colorful bird",
+     "level": 1
+    },
+    {
+     "text": "Showy bird",
+     "level": 1
+    },
+    {
+     "text": "Shows off to mates",
+     "level": 2
+    },
+    {
+     "text": "National bird somewhere",
+     "level": 2
+    },
+    {
+     "text": "Fan of feathers",
+     "level": 3
+    },
+    {
+     "text": "Eye spots",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Turkey",
+    "Pheasant",
+    "Flamingo"
+   ]
+  },
+  {
+   "word": "Flamingo",
+   "hints": [
+    {
+     "text": "Wading bird",
+     "level": 1
+    },
+    {
+     "text": "Tropical bird",
+     "level": 1
+    },
+    {
+     "text": "Lives in flocks",
+     "level": 2
+    },
+    {
+     "text": "Eats shrimp",
+     "level": 2
+    },
+    {
+     "text": "Pink feathers",
+     "level": 3
+    },
+    {
+     "text": "Stands on one leg",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Heron",
+    "Stork",
+    "Pelican"
+   ]
+  },
+  {
+   "word": "Ostrich",
+   "hints": [
+    {
+     "text": "Flightless bird",
+     "level": 1
+    },
+    {
+     "text": "Huge bird",
+     "level": 1
+    },
+    {
+     "text": "Runs very fast",
+     "level": 2
+    },
+    {
+     "text": "Lays giant eggs",
+     "level": 2
+    },
+    {
+     "text": "Long neck",
+     "level": 3
+    },
+    {
+     "text": "Buries head myth",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Emu",
+    "Penguin",
+    "Turkey"
+   ]
+  },
+  {
+   "word": "Bat",
+   "hints": [
+    {
+     "text": "Night animal",
+     "level": 1
+    },
+    {
+     "text": "Flying mammal",
+     "level": 1
+    },
+    {
+     "text": "Sleeps upside down",
+     "level": 2
+    },
+    {
+     "text": "Lives in caves",
+     "level": 2
+    },
+    {
+     "text": "Echolocation",
+     "level": 3
+    },
+    {
+     "text": "Leathery wings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Owl",
+    "Moth",
+    "Bird"
+   ]
+  },
+  {
+   "word": "Wolf",
+   "hints": [
+    {
+     "text": "Wild canine",
+     "level": 1
+    },
+    {
+     "text": "Forest predator",
+     "level": 1
+    },
+    {
+     "text": "Hunts in packs",
+     "level": 2
+    },
+    {
+     "text": "Howls at night",
+     "level": 2
+    },
+    {
+     "text": "Alpha leader",
+     "level": 3
+    },
+    {
+     "text": "Grey fur",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fox",
+    "Coyote",
+    "Dog"
+   ]
+  },
+  {
+   "word": "Fox",
+   "hints": [
+    {
+     "text": "Wild canine",
+     "level": 1
+    },
+    {
+     "text": "Clever animal",
+     "level": 1
+    },
+    {
+     "text": "Sneaky trickster",
+     "level": 2
+    },
+    {
+     "text": "Hunts at dusk",
+     "level": 2
+    },
+    {
+     "text": "Bushy tail",
+     "level": 3
+    },
+    {
+     "text": "Reddish fur",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wolf",
+    "Coyote",
+    "Raccoon"
+   ]
+  },
+  {
+   "word": "Bear",
+   "hints": [
+    {
+     "text": "Big mammal",
+     "level": 1
+    },
+    {
+     "text": "Forest animal",
+     "level": 1
+    },
+    {
+     "text": "Hibernates in winter",
+     "level": 2
+    },
+    {
+     "text": "Loves honey",
+     "level": 2
+    },
+    {
+     "text": "Sharp claws",
+     "level": 3
+    },
+    {
+     "text": "Stands on hind legs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wolf",
+    "Gorilla",
+    "Bison"
+   ]
+  },
+  {
+   "word": "Deer",
+   "hints": [
+    {
+     "text": "Forest mammal",
+     "level": 1
+    },
+    {
+     "text": "Grazing animal",
+     "level": 1
+    },
+    {
+     "text": "Shy and quick",
+     "level": 2
+    },
+    {
+     "text": "Hunted for sport",
+     "level": 2
+    },
+    {
+     "text": "Branching antlers",
+     "level": 3
+    },
+    {
+     "text": "White tail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Moose",
+    "Elk",
+    "Antelope"
+   ]
+  },
+  {
+   "word": "Moose",
+   "hints": [
+    {
+     "text": "Forest mammal",
+     "level": 1
+    },
+    {
+     "text": "Big deer",
+     "level": 1
+    },
+    {
+     "text": "Lives in cold forests",
+     "level": 2
+    },
+    {
+     "text": "Strong swimmer",
+     "level": 2
+    },
+    {
+     "text": "Huge flat antlers",
+     "level": 3
+    },
+    {
+     "text": "Dangling dewlap",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Deer",
+    "Elk",
+    "Bison"
+   ]
+  },
+  {
+   "word": "Rabbit",
+   "hints": [
+    {
+     "text": "Small mammal",
+     "level": 1
+    },
+    {
+     "text": "Furry pet",
+     "level": 1
+    },
+    {
+     "text": "Breeds quickly",
+     "level": 2
+    },
+    {
+     "text": "Loves carrots",
+     "level": 2
+    },
+    {
+     "text": "Long ears",
+     "level": 3
+    },
+    {
+     "text": "Fluffy tail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hamster",
+    "Hare",
+    "Squirrel"
+   ]
+  },
+  {
+   "word": "Squirrel",
+   "hints": [
+    {
+     "text": "Small mammal",
+     "level": 1
+    },
+    {
+     "text": "Tree climber",
+     "level": 1
+    },
+    {
+     "text": "Stores food",
+     "level": 2
+    },
+    {
+     "text": "Lives in parks",
+     "level": 2
+    },
+    {
+     "text": "Bushy tail",
+     "level": 3
+    },
+    {
+     "text": "Hoards acorns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chipmunk",
+    "Rabbit",
+    "Rat"
+   ]
+  },
+  {
+   "word": "Mouse",
+   "hints": [
+    {
+     "text": "Small mammal",
+     "level": 1
+    },
+    {
+     "text": "Tiny rodent",
+     "level": 1
+    },
+    {
+     "text": "Loves cheese",
+     "level": 2
+    },
+    {
+     "text": "Afraid of cats",
+     "level": 2
+    },
+    {
+     "text": "Squeaky noise",
+     "level": 3
+    },
+    {
+     "text": "Long thin tail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rat",
+    "Hamster",
+    "Gerbil"
+   ]
+  },
+  {
+   "word": "Hamster",
+   "hints": [
+    {
+     "text": "Small mammal",
+     "level": 1
+    },
+    {
+     "text": "Pocket pet",
+     "level": 1
+    },
+    {
+     "text": "Runs on wheel",
+     "level": 2
+    },
+    {
+     "text": "Kept in cages",
+     "level": 2
+    },
+    {
+     "text": "Stuffs its cheeks",
+     "level": 3
+    },
+    {
+     "text": "Tiny paws",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gerbil",
+    "Mouse",
+    "Guinea pig"
+   ]
+  },
+  {
+   "word": "Horse",
+   "hints": [
+    {
+     "text": "Farm animal",
+     "level": 1
+    },
+    {
+     "text": "Riding animal",
+     "level": 1
+    },
+    {
+     "text": "Gallops fast",
+     "level": 2
+    },
+    {
+     "text": "Eats hay",
+     "level": 2
+    },
+    {
+     "text": "Has hooves",
+     "level": 3
+    },
+    {
+     "text": "Flowing mane",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Donkey",
+    "Zebra",
+    "Pony"
+   ]
+  },
+  {
+   "word": "Cow",
+   "hints": [
+    {
+     "text": "Farm animal",
+     "level": 1
+    },
+    {
+     "text": "Grazing animal",
+     "level": 1
+    },
+    {
+     "text": "Gives milk",
+     "level": 2
+    },
+    {
+     "text": "Says moo",
+     "level": 2
+    },
+    {
+     "text": "Has udders",
+     "level": 3
+    },
+    {
+     "text": "Chews cud",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Buffalo",
+    "Goat",
+    "Sheep"
+   ]
+  },
+  {
+   "word": "Pig",
+   "hints": [
+    {
+     "text": "Farm animal",
+     "level": 1
+    },
+    {
+     "text": "Muddy animal",
+     "level": 1
+    },
+    {
+     "text": "Rolls in mud",
+     "level": 2
+    },
+    {
+     "text": "Says oink",
+     "level": 2
+    },
+    {
+     "text": "Curly tail",
+     "level": 3
+    },
+    {
+     "text": "Pink snout",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Boar",
+    "Sheep",
+    "Hippo"
+   ]
+  },
+  {
+   "word": "Sheep",
+   "hints": [
+    {
+     "text": "Farm animal",
+     "level": 1
+    },
+    {
+     "text": "Woolly animal",
+     "level": 1
+    },
+    {
+     "text": "Counted to sleep",
+     "level": 2
+    },
+    {
+     "text": "Moves in flocks",
+     "level": 2
+    },
+    {
+     "text": "Fluffy fleece",
+     "level": 3
+    },
+    {
+     "text": "Says baa",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Goat",
+    "Llama",
+    "Alpaca"
+   ]
+  },
+  {
+   "word": "Goat",
+   "hints": [
+    {
+     "text": "Farm animal",
+     "level": 1
+    },
+    {
+     "text": "Climbing animal",
+     "level": 1
+    },
+    {
+     "text": "Eats almost anything",
+     "level": 2
+    },
+    {
+     "text": "Gives milk",
+     "level": 2
+    },
+    {
+     "text": "Little beard",
+     "level": 3
+    },
+    {
+     "text": "Curved horns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sheep",
+    "Ibex",
+    "Deer"
+   ]
+  },
+  {
+   "word": "Chicken",
+   "hints": [
+    {
+     "text": "Farm bird",
+     "level": 1
+    },
+    {
+     "text": "Poultry",
+     "level": 1
+    },
+    {
+     "text": "Lays eggs",
+     "level": 2
+    },
+    {
+     "text": "Clucks around",
+     "level": 2
+    },
+    {
+     "text": "Red comb",
+     "level": 3
+    },
+    {
+     "text": "Pecks seeds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Duck",
+    "Turkey",
+    "Pigeon"
+   ]
+  },
+  {
+   "word": "Duck",
+   "hints": [
+    {
+     "text": "Water bird",
+     "level": 1
+    },
+    {
+     "text": "Pond bird",
+     "level": 1
+    },
+    {
+     "text": "Says quack",
+     "level": 2
+    },
+    {
+     "text": "Swims in ponds",
+     "level": 2
+    },
+    {
+     "text": "Webbed feet",
+     "level": 3
+    },
+    {
+     "text": "Flat bill",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Goose",
+    "Swan",
+    "Chicken"
+   ]
+  },
+  {
+   "word": "Swan",
+   "hints": [
+    {
+     "text": "Water bird",
+     "level": 1
+    },
+    {
+     "text": "Graceful bird",
+     "level": 1
+    },
+    {
+     "text": "Mates for life",
+     "level": 2
+    },
+    {
+     "text": "Glides on lakes",
+     "level": 2
+    },
+    {
+     "text": "Long curved neck",
+     "level": 3
+    },
+    {
+     "text": "White feathers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Goose",
+    "Duck",
+    "Pelican"
+   ]
+  },
+  {
+   "word": "Camel",
+   "hints": [
+    {
+     "text": "Desert animal",
+     "level": 1
+    },
+    {
+     "text": "Riding animal",
+     "level": 1
+    },
+    {
+     "text": "Survives without water",
+     "level": 2
+    },
+    {
+     "text": "Carries loads",
+     "level": 2
+    },
+    {
+     "text": "One or two humps",
+     "level": 3
+    },
+    {
+     "text": "Long eyelashes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Llama",
+    "Horse",
+    "Donkey"
+   ]
+  },
+  {
+   "word": "Llama",
+   "hints": [
+    {
+     "text": "Andean animal",
+     "level": 1
+    },
+    {
+     "text": "Woolly animal",
+     "level": 1
+    },
+    {
+     "text": "Spits when annoyed",
+     "level": 2
+    },
+    {
+     "text": "Pack animal",
+     "level": 2
+    },
+    {
+     "text": "Long neck",
+     "level": 3
+    },
+    {
+     "text": "Fluffy coat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Alpaca",
+    "Camel",
+    "Sheep"
+   ]
+  },
+  {
+   "word": "Hippo",
+   "hints": [
+    {
+     "text": "African mammal",
+     "level": 1
+    },
+    {
+     "text": "River animal",
+     "level": 1
+    },
+    {
+     "text": "Very dangerous",
+     "level": 2
+    },
+    {
+     "text": "Wallows in water",
+     "level": 2
+    },
+    {
+     "text": "Giant mouth",
+     "level": 3
+    },
+    {
+     "text": "Barrel body",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rhino",
+    "Elephant",
+    "Walrus"
+   ]
+  },
+  {
+   "word": "Rhino",
+   "hints": [
+    {
+     "text": "African mammal",
+     "level": 1
+    },
+    {
+     "text": "Armored animal",
+     "level": 1
+    },
+    {
+     "text": "Endangered species",
+     "level": 2
+    },
+    {
+     "text": "Charges at threats",
+     "level": 2
+    },
+    {
+     "text": "Horn on nose",
+     "level": 3
+    },
+    {
+     "text": "Thick grey skin",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hippo",
+    "Elephant",
+    "Triceratops"
+   ]
+  },
+  {
+   "word": "Cheetah",
+   "hints": [
+    {
+     "text": "Big cat",
+     "level": 1
+    },
+    {
+     "text": "Wild hunter",
+     "level": 1
+    },
+    {
+     "text": "Fastest on land",
+     "level": 2
+    },
+    {
+     "text": "Hunts in daylight",
+     "level": 2
+    },
+    {
+     "text": "Black tear marks",
+     "level": 3
+    },
+    {
+     "text": "Spotted coat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Leopard",
+    "Lion",
+    "Jaguar"
+   ]
+  },
+  {
+   "word": "Leopard",
+   "hints": [
+    {
+     "text": "Big cat",
+     "level": 1
+    },
+    {
+     "text": "Wild hunter",
+     "level": 1
+    },
+    {
+     "text": "Drags prey up trees",
+     "level": 2
+    },
+    {
+     "text": "Stealthy",
+     "level": 2
+    },
+    {
+     "text": "Rosette spots",
+     "level": 3
+    },
+    {
+     "text": "Golden coat",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cheetah",
+    "Jaguar",
+    "Tiger"
+   ]
+  },
+  {
+   "word": "Sloth",
+   "hints": [
+    {
+     "text": "Rainforest mammal",
+     "level": 1
+    },
+    {
+     "text": "Tree dweller",
+     "level": 1
+    },
+    {
+     "text": "Super slow",
+     "level": 2
+    },
+    {
+     "text": "Sleeps a lot",
+     "level": 2
+    },
+    {
+     "text": "Hangs upside down",
+     "level": 3
+    },
+    {
+     "text": "Long claws",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Koala",
+    "Monkey",
+    "Lemur"
+   ]
+  },
+  {
+   "word": "Raccoon",
+   "hints": [
+    {
+     "text": "Night animal",
+     "level": 1
+    },
+    {
+     "text": "Clever mammal",
+     "level": 1
+    },
+    {
+     "text": "Raids trash cans",
+     "level": 2
+    },
+    {
+     "text": "Washes its food",
+     "level": 2
+    },
+    {
+     "text": "Masked face",
+     "level": 3
+    },
+    {
+     "text": "Ringed tail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Badger",
+    "Possum",
+    "Fox"
+   ]
+  },
+  {
+   "word": "Skunk",
+   "hints": [
+    {
+     "text": "Small mammal",
+     "level": 1
+    },
+    {
+     "text": "Night animal",
+     "level": 1
+    },
+    {
+     "text": "Smells terrible",
+     "level": 2
+    },
+    {
+     "text": "Sprays when scared",
+     "level": 2
+    },
+    {
+     "text": "Black with white stripe",
+     "level": 3
+    },
+    {
+     "text": "Bushy tail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Raccoon",
+    "Badger",
+    "Weasel"
+   ]
+  },
+  {
+   "word": "Hedgehog",
+   "hints": [
+    {
+     "text": "Small mammal",
+     "level": 1
+    },
+    {
+     "text": "Garden animal",
+     "level": 1
+    },
+    {
+     "text": "Curls into ball",
+     "level": 2
+    },
+    {
+     "text": "Eats insects",
+     "level": 2
+    },
+    {
+     "text": "Covered in spines",
+     "level": 3
+    },
+    {
+     "text": "Tiny snout",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Porcupine",
+    "Mole",
+    "Hamster"
+   ]
+  },
+  {
+   "word": "Porcupine",
+   "hints": [
+    {
+     "text": "Rodent",
+     "level": 1
+    },
+    {
+     "text": "Spiky animal",
+     "level": 1
+    },
+    {
+     "text": "Defends itself well",
+     "level": 2
+    },
+    {
+     "text": "Climbs trees",
+     "level": 2
+    },
+    {
+     "text": "Sharp quills",
+     "level": 3
+    },
+    {
+     "text": "Rattles its tail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hedgehog",
+    "Armadillo",
+    "Beaver"
+   ]
+  },
+  {
+   "word": "Beaver",
+   "hints": [
+    {
+     "text": "Rodent",
+     "level": 1
+    },
+    {
+     "text": "River animal",
+     "level": 1
+    },
+    {
+     "text": "Builds dams",
+     "level": 2
+    },
+    {
+     "text": "Busy worker",
+     "level": 2
+    },
+    {
+     "text": "Flat paddle tail",
+     "level": 3
+    },
+    {
+     "text": "Big front teeth",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Otter",
+    "Muskrat",
+    "Squirrel"
+   ]
+  },
+  {
+   "word": "Otter",
+   "hints": [
+    {
+     "text": "River mammal",
+     "level": 1
+    },
+    {
+     "text": "Playful animal",
+     "level": 1
+    },
+    {
+     "text": "Holds hands sleeping",
+     "level": 2
+    },
+    {
+     "text": "Uses rocks as tools",
+     "level": 2
+    },
+    {
+     "text": "Floats on back",
+     "level": 3
+    },
+    {
+     "text": "Thick fur",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Beaver",
+    "Seal",
+    "Weasel"
+   ]
+  },
+  {
+   "word": "Seal",
+   "hints": [
+    {
+     "text": "Sea mammal",
+     "level": 1
+    },
+    {
+     "text": "Marine animal",
+     "level": 1
+    },
+    {
+     "text": "Barks loudly",
+     "level": 2
+    },
+    {
+     "text": "Basks on rocks",
+     "level": 2
+    },
+    {
+     "text": "Flippers",
+     "level": 3
+    },
+    {
+     "text": "Whiskered face",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Walrus",
+    "Manatee",
+    "Otter"
+   ]
+  },
+  {
+   "word": "Walrus",
+   "hints": [
+    {
+     "text": "Arctic mammal",
+     "level": 1
+    },
+    {
+     "text": "Marine animal",
+     "level": 1
+    },
+    {
+     "text": "Lives on ice floes",
+     "level": 2
+    },
+    {
+     "text": "Very heavy",
+     "level": 2
+    },
+    {
+     "text": "Long tusks",
+     "level": 3
+    },
+    {
+     "text": "Bushy whiskers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Seal",
+    "Hippo",
+    "Elephant"
+   ]
+  },
+  {
+   "word": "Butterfly",
+   "hints": [
+    {
+     "text": "Insect",
+     "level": 1
+    },
+    {
+     "text": "Flying bug",
+     "level": 1
+    },
+    {
+     "text": "Starts as caterpillar",
+     "level": 2
+    },
+    {
+     "text": "Visits flowers",
+     "level": 2
+    },
+    {
+     "text": "Colorful wings",
+     "level": 3
+    },
+    {
+     "text": "Thin antennae",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Moth",
+    "Dragonfly",
+    "Bee"
+   ]
+  },
+  {
+   "word": "Bee",
+   "hints": [
+    {
+     "text": "Insect",
+     "level": 1
+    },
+    {
+     "text": "Buzzing bug",
+     "level": 1
+    },
+    {
+     "text": "Lives in a hive",
+     "level": 2
+    },
+    {
+     "text": "Pollinates flowers",
+     "level": 2
+    },
+    {
+     "text": "Makes honey",
+     "level": 3
+    },
+    {
+     "text": "Has a stinger",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wasp",
+    "Hornet",
+    "Fly"
+   ]
+  },
+  {
+   "word": "Ant",
+   "hints": [
+    {
+     "text": "Insect",
+     "level": 1
+    },
+    {
+     "text": "Tiny bug",
+     "level": 1
+    },
+    {
+     "text": "Lives in colonies",
+     "level": 2
+    },
+    {
+     "text": "Very hard working",
+     "level": 2
+    },
+    {
+     "text": "Carries huge loads",
+     "level": 3
+    },
+    {
+     "text": "Follows trails",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Termite",
+    "Beetle",
+    "Spider"
+   ]
+  },
+  {
+   "word": "Spider",
+   "hints": [
+    {
+     "text": "Arachnid",
+     "level": 1
+    },
+    {
+     "text": "Creepy crawly",
+     "level": 1
+    },
+    {
+     "text": "Catches flies",
+     "level": 2
+    },
+    {
+     "text": "Many people fear it",
+     "level": 2
+    },
+    {
+     "text": "Eight legs",
+     "level": 3
+    },
+    {
+     "text": "Spins webs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Scorpion",
+    "Ant",
+    "Tick"
+   ]
+  },
+  {
+   "word": "Ladybug",
+   "hints": [
+    {
+     "text": "Insect",
+     "level": 1
+    },
+    {
+     "text": "Garden bug",
+     "level": 1
+    },
+    {
+     "text": "Considered lucky",
+     "level": 2
+    },
+    {
+     "text": "Eats aphids",
+     "level": 2
+    },
+    {
+     "text": "Red with spots",
+     "level": 3
+    },
+    {
+     "text": "Round shell",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Beetle",
+    "Firefly",
+    "Bee"
+   ]
+  },
+  {
+   "word": "Mosquito",
+   "hints": [
+    {
+     "text": "Insect",
+     "level": 1
+    },
+    {
+     "text": "Pesky bug",
+     "level": 1
+    },
+    {
+     "text": "Spreads disease",
+     "level": 2
+    },
+    {
+     "text": "Buzzes in ears",
+     "level": 2
+    },
+    {
+     "text": "Itchy bites",
+     "level": 3
+    },
+    {
+     "text": "Sucks blood",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Fly",
+    "Gnat",
+    "Wasp"
+   ]
+  },
+  {
+   "word": "Snail",
+   "hints": [
+    {
+     "text": "Mollusk",
+     "level": 1
+    },
+    {
+     "text": "Slow creature",
+     "level": 1
+    },
+    {
+     "text": "Comes out in rain",
+     "level": 2
+    },
+    {
+     "text": "Garden pest",
+     "level": 2
+    },
+    {
+     "text": "Spiral shell",
+     "level": 3
+    },
+    {
+     "text": "Slimy trail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Slug",
+    "Turtle",
+    "Clam"
+   ]
+  },
+  {
+   "word": "Worm",
+   "hints": [
+    {
+     "text": "Soil creature",
+     "level": 1
+    },
+    {
+     "text": "Wriggly animal",
+     "level": 1
+    },
+    {
+     "text": "Bait for fishing",
+     "level": 2
+    },
+    {
+     "text": "Good for gardens",
+     "level": 2
+    },
+    {
+     "text": "No legs",
+     "level": 3
+    },
+    {
+     "text": "Lives underground",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Snake",
+    "Caterpillar",
+    "Eel"
+   ]
+  },
+  {
+   "word": "Scorpion",
+   "hints": [
+    {
+     "text": "Arachnid",
+     "level": 1
+    },
+    {
+     "text": "Desert creature",
+     "level": 1
+    },
+    {
+     "text": "Glows under blacklight",
+     "level": 2
+    },
+    {
+     "text": "Hides under rocks",
+     "level": 2
+    },
+    {
+     "text": "Curved stinger",
+     "level": 3
+    },
+    {
+     "text": "Pincers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Spider",
+    "Crab",
+    "Lobster"
+   ]
+  },
+  {
+   "word": "Chameleon",
+   "hints": [
+    {
+     "text": "Reptile",
+     "level": 1
+    },
+    {
+     "text": "Tree lizard",
+     "level": 1
+    },
+    {
+     "text": "Changes color",
+     "level": 2
+    },
+    {
+     "text": "Moves slowly",
+     "level": 2
+    },
+    {
+     "text": "Eyes move separately",
+     "level": 3
+    },
+    {
+     "text": "Curly tail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gecko",
+    "Iguana",
+    "Frog"
+   ]
+  },
+  {
+   "word": "Iguana",
+   "hints": [
+    {
+     "text": "Reptile",
+     "level": 1
+    },
+    {
+     "text": "Large lizard",
+     "level": 1
+    },
+    {
+     "text": "Basks in sun",
+     "level": 2
+    },
+    {
+     "text": "Popular exotic pet",
+     "level": 2
+    },
+    {
+     "text": "Spiky back",
+     "level": 3
+    },
+    {
+     "text": "Dewlap under chin",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chameleon",
+    "Gecko",
+    "Komodo dragon"
+   ]
+  },
+  {
+   "word": "Gecko",
+   "hints": [
+    {
+     "text": "Reptile",
+     "level": 1
+    },
+    {
+     "text": "Small lizard",
+     "level": 1
+    },
+    {
+     "text": "Clings to walls",
+     "level": 2
+    },
+    {
+     "text": "Makes chirping sounds",
+     "level": 2
+    },
+    {
+     "text": "Sticky toe pads",
+     "level": 3
+    },
+    {
+     "text": "Licks its eyes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Iguana",
+    "Chameleon",
+    "Newt"
+   ]
+  },
+  {
+   "word": "Alligator",
+   "hints": [
+    {
+     "text": "Reptile",
+     "level": 1
+    },
+    {
+     "text": "Swamp predator",
+     "level": 1
+    },
+    {
+     "text": "Lives in marshes",
+     "level": 2
+    },
+    {
+     "text": "Ancient hunter",
+     "level": 2
+    },
+    {
+     "text": "Rounded snout",
+     "level": 3
+    },
+    {
+     "text": "Armored back",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Crocodile",
+    "Lizard",
+    "Iguana"
+   ]
+  },
+  {
+   "word": "Pelican",
+   "hints": [
+    {
+     "text": "Water bird",
+     "level": 1
+    },
+    {
+     "text": "Coastal bird",
+     "level": 1
+    },
+    {
+     "text": "Dives for fish",
+     "level": 2
+    },
+    {
+     "text": "Flies in lines",
+     "level": 2
+    },
+    {
+     "text": "Big throat pouch",
+     "level": 3
+    },
+    {
+     "text": "Long beak",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Seagull",
+    "Stork",
+    "Heron"
+   ]
+  },
+  {
+   "word": "Seagull",
+   "hints": [
+    {
+     "text": "Coastal bird",
+     "level": 1
+    },
+    {
+     "text": "Beach bird",
+     "level": 1
+    },
+    {
+     "text": "Steals your chips",
+     "level": 2
+    },
+    {
+     "text": "Loud squawks",
+     "level": 2
+    },
+    {
+     "text": "White and grey",
+     "level": 3
+    },
+    {
+     "text": "Hovers over waves",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Pigeon",
+    "Pelican",
+    "Albatross"
+   ]
+  },
+  {
+   "word": "Pigeon",
+   "hints": [
+    {
+     "text": "City bird",
+     "level": 1
+    },
+    {
+     "text": "Common bird",
+     "level": 1
+    },
+    {
+     "text": "Carried messages",
+     "level": 2
+    },
+    {
+     "text": "Gathers in squares",
+     "level": 2
+    },
+    {
+     "text": "Cooing sound",
+     "level": 3
+    },
+    {
+     "text": "Bobbing head",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dove",
+    "Sparrow",
+    "Seagull"
+   ]
+  },
+  {
+   "word": "Crow",
+   "hints": [
+    {
+     "text": "Black bird",
+     "level": 1
+    },
+    {
+     "text": "Clever bird",
+     "level": 1
+    },
+    {
+     "text": "Uses tools",
+     "level": 2
+    },
+    {
+     "text": "Very loud caw",
+     "level": 2
+    },
+    {
+     "text": "Shiny black feathers",
+     "level": 3
+    },
+    {
+     "text": "Scares farmers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Raven",
+    "Magpie",
+    "Pigeon"
+   ]
+  },
+  {
+   "word": "Hummingbird",
+   "hints": [
+    {
+     "text": "Small flyer",
+     "level": 1
+    },
+    {
+     "text": "Flower visitor",
+     "level": 1
+    },
+    {
+     "text": "Drinks nectar",
+     "level": 2
+    },
+    {
+     "text": "Hovers in place",
+     "level": 2
+    },
+    {
+     "text": "Wings beat super fast",
+     "level": 3
+    },
+    {
+     "text": "Long thin beak",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sparrow",
+    "Butterfly",
+    "Finch"
+   ]
+  },
+  {
+   "word": "Woodpecker",
+   "hints": [
+    {
+     "text": "Forest bird",
+     "level": 1
+    },
+    {
+     "text": "Tree bird",
+     "level": 1
+    },
+    {
+     "text": "Drums on trees",
+     "level": 2
+    },
+    {
+     "text": "Eats insects",
+     "level": 2
+    },
+    {
+     "text": "Strong pointy beak",
+     "level": 3
+    },
+    {
+     "text": "Red head patch",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Parrot",
+    "Toucan",
+    "Robin"
+   ]
+  },
+  {
+   "word": "Toucan",
+   "hints": [
+    {
+     "text": "Tropical bird",
+     "level": 1
+    },
+    {
+     "text": "Rainforest bird",
+     "level": 1
+    },
+    {
+     "text": "Eats fruit",
+     "level": 2
+    },
+    {
+     "text": "Lives in canopy",
+     "level": 2
+    },
+    {
+     "text": "Huge colorful beak",
+     "level": 3
+    },
+    {
+     "text": "Black body",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Parrot",
+    "Hornbill",
+    "Macaw"
+   ]
+  },
+  {
+   "word": "Kiwi",
+   "hints": [
+    {
+     "text": "Flightless bird",
+     "level": 1
+    },
+    {
+     "text": "Island bird",
+     "level": 1
+    },
+    {
+     "text": "Night forager",
+     "level": 2
+    },
+    {
+     "text": "National symbol",
+     "level": 2
+    },
+    {
+     "text": "Long thin beak",
+     "level": 3
+    },
+    {
+     "text": "Fuzzy brown feathers",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Emu",
+    "Ostrich",
+    "Penguin"
+   ]
+  },
+  {
+   "word": "Vulture",
+   "hints": [
+    {
+     "text": "Bird of prey",
+     "level": 1
+    },
+    {
+     "text": "Scavenger",
+     "level": 1
+    },
+    {
+     "text": "Circles overhead",
+     "level": 2
+    },
+    {
+     "text": "Cleans up carcasses",
+     "level": 2
+    },
+    {
+     "text": "Bald head",
+     "level": 3
+    },
+    {
+     "text": "Broad wings",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Eagle",
+    "Condor",
+    "Crow"
+   ]
+  },
+  {
+   "word": "Swallow",
+   "hints": [
+    {
+     "text": "Small bird",
+     "level": 1
+    },
+    {
+     "text": "Migratory bird",
+     "level": 1
+    },
+    {
+     "text": "Signals summer",
+     "level": 2
+    },
+    {
+     "text": "Catches insects midair",
+     "level": 2
+    },
+    {
+     "text": "Forked tail",
+     "level": 3
+    },
+    {
+     "text": "Mud nests",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sparrow",
+    "Robin",
+    "Swift"
+   ]
+  },
+  {
+   "word": "Goldfish",
+   "hints": [
+    {
+     "text": "Aquarium pet",
+     "level": 1
+    },
+    {
+     "text": "Freshwater swimmer",
+     "level": 1
+    },
+    {
+     "text": "Kept in bowls",
+     "level": 2
+    },
+    {
+     "text": "Short memory myth",
+     "level": 2
+    },
+    {
+     "text": "Orange scales",
+     "level": 3
+    },
+    {
+     "text": "Flowing fins",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Guppy",
+    "Koi",
+    "Carp"
+   ]
+  },
+  {
+   "word": "Salmon",
+   "hints": [
+    {
+     "text": "Fish",
+     "level": 1
+    },
+    {
+     "text": "River swimmer",
+     "level": 1
+    },
+    {
+     "text": "Swims upstream",
+     "level": 2
+    },
+    {
+     "text": "Popular seafood",
+     "level": 2
+    },
+    {
+     "text": "Pink flesh",
+     "level": 3
+    },
+    {
+     "text": "Leaps waterfalls",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Trout",
+    "Tuna",
+    "Cod"
+   ]
+  },
+  {
+   "word": "Tuna",
+   "hints": [
+    {
+     "text": "Ocean fish",
+     "level": 1
+    },
+    {
+     "text": "Seafood",
+     "level": 1
+    },
+    {
+     "text": "Fast swimmer",
+     "level": 2
+    },
+    {
+     "text": "Comes in cans",
+     "level": 2
+    },
+    {
+     "text": "Huge and silver",
+     "level": 3
+    },
+    {
+     "text": "Sushi favorite",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Salmon",
+    "Swordfish",
+    "Mackerel"
+   ]
+  },
+  {
+   "word": "Swordfish",
+   "hints": [
+    {
+     "text": "Ocean swimmer",
+     "level": 1
+    },
+    {
+     "text": "Big game catch",
+     "level": 1
+    },
+    {
+     "text": "Very fast swimmer",
+     "level": 2
+    },
+    {
+     "text": "Sport fishing prize",
+     "level": 2
+    },
+    {
+     "text": "Long pointed bill",
+     "level": 3
+    },
+    {
+     "text": "Sleek body",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Marlin",
+    "Tuna",
+    "Shark"
+   ]
+  },
+  {
+   "word": "Starfish",
+   "hints": [
+    {
+     "text": "Sea creature",
+     "level": 1
+    },
+    {
+     "text": "Tide pool animal",
+     "level": 1
+    },
+    {
+     "text": "Regrows lost arms",
+     "level": 2
+    },
+    {
+     "text": "Lives on reefs",
+     "level": 2
+    },
+    {
+     "text": "Five arms",
+     "level": 3
+    },
+    {
+     "text": "Pointy outline",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jellyfish",
+    "Sand dollar",
+    "Crab"
+   ]
+  },
+  {
+   "word": "Seahorse",
+   "hints": [
+    {
+     "text": "Sea creature",
+     "level": 1
+    },
+    {
+     "text": "Tiny fish",
+     "level": 1
+    },
+    {
+     "text": "Dad carries babies",
+     "level": 2
+    },
+    {
+     "text": "Grips seagrass",
+     "level": 2
+    },
+    {
+     "text": "Curled tail",
+     "level": 3
+    },
+    {
+     "text": "Upright swimmer",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Starfish",
+    "Eel",
+    "Shrimp"
+   ]
+  },
+  {
+   "word": "Squid",
+   "hints": [
+    {
+     "text": "Sea creature",
+     "level": 1
+    },
+    {
+     "text": "Ocean dweller",
+     "level": 1
+    },
+    {
+     "text": "Fried as calamari",
+     "level": 2
+    },
+    {
+     "text": "Squirts ink",
+     "level": 2
+    },
+    {
+     "text": "Ten arms",
+     "level": 3
+    },
+    {
+     "text": "Torpedo body",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Octopus",
+    "Cuttlefish",
+    "Jellyfish"
+   ]
+  },
+  {
+   "word": "Eel",
+   "hints": [
+    {
+     "text": "Sea creature",
+     "level": 1
+    },
+    {
+     "text": "Long fish",
+     "level": 1
+    },
+    {
+     "text": "Can give shocks",
+     "level": 2
+    },
+    {
+     "text": "Hides in rocks",
+     "level": 2
+    },
+    {
+     "text": "Slippery body",
+     "level": 3
+    },
+    {
+     "text": "Snake shaped",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Snake",
+    "Worm",
+    "Catfish"
+   ]
+  },
+  {
+   "word": "Orca",
+   "hints": [
+    {
+     "text": "Ocean predator",
+     "level": 1
+    },
+    {
+     "text": "Sea mammal",
+     "level": 1
+    },
+    {
+     "text": "Hunts in pods",
+     "level": 2
+    },
+    {
+     "text": "Very intelligent",
+     "level": 2
+    },
+    {
+     "text": "Black and white",
+     "level": 3
+    },
+    {
+     "text": "Tall dorsal fin",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dolphin",
+    "Shark",
+    "Beluga"
+   ]
+  },
+  {
+   "word": "Panther",
+   "hints": [
+    {
+     "text": "Big cat",
+     "level": 1
+    },
+    {
+     "text": "Wild hunter",
+     "level": 1
+    },
+    {
+     "text": "Stealthy stalker",
+     "level": 2
+    },
+    {
+     "text": "Night hunter",
+     "level": 2
+    },
+    {
+     "text": "All black coat",
+     "level": 3
+    },
+    {
+     "text": "Glowing eyes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jaguar",
+    "Leopard",
+    "Puma"
+   ]
+  },
+  {
+   "word": "Jaguar",
+   "hints": [
+    {
+     "text": "Big cat",
+     "level": 1
+    },
+    {
+     "text": "Rainforest hunter",
+     "level": 1
+    },
+    {
+     "text": "Strong swimmer",
+     "level": 2
+    },
+    {
+     "text": "Powerful bite",
+     "level": 2
+    },
+    {
+     "text": "Spotted rosettes",
+     "level": 3
+    },
+    {
+     "text": "Stocky body",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Leopard",
+    "Cheetah",
+    "Tiger"
+   ]
+  },
+  {
+   "word": "Hyena",
+   "hints": [
+    {
+     "text": "African mammal",
+     "level": 1
+    },
+    {
+     "text": "Scavenger",
+     "level": 1
+    },
+    {
+     "text": "Sounds like laughing",
+     "level": 2
+    },
+    {
+     "text": "Hunts in clans",
+     "level": 2
+    },
+    {
+     "text": "Spotted fur",
+     "level": 3
+    },
+    {
+     "text": "Strong jaws",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Jackal",
+    "Wolf",
+    "Wild dog"
+   ]
+  },
+  {
+   "word": "Meerkat",
+   "hints": [
+    {
+     "text": "Desert mammal",
+     "level": 1
+    },
+    {
+     "text": "Small animal",
+     "level": 1
+    },
+    {
+     "text": "Lives in burrows",
+     "level": 2
+    },
+    {
+     "text": "Takes turns on guard",
+     "level": 2
+    },
+    {
+     "text": "Stands upright",
+     "level": 3
+    },
+    {
+     "text": "Peeks around",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Prairie dog",
+    "Mongoose",
+    "Squirrel"
+   ]
+  },
+  {
+   "word": "Armadillo",
+   "hints": [
+    {
+     "text": "Armored mammal",
+     "level": 1
+    },
+    {
+     "text": "Desert animal",
+     "level": 1
+    },
+    {
+     "text": "Digs burrows",
+     "level": 2
+    },
+    {
+     "text": "Rolls into ball",
+     "level": 2
+    },
+    {
+     "text": "Bony shell",
+     "level": 3
+    },
+    {
+     "text": "Long snout",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hedgehog",
+    "Pangolin",
+    "Turtle"
+   ]
+  },
+  {
+   "word": "Anteater",
+   "hints": [
+    {
+     "text": "Odd mammal",
+     "level": 1
+    },
+    {
+     "text": "South american animal",
+     "level": 1
+    },
+    {
+     "text": "Eats termites",
+     "level": 2
+    },
+    {
+     "text": "Has no teeth",
+     "level": 2
+    },
+    {
+     "text": "Very long tongue",
+     "level": 3
+    },
+    {
+     "text": "Long snout",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Aardvark",
+    "Armadillo",
+    "Sloth"
+   ]
+  },
+  {
+   "word": "Bison",
+   "hints": [
+    {
+     "text": "Big mammal",
+     "level": 1
+    },
+    {
+     "text": "Grazing animal",
+     "level": 1
+    },
+    {
+     "text": "Roams prairies",
+     "level": 2
+    },
+    {
+     "text": "Once nearly extinct",
+     "level": 2
+    },
+    {
+     "text": "Shaggy hump",
+     "level": 3
+    },
+    {
+     "text": "Short horns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Buffalo",
+    "Yak",
+    "Moose"
+   ]
+  },
+  {
+   "word": "Buffalo",
+   "hints": [
+    {
+     "text": "Big mammal",
+     "level": 1
+    },
+    {
+     "text": "Grazing animal",
+     "level": 1
+    },
+    {
+     "text": "Wallows in mud",
+     "level": 2
+    },
+    {
+     "text": "Used on farms",
+     "level": 2
+    },
+    {
+     "text": "Big curved horns",
+     "level": 3
+    },
+    {
+     "text": "Dark hide",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bison",
+    "Cow",
+    "Yak"
+   ]
+  },
+  {
+   "word": "Yak",
+   "hints": [
+    {
+     "text": "Mountain mammal",
+     "level": 1
+    },
+    {
+     "text": "Shaggy animal",
+     "level": 1
+    },
+    {
+     "text": "Lives at high altitude",
+     "level": 2
+    },
+    {
+     "text": "Pack animal",
+     "level": 2
+    },
+    {
+     "text": "Long hairy coat",
+     "level": 3
+    },
+    {
+     "text": "Big horns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Bison",
+    "Buffalo",
+    "Llama"
+   ]
+  },
+  {
+   "word": "Donkey",
+   "hints": [
+    {
+     "text": "Farm animal",
+     "level": 1
+    },
+    {
+     "text": "Working animal",
+     "level": 1
+    },
+    {
+     "text": "Very stubborn",
+     "level": 2
+    },
+    {
+     "text": "Carries loads",
+     "level": 2
+    },
+    {
+     "text": "Long ears",
+     "level": 3
+    },
+    {
+     "text": "Loud bray",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Horse",
+    "Mule",
+    "Zebra"
+   ]
+  },
+  {
+   "word": "Mule",
+   "hints": [
+    {
+     "text": "Farm animal",
+     "level": 1
+    },
+    {
+     "text": "Hybrid animal",
+     "level": 1
+    },
+    {
+     "text": "Sure footed",
+     "level": 2
+    },
+    {
+     "text": "Carries packs",
+     "level": 2
+    },
+    {
+     "text": "Long ears",
+     "level": 3
+    },
+    {
+     "text": "Strong back",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Donkey",
+    "Horse",
+    "Pony"
+   ]
+  },
+  {
+   "word": "Pony",
+   "hints": [
+    {
+     "text": "Small horse",
+     "level": 1
+    },
+    {
+     "text": "Riding animal",
+     "level": 1
+    },
+    {
+     "text": "Kids ride it",
+     "level": 2
+    },
+    {
+     "text": "Shown at fairs",
+     "level": 2
+    },
+    {
+     "text": "Short legs",
+     "level": 3
+    },
+    {
+     "text": "Thick mane",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Horse",
+    "Donkey",
+    "Foal"
+   ]
+  },
+  {
+   "word": "Turkey",
+   "hints": [
+    {
+     "text": "Farm bird",
+     "level": 1
+    },
+    {
+     "text": "Large bird",
+     "level": 1
+    },
+    {
+     "text": "Holiday dinner",
+     "level": 2
+    },
+    {
+     "text": "Gobble sound",
+     "level": 2
+    },
+    {
+     "text": "Fleshy wattle",
+     "level": 3
+    },
+    {
+     "text": "Fan tail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Chicken",
+    "Peacock",
+    "Goose"
+   ]
+  },
+  {
+   "word": "Goose",
+   "hints": [
+    {
+     "text": "Water bird",
+     "level": 1
+    },
+    {
+     "text": "Farm bird",
+     "level": 1
+    },
+    {
+     "text": "Flies in vee shapes",
+     "level": 2
+    },
+    {
+     "text": "Honks loudly",
+     "level": 2
+    },
+    {
+     "text": "Long neck",
+     "level": 3
+    },
+    {
+     "text": "Chases people",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Duck",
+    "Swan",
+    "Pelican"
+   ]
+  },
+  {
+   "word": "Rooster",
+   "hints": [
+    {
+     "text": "Farm bird",
+     "level": 1
+    },
+    {
+     "text": "Male bird",
+     "level": 1
+    },
+    {
+     "text": "Crows at dawn",
+     "level": 2
+    },
+    {
+     "text": "Wakes the farm",
+     "level": 2
+    },
+    {
+     "text": "Big red comb",
+     "level": 3
+    },
+    {
+     "text": "Colorful tail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hen",
+    "Turkey",
+    "Pheasant"
+   ]
+  },
+  {
+   "word": "Dog",
+   "hints": [
+    {
+     "text": "Pet animal",
+     "level": 1
+    },
+    {
+     "text": "Loyal companion",
+     "level": 1
+    },
+    {
+     "text": "Wags its tail",
+     "level": 2
+    },
+    {
+     "text": "Fetches balls",
+     "level": 2
+    },
+    {
+     "text": "Barks loudly",
+     "level": 3
+    },
+    {
+     "text": "Man's best friend",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cat",
+    "Wolf",
+    "Fox"
+   ]
+  },
+  {
+   "word": "Cat",
+   "hints": [
+    {
+     "text": "Pet animal",
+     "level": 1
+    },
+    {
+     "text": "Furry companion",
+     "level": 1
+    },
+    {
+     "text": "Purrs when happy",
+     "level": 2
+    },
+    {
+     "text": "Loves naps",
+     "level": 2
+    },
+    {
+     "text": "Has whiskers",
+     "level": 3
+    },
+    {
+     "text": "Lands on feet",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Dog",
+    "Rabbit",
+    "Ferret"
+   ]
+  },
+  {
+   "word": "Parakeet",
+   "hints": [
+    {
+     "text": "Small bird",
+     "level": 1
+    },
+    {
+     "text": "Pet bird",
+     "level": 1
+    },
+    {
+     "text": "Chirps all day",
+     "level": 2
+    },
+    {
+     "text": "Lives in cages",
+     "level": 2
+    },
+    {
+     "text": "Bright green feathers",
+     "level": 3
+    },
+    {
+     "text": "Little beak",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Canary",
+    "Parrot",
+    "Finch"
+   ]
+  },
+  {
+   "word": "Canary",
+   "hints": [
+    {
+     "text": "Small bird",
+     "level": 1
+    },
+    {
+     "text": "Pet bird",
+     "level": 1
+    },
+    {
+     "text": "Sweet singer",
+     "level": 2
+    },
+    {
+     "text": "Once used in mines",
+     "level": 2
+    },
+    {
+     "text": "Bright yellow",
+     "level": 3
+    },
+    {
+     "text": "Tiny cage bird",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Parakeet",
+    "Finch",
+    "Sparrow"
+   ]
+  },
+  {
+   "word": "Guinea pig",
+   "hints": [
+    {
+     "text": "Small rodent",
+     "level": 1
+    },
+    {
+     "text": "Furry pet",
+     "level": 1
+    },
+    {
+     "text": "Squeaks loudly",
+     "level": 2
+    },
+    {
+     "text": "Lives in hutch",
+     "level": 2
+    },
+    {
+     "text": "No tail",
+     "level": 3
+    },
+    {
+     "text": "Chubby body",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hamster",
+    "Rabbit",
+    "Gerbil"
+   ]
+  },
+  {
+   "word": "Ferret",
+   "hints": [
+    {
+     "text": "Small mammal",
+     "level": 1
+    },
+    {
+     "text": "Playful pet",
+     "level": 1
+    },
+    {
+     "text": "Steals small items",
+     "level": 2
+    },
+    {
+     "text": "Very curious",
+     "level": 2
+    },
+    {
+     "text": "Long thin body",
+     "level": 3
+    },
+    {
+     "text": "Masked face",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Weasel",
+    "Otter",
+    "Mink"
+   ]
+  },
+  {
+   "word": "Lizard",
+   "hints": [
+    {
+     "text": "Reptile",
+     "level": 1
+    },
+    {
+     "text": "Cold blooded",
+     "level": 1
+    },
+    {
+     "text": "Basks in sun",
+     "level": 2
+    },
+    {
+     "text": "Can drop its tail",
+     "level": 2
+    },
+    {
+     "text": "Scaly skin",
+     "level": 3
+    },
+    {
+     "text": "Darting tongue",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Snake",
+    "Gecko",
+    "Salamander"
+   ]
+  },
+  {
+   "word": "Tortoise",
+   "hints": [
+    {
+     "text": "Reptile",
+     "level": 1
+    },
+    {
+     "text": "Slow animal",
+     "level": 1
+    },
+    {
+     "text": "Lives over a century",
+     "level": 2
+    },
+    {
+     "text": "Wins a famous race",
+     "level": 2
+    },
+    {
+     "text": "Domed shell",
+     "level": 3
+    },
+    {
+     "text": "Land dweller",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Turtle",
+    "Armadillo",
+    "Snail"
+   ]
+  },
+  {
+   "word": "Toad",
+   "hints": [
+    {
+     "text": "Amphibian",
+     "level": 1
+    },
+    {
+     "text": "Garden animal",
+     "level": 1
+    },
+    {
+     "text": "Lives on land",
+     "level": 2
+    },
+    {
+     "text": "Eats bugs",
+     "level": 2
+    },
+    {
+     "text": "Bumpy dry skin",
+     "level": 3
+    },
+    {
+     "text": "Squat body",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Frog",
+    "Newt",
+    "Lizard"
+   ]
+  },
+  {
+   "word": "Salamander",
+   "hints": [
+    {
+     "text": "Amphibian",
+     "level": 1
+    },
+    {
+     "text": "Damp animal",
+     "level": 1
+    },
+    {
+     "text": "Lives under logs",
+     "level": 2
+    },
+    {
+     "text": "Regrows limbs",
+     "level": 2
+    },
+    {
+     "text": "Moist skin",
+     "level": 3
+    },
+    {
+     "text": "Lizard shaped",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Newt",
+    "Lizard",
+    "Gecko"
+   ]
+  },
+  {
+   "word": "Moth",
+   "hints": [
+    {
+     "text": "Insect",
+     "level": 1
+    },
+    {
+     "text": "Night bug",
+     "level": 1
+    },
+    {
+     "text": "Drawn to lamps",
+     "level": 2
+    },
+    {
+     "text": "Eats clothes",
+     "level": 2
+    },
+    {
+     "text": "Dusty wings",
+     "level": 3
+    },
+    {
+     "text": "Feathery antennae",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Butterfly",
+    "Fly",
+    "Beetle"
+   ]
+  },
+  {
+   "word": "Dragonfly",
+   "hints": [
+    {
+     "text": "Insect",
+     "level": 1
+    },
+    {
+     "text": "Pond bug",
+     "level": 1
+    },
+    {
+     "text": "Ancient flyer",
+     "level": 2
+    },
+    {
+     "text": "Darts over water",
+     "level": 2
+    },
+    {
+     "text": "Four clear wings",
+     "level": 3
+    },
+    {
+     "text": "Long thin body",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Butterfly",
+    "Mosquito",
+    "Damselfly"
+   ]
+  },
+  {
+   "word": "Grasshopper",
+   "hints": [
+    {
+     "text": "Insect",
+     "level": 1
+    },
+    {
+     "text": "Field bug",
+     "level": 1
+    },
+    {
+     "text": "Chirps in summer",
+     "level": 2
+    },
+    {
+     "text": "Big jumper",
+     "level": 2
+    },
+    {
+     "text": "Powerful back legs",
+     "level": 3
+    },
+    {
+     "text": "Green body",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cricket",
+    "Locust",
+    "Mantis"
+   ]
+  },
+  {
+   "word": "Beetle",
+   "hints": [
+    {
+     "text": "Insect",
+     "level": 1
+    },
+    {
+     "text": "Crawling bug",
+     "level": 1
+    },
+    {
+     "text": "Most common insect",
+     "level": 2
+    },
+    {
+     "text": "Many species",
+     "level": 2
+    },
+    {
+     "text": "Hard wing case",
+     "level": 3
+    },
+    {
+     "text": "Shiny shell",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ladybug",
+    "Cockroach",
+    "Ant"
+   ]
+  },
+  {
+   "word": "Firefly",
+   "hints": [
+    {
+     "text": "Insect",
+     "level": 1
+    },
+    {
+     "text": "Summer bug",
+     "level": 1
+    },
+    {
+     "text": "Seen at dusk",
+     "level": 2
+    },
+    {
+     "text": "Kids catch them",
+     "level": 2
+    },
+    {
+     "text": "Glowing tail",
+     "level": 3
+    },
+    {
+     "text": "Blinking light",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Ladybug",
+    "Moth",
+    "Beetle"
+   ]
+  },
+  {
+   "word": "Cockroach",
+   "hints": [
+    {
+     "text": "Insect",
+     "level": 1
+    },
+    {
+     "text": "Household pest",
+     "level": 1
+    },
+    {
+     "text": "Survives anything",
+     "level": 2
+    },
+    {
+     "text": "Scurries in kitchens",
+     "level": 2
+    },
+    {
+     "text": "Brown and shiny",
+     "level": 3
+    },
+    {
+     "text": "Long antennae",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Beetle",
+    "Cricket",
+    "Ant"
+   ]
+  },
+  {
+   "word": "Caterpillar",
+   "hints": [
+    {
+     "text": "Larva",
+     "level": 1
+    },
+    {
+     "text": "Crawling bug",
+     "level": 1
+    },
+    {
+     "text": "Becomes a butterfly",
+     "level": 2
+    },
+    {
+     "text": "Very hungry",
+     "level": 2
+    },
+    {
+     "text": "Munches leaves",
+     "level": 3
+    },
+    {
+     "text": "Soft segmented body",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Worm",
+    "Slug",
+    "Centipede"
+   ]
+  },
+  {
+   "word": "Koi",
+   "hints": [
+    {
+     "text": "Pond fish",
+     "level": 1
+    },
+    {
+     "text": "Ornamental fish",
+     "level": 1
+    },
+    {
+     "text": "Symbol of luck",
+     "level": 2
+    },
+    {
+     "text": "Lives in gardens",
+     "level": 2
+    },
+    {
+     "text": "Orange and white",
+     "level": 3
+    },
+    {
+     "text": "Big carp",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Goldfish",
+    "Carp",
+    "Catfish"
+   ]
+  },
+  {
+   "word": "Lemur",
+   "hints": [
+    {
+     "text": "Primate",
+     "level": 1
+    },
+    {
+     "text": "Island animal",
+     "level": 1
+    },
+    {
+     "text": "Lives in trees",
+     "level": 2
+    },
+    {
+     "text": "Sunbathes in groups",
+     "level": 2
+    },
+    {
+     "text": "Ringed tail",
+     "level": 3
+    },
+    {
+     "text": "Big orange eyes",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Monkey",
+    "Sloth",
+    "Raccoon"
+   ]
+  },
+  {
+   "word": "Chimpanzee",
+   "hints": [
+    {
+     "text": "Primate",
+     "level": 1
+    },
+    {
+     "text": "Clever ape",
+     "level": 1
+    },
+    {
+     "text": "Uses tools",
+     "level": 2
+    },
+    {
+     "text": "Close human relative",
+     "level": 2
+    },
+    {
+     "text": "Expressive face",
+     "level": 3
+    },
+    {
+     "text": "Long arms",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gorilla",
+    "Monkey",
+    "Orangutan"
+   ]
+  },
+  {
+   "word": "Orangutan",
+   "hints": [
+    {
+     "text": "Great ape",
+     "level": 1
+    },
+    {
+     "text": "Rainforest primate",
+     "level": 1
+    },
+    {
+     "text": "Lives alone in trees",
+     "level": 2
+    },
+    {
+     "text": "Very smart",
+     "level": 2
+    },
+    {
+     "text": "Shaggy orange hair",
+     "level": 3
+    },
+    {
+     "text": "Very long arms",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Gorilla",
+    "Chimpanzee",
+    "Gibbon"
+   ]
+  },
+  {
+   "word": "Mole",
+   "hints": [
+    {
+     "text": "Small mammal",
+     "level": 1
+    },
+    {
+     "text": "Burrowing animal",
+     "level": 1
+    },
+    {
+     "text": "Digs tunnels",
+     "level": 2
+    },
+    {
+     "text": "Nearly blind",
+     "level": 2
+    },
+    {
+     "text": "Big digging paws",
+     "level": 3
+    },
+    {
+     "text": "Velvety fur",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Hedgehog",
+    "Shrew",
+    "Gopher"
+   ]
+  },
+  {
+   "word": "Badger",
+   "hints": [
+    {
+     "text": "Burrowing mammal",
+     "level": 1
+    },
+    {
+     "text": "Night animal",
+     "level": 1
+    },
+    {
+     "text": "Lives in setts",
+     "level": 2
+    },
+    {
+     "text": "Fierce fighter",
+     "level": 2
+    },
+    {
+     "text": "Striped face",
+     "level": 3
+    },
+    {
+     "text": "Stocky body",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Raccoon",
+    "Skunk",
+    "Wolverine"
+   ]
+  },
+  {
+   "word": "Coyote",
+   "hints": [
+    {
+     "text": "Wild canine",
+     "level": 1
+    },
+    {
+     "text": "Desert animal",
+     "level": 1
+    },
+    {
+     "text": "Howls at night",
+     "level": 2
+    },
+    {
+     "text": "Clever survivor",
+     "level": 2
+    },
+    {
+     "text": "Pointed ears",
+     "level": 3
+    },
+    {
+     "text": "Scrappy fur",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Wolf",
+    "Fox",
+    "Jackal"
+   ]
+  },
+  {
+   "word": "Antelope",
+   "hints": [
+    {
+     "text": "Grazing animal",
+     "level": 1
+    },
+    {
+     "text": "Plains animal",
+     "level": 1
+    },
+    {
+     "text": "Very fast runner",
+     "level": 2
+    },
+    {
+     "text": "Lives in herds",
+     "level": 2
+    },
+    {
+     "text": "Spiral horns",
+     "level": 3
+    },
+    {
+     "text": "Slender legs",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Deer",
+    "Gazelle",
+    "Impala"
+   ]
+  },
+  {
+   "word": "Gazelle",
+   "hints": [
+    {
+     "text": "Grazing animal",
+     "level": 1
+    },
+    {
+     "text": "Plains animal",
+     "level": 1
+    },
+    {
+     "text": "Leaps high",
+     "level": 2
+    },
+    {
+     "text": "Prey for cheetahs",
+     "level": 2
+    },
+    {
+     "text": "Graceful legs",
+     "level": 3
+    },
+    {
+     "text": "Ringed horns",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Antelope",
+    "Deer",
+    "Impala"
+   ]
+  },
+  {
+   "word": "Platypus",
+   "hints": [
+    {
+     "text": "Odd mammal",
+     "level": 1
+    },
+    {
+     "text": "River animal",
+     "level": 1
+    },
+    {
+     "text": "Lays eggs",
+     "level": 2
+    },
+    {
+     "text": "Has venom spurs",
+     "level": 2
+    },
+    {
+     "text": "Duck bill",
+     "level": 3
+    },
+    {
+     "text": "Beaver tail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Otter",
+    "Beaver",
+    "Duck"
+   ]
+  },
+  {
+   "word": "Pangolin",
+   "hints": [
+    {
+     "text": "Scaly mammal",
+     "level": 1
+    },
+    {
+     "text": "Endangered animal",
+     "level": 1
+    },
+    {
+     "text": "Rolls into ball",
+     "level": 2
+    },
+    {
+     "text": "Eats ants",
+     "level": 2
+    },
+    {
+     "text": "Covered in scales",
+     "level": 3
+    },
+    {
+     "text": "Long tongue",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Armadillo",
+    "Anteater",
+    "Hedgehog"
+   ]
+  },
+  {
+   "word": "Komodo dragon",
+   "hints": [
+    {
+     "text": "Giant lizard",
+     "level": 1
+    },
+    {
+     "text": "Reptile",
+     "level": 1
+    },
+    {
+     "text": "Island predator",
+     "level": 2
+    },
+    {
+     "text": "Venomous bite",
+     "level": 2
+    },
+    {
+     "text": "Forked tongue",
+     "level": 3
+    },
+    {
+     "text": "Heavy tail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Iguana",
+    "Crocodile",
+    "Alligator"
+   ]
+  },
+  {
+   "word": "Mongoose",
+   "hints": [
+    {
+     "text": "Small mammal",
+     "level": 1
+    },
+    {
+     "text": "Quick hunter",
+     "level": 1
+    },
+    {
+     "text": "Fights cobras",
+     "level": 2
+    },
+    {
+     "text": "Very fast",
+     "level": 2
+    },
+    {
+     "text": "Slim body",
+     "level": 3
+    },
+    {
+     "text": "Bushy tail",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Meerkat",
+    "Weasel",
+    "Ferret"
+   ]
+  },
+  {
+   "word": "Cobra",
+   "hints": [
+    {
+     "text": "Snake",
+     "level": 1
+    },
+    {
+     "text": "Venomous reptile",
+     "level": 1
+    },
+    {
+     "text": "Charmed by flutes",
+     "level": 2
+    },
+    {
+     "text": "Spits venom",
+     "level": 2
+    },
+    {
+     "text": "Spreads a hood",
+     "level": 3
+    },
+    {
+     "text": "Rises up",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Python",
+    "Viper",
+    "Mamba"
+   ]
+  },
+  {
+   "word": "Python",
+   "hints": [
+    {
+     "text": "Snake",
+     "level": 1
+    },
+    {
+     "text": "Big reptile",
+     "level": 1
+    },
+    {
+     "text": "Squeezes its prey",
+     "level": 2
+    },
+    {
+     "text": "Not venomous",
+     "level": 2
+    },
+    {
+     "text": "Very long body",
+     "level": 3
+    },
+    {
+     "text": "Patterned scales",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Cobra",
+    "Boa",
+    "Anaconda"
+   ]
+  },
+  {
+   "word": "Hen",
+   "hints": [
+    {
+     "text": "Farm bird",
+     "level": 1
+    },
+    {
+     "text": "Female bird",
+     "level": 1
+    },
+    {
+     "text": "Lays eggs",
+     "level": 2
+    },
+    {
+     "text": "Sits on nest",
+     "level": 2
+    },
+    {
+     "text": "Clucks softly",
+     "level": 3
+    },
+    {
+     "text": "Pecks seeds",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Rooster",
+    "Duck",
+    "Goose"
+   ]
+  },
+  {
+   "word": "Lamb",
+   "hints": [
+    {
+     "text": "Young animal",
+     "level": 1
+    },
+    {
+     "text": "Farm baby",
+     "level": 1
+    },
+    {
+     "text": "Born in spring",
+     "level": 2
+    },
+    {
+     "text": "Follows its mother",
+     "level": 2
+    },
+    {
+     "text": "Soft woolly coat",
+     "level": 3
+    },
+    {
+     "text": "Bleats softly",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Calf",
+    "Kid",
+    "Foal"
+   ]
+  },
+  {
+   "word": "Puppy",
+   "hints": [
+    {
+     "text": "Young animal",
+     "level": 1
+    },
+    {
+     "text": "Pet baby",
+     "level": 1
+    },
+    {
+     "text": "Chews everything",
+     "level": 2
+    },
+    {
+     "text": "Very playful",
+     "level": 2
+    },
+    {
+     "text": "Floppy ears",
+     "level": 3
+    },
+    {
+     "text": "Tiny barks",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Kitten",
+    "Cub",
+    "Foal"
+   ]
+  },
+  {
+   "word": "Kitten",
+   "hints": [
+    {
+     "text": "Young animal",
+     "level": 1
+    },
+    {
+     "text": "Pet baby",
+     "level": 1
+    },
+    {
+     "text": "Chases string",
+     "level": 2
+    },
+    {
+     "text": "Very playful",
+     "level": 2
+    },
+    {
+     "text": "Tiny whiskers",
+     "level": 3
+    },
+    {
+     "text": "Soft mews",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Puppy",
+    "Cub",
+    "Bunny"
+   ]
+  },
+  {
+   "word": "Raven",
+   "hints": [
+    {
+     "text": "Black bird",
+     "level": 1
+    },
+    {
+     "text": "Clever bird",
+     "level": 1
+    },
+    {
+     "text": "Symbol of mystery",
+     "level": 2
+    },
+    {
+     "text": "Mimics sounds",
+     "level": 2
+    },
+    {
+     "text": "Shaggy throat feathers",
+     "level": 3
+    },
+    {
+     "text": "Deep croak",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Crow",
+    "Magpie",
+    "Blackbird"
+   ]
+  },
+  {
+   "word": "Robin",
+   "hints": [
+    {
+     "text": "Small bird",
+     "level": 1
+    },
+    {
+     "text": "Garden bird",
+     "level": 1
+    },
+    {
+     "text": "Sign of spring",
+     "level": 2
+    },
+    {
+     "text": "Pulls up worms",
+     "level": 2
+    },
+    {
+     "text": "Red breast",
+     "level": 3
+    },
+    {
+     "text": "Cheerful song",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Sparrow",
+    "Finch",
+    "Bluebird"
+   ]
+  },
+  {
+   "word": "Sparrow",
+   "hints": [
+    {
+     "text": "Small bird",
+     "level": 1
+    },
+    {
+     "text": "Common bird",
+     "level": 1
+    },
+    {
+     "text": "Hops on ground",
+     "level": 2
+    },
+    {
+     "text": "Lives near people",
+     "level": 2
+    },
+    {
+     "text": "Brown and streaky",
+     "level": 3
+    },
+    {
+     "text": "Chirpy song",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Robin",
+    "Finch",
+    "Wren"
+   ]
+  },
+  {
+   "word": "Heron",
+   "hints": [
+    {
+     "text": "Wading bird",
+     "level": 1
+    },
+    {
+     "text": "Water bird",
+     "level": 1
+    },
+    {
+     "text": "Stands very still",
+     "level": 2
+    },
+    {
+     "text": "Spears fish",
+     "level": 2
+    },
+    {
+     "text": "Long legs",
+     "level": 3
+    },
+    {
+     "text": "Dagger beak",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Stork",
+    "Crane",
+    "Flamingo"
+   ]
+  },
+  {
+   "word": "Stork",
+   "hints": [
+    {
+     "text": "Wading bird",
+     "level": 1
+    },
+    {
+     "text": "Large bird",
+     "level": 1
+    },
+    {
+     "text": "Delivers babies myth",
+     "level": 2
+    },
+    {
+     "text": "Nests on rooftops",
+     "level": 2
+    },
+    {
+     "text": "Long red beak",
+     "level": 3
+    },
+    {
+     "text": "White plumage",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Heron",
+    "Crane",
+    "Pelican"
+   ]
+  },
+  {
+   "word": "Wombat",
+   "hints": [
+    {
+     "text": "Pouched mammal",
+     "level": 1
+    },
+    {
+     "text": "Burrowing animal",
+     "level": 1
+    },
+    {
+     "text": "Australian native",
+     "level": 2
+    },
+    {
+     "text": "Digs big tunnels",
+     "level": 2
+    },
+    {
+     "text": "Cube shaped droppings",
+     "level": 3
+    },
+    {
+     "text": "Stocky body",
+     "level": 3
+    }
+   ],
+   "fakes": [
+    "Koala",
+    "Badger",
+    "Beaver"
+   ]
+  }
+ ]
+}
