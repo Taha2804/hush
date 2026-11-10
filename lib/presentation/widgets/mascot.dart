@@ -222,14 +222,15 @@ class PeekingCornerMascot extends StatelessWidget {
 
 /// Dedicated Card Peeking Mascot for the Secret Reveal Card.
 /// - In default state: Eyes completely closed (peaceful sleeping/innocent curved lines), subtle idle antenna/breathing motion, paws on the edge.
-/// - On hold: Eyes slowly open slightly (pupils peek upwards towards the secret word), subtle head lift.
-/// - On release: Eyes quickly close again back to innocent closed eyes.
+/// - On hold: Hushbug's eye-covering eyelids smoothly slide to reveal eyes, looking up at secret word (peeking expression), subtle head lift.
+/// - On release: Eyes quickly close again back to innocent sleeping expression.
+/// - Completely neutral: 100% identical appearance for all players (no imposter hat or role cues).
 class CardPeekingMascot extends StatefulWidget {
   const CardPeekingMascot({
     super.key,
     required this.eyesOpenProgress, // 0.0 = completely closed, 1.0 = peeking open looking up
-    this.width = 100,
-    this.height = 72,
+    this.width = 120,
+    this.height = 84,
     this.isDetective = false,
   });
 
@@ -276,7 +277,6 @@ class _CardPeekingMascotState extends State<CardPeekingMascot> with SingleTicker
           height: widget.height,
           child: CustomPaint(
             painter: _PeekingMascotPainter(
-              isDetective: widget.isDetective,
               eyesOpenProgress: widget.eyesOpenProgress,
               breathOffset: _breathAnim.value,
               antennaWiggle: _antennaAnim.value,
@@ -296,6 +296,7 @@ class _PeekingMascotPainter extends CustomPainter {
     this.antennaWiggle = 0.0,
   });
 
+  // Maintained for backward compatibility, but strictly ignored so mascot is 100% neutral
   final bool isDetective;
   /// 0.0 = completely closed (innocent curved arcs), 1.0 = peeking open looking up
   final double eyesOpenProgress;
@@ -304,149 +305,218 @@ class _PeekingMascotPainter extends CustomPainter {
 
   @override
   void paint(Canvas canvas, Size size) {
-    final s = size.width / 100;
+    final s = size.width / 120;
     canvas.save();
     canvas.scale(s);
 
     final outline = Paint()
-      ..color = const Color(0xFF1E1A2E)
+      ..color = const Color(0xFF1E1435)
       ..style = PaintingStyle.stroke
       ..strokeWidth = 2.4
-      ..strokeCap = StrokeCap.round;
+      ..strokeCap = StrokeCap.round
+      ..strokeJoin = StrokeJoin.round;
+
+    final clampedP = eyesOpenProgress.clamp(0.0, 1.0);
 
     // Apply subtle breathing and peek head lift
-    // When peeking, the head subtly rises by ~2px
-    final peekLift = -2.5 * eyesOpenProgress;
+    // When peeking, the head and antennae rise slightly
+    final peekLift = -3.5 * clampedP;
     final totalYOffset = breathOffset + peekLift;
+    const cx = 60.0;
+    final cy = 48.0 + totalYOffset;
 
-    // 1. Antennae (with dynamic idle wiggle)
-    // Left antenna
+    // 0. Sparkle rays when peeking / revealed (accent rays beside head, as in reference image)
+    if (clampedP > 0.4) {
+      final rayOpacity = ((clampedP - 0.4) / 0.6).clamp(0.0, 1.0);
+      final rayPaint = Paint()
+        ..color = const Color(0xFFFFD166).withValues(alpha: rayOpacity)
+        ..style = PaintingStyle.stroke
+        ..strokeWidth = 2.0
+        ..strokeCap = StrokeCap.round;
+
+      // Left rays
+      canvas.drawLine(Offset(22, cy - 8), Offset(14, cy - 12), rayPaint);
+      canvas.drawLine(Offset(21, cy - 1), Offset(12, cy - 1), rayPaint);
+      canvas.drawLine(Offset(23, cy + 6), Offset(15, cy + 9), rayPaint);
+
+      // Right rays
+      canvas.drawLine(Offset(98, cy - 8), Offset(106, cy - 12), rayPaint);
+      canvas.drawLine(Offset(99, cy - 1), Offset(108, cy - 1), rayPaint);
+      canvas.drawLine(Offset(97, cy + 6), Offset(105, cy + 9), rayPaint);
+    }
+
+    // 1. Antennae with glowing tips (pink/purple tips, subtle wiggle)
+    final antennaAngleAdjust = 0.08 * clampedP;
+
+    // Left Antenna
     canvas.save();
-    canvas.translate(38, 38 + totalYOffset);
-    canvas.rotate(-antennaWiggle);
-    canvas.translate(-38, -(38 + totalYOffset));
+    canvas.translate(45, cy - 20);
+    canvas.rotate(-antennaWiggle - antennaAngleAdjust);
+    canvas.translate(-45, -(cy - 20));
     final pL = Path()
-      ..moveTo(38, 38 + totalYOffset)
-      ..quadraticBezierTo(28, 22 + totalYOffset, 22, 24 + totalYOffset);
-    canvas.drawPath(pL, outline);
-    canvas.drawCircle(Offset(22, 24 + totalYOffset), 3.5, Paint()..color = HushbugColors.accentYellow);
-    canvas.drawCircle(Offset(22, 24 + totalYOffset), 3.5, outline..strokeWidth = 1.2);
+      ..moveTo(46, cy - 18)
+      ..cubicTo(40, cy - 32, 34, cy - 38, 28, cy - 36);
+    canvas.drawPath(pL, outline..strokeWidth = 2.4);
+    // Glowing pink/purple bulb tip
+    final bulbL = Offset(28, cy - 36);
+    canvas.drawCircle(bulbL, 6.0, Paint()..color = const Color(0xFFF43F5E).withValues(alpha: 0.35));
+    canvas.drawCircle(bulbL, 4.4, Paint()..color = const Color(0xFFEC4899));
+    canvas.drawCircle(bulbL, 4.4, outline..strokeWidth = 1.4);
+    canvas.drawCircle(Offset(bulbL.dx - 1.2, bulbL.dy - 1.2), 1.2, Paint()..color = Colors.white);
     canvas.restore();
 
-    // Right antenna
+    // Right Antenna
     canvas.save();
-    canvas.translate(62, 38 + totalYOffset);
-    canvas.rotate(antennaWiggle);
-    canvas.translate(-62, -(38 + totalYOffset));
+    canvas.translate(75, cy - 20);
+    canvas.rotate(antennaWiggle + antennaAngleAdjust);
+    canvas.translate(-75, -(cy - 20));
     final pR = Path()
-      ..moveTo(62, 38 + totalYOffset)
-      ..quadraticBezierTo(72, 22 + totalYOffset, 78, 24 + totalYOffset);
-    canvas.drawPath(pR, outline);
-    canvas.drawCircle(Offset(78, 24 + totalYOffset), 3.5, Paint()..color = HushbugColors.accentYellow);
-    canvas.drawCircle(Offset(78, 24 + totalYOffset), 3.5, outline..strokeWidth = 1.2);
+      ..moveTo(74, cy - 18)
+      ..cubicTo(80, cy - 32, 86, cy - 38, 92, cy - 36);
+    canvas.drawPath(pR, outline..strokeWidth = 2.4);
+    // Glowing pink/purple bulb tip
+    final bulbR = Offset(92, cy - 36);
+    canvas.drawCircle(bulbR, 6.0, Paint()..color = const Color(0xFFF43F5E).withValues(alpha: 0.35));
+    canvas.drawCircle(bulbR, 4.4, Paint()..color = const Color(0xFFEC4899));
+    canvas.drawCircle(bulbR, 4.4, outline..strokeWidth = 1.4);
+    canvas.drawCircle(Offset(bulbR.dx - 1.2, bulbR.dy - 1.2), 1.2, Paint()..color = Colors.white);
     canvas.restore();
 
     outline.strokeWidth = 2.4;
 
-    // 2. Head / body peeking up over the card edge
-    final headC = Offset(50, 52 + totalYOffset);
-    // Outer shell body (Neon purple)
-    canvas.drawCircle(headC, 28, Paint()..color = HushbugColors.neonPurple);
-    // Face skin
-    canvas.drawCircle(headC, 24, Paint()..color = const Color(0xFFFFE0BD));
-    canvas.drawCircle(headC, 24, outline);
+    // 2. Body / Head (Cute rounded purple bug dome)
+    final bodyRect = Rect.fromCenter(center: Offset(cx, cy + 2), width: 76, height: 48);
+    final bodyRRect = RRect.fromRectAndCorners(
+      bodyRect,
+      topLeft: const Radius.circular(38),
+      topRight: const Radius.circular(38),
+      bottomLeft: const Radius.circular(24),
+      bottomRight: const Radius.circular(24),
+    );
+
+    // Purple Gradient Shell
+    final bodyPaint = Paint()
+      ..shader = const LinearGradient(
+        begin: Alignment.topCenter,
+        end: Alignment.bottomCenter,
+        colors: [
+          Color(0xFF9D6EF8),
+          Color(0xFF8B5CF6),
+          Color(0xFF6D28D9),
+        ],
+      ).createShader(bodyRect);
+
+    canvas.drawRRect(bodyRRect, bodyPaint);
+    canvas.drawRRect(bodyRRect, outline);
 
     // 3. Cute Cheek Blush
-    final blush = Paint()..color = const Color(0xFFFF8FA3).withValues(alpha: 0.55);
-    canvas.drawCircle(Offset(38, 56 + totalYOffset), 4, blush);
-    canvas.drawCircle(Offset(62, 56 + totalYOffset), 4, blush);
+    final blushColor = const Color(0xFFFF72A3).withValues(alpha: 0.55 + 0.25 * clampedP);
+    final blushPaint = Paint()..color = blushColor;
+    canvas.drawOval(Rect.fromCenter(center: Offset(35, cy + 7), width: 9, height: 6.5), blushPaint);
+    canvas.drawOval(Rect.fromCenter(center: Offset(85, cy + 7), width: 9, height: 6.5), blushPaint);
 
-    // 4. Eyes: Smoothly interpolate from completely closed (0.0) to peeking upwards (1.0)
-    final clampedP = eyesOpenProgress.clamp(0.0, 1.0);
-
+    // 4. Eyes Animation: Synchronized Eyelid Slide from Innocent Closed to Peeking Upwards
     for (final isLeft in [true, false]) {
-      final eyeX = isLeft ? 43.0 : 57.0;
-      final eyeY = 46.0 + totalYOffset;
+      final eyeX = isLeft ? 45.0 : 75.0;
+      final eyeY = cy - 2.0;
+      const eyeW = 15.0;
+      const eyeH = 17.0;
 
-      if (clampedP <= 0.05) {
-        // --- COMPLETELY CLOSED (Innocent, relaxed, happy curved arc) ---
-        final closedArc = Path()
-          ..moveTo(eyeX - 4.5, eyeY)
-          ..quadraticBezierTo(eyeX, eyeY + 3.2, eyeX + 4.5, eyeY);
-        canvas.drawPath(closedArc, outline..strokeWidth = 2.2);
+      final eyeRect = Rect.fromCenter(center: Offset(eyeX, eyeY), width: eyeW, height: eyeH);
+      final eyeRRect = RRect.fromRectAndRadius(eyeRect, const Radius.circular(7.5));
+
+      if (clampedP <= 0.02) {
+        // --- DEFAULT STATE: Eyes completely closed (innocent, relaxed sleeping expression) ---
+        final closedEye = Path()
+          ..moveTo(eyeX - 6.5, eyeY + 1.0)
+          ..quadraticBezierTo(eyeX, eyeY + 4.8, eyeX + 6.5, eyeY + 1.0);
+        canvas.drawPath(closedEye, outline..strokeWidth = 2.2);
       } else {
-        // --- TRANSITIONING / PEEKING OPEN ---
-        // Eye opening height: from thin slit (0.5px) to peeking slit (3.5px)
-        final eyeHeight = 1.0 + (3.4 * clampedP);
-        final eyeWidth = 4.2;
-
-        // Clip to eye oval so pupil and highlights stay within eye socket
+        // --- REVEAL / PEEKING STATE: Eyelids smoothly slide down to reveal eye ---
         canvas.save();
-        final eyeRect = Rect.fromCenter(center: Offset(eyeX, eyeY), width: eyeWidth * 2, height: eyeHeight * 2);
-        final eyeRRect = RRect.fromRectAndRadius(eyeRect, Radius.circular(eyeHeight));
         canvas.clipRRect(eyeRRect);
 
-        // White sclera
+        // White Sclera
         canvas.drawRRect(eyeRRect, Paint()..color = Colors.white);
 
-        // Pupil looking upward towards the secret word (offset towards the top)
-        final pupilY = eyeY - (eyeHeight * 0.45);
-        final pupilRadius = 2.2 * clampedP.clamp(0.6, 1.0);
-        canvas.drawCircle(Offset(eyeX, pupilY), pupilRadius, Paint()..color = const Color(0xFF15131D));
+        // Large expressive dark pupil looking upwards towards the secret card
+        // Interpolate pupil position to glance up towards the word
+        final pupilY = eyeY - 2.6 * clampedP;
+        final pupilX = eyeX + (isLeft ? 0.3 : -0.3) * clampedP;
+        const pupilRadius = 4.8;
+        canvas.drawCircle(Offset(pupilX, pupilY), pupilRadius, Paint()..color = const Color(0xFF1E1138));
 
-        // Catchlight / glint inside pupil (peeking sparkle)
-        if (clampedP > 0.3) {
-          canvas.drawCircle(Offset(eyeX + 0.8, pupilY - 0.7), 0.9 * clampedP, Paint()..color = Colors.white);
-        }
+        // Catchlight / sparkly glint reflection inside pupil
+        canvas.drawCircle(Offset(pupilX + 1.4, pupilY - 1.4), 1.5, Paint()..color = Colors.white);
+        canvas.drawCircle(Offset(pupilX - 1.2, pupilY + 1.6), 0.7, Paint()..color = Colors.white);
+
+        // Eyelid smoothly covering the top portion of the eye
+        // At clampedP == 0.02, eyelid covers ~98%. At clampedP == 1.0, eyelid covers top 45% (peeking)
+        final eyelidCoverage = (1.0 - (0.55 * clampedP)).clamp(0.45, 1.0);
+        final eyelidBottomY = eyeRect.top + (eyeH * eyelidCoverage);
+
+        final eyelidPath = Path()
+          ..moveTo(eyeRect.left - 2, eyeRect.top - 2)
+          ..lineTo(eyeRect.right + 2, eyeRect.top - 2)
+          ..lineTo(eyeRect.right + 2, eyelidBottomY)
+          // Sly cartoon peeking curve: slightly lower on the outer corner
+          ..quadraticBezierTo(
+            eyeX,
+            eyelidBottomY + (isLeft ? 1.0 : 1.0),
+            eyeRect.left - 2,
+            eyelidBottomY + (isLeft ? 1.5 : -0.5),
+          )
+          ..close();
+
+        // Shaded eyelid matching body skin
+        final eyelidPaint = Paint()
+          ..shader = const LinearGradient(
+            begin: Alignment.topCenter,
+            end: Alignment.bottomCenter,
+            colors: [Color(0xFF9D6EF8), Color(0xFF8B5CF6)],
+          ).createShader(eyeRect);
+        canvas.drawPath(eyelidPath, eyelidPaint);
+
+        // Eyelid crease line
+        final creaseLine = Path()
+          ..moveTo(eyeRect.left - 1, eyelidBottomY + (isLeft ? 1.5 : -0.5))
+          ..quadraticBezierTo(
+            eyeX,
+            eyelidBottomY + 1.0,
+            eyeRect.right + 1,
+            eyelidBottomY,
+          );
+        canvas.drawPath(creaseLine, outline..strokeWidth = 1.8);
+
         canvas.restore();
 
         // Eye socket outline
         canvas.drawRRect(eyeRRect, outline..strokeWidth = 1.6);
-
-        // Tiny cute eyebrow raised slightly while peeking
-        if (clampedP > 0.2) {
-          final browY = eyeY - 6.0 - (1.5 * clampedP);
-          final brow = Path()
-            ..moveTo(eyeX - 3.5, isLeft ? browY + 0.8 : browY - 0.2)
-            ..quadraticBezierTo(eyeX, browY - 0.8, eyeX + 3.5, isLeft ? browY - 0.2 : browY + 0.8);
-          canvas.drawPath(brow, outline..strokeWidth = 1.4);
-        }
       }
     }
     outline.strokeWidth = 2.4;
 
-    // 5. Innocent subtle smile
+    // 5. Innocent Subtle Mouth
+    final mouthY = cy + 7.5;
     final mouth = Path()
-      ..moveTo(47, 54 + totalYOffset)
-      ..quadraticBezierTo(50, 56.5 + totalYOffset, 53, 54 + totalYOffset);
+      ..moveTo(cx - 3.2, mouthY)
+      ..quadraticBezierTo(cx, mouthY + 2.0, cx + 3.2, mouthY);
     canvas.drawPath(mouth, outline..strokeWidth = 1.8);
     outline.strokeWidth = 2.4;
 
-    // 6. Optional Detective Fedora
-    if (isDetective) {
-      final fedora = Path()
-        ..moveTo(26, 42 + totalYOffset)
-        ..quadraticBezierTo(50, 36 + totalYOffset, 74, 42 + totalYOffset)
-        ..lineTo(70, 26 + totalYOffset)
-        ..quadraticBezierTo(50, 20 + totalYOffset, 30, 26 + totalYOffset)
-        ..close();
-      canvas.drawPath(fedora, Paint()..color = const Color(0xFF6B4C35));
-      canvas.drawPath(fedora, outline);
-      final band = Path()
-        ..moveTo(28, 40 + totalYOffset)
-        ..quadraticBezierTo(50, 35 + totalYOffset, 72, 40 + totalYOffset);
-      canvas.drawPath(band, Paint()..color = const Color(0xFF2A1A10)..strokeWidth = 3..style = PaintingStyle.stroke);
-    }
-
-    // 7. Paws clutching the card edge (resting securely on the top edge of the card boundary)
-    // The paws remain anchored even if the head breathes slightly
-    final skin = Paint()..color = const Color(0xFFFFD39B);
-    final pawL = RRect.fromRectAndRadius(const Rect.fromLTWH(30, 56, 12, 10), const Radius.circular(5));
-    canvas.drawRRect(pawL, skin);
+    // 6. Cute Purple Paws (resting securely at bottom-left and bottom-right edges)
+    final pawL = RRect.fromRectAndRadius(
+      Rect.fromLTWH(cx - 33, cy + 13, 14, 11),
+      const Radius.circular(6),
+    );
+    canvas.drawRRect(pawL, Paint()..color = const Color(0xFF7C3AED));
     canvas.drawRRect(pawL, outline..strokeWidth = 2.0);
 
-    final pawR = RRect.fromRectAndRadius(const Rect.fromLTWH(58, 56, 12, 10), const Radius.circular(5));
-    canvas.drawRRect(pawR, skin);
+    final pawR = RRect.fromRectAndRadius(
+      Rect.fromLTWH(cx + 19, cy + 13, 14, 11),
+      const Radius.circular(6),
+    );
+    canvas.drawRRect(pawR, Paint()..color = const Color(0xFF7C3AED));
     canvas.drawRRect(pawR, outline..strokeWidth = 2.0);
 
     canvas.restore();
@@ -454,7 +524,6 @@ class _PeekingMascotPainter extends CustomPainter {
 
   @override
   bool shouldRepaint(covariant _PeekingMascotPainter old) =>
-      old.isDetective != isDetective ||
       old.eyesOpenProgress != eyesOpenProgress ||
       old.breathOffset != breathOffset ||
       old.antennaWiggle != antennaWiggle;

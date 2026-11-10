@@ -76,7 +76,7 @@ class _PlayScreenState extends ConsumerState<PlayScreen> {
     }
 
     final view = switch (round.phase) {
-      GamePhase.reveal => RevealView(key: ValueKey('reveal-${round.revealIndex}'), round: round),
+      GamePhase.reveal => RevealView(key: ValueKey('reveal-${round.revealIndex}'), round: round, onBack: _leave),
       GamePhase.clue => ClueView(round: round),
       GamePhase.discussion => DiscussionView(key: ValueKey('disc-${round.eliminated.length}'), round: round),
       GamePhase.vote => VoteView(key: ValueKey('vote-${round.eliminated.length}-${round.revotes}'), round: round),
@@ -110,48 +110,51 @@ class _PlayScreenState extends ConsumerState<PlayScreen> {
 }
 
 // ======================================================================
-// 1. REVEAL VIEW (Prototypes stitch_flutter_imposter_party_game & (2))
+// 1. REVEAL VIEW (Recreated from Hushbug Secret Card UI Showcase)
 // ======================================================================
 
 class RevealView extends ConsumerStatefulWidget {
-  const RevealView({super.key, required this.round});
+  const RevealView({super.key, required this.round, this.onBack});
   final RoundState round;
+  final VoidCallback? onBack;
 
   @override
   ConsumerState<RevealView> createState() => _RevealViewState();
 }
 
 class _RevealViewState extends ConsumerState<RevealView> with SingleTickerProviderStateMixin {
-  /// Whether the secret dossier is currently revealed
+  /// Whether the secret word is currently actively revealed
   bool _showing = false;
 
   /// Global touch tracking: pointer ID that initiated the hold
   int? _activePointerId;
 
-  /// Animation controller for Hushbug opening/closing eyes and secret card reveal
+  /// Animation controller for 3D card flip & synchronized mascot eye slide
   late final AnimationController _revealAnimCtrl;
+  late final Animation<double> _cardFlipAnim;
   late final Animation<double> _eyeOpenAnim;
-  late final Animation<double> _cardRevealAnim;
+
+  final FocusNode _focusNode = FocusNode();
 
   bool get _seen => widget.round.revealSeen;
 
   @override
   void initState() {
     super.initState();
-    // Eye opening: 300ms, closing: 180ms
+    // Card flip & Eye opening: 380ms, quick reverse on release: 180ms
     _revealAnimCtrl = AnimationController(
       vsync: this,
-      duration: const Duration(milliseconds: 300),
+      duration: const Duration(milliseconds: 380),
       reverseDuration: const Duration(milliseconds: 180),
     );
 
-    _eyeOpenAnim = CurvedAnimation(
+    _cardFlipAnim = CurvedAnimation(
       parent: _revealAnimCtrl,
-      curve: Curves.easeOutCubic,
-      reverseCurve: Curves.easeInQuad,
+      curve: Curves.easeInOutCubic,
+      reverseCurve: Curves.easeInCubic,
     );
 
-    _cardRevealAnim = CurvedAnimation(
+    _eyeOpenAnim = CurvedAnimation(
       parent: _revealAnimCtrl,
       curve: Curves.easeOutCubic,
       reverseCurve: Curves.easeInQuad,
@@ -160,12 +163,12 @@ class _RevealViewState extends ConsumerState<RevealView> with SingleTickerProvid
 
   @override
   void dispose() {
+    _focusNode.dispose();
     _revealAnimCtrl.dispose();
     super.dispose();
   }
 
-  void _onPointerDown(PointerDownEvent event) {
-    if (_seen) return;
+  void _onCardPointerDown(PointerDownEvent event) {
     // Only accept touch if no active pointer is already holding
     if (_activePointerId == null) {
       _activePointerId = event.pointer;
@@ -198,6 +201,7 @@ class _RevealViewState extends ConsumerState<RevealView> with SingleTickerProvid
 
   void _endReveal() {
     if (!_showing) return;
+    // CRITICAL: Prioritize privacy over animation. Immediately conceal secret word
     setState(() => _showing = false);
     _revealAnimCtrl.reverse();
     ref.read(gameProvider.notifier).markRevealed();
@@ -207,552 +211,796 @@ class _RevealViewState extends ConsumerState<RevealView> with SingleTickerProvid
   }
 
   void _next() {
-    if (_seen && !_showing) ref.read(gameProvider.notifier).nextReveal();
+    if (_seen && !_showing) {
+      final s = ref.read(settingsProvider);
+      Haptics.tick(enabled: s.haptics);
+      ref.read(soundProvider).play('whoosh', enabled: s.sound);
+      ref.read(gameProvider.notifier).nextReveal();
+    }
   }
 
   @override
   Widget build(BuildContext context) {
     final r = widget.round;
-    final player = r.players[r.revealIndex];
     final card = ref.read(gameProvider.notifier).engine.cardFor(r, r.revealIndex);
 
     // Global Listener wraps the full screen to track pointer lift anywhere
-    return Listener(
-      behavior: HitTestBehavior.translucent,
-      onPointerUp: _onGlobalPointerUp,
-      onPointerCancel: _onGlobalPointerCancel,
-      child: Column(
-        children: [
-          // Top Pass Prompt Banner
-          Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 8),
-            child: Container(
-              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
-              decoration: BoxDecoration(
-                color: HushbugColors.cardSurface.withValues(alpha: 0.9),
-                borderRadius: BorderRadius.circular(20),
-                border: Border.all(color: HushbugColors.neonPurple.withValues(alpha: 0.4), width: 1.2),
-                boxShadow: [
-                  BoxShadow(color: HushbugColors.neonPurple.withValues(alpha: 0.2), blurRadius: 16),
-                ],
-              ),
-              child: Row(
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                children: [
-                  Row(
-                    children: [
-                      Stack(
-                        children: [
-                          Container(
-                            padding: const EdgeInsets.all(2),
-                            decoration: const BoxDecoration(
-                              shape: BoxShape.circle,
-                              gradient: LinearGradient(colors: [HushbugColors.accentYellow, HushbugColors.neonPurpleLight]),
-                            ),
-                            child: PlayerAvatar(index: r.revealIndex, name: player, radius: 18),
-                          ),
-                          Positioned(
-                            bottom: 0,
-                            right: 0,
-                            child: Container(
-                              width: 10,
-                              height: 10,
-                              decoration: const BoxDecoration(
-                                shape: BoxShape.circle,
-                                color: HushbugColors.civilianEmerald,
-                              ),
-                            ),
-                          ),
-                        ],
-                      ),
-                      const SizedBox(width: 12),
-                      Column(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: [
-                          const Text(
-                            'PASS DEVICE TO',
-                            style: TextStyle(
-                              fontSize: 10,
-                              fontWeight: FontWeight.w700,
-                              color: HushbugColors.textSubtext,
-                              letterSpacing: 1.1,
-                            ),
-                          ),
-                          Row(
-                            children: [
-                              Text(
-                                player,
-                                style: const TextStyle(fontSize: 16, fontWeight: FontWeight.w800, color: Colors.white),
-                              ),
-                              const SizedBox(width: 6),
-                              Container(
-                                padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
-                                decoration: BoxDecoration(
-                                  color: HushbugColors.neonPurple.withValues(alpha: 0.25),
-                                  borderRadius: BorderRadius.circular(100),
-                                  border: Border.all(color: HushbugColors.neonPurpleLight.withValues(alpha: 0.3)),
-                                ),
-                                child: Text(
-                                  'Turn #${r.revealIndex + 1}',
-                                  style: const TextStyle(color: HushbugColors.neonPurpleLight, fontSize: 10, fontWeight: FontWeight.bold),
-                                ),
-                              ),
-                            ],
-                          ),
-                        ],
-                      ),
-                    ],
-                  ),
-                  // Turn Dots
-                  Column(
-                    crossAxisAlignment: CrossAxisAlignment.end,
-                    children: [
-                      Text(
-                        'Player ${r.revealIndex + 1} of ${r.playerCount}',
-                        style: const TextStyle(fontSize: 11, fontWeight: FontWeight.w600, color: HushbugColors.textSubtext),
-                      ),
-                      const SizedBox(height: 4),
-                      Row(
-                        children: [
-                          for (var i = 0; i < r.playerCount; i++)
-                            Container(
-                              margin: const EdgeInsets.only(left: 3),
-                              width: i == r.revealIndex ? 16 : 6,
-                              height: 6,
-                              decoration: BoxDecoration(
-                                borderRadius: BorderRadius.circular(3),
-                                color: i < r.revealIndex
-                                    ? HushbugColors.civilianEmerald
-                                    : i == r.revealIndex
-                                        ? HushbugColors.accentYellow
-                                        : const Color(0xFF332C47),
-                              ),
-                            ),
-                        ],
-                      ),
-                    ],
-                  ),
-                ],
-              ),
-            ),
-          ),
-
-          // Strictly Confidential Badge
-          Container(
-            margin: const EdgeInsets.only(top: 2, bottom: 6),
-            padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 4),
-            decoration: BoxDecoration(
-              color: HushbugColors.cardSurface,
-              borderRadius: BorderRadius.circular(100),
-              border: Border.all(color: HushbugColors.cardBorder, width: 1),
-            ),
-            child: const Row(
-              mainAxisSize: MainAxisSize.min,
-              children: [
-                CircleAvatar(radius: 3, backgroundColor: HushbugColors.accentYellow),
-                SizedBox(width: 8),
-                Text(
-                  'STRICTLY CONFIDENTIAL',
-                  style: TextStyle(color: HushbugColors.textSecondary, fontSize: 10, fontWeight: FontWeight.w800, letterSpacing: 0.8),
-                ),
-              ],
-            ),
-          ),
-
-          // Central Secret Card Stage with Mascot Peeking Integration
-          Expanded(
-            child: Center(
-              child: AnimatedBuilder(
-                animation: _revealAnimCtrl,
-                builder: (context, _) {
-                  return _buildInteractiveCard(card, r);
-                },
-              ),
-            ),
-          ),
-
-          // Status & Helper Instruction below card
-          Padding(
-            padding: const EdgeInsets.only(top: 6, bottom: 4),
-            child: Row(
-              mainAxisAlignment: MainAxisAlignment.center,
-              children: [
-                Container(
-                  width: 6,
-                  height: 6,
-                  decoration: BoxDecoration(
-                    shape: BoxShape.circle,
-                    color: _showing ? HushbugColors.imposterRed : HushbugColors.neonPurpleLight,
-                  ),
-                ),
-                const SizedBox(width: 6),
-                Text(
-                  _showing
-                      ? 'Peeking at your secret role! [Release to re-mask]'
-                      : (_seen
-                          ? 'Dossier checked! Pass device to next player.'
-                          : 'Hold Space or Touch sensor to reveal'),
-                  style: TextStyle(
-                    color: _showing ? HushbugColors.imposterRed : HushbugColors.textSecondary,
-                    fontSize: 12,
-                    fontWeight: FontWeight.w700,
-                  ),
-                ),
-              ],
-            ),
-          ),
-
-          // Footer Action & Security Compliance Banner
-          Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 6),
-            child: Column(
-              children: [
-                TactileButton(
-                  onPressed: _seen && !_showing ? _next : null,
-                  style: TactileButtonStyle.golden,
-                  height: 50,
-                  icon: const Icon(Icons.lock_rounded, color: HushbugColors.onAccentYellow, size: 20),
-                  child: Text('Ready? Lock & Pass (${r.revealIndex + 1} / ${r.playerCount})'),
-                ),
-                const SizedBox(height: 6),
-                const Row(
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  children: [
-                    Icon(Icons.shield_rounded, color: Color(0xFF34D399), size: 14),
-                    SizedBox(width: 6),
-                    Text(
-                      'Android FLAG_SECURE Active - Screenshots Blocked',
-                      style: TextStyle(color: Color(0xFF34D399), fontSize: 10, fontWeight: FontWeight.bold),
-                    ),
-                  ],
-                ),
-              ],
-            ),
-          ),
-        ],
-      ),
-    );
-  }
-
-  /// Interactive Card with integrated Peeking Hushbug Mascot at bottom edge
-  Widget _buildInteractiveCard(RoleCard card, RoundState r) {
-    final isImp = card.showsImposter;
-    final progress = _cardRevealAnim.value;
-    final eyeProgress = _eyeOpenAnim.value;
-
-    // Card dimensions
-    const cardWidth = 320.0;
-    const cardHeight = 390.0;
-
-    return SizedBox(
-      width: cardWidth,
-      height: cardHeight + 40, // Extra space at bottom for peeking mascot
-      child: Stack(
-        clipBehavior: Clip.none,
-        alignment: Alignment.topCenter,
-        children: [
-          // 1. The Main Secret Card
-          Container(
-            width: cardWidth,
-            height: cardHeight,
-            padding: const EdgeInsets.symmetric(horizontal: 22, vertical: 20),
-            decoration: BoxDecoration(
-              color: progress > 0.05
-                  ? Color.lerp(const Color(0xFF1E1733), isImp ? const Color(0xFF2B1124) : const Color(0xFF132822), progress)
-                  : const Color(0xFF1E1733),
-              borderRadius: BorderRadius.circular(32),
-              border: Border.all(
-                color: progress > 0.05
-                    ? Color.lerp(
-                        HushbugColors.neonPurpleLight.withValues(alpha: 0.7),
-                        isImp ? HushbugColors.imposterRed : HushbugColors.civilianEmerald,
-                        progress,
-                      )!
-                    : HushbugColors.neonPurpleLight.withValues(alpha: 0.7),
-                width: 2.2,
-              ),
-              boxShadow: [
-                BoxShadow(
-                  color: (progress > 0.05
-                          ? (isImp ? HushbugColors.imposterRed : HushbugColors.civilianEmerald)
-                          : HushbugColors.neonPurple)
-                      .withValues(alpha: 0.4 + (0.2 * progress)),
-                  blurRadius: 28 + (10 * progress),
-                  spreadRadius: 2,
-                ),
-              ],
-            ),
-            child: Stack(
-              children: [
-                // Unrevealed / Encrypted Card Face
-                Opacity(
-                  opacity: (1.0 - (progress * 1.5)).clamp(0.0, 1.0),
-                  child: IgnorePointer(
-                    ignoring: progress > 0.1,
-                    child: _buildEncryptedCardContent(r),
-                  ),
-                ),
-
-                // Revealed Secret Role / Word Face (Only mounted when visible for privacy)
-                if (progress > 0.02)
-                  Opacity(
-                    opacity: progress,
-                    child: _buildRevealedDossierContent(card, r, isImp),
-                  ),
-              ],
-            ),
-          ),
-
-          // 2. Hushbug Mascot Peeking over the bottom edge of the card
-          // Bottom alignment ensures hands rest exactly on the lower edge/surface
-          Positioned(
-            bottom: 6,
-            child: CardPeekingMascot(
-              width: 104,
-              height: 76,
-              eyesOpenProgress: eyeProgress,
-              isDetective: card.showsImposter,
-            ),
-          ),
-
-          // 3. Touch Initiator Listener (Transparent overlay covering the reveal sensor area)
-          // When touch begins here, _activePointerId is recorded.
-          // Once recorded, finger can move anywhere on screen and reveal persists until pointer-up.
-          if (!_seen && !_showing)
-            Positioned(
-              left: 0,
-              right: 0,
-              top: 0,
-              bottom: 40,
-              child: Listener(
-                behavior: HitTestBehavior.opaque,
-                onPointerDown: _onPointerDown,
-                child: const SizedBox.expand(),
-              ),
-            ),
-        ],
-      ),
-    );
-  }
-
-  /// Encrypted Front Card Content
-  Widget _buildEncryptedCardContent(RoundState r) {
-    return Column(
-      mainAxisAlignment: MainAxisAlignment.spaceBetween,
-      children: [
-        // Top Card Header
-        Row(
-          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+    return Focus(
+      focusNode: _focusNode,
+      autofocus: true,
+      onKeyEvent: (node, event) {
+        if (event.logicalKey == LogicalKeyboardKey.space) {
+          if (event is KeyDownEvent) {
+            _startReveal();
+            return KeyEventResult.handled;
+          } else if (event is KeyUpEvent) {
+            _endReveal();
+            return KeyEventResult.handled;
+          }
+        }
+        return KeyEventResult.ignored;
+      },
+      child: Listener(
+        behavior: HitTestBehavior.translucent,
+        onPointerUp: _onGlobalPointerUp,
+        onPointerCancel: _onGlobalPointerCancel,
+        child: Column(
           children: [
-            Container(
-              padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
-              decoration: BoxDecoration(
-                color: const Color(0xFF2E1955),
-                borderRadius: BorderRadius.circular(100),
-                border: Border.all(color: HushbugColors.neonPurpleLight.withValues(alpha: 0.3)),
-              ),
-              child: const Row(
-                children: [
-                  Icon(Icons.lock_rounded, size: 12, color: HushbugColors.accentYellow),
-                  SizedBox(width: 5),
-                  Text('ENCRYPTED', style: TextStyle(color: Colors.white, fontSize: 10, fontWeight: FontWeight.w800)),
-                ],
+            // 1. Clean Top Bar matching UI showcase
+            _buildTopBar(r),
+
+            const SizedBox(height: 6),
+
+            // 2. Center Secret Card Stage + Mascot
+            Expanded(
+              child: Center(
+                child: SingleChildScrollView(
+                  physics: const ClampingScrollPhysics(),
+                  child: Column(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      // The 3D Flipping Secret Card
+                      _buildFlippingCard(card, r),
+
+                      const SizedBox(height: 10),
+
+                      // Hushbug Mascot with synchronized eye animation
+                      AnimatedBuilder(
+                        animation: _eyeOpenAnim,
+                        builder: (context, _) => CardPeekingMascot(
+                          width: 126,
+                          height: 82,
+                          eyesOpenProgress: _eyeOpenAnim.value,
+                          isDetective: false, // Strictly neutral for all players
+                        ),
+                      ),
+
+                      const SizedBox(height: 6),
+
+                      // Helper text from UI showcase
+                      const Text(
+                        'Hold to Reveal',
+                        style: TextStyle(
+                          fontSize: 20,
+                          fontWeight: FontWeight.w800,
+                          color: Colors.white,
+                          letterSpacing: 0.2,
+                        ),
+                      ),
+                      const SizedBox(height: 3),
+                      const Text(
+                        '(Hold anywhere on the card)',
+                        style: TextStyle(
+                          fontSize: 12,
+                          fontWeight: FontWeight.w500,
+                          color: Color(0xFFA78BFA),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
               ),
             ),
-            const Text('HUSH PROTOCOL', style: TextStyle(color: HushbugColors.textSubtext, fontSize: 10, fontWeight: FontWeight.bold, letterSpacing: 0.5)),
+
+            // 3. Simplified Pass-to-Next-Player Section
+            _buildPassFooter(r),
           ],
         ),
+      ),
+    );
+  }
 
-        // Central Icon & Instruction
-        Column(
+  /// Top Bar with back button, "Secret Card", "Player X of Y" and progress pills
+  Widget _buildTopBar(RoundState r) {
+    return Padding(
+      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+      child: Row(
+        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+        children: [
+          // Back button
+          IconButton(
+            onPressed: widget.onBack,
+            icon: const Icon(Icons.arrow_back_rounded, color: Colors.white, size: 24),
+            tooltip: 'Leave game',
+          ),
+
+          // Title & Player Progress Indicator
+          Column(
+            children: [
+              const Text(
+                'Secret Card',
+                style: TextStyle(
+                  fontSize: 18,
+                  fontWeight: FontWeight.w800,
+                  color: Colors.white,
+                  letterSpacing: 0.2,
+                ),
+              ),
+              const SizedBox(height: 2),
+              Text(
+                'Player ${r.revealIndex + 1} of ${r.playerCount}',
+                style: const TextStyle(
+                  fontSize: 12,
+                  fontWeight: FontWeight.w600,
+                  color: Color(0xFFA78BFA),
+                ),
+              ),
+              const SizedBox(height: 8),
+              // Horizontal Turn Indicator Capsules
+              Row(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  for (var i = 0; i < r.playerCount; i++)
+                    Container(
+                      margin: const EdgeInsets.symmetric(horizontal: 3),
+                      width: 32,
+                      height: 5,
+                      decoration: BoxDecoration(
+                        borderRadius: BorderRadius.circular(3),
+                        color: i == r.revealIndex
+                            ? const Color(0xFFA78BFA)
+                            : (i < r.revealIndex
+                                ? const Color(0xFF6D28D9)
+                                : const Color(0xFF31254A)),
+                        boxShadow: i == r.revealIndex
+                            ? [
+                                BoxShadow(
+                                  color: const Color(0xFFA78BFA).withValues(alpha: 0.5),
+                                  blurRadius: 6,
+                                ),
+                              ]
+                            : null,
+                      ),
+                    ),
+                ],
+              ),
+            ],
+          ),
+
+          // Invisible anchor for symmetrical centering
+          const SizedBox(width: 48),
+        ],
+      ),
+    );
+  }
+
+  /// 3D Flipping Card with smooth perspective rotation
+  Widget _buildFlippingCard(RoleCard card, RoundState r) {
+    const cardWidth = 310.0;
+    const cardHeight = 350.0;
+
+    return AnimatedBuilder(
+      animation: _cardFlipAnim,
+      builder: (context, _) {
+        final flipVal = _cardFlipAnim.value; // 0.0 to 1.0
+        final angle = flipVal * math.pi;
+        final isShowingBack = angle < (math.pi / 2);
+
+        return Transform(
+          alignment: Alignment.center,
+          transform: Matrix4.identity()
+            ..setEntry(3, 2, 0.0015) // Realistic 3D perspective
+            ..rotateY(angle),
+          child: isShowingBack
+              ? _buildCardBack(cardWidth, cardHeight)
+              : Transform(
+                  alignment: Alignment.center,
+                  transform: Matrix4.identity()..rotateY(math.pi), // Compensate flip for front face
+                  child: _buildCardFront(card, r, cardWidth, cardHeight),
+                ),
+        );
+      },
+    );
+  }
+
+  /// Card Back: Fedora hat + shades, "Your Secret Word", biometric fingerprint sensor
+  Widget _buildCardBack(double width, double height) {
+    return Listener(
+      behavior: HitTestBehavior.opaque,
+      onPointerDown: _onCardPointerDown,
+      child: Container(
+        width: width,
+        height: height,
+        decoration: BoxDecoration(
+          borderRadius: BorderRadius.circular(30),
+          gradient: const LinearGradient(
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+            colors: [
+              Color(0xFF2B1B54),
+              Color(0xFF1B1138),
+              Color(0xFF130A28),
+            ],
+          ),
+          border: Border.all(
+            color: const Color(0xFFB388FF),
+            width: 2.2,
+          ),
+          boxShadow: [
+            BoxShadow(
+              color: const Color(0xFF7C3AED).withValues(alpha: 0.5),
+              blurRadius: 28,
+              spreadRadius: 2,
+            ),
+            BoxShadow(
+              color: const Color(0xFFA78BFA).withValues(alpha: 0.25),
+              blurRadius: 40,
+              spreadRadius: 4,
+            ),
+          ],
+        ),
+        padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 24),
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: [
-            Container(
-              width: 72,
-              height: 72,
-              decoration: BoxDecoration(
-                shape: BoxShape.circle,
-                color: HushbugColors.neonPurple.withValues(alpha: 0.25),
-                border: Border.all(color: HushbugColors.neonPurpleLight.withValues(alpha: 0.6), width: 1.5),
-              ),
-              child: const Center(
-                child: Icon(Icons.masks_rounded, size: 40, color: HushbugColors.neonPurpleLight),
-              ),
-            ),
-            const SizedBox(height: 12),
-            const Text(
-              'Hold to Reveal',
-              style: TextStyle(fontSize: 22, fontWeight: FontWeight.w900, color: Colors.white),
-            ),
-            const SizedBox(height: 4),
+            // 1. Stylish Fedora Hat with Sunglasses Icon (Secret Agent Motif)
+            const _SecretAgentIcon(size: 68),
+
+            // 2. Secret Word Label
             const Text(
               'Your Secret Word',
-              style: TextStyle(fontSize: 13, color: HushbugColors.textSubtext, fontWeight: FontWeight.w600),
+              style: TextStyle(
+                fontSize: 21,
+                fontWeight: FontWeight.w800,
+                color: Colors.white,
+                letterSpacing: 0.3,
+              ),
+            ),
+
+            // 3. Biometric Fingerprint Sensor
+            Container(
+              width: 58,
+              height: 58,
+              decoration: BoxDecoration(
+                shape: BoxShape.circle,
+                color: const Color(0xFF2E1955).withValues(alpha: 0.5),
+                border: Border.all(
+                  color: const Color(0xFFA78BFA).withValues(alpha: 0.6),
+                  width: 1.8,
+                ),
+                boxShadow: [
+                  BoxShadow(
+                    color: const Color(0xFF7C3AED).withValues(alpha: 0.35),
+                    blurRadius: 14,
+                  ),
+                ],
+              ),
+              child: const Center(
+                child: Icon(
+                  Icons.fingerprint_rounded,
+                  color: Colors.white,
+                  size: 34,
+                ),
+              ),
             ),
           ],
         ),
-
-        // Biometric Touch & Press Sensor
-        const Column(
-          children: [
-            BiometricSensor(size: 54),
-            SizedBox(height: 4),
-            Text(
-              'Touch & Press Sensor',
-              style: TextStyle(color: HushbugColors.textMuted, fontSize: 10, fontWeight: FontWeight.w700),
-            ),
-          ],
-        ),
-
-        // Spacing for mascot resting at bottom
-        const SizedBox(height: 20),
-      ],
+      ),
     );
   }
 
-  /// Revealed Secret Role / Word Dossier Content
-  Widget _buildRevealedDossierContent(RoleCard card, RoundState r, bool isImp) {
-    return Column(
-      mainAxisAlignment: MainAxisAlignment.spaceBetween,
-      children: [
-        // Dossier Header
-        Row(
-          mainAxisAlignment: MainAxisAlignment.spaceBetween,
-          children: [
-            Container(
-              padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
-              decoration: BoxDecoration(
-                color: isImp ? const Color(0x33EF4444) : const Color(0x3310B981),
-                borderRadius: BorderRadius.circular(100),
-                border: Border.all(color: isImp ? HushbugColors.imposterRed : HushbugColors.civilianEmerald),
-              ),
-              child: Text(
-                isImp ? 'TOP SECRET DISCLOSURE' : 'CONFIDENTIAL DOSSIER',
-                style: TextStyle(
-                  color: isImp ? HushbugColors.imposterRed : const Color(0xFF34D399),
-                  fontSize: 10,
-                  fontWeight: FontWeight.w900,
-                  letterSpacing: 0.5,
-                ),
-              ),
-            ),
-            const Text(
-              'DO NOT SHARE',
-              style: TextStyle(color: HushbugColors.imposterRed, fontSize: 10, fontWeight: FontWeight.bold, letterSpacing: 0.5),
-            ),
+  /// Card Front: Cosmic planet with ring, "Your Word" pill, big bold secret word
+  /// Note: Card borders & styling are IDENTICAL for imposters & civilians so role is never exposed!
+  Widget _buildCardFront(RoleCard card, RoundState r, double width, double height) {
+    final isImp = card.showsImposter;
+
+    return Container(
+      width: width,
+      height: height,
+      decoration: BoxDecoration(
+        borderRadius: BorderRadius.circular(30),
+        gradient: const LinearGradient(
+          begin: Alignment.topLeft,
+          end: Alignment.bottomRight,
+          colors: [
+            Color(0xFF2B1B54),
+            Color(0xFF1B1138),
+            Color(0xFF130A28),
           ],
         ),
-
-        // Assigned Identity
-        Column(
-          children: [
-            Text(
-              'YOUR ASSIGNED IDENTITY',
-              style: TextStyle(
-                color: isImp ? const Color(0xFFFCA5A5) : const Color(0xFFA7F3D0),
-                fontSize: 10,
-                fontWeight: FontWeight.w800,
-                letterSpacing: 1.1,
-              ),
-            ),
-            const SizedBox(height: 6),
-            Container(
-              padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 8),
-              decoration: BoxDecoration(
-                color: isImp ? HushbugColors.imposterRed.withValues(alpha: 0.2) : HushbugColors.civilianEmerald.withValues(alpha: 0.2),
-                borderRadius: BorderRadius.circular(16),
-                border: Border.all(
-                  color: isImp ? HushbugColors.imposterRed : HushbugColors.civilianEmerald,
-                  width: 2,
-                ),
-              ),
-              child: Text(
-                isImp ? 'ROLE: IMPOSTER' : 'ROLE: CIVILIAN',
-                style: TextStyle(
-                  fontSize: 20,
-                  fontWeight: FontWeight.w900,
-                  color: isImp ? HushbugColors.imposterRed : const Color(0xFF34D399),
-                  letterSpacing: 0.5,
-                ),
-              ),
-            ),
-            const SizedBox(height: 4),
-            Text(
-              isImp ? 'You do not know the actual secret word. Blend in!' : 'Civilians hold the true secret word.',
-              textAlign: TextAlign.center,
-              style: const TextStyle(color: HushbugColors.textSubtext, fontSize: 11),
-            ),
-          ],
+        // Identical purple/lavender glowing border for all players
+        border: Border.all(
+          color: const Color(0xFFB388FF),
+          width: 2.2,
         ),
-
-        // Clue / Word Panel (Prominently displayed)
-        Container(
-          width: double.infinity,
-          padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 12),
-          decoration: BoxDecoration(
-            color: Colors.black.withValues(alpha: 0.55),
-            borderRadius: BorderRadius.circular(18),
-            border: Border.all(color: Colors.white.withValues(alpha: 0.12)),
+        boxShadow: [
+          BoxShadow(
+            color: const Color(0xFF7C3AED).withValues(alpha: 0.55),
+            blurRadius: 30,
+            spreadRadius: 2,
           ),
-          child: isImp
-              ? Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    if (card.word != null) ...[
-                      const Text('ASSIGNED COUNTER-WORD:', style: TextStyle(color: HushbugColors.textSubtext, fontSize: 9, fontWeight: FontWeight.bold)),
-                      const SizedBox(height: 2),
-                      Text(card.word!, style: const TextStyle(color: HushbugColors.accentYellow, fontSize: 18, fontWeight: FontWeight.w900)),
-                      const Divider(color: Colors.white24, height: 12),
+          BoxShadow(
+            color: const Color(0xFFA78BFA).withValues(alpha: 0.3),
+            blurRadius: 42,
+            spreadRadius: 4,
+          ),
+        ],
+      ),
+      padding: const EdgeInsets.symmetric(horizontal: 22, vertical: 22),
+      child: Column(
+        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+        children: [
+          // 1. Cosmic Planet with Rings & Sparkles
+          const _CosmicPlanetIcon(size: 64),
+
+          // 2. Role / Word Container Pill
+          Container(
+            padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 6),
+            decoration: BoxDecoration(
+              color: isImp
+                  ? const Color(0xFFEF4444).withValues(alpha: 0.22)
+                  : Colors.white.withValues(alpha: 0.12),
+              borderRadius: BorderRadius.circular(100),
+              border: Border.all(
+                color: isImp
+                    ? const Color(0xFFF87171).withValues(alpha: 0.5)
+                    : Colors.white.withValues(alpha: 0.2),
+                width: 1.2,
+              ),
+            ),
+            child: Text(
+              isImp ? 'Role: Imposter' : 'Your Word',
+              style: TextStyle(
+                color: isImp ? const Color(0xFFFCA5A5) : const Color(0xFFDDD6FE),
+                fontSize: 13,
+                fontWeight: FontWeight.w700,
+                letterSpacing: 0.4,
+              ),
+            ),
+          ),
+
+          // 3. Secret Word Display (or Imposter briefing)
+          // Privacy protection: Secret word is strictly masked whenever _showing is false
+          if (!isImp) ...[
+            Text(
+              _showing ? (card.word ?? r.word) : '••••••••',
+              textAlign: TextAlign.center,
+              style: const TextStyle(
+                fontSize: 32,
+                fontWeight: FontWeight.w900,
+                color: Colors.white,
+                letterSpacing: 0.6,
+                shadows: [
+                  Shadow(
+                    color: Color(0x66000000),
+                    blurRadius: 8,
+                    offset: Offset(0, 2),
+                  ),
+                ],
+              ),
+            ),
+          ] else ...[
+            // Imposter Role assignment & hints
+            if (card.word != null) ...[
+              Text(
+                _showing ? card.word! : '••••••••',
+                textAlign: TextAlign.center,
+                style: const TextStyle(
+                  fontSize: 28,
+                  fontWeight: FontWeight.w900,
+                  color: Colors.white,
+                ),
+              ),
+              const Text(
+                '(Assigned Counter-Word)',
+                style: TextStyle(color: Color(0xFFFCA5A5), fontSize: 11, fontWeight: FontWeight.bold),
+              ),
+            ] else ...[
+              Text(
+                _showing ? 'IMPOSTER' : '••••••••',
+                textAlign: TextAlign.center,
+                style: const TextStyle(
+                  fontSize: 30,
+                  fontWeight: FontWeight.w900,
+                  color: Colors.white,
+                  letterSpacing: 1.2,
+                ),
+              ),
+              const Text(
+                "You don't know the word. Blend in!",
+                textAlign: TextAlign.center,
+                style: TextStyle(color: Color(0xFFDDD6FE), fontSize: 11),
+              ),
+            ],
+            if (card.hint != null) ...[
+              Container(
+                margin: const EdgeInsets.only(top: 4),
+                padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                decoration: BoxDecoration(
+                  color: Colors.black.withValues(alpha: 0.35),
+                  borderRadius: BorderRadius.circular(10),
+                ),
+                child: Text(
+                  'Hint: "${card.hint}"',
+                  style: const TextStyle(color: Color(0xFF6EE7B7), fontSize: 11, fontStyle: FontStyle.italic),
+                ),
+              ),
+            ],
+            if (card.partners.isNotEmpty) ...[
+              Text(
+                'Partners: ${card.partners.map((i) => r.players[i]).join(', ')}',
+                style: const TextStyle(color: Color(0xFFFCA5A5), fontSize: 11, fontWeight: FontWeight.bold),
+              ),
+            ],
+          ],
+
+          // 4. Subtle Privacy Guidance
+          const Text(
+            'Release finger to conceal word immediately',
+            style: TextStyle(
+              fontSize: 10,
+              fontWeight: FontWeight.w600,
+              color: Color(0xFF8B7AA8),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  /// Simplified Pass-to-Next-Player Footer: Single prominent purple pill button
+  Widget _buildPassFooter(RoundState r) {
+    final isLastPlayer = r.revealIndex + 1 >= r.playerCount;
+    final buttonLabel = isLastPlayer
+        ? 'Start Game (${r.playerCount} / ${r.playerCount})'
+        : 'Next Player (${r.revealIndex + 1} / ${r.playerCount})';
+    final isEnabled = _seen && !_showing;
+
+    return Padding(
+      padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 14),
+      child: _ShowcaseNextButton(
+        enabled: isEnabled,
+        label: buttonLabel,
+        onPressed: isEnabled ? _next : null,
+      ),
+    );
+  }
+}
+
+/// Prominent purple button matching the UI showcase reference with tactile press & corner sparkle
+class _ShowcaseNextButton extends StatefulWidget {
+  const _ShowcaseNextButton({
+    required this.enabled,
+    required this.label,
+    required this.onPressed,
+  });
+
+  final bool enabled;
+  final String label;
+  final VoidCallback? onPressed;
+
+  @override
+  State<_ShowcaseNextButton> createState() => _ShowcaseNextButtonState();
+}
+
+class _ShowcaseNextButtonState extends State<_ShowcaseNextButton> with SingleTickerProviderStateMixin {
+  late final AnimationController _pressCtrl;
+  late final Animation<double> _scale;
+
+  @override
+  void initState() {
+    super.initState();
+    _pressCtrl = AnimationController(vsync: this, duration: const Duration(milliseconds: 90));
+    _scale = Tween<double>(begin: 1.0, end: 0.96).animate(
+      CurvedAnimation(parent: _pressCtrl, curve: Curves.easeInOut),
+    );
+  }
+
+  @override
+  void dispose() {
+    _pressCtrl.dispose();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return AnimatedOpacity(
+      duration: const Duration(milliseconds: 200),
+      opacity: widget.enabled ? 1.0 : 0.45,
+      child: GestureDetector(
+        onTapDown: widget.enabled ? (_) => _pressCtrl.forward() : null,
+        onTapUp: widget.enabled
+            ? (_) {
+                _pressCtrl.reverse();
+                widget.onPressed?.call();
+              }
+            : null,
+        onTapCancel: widget.enabled ? () => _pressCtrl.reverse() : null,
+        child: AnimatedBuilder(
+          animation: _scale,
+          builder: (context, child) => Transform.scale(
+            scale: _scale.value,
+            child: child,
+          ),
+          child: Stack(
+            clipBehavior: Clip.none,
+            alignment: Alignment.center,
+            children: [
+              Container(
+                height: 56,
+                width: double.infinity,
+                decoration: BoxDecoration(
+                  borderRadius: BorderRadius.circular(100),
+                  gradient: const LinearGradient(
+                    colors: [
+                      Color(0xFF8B5CF6),
+                      Color(0xFF7C3AED),
                     ],
-                    if (card.hint != null) ...[
-                      const Text('TIER 1 HINT CLUE:', style: TextStyle(color: Color(0xFF34D399), fontSize: 9, fontWeight: FontWeight.bold)),
-                      const SizedBox(height: 2),
-                      Text('"${card.hint}"', style: const TextStyle(color: Colors.white, fontSize: 12, fontStyle: FontStyle.italic)),
-                    ],
-                    if (card.partners.isNotEmpty) ...[
-                      const SizedBox(height: 4),
-                      Text(
-                        'Partners: ${card.partners.map((i) => r.players[i]).join(', ')}',
-                        style: const TextStyle(color: HushbugColors.imposterRed, fontSize: 11, fontWeight: FontWeight.bold),
-                      ),
-                    ],
+                  ),
+                  border: Border.all(
+                    color: const Color(0xFFA78BFA).withValues(alpha: 0.6),
+                    width: 1.6,
+                  ),
+                  boxShadow: [
+                    BoxShadow(
+                      color: const Color(0xFF7C3AED).withValues(alpha: widget.enabled ? 0.45 : 0.15),
+                      blurRadius: 22,
+                      offset: const Offset(0, 4),
+                    ),
                   ],
-                )
-              : Column(
+                ),
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    const Text('SECRET WORD', style: TextStyle(color: HushbugColors.textSubtext, fontSize: 10, fontWeight: FontWeight.bold, letterSpacing: 0.8)),
-                    const SizedBox(height: 4),
+                    const Icon(
+                      Icons.play_arrow_rounded,
+                      color: Colors.white,
+                      size: 28,
+                    ),
+                    const SizedBox(width: 8),
                     Text(
-                      card.word ?? r.word,
-                      textAlign: TextAlign.center,
+                      widget.label,
                       style: const TextStyle(
-                        color: HushbugColors.accentYellow,
-                        fontSize: 28,
-                        fontWeight: FontWeight.w900,
-                        letterSpacing: 0.8,
+                        color: Colors.white,
+                        fontSize: 17,
+                        fontWeight: FontWeight.w800,
+                        letterSpacing: 0.3,
                       ),
                     ),
                   ],
                 ),
-        ),
+              ),
 
-        // Privacy note
-        const Row(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Icon(Icons.lock_clock_rounded, size: 12, color: HushbugColors.textMuted),
-            SizedBox(width: 4),
-            Text(
-              'RELEASE HOLD TO RE-MASK IMMEDIATELY',
-              style: TextStyle(color: HushbugColors.textMuted, fontSize: 9, fontWeight: FontWeight.w700, letterSpacing: 0.5),
-            ),
-          ],
+              // Corner celebratory sparkle burst (as shown in reference image)
+              if (widget.enabled)
+                Positioned(
+                  top: -6,
+                  right: 12,
+                  child: CustomPaint(
+                    size: const Size(20, 16),
+                    painter: _ButtonSparklePainter(),
+                  ),
+                ),
+            ],
+          ),
         ),
-
-        // Spacing for mascot at bottom
-        const SizedBox(height: 20),
-      ],
+      ),
     );
   }
+}
+
+/// Little golden sparkle rays on the corner of the Next button
+class _ButtonSparklePainter extends CustomPainter {
+  @override
+  void paint(Canvas canvas, Size size) {
+    final p = Paint()
+      ..color = const Color(0xFFFFD166)
+      ..style = PaintingStyle.stroke
+      ..strokeWidth = 2.2
+      ..strokeCap = StrokeCap.round;
+
+    canvas.drawLine(const Offset(6, 12), const Offset(2, 4), p);
+    canvas.drawLine(const Offset(11, 13), const Offset(11, 2), p);
+    canvas.drawLine(const Offset(16, 12), const Offset(20, 4), p);
+  }
+
+  @override
+  bool shouldRepaint(covariant CustomPainter oldDelegate) => false;
+}
+
+/// Stylish Secret Agent Fedora + Sunglasses Icon
+class _SecretAgentIcon extends StatelessWidget {
+  const _SecretAgentIcon({this.size = 64});
+  final double size;
+
+  @override
+  Widget build(BuildContext context) {
+    return SizedBox(
+      width: size,
+      height: size,
+      child: CustomPaint(
+        painter: _SecretAgentIconPainter(),
+      ),
+    );
+  }
+}
+
+class _SecretAgentIconPainter extends CustomPainter {
+  @override
+  void paint(Canvas canvas, Size size) {
+    final s = size.width / 64;
+    canvas.save();
+    canvas.scale(s);
+
+    final line = Paint()
+      ..color = const Color(0xFFDDD6FE)
+      ..style = PaintingStyle.stroke
+      ..strokeWidth = 2.4
+      ..strokeCap = StrokeCap.round
+      ..strokeJoin = StrokeJoin.round;
+
+    final fill = Paint()
+      ..color = const Color(0xFFDDD6FE).withValues(alpha: 0.15)
+      ..style = PaintingStyle.fill;
+
+    // 1. Fedora Crown (with center dent)
+    final crown = Path()
+      ..moveTo(20, 28)
+      ..cubicTo(20, 16, 26, 12, 32, 14)
+      ..cubicTo(38, 12, 44, 16, 44, 28)
+      ..close();
+    canvas.drawPath(crown, fill);
+    canvas.drawPath(crown, line);
+
+    // Fedora brim
+    final brim = Path()
+      ..moveTo(10, 30)
+      ..cubicTo(20, 26, 44, 26, 54, 30)
+      ..cubicTo(44, 33, 20, 33, 10, 30)
+      ..close();
+    canvas.drawPath(brim, fill);
+    canvas.drawPath(brim, line);
+
+    // Ribbon band
+    final band = Path()
+      ..moveTo(20, 27)
+      ..cubicTo(26, 25, 38, 25, 44, 27);
+    canvas.drawPath(band, Paint()..color = const Color(0xFFA78BFA)..style = PaintingStyle.stroke..strokeWidth = 2.6);
+
+    // 2. Sunglasses below brim
+    final shades = Paint()..color = const Color(0xFF160D2E);
+    // Left lens
+    final lensL = RRect.fromRectAndRadius(const Rect.fromLTWH(19, 36, 11, 9), const Radius.circular(4));
+    canvas.drawRRect(lensL, shades);
+    canvas.drawRRect(lensL, line..strokeWidth = 2.0);
+    // Right lens
+    final lensR = RRect.fromRectAndRadius(const Rect.fromLTWH(34, 36, 11, 9), const Radius.circular(4));
+    canvas.drawRRect(lensR, shades);
+    canvas.drawRRect(lensR, line..strokeWidth = 2.0);
+
+    // Bridge between lenses
+    canvas.drawLine(const Offset(30, 39), const Offset(34, 39), line..strokeWidth = 2.2);
+
+    // Reflection glints across lenses
+    final glint = Paint()
+      ..color = Colors.white.withValues(alpha: 0.7)
+      ..style = PaintingStyle.stroke
+      ..strokeWidth = 1.4
+      ..strokeCap = StrokeCap.round;
+    canvas.drawLine(const Offset(22, 38), const Offset(26, 42), glint);
+    canvas.drawLine(const Offset(37, 38), const Offset(41, 42), glint);
+
+    canvas.restore();
+  }
+
+  @override
+  bool shouldRepaint(covariant CustomPainter oldDelegate) => false;
+}
+
+/// Cosmic Planet (Saturn with glowing rings and stars)
+class _CosmicPlanetIcon extends StatelessWidget {
+  const _CosmicPlanetIcon({this.size = 64});
+  final double size;
+
+  @override
+  Widget build(BuildContext context) {
+    return SizedBox(
+      width: size,
+      height: size,
+      child: CustomPaint(
+        painter: _CosmicPlanetPainter(),
+      ),
+    );
+  }
+}
+
+class _CosmicPlanetPainter extends CustomPainter {
+  @override
+  void paint(Canvas canvas, Size size) {
+    final s = size.width / 64;
+    canvas.save();
+    canvas.scale(s);
+
+    const center = Offset(32, 32);
+
+    // 1. Background half of the ring (behind the planet)
+    canvas.save();
+    canvas.translate(center.dx, center.dy);
+    canvas.rotate(-0.38); // Angle ring
+    canvas.translate(-center.dx, -center.dy);
+
+    final ringRect = Rect.fromCenter(center: center, width: 50, height: 18);
+    final ringPaint = Paint()
+      ..color = const Color(0xFFE9D5FF)
+      ..style = PaintingStyle.stroke
+      ..strokeWidth = 3.2;
+
+    // Draw top half of ring
+    canvas.drawArc(ringRect, math.pi, math.pi, false, ringPaint);
+    canvas.restore();
+
+    // 2. Planet Sphere with gradient
+    final sphereRect = Rect.fromCircle(center: center, radius: 17);
+    final spherePaint = Paint()
+      ..shader = const LinearGradient(
+        begin: Alignment.topLeft,
+        end: Alignment.bottomRight,
+        colors: [
+          Color(0xFFC084FC),
+          Color(0xFF8B5CF6),
+          Color(0xFF581C87),
+        ],
+      ).createShader(sphereRect);
+    canvas.drawCircle(center, 17, spherePaint);
+
+    // Atmosphere highlight arc
+    final atmo = Paint()
+      ..color = Colors.white.withValues(alpha: 0.3)
+      ..style = PaintingStyle.stroke
+      ..strokeWidth = 1.8;
+    canvas.drawArc(Rect.fromCircle(center: center, radius: 15.5), -math.pi * 0.8, math.pi * 0.6, false, atmo);
+
+    // 3. Foreground half of the ring (in front of the planet)
+    canvas.save();
+    canvas.translate(center.dx, center.dy);
+    canvas.rotate(-0.38);
+    canvas.translate(-center.dx, -center.dy);
+
+    // Draw bottom half of ring
+    canvas.drawArc(ringRect, 0, math.pi, false, ringPaint);
+    canvas.restore();
+
+    // 4. Little 4-point Diamond Twinkle Stars
+    void drawTwinkle(Offset pt, double r) {
+      final star = Path()
+        ..moveTo(pt.dx, pt.dy - r)
+        ..quadraticBezierTo(pt.dx, pt.dy, pt.dx + r, pt.dy)
+        ..quadraticBezierTo(pt.dx, pt.dy, pt.dx, pt.dy + r)
+        ..quadraticBezierTo(pt.dx, pt.dy, pt.dx - r, pt.dy)
+        ..quadraticBezierTo(pt.dx, pt.dy, pt.dx, pt.dy - r)
+        ..close();
+      canvas.drawPath(star, Paint()..color = const Color(0xFFFDE047));
+    }
+
+    drawTwinkle(const Offset(12, 16), 3.2);
+    drawTwinkle(const Offset(52, 46), 2.6);
+    drawTwinkle(const Offset(54, 18), 1.8);
+
+    canvas.restore();
+  }
+
+  @override
+  bool shouldRepaint(covariant CustomPainter oldDelegate) => false;
 }
 
 // ======================================================================
