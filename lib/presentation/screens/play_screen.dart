@@ -122,41 +122,84 @@ class RevealView extends ConsumerStatefulWidget {
 }
 
 class _RevealViewState extends ConsumerState<RevealView> with SingleTickerProviderStateMixin {
+  /// Whether the secret dossier is currently revealed
   bool _showing = false;
-  late final AnimationController _cardFlipCtrl;
-  late final Animation<double> _cardFlipAnim;
+
+  /// Global touch tracking: pointer ID that initiated the hold
+  int? _activePointerId;
+
+  /// Animation controller for Hushbug opening/closing eyes and secret card reveal
+  late final AnimationController _revealAnimCtrl;
+  late final Animation<double> _eyeOpenAnim;
+  late final Animation<double> _cardRevealAnim;
 
   bool get _seen => widget.round.revealSeen;
-  bool get _hold => widget.round.config.revealStyle == RevealStyle.hold;
 
   @override
   void initState() {
     super.initState();
-    _cardFlipCtrl = AnimationController(vsync: this, duration: const Duration(milliseconds: 400));
-    _cardFlipAnim = Tween<double>(begin: 0, end: 1).animate(
-      CurvedAnimation(parent: _cardFlipCtrl, curve: Curves.easeInOut),
+    // Eye opening: 300ms, closing: 180ms
+    _revealAnimCtrl = AnimationController(
+      vsync: this,
+      duration: const Duration(milliseconds: 300),
+      reverseDuration: const Duration(milliseconds: 180),
+    );
+
+    _eyeOpenAnim = CurvedAnimation(
+      parent: _revealAnimCtrl,
+      curve: Curves.easeOutCubic,
+      reverseCurve: Curves.easeInQuad,
+    );
+
+    _cardRevealAnim = CurvedAnimation(
+      parent: _revealAnimCtrl,
+      curve: Curves.easeOutCubic,
+      reverseCurve: Curves.easeInQuad,
     );
   }
 
   @override
   void dispose() {
-    _cardFlipCtrl.dispose();
+    _revealAnimCtrl.dispose();
     super.dispose();
   }
 
-  void _show() {
-    if (_seen || _showing) return;
+  void _onPointerDown(PointerDownEvent event) {
+    if (_seen) return;
+    // Only accept touch if no active pointer is already holding
+    if (_activePointerId == null) {
+      _activePointerId = event.pointer;
+      _startReveal();
+    }
+  }
+
+  void _onGlobalPointerUp(PointerUpEvent event) {
+    if (_activePointerId == event.pointer) {
+      _activePointerId = null;
+      _endReveal();
+    }
+  }
+
+  void _onGlobalPointerCancel(PointerCancelEvent event) {
+    if (_activePointerId == event.pointer) {
+      _activePointerId = null;
+      _endReveal();
+    }
+  }
+
+  void _startReveal() {
+    if (_showing) return;
     setState(() => _showing = true);
-    _cardFlipCtrl.forward();
+    _revealAnimCtrl.forward();
     final s = ref.read(settingsProvider);
     ref.read(soundProvider).play('reveal', enabled: s.sound);
     Haptics.tick(enabled: s.haptics);
   }
 
-  void _hide() {
+  void _endReveal() {
     if (!_showing) return;
     setState(() => _showing = false);
-    _cardFlipCtrl.reverse();
+    _revealAnimCtrl.reverse();
     ref.read(gameProvider.notifier).markRevealed();
     Haptics.tick(enabled: ref.read(settingsProvider).haptics);
   }
@@ -171,472 +214,541 @@ class _RevealViewState extends ConsumerState<RevealView> with SingleTickerProvid
     final player = r.players[r.revealIndex];
     final card = ref.read(gameProvider.notifier).engine.cardFor(r, r.revealIndex);
 
-    return Column(
-      children: [
-        // Top Pass Prompt Banner
-        Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 8),
-          child: Container(
-            padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
-            decoration: BoxDecoration(
-              color: HushbugColors.cardSurface.withValues(alpha: 0.9),
-              borderRadius: BorderRadius.circular(20),
-              border: Border.all(color: HushbugColors.neonPurple.withValues(alpha: 0.4), width: 1.2),
-              boxShadow: [
-                BoxShadow(color: HushbugColors.neonPurple.withValues(alpha: 0.2), blurRadius: 16),
-              ],
-            ),
-            child: Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-              children: [
-                Row(
-                  children: [
-                    Stack(
-                      children: [
-                        Container(
-                          padding: const EdgeInsets.all(2),
-                          decoration: const BoxDecoration(
-                            shape: BoxShape.circle,
-                            gradient: LinearGradient(colors: [HushbugColors.accentYellow, HushbugColors.neonPurpleLight]),
-                          ),
-                          child: PlayerAvatar(index: r.revealIndex, name: player, radius: 18),
-                        ),
-                        Positioned(
-                          bottom: 0,
-                          right: 0,
-                          child: Container(
-                            width: 10,
-                            height: 10,
+    // Global Listener wraps the full screen to track pointer lift anywhere
+    return Listener(
+      behavior: HitTestBehavior.translucent,
+      onPointerUp: _onGlobalPointerUp,
+      onPointerCancel: _onGlobalPointerCancel,
+      child: Column(
+        children: [
+          // Top Pass Prompt Banner
+          Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 8),
+            child: Container(
+              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
+              decoration: BoxDecoration(
+                color: HushbugColors.cardSurface.withValues(alpha: 0.9),
+                borderRadius: BorderRadius.circular(20),
+                border: Border.all(color: HushbugColors.neonPurple.withValues(alpha: 0.4), width: 1.2),
+                boxShadow: [
+                  BoxShadow(color: HushbugColors.neonPurple.withValues(alpha: 0.2), blurRadius: 16),
+                ],
+              ),
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                children: [
+                  Row(
+                    children: [
+                      Stack(
+                        children: [
+                          Container(
+                            padding: const EdgeInsets.all(2),
                             decoration: const BoxDecoration(
                               shape: BoxShape.circle,
-                              color: HushbugColors.civilianEmerald,
+                              gradient: LinearGradient(colors: [HushbugColors.accentYellow, HushbugColors.neonPurpleLight]),
+                            ),
+                            child: PlayerAvatar(index: r.revealIndex, name: player, radius: 18),
+                          ),
+                          Positioned(
+                            bottom: 0,
+                            right: 0,
+                            child: Container(
+                              width: 10,
+                              height: 10,
+                              decoration: const BoxDecoration(
+                                shape: BoxShape.circle,
+                                color: HushbugColors.civilianEmerald,
+                              ),
                             ),
                           ),
-                        ),
-                      ],
-                    ),
-                    const SizedBox(width: 12),
-                    Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        const Text(
-                          'PASS DEVICE TO',
-                          style: TextStyle(
-                            fontSize: 10,
-                            fontWeight: FontWeight.w700,
-                            color: HushbugColors.textSubtext,
-                            letterSpacing: 1.1,
-                          ),
-                        ),
-                        Row(
-                          children: [
-                            Text(
-                              player,
-                              style: const TextStyle(fontSize: 16, fontWeight: FontWeight.w800, color: Colors.white),
+                        ],
+                      ),
+                      const SizedBox(width: 12),
+                      Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          const Text(
+                            'PASS DEVICE TO',
+                            style: TextStyle(
+                              fontSize: 10,
+                              fontWeight: FontWeight.w700,
+                              color: HushbugColors.textSubtext,
+                              letterSpacing: 1.1,
                             ),
-                            const SizedBox(width: 6),
+                          ),
+                          Row(
+                            children: [
+                              Text(
+                                player,
+                                style: const TextStyle(fontSize: 16, fontWeight: FontWeight.w800, color: Colors.white),
+                              ),
+                              const SizedBox(width: 6),
+                              Container(
+                                padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
+                                decoration: BoxDecoration(
+                                  color: HushbugColors.neonPurple.withValues(alpha: 0.25),
+                                  borderRadius: BorderRadius.circular(100),
+                                  border: Border.all(color: HushbugColors.neonPurpleLight.withValues(alpha: 0.3)),
+                                ),
+                                child: Text(
+                                  'Turn #${r.revealIndex + 1}',
+                                  style: const TextStyle(color: HushbugColors.neonPurpleLight, fontSize: 10, fontWeight: FontWeight.bold),
+                                ),
+                              ),
+                            ],
+                          ),
+                        ],
+                      ),
+                    ],
+                  ),
+                  // Turn Dots
+                  Column(
+                    crossAxisAlignment: CrossAxisAlignment.end,
+                    children: [
+                      Text(
+                        'Player ${r.revealIndex + 1} of ${r.playerCount}',
+                        style: const TextStyle(fontSize: 11, fontWeight: FontWeight.w600, color: HushbugColors.textSubtext),
+                      ),
+                      const SizedBox(height: 4),
+                      Row(
+                        children: [
+                          for (var i = 0; i < r.playerCount; i++)
                             Container(
-                              padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
+                              margin: const EdgeInsets.only(left: 3),
+                              width: i == r.revealIndex ? 16 : 6,
+                              height: 6,
                               decoration: BoxDecoration(
-                                color: HushbugColors.neonPurple.withValues(alpha: 0.25),
-                                borderRadius: BorderRadius.circular(100),
-                                border: Border.all(color: HushbugColors.neonPurpleLight.withValues(alpha: 0.3)),
-                              ),
-                              child: Text(
-                                'Turn #${r.revealIndex + 1}',
-                                style: const TextStyle(color: HushbugColors.neonPurpleLight, fontSize: 10, fontWeight: FontWeight.bold),
+                                borderRadius: BorderRadius.circular(3),
+                                color: i < r.revealIndex
+                                    ? HushbugColors.civilianEmerald
+                                    : i == r.revealIndex
+                                        ? HushbugColors.accentYellow
+                                        : const Color(0xFF332C47),
                               ),
                             ),
-                          ],
-                        ),
-                      ],
-                    ),
-                  ],
-                ),
-                // Turn Dots
-                Column(
-                  crossAxisAlignment: CrossAxisAlignment.end,
-                  children: [
-                    Text(
-                      'Player ${r.revealIndex + 1} of ${r.playerCount}',
-                      style: const TextStyle(fontSize: 11, fontWeight: FontWeight.w600, color: HushbugColors.textSubtext),
-                    ),
-                    const SizedBox(height: 4),
-                    Row(
-                      children: [
-                        for (var i = 0; i < r.playerCount; i++)
-                          Container(
-                            margin: const EdgeInsets.only(left: 3),
-                            width: i == r.revealIndex ? 16 : 6,
-                            height: 6,
-                            decoration: BoxDecoration(
-                              borderRadius: BorderRadius.circular(3),
-                              color: i < r.revealIndex
-                                  ? HushbugColors.civilianEmerald
-                                  : i == r.revealIndex
-                                      ? HushbugColors.accentYellow
-                                      : const Color(0xFF332C47),
-                            ),
-                          ),
-                      ],
-                    ),
-                  ],
+                        ],
+                      ),
+                    ],
+                  ),
+                ],
+              ),
+            ),
+          ),
+
+          // Strictly Confidential Badge
+          Container(
+            margin: const EdgeInsets.only(top: 2, bottom: 6),
+            padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 4),
+            decoration: BoxDecoration(
+              color: HushbugColors.cardSurface,
+              borderRadius: BorderRadius.circular(100),
+              border: Border.all(color: HushbugColors.cardBorder, width: 1),
+            ),
+            child: const Row(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                CircleAvatar(radius: 3, backgroundColor: HushbugColors.accentYellow),
+                SizedBox(width: 8),
+                Text(
+                  'STRICTLY CONFIDENTIAL',
+                  style: TextStyle(color: HushbugColors.textSecondary, fontSize: 10, fontWeight: FontWeight.w800, letterSpacing: 0.8),
                 ),
               ],
             ),
           ),
-        ),
 
-        // Confidential pill
-        Container(
-          margin: const EdgeInsets.only(top: 4, bottom: 8),
-          padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 5),
-          decoration: BoxDecoration(
-            color: HushbugColors.cardSurface,
-            borderRadius: BorderRadius.circular(100),
-            border: Border.all(color: HushbugColors.cardBorder, width: 1),
-          ),
-          child: const Row(
-            mainAxisSize: MainAxisSize.min,
-            children: [
-              CircleAvatar(radius: 3, backgroundColor: HushbugColors.accentYellow),
-              SizedBox(width: 8),
-              Text(
-                'Strictly Confidential Dossier',
-                style: TextStyle(color: HushbugColors.textSecondary, fontSize: 11, fontWeight: FontWeight.w700),
-              ),
-            ],
-          ),
-        ),
-
-        // 3D Flip Interactive Reveal Card
-        Expanded(
-          child: Center(
-            child: GestureDetector(
-              onTapDown: (_) => _show(),
-              onTapUp: (_) => _hold ? _hide() : null,
-              onTapCancel: () => _hold ? _hide() : null,
-              onTap: () {
-                if (!_hold) {
-                  _showing ? _hide() : _show();
-                }
-              },
+          // Central Secret Card Stage with Mascot Peeking Integration
+          Expanded(
+            child: Center(
               child: AnimatedBuilder(
-                animation: _cardFlipAnim,
+                animation: _revealAnimCtrl,
                 builder: (context, _) {
-                  final angle = _cardFlipAnim.value * math.pi;
-                  final isBack = angle >= (math.pi / 2);
-
-                  return Transform(
-                    alignment: Alignment.center,
-                    transform: Matrix4.identity()
-                      ..setEntry(3, 2, 0.001)
-                      ..rotateY(angle),
-                    child: isBack
-                        ? Transform(
-                            alignment: Alignment.center,
-                            transform: Matrix4.identity()..rotateY(math.pi),
-                            child: _buildCardBack(card, r),
-                          )
-                        : _buildCardFront(),
-                  );
+                  return _buildInteractiveCard(card, r);
                 },
               ),
             ),
           ),
-        ),
 
-        // Peeking Mascot Area with reaction
-        Padding(
-          padding: const EdgeInsets.only(top: 8, bottom: 4),
-          child: Column(
-            children: [
-              Mascot(
-                size: 78,
-                mood: _showing ? MascotMood.suspicious : MascotMood.shush,
+          // Status & Helper Instruction below card
+          Padding(
+            padding: const EdgeInsets.only(top: 6, bottom: 4),
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                Container(
+                  width: 6,
+                  height: 6,
+                  decoration: BoxDecoration(
+                    shape: BoxShape.circle,
+                    color: _showing ? HushbugColors.imposterRed : HushbugColors.neonPurpleLight,
+                  ),
+                ),
+                const SizedBox(width: 6),
+                Text(
+                  _showing
+                      ? 'Peeking at your secret role! [Release to re-mask]'
+                      : (_seen
+                          ? 'Dossier checked! Pass device to next player.'
+                          : 'Hold Space or Touch sensor to reveal'),
+                  style: TextStyle(
+                    color: _showing ? HushbugColors.imposterRed : HushbugColors.textSecondary,
+                    fontSize: 12,
+                    fontWeight: FontWeight.w700,
+                  ),
+                ),
+              ],
+            ),
+          ),
+
+          // Footer Action & Security Compliance Banner
+          Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 6),
+            child: Column(
+              children: [
+                TactileButton(
+                  onPressed: _seen && !_showing ? _next : null,
+                  style: TactileButtonStyle.golden,
+                  height: 50,
+                  icon: const Icon(Icons.lock_rounded, color: HushbugColors.onAccentYellow, size: 20),
+                  child: Text('Ready? Lock & Pass (${r.revealIndex + 1} / ${r.playerCount})'),
+                ),
+                const SizedBox(height: 6),
+                const Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Icon(Icons.shield_rounded, color: Color(0xFF34D399), size: 14),
+                    SizedBox(width: 6),
+                    Text(
+                      'Android FLAG_SECURE Active - Screenshots Blocked',
+                      style: TextStyle(color: Color(0xFF34D399), fontSize: 10, fontWeight: FontWeight.bold),
+                    ),
+                  ],
+                ),
+              ],
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  /// Interactive Card with integrated Peeking Hushbug Mascot at bottom edge
+  Widget _buildInteractiveCard(RoleCard card, RoundState r) {
+    final isImp = card.showsImposter;
+    final progress = _cardRevealAnim.value;
+    final eyeProgress = _eyeOpenAnim.value;
+
+    // Card dimensions
+    const cardWidth = 320.0;
+    const cardHeight = 390.0;
+
+    return SizedBox(
+      width: cardWidth,
+      height: cardHeight + 40, // Extra space at bottom for peeking mascot
+      child: Stack(
+        clipBehavior: Clip.none,
+        alignment: Alignment.topCenter,
+        children: [
+          // 1. The Main Secret Card
+          Container(
+            width: cardWidth,
+            height: cardHeight,
+            padding: const EdgeInsets.symmetric(horizontal: 22, vertical: 20),
+            decoration: BoxDecoration(
+              color: progress > 0.05
+                  ? Color.lerp(const Color(0xFF1E1733), isImp ? const Color(0xFF2B1124) : const Color(0xFF132822), progress)
+                  : const Color(0xFF1E1733),
+              borderRadius: BorderRadius.circular(32),
+              border: Border.all(
+                color: progress > 0.05
+                    ? Color.lerp(
+                        HushbugColors.neonPurpleLight.withValues(alpha: 0.7),
+                        isImp ? HushbugColors.imposterRed : HushbugColors.civilianEmerald,
+                        progress,
+                      )!
+                    : HushbugColors.neonPurpleLight.withValues(alpha: 0.7),
+                width: 2.2,
               ),
-              const SizedBox(height: 4),
-              Row(
-                mainAxisAlignment: MainAxisAlignment.center,
+              boxShadow: [
+                BoxShadow(
+                  color: (progress > 0.05
+                          ? (isImp ? HushbugColors.imposterRed : HushbugColors.civilianEmerald)
+                          : HushbugColors.neonPurple)
+                      .withValues(alpha: 0.4 + (0.2 * progress)),
+                  blurRadius: 28 + (10 * progress),
+                  spreadRadius: 2,
+                ),
+              ],
+            ),
+            child: Stack(
+              children: [
+                // Unrevealed / Encrypted Card Face
+                Opacity(
+                  opacity: (1.0 - (progress * 1.5)).clamp(0.0, 1.0),
+                  child: IgnorePointer(
+                    ignoring: progress > 0.1,
+                    child: _buildEncryptedCardContent(r),
+                  ),
+                ),
+
+                // Revealed Secret Role / Word Face (Only mounted when visible for privacy)
+                if (progress > 0.02)
+                  Opacity(
+                    opacity: progress,
+                    child: _buildRevealedDossierContent(card, r, isImp),
+                  ),
+              ],
+            ),
+          ),
+
+          // 2. Hushbug Mascot Peeking over the bottom edge of the card
+          // Bottom alignment ensures hands rest exactly on the lower edge/surface
+          Positioned(
+            bottom: 6,
+            child: CardPeekingMascot(
+              width: 104,
+              height: 76,
+              eyesOpenProgress: eyeProgress,
+              isDetective: card.showsImposter,
+            ),
+          ),
+
+          // 3. Touch Initiator Listener (Transparent overlay covering the reveal sensor area)
+          // When touch begins here, _activePointerId is recorded.
+          // Once recorded, finger can move anywhere on screen and reveal persists until pointer-up.
+          if (!_seen && !_showing)
+            Positioned(
+              left: 0,
+              right: 0,
+              top: 0,
+              bottom: 40,
+              child: Listener(
+                behavior: HitTestBehavior.opaque,
+                onPointerDown: _onPointerDown,
+                child: const SizedBox.expand(),
+              ),
+            ),
+        ],
+      ),
+    );
+  }
+
+  /// Encrypted Front Card Content
+  Widget _buildEncryptedCardContent(RoundState r) {
+    return Column(
+      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+      children: [
+        // Top Card Header
+        Row(
+          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          children: [
+            Container(
+              padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+              decoration: BoxDecoration(
+                color: const Color(0xFF2E1955),
+                borderRadius: BorderRadius.circular(100),
+                border: Border.all(color: HushbugColors.neonPurpleLight.withValues(alpha: 0.3)),
+              ),
+              child: const Row(
                 children: [
-                  Container(
-                    width: 6,
-                    height: 6,
-                    decoration: BoxDecoration(
-                      shape: BoxShape.circle,
-                      color: _showing ? HushbugColors.imposterRed : HushbugColors.neonPurpleLight,
-                    ),
-                  ),
-                  const SizedBox(width: 6),
-                  Text(
-                    _showing ? 'Peeking at secret dossier!' : (_seen ? 'Card checked! Pass to next player' : 'Press & hold or tap card to peek'),
-                    style: TextStyle(
-                      color: _showing ? HushbugColors.imposterRed : HushbugColors.textSecondary,
-                      fontSize: 12,
-                      fontWeight: FontWeight.w700,
-                    ),
-                  ),
+                  Icon(Icons.lock_rounded, size: 12, color: HushbugColors.accentYellow),
+                  SizedBox(width: 5),
+                  Text('ENCRYPTED', style: TextStyle(color: Colors.white, fontSize: 10, fontWeight: FontWeight.w800)),
                 ],
               ),
-            ],
-          ),
+            ),
+            const Text('HUSH PROTOCOL', style: TextStyle(color: HushbugColors.textSubtext, fontSize: 10, fontWeight: FontWeight.bold, letterSpacing: 0.5)),
+          ],
         ),
 
-        // Footer Actions & Security Compliance Banner
-        Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 8),
-          child: Column(
-            children: [
-              TactileButton(
-                onPressed: _seen && !_showing ? _next : null,
-                style: TactileButtonStyle.golden,
-                height: 52,
-                icon: const Icon(Icons.lock_rounded, color: HushbugColors.onAccentYellow, size: 20),
-                child: Text('Ready? Lock & Pass (${r.revealIndex + 1} / ${r.playerCount})'),
+        // Central Icon & Instruction
+        Column(
+          children: [
+            Container(
+              width: 72,
+              height: 72,
+              decoration: BoxDecoration(
+                shape: BoxShape.circle,
+                color: HushbugColors.neonPurple.withValues(alpha: 0.25),
+                border: Border.all(color: HushbugColors.neonPurpleLight.withValues(alpha: 0.6), width: 1.5),
               ),
-              const SizedBox(height: 8),
-              const Row(
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: [
-                  Icon(Icons.shield_rounded, color: Color(0xFF34D399), size: 14),
-                  SizedBox(width: 6),
-                  Text(
-                    'Android FLAG_SECURE Active - Screenshots Blocked',
-                    style: TextStyle(color: Color(0xFF34D399), fontSize: 10, fontWeight: FontWeight.bold),
-                  ),
-                ],
+              child: const Center(
+                child: Icon(Icons.masks_rounded, size: 40, color: HushbugColors.neonPurpleLight),
               ),
-            ],
-          ),
+            ),
+            const SizedBox(height: 12),
+            const Text(
+              'Hold to Reveal',
+              style: TextStyle(fontSize: 22, fontWeight: FontWeight.w900, color: Colors.white),
+            ),
+            const SizedBox(height: 4),
+            const Text(
+              'Your Secret Word',
+              style: TextStyle(fontSize: 13, color: HushbugColors.textSubtext, fontWeight: FontWeight.w600),
+            ),
+          ],
         ),
+
+        // Biometric Touch & Press Sensor
+        const Column(
+          children: [
+            BiometricSensor(size: 54),
+            SizedBox(height: 4),
+            Text(
+              'Touch & Press Sensor',
+              style: TextStyle(color: HushbugColors.textMuted, fontSize: 10, fontWeight: FontWeight.w700),
+            ),
+          ],
+        ),
+
+        // Spacing for mascot resting at bottom
+        const SizedBox(height: 20),
       ],
     );
   }
 
-  Widget _buildCardFront() {
-    return Container(
-      width: 320,
-      height: 380,
-      padding: const EdgeInsets.all(22),
-      decoration: BoxDecoration(
-        color: const Color(0xFF1E1733),
-        borderRadius: BorderRadius.circular(32),
-        border: Border.all(color: HushbugColors.neonPurpleLight.withValues(alpha: 0.7), width: 2),
-        boxShadow: [
-          BoxShadow(
-            color: HushbugColors.neonPurple.withValues(alpha: 0.45),
-            blurRadius: 28,
-            spreadRadius: 2,
-          ),
-        ],
-      ),
-      child: Column(
-        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-        children: [
-          Row(
-            mainAxisAlignment: MainAxisAlignment.spaceBetween,
-            children: [
-              Container(
-                padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
-                decoration: BoxDecoration(
-                  color: const Color(0xFF2E1955),
-                  borderRadius: BorderRadius.circular(100),
-                  border: Border.all(color: HushbugColors.neonPurpleLight.withValues(alpha: 0.3)),
-                ),
-                child: const Row(
-                  children: [
-                    Icon(Icons.lock_rounded, size: 12, color: HushbugColors.accentYellow),
-                    SizedBox(width: 4),
-                    Text('ENCRYPTED', style: TextStyle(color: Colors.white, fontSize: 10, fontWeight: FontWeight.bold)),
-                  ],
-                ),
+  /// Revealed Secret Role / Word Dossier Content
+  Widget _buildRevealedDossierContent(RoleCard card, RoundState r, bool isImp) {
+    return Column(
+      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+      children: [
+        // Dossier Header
+        Row(
+          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          children: [
+            Container(
+              padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+              decoration: BoxDecoration(
+                color: isImp ? const Color(0x33EF4444) : const Color(0x3310B981),
+                borderRadius: BorderRadius.circular(100),
+                border: Border.all(color: isImp ? HushbugColors.imposterRed : HushbugColors.civilianEmerald),
               ),
-              const Text('Hush Protocol v2.4', style: TextStyle(color: HushbugColors.textSubtext, fontSize: 10)),
-            ],
-          ),
-          // Fedora detective icon
-          Column(
-            children: [
-              Container(
-                width: 76,
-                height: 76,
-                decoration: BoxDecoration(
-                  shape: BoxShape.circle,
-                  color: HushbugColors.neonPurple.withValues(alpha: 0.2),
-                  border: Border.all(color: HushbugColors.neonPurpleLight.withValues(alpha: 0.5)),
-                ),
-                child: const Center(
-                  child: Icon(Icons.masks_rounded, size: 44, color: HushbugColors.neonPurpleLight),
-                ),
-              ),
-              const SizedBox(height: 12),
-              const Text(
-                'Hold or Tap to Reveal',
-                style: TextStyle(fontSize: 22, fontWeight: FontWeight.w900, color: Colors.white),
-              ),
-              const SizedBox(height: 4),
-              const Text(
-                'Unlock your secret role card',
-                style: TextStyle(fontSize: 12, color: HushbugColors.textSubtext, fontWeight: FontWeight.w500),
-              ),
-            ],
-          ),
-          // Biometric sensor
-          const BiometricSensor(size: 60),
-        ],
-      ),
-    );
-  }
-
-  Widget _buildCardBack(RoleCard card, RoundState r) {
-    final isImp = card.showsImposter;
-
-    return Container(
-      width: 320,
-      height: 380,
-      padding: const EdgeInsets.all(22),
-      decoration: BoxDecoration(
-        color: isImp ? const Color(0xFF281123) : const Color(0xFF132520),
-        borderRadius: BorderRadius.circular(32),
-        border: Border.all(
-          color: isImp ? HushbugColors.imposterRed : HushbugColors.civilianEmerald,
-          width: 2.2,
-        ),
-        boxShadow: [
-          BoxShadow(
-            color: (isImp ? HushbugColors.imposterRed : HushbugColors.civilianEmerald).withValues(alpha: 0.5),
-            blurRadius: 30,
-            spreadRadius: 2,
-          ),
-        ],
-      ),
-      child: Column(
-        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-        children: [
-          Row(
-            mainAxisAlignment: MainAxisAlignment.spaceBetween,
-            children: [
-              Container(
-                padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
-                decoration: BoxDecoration(
-                  color: isImp ? const Color(0x33EF4444) : const Color(0x3310B981),
-                  borderRadius: BorderRadius.circular(100),
-                  border: Border.all(color: isImp ? HushbugColors.imposterRed : HushbugColors.civilianEmerald),
-                ),
-                child: Text(
-                  isImp ? 'TOP SECRET DOSSIER' : 'CONFIDENTIAL DOSSIER',
-                  style: TextStyle(
-                    color: isImp ? HushbugColors.imposterRed : const Color(0xFF34D399),
-                    fontSize: 10,
-                    fontWeight: FontWeight.w900,
-                  ),
-                ),
-              ),
-              Container(
-                padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
-                decoration: BoxDecoration(
-                  color: Colors.amber.withValues(alpha: 0.2),
-                  borderRadius: BorderRadius.circular(8),
-                ),
-                child: Text(
-                  r.category.toUpperCase(),
-                  style: const TextStyle(color: HushbugColors.accentYellow, fontSize: 10, fontWeight: FontWeight.bold),
-                ),
-              ),
-            ],
-          ),
-
-          // Role assignment
-          Column(
-            children: [
-              Text(
-                'YOUR ASSIGNED IDENTITY',
+              child: Text(
+                isImp ? 'TOP SECRET DISCLOSURE' : 'CONFIDENTIAL DOSSIER',
                 style: TextStyle(
-                  color: isImp ? const Color(0xFFFCA5A5) : const Color(0xFFA7F3D0),
+                  color: isImp ? HushbugColors.imposterRed : const Color(0xFF34D399),
                   fontSize: 10,
-                  fontWeight: FontWeight.w800,
-                  letterSpacing: 1.1,
+                  fontWeight: FontWeight.w900,
+                  letterSpacing: 0.5,
                 ),
               ),
-              const SizedBox(height: 8),
-              Container(
-                padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 8),
-                decoration: BoxDecoration(
-                  color: isImp ? HushbugColors.imposterRed.withValues(alpha: 0.2) : HushbugColors.civilianEmerald.withValues(alpha: 0.2),
-                  borderRadius: BorderRadius.circular(16),
-                  border: Border.all(
-                    color: isImp ? HushbugColors.imposterRed : HushbugColors.civilianEmerald,
-                    width: 2,
-                  ),
-                ),
-                child: Text(
-                  isImp ? 'ROLE: THE IMPOSTER' : 'ROLE: CIVILIAN',
-                  style: TextStyle(
-                    fontSize: 20,
-                    fontWeight: FontWeight.w900,
-                    color: isImp ? HushbugColors.imposterRed : const Color(0xFF34D399),
-                    letterSpacing: 0.5,
-                  ),
-                ),
-              ),
-              const SizedBox(height: 8),
-              Text(
-                isImp ? 'Blend in! Do not let them suspect you.' : 'Remember your secret word.',
-                style: const TextStyle(color: HushbugColors.textSubtext, fontSize: 12),
-              ),
-            ],
-          ),
-
-          // Clue / Word panel
-          Container(
-            width: double.infinity,
-            padding: const EdgeInsets.all(14),
-            decoration: BoxDecoration(
-              color: Colors.black.withValues(alpha: 0.5),
-              borderRadius: BorderRadius.circular(18),
-              border: Border.all(color: Colors.white.withValues(alpha: 0.1)),
             ),
-            child: isImp
-                ? Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      if (card.word != null) ...[
-                        const Text('Assigned Fake Word', style: TextStyle(color: HushbugColors.neonPurpleLight, fontSize: 10, fontWeight: FontWeight.bold)),
-                        Text(card.word!, style: const TextStyle(color: HushbugColors.accentYellow, fontSize: 18, fontWeight: FontWeight.w900)),
-                        const Divider(color: Colors.white24, height: 14),
-                      ],
-                      if (card.hint != null) ...[
-                        const Text('Tactical Clue', style: TextStyle(color: Color(0xFF34D399), fontSize: 10, fontWeight: FontWeight.bold)),
-                        const SizedBox(height: 2),
-                        Text('"${card.hint}"', style: const TextStyle(color: Colors.white, fontSize: 13, fontStyle: FontStyle.italic)),
-                      ],
-                      if (card.partners.isNotEmpty) ...[
-                        const SizedBox(height: 6),
-                        Text(
-                          'Partners: ${card.partners.map((i) => r.players[i]).join(', ')}',
-                          style: const TextStyle(color: HushbugColors.imposterRed, fontSize: 12, fontWeight: FontWeight.bold),
-                        ),
-                      ],
+            const Text(
+              'DO NOT SHARE',
+              style: TextStyle(color: HushbugColors.imposterRed, fontSize: 10, fontWeight: FontWeight.bold, letterSpacing: 0.5),
+            ),
+          ],
+        ),
+
+        // Assigned Identity
+        Column(
+          children: [
+            Text(
+              'YOUR ASSIGNED IDENTITY',
+              style: TextStyle(
+                color: isImp ? const Color(0xFFFCA5A5) : const Color(0xFFA7F3D0),
+                fontSize: 10,
+                fontWeight: FontWeight.w800,
+                letterSpacing: 1.1,
+              ),
+            ),
+            const SizedBox(height: 6),
+            Container(
+              padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 8),
+              decoration: BoxDecoration(
+                color: isImp ? HushbugColors.imposterRed.withValues(alpha: 0.2) : HushbugColors.civilianEmerald.withValues(alpha: 0.2),
+                borderRadius: BorderRadius.circular(16),
+                border: Border.all(
+                  color: isImp ? HushbugColors.imposterRed : HushbugColors.civilianEmerald,
+                  width: 2,
+                ),
+              ),
+              child: Text(
+                isImp ? 'ROLE: IMPOSTER' : 'ROLE: CIVILIAN',
+                style: TextStyle(
+                  fontSize: 20,
+                  fontWeight: FontWeight.w900,
+                  color: isImp ? HushbugColors.imposterRed : const Color(0xFF34D399),
+                  letterSpacing: 0.5,
+                ),
+              ),
+            ),
+            const SizedBox(height: 4),
+            Text(
+              isImp ? 'You do not know the actual secret word. Blend in!' : 'Civilians hold the true secret word.',
+              textAlign: TextAlign.center,
+              style: const TextStyle(color: HushbugColors.textSubtext, fontSize: 11),
+            ),
+          ],
+        ),
+
+        // Clue / Word Panel (Prominently displayed)
+        Container(
+          width: double.infinity,
+          padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 12),
+          decoration: BoxDecoration(
+            color: Colors.black.withValues(alpha: 0.55),
+            borderRadius: BorderRadius.circular(18),
+            border: Border.all(color: Colors.white.withValues(alpha: 0.12)),
+          ),
+          child: isImp
+              ? Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    if (card.word != null) ...[
+                      const Text('ASSIGNED COUNTER-WORD:', style: TextStyle(color: HushbugColors.textSubtext, fontSize: 9, fontWeight: FontWeight.bold)),
+                      const SizedBox(height: 2),
+                      Text(card.word!, style: const TextStyle(color: HushbugColors.accentYellow, fontSize: 18, fontWeight: FontWeight.w900)),
+                      const Divider(color: Colors.white24, height: 12),
                     ],
-                  )
-                : Column(
-                    children: [
-                      const Text('SECRET WORD', style: TextStyle(color: HushbugColors.textSubtext, fontSize: 10, fontWeight: FontWeight.bold)),
+                    if (card.hint != null) ...[
+                      const Text('TIER 1 HINT CLUE:', style: TextStyle(color: Color(0xFF34D399), fontSize: 9, fontWeight: FontWeight.bold)),
+                      const SizedBox(height: 2),
+                      Text('"${card.hint}"', style: const TextStyle(color: Colors.white, fontSize: 12, fontStyle: FontStyle.italic)),
+                    ],
+                    if (card.partners.isNotEmpty) ...[
                       const SizedBox(height: 4),
                       Text(
-                        card.word ?? r.word,
-                        style: const TextStyle(color: HushbugColors.accentYellow, fontSize: 28, fontWeight: FontWeight.w900, letterSpacing: 0.5),
+                        'Partners: ${card.partners.map((i) => r.players[i]).join(', ')}',
+                        style: const TextStyle(color: HushbugColors.imposterRed, fontSize: 11, fontWeight: FontWeight.bold),
                       ),
                     ],
-                  ),
-          ),
+                  ],
+                )
+              : Column(
+                  children: [
+                    const Text('SECRET WORD', style: TextStyle(color: HushbugColors.textSubtext, fontSize: 10, fontWeight: FontWeight.bold, letterSpacing: 0.8)),
+                    const SizedBox(height: 4),
+                    Text(
+                      card.word ?? r.word,
+                      textAlign: TextAlign.center,
+                      style: const TextStyle(
+                        color: HushbugColors.accentYellow,
+                        fontSize: 28,
+                        fontWeight: FontWeight.w900,
+                        letterSpacing: 0.8,
+                      ),
+                    ),
+                  ],
+                ),
+        ),
 
-          const Text(
-            'Release or tap to re-mask immediately',
-            style: TextStyle(color: HushbugColors.textMuted, fontSize: 11, fontWeight: FontWeight.w600),
-          ),
-        ],
-      ),
+        // Privacy note
+        const Row(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Icon(Icons.lock_clock_rounded, size: 12, color: HushbugColors.textMuted),
+            SizedBox(width: 4),
+            Text(
+              'RELEASE HOLD TO RE-MASK IMMEDIATELY',
+              style: TextStyle(color: HushbugColors.textMuted, fontSize: 9, fontWeight: FontWeight.w700, letterSpacing: 0.5),
+            ),
+          ],
+        ),
+
+        // Spacing for mascot at bottom
+        const SizedBox(height: 20),
+      ],
     );
   }
 }

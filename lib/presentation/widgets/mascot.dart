@@ -205,15 +205,96 @@ class PeekingCornerMascot extends StatelessWidget {
       width: width,
       height: height,
       child: CustomPaint(
-        painter: _PeekingMascotPainter(isDetective: isDetective),
+        painter: _PeekingMascotPainter(
+          isDetective: isDetective,
+          eyesOpenProgress: 1.0,
+        ),
       ),
     );
   }
 }
 
-class _PeekingMascotPainter extends CustomPainter {
-  _PeekingMascotPainter({this.isDetective = false});
+/// Dedicated Card Peeking Mascot for the Secret Reveal Card.
+/// - In default state: Eyes completely closed (peaceful sleeping/innocent curved lines), subtle idle antenna/breathing motion, paws on the edge.
+/// - On hold: Eyes slowly open slightly (pupils peek upwards towards the secret word), subtle head lift.
+/// - On release: Eyes quickly close again back to innocent closed eyes.
+class CardPeekingMascot extends StatefulWidget {
+  const CardPeekingMascot({
+    super.key,
+    required this.eyesOpenProgress, // 0.0 = completely closed, 1.0 = peeking open looking up
+    this.width = 100,
+    this.height = 72,
+    this.isDetective = false,
+  });
+
+  final double eyesOpenProgress;
+  final double width;
+  final double height;
   final bool isDetective;
+
+  @override
+  State<CardPeekingMascot> createState() => _CardPeekingMascotState();
+}
+
+class _CardPeekingMascotState extends State<CardPeekingMascot> with SingleTickerProviderStateMixin {
+  late final AnimationController _idleCtrl;
+  late final Animation<double> _breathAnim;
+  late final Animation<double> _antennaAnim;
+
+  @override
+  void initState() {
+    super.initState();
+    // Subtle idle animation: gentle breathing (up/down ~1.5px) and soft antenna sway
+    _idleCtrl = AnimationController(vsync: this, duration: const Duration(milliseconds: 3200))..repeat(reverse: true);
+    _breathAnim = Tween<double>(begin: 0.0, end: -2.0).animate(
+      CurvedAnimation(parent: _idleCtrl, curve: Curves.easeInOutSine),
+    );
+    _antennaAnim = Tween<double>(begin: -0.06, end: 0.06).animate(
+      CurvedAnimation(parent: _idleCtrl, curve: Curves.easeInOutSine),
+    );
+  }
+
+  @override
+  void dispose() {
+    _idleCtrl.dispose();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return AnimatedBuilder(
+      animation: _idleCtrl,
+      builder: (context, _) {
+        return SizedBox(
+          width: widget.width,
+          height: widget.height,
+          child: CustomPaint(
+            painter: _PeekingMascotPainter(
+              isDetective: widget.isDetective,
+              eyesOpenProgress: widget.eyesOpenProgress,
+              breathOffset: _breathAnim.value,
+              antennaWiggle: _antennaAnim.value,
+            ),
+          ),
+        );
+      },
+    );
+  }
+}
+
+class _PeekingMascotPainter extends CustomPainter {
+  _PeekingMascotPainter({
+    this.isDetective = false,
+    this.eyesOpenProgress = 1.0,
+    this.breathOffset = 0.0,
+    this.antennaWiggle = 0.0,
+  });
+
+  final bool isDetective;
+  /// 0.0 = completely closed (innocent curved arcs), 1.0 = peeking open looking up
+  final double eyesOpenProgress;
+  final double breathOffset;
+  final double antennaWiggle;
 
   @override
   void paint(Canvas canvas, Size size) {
@@ -227,75 +308,150 @@ class _PeekingMascotPainter extends CustomPainter {
       ..strokeWidth = 2.4
       ..strokeCap = StrokeCap.round;
 
-    // Antennae
+    // Apply subtle breathing and peek head lift
+    // When peeking, the head subtly rises by ~2px
+    final peekLift = -2.5 * eyesOpenProgress;
+    final totalYOffset = breathOffset + peekLift;
+
+    // 1. Antennae (with dynamic idle wiggle)
+    // Left antenna
+    canvas.save();
+    canvas.translate(38, 38 + totalYOffset);
+    canvas.rotate(-antennaWiggle);
+    canvas.translate(-38, -(38 + totalYOffset));
     final pL = Path()
-      ..moveTo(38, 38)
-      ..quadraticBezierTo(28, 22, 22, 24);
+      ..moveTo(38, 38 + totalYOffset)
+      ..quadraticBezierTo(28, 22 + totalYOffset, 22, 24 + totalYOffset);
     canvas.drawPath(pL, outline);
-    canvas.drawCircle(const Offset(22, 24), 3.5, Paint()..color = HushbugColors.accentYellow);
+    canvas.drawCircle(Offset(22, 24 + totalYOffset), 3.5, Paint()..color = HushbugColors.accentYellow);
+    canvas.drawCircle(Offset(22, 24 + totalYOffset), 3.5, outline..strokeWidth = 1.2);
+    canvas.restore();
 
+    // Right antenna
+    canvas.save();
+    canvas.translate(62, 38 + totalYOffset);
+    canvas.rotate(antennaWiggle);
+    canvas.translate(-62, -(38 + totalYOffset));
     final pR = Path()
-      ..moveTo(62, 38)
-      ..quadraticBezierTo(72, 22, 78, 24);
+      ..moveTo(62, 38 + totalYOffset)
+      ..quadraticBezierTo(72, 22 + totalYOffset, 78, 24 + totalYOffset);
     canvas.drawPath(pR, outline);
-    canvas.drawCircle(const Offset(78, 24), 3.5, Paint()..color = HushbugColors.accentYellow);
+    canvas.drawCircle(Offset(78, 24 + totalYOffset), 3.5, Paint()..color = HushbugColors.accentYellow);
+    canvas.drawCircle(Offset(78, 24 + totalYOffset), 3.5, outline..strokeWidth = 1.2);
+    canvas.restore();
 
-    // Head / body peeking up
-    const headC = Offset(50, 52);
+    outline.strokeWidth = 2.4;
+
+    // 2. Head / body peeking up over the card edge
+    final headC = Offset(50, 52 + totalYOffset);
+    // Outer shell body (Neon purple)
     canvas.drawCircle(headC, 28, Paint()..color = HushbugColors.neonPurple);
+    // Face skin
     canvas.drawCircle(headC, 24, Paint()..color = const Color(0xFFFFE0BD));
     canvas.drawCircle(headC, 24, outline);
 
-    // Blush
-    final blush = Paint()..color = const Color(0xFFFF8FA3).withValues(alpha: 0.6);
-    canvas.drawCircle(const Offset(38, 56), 4, blush);
-    canvas.drawCircle(const Offset(62, 56), 4, blush);
+    // 3. Cute Cheek Blush
+    final blush = Paint()..color = const Color(0xFFFF8FA3).withValues(alpha: 0.55);
+    canvas.drawCircle(Offset(38, 56 + totalYOffset), 4, blush);
+    canvas.drawCircle(Offset(62, 56 + totalYOffset), 4, blush);
 
-    // Eyes looking up
-    canvas.drawCircle(const Offset(43, 46), 4.2, Paint()..color = const Color(0xFF15131D));
-    canvas.drawCircle(const Offset(44, 44.5), 1.6, Paint()..color = Colors.white);
+    // 4. Eyes: Smoothly interpolate from completely closed (0.0) to peeking upwards (1.0)
+    final clampedP = eyesOpenProgress.clamp(0.0, 1.0);
 
-    canvas.drawCircle(const Offset(57, 46), 4.2, Paint()..color = const Color(0xFF15131D));
-    canvas.drawCircle(const Offset(58, 44.5), 1.6, Paint()..color = Colors.white);
+    for (final isLeft in [true, false]) {
+      final eyeX = isLeft ? 43.0 : 57.0;
+      final eyeY = 46.0 + totalYOffset;
 
-    // Smile
+      if (clampedP <= 0.05) {
+        // --- COMPLETELY CLOSED (Innocent, relaxed, happy curved arc) ---
+        final closedArc = Path()
+          ..moveTo(eyeX - 4.5, eyeY)
+          ..quadraticBezierTo(eyeX, eyeY + 3.2, eyeX + 4.5, eyeY);
+        canvas.drawPath(closedArc, outline..strokeWidth = 2.2);
+      } else {
+        // --- TRANSITIONING / PEEKING OPEN ---
+        // Eye opening height: from thin slit (0.5px) to peeking slit (3.5px)
+        final eyeHeight = 1.0 + (3.4 * clampedP);
+        final eyeWidth = 4.2;
+
+        // Clip to eye oval so pupil and highlights stay within eye socket
+        canvas.save();
+        final eyeRect = Rect.fromCenter(center: Offset(eyeX, eyeY), width: eyeWidth * 2, height: eyeHeight * 2);
+        final eyeRRect = RRect.fromRectAndRadius(eyeRect, Radius.circular(eyeHeight));
+        canvas.clipRRect(eyeRRect);
+
+        // White sclera
+        canvas.drawRRect(eyeRRect, Paint()..color = Colors.white);
+
+        // Pupil looking upward towards the secret word (offset towards the top)
+        final pupilY = eyeY - (eyeHeight * 0.45);
+        final pupilRadius = 2.2 * clampedP.clamp(0.6, 1.0);
+        canvas.drawCircle(Offset(eyeX, pupilY), pupilRadius, Paint()..color = const Color(0xFF15131D));
+
+        // Catchlight / glint inside pupil (peeking sparkle)
+        if (clampedP > 0.3) {
+          canvas.drawCircle(Offset(eyeX + 0.8, pupilY - 0.7), 0.9 * clampedP, Paint()..color = Colors.white);
+        }
+        canvas.restore();
+
+        // Eye socket outline
+        canvas.drawRRect(eyeRRect, outline..strokeWidth = 1.6);
+
+        // Tiny cute eyebrow raised slightly while peeking
+        if (clampedP > 0.2) {
+          final browY = eyeY - 6.0 - (1.5 * clampedP);
+          final brow = Path()
+            ..moveTo(eyeX - 3.5, isLeft ? browY + 0.8 : browY - 0.2)
+            ..quadraticBezierTo(eyeX, browY - 0.8, eyeX + 3.5, isLeft ? browY - 0.2 : browY + 0.8);
+          canvas.drawPath(brow, outline..strokeWidth = 1.4);
+        }
+      }
+    }
+    outline.strokeWidth = 2.4;
+
+    // 5. Innocent subtle smile
     final mouth = Path()
-      ..moveTo(47, 54)
-      ..quadraticBezierTo(50, 57, 53, 54);
-    canvas.drawPath(mouth, outline);
+      ..moveTo(47, 54 + totalYOffset)
+      ..quadraticBezierTo(50, 56.5 + totalYOffset, 53, 54 + totalYOffset);
+    canvas.drawPath(mouth, outline..strokeWidth = 1.8);
+    outline.strokeWidth = 2.4;
 
+    // 6. Optional Detective Fedora
     if (isDetective) {
-      // Fedora Brim & Crown
       final fedora = Path()
-        ..moveTo(26, 42)
-        ..quadraticBezierTo(50, 36, 74, 42)
-        ..lineTo(70, 26)
-        ..quadraticBezierTo(50, 20, 30, 26)
+        ..moveTo(26, 42 + totalYOffset)
+        ..quadraticBezierTo(50, 36 + totalYOffset, 74, 42 + totalYOffset)
+        ..lineTo(70, 26 + totalYOffset)
+        ..quadraticBezierTo(50, 20 + totalYOffset, 30, 26 + totalYOffset)
         ..close();
       canvas.drawPath(fedora, Paint()..color = const Color(0xFF6B4C35));
       canvas.drawPath(fedora, outline);
-      // Fedora Band
       final band = Path()
-        ..moveTo(28, 40)
-        ..quadraticBezierTo(50, 35, 72, 40);
+        ..moveTo(28, 40 + totalYOffset)
+        ..quadraticBezierTo(50, 35 + totalYOffset, 72, 40 + totalYOffset);
       canvas.drawPath(band, Paint()..color = const Color(0xFF2A1A10)..strokeWidth = 3..style = PaintingStyle.stroke);
     }
 
-    // Paws clutching frame border
+    // 7. Paws clutching the card edge (resting securely on the top edge of the card boundary)
+    // The paws remain anchored even if the head breathes slightly
     final skin = Paint()..color = const Color(0xFFFFD39B);
     final pawL = RRect.fromRectAndRadius(const Rect.fromLTWH(30, 56, 12, 10), const Radius.circular(5));
     canvas.drawRRect(pawL, skin);
-    canvas.drawRRect(pawL, outline);
+    canvas.drawRRect(pawL, outline..strokeWidth = 2.0);
 
     final pawR = RRect.fromRectAndRadius(const Rect.fromLTWH(58, 56, 12, 10), const Radius.circular(5));
     canvas.drawRRect(pawR, skin);
-    canvas.drawRRect(pawR, outline);
+    canvas.drawRRect(pawR, outline..strokeWidth = 2.0);
 
     canvas.restore();
   }
 
   @override
-  bool shouldRepaint(covariant _PeekingMascotPainter old) => old.isDetective != isDetective;
+  bool shouldRepaint(covariant _PeekingMascotPainter old) =>
+      old.isDetective != isDetective ||
+      old.eyesOpenProgress != eyesOpenProgress ||
+      old.breathOffset != breathOffset ||
+      old.antennaWiggle != antennaWiggle;
 }
 
 /// Comprehensive procedural vector painter for all Hushbug moods & hats.
