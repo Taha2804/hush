@@ -1,5 +1,8 @@
+import 'dart:convert';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+
+import '../domain/models/game_stats.dart';
 
 import '../data/db/app_db.dart';
 import '../data/prefs/settings.dart';
@@ -102,3 +105,63 @@ class CurrentSourceNotifier extends Notifier<String?> {
 }
 
 final currentSourceProvider = NotifierProvider<CurrentSourceNotifier, String?>(CurrentSourceNotifier.new);
+
+/// GameStats Notifier for Player Profile, Stats, History & Achievements
+class StatsNotifier extends Notifier<GameStats> {
+  static const _key = 'hushbug.stats.v1';
+
+  @override
+  GameStats build() {
+    final prefs = ref.watch(bootstrapProvider).prefs;
+    final raw = prefs.getString(_key);
+    if (raw != null) {
+      try {
+        return GameStats.fromJson(jsonDecode(raw) as Map<String, dynamic>);
+      } catch (_) {}
+    }
+    return const GameStats();
+  }
+
+  void update(GameStats Function(GameStats s) f) {
+    state = f(state);
+    ref.read(bootstrapProvider).prefs.setString(_key, jsonEncode(state.toJson()));
+  }
+
+  void recordGame({
+    required String secretWord,
+    String? fakeWord,
+    required String category,
+    required String winner,
+    required List<String> players,
+    required List<String> imposters,
+    required Map<String, int> scores,
+  }) {
+    final record = GameHistoryRecord(
+      id: DateTime.now().millisecondsSinceEpoch.toString(),
+      timestamp: DateTime.now(),
+      secretWord: secretWord,
+      fakeWord: fakeWord,
+      category: category,
+      winner: winner,
+      players: players,
+      imposters: imposters,
+      scores: scores,
+    );
+
+    final isCrewWin = winner == 'crew';
+    update((s) => s.copyWith(
+          totalGames: s.totalGames + 1,
+          crewVictories: isCrewWin ? s.crewVictories + 1 : s.crewVictories,
+          imposterVictories: !isCrewWin ? s.imposterVictories + 1 : s.imposterVictories,
+          currentWinStreak: isCrewWin ? s.currentWinStreak + 1 : 0,
+          bestWinStreak: (isCrewWin && (s.currentWinStreak + 1 > s.bestWinStreak))
+              ? s.currentWinStreak + 1
+              : s.bestWinStreak,
+          playerXp: s.playerXp + 60,
+          playerLevel: ((s.playerXp + 60) ~/ 250) + 1,
+          history: [record, ...s.history.take(19)],
+        ));
+  }
+}
+
+final statsProvider = NotifierProvider<StatsNotifier, GameStats>(StatsNotifier.new);

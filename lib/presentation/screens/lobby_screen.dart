@@ -46,50 +46,73 @@ class LobbyScreen extends ConsumerWidget {
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
-                    // Top Bar Header
+                    // Top Bar Header with Player Profile, Win Streak, and Settings
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
-                        // Left small brand pill
-                        Container(
-                          padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
-                          decoration: BoxDecoration(
-                            color: HushbugColors.cardSurface.withValues(alpha: 0.8),
-                            borderRadius: BorderRadius.circular(12),
-                            border: Border.all(color: HushbugColors.cardBorder, width: 1),
-                          ),
-                          child: const Row(
-                            mainAxisSize: MainAxisSize.min,
-                            children: [
-                              Text(
-                                '🐞',
-                                style: TextStyle(fontSize: 13),
-                              ),
-                              SizedBox(width: 5),
-                              Text(
-                                'Party Mode',
-                                style: TextStyle(
-                                  color: HushbugColors.textSubtext,
-                                  fontSize: 11,
-                                  fontWeight: FontWeight.w700,
-                                ),
-                              ),
-                            ],
-                          ),
-                        ),
-                        // Right Settings Button
-                        IconButton(
-                          tooltip: 'Settings',
-                          onPressed: () => context.push('/settings'),
-                          style: IconButton.styleFrom(
-                            backgroundColor: HushbugColors.cardSurface.withValues(alpha: 0.8),
-                            foregroundColor: Colors.white,
-                            shape: RoundedRectangleBorder(
+                        // Left Player Profile & Win Streak pill
+                        InkWell(
+                          onTap: () => context.push('/stats'),
+                          borderRadius: BorderRadius.circular(16),
+                          child: Container(
+                            padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+                            decoration: BoxDecoration(
+                              color: HushbugColors.cardSurface.withValues(alpha: 0.9),
                               borderRadius: BorderRadius.circular(16),
-                              side: const BorderSide(color: HushbugColors.cardBorder, width: 1),
+                              border: Border.all(color: HushbugColors.cardBorder, width: 1),
+                            ),
+                            child: const Row(
+                              mainAxisSize: MainAxisSize.min,
+                              children: [
+                                CircleAvatar(
+                                  radius: 11,
+                                  backgroundColor: HushbugColors.neonPurple,
+                                  child: Icon(Icons.person_rounded, size: 14, color: Colors.white),
+                                ),
+                                SizedBox(width: 8),
+                                Text(
+                                  '3 Win Streak 🔥',
+                                  style: TextStyle(
+                                    color: HushbugColors.accentYellow,
+                                    fontSize: 11,
+                                    fontWeight: FontWeight.w800,
+                                  ),
+                                ),
+                              ],
                             ),
                           ),
-                          icon: const Icon(Icons.settings_rounded, size: 20),
+                        ),
+                        // Right Shortcuts: Daily Mission & Settings
+                        Row(
+                          children: [
+                            IconButton(
+                              tooltip: 'Daily Mission',
+                              onPressed: () => context.push('/daily'),
+                              style: IconButton.styleFrom(
+                                backgroundColor: HushbugColors.cardSurface.withValues(alpha: 0.8),
+                                foregroundColor: HushbugColors.accentYellow,
+                                shape: RoundedRectangleBorder(
+                                  borderRadius: BorderRadius.circular(16),
+                                  side: const BorderSide(color: HushbugColors.cardBorder, width: 1),
+                                ),
+                              ),
+                              icon: const Icon(Icons.flash_on_rounded, size: 20),
+                            ),
+                            const SizedBox(width: 8),
+                            IconButton(
+                              tooltip: 'Settings',
+                              onPressed: () => context.push('/settings'),
+                              style: IconButton.styleFrom(
+                                backgroundColor: HushbugColors.cardSurface.withValues(alpha: 0.8),
+                                foregroundColor: Colors.white,
+                                shape: RoundedRectangleBorder(
+                                  borderRadius: BorderRadius.circular(16),
+                                  side: const BorderSide(color: HushbugColors.cardBorder, width: 1),
+                                ),
+                              ),
+                              icon: const Icon(Icons.settings_rounded, size: 20),
+                            ),
+                          ],
                         ),
                       ],
                     ),
@@ -138,12 +161,12 @@ class LobbyScreen extends ConsumerWidget {
                           child: const Text('Play Game'),
                         ),
                         if (hasActiveRound) ...[
-                          const SizedBox(height: 12),
+                          const SizedBox(height: 10),
                           // Continue Game Button
                           TactileButton(
                             onPressed: () => context.push('/play'),
                             style: TactileButtonStyle.secondary,
-                            height: 50,
+                            height: 48,
                             icon: const Icon(Icons.replay_rounded, color: HushbugColors.neonPurpleLight, size: 22),
                             badge: Container(
                               width: 8,
@@ -166,7 +189,7 @@ class LobbyScreen extends ConsumerWidget {
                       ],
                     ),
 
-                    // 4-Tile Feature Hub Grid
+                    // 5-Tile Feature Hub Grid
                     Row(
                       children: [
                         // Stats Tile
@@ -176,7 +199,18 @@ class LobbyScreen extends ConsumerWidget {
                             iconColor: HushbugColors.neonPurpleLight,
                             iconBg: HushbugColors.neonPurple.withValues(alpha: 0.2),
                             label: 'Stats',
-                            onTap: () => _showStatsDialog(context, players, settings.scores),
+                            onTap: () => context.push('/stats'),
+                          ),
+                        ),
+                        const SizedBox(width: 8),
+                        // Achievements / Trophies Tile
+                        Expanded(
+                          child: _HubTile(
+                            icon: Icons.emoji_events_rounded,
+                            iconColor: HushbugColors.accentYellow,
+                            iconBg: Colors.amber.withValues(alpha: 0.2),
+                            label: 'Badges',
+                            onTap: () => context.push('/achievements'),
                           ),
                         ),
                         const SizedBox(width: 8),
@@ -192,7 +226,18 @@ class LobbyScreen extends ConsumerWidget {
                           ),
                         ),
                         const SizedBox(width: 8),
-                        // Packs / My Words Tile
+                        // Online / Multiplayer Tile
+                        Expanded(
+                          child: _HubTile(
+                            icon: Icons.cell_tower_rounded,
+                            iconColor: Colors.cyanAccent,
+                            iconBg: Colors.cyan.withValues(alpha: 0.2),
+                            label: 'Online',
+                            onTap: () => context.push('/multiplayer'),
+                          ),
+                        ),
+                        const SizedBox(width: 8),
+                        // Custom Packs Tile
                         Expanded(
                           child: _HubTile(
                             icon: Icons.inventory_2_rounded,
@@ -200,17 +245,6 @@ class LobbyScreen extends ConsumerWidget {
                             iconBg: Colors.pink.withValues(alpha: 0.2),
                             label: 'Packs',
                             onTap: () => context.push('/mywords'),
-                          ),
-                        ),
-                        const SizedBox(width: 8),
-                        // Settings Tile
-                        Expanded(
-                          child: _HubTile(
-                            icon: Icons.tune_rounded,
-                            iconColor: Colors.cyanAccent,
-                            iconBg: Colors.cyan.withValues(alpha: 0.2),
-                            label: 'Rules',
-                            onTap: () => context.push('/how'),
                           ),
                         ),
                       ],

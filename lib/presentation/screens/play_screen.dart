@@ -1367,12 +1367,20 @@ class LastChanceView extends ConsumerStatefulWidget {
   ConsumerState<LastChanceView> createState() => _LastChanceViewState();
 }
 
-class _LastChanceViewState extends ConsumerState<LastChanceView> {
+class _LastChanceViewState extends ConsumerState<LastChanceView> with SingleTickerProviderStateMixin {
   final _guess = TextEditingController();
+  late final AnimationController _pulseCtrl;
+
+  @override
+  void initState() {
+    super.initState();
+    _pulseCtrl = AnimationController(vsync: this, duration: const Duration(milliseconds: 1400))..repeat(reverse: true);
+  }
 
   @override
   void dispose() {
     _guess.dispose();
+    _pulseCtrl.dispose();
     super.dispose();
   }
 
@@ -1383,44 +1391,135 @@ class _LastChanceViewState extends ConsumerState<LastChanceView> {
     final r = widget.round;
     final names = r.imposters.map((i) => r.players[i]).join(', ');
 
-    return Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 16),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.stretch,
-        children: [
-          const Center(child: Mascot(size: 96, mood: MascotMood.suspicious)),
-          const SizedBox(height: 16),
-          Text(names, textAlign: TextAlign.center, style: const TextStyle(fontSize: 24, fontWeight: FontWeight.w900, color: Colors.white)),
-          const SizedBox(height: 6),
-          const Text(
-            'Imposters caught! Last chance to guess the secret word and steal the victory!',
-            textAlign: TextAlign.center,
-            style: TextStyle(color: HushbugColors.textSubtext, fontSize: 13),
+    return Container(
+      width: double.infinity,
+      height: double.infinity,
+      decoration: const BoxDecoration(
+        color: Color(0xFF0A0812), // Darkened dramatic backdrop
+      ),
+      child: SafeArea(
+        child: Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 16),
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: [
+              // Top Alert Banner
+              Container(
+                padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 6),
+                decoration: BoxDecoration(
+                  color: HushbugColors.imposterRed.withValues(alpha: 0.2),
+                  borderRadius: BorderRadius.circular(100),
+                  border: Border.all(color: HushbugColors.imposterRed),
+                ),
+                child: const Row(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    Icon(Icons.warning_amber_rounded, color: HushbugColors.imposterRed, size: 16),
+                    SizedBox(width: 6),
+                    Text(
+                      'SUSPICION CONFIRMED',
+                      style: TextStyle(
+                        color: HushbugColors.imposterRed,
+                        fontSize: 11,
+                        fontWeight: FontWeight.w900,
+                        letterSpacing: 0.8,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+
+              // Suspicious Mascot & Dramatic One Last Chance Header
+              Column(
+                children: [
+                  const Mascot(size: 110, mood: MascotMood.suspicious),
+                  const SizedBox(height: 12),
+                  const Text(
+                    'ONE LAST CHANCE!',
+                    style: TextStyle(
+                      fontSize: 26,
+                      fontWeight: FontWeight.w900,
+                      color: HushbugColors.accentYellow,
+                      letterSpacing: 1.2,
+                      shadows: [
+                        Shadow(color: Color(0x99FFD166), blurRadius: 16),
+                      ],
+                    ),
+                  ),
+                  const SizedBox(height: 6),
+                  Text(
+                    '$names was uncovered!',
+                    style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold, color: Colors.white),
+                  ),
+                  const SizedBox(height: 6),
+                  const Text(
+                    'Guess the secret word correctly to steal the victory from the crew.',
+                    textAlign: TextAlign.center,
+                    style: TextStyle(color: HushbugColors.textSubtext, fontSize: 13),
+                  ),
+                ],
+              ),
+
+              // Guess Input Container
+              Container(
+                padding: const EdgeInsets.all(18),
+                decoration: BoxDecoration(
+                  color: HushbugColors.cardSurface,
+                  borderRadius: BorderRadius.circular(24),
+                  border: Border.all(color: HushbugColors.neonPurple.withValues(alpha: 0.5), width: 1.5),
+                  boxShadow: const [
+                    BoxShadow(color: Color(0x337351D8), blurRadius: 18),
+                  ],
+                ),
+                child: Column(
+                  children: [
+                    TextField(
+                      controller: _guess,
+                      autofocus: true,
+                      style: const TextStyle(color: Colors.white, fontSize: 18, fontWeight: FontWeight.w900),
+                      textAlign: TextAlign.center,
+                      decoration: const InputDecoration(
+                        hintText: 'Enter secret word...',
+                        hintStyle: TextStyle(color: HushbugColors.textMuted, fontSize: 15),
+                        border: InputBorder.none,
+                      ),
+                      onSubmitted: (_) => _submit(),
+                    ),
+                  ],
+                ),
+              ),
+
+              // Action Options
+              Column(
+                children: [
+                  TactileButton(
+                    onPressed: () => _submit(),
+                    style: TactileButtonStyle.golden,
+                    height: 52,
+                    icon: const Icon(Icons.flash_on_rounded, color: HushbugColors.onAccentYellow, size: 22),
+                    child: const Text('Steal Victory'),
+                  ),
+                  const SizedBox(height: 10),
+                  OutlinedButton(
+                    onPressed: () => _submit(accepted: true),
+                    style: OutlinedButton.styleFrom(
+                      foregroundColor: HushbugColors.civilianEmerald,
+                      side: const BorderSide(color: HushbugColors.civilianEmerald),
+                      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+                      minimumSize: const Size.fromHeight(44),
+                    ),
+                    child: const Text('Squad Accepts (Close Enough!)', style: TextStyle(fontWeight: FontWeight.bold)),
+                  ),
+                  const SizedBox(height: 4),
+                  TextButton(
+                    onPressed: () => _submit(accepted: false),
+                    child: const Text('Concede Defeat', style: TextStyle(color: HushbugColors.textMuted, fontSize: 13)),
+                  ),
+                ],
+              ),
+            ],
           ),
-          const SizedBox(height: 24),
-          TextField(
-            controller: _guess,
-            autofocus: true,
-            style: const TextStyle(color: Colors.white, fontSize: 16, fontWeight: FontWeight.bold),
-            decoration: const InputDecoration(labelText: 'Secret Word Guess'),
-            onSubmitted: (_) => _submit(),
-          ),
-          const SizedBox(height: 20),
-          TactileButton(
-            onPressed: () => _submit(),
-            style: TactileButtonStyle.golden,
-            child: const Text('Submit Guess'),
-          ),
-          const SizedBox(height: 8),
-          OutlinedButton(
-            onPressed: () => _submit(accepted: true),
-            child: const Text('Group Accepts (Close enough!)'),
-          ),
-          TextButton(
-            onPressed: () => _submit(accepted: false),
-            child: const Text('Give up', style: TextStyle(color: HushbugColors.textMuted)),
-          ),
-        ],
+        ),
       ),
     );
   }
@@ -1449,6 +1548,17 @@ class _ResultViewState extends ConsumerState<ResultView> {
       final crew = widget.round.winner == Winner.crew;
       ref.read(soundProvider).play(crew ? 'win' : 'lose', enabled: s.sound);
       Haptics.buzz(enabled: s.haptics);
+
+      // Record match in statsProvider
+      ref.read(statsProvider.notifier).recordGame(
+            secretWord: widget.round.word,
+            fakeWord: widget.round.fakeWord,
+            category: widget.round.category,
+            winner: crew ? 'crew' : 'imposter',
+            players: widget.round.players,
+            imposters: widget.round.imposters.map((i) => widget.round.players[i]).toList(),
+            scores: s.scores,
+          );
     });
   }
 
@@ -1469,18 +1579,21 @@ class _ResultViewState extends ConsumerState<ResultView> {
 
     return Stack(
       children: [
-        // Floating Confetti Overlay
-        const Positioned.fill(child: ConfettiOverlay()),
+        // Floating Confetti Overlay for Crew Victory, Dark Mist for Imposter Win
+        if (isCrewWin) const Positioned.fill(child: ConfettiOverlay()),
 
         Padding(
           padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 8),
           child: Column(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
-              // Celebratory Stage with Party Mascot & Ribbon Banner
+              // Celebratory / Mischievous Stage with dynamic mascot
               Column(
                 children: [
-                  const Mascot(size: 110, mood: MascotMood.celebrating),
+                  Mascot(
+                    size: 110,
+                    mood: isCrewWin ? MascotMood.celebrating : MascotMood.laughing,
+                  ),
                   const SizedBox(height: 8),
                   RibbonBanner(text: title, isVictory: isCrewWin),
                 ],

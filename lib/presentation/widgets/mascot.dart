@@ -4,13 +4,19 @@ import 'package:flutter/material.dart';
 import '../theme.dart';
 
 enum MascotMood {
-  shush,
+  normal,
+  sleeping,
+  peeking,
   suspicious,
+  shocked,
+  laughing,
+  celebrating,
+  nervous,
+  detective,
+  researcher,
+  shush,
   happy,
   sad,
-  detective,
-  celebrating,
-  researcher,
 }
 
 /// Base procedural Hushbug mascot drawn entirely with CustomPainter.
@@ -577,11 +583,49 @@ class HushbugMascotPainter extends CustomPainter {
     }
 
     switch (mood) {
+      case MascotMood.sleeping:
+        // Peaceful curved closed eyes
+        for (final x in [43.0, 57.0]) {
+          final p = Path()
+            ..moveTo(x - 4.5, 33)
+            ..quadraticBezierTo(x, 36.5, x + 4.5, 33);
+          canvas.drawPath(p, outline..strokeWidth = 2.2);
+        }
+        break;
+      case MascotMood.peeking:
+        // Narrow slit with upward-peeking pupils
+        for (final x in [43.0, 57.0]) {
+          canvas.drawOval(Rect.fromCenter(center: Offset(x, 33), width: 8.5, height: 4), Paint()..color = Colors.white);
+          canvas.drawOval(Rect.fromCenter(center: Offset(x, 33), width: 8.5, height: 4), outline..strokeWidth = 1.4);
+          canvas.drawCircle(Offset(x + 0.5, 32), 1.7, dark);
+        }
+        break;
+      case MascotMood.shocked:
+        // Huge round wide-open eyes with tiny stunned pupils
+        for (final x in [43.0, 57.0]) {
+          canvas.drawCircle(Offset(x, 32), 6.5, Paint()..color = Colors.white);
+          canvas.drawCircle(Offset(x, 32), 6.5, outline..strokeWidth = 1.8);
+          canvas.drawCircle(Offset(x, 32), 2.2, dark);
+          canvas.drawCircle(Offset(x + 1, 31), 0.9, Paint()..color = Colors.white);
+        }
+        break;
+      case MascotMood.nervous:
+        // Uneven anxious eyes looking sideways with worried brow
+        drawStandardEye(43, squint: true);
+        drawStandardEye(57);
+        // Anxious sweat drop
+        final sweat = Path()
+          ..moveTo(65, 23)
+          ..quadraticBezierTo(67, 28, 65, 30)
+          ..quadraticBezierTo(63, 28, 65, 23);
+        canvas.drawPath(sweat, Paint()..color = Colors.cyanAccent);
+        break;
       case MascotMood.suspicious:
         drawStandardEye(43, squint: true);
         drawStandardEye(57);
         break;
       case MascotMood.happy:
+      case MascotMood.laughing:
       case MascotMood.celebrating:
         // Closed laughing eyes
         for (final x in [43.0, 57.0]) {
@@ -597,6 +641,7 @@ class HushbugMascotPainter extends CustomPainter {
         canvas.drawLine(const Offset(39, 26), const Offset(46, 28), outline);
         canvas.drawLine(const Offset(61, 26), const Offset(54, 28), outline);
         break;
+      case MascotMood.normal:
       case MascotMood.shush:
       case MascotMood.detective:
       case MascotMood.researcher:
@@ -610,11 +655,31 @@ class HushbugMascotPainter extends CustomPainter {
     switch (mood) {
       case MascotMood.happy:
       case MascotMood.celebrating:
+      case MascotMood.laughing:
         final p = Path()
           ..moveTo(44, 40)
           ..quadraticBezierTo(50, 48, 56, 40);
         canvas.drawPath(p, outline);
         canvas.drawPath(p, Paint()..color = const Color(0xFF831843));
+        break;
+      case MascotMood.shocked:
+        // Open 'O' gasp
+        canvas.drawCircle(const Offset(50, 43.5), 3.8, dark);
+        break;
+      case MascotMood.nervous:
+        // Wavy anxious mouth line
+        final wave = Path()
+          ..moveTo(45, 43)
+          ..quadraticBezierTo(47.5, 41.5, 50, 43)
+          ..quadraticBezierTo(52.5, 44.5, 55, 43);
+        canvas.drawPath(wave, outline..strokeWidth = 1.8);
+        break;
+      case MascotMood.sleeping:
+        // Tiny relaxed sleeping dot/smile
+        final p = Path()
+          ..moveTo(47, 42)
+          ..quadraticBezierTo(50, 44, 53, 42);
+        canvas.drawPath(p, outline..strokeWidth = 1.6);
         break;
       case MascotMood.sad:
         final p = Path()
@@ -624,6 +689,13 @@ class HushbugMascotPainter extends CustomPainter {
         break;
       case MascotMood.suspicious:
         canvas.drawLine(const Offset(46, 42), const Offset(54, 41), outline);
+        break;
+      case MascotMood.peeking:
+      case MascotMood.normal:
+        final p = Path()
+          ..moveTo(47, 41)
+          ..quadraticBezierTo(50, 44.5, 53, 41);
+        canvas.drawPath(p, outline..strokeWidth = 1.8);
         break;
       case MascotMood.shush:
       case MascotMood.detective:

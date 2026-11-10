@@ -5,13 +5,17 @@ import 'package:go_router/go_router.dart';
 
 import '../data/prefs/settings.dart';
 import '../l10n/gen/app_localizations.dart';
+import '../presentation/screens/achievements_screen.dart';
+import '../presentation/screens/daily_challenge_screen.dart';
 import '../presentation/screens/info_screens.dart';
 import '../presentation/screens/lobby_screen.dart';
+import '../presentation/screens/multiplayer_screen.dart';
 import '../presentation/screens/my_words_screens.dart';
 import '../presentation/screens/play_screen.dart';
 import '../presentation/screens/settings_screen.dart';
 import '../presentation/screens/setup_screen.dart';
 import '../presentation/screens/source_select_screen.dart';
+import '../presentation/screens/stats_screen.dart';
 import '../presentation/theme.dart';
 import 'providers.dart';
 
@@ -28,6 +32,10 @@ final routerProvider = Provider<GoRouter>((ref) {
       GoRoute(path: '/settings/app', builder: (c, s) => const AppPreferencesScreen()),
       GoRoute(path: '/how', builder: (c, s) => const HowToPlayScreen()),
       GoRoute(path: '/about', builder: (c, s) => const AboutScreen()),
+      GoRoute(path: '/stats', builder: (c, s) => const StatsScreen()),
+      GoRoute(path: '/achievements', builder: (c, s) => const AchievementsScreen()),
+      GoRoute(path: '/daily', builder: (c, s) => const DailyChallengeScreen()),
+      GoRoute(path: '/multiplayer', builder: (c, s) => const MultiplayerScreen()),
       GoRoute(path: '/mywords', builder: (c, s) => const MyWordsScreen()),
       GoRoute(
         path: '/mywords/:id',

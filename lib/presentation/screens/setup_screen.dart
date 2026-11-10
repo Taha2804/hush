@@ -663,6 +663,94 @@ class _SetupScreenState extends ConsumerState<SetupScreen> {
                             ],
                           ),
                         ),
+                        const SizedBox(height: 18),
+
+                        // SECTION 6: IMPOSTER DIFFICULTY CARDS
+                        const Text(
+                          'IMPOSTER DIFFICULTY',
+                          style: TextStyle(
+                            fontSize: 11,
+                            fontWeight: FontWeight.w800,
+                            color: HushbugColors.textSubtext,
+                            letterSpacing: 1.1,
+                          ),
+                        ),
+                        const SizedBox(height: 8),
+                        Row(
+                          children: [
+                            Expanded(
+                              child: _DifficultyCard(
+                                title: 'EASY',
+                                subtitle: 'Helpful clues',
+                                isSelected: g.hintDifficulty == HintDifficulty.easy,
+                                color: HushbugColors.civilianEmerald,
+                                onSelect: () => _updateGame((g) => g.copyWith(hintDifficulty: HintDifficulty.easy)),
+                              ),
+                            ),
+                            const SizedBox(width: 8),
+                            Expanded(
+                              child: _DifficultyCard(
+                                title: 'NORMAL',
+                                subtitle: 'Vague clues',
+                                isSelected: g.hintDifficulty == HintDifficulty.medium,
+                                color: HushbugColors.accentYellow,
+                                onSelect: () => _updateGame((g) => g.copyWith(hintDifficulty: HintDifficulty.medium)),
+                              ),
+                            ),
+                            const SizedBox(width: 8),
+                            Expanded(
+                              child: _DifficultyCard(
+                                title: 'EXPERT',
+                                subtitle: 'No hints',
+                                isSelected: g.hintDifficulty == HintDifficulty.hard,
+                                color: HushbugColors.imposterRed,
+                                onSelect: () => _updateGame((g) => g.copyWith(hintDifficulty: HintDifficulty.hard)),
+                              ),
+                            ),
+                          ],
+                        ),
+                        const SizedBox(height: 18),
+
+                        // SECTION 7: SPECIAL ROUND TWISTS & EVENTS
+                        Container(
+                          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+                          decoration: BoxDecoration(
+                            color: HushbugColors.cardSurface.withValues(alpha: 0.8),
+                            borderRadius: BorderRadius.circular(20),
+                            border: Border.all(color: HushbugColors.cardBorder, width: 1.2),
+                          ),
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Row(
+                                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                                children: [
+                                  const Row(
+                                    children: [
+                                      Icon(Icons.auto_awesome_rounded, color: HushbugColors.neonPurpleLight, size: 20),
+                                      SizedBox(width: 10),
+                                      Text(
+                                        'Special Round Twists',
+                                        style: TextStyle(color: Colors.white, fontSize: 14, fontWeight: FontWeight.bold),
+                                      ),
+                                    ],
+                                  ),
+                                  Switch(
+                                    value: g.roundTwists,
+                                    activeColor: HushbugColors.accentYellow,
+                                    activeTrackColor: HushbugColors.neonPurple,
+                                    onChanged: (v) => _updateGame((g) => g.copyWith(roundTwists: v)),
+                                  ),
+                                ],
+                              ),
+                              const Text(
+                                'Random modifiers (Reverse Clues, Whispers, Silent Emojis, Double Trouble)',
+                                style: TextStyle(color: HushbugColors.textSubtext, fontSize: 11),
+                              ),
+                            ],
+                          ),
+                        ),
+                        const SizedBox(height: 70), // Spacing for floating Start Game CTA
                       ],
                     ),
                   ),
@@ -919,3 +1007,63 @@ class _ParameterRow extends StatelessWidget {
     );
   }
 }
+
+class _DifficultyCard extends StatelessWidget {
+  const _DifficultyCard({
+    required this.title,
+    required this.subtitle,
+    required this.isSelected,
+    required this.color,
+    required this.onSelect,
+  });
+
+  final String title;
+  final String subtitle;
+  final bool isSelected;
+  final Color color;
+  final VoidCallback onSelect;
+
+  @override
+  Widget build(BuildContext context) {
+    return Material(
+      color: Colors.transparent,
+      child: InkWell(
+        onTap: onSelect,
+        borderRadius: BorderRadius.circular(16),
+        child: AnimatedContainer(
+          duration: const Duration(milliseconds: 200),
+          padding: const EdgeInsets.symmetric(vertical: 12, horizontal: 8),
+          decoration: BoxDecoration(
+            color: isSelected ? color.withValues(alpha: 0.18) : HushbugColors.cardSurface,
+            borderRadius: BorderRadius.circular(16),
+            border: Border.all(
+              color: isSelected ? color : HushbugColors.cardBorder,
+              width: isSelected ? 2 : 1,
+            ),
+          ),
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Text(
+                title,
+                style: TextStyle(
+                  color: isSelected ? color : Colors.white,
+                  fontWeight: FontWeight.w900,
+                  fontSize: 12,
+                  letterSpacing: 0.5,
+                ),
+              ),
+              const SizedBox(height: 3),
+              Text(
+                subtitle,
+                style: const TextStyle(color: HushbugColors.textSubtext, fontSize: 10),
+                textAlign: TextAlign.center,
+              ),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+}
+
