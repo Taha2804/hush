@@ -16,6 +16,7 @@ import '../theme.dart';
 import '../widgets/common.dart';
 import '../widgets/mascot.dart';
 import '../widgets/motion.dart';
+import '../widgets/neon.dart';
 import '../widgets/room_comms.dart';
 import '../widgets/visuals.dart';
 import 'online_social_screens.dart';
@@ -338,46 +339,32 @@ class _MultiplayerScreenState extends ConsumerState<MultiplayerScreen> {
     if (user == null) return const OnlineSignInView();
 
     final room = lobby.room;
-    return Scaffold(
-      body: Container(
-        width: double.infinity,
-        height: double.infinity,
-        decoration: const BoxDecoration(gradient: HushbugColors.scaffoldGradient),
-        child: SafeArea(
-          child: Column(
-            children: [
-              Padding(
-                padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
-                child: Row(
-                  children: [
-                    IconButton(
-                      tooltip: room != null ? 'Leave room' : 'Back',
-                      onPressed: () => room != null ? _confirmLeave() : context.pop(),
-                      icon: const Icon(Icons.arrow_back_rounded, color: Colors.white),
-                    ),
-                    const Expanded(
-                      child: Text(
-                        'Online Multiplayer',
-                        textAlign: TextAlign.center,
-                        style: TextStyle(fontSize: 18, fontWeight: FontWeight.w800, color: Colors.white),
-                      ),
-                    ),
-                    IconButton(
-                      tooltip: 'Friends',
-                      onPressed: () => context.push('/friends'),
-                      icon: const Icon(Icons.group_rounded, color: Colors.white),
-                    ),
-                  ],
-                ),
+    return NeonBackdrop(
+      child: SafeArea(
+        child: Column(
+          children: [
+            Padding(
+              padding: const EdgeInsets.fromLTRB(14, 8, 14, 4),
+              child: Row(
+                children: [
+                  NeonRoundButton(
+                    icon: Icons.arrow_back_rounded,
+                    label: room != null ? 'Leave room' : 'Back',
+                    size: 48,
+                    onPressed: () => room != null ? _confirmLeave() : context.pop(),
+                  ),
+                  Expanded(child: NeonTitle(room != null ? 'Lobby' : 'Play online', size: 24)),
+                  NeonRoundButton(icon: Icons.group_rounded, label: 'Friends', size: 48, onPressed: () => context.push('/friends')),
+                ],
               ),
-              Expanded(
-                child: Padding(
-                  padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 6),
-                  child: room != null ? _lobbyView(lobby, room) : _entryView(lobby),
-                ),
+            ),
+            Expanded(
+              child: Padding(
+                padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 6),
+                child: room != null ? _lobbyView(lobby, room) : _entryView(lobby),
               ),
-            ],
-          ),
+            ),
+          ],
         ),
       ),
     );
@@ -582,220 +569,164 @@ class _MultiplayerScreenState extends ConsumerState<MultiplayerScreen> {
   Widget _lobbyView(OnlineLobbyState lobby, OnlineRoom room) {
     final isHost = lobby.isHost;
     final inLobby = room.status != 'playing';
-    final summary = [
-      '${room.totalRounds} round${room.totalRounds == 1 ? '' : 's'}',
-      room.voteMode == 'sequential' ? 'one-at-a-time voting' : 'everyone votes at once',
+    final uid = SupabaseService.currentUserId;
+    final details = [
+      room.voteMode == 'sequential' ? 'One at a time' : 'Everyone votes at once',
       room.voteVisibility == 'public' ? 'votes shown after' : 'secret ballots',
     ].join(' · ');
 
-    return Column(
-      children: [
-        _Card(
-          borderColor: HushbugColors.neonPurple.withValues(alpha: 0.5),
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Row(
-                children: [
-                  Expanded(
-                    child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        const Text(
-                          'ROOM CODE',
-                          style: TextStyle(color: HushbugColors.textSubtext, fontSize: 10, fontWeight: FontWeight.bold),
-                        ),
-                        SelectableText(
-                          room.code,
-                          style: const TextStyle(
-                            color: HushbugColors.accentYellow,
-                            fontSize: 28,
-                            fontWeight: FontWeight.w900,
-                            letterSpacing: 3,
+    return Column(children: [
+      GlassPanel(
+        radius: 32,
+        padding: const EdgeInsets.fromLTRB(12, 8, 8, 8),
+        child: Row(children: [
+          Expanded(
+            child: Semantics(
+              label: 'Room code ${room.code.split('').join(' ')}',
+              child: ExcludeSemantics(
+                child: Row(mainAxisAlignment: MainAxisAlignment.spaceEvenly, children: [
+                  for (final ch in room.code.split(''))
+                    Container(
+                      width: 34,
+                      height: 42,
+                      decoration: BoxDecoration(color: const Color(0xFF3B2470), borderRadius: BorderRadius.circular(10)),
+                      alignment: Alignment.center,
+                      child: Text(ch, style: const TextStyle(fontFamily: 'Fredoka', fontSize: 22, fontWeight: FontWeight.w600, color: Color(0xFFE8DBFF))),
+                    ),
+                ]),
+              ),
+            ),
+          ),
+          NeonRoundButton(icon: Icons.copy_rounded, label: 'Copy room code', size: 46, onPressed: () => _copy(room.code, 'Room code')),
+          const SizedBox(width: 6),
+          NeonRoundButton(icon: Icons.share_rounded, label: 'Share invite', size: 46, active: true, onPressed: () => _share(room)),
+        ]),
+      ),
+      const SizedBox(height: 10),
+      CommBar(onOpenChat: context.openRoomChat),
+      if (lobby.offline)
+        const Padding(
+          padding: EdgeInsets.only(top: 6),
+          child: Text('Connection lost. Reconnecting…', style: TextStyle(color: HushbugColors.accentYellow, fontSize: 13, fontWeight: FontWeight.w700)),
+        ),
+      Expanded(
+        child: lobby.players.isEmpty
+            ? const Center(child: CircularProgressIndicator())
+            : SingleChildScrollView(
+                padding: const EdgeInsets.only(top: 28, bottom: 8),
+                child: Wrap(
+                  alignment: WrapAlignment.center,
+                  spacing: 10,
+                  runSpacing: 30,
+                  children: [
+                    for (final p in lobby.players)
+                      SizedBox(
+                        width: 100,
+                        child: Appear(
+                          key: ValueKey(p.playerId),
+                          child: GestureDetector(
+                            onTap: p.playerId == uid ? null : () => showPlayerActions(context, ref, p),
+                            child: NeonSeat(
+                              name: p.playerId == uid ? '${p.displayName} (you)' : p.displayName,
+                              avatarIndex: p.avatarIndex,
+                              crown: p.isHost,
+                              tick: !p.isHost && p.isReady,
+                              highlight: p.isHost,
+                              dim: !p.isConnected,
+                              caption: !p.isConnected ? 'Offline' : (p.isHost || p.isReady ? null : 'Not ready'),
+                            ),
                           ),
                         ),
-                      ],
-                    ),
-                  ),
-                  IconButton(
-                    tooltip: 'Copy code',
-                    onPressed: () => _copy(room.code, 'Room code'),
-                    icon: const Icon(Icons.copy_rounded, color: Colors.white70),
-                  ),
-                  IconButton(
-                    tooltip: 'Copy invite link',
-                    onPressed: () => _copy(InviteLinks.linkFor(room.code), 'Invite link'),
-                    icon: const Icon(Icons.link_rounded, color: Colors.white70),
-                  ),
-                  IconButton(
-                    tooltip: 'Share invite',
-                    onPressed: () => _share(room),
-                    icon: const Icon(Icons.share_rounded, color: Colors.white),
-                  ),
-                ],
-              ),
-              Row(
-                children: [
-                  Expanded(
-                    child: Text(summary, style: const TextStyle(color: HushbugColors.textSubtext, fontSize: 12)),
-                  ),
-                  if (isHost && inLobby)
-                    TextButton.icon(
-                      onPressed: () => _openRoomSettings(room),
-                      icon: const Icon(Icons.tune_rounded, size: 16),
-                      label: const Text('Settings'),
-                    ),
-                ],
-              ),
-            ],
-          ),
-        ),
-        const SizedBox(height: 8),
-        CommBar(onOpenChat: context.openRoomChat),
-        if (lobby.offline)
-          const Padding(
-            padding: EdgeInsets.only(top: 6),
-            child: Text('Connection lost. Reconnecting…', style: TextStyle(color: HushbugColors.accentYellow, fontSize: 12)),
-          ),
-        const SizedBox(height: 10),
-        Row(
-          children: [
-            Text(
-              'PLAYERS (${lobby.players.length}/${room.maxPlayers})',
-              style: const TextStyle(color: HushbugColors.textSubtext, fontSize: 11, fontWeight: FontWeight.w800),
-            ),
-            const Spacer(),
-            if (!isHost && inLobby)
-              Text(
-                lobby.isReady ? 'YOU ARE READY' : 'TAP READY WHEN SET',
-                style: TextStyle(
-                  color: lobby.isReady ? HushbugColors.civilianEmerald : HushbugColors.accentYellow,
-                  fontSize: 11,
-                  fontWeight: FontWeight.bold,
+                      ),
+                    if (inLobby)
+                      SizedBox(
+                        width: 100,
+                        child: Semantics(
+                          button: true,
+                          label: 'Invite friends',
+                          child: InkResponse(
+                            onTap: () => context.push('/friends'),
+                            child: Column(mainAxisSize: MainAxisSize.min, children: [
+                              Container(
+                                width: 70,
+                                height: 70,
+                                decoration: BoxDecoration(shape: BoxShape.circle, border: Border.all(color: const Color(0x99C9B0FF), width: 2)),
+                                child: const Icon(Icons.add_rounded, size: 32, color: Color(0xFFE6D2FF)),
+                              ),
+                              const SizedBox(height: 6),
+                              const Text('Invite', style: TextStyle(color: Color(0xFFC9B0FF), fontSize: 13, fontWeight: FontWeight.w800)),
+                            ]),
+                          ),
+                        ),
+                      ),
+                  ],
                 ),
               ),
-          ],
-        ),
-        const SizedBox(height: 8),
-        Expanded(
-          child: lobby.players.isEmpty
-              ? const Center(child: CircularProgressIndicator(color: HushbugColors.neonPurpleLight))
-              : ListView.builder(
-                  itemCount: lobby.players.length,
-                  itemBuilder: (context, i) => Appear(key: ValueKey(lobby.players[i].playerId), child: _playerRow(lobby.players[i])),
-                ),
-        ),
-        const SizedBox(height: 8),
-        Row(
-          children: [
-            Expanded(
-              child: TactileButton(onPressed: _confirmLeave, style: TactileButtonStyle.secondary, height: 52, child: const Text('Leave')),
-            ),
-            const SizedBox(width: 12),
-            Expanded(
-              flex: 2,
-              child: !inLobby
-                  ? TactileButton(onPressed: _backToGame, style: TactileButtonStyle.golden, height: 52, child: const Text('Back to Game'))
-                  : isHost
-                  ? TactileButton(
-                      onPressed: lobby.players.length >= 3 && !_starting ? _start : null,
-                      style: TactileButtonStyle.golden,
-                      height: 52,
-                      icon: _starting
-                          ? const SizedBox(
-                              width: 18,
-                              height: 18,
-                              child: CircularProgressIndicator(strokeWidth: 2, color: HushbugColors.onAccentYellow),
-                            )
-                          : null,
-                      child: Text(_starting ? 'Starting…' : (lobby.players.length >= 3 ? 'Start Game' : 'Need 3+ Players')),
-                    )
-                  : TactileButton(
-                      onPressed: () => ref.read(onlineLobbyProvider.notifier).toggleReady(),
-                      style: lobby.isReady ? TactileButtonStyle.secondary : TactileButtonStyle.golden,
-                      height: 52,
-                      child: Text(lobby.isReady ? 'Not Ready' : "I'm Ready!"),
-                    ),
-            ),
-          ],
-        ),
-      ],
-    );
-  }
-
-  Widget _playerRow(OnlineRoomPlayer p) {
-    final isMe = p.playerId == SupabaseService.currentUserId;
-    final (status, color) = !p.isConnected
-        ? ('OFFLINE', HushbugColors.textMuted)
-        : p.isHost
-        ? ('HOST', HushbugColors.accentYellow)
-        : p.isReady
-        ? ('READY', const Color(0xFF34D399))
-        : ('WAITING', HushbugColors.textMuted);
-    return Padding(
-      padding: const EdgeInsets.only(bottom: 8),
-      child: Material(
-        color: HushbugColors.cardSurface,
-        borderRadius: BorderRadius.circular(16),
+      ),
+      Semantics(
+        button: isHost && inLobby,
+        label: '${room.totalRounds} rounds, $details${isHost && inLobby ? '. Change room settings' : ''}',
         child: InkWell(
-          borderRadius: BorderRadius.circular(16),
-          onTap: isMe ? null : () => showPlayerActions(context, ref, p),
-          child: Container(
-            padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
-            decoration: BoxDecoration(
-              borderRadius: BorderRadius.circular(16),
-              border: Border.all(color: p.isHost ? HushbugColors.accentYellow.withValues(alpha: 0.5) : HushbugColors.cardBorder),
-            ),
-            child: Row(
-              children: [
-                VoiceAvatar(
-                  playerId: p.playerId,
-                  child: PlayerAvatar(index: 0, name: p.displayName, radius: 15, avatarIndex: p.avatarIndex),
-                ),
+          borderRadius: BorderRadius.circular(24),
+          onTap: isHost && inLobby ? () => _openRoomSettings(room) : null,
+          child: GlassPanel(
+            radius: 24,
+            padding: const EdgeInsets.fromLTRB(16, 12, 12, 12),
+            child: ExcludeSemantics(
+              child: Row(children: [
+                const Icon(Icons.settings_rounded, color: Color(0xFFC9B0FF)),
                 const SizedBox(width: 12),
                 Expanded(
-                  child: Text(
-                    isMe ? '${p.displayName} (You)' : p.displayName,
-                    overflow: TextOverflow.ellipsis,
-                    style: TextStyle(
-                      color: p.isConnected ? Colors.white : HushbugColors.textMuted,
-                      fontWeight: FontWeight.bold,
-                      fontSize: 14,
-                    ),
-                  ),
+                  child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                    Text('${room.totalRounds} round${room.totalRounds == 1 ? '' : 's'}',
+                        style: const TextStyle(color: Colors.white, fontSize: 15, fontWeight: FontWeight.w800)),
+                    Text(details, style: const TextStyle(color: HushbugColors.textSubtext, fontSize: 13, fontWeight: FontWeight.w700)),
+                  ]),
                 ),
-                Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
-                  decoration: BoxDecoration(color: color.withValues(alpha: 0.15), borderRadius: BorderRadius.circular(8)),
-                  child: Text(
-                    status,
-                    style: TextStyle(color: color, fontSize: 10, fontWeight: FontWeight.bold),
-                  ),
-                ),
-              ],
+                if (isHost && inLobby) const Icon(Icons.chevron_right_rounded, color: Color(0xFFE6D2FF)),
+              ]),
             ),
           ),
         ),
       ),
-    );
+      const SizedBox(height: 14),
+      Row(children: [
+        Expanded(
+          child: TactileButton(onPressed: _confirmLeave, style: TactileButtonStyle.secondary, height: 58, child: const Text('Leave')),
+        ),
+        const SizedBox(width: 12),
+        Expanded(
+          flex: 2,
+          child: !inLobby
+              ? TactileButton(onPressed: _backToGame, style: TactileButtonStyle.golden, height: 58, child: const Text('Back to game'))
+              : isHost
+                  ? TactileButton(
+                      onPressed: lobby.players.length >= 3 && !_starting ? _start : null,
+                      style: TactileButtonStyle.golden,
+                      height: 58,
+                      icon: _starting
+                          ? const SizedBox(width: 20, height: 20, child: CircularProgressIndicator(strokeWidth: 2.4, color: HushbugColors.onAccentYellow))
+                          : const Icon(Icons.play_arrow_rounded, size: 30),
+                      child: Text(_starting ? 'Starting…' : (lobby.players.length >= 3 ? 'Start' : 'Need 3 players')),
+                    )
+                  : TactileButton(
+                      onPressed: () => ref.read(onlineLobbyProvider.notifier).toggleReady(),
+                      style: lobby.isReady ? TactileButtonStyle.secondary : TactileButtonStyle.golden,
+                      height: 58,
+                      child: Text(lobby.isReady ? 'Not ready' : "I'm ready!"),
+                    ),
+        ),
+      ]),
+    ]);
   }
 }
 
 class _Card extends StatelessWidget {
-  const _Card({required this.child, this.borderColor});
+  const _Card({required this.child});
   final Widget child;
-  final Color? borderColor;
 
   @override
-  Widget build(BuildContext context) => Container(
-    padding: const EdgeInsets.all(14),
-    decoration: BoxDecoration(
-      color: HushbugColors.cardSurface,
-      borderRadius: BorderRadius.circular(20),
-      border: Border.all(color: borderColor ?? HushbugColors.cardBorder, width: 1.2),
-    ),
-    child: child,
-  );
+  Widget build(BuildContext context) => GlassPanel(padding: const EdgeInsets.all(16), child: child);
 }
 
 /// Placeholder shape shown while content loads.

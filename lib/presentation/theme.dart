@@ -4,56 +4,56 @@ import 'package:flutter/material.dart';
 /// Design tokens from the Hushbug UI Design System & Architecture Plan.
 class HushbugColors {
   // Backgrounds
-  static const Color background = Color(0xFF15131D);
-  static const Color backgroundTop = Color(0xFF201C2C);
-  static const Color backgroundBottom = Color(0xFF15131D);
+  static const Color background = Color(0xFF160B30);
+  static const Color backgroundTop = Color(0xFF2A1650);
+  static const Color backgroundBottom = Color(0xFF140A2C);
 
   // Surface & Cards
-  static const Color cardSurface = Color(0xFF201C2C);
-  static const Color cardSurfaceElevated = Color(0xFF292338);
-  static const Color cardBorder = Color(0xFF332C47);
-  static const Color cardBorderSubtle = Color(0x337351D8);
-  static const Color cardBorderActive = Color(0xFFA78BFA);
+  static const Color cardSurface = Color(0xFF26174A);
+  static const Color cardSurfaceElevated = Color(0xFF311E5E);
+  static const Color cardBorder = Color(0xFF4A3388);
+  static const Color cardBorderSubtle = Color(0x59BE96FF);
+  static const Color cardBorderActive = Color(0xFFD9C2FF);
 
   // Primary Accent (Golden Yellow for CTA, highlights and rewards)
-  static const Color accentYellow = Color(0xFFFFD166);
-  static const Color accentYellowLight = Color(0xFFFFE388);
-  static const Color accentYellowDark = Color(0xFFE5B84A);
-  static const Color onAccentYellow = Color(0xFF2C2106);
+  static const Color accentYellow = Color(0xFFFFC61A);
+  static const Color accentYellowLight = Color(0xFFFFE680);
+  static const Color accentYellowDark = Color(0xFFD08F00);
+  static const Color onAccentYellow = Color(0xFF2B1B00);
 
   // Brand Purples
-  static const Color neonPurple = Color(0xFF7351D8);
-  static const Color neonPurpleLight = Color(0xFFA78BFA);
-  static const Color lavender = Color(0xFFA78BFA);
-  static const Color neonPurpleDark = Color(0xFF4C1D95);
-  static const Color glowPurple = Color(0x737351D8);
+  static const Color neonPurple = Color(0xFF7C45F0);
+  static const Color neonPurpleLight = Color(0xFFC9A4FF);
+  static const Color lavender = Color(0xFFC9A4FF);
+  static const Color neonPurpleDark = Color(0xFF4520A8);
+  static const Color glowPurple = Color(0x8CA06BFF);
 
   // Semantic Status Colors
-  static const Color imposterRed = Color(0xFFFF626B);
+  static const Color imposterRed = Color(0xFFFF5A78);
   static const Color imposterRedDark = Color(0xFFB91C1C);
-  static const Color imposterBg = Color(0x2EFF626B);
+  static const Color imposterBg = Color(0x33FF5A78);
 
-  static const Color civilianEmerald = Color(0xFF62C99A);
+  static const Color civilianEmerald = Color(0xFF3FD98A);
   static const Color civilianEmeraldLight = Color(0xFF86E3B8);
-  static const Color civilianBg = Color(0x2E62C99A);
+  static const Color civilianBg = Color(0x333FD98A);
 
   static const Color infoBlue = Color(0xFF3B82F6);
-  static const Color warningOrange = Color(0xFFFFD166);
+  static const Color warningOrange = Color(0xFFFFC61A);
 
   // Typography Colors
   static const Color textPrimary = Color(0xFFF5F1FF);
-  static const Color textSecondary = Color(0xFFAAA3B8);
-  static const Color textSubtext = Color(0xFFAAA3B8);
-  static const Color textMuted = Color(0xFF6F688B);
+  static const Color textSecondary = Color(0xFFD3C2F2);
+  static const Color textSubtext = Color(0xFFCBB8EE);
+  static const Color textMuted = Color(0xFFA592CF);
 
   // Ambient Radial Scaffold Gradient
   static const RadialGradient scaffoldGradient = RadialGradient(
-    center: Alignment(0, -0.7),
-    radius: 1.2,
+    center: Alignment(0, -0.45),
+    radius: 1.1,
     colors: [
-      Color(0xFF2A2046),
-      Color(0xFF15131D),
-      Color(0xFF0E0D15),
+      Color(0xFF4A2585),
+      Color(0xFF23124A),
+      Color(0xFF140A2C),
     ],
   );
 
@@ -62,19 +62,18 @@ class HushbugColors {
     begin: Alignment.topCenter,
     end: Alignment.bottomCenter,
     colors: [
-      Color(0xFFFFE388),
-      Color(0xFFFFD166),
-      Color(0xFFE5B84A),
+      Color(0xFFFFE680),
+      Color(0xFFFFC61A),
     ],
   );
 
   // Neon Purple Button Gradient
   static const LinearGradient neonPurpleGradient = LinearGradient(
-    begin: Alignment.centerLeft,
-    end: Alignment.centerRight,
+    begin: Alignment.topCenter,
+    end: Alignment.bottomCenter,
     colors: [
-      Color(0xFF8B5CF6),
-      Color(0xFF6366F1),
+      Color(0xFF9B6BFF),
+      Color(0xFF6C3BE6),
     ],
   );
 }
@@ -126,10 +125,68 @@ ThemeData buildTheme(Brightness brightness, int accent, {bool amoled = false}) {
     colorScheme: scheme,
     useMaterial3: true,
     brightness: brightness,
-    fontFamily: 'Roboto',
+    fontFamily: 'Nunito',
+  );
+  // Fredoka for headings, timers and scores; Nunito for everything else.
+  final text = base.textTheme.copyWith(
+    displayLarge: base.textTheme.displayLarge?.copyWith(fontFamily: 'Fredoka', fontWeight: FontWeight.w700),
+    displayMedium: base.textTheme.displayMedium?.copyWith(fontFamily: 'Fredoka', fontWeight: FontWeight.w700),
+    displaySmall: base.textTheme.displaySmall?.copyWith(fontFamily: 'Fredoka', fontWeight: FontWeight.w600),
+    headlineLarge: base.textTheme.headlineLarge?.copyWith(fontFamily: 'Fredoka', fontWeight: FontWeight.w600),
+    headlineMedium: base.textTheme.headlineMedium?.copyWith(fontFamily: 'Fredoka', fontWeight: FontWeight.w600),
+    headlineSmall: base.textTheme.headlineSmall?.copyWith(fontFamily: 'Fredoka', fontWeight: FontWeight.w600),
+    titleLarge: base.textTheme.titleLarge?.copyWith(fontFamily: 'Fredoka', fontWeight: FontWeight.w600),
+  );
+  final glassShape = RoundedRectangleBorder(
+    borderRadius: BorderRadius.circular(28),
+    side: const BorderSide(color: HushbugColors.cardBorder, width: 1.5),
   );
 
   return base.copyWith(
+    textTheme: text,
+    dialogTheme: DialogThemeData(
+      backgroundColor: HushbugColors.cardSurface,
+      surfaceTintColor: Colors.transparent,
+      shape: glassShape,
+      titleTextStyle: const TextStyle(fontFamily: 'Fredoka', fontSize: 22, fontWeight: FontWeight.w600, color: HushbugColors.textPrimary),
+      contentTextStyle: const TextStyle(fontFamily: 'Nunito', fontSize: 15, fontWeight: FontWeight.w600, color: HushbugColors.textSecondary),
+    ),
+    bottomSheetTheme: const BottomSheetThemeData(
+      backgroundColor: HushbugColors.cardSurface,
+      surfaceTintColor: Colors.transparent,
+      showDragHandle: true,
+      dragHandleColor: HushbugColors.cardBorder,
+      shape: RoundedRectangleBorder(borderRadius: BorderRadius.vertical(top: Radius.circular(28))),
+    ),
+    snackBarTheme: SnackBarThemeData(
+      backgroundColor: HushbugColors.cardSurfaceElevated,
+      contentTextStyle: const TextStyle(fontFamily: 'Nunito', fontSize: 14, fontWeight: FontWeight.w700, color: HushbugColors.textPrimary),
+      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(18), side: const BorderSide(color: HushbugColors.cardBorder)),
+      behavior: SnackBarBehavior.floating,
+    ),
+    switchTheme: SwitchThemeData(
+      thumbColor: WidgetStateProperty.resolveWith((s) => s.contains(WidgetState.selected) ? HushbugColors.accentYellow : HushbugColors.textMuted),
+      trackColor: WidgetStateProperty.resolveWith((s) => s.contains(WidgetState.selected) ? HushbugColors.neonPurple : HushbugColors.cardSurfaceElevated),
+      trackOutlineColor: const WidgetStatePropertyAll(HushbugColors.cardBorder),
+    ),
+    segmentedButtonTheme: SegmentedButtonThemeData(
+      style: ButtonStyle(
+        backgroundColor: WidgetStateProperty.resolveWith((s) => s.contains(WidgetState.selected) ? HushbugColors.neonPurple : HushbugColors.cardSurface),
+        foregroundColor: const WidgetStatePropertyAll(Colors.white),
+        side: const WidgetStatePropertyAll(BorderSide(color: HushbugColors.cardBorder)),
+        textStyle: const WidgetStatePropertyAll(TextStyle(fontFamily: 'Nunito', fontWeight: FontWeight.w800)),
+      ),
+    ),
+    textButtonTheme: TextButtonThemeData(
+      style: TextButton.styleFrom(
+        foregroundColor: HushbugColors.neonPurpleLight,
+        minimumSize: const Size(48, 48),
+        textStyle: const TextStyle(fontFamily: 'Nunito', fontWeight: FontWeight.w800, fontSize: 15),
+      ),
+    ),
+    listTileTheme: const ListTileThemeData(iconColor: HushbugColors.neonPurpleLight, textColor: HushbugColors.textPrimary),
+    sliderTheme: const SliderThemeData(activeTrackColor: HushbugColors.accentYellow, thumbColor: HushbugColors.accentYellow, inactiveTrackColor: HushbugColors.cardSurfaceElevated),
+    progressIndicatorTheme: const ProgressIndicatorThemeData(color: HushbugColors.neonPurpleLight),
     scaffoldBackgroundColor: amoled ? Colors.black : HushbugColors.background,
     appBarTheme: AppBarTheme(
       backgroundColor: Colors.transparent,
@@ -137,7 +194,8 @@ ThemeData buildTheme(Brightness brightness, int accent, {bool amoled = false}) {
       elevation: 0,
       centerTitle: true,
       titleTextStyle: base.textTheme.titleLarge?.copyWith(
-        fontWeight: FontWeight.w800,
+        fontFamily: 'Fredoka',
+        fontWeight: FontWeight.w600,
         color: HushbugColors.textPrimary,
         letterSpacing: 0.2,
       ),
@@ -147,16 +205,16 @@ ThemeData buildTheme(Brightness brightness, int accent, {bool amoled = false}) {
       elevation: 0,
       color: HushbugColors.cardSurface,
       shape: RoundedRectangleBorder(
-        borderRadius: BorderRadius.circular(24),
-        side: const BorderSide(color: HushbugColors.cardBorder, width: 1.2),
+        borderRadius: BorderRadius.circular(28),
+        side: const BorderSide(color: HushbugColors.cardBorder, width: 1.5),
       ),
       margin: EdgeInsets.zero,
     ),
     filledButtonTheme: FilledButtonThemeData(
       style: FilledButton.styleFrom(
         minimumSize: const Size(64, 52),
-        textStyle: const TextStyle(fontSize: 16, fontWeight: FontWeight.w800),
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(18)),
+        textStyle: const TextStyle(fontFamily: 'Fredoka', fontSize: 17, fontWeight: FontWeight.w600),
+        shape: const StadiumBorder(),
         backgroundColor: HushbugColors.neonPurple,
         foregroundColor: Colors.white,
       ),
@@ -177,7 +235,7 @@ ThemeData buildTheme(Brightness brightness, int accent, {bool amoled = false}) {
     ),
     inputDecorationTheme: InputDecorationTheme(
       filled: true,
-      fillColor: const Color(0xFF1B162E),
+      fillColor: const Color(0xFF1E1140),
       border: OutlineInputBorder(
         borderRadius: BorderRadius.circular(16),
         borderSide: const BorderSide(color: HushbugColors.cardBorder, width: 1.2),

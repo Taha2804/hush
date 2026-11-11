@@ -1,5 +1,6 @@
 import 'dart:math' as math;
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../app/providers.dart';
@@ -66,87 +67,128 @@ class _TactileButtonState extends State<TactileButton> with SingleTickerProvider
     List<BoxShadow> shadows = [];
     Border? border;
 
+    Color edge; // the darker "3D" lip under the pill
+    Color glow;
     switch (widget.style) {
       case TactileButtonStyle.golden:
         gradient = HushbugColors.goldButtonGradient;
         textColor = HushbugColors.onAccentYellow;
-        shadows = [
-          const BoxShadow(color: Color(0x66FFD166), blurRadius: 20, offset: Offset(0, 8)),
-          const BoxShadow(color: Color(0x33000000), blurRadius: 6, offset: Offset(0, 2)),
-        ];
+        edge = HushbugColors.accentYellowDark;
+        glow = const Color(0x73FFC61A);
         break;
       case TactileButtonStyle.neonPurple:
         gradient = HushbugColors.neonPurpleGradient;
         textColor = Colors.white;
-        border = Border.all(color: HushbugColors.cardBorderActive.withValues(alpha: 0.5), width: 1.2);
-        shadows = [
-          const BoxShadow(color: Color(0x557351D8), blurRadius: 18, offset: Offset(0, 6)),
-        ];
+        edge = HushbugColors.neonPurpleDark;
+        glow = const Color(0x668250FF);
         break;
       case TactileButtonStyle.secondary:
-        solidColor = HushbugColors.cardSurfaceElevated;
-        textColor = HushbugColors.textSecondary;
-        border = Border.all(color: HushbugColors.cardBorder, width: 1.5);
-        shadows = [
-          const BoxShadow(color: Color(0x33000000), blurRadius: 8, offset: Offset(0, 4)),
-        ];
+        gradient = const LinearGradient(begin: Alignment.topCenter, end: Alignment.bottomCenter, colors: [Color(0xFF4A3388), Color(0xFF34226A)]);
+        textColor = const Color(0xFFEDE3FF);
+        edge = const Color(0xFF1E1046);
+        glow = const Color(0x33A06BFF);
+        border = Border.all(color: const Color(0x59D9C2FF), width: 1.2);
         break;
       case TactileButtonStyle.danger:
-        solidColor = HushbugColors.imposterRed;
+        gradient = const LinearGradient(begin: Alignment.topCenter, end: Alignment.bottomCenter, colors: [Color(0xFFFF7A92), Color(0xFFE0364F)]);
         textColor = Colors.white;
-        shadows = [
-          BoxShadow(color: HushbugColors.imposterRed.withValues(alpha: 0.5), blurRadius: 16, offset: const Offset(0, 6)),
-        ];
+        edge = const Color(0xFFA51E36);
+        glow = const Color(0x66FF5A78);
         break;
     }
+    if (!enabled) {
+      gradient = const LinearGradient(colors: [Color(0xFF3A2A66), Color(0xFF3A2A66)]);
+      textColor = const Color(0xFFA592CF);
+      edge = const Color(0xFF1E1046);
+      glow = Colors.transparent;
+      border = null;
+    }
+    final radius = BorderRadius.circular(widget.height / 2);
+    const lip = 6.0;
 
-    return GestureDetector(
-      onTapDown: enabled ? (_) => _controller.forward() : null,
-      onTapUp: enabled
-          ? (_) {
-              _controller.reverse();
-              widget.onPressed?.call();
-            }
-          : null,
-      onTapCancel: enabled ? () => _controller.reverse() : null,
-      child: AnimatedBuilder(
-        animation: _scale,
-        builder: (context, child) => Transform.scale(
-          scale: _scale.value,
-          child: child,
-        ),
-        child: Container(
-          height: widget.height,
-          decoration: BoxDecoration(
-            gradient: gradient,
-            color: solidColor,
-            borderRadius: BorderRadius.circular(20),
-            border: border,
-            boxShadow: shadows,
-          ),
-          padding: const EdgeInsets.symmetric(horizontal: 20),
-          child: Row(
-            mainAxisAlignment: MainAxisAlignment.center,
-            mainAxisSize: MainAxisSize.max,
-            children: [
-              if (widget.icon != null) ...[
-                widget.icon!,
-                const SizedBox(width: 8),
-              ],
-              DefaultTextStyle(
-                style: TextStyle(
-                  color: textColor,
-                  fontSize: 16,
-                  fontWeight: FontWeight.w800,
-                  letterSpacing: 0.3,
+    return Semantics(
+      button: true,
+      enabled: enabled,
+      child: GestureDetector(
+        onTapDown: enabled
+            ? (_) {
+                _controller.forward();
+                HapticFeedback.lightImpact();
+              }
+            : null,
+        onTapUp: enabled
+            ? (_) {
+                _controller.reverse();
+                widget.onPressed?.call();
+              }
+            : null,
+        onTapCancel: enabled ? () => _controller.reverse() : null,
+        child: AnimatedBuilder(
+          animation: _controller,
+          // Pressing sinks the pill onto its lip instead of shrinking it.
+          builder: (context, child) => SizedBox(
+            height: widget.height + lip,
+            child: Stack(children: [
+              Positioned(
+                left: 0,
+                right: 0,
+                bottom: 0,
+                height: widget.height,
+                child: DecoratedBox(
+                  decoration: BoxDecoration(
+                    color: edge,
+                    borderRadius: radius,
+                    boxShadow: [BoxShadow(color: glow, blurRadius: 22, offset: const Offset(0, 6))],
+                  ),
                 ),
-                child: widget.child,
               ),
-              if (widget.badge != null) ...[
-                const SizedBox(width: 8),
-                widget.badge!,
+              Positioned(left: 0, right: 0, top: lip * _controller.value, height: widget.height, child: child!),
+            ]),
+          ),
+          child: Container(
+            decoration: BoxDecoration(
+              gradient: gradient,
+              color: solidColor,
+              borderRadius: radius,
+              border: border,
+            ),
+            foregroundDecoration: BoxDecoration(
+              borderRadius: radius,
+              gradient: const LinearGradient(
+                begin: Alignment.topCenter,
+                end: Alignment.center,
+                colors: [Color(0x40FFFFFF), Color(0x00FFFFFF)],
+              ),
+            ),
+            padding: const EdgeInsets.symmetric(horizontal: 20),
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              mainAxisSize: MainAxisSize.max,
+              children: [
+                if (widget.icon != null) ...[
+                  IconTheme.merge(data: IconThemeData(color: textColor), child: widget.icon!),
+                  const SizedBox(width: 8),
+                ],
+                Flexible(
+                  child: DefaultTextStyle(
+                    style: TextStyle(
+                      fontFamily: 'Fredoka',
+                      color: textColor,
+                      fontSize: 18,
+                      fontWeight: FontWeight.w600,
+                      letterSpacing: 0.2,
+                    ),
+                    maxLines: 1,
+                    overflow: TextOverflow.ellipsis,
+                    child: widget.child,
+                  ),
+                ),
+                if (widget.badge != null) ...[
+                  const SizedBox(width: 8),
+                  widget.badge!,
+                ],
               ],
-            ],
+            ),
           ),
         ),
       ),
