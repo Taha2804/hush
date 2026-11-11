@@ -4,6 +4,7 @@
  "words": [
   {
    "word": "Lion",
+   "description": "Wild animal • Big cat • Lives in a pride • Loud roar • Golden mane • Savanna king",
    "hints": [
     {
      "text": "Wild animal",
@@ -38,6 +39,7 @@
   },
   {
    "word": "Tiger",
+   "description": "Wild animal • Big cat • Jungle hunter • Endangered species • Orange with stripes • Loves to swim",
    "hints": [
     {
      "text": "Wild animal",
@@ -72,6 +74,7 @@
   },
   {
    "word": "Elephant",
+   "description": "Huge mammal • Gentle giant • Great memory • Lives in herds • Long trunk • Ivory tusks",
    "hints": [
     {
      "text": "Huge mammal",
@@ -106,6 +109,7 @@
   },
   {
    "word": "Giraffe",
+   "description": "African mammal • Tall animal • Eats tree leaves • Spotted coat • Very long neck • Tiny horns",
    "hints": [
     {
      "text": "African mammal",
@@ -140,6 +144,7 @@
   },
   {
    "word": "Zebra",
+   "description": "African mammal • Grazing animal • Lives in herds • Related to horses • Black and white • Striped coat",
    "hints": [
     {
      "text": "African mammal",
@@ -174,6 +179,7 @@
   },
   {
    "word": "Monkey",
+   "description": "Clever mammal • Jungle animal • Swings from trees • Loves bananas • Long tail • Playful primate",
    "hints": [
     {
      "text": "Clever mammal",
@@ -208,6 +214,7 @@
   },
   {
    "word": "Gorilla",
+   "description": "Big primate • Forest mammal • Beats its chest • Very strong • Silverback leader • Knuckle walker",
    "hints": [
     {
      "text": "Big primate",
@@ -242,6 +249,7 @@
   },
   {
    "word": "Kangaroo",
+   "description": "Pouched mammal • Outback animal • Hops around • Carries baby joey • Powerful tail • Boxing legs",
    "hints": [
     {
      "text": "Pouched mammal",
@@ -276,6 +284,7 @@
   },
   {
    "word": "Koala",
+   "description": "Tree mammal • Cuddly animal • Sleeps all day • Australian native • Eats eucalyptus • Fluffy ears",
    "hints": [
     {
      "text": "Tree mammal",
@@ -310,6 +319,7 @@
   },
   {
    "word": "Panda",
+   "description": "Black and white • Bear species • Mostly in bamboo forests • Endangered icon • Eats bamboo • Eye patches",
    "hints": [
     {
      "text": "Black and white",
@@ -344,6 +354,7 @@
   },
   {
    "word": "Polar bear",
+   "description": "Arctic mammal • Big predator • Hunts seals • Lives on ice • White fur • Strong swimmer",
    "hints": [
     {
      "text": "Arctic mammal",
@@ -378,6 +389,7 @@
   },
   {
    "word": "Penguin",
+   "description": "Flightless bird • Cold animal • Waddles around • Lives in colonies • Tuxedo look • Slides on belly",
    "hints": [
     {
      "text": "Flightless bird",
@@ -412,6 +424,7 @@
   },
   {
    "word": "Dolphin",
+   "description": "Sea mammal • Smart animal • Clicks and whistles • Swims in pods • Curved fin • Jumps through waves",
    "hints": [
     {
      "text": "Sea mammal",
@@ -446,6 +459,7 @@
   },
   {
    "word": "Shark",
+   "description": "Sea predator • Ocean fish • Feared by swimmers • Never stops swimming • Rows of teeth • Dorsal fin",
    "hints": [
     {
      "text": "Sea predator",
@@ -480,6 +494,7 @@
   },
   {
    "word": "Whale",
+   "description": "Sea mammal • Ocean giant • Sings underwater • Migrates far • Blowhole spray • Huge tail fluke",
    "hints": [
     {
      "text": "Sea mammal",
@@ -514,6 +529,7 @@
   },
   {
    "word": "Octopus",
+   "description": "Sea creature • Soft animal • Very clever • Changes color • Eight arms • Squirts ink",
    "hints": [
     {
      "text": "Sea creature",
@@ -548,6 +564,7 @@
   },
   {
    "word": "Jellyfish",
+   "description": "Sea creature • Drifting animal • Can sting you • No brain • Clear blobby body • Long tentacles",
    "hints": [
     {
      "text": "Sea creature",
@@ -582,6 +599,7 @@
   },
   {
    "word": "Crab",
+   "description": "Sea creature • Shelled animal • Lives on beaches • Has claws • Walks sideways • Pinching pincers",
    "hints": [
     {
      "text": "Sea creature",
@@ -616,6 +634,7 @@
   },
   {
    "word": "Lobster",
+   "description": "Sea creature • Shellfish • Fancy seafood • Turns red when cooked • Big claws • Long antennae",
    "hints": [
     {
      "text": "Sea creature",
@@ -650,6 +669,7 @@
   },
   {
    "word": "Turtle",
+   "description": "Reptile • Slow animal • Lives very long • Lays eggs on beaches • Hard shell • Hides its head",
    "hints": [
     {
      "text": "Reptile",
@@ -684,6 +704,7 @@
   },
   {
    "word": "Crocodile",
+   "description": "Reptile • River predator • Lurks in water • Ancient creature • Powerful jaws • Scaly back",
    "hints": [
     {
      "text": "Reptile",
@@ -718,6 +739,7 @@
   },
   {
    "word": "Snake",
+   "description": "Reptile • Legless animal • Sheds its skin • Can be venomous • Forked tongue • Slithers along",
    "hints": [
     {
      "text": "Reptile",
@@ -752,6 +774,7 @@
   },
   {
    "word": "Frog",
+   "description": "Amphibian • Pond animal • Starts as tadpole • Loud croaker • Long sticky tongue • Great jumper",
    "hints": [
     {
      "text": "Amphibian",
@@ -786,6 +809,7 @@
   },
   {
    "word": "Owl",
+   "description": "Night bird • Bird of prey • Seen as wise • Silent flyer • Turns head around • Big round eyes",
    "hints": [
     {
      "text": "Night bird",
@@ -820,6 +844,7 @@
   },
   {
    "word": "Eagle",
+   "description": "Bird of prey • Sky hunter • National symbol • Builds huge nests • Sharp talons • Sharp eyesight",
    "hints": [
     {
      "text": "Bird of prey",
@@ -854,6 +879,7 @@
   },
   {
    "word": "Parrot",
+   "description": "Colorful bird • Tropical bird • Can mimic speech • Popular pet • Curved beak • Bright feathers",
    "hints": [
     {
      "text": "Colorful bird",
@@ -888,6 +914,7 @@
   },
   {
    "word": "Peacock",
+   "description": "Colorful bird • Showy bird • Shows off to mates • National bird somewhere • Fan of feathers • Eye spots",
    "hints": [
     {
      "text": "Colorful bird",
@@ -922,6 +949,7 @@
   },
   {
    "word": "Flamingo",
+   "description": "Wading bird • Tropical bird • Lives in flocks • Eats shrimp • Pink feathers • Stands on one leg",
    "hints": [
     {
      "text": "Wading bird",
@@ -956,6 +984,7 @@
   },
   {
    "word": "Ostrich",
+   "description": "Flightless bird • Huge bird • Runs very fast • Lays giant eggs • Long neck • Buries head myth",
    "hints": [
     {
      "text": "Flightless bird",
@@ -990,6 +1019,7 @@
   },
   {
    "word": "Bat",
+   "description": "Night animal • Flying mammal • Sleeps upside down • Lives in caves • Echolocation • Leathery wings",
    "hints": [
     {
      "text": "Night animal",
@@ -1024,6 +1054,7 @@
   },
   {
    "word": "Wolf",
+   "description": "Wild canine • Forest predator • Hunts in packs • Howls at night • Alpha leader • Grey fur",
    "hints": [
     {
      "text": "Wild canine",
@@ -1058,6 +1089,7 @@
   },
   {
    "word": "Fox",
+   "description": "Wild canine • Clever animal • Sneaky trickster • Hunts at dusk • Bushy tail • Reddish fur",
    "hints": [
     {
      "text": "Wild canine",
@@ -1092,6 +1124,7 @@
   },
   {
    "word": "Bear",
+   "description": "Big mammal • Forest animal • Hibernates in winter • Loves honey • Sharp claws • Stands on hind legs",
    "hints": [
     {
      "text": "Big mammal",
@@ -1126,6 +1159,7 @@
   },
   {
    "word": "Deer",
+   "description": "Forest mammal • Grazing animal • Shy and quick • Hunted for sport • Branching antlers • White tail",
    "hints": [
     {
      "text": "Forest mammal",
@@ -1160,6 +1194,7 @@
   },
   {
    "word": "Moose",
+   "description": "Forest mammal • Big deer • Lives in cold forests • Strong swimmer • Huge flat antlers • Dangling dewlap",
    "hints": [
     {
      "text": "Forest mammal",
@@ -1194,6 +1229,7 @@
   },
   {
    "word": "Rabbit",
+   "description": "Small mammal • Furry pet • Breeds quickly • Loves carrots • Long ears • Fluffy tail",
    "hints": [
     {
      "text": "Small mammal",
@@ -1228,6 +1264,7 @@
   },
   {
    "word": "Squirrel",
+   "description": "Small mammal • Tree climber • Stores food • Lives in parks • Bushy tail • Hoards acorns",
    "hints": [
     {
      "text": "Small mammal",
@@ -1262,6 +1299,7 @@
   },
   {
    "word": "Mouse",
+   "description": "Small mammal • Tiny rodent • Loves cheese • Afraid of cats • Squeaky noise • Long thin tail",
    "hints": [
     {
      "text": "Small mammal",
@@ -1296,6 +1334,7 @@
   },
   {
    "word": "Hamster",
+   "description": "Small mammal • Pocket pet • Runs on wheel • Kept in cages • Stuffs its cheeks • Tiny paws",
    "hints": [
     {
      "text": "Small mammal",
@@ -1330,6 +1369,7 @@
   },
   {
    "word": "Horse",
+   "description": "Farm animal • Riding animal • Gallops fast • Eats hay • Has hooves • Flowing mane",
    "hints": [
     {
      "text": "Farm animal",
@@ -1364,6 +1404,7 @@
   },
   {
    "word": "Cow",
+   "description": "Farm animal • Grazing animal • Gives milk • Says moo • Has udders • Chews cud",
    "hints": [
     {
      "text": "Farm animal",
@@ -1398,6 +1439,7 @@
   },
   {
    "word": "Pig",
+   "description": "Farm animal • Muddy animal • Rolls in mud • Says oink • Curly tail • Pink snout",
    "hints": [
     {
      "text": "Farm animal",
@@ -1432,6 +1474,7 @@
   },
   {
    "word": "Sheep",
+   "description": "Farm animal • Woolly animal • Counted to sleep • Moves in flocks • Fluffy fleece • Says baa",
    "hints": [
     {
      "text": "Farm animal",
@@ -1466,6 +1509,7 @@
   },
   {
    "word": "Goat",
+   "description": "Farm animal • Climbing animal • Eats almost anything • Gives milk • Little beard • Curved horns",
    "hints": [
     {
      "text": "Farm animal",
@@ -1500,6 +1544,7 @@
   },
   {
    "word": "Chicken",
+   "description": "Farm bird • Poultry • Lays eggs • Clucks around • Red comb • Pecks seeds",
    "hints": [
     {
      "text": "Farm bird",
@@ -1534,6 +1579,7 @@
   },
   {
    "word": "Duck",
+   "description": "Water bird • Pond bird • Says quack • Swims in ponds • Webbed feet • Flat bill",
    "hints": [
     {
      "text": "Water bird",
@@ -1568,6 +1614,7 @@
   },
   {
    "word": "Swan",
+   "description": "Water bird • Graceful bird • Mates for life • Glides on lakes • Long curved neck • White feathers",
    "hints": [
     {
      "text": "Water bird",
@@ -1602,6 +1649,7 @@
   },
   {
    "word": "Camel",
+   "description": "Desert animal • Riding animal • Survives without water • Carries loads • One or two humps • Long eyelashes",
    "hints": [
     {
      "text": "Desert animal",
@@ -1636,6 +1684,7 @@
   },
   {
    "word": "Llama",
+   "description": "Andean animal • Woolly animal • Spits when annoyed • Pack animal • Long neck • Fluffy coat",
    "hints": [
     {
      "text": "Andean animal",
@@ -1670,6 +1719,7 @@
   },
   {
    "word": "Hippo",
+   "description": "African mammal • River animal • Very dangerous • Wallows in water • Giant mouth • Barrel body",
    "hints": [
     {
      "text": "African mammal",
@@ -1704,6 +1754,7 @@
   },
   {
    "word": "Rhino",
+   "description": "African mammal • Armored animal • Endangered species • Charges at threats • Horn on nose • Thick grey skin",
    "hints": [
     {
      "text": "African mammal",
@@ -1738,6 +1789,7 @@
   },
   {
    "word": "Cheetah",
+   "description": "Big cat • Wild hunter • Fastest on land • Hunts in daylight • Black tear marks • Spotted coat",
    "hints": [
     {
      "text": "Big cat",
@@ -1772,6 +1824,7 @@
   },
   {
    "word": "Leopard",
+   "description": "Big cat • Wild hunter • Drags prey up trees • Stealthy • Rosette spots • Golden coat",
    "hints": [
     {
      "text": "Big cat",
@@ -1806,6 +1859,7 @@
   },
   {
    "word": "Sloth",
+   "description": "Rainforest mammal • Tree dweller • Super slow • Sleeps a lot • Hangs upside down • Long claws",
    "hints": [
     {
      "text": "Rainforest mammal",
@@ -1840,6 +1894,7 @@
   },
   {
    "word": "Raccoon",
+   "description": "Night animal • Clever mammal • Raids trash cans • Washes its food • Masked face • Ringed tail",
    "hints": [
     {
      "text": "Night animal",
@@ -1874,6 +1929,7 @@
   },
   {
    "word": "Skunk",
+   "description": "Small mammal • Night animal • Smells terrible • Sprays when scared • Black with white stripe • Bushy tail",
    "hints": [
     {
      "text": "Small mammal",
@@ -1908,6 +1964,7 @@
   },
   {
    "word": "Hedgehog",
+   "description": "Small mammal • Garden animal • Curls into ball • Eats insects • Covered in spines • Tiny snout",
    "hints": [
     {
      "text": "Small mammal",
@@ -1942,6 +1999,7 @@
   },
   {
    "word": "Porcupine",
+   "description": "Rodent • Spiky animal • Defends itself well • Climbs trees • Sharp quills • Rattles its tail",
    "hints": [
     {
      "text": "Rodent",
@@ -1976,6 +2034,7 @@
   },
   {
    "word": "Beaver",
+   "description": "Rodent • River animal • Builds dams • Busy worker • Flat paddle tail • Big front teeth",
    "hints": [
     {
      "text": "Rodent",
@@ -2010,6 +2069,7 @@
   },
   {
    "word": "Otter",
+   "description": "River mammal • Playful animal • Holds hands sleeping • Uses rocks as tools • Floats on back • Thick fur",
    "hints": [
     {
      "text": "River mammal",
@@ -2044,6 +2104,7 @@
   },
   {
    "word": "Seal",
+   "description": "Sea mammal • Marine animal • Barks loudly • Basks on rocks • Flippers • Whiskered face",
    "hints": [
     {
      "text": "Sea mammal",
@@ -2078,6 +2139,7 @@
   },
   {
    "word": "Walrus",
+   "description": "Arctic mammal • Marine animal • Lives on ice floes • Very heavy • Long tusks • Bushy whiskers",
    "hints": [
     {
      "text": "Arctic mammal",
@@ -2112,6 +2174,7 @@
   },
   {
    "word": "Butterfly",
+   "description": "Insect • Flying bug • Starts as caterpillar • Visits flowers • Colorful wings • Thin antennae",
    "hints": [
     {
      "text": "Insect",
@@ -2146,6 +2209,7 @@
   },
   {
    "word": "Bee",
+   "description": "Insect • Buzzing bug • Lives in a hive • Pollinates flowers • Makes honey • Has a stinger",
    "hints": [
     {
      "text": "Insect",
@@ -2180,6 +2244,7 @@
   },
   {
    "word": "Ant",
+   "description": "Insect • Tiny bug • Lives in colonies • Very hard working • Carries huge loads • Follows trails",
    "hints": [
     {
      "text": "Insect",
@@ -2214,6 +2279,7 @@
   },
   {
    "word": "Spider",
+   "description": "Arachnid • Creepy crawly • Catches flies • Many people fear it • Eight legs • Spins webs",
    "hints": [
     {
      "text": "Arachnid",
@@ -2248,6 +2314,7 @@
   },
   {
    "word": "Ladybug",
+   "description": "Insect • Garden bug • Considered lucky • Eats aphids • Red with spots • Round shell",
    "hints": [
     {
      "text": "Insect",
@@ -2282,6 +2349,7 @@
   },
   {
    "word": "Mosquito",
+   "description": "Insect • Pesky bug • Spreads disease • Buzzes in ears • Itchy bites • Sucks blood",
    "hints": [
     {
      "text": "Insect",
@@ -2316,6 +2384,7 @@
   },
   {
    "word": "Snail",
+   "description": "Mollusk • Slow creature • Comes out in rain • Garden pest • Spiral shell • Slimy trail",
    "hints": [
     {
      "text": "Mollusk",
@@ -2350,6 +2419,7 @@
   },
   {
    "word": "Worm",
+   "description": "Soil creature • Wriggly animal • Bait for fishing • Good for gardens • No legs • Lives underground",
    "hints": [
     {
      "text": "Soil creature",
@@ -2384,6 +2454,7 @@
   },
   {
    "word": "Scorpion",
+   "description": "Arachnid • Desert creature • Glows under blacklight • Hides under rocks • Curved stinger • Pincers",
    "hints": [
     {
      "text": "Arachnid",
@@ -2418,6 +2489,7 @@
   },
   {
    "word": "Chameleon",
+   "description": "Reptile • Tree lizard • Changes color • Moves slowly • Eyes move separately • Curly tail",
    "hints": [
     {
      "text": "Reptile",
@@ -2452,6 +2524,7 @@
   },
   {
    "word": "Iguana",
+   "description": "Reptile • Large lizard • Basks in sun • Popular exotic pet • Spiky back • Dewlap under chin",
    "hints": [
     {
      "text": "Reptile",
@@ -2486,6 +2559,7 @@
   },
   {
    "word": "Gecko",
+   "description": "Reptile • Small lizard • Clings to walls • Makes chirping sounds • Sticky toe pads • Licks its eyes",
    "hints": [
     {
      "text": "Reptile",
@@ -2520,6 +2594,7 @@
   },
   {
    "word": "Alligator",
+   "description": "Reptile • Swamp predator • Lives in marshes • Ancient hunter • Rounded snout • Armored back",
    "hints": [
     {
      "text": "Reptile",
@@ -2554,6 +2629,7 @@
   },
   {
    "word": "Pelican",
+   "description": "Water bird • Coastal bird • Dives for fish • Flies in lines • Big throat pouch • Long beak",
    "hints": [
     {
      "text": "Water bird",
@@ -2588,6 +2664,7 @@
   },
   {
    "word": "Seagull",
+   "description": "Coastal bird • Beach bird • Steals your chips • Loud squawks • White and grey • Hovers over waves",
    "hints": [
     {
      "text": "Coastal bird",
@@ -2622,6 +2699,7 @@
   },
   {
    "word": "Pigeon",
+   "description": "City bird • Common bird • Carried messages • Gathers in squares • Cooing sound • Bobbing head",
    "hints": [
     {
      "text": "City bird",
@@ -2656,6 +2734,7 @@
   },
   {
    "word": "Crow",
+   "description": "Black bird • Clever bird • Uses tools • Very loud caw • Shiny black feathers • Scares farmers",
    "hints": [
     {
      "text": "Black bird",
@@ -2690,6 +2769,7 @@
   },
   {
    "word": "Hummingbird",
+   "description": "Small flyer • Flower visitor • Drinks nectar • Hovers in place • Wings beat super fast • Long thin beak",
    "hints": [
     {
      "text": "Small flyer",
@@ -2724,6 +2804,7 @@
   },
   {
    "word": "Woodpecker",
+   "description": "Forest bird • Tree bird • Drums on trees • Eats insects • Strong pointy beak • Red head patch",
    "hints": [
     {
      "text": "Forest bird",
@@ -2758,6 +2839,7 @@
   },
   {
    "word": "Toucan",
+   "description": "Tropical bird • Rainforest bird • Eats fruit • Lives in canopy • Huge colorful beak • Black body",
    "hints": [
     {
      "text": "Tropical bird",
@@ -2792,6 +2874,7 @@
   },
   {
    "word": "Kiwi",
+   "description": "Flightless bird • Island bird • Night forager • National symbol • Long thin beak • Fuzzy brown feathers",
    "hints": [
     {
      "text": "Flightless bird",
@@ -2826,6 +2909,7 @@
   },
   {
    "word": "Vulture",
+   "description": "Bird of prey • Scavenger • Circles overhead • Cleans up carcasses • Bald head • Broad wings",
    "hints": [
     {
      "text": "Bird of prey",
@@ -2860,6 +2944,7 @@
   },
   {
    "word": "Swallow",
+   "description": "Small bird • Migratory bird • Signals summer • Catches insects midair • Forked tail • Mud nests",
    "hints": [
     {
      "text": "Small bird",
@@ -2894,6 +2979,7 @@
   },
   {
    "word": "Goldfish",
+   "description": "Aquarium pet • Freshwater swimmer • Kept in bowls • Short memory myth • Orange scales • Flowing fins",
    "hints": [
     {
      "text": "Aquarium pet",
@@ -2928,6 +3014,7 @@
   },
   {
    "word": "Salmon",
+   "description": "Fish • River swimmer • Swims upstream • Popular seafood • Pink flesh • Leaps waterfalls",
    "hints": [
     {
      "text": "Fish",
@@ -2962,6 +3049,7 @@
   },
   {
    "word": "Tuna",
+   "description": "Ocean fish • Seafood • Fast swimmer • Comes in cans • Huge and silver • Sushi favorite",
    "hints": [
     {
      "text": "Ocean fish",
@@ -2996,6 +3084,7 @@
   },
   {
    "word": "Swordfish",
+   "description": "Ocean swimmer • Big game catch • Very fast swimmer • Sport fishing prize • Long pointed bill • Sleek body",
    "hints": [
     {
      "text": "Ocean swimmer",
@@ -3030,6 +3119,7 @@
   },
   {
    "word": "Starfish",
+   "description": "Sea creature • Tide pool animal • Regrows lost arms • Lives on reefs • Five arms • Pointy outline",
    "hints": [
     {
      "text": "Sea creature",
@@ -3064,6 +3154,7 @@
   },
   {
    "word": "Seahorse",
+   "description": "Sea creature • Tiny fish • Dad carries babies • Grips seagrass • Curled tail • Upright swimmer",
    "hints": [
     {
      "text": "Sea creature",
@@ -3098,6 +3189,7 @@
   },
   {
    "word": "Squid",
+   "description": "Sea creature • Ocean dweller • Fried as calamari • Squirts ink • Ten arms • Torpedo body",
    "hints": [
     {
      "text": "Sea creature",
@@ -3132,6 +3224,7 @@
   },
   {
    "word": "Eel",
+   "description": "Sea creature • Long fish • Can give shocks • Hides in rocks • Slippery body • Snake shaped",
    "hints": [
     {
      "text": "Sea creature",
@@ -3166,6 +3259,7 @@
   },
   {
    "word": "Orca",
+   "description": "Ocean predator • Sea mammal • Hunts in pods • Very intelligent • Black and white • Tall dorsal fin",
    "hints": [
     {
      "text": "Ocean predator",
@@ -3200,6 +3294,7 @@
   },
   {
    "word": "Panther",
+   "description": "Big cat • Wild hunter • Stealthy stalker • Night hunter • All black coat • Glowing eyes",
    "hints": [
     {
      "text": "Big cat",
@@ -3234,6 +3329,7 @@
   },
   {
    "word": "Jaguar",
+   "description": "Big cat • Rainforest hunter • Strong swimmer • Powerful bite • Spotted rosettes • Stocky body",
    "hints": [
     {
      "text": "Big cat",
@@ -3268,6 +3364,7 @@
   },
   {
    "word": "Hyena",
+   "description": "African mammal • Scavenger • Sounds like laughing • Hunts in clans • Spotted fur • Strong jaws",
    "hints": [
     {
      "text": "African mammal",
@@ -3302,6 +3399,7 @@
   },
   {
    "word": "Meerkat",
+   "description": "Desert mammal • Small animal • Lives in burrows • Takes turns on guard • Stands upright • Peeks around",
    "hints": [
     {
      "text": "Desert mammal",
@@ -3336,6 +3434,7 @@
   },
   {
    "word": "Armadillo",
+   "description": "Armored mammal • Desert animal • Digs burrows • Rolls into ball • Bony shell • Long snout",
    "hints": [
     {
      "text": "Armored mammal",
@@ -3370,6 +3469,7 @@
   },
   {
    "word": "Anteater",
+   "description": "Odd mammal • South american animal • Eats termites • Has no teeth • Very long tongue • Long snout",
    "hints": [
     {
      "text": "Odd mammal",
@@ -3404,6 +3504,7 @@
   },
   {
    "word": "Bison",
+   "description": "Big mammal • Grazing animal • Roams prairies • Once nearly extinct • Shaggy hump • Short horns",
    "hints": [
     {
      "text": "Big mammal",
@@ -3438,6 +3539,7 @@
   },
   {
    "word": "Buffalo",
+   "description": "Big mammal • Grazing animal • Wallows in mud • Used on farms • Big curved horns • Dark hide",
    "hints": [
     {
      "text": "Big mammal",
@@ -3472,6 +3574,7 @@
   },
   {
    "word": "Yak",
+   "description": "Mountain mammal • Shaggy animal • Lives at high altitude • Pack animal • Long hairy coat • Big horns",
    "hints": [
     {
      "text": "Mountain mammal",
@@ -3506,6 +3609,7 @@
   },
   {
    "word": "Donkey",
+   "description": "Farm animal • Working animal • Very stubborn • Carries loads • Long ears • Loud bray",
    "hints": [
     {
      "text": "Farm animal",
@@ -3540,6 +3644,7 @@
   },
   {
    "word": "Mule",
+   "description": "Farm animal • Hybrid animal • Sure footed • Carries packs • Long ears • Strong back",
    "hints": [
     {
      "text": "Farm animal",
@@ -3574,6 +3679,7 @@
   },
   {
    "word": "Pony",
+   "description": "Small horse • Riding animal • Kids ride it • Shown at fairs • Short legs • Thick mane",
    "hints": [
     {
      "text": "Small horse",
@@ -3608,6 +3714,7 @@
   },
   {
    "word": "Turkey",
+   "description": "Farm bird • Large bird • Holiday dinner • Gobble sound • Fleshy wattle • Fan tail",
    "hints": [
     {
      "text": "Farm bird",
@@ -3642,6 +3749,7 @@
   },
   {
    "word": "Goose",
+   "description": "Water bird • Farm bird • Flies in vee shapes • Honks loudly • Long neck • Chases people",
    "hints": [
     {
      "text": "Water bird",
@@ -3676,6 +3784,7 @@
   },
   {
    "word": "Rooster",
+   "description": "Farm bird • Male bird • Crows at dawn • Wakes the farm • Big red comb • Colorful tail",
    "hints": [
     {
      "text": "Farm bird",
@@ -3710,6 +3819,7 @@
   },
   {
    "word": "Dog",
+   "description": "Pet animal • Loyal companion • Wags its tail • Fetches balls • Barks loudly • Man's best friend",
    "hints": [
     {
      "text": "Pet animal",
@@ -3744,6 +3854,7 @@
   },
   {
    "word": "Cat",
+   "description": "Pet animal • Furry companion • Purrs when happy • Loves naps • Has whiskers • Lands on feet",
    "hints": [
     {
      "text": "Pet animal",
@@ -3778,6 +3889,7 @@
   },
   {
    "word": "Parakeet",
+   "description": "Small bird • Pet bird • Chirps all day • Lives in cages • Bright green feathers • Little beak",
    "hints": [
     {
      "text": "Small bird",
@@ -3812,6 +3924,7 @@
   },
   {
    "word": "Canary",
+   "description": "Small bird • Pet bird • Sweet singer • Once used in mines • Bright yellow • Tiny cage bird",
    "hints": [
     {
      "text": "Small bird",
@@ -3846,6 +3959,7 @@
   },
   {
    "word": "Guinea pig",
+   "description": "Small rodent • Furry pet • Squeaks loudly • Lives in hutch • No tail • Chubby body",
    "hints": [
     {
      "text": "Small rodent",
@@ -3880,6 +3994,7 @@
   },
   {
    "word": "Ferret",
+   "description": "Small mammal • Playful pet • Steals small items • Very curious • Long thin body • Masked face",
    "hints": [
     {
      "text": "Small mammal",
@@ -3914,6 +4029,7 @@
   },
   {
    "word": "Lizard",
+   "description": "Reptile • Cold blooded • Basks in sun • Can drop its tail • Scaly skin • Darting tongue",
    "hints": [
     {
      "text": "Reptile",
@@ -3948,6 +4064,7 @@
   },
   {
    "word": "Tortoise",
+   "description": "Reptile • Slow animal • Lives over a century • Wins a famous race • Domed shell • Land dweller",
    "hints": [
     {
      "text": "Reptile",
@@ -3982,6 +4099,7 @@
   },
   {
    "word": "Toad",
+   "description": "Amphibian • Garden animal • Lives on land • Eats bugs • Bumpy dry skin • Squat body",
    "hints": [
     {
      "text": "Amphibian",
@@ -4016,6 +4134,7 @@
   },
   {
    "word": "Salamander",
+   "description": "Amphibian • Damp animal • Lives under logs • Regrows limbs • Moist skin • Lizard shaped",
    "hints": [
     {
      "text": "Amphibian",
@@ -4050,6 +4169,7 @@
   },
   {
    "word": "Moth",
+   "description": "Insect • Night bug • Drawn to lamps • Eats clothes • Dusty wings • Feathery antennae",
    "hints": [
     {
      "text": "Insect",
@@ -4084,6 +4204,7 @@
   },
   {
    "word": "Dragonfly",
+   "description": "Insect • Pond bug • Ancient flyer • Darts over water • Four clear wings • Long thin body",
    "hints": [
     {
      "text": "Insect",
@@ -4118,6 +4239,7 @@
   },
   {
    "word": "Grasshopper",
+   "description": "Insect • Field bug • Chirps in summer • Big jumper • Powerful back legs • Green body",
    "hints": [
     {
      "text": "Insect",
@@ -4152,6 +4274,7 @@
   },
   {
    "word": "Beetle",
+   "description": "Insect • Crawling bug • Most common insect • Many species • Hard wing case • Shiny shell",
    "hints": [
     {
      "text": "Insect",
@@ -4186,6 +4309,7 @@
   },
   {
    "word": "Firefly",
+   "description": "Insect • Summer bug • Seen at dusk • Kids catch them • Glowing tail • Blinking light",
    "hints": [
     {
      "text": "Insect",
@@ -4220,6 +4344,7 @@
   },
   {
    "word": "Cockroach",
+   "description": "Insect • Household pest • Survives anything • Scurries in kitchens • Brown and shiny • Long antennae",
    "hints": [
     {
      "text": "Insect",
@@ -4254,6 +4379,7 @@
   },
   {
    "word": "Caterpillar",
+   "description": "Larva • Crawling bug • Becomes a butterfly • Very hungry • Munches leaves • Soft segmented body",
    "hints": [
     {
      "text": "Larva",
@@ -4288,6 +4414,7 @@
   },
   {
    "word": "Koi",
+   "description": "Pond fish • Ornamental fish • Symbol of luck • Lives in gardens • Orange and white • Big carp",
    "hints": [
     {
      "text": "Pond fish",
@@ -4322,6 +4449,7 @@
   },
   {
    "word": "Lemur",
+   "description": "Primate • Island animal • Lives in trees • Sunbathes in groups • Ringed tail • Big orange eyes",
    "hints": [
     {
      "text": "Primate",
@@ -4356,6 +4484,7 @@
   },
   {
    "word": "Chimpanzee",
+   "description": "Primate • Clever ape • Uses tools • Close human relative • Expressive face • Long arms",
    "hints": [
     {
      "text": "Primate",
@@ -4390,6 +4519,7 @@
   },
   {
    "word": "Orangutan",
+   "description": "Great ape • Rainforest primate • Lives alone in trees • Very smart • Shaggy orange hair • Very long arms",
    "hints": [
     {
      "text": "Great ape",
@@ -4424,6 +4554,7 @@
   },
   {
    "word": "Mole",
+   "description": "Small mammal • Burrowing animal • Digs tunnels • Nearly blind • Big digging paws • Velvety fur",
    "hints": [
     {
      "text": "Small mammal",
@@ -4458,6 +4589,7 @@
   },
   {
    "word": "Badger",
+   "description": "Burrowing mammal • Night animal • Lives in setts • Fierce fighter • Striped face • Stocky body",
    "hints": [
     {
      "text": "Burrowing mammal",
@@ -4492,6 +4624,7 @@
   },
   {
    "word": "Coyote",
+   "description": "Wild canine • Desert animal • Howls at night • Clever survivor • Pointed ears • Scrappy fur",
    "hints": [
     {
      "text": "Wild canine",
@@ -4526,6 +4659,7 @@
   },
   {
    "word": "Antelope",
+   "description": "Grazing animal • Plains animal • Very fast runner • Lives in herds • Spiral horns • Slender legs",
    "hints": [
     {
      "text": "Grazing animal",
@@ -4560,6 +4694,7 @@
   },
   {
    "word": "Gazelle",
+   "description": "Grazing animal • Plains animal • Leaps high • Prey for cheetahs • Graceful legs • Ringed horns",
    "hints": [
     {
      "text": "Grazing animal",
@@ -4594,6 +4729,7 @@
   },
   {
    "word": "Platypus",
+   "description": "Odd mammal • River animal • Lays eggs • Has venom spurs • Duck bill • Beaver tail",
    "hints": [
     {
      "text": "Odd mammal",
@@ -4628,6 +4764,7 @@
   },
   {
    "word": "Pangolin",
+   "description": "Scaly mammal • Endangered animal • Rolls into ball • Eats ants • Covered in scales • Long tongue",
    "hints": [
     {
      "text": "Scaly mammal",
@@ -4662,6 +4799,7 @@
   },
   {
    "word": "Komodo dragon",
+   "description": "Giant lizard • Reptile • Island predator • Venomous bite • Forked tongue • Heavy tail",
    "hints": [
     {
      "text": "Giant lizard",
@@ -4696,6 +4834,7 @@
   },
   {
    "word": "Mongoose",
+   "description": "Small mammal • Quick hunter • Fights cobras • Very fast • Slim body • Bushy tail",
    "hints": [
     {
      "text": "Small mammal",
@@ -4730,6 +4869,7 @@
   },
   {
    "word": "Cobra",
+   "description": "Snake • Venomous reptile • Charmed by flutes • Spits venom • Spreads a hood • Rises up",
    "hints": [
     {
      "text": "Snake",
@@ -4764,6 +4904,7 @@
   },
   {
    "word": "Python",
+   "description": "Snake • Big reptile • Squeezes its prey • Not venomous • Very long body • Patterned scales",
    "hints": [
     {
      "text": "Snake",
@@ -4798,6 +4939,7 @@
   },
   {
    "word": "Hen",
+   "description": "Farm bird • Female bird • Lays eggs • Sits on nest • Clucks softly • Pecks seeds",
    "hints": [
     {
      "text": "Farm bird",
@@ -4832,6 +4974,7 @@
   },
   {
    "word": "Lamb",
+   "description": "Young animal • Farm baby • Born in spring • Follows its mother • Soft woolly coat • Bleats softly",
    "hints": [
     {
      "text": "Young animal",
@@ -4866,6 +5009,7 @@
   },
   {
    "word": "Puppy",
+   "description": "Young animal • Pet baby • Chews everything • Very playful • Floppy ears • Tiny barks",
    "hints": [
     {
      "text": "Young animal",
@@ -4900,6 +5044,7 @@
   },
   {
    "word": "Kitten",
+   "description": "Young animal • Pet baby • Chases string • Very playful • Tiny whiskers • Soft mews",
    "hints": [
     {
      "text": "Young animal",
@@ -4934,6 +5079,7 @@
   },
   {
    "word": "Raven",
+   "description": "Black bird • Clever bird • Symbol of mystery • Mimics sounds • Shaggy throat feathers • Deep croak",
    "hints": [
     {
      "text": "Black bird",
@@ -4968,6 +5114,7 @@
   },
   {
    "word": "Robin",
+   "description": "Small bird • Garden bird • Sign of spring • Pulls up worms • Red breast • Cheerful song",
    "hints": [
     {
      "text": "Small bird",
@@ -5002,6 +5149,7 @@
   },
   {
    "word": "Sparrow",
+   "description": "Small bird • Common bird • Hops on ground • Lives near people • Brown and streaky • Chirpy song",
    "hints": [
     {
      "text": "Small bird",
@@ -5036,6 +5184,7 @@
   },
   {
    "word": "Heron",
+   "description": "Wading bird • Water bird • Stands very still • Spears fish • Long legs • Dagger beak",
    "hints": [
     {
      "text": "Wading bird",
@@ -5070,6 +5219,7 @@
   },
   {
    "word": "Stork",
+   "description": "Wading bird • Large bird • Delivers babies myth • Nests on rooftops • Long red beak • White plumage",
    "hints": [
     {
      "text": "Wading bird",
@@ -5104,6 +5254,7 @@
   },
   {
    "word": "Wombat",
+   "description": "Pouched mammal • Burrowing animal • Australian native • Digs big tunnels • Cube shaped droppings • Stocky body",
    "hints": [
     {
      "text": "Pouched mammal",

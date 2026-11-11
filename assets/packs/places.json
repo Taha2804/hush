@@ -4,6 +4,7 @@
  "words": [
   {
    "word": "Hospital",
+   "description": "Medical building • Care center • Doctors and nurses • Emergency room • Beds and wards • Ambulances arrive",
    "hints": [
     {
      "text": "Medical building",
@@ -38,6 +39,7 @@
   },
   {
    "word": "School",
+   "description": "Education building • Learning place • Kids attend daily • Homework given • Classrooms and bells • Teachers",
    "hints": [
     {
      "text": "Education building",
@@ -72,6 +74,7 @@
   },
   {
    "word": "Library",
+   "description": "Book building • Quiet place • Borrow novels • Study sessions • Shelves of books • Shushing",
    "hints": [
     {
      "text": "Book building",
@@ -106,6 +109,7 @@
   },
   {
    "word": "Museum",
+   "description": "Culture building • Exhibit hall • Field trips • Ancient artifacts • Display cases • Dinosaur bones",
    "hints": [
     {
      "text": "Culture building",
@@ -140,6 +144,7 @@
   },
   {
    "word": "Airport",
+   "description": "Travel hub • Flight terminal • Security checks • Boarding passes • Runways and gates • Baggage claim",
    "hints": [
     {
      "text": "Travel hub",
@@ -174,6 +179,7 @@
   },
   {
    "word": "Train station",
+   "description": "Travel hub • Rail terminal • Platforms and tickets • Departure boards • Railway tracks • Announcements",
    "hints": [
     {
      "text": "Travel hub",
@@ -208,6 +214,7 @@
   },
   {
    "word": "Supermarket",
+   "description": "Shopping place • Grocery store • Weekly shopping • Checkout queues • Aisles and carts • Barcode scanners",
    "hints": [
     {
      "text": "Shopping place",
@@ -242,6 +249,7 @@
   },
   {
    "word": "Mall",
+   "description": "Shopping center • Retail complex • Teen hangout • Food courts • Escalators • Many shops",
    "hints": [
     {
      "text": "Shopping center",
@@ -276,6 +284,7 @@
   },
   {
    "word": "Restaurant",
+   "description": "Dining place • Eatery • Date nights • Menus and waiters • Tables and tips • Kitchen behind",
    "hints": [
     {
      "text": "Dining place",
@@ -310,6 +319,7 @@
   },
   {
    "word": "Cafe",
+   "description": "Coffee shop • Casual eatery • Laptop workers • Pastries • Espresso machine • Small tables",
    "hints": [
     {
      "text": "Coffee shop",
@@ -344,6 +354,7 @@
   },
   {
    "word": "Bakery",
+   "description": "Bread shop • Food store • Fresh morning smell • Birthday cakes • Ovens and pastries • Display cases",
    "hints": [
     {
      "text": "Bread shop",
@@ -378,6 +389,7 @@
   },
   {
    "word": "Bank",
+   "description": "Money building • Financial place • Deposits and loans • Long queues • Vaults and tellers • Safety boxes",
    "hints": [
     {
      "text": "Money building",
@@ -412,6 +424,7 @@
   },
   {
    "word": "Post office",
+   "description": "Mail building • Parcel service • Sending parcels • Buying stamps • Counters and scales • Mailbags",
    "hints": [
     {
      "text": "Mail building",
@@ -446,6 +459,7 @@
   },
   {
    "word": "Police station",
+   "description": "Law building • Precinct • Reports filed • Holding cells • Badges and desks • Patrol cars outside",
    "hints": [
     {
      "text": "Law building",
@@ -480,6 +494,7 @@
   },
   {
    "word": "Fire station",
+   "description": "Emergency building • Rescue base • Sliding poles • Dalmatians • Red engines • Hoses hanging",
    "hints": [
     {
      "text": "Emergency building",
@@ -514,6 +529,7 @@
   },
   {
    "word": "Courthouse",
+   "description": "Legal building • Hall of justice • Trials and verdicts • Lawyers argue • Judge's bench • Jury box",
    "hints": [
     {
      "text": "Legal building",
@@ -548,6 +564,7 @@
   },
   {
    "word": "Prison",
+   "description": "Secure building • Jail • Inmates serve time • Guards patrol • Bars and cells • High walls",
    "hints": [
     {
      "text": "Secure building",
@@ -582,6 +599,7 @@
   },
   {
    "word": "Church",
+   "description": "Religious building • Place of worship • Sunday services • Weddings • Steeple and bells • Stained glass",
    "hints": [
     {
      "text": "Religious building",
@@ -616,6 +634,7 @@
   },
   {
    "word": "Temple",
+   "description": "Religious building • Sacred place • Prayers and offerings • Festivals • Bells and idols • Incense smoke",
    "hints": [
     {
      "text": "Religious building",
@@ -650,6 +669,7 @@
   },
   {
    "word": "Mosque",
+   "description": "Religious building • Place of prayer • Friday prayers • Call to prayer • Domes and minarets • Prayer rugs",
    "hints": [
     {
      "text": "Religious building",
@@ -684,6 +704,7 @@
   },
   {
    "word": "Park",
+   "description": "Green space • Public area • Picnics and jogging • Dog walks • Benches and trees • Playground",
    "hints": [
     {
      "text": "Green space",
@@ -718,6 +739,7 @@
   },
   {
    "word": "Zoo",
+   "description": "Animal park • Wildlife place • Family outings • Feeding times • Cages and enclosures • Lions and penguins",
    "hints": [
     {
      "text": "Animal park",
@@ -752,6 +774,7 @@
   },
   {
    "word": "Aquarium",
+   "description": "Marine exhibit • Fish place • School trips • Shark tunnels • Glass tanks • Jellyfish displays",
    "hints": [
     {
      "text": "Marine exhibit",
@@ -786,6 +809,7 @@
   },
   {
    "word": "Beach",
+   "description": "Seaside place • Sandy shore • Sunbathing • Sandcastles • Waves and umbrellas • Lifeguard towers",
    "hints": [
     {
      "text": "Seaside place",
@@ -820,6 +844,7 @@
   },
   {
    "word": "Swimming pool",
+   "description": "Water place • Leisure facility • Summer splashing • Lap lanes • Diving boards • Chlorine smell",
    "hints": [
     {
      "text": "Water place",
@@ -854,6 +879,7 @@
   },
   {
    "word": "Gym",
+   "description": "Fitness place • Workout center • New year resolutions • Personal trainers • Treadmills and weights • Mirrors",
    "hints": [
     {
      "text": "Fitness place",
@@ -888,6 +914,7 @@
   },
   {
    "word": "Stadium",
+   "description": "Sports venue • Arena • Big matches • Concerts • Floodlights • Thousands of seats",
    "hints": [
     {
      "text": "Sports venue",
@@ -922,6 +949,7 @@
   },
   {
    "word": "Theater",
+   "description": "Performance venue • Stage hall • Plays and musicals • Curtain calls • Velvet seats • Orchestra pit",
    "hints": [
     {
      "text": "Performance venue",
@@ -956,6 +984,7 @@
   },
   {
    "word": "Cinema",
+   "description": "Movie theater • Film venue • Date nights • Popcorn • Big screen • Dark rows",
    "hints": [
     {
      "text": "Movie theater",
@@ -990,6 +1019,7 @@
   },
   {
    "word": "Hotel",
+   "description": "Lodging place • Guest building • Vacations and trips • Room service • Reception desk • Room keys",
    "hints": [
     {
      "text": "Lodging place",
@@ -1024,6 +1054,7 @@
   },
   {
    "word": "Hostel",
+   "description": "Budget lodging • Backpacker stay • Shared rooms • Young travelers • Bunk beds • Common kitchen",
    "hints": [
     {
      "text": "Budget lodging",
@@ -1058,6 +1089,7 @@
   },
   {
    "word": "Office",
+   "description": "Work place • Business building • Nine to five • Meetings • Desks and computers • Water cooler",
    "hints": [
     {
      "text": "Work place",
@@ -1092,6 +1124,7 @@
   },
   {
    "word": "Factory",
+   "description": "Industrial building • Production place • Assembly lines • Shift workers • Machines and smokestacks • Conveyor belts",
    "hints": [
     {
      "text": "Industrial building",
@@ -1126,6 +1159,7 @@
   },
   {
    "word": "Warehouse",
+   "description": "Storage building • Depot • Forklifts • Stacked pallets • Huge shelves • Loading docks",
    "hints": [
     {
      "text": "Storage building",
@@ -1160,6 +1194,7 @@
   },
   {
    "word": "Farm",
+   "description": "Rural place • Agricultural land • Crops and animals • Early mornings • Barns and tractors • Fields",
    "hints": [
     {
      "text": "Rural place",
@@ -1194,6 +1229,7 @@
   },
   {
    "word": "Barn",
+   "description": "Farm building • Storage shed • Hay bales • Animals sleep • Red walls • Big doors",
    "hints": [
     {
      "text": "Farm building",
@@ -1228,6 +1264,7 @@
   },
   {
    "word": "Castle",
+   "description": "Fortress • Royal residence • Kings and knights • Medieval history • Towers and moat • Drawbridge",
    "hints": [
     {
      "text": "Fortress",
@@ -1262,6 +1299,7 @@
   },
   {
    "word": "Palace",
+   "description": "Royal residence • Grand building • Kings and queens live • Tourist tours • Gilded halls • Grand gardens",
    "hints": [
     {
      "text": "Royal residence",
@@ -1296,6 +1334,7 @@
   },
   {
    "word": "Lighthouse",
+   "description": "Coastal tower • Navigation aid • Guides ships • Stormy nights • Rotating lamp • Striped tower",
    "hints": [
     {
      "text": "Coastal tower",
@@ -1330,6 +1369,7 @@
   },
   {
    "word": "Windmill",
+   "description": "Farm structure • Breeze powered grinder • Grinds grain • Dutch countryside • Turning sails • Wooden tower",
    "hints": [
     {
      "text": "Farm structure",
@@ -1364,6 +1404,7 @@
   },
   {
    "word": "Bridge",
+   "description": "Structure • River crossing • Connects two sides • Traffic flows • Arches or cables • Spans water",
    "hints": [
     {
      "text": "Structure",
@@ -1398,6 +1439,7 @@
   },
   {
    "word": "Tunnel",
+   "description": "Underground passage • Structure • Trains go through • Under mountains • Dark and echoing • Lights inside",
    "hints": [
     {
      "text": "Underground passage",
@@ -1432,6 +1474,7 @@
   },
   {
    "word": "Harbor",
+   "description": "Port area • Ship dock • Boats moored • Fishing village • Piers and cranes • Seagulls",
    "hints": [
     {
      "text": "Port area",
@@ -1466,6 +1509,7 @@
   },
   {
    "word": "Marina",
+   "description": "Boat dock • Yacht harbor • Weekend sailors • Luxury boats • Rows of masts • Floating docks",
    "hints": [
     {
      "text": "Boat dock",
@@ -1500,6 +1544,7 @@
   },
   {
    "word": "Pier",
+   "description": "Wooden walkway • Seaside structure • Fishing from it • Amusement rides • Planks over water • Posts",
    "hints": [
     {
      "text": "Wooden walkway",
@@ -1534,6 +1579,7 @@
   },
   {
    "word": "Market",
+   "description": "Shopping place • Bazaar • Bargaining • Fresh produce • Stalls and vendors • Crowds",
    "hints": [
     {
      "text": "Shopping place",
@@ -1568,6 +1614,7 @@
   },
   {
    "word": "Bazaar",
+   "description": "Market place • Trading hub • Haggling prices • Spices and rugs • Narrow lanes • Colorful stalls",
    "hints": [
     {
      "text": "Market place",
@@ -1602,6 +1649,7 @@
   },
   {
    "word": "Pharmacy",
+   "description": "Medicine shop • Health store • Prescriptions filled • Cough syrup • Pill bottles • White counter",
    "hints": [
     {
      "text": "Medicine shop",
@@ -1636,6 +1684,7 @@
   },
   {
    "word": "Clinic",
+   "description": "Medical office • Small hospital • Checkups • Vaccinations • Waiting room • Examination bed",
    "hints": [
     {
      "text": "Medical office",
@@ -1670,6 +1719,7 @@
   },
   {
    "word": "Dentist office",
+   "description": "Dental clinic • Medical place • Checkups twice yearly • Nervous patients • Reclining chair • Drill sound",
    "hints": [
     {
      "text": "Dental clinic",
@@ -1704,6 +1754,7 @@
   },
   {
    "word": "Barbershop",
+   "description": "Grooming place • Hair salon • Weekly trims • Local gossip • Spinning pole • Swivel chairs",
    "hints": [
     {
      "text": "Grooming place",
@@ -1738,6 +1789,7 @@
   },
   {
    "word": "Salon",
+   "description": "Beauty place • Hair studio • Haircuts and color • Wedding prep • Hair dryers • Big mirrors",
    "hints": [
     {
      "text": "Beauty place",
@@ -1772,6 +1824,7 @@
   },
   {
    "word": "Spa",
+   "description": "Relaxation place • Wellness center • Massages • Facials • Robes and cucumber slices • Steam rooms",
    "hints": [
     {
      "text": "Relaxation place",
@@ -1806,6 +1859,7 @@
   },
   {
    "word": "Gas station",
+   "description": "Fuel stop • Roadside place • Road trips • Snacks and coffee • Pumps and nozzles • Price signs",
    "hints": [
     {
      "text": "Fuel stop",
@@ -1840,6 +1894,7 @@
   },
   {
    "word": "Car wash",
+   "description": "Cleaning place • Auto service • Weekend chore • Soap suds • Spinning brushes • Water jets",
    "hints": [
     {
      "text": "Cleaning place",
@@ -1874,6 +1929,7 @@
   },
   {
    "word": "Garage",
+   "description": "Car shelter • Workshop • Parked cars • Tool storage • Roll up door • Oil stains",
    "hints": [
     {
      "text": "Car shelter",
@@ -1908,6 +1964,7 @@
   },
   {
    "word": "Laundromat",
+   "description": "Laundry place • Coin washers • Weekly washing • Waiting around • Rows of machines • Folding tables",
    "hints": [
     {
      "text": "Laundry place",
@@ -1942,6 +1999,7 @@
   },
   {
    "word": "Bookstore",
+   "description": "Novel shop • Retail outlet • Browsing novels • Author signings • Shelves and armchairs • Bestseller table",
    "hints": [
     {
      "text": "Novel shop",
@@ -1976,6 +2034,7 @@
   },
   {
    "word": "Toy store",
+   "description": "Kids shop • Play retail • Birthday gifts • Excited children • Shelves of games • Teddy bears",
    "hints": [
     {
      "text": "Kids shop",
@@ -2010,6 +2069,7 @@
   },
   {
    "word": "Candy shop",
+   "description": "Sweet store • Treat store • Kids drool • Jars of sweets • Lollipops • Pick and mix",
    "hints": [
     {
      "text": "Sweet store",
@@ -2044,6 +2104,7 @@
   },
   {
    "word": "Gelateria",
+   "description": "Dessert shop • Treat place • Summer outings • Sundaes • Scoops and cones • Freezer display",
    "hints": [
     {
      "text": "Dessert shop",
@@ -2078,6 +2139,7 @@
   },
   {
    "word": "Butcher shop",
+   "description": "Meat store • Food store • Fresh cuts • Sausages • Hanging meats • Cleavers",
    "hints": [
     {
      "text": "Meat store",
@@ -2112,6 +2174,7 @@
   },
   {
    "word": "Flower shop",
+   "description": "Florist • Plant store • Valentines rush • Wedding bouquets • Buckets of blooms • Ribbons",
    "hints": [
     {
      "text": "Florist",
@@ -2146,6 +2209,7 @@
   },
   {
    "word": "Pet shop",
+   "description": "Animal store • Animal supplies • Puppies in windows • Fish tanks • Bags of food • Hamster cages",
    "hints": [
     {
      "text": "Animal store",
@@ -2180,6 +2244,7 @@
   },
   {
    "word": "Vet clinic",
+   "description": "Animal hospital • Pet doctor place • Vaccinations • Nervous dogs • Exam tables • Pet carriers",
    "hints": [
     {
      "text": "Animal hospital",
@@ -2214,6 +2279,7 @@
   },
   {
    "word": "Playground",
+   "description": "Recess area • Kids park • Recess fun • Swing pushes • Slides and seesaws • Sandbox",
    "hints": [
     {
      "text": "Recess area",
@@ -2248,6 +2314,7 @@
   },
   {
    "word": "Amusement park",
+   "description": "Theme attraction • Fun fair • Roller coasters • Cotton candy • Ferris wheel • Long queues",
    "hints": [
     {
      "text": "Theme attraction",
@@ -2282,6 +2349,7 @@
   },
   {
    "word": "Water park",
+   "description": "Splash zone • Theme attraction • Summer fun • Wave pools • Twisty slides • Lazy river",
    "hints": [
     {
      "text": "Splash zone",
@@ -2316,6 +2384,7 @@
   },
   {
    "word": "Circus",
+   "description": "Big top • Traveling show • Clowns and acrobats • Ringmaster • Striped tent • Trapeze",
    "hints": [
     {
      "text": "Big top",
@@ -2350,6 +2419,7 @@
   },
   {
    "word": "Campsite",
+   "description": "Outdoor stay • Camping spot • Tents and campfires • Star gazing • Fire pits • Picnic tables",
    "hints": [
     {
      "text": "Outdoor stay",
@@ -2384,6 +2454,7 @@
   },
   {
    "word": "Cabin",
+   "description": "Wooden house • Forest retreat • Weekend getaways • Fireplace cozy • Log walls • Lakeside",
    "hints": [
     {
      "text": "Wooden house",
@@ -2418,6 +2489,7 @@
   },
   {
    "word": "Cottage",
+   "description": "Small house • Country home • Rose gardens • Thatched roofs • Quaint windows • Fireplace",
    "hints": [
     {
      "text": "Small house",
@@ -2452,6 +2524,7 @@
   },
   {
    "word": "Mansion",
+   "description": "Large house • Luxury home • Rich families • Butlers • Grand staircase • Many rooms",
    "hints": [
     {
      "text": "Large house",
@@ -2486,6 +2559,7 @@
   },
   {
    "word": "Apartment",
+   "description": "Home unit • Flat • City living • Neighbors upstairs • Building floors • Balcony",
    "hints": [
     {
      "text": "Home unit",
@@ -2520,6 +2594,7 @@
   },
   {
    "word": "Skyscraper",
+   "description": "Tall building • High rise • City skylines • Office towers • Elevators • Hundreds of floors",
    "hints": [
     {
      "text": "Tall building",
@@ -2554,6 +2629,7 @@
   },
   {
    "word": "Village",
+   "description": "Small settlement • Rural community • Everyone knows each other • Quiet life • Cottages and church • Common green",
    "hints": [
     {
      "text": "Small settlement",
@@ -2588,6 +2664,7 @@
   },
   {
    "word": "City",
+   "description": "Large settlement • Urban area • Busy streets • Night life • Skyscrapers • Public transport",
    "hints": [
     {
      "text": "Large settlement",
@@ -2622,6 +2699,7 @@
   },
   {
    "word": "Suburb",
+   "description": "Residential area • Outer town • Commuter families • Lawns • Cul de sacs • Similar houses",
    "hints": [
     {
      "text": "Residential area",
@@ -2656,6 +2734,7 @@
   },
   {
    "word": "Countryside",
+   "description": "Rural area • Open land • Fresh air • Farms • Rolling hills • Hedgerows",
    "hints": [
     {
      "text": "Rural area",
@@ -2690,6 +2769,7 @@
   },
   {
    "word": "Desert island",
+   "description": "Remote place • Castaway spot • Stranded stories • Message in bottle • Palm tree • Sandy shore",
    "hints": [
     {
      "text": "Remote place",
@@ -2724,6 +2804,7 @@
   },
   {
    "word": "Jungle camp",
+   "description": "Wild base • Explorer stay • Expeditions • Insect bites • Tents in canopy • Mosquito nets",
    "hints": [
     {
      "text": "Wild base",
@@ -2758,6 +2839,7 @@
   },
   {
    "word": "Treehouse",
+   "description": "Branch home • Kids hideout • Secret clubs • Rope ladder • Wooden platform • Branches around",
    "hints": [
     {
      "text": "Branch home",
@@ -2792,6 +2874,7 @@
   },
   {
    "word": "Igloo",
+   "description": "Snow house • Arctic shelter • Inuit tradition • Ice block home • Dome shape • Tunnel entrance",
    "hints": [
     {
      "text": "Snow house",
@@ -2826,6 +2909,7 @@
   },
   {
    "word": "Tent",
+   "description": "Camping shelter • Portable home • Outdoor trips • Pitched poles • Fabric walls • Zip door",
    "hints": [
     {
      "text": "Camping shelter",
@@ -2860,6 +2944,7 @@
   },
   {
    "word": "Embassy",
+   "description": "Diplomatic building • Foreign office • Visa applications • Diplomats • Flags outside • Guarded gates",
    "hints": [
     {
      "text": "Diplomatic building",
@@ -2894,6 +2979,7 @@
   },
   {
    "word": "Town hall",
+   "description": "Government building • Civic center • Council meetings • Mayor's office • Clock tower • Steps and pillars",
    "hints": [
     {
      "text": "Government building",
@@ -2928,6 +3014,7 @@
   },
   {
    "word": "Parliament",
+   "description": "Government building • Legislature • Laws debated • Politicians • Big chambers • Benches",
    "hints": [
     {
      "text": "Government building",
@@ -2962,6 +3049,7 @@
   },
   {
    "word": "University",
+   "description": "Higher education • Campus • Degrees and lectures • Dorms • Libraries and quads • Graduation",
    "hints": [
     {
      "text": "Higher education",
@@ -2996,6 +3084,7 @@
   },
   {
    "word": "Laboratory",
+   "description": "Science room • Research place • Experiments • Lab coats • Test tubes • Microscopes",
    "hints": [
     {
      "text": "Science room",
@@ -3030,6 +3119,7 @@
   },
   {
    "word": "Observatory",
+   "description": "Astronomy building • Star watching place • Night sky research • Domes • Giant telescope • Rotating roof",
    "hints": [
     {
      "text": "Astronomy building",
@@ -3064,6 +3154,7 @@
   },
   {
    "word": "Planetarium",
+   "description": "Star theater • Space show • School trips • Dome projections • Reclining seats • Starry ceiling",
    "hints": [
     {
      "text": "Star theater",
@@ -3098,6 +3189,7 @@
   },
   {
    "word": "Art gallery",
+   "description": "Exhibition space • Painting venue • Paintings displayed • Openings • White walls • Framed canvases",
    "hints": [
     {
      "text": "Exhibition space",
@@ -3132,6 +3224,7 @@
   },
   {
    "word": "Studio",
+   "description": "Creative space • Work room • Artists or recording • Photo shoots • Lights and equipment • Easels",
    "hints": [
     {
      "text": "Creative space",
@@ -3166,6 +3259,7 @@
   },
   {
    "word": "Workshop",
+   "description": "Craft room • Tool space • Building things • Tools everywhere • Workbench • Sawdust",
    "hints": [
     {
      "text": "Craft room",
@@ -3200,6 +3294,7 @@
   },
   {
    "word": "Shed",
+   "description": "Garden building • Storage hut • Tools and bikes • Backyard • Wooden walls • Padlocked door",
    "hints": [
     {
      "text": "Garden building",
@@ -3234,6 +3329,7 @@
   },
   {
    "word": "Greenhouse",
+   "description": "Plant shelter • Glass building • Growing tomatoes • Warm inside • Glass panes • Humid air",
    "hints": [
     {
      "text": "Plant shelter",
@@ -3268,6 +3364,7 @@
   },
   {
    "word": "Orchard",
+   "description": "Fruit farm • Tree grove • Apple picking • Autumn harvest • Rows of trees • Ladders",
    "hints": [
     {
      "text": "Fruit farm",
@@ -3302,6 +3399,7 @@
   },
   {
    "word": "Vineyard",
+   "description": "Grape farm • Harvest country • Harvest season • Tasting tours • Rows of vines • Rolling hills",
    "hints": [
     {
      "text": "Grape farm",
@@ -3336,6 +3434,7 @@
   },
   {
    "word": "Cemetery",
+   "description": "Burial ground • Graveyard • Visiting loved ones • Quiet paths • Headstones • Flowers left",
    "hints": [
     {
      "text": "Burial ground",
@@ -3370,6 +3469,7 @@
   },
   {
    "word": "Monument",
+   "description": "Memorial structure • Landmark • Tourist photos • Historic events • Statues and plaques • Stone pillars",
    "hints": [
     {
      "text": "Memorial structure",
@@ -3404,6 +3504,7 @@
   },
   {
    "word": "Fountain",
+   "description": "Water feature • Plaza centerpiece • Throw coins • Summer splashing • Spraying jets • Stone basin",
    "hints": [
     {
      "text": "Water feature",
@@ -3438,6 +3539,7 @@
   },
   {
    "word": "Plaza",
+   "description": "Public square • Open space • Street performers • Pigeons • Fountain center • Cafes around",
    "hints": [
     {
      "text": "Public square",
@@ -3472,6 +3574,7 @@
   },
   {
    "word": "Alley",
+   "description": "Narrow lane • Back street • Shortcuts • Graffiti • Dumpsters • Between buildings",
    "hints": [
     {
      "text": "Narrow lane",
@@ -3506,6 +3609,7 @@
   },
   {
    "word": "Highway",
+   "description": "Major road • Motorway • Road trips • Fast traffic • Many lanes • Exits and signs",
    "hints": [
     {
      "text": "Major road",
@@ -3540,6 +3644,7 @@
   },
   {
    "word": "Crossroads",
+   "description": "Street junction • Intersection • Decisions metaphor • Traffic lights • Four way meeting • Stop signs",
    "hints": [
     {
      "text": "Street junction",
@@ -3574,6 +3679,7 @@
   },
   {
    "word": "Roundabout",
+   "description": "Traffic circle • Road junction • Confuses drivers • Give way • Circular road • Central island",
    "hints": [
     {
      "text": "Traffic circle",
@@ -3608,6 +3714,7 @@
   },
   {
    "word": "Parking lot",
+   "description": "Vehicle area • Open area • Searching for spaces • Supermarket trips • Painted lines • Ticket machines",
    "hints": [
     {
      "text": "Vehicle area",
@@ -3642,6 +3749,7 @@
   },
   {
    "word": "Bus stop",
+   "description": "Transit point • Waiting spot • Morning commute • Timetables • Shelter and bench • Sign pole",
    "hints": [
     {
      "text": "Transit point",
@@ -3676,6 +3784,7 @@
   },
   {
    "word": "Subway station",
+   "description": "Underground stop • Metro stop • Rush hour crowds • Turnstiles • Platforms and tunnels • Maps",
    "hints": [
     {
      "text": "Underground stop",
@@ -3710,6 +3819,7 @@
   },
   {
    "word": "Port",
+   "description": "Shipping hub • Cargo harbor • Container ships • Customs • Cranes and docks • Shipping boxes",
    "hints": [
     {
      "text": "Shipping hub",
@@ -3744,6 +3854,7 @@
   },
   {
    "word": "Dam",
+   "description": "Water barrier • Engineering structure • Hydroelectric power • Reservoir • Concrete wall • Spillways",
    "hints": [
     {
      "text": "Water barrier",
@@ -3778,6 +3889,7 @@
   },
   {
    "word": "Mine",
+   "description": "Underground site • Digging place • Coal or gold • Diggers • Shafts and tunnels • Headlamps",
    "hints": [
     {
      "text": "Underground site",
@@ -3812,6 +3924,7 @@
   },
   {
    "word": "Quarry",
+   "description": "Stone pit • Excavation site • Blasting rock • Construction materials • Open pit • Terraced walls",
    "hints": [
     {
      "text": "Stone pit",
@@ -3846,6 +3959,7 @@
   },
   {
    "word": "Oil rig",
+   "description": "Offshore platform • Drilling site • Ocean workers • Fuel production • Steel towers at sea • Flames",
    "hints": [
     {
      "text": "Offshore platform",
@@ -3880,6 +3994,7 @@
   },
   {
    "word": "Space station",
+   "description": "Orbiting base • Astronaut home • Science experiments • Zero gravity • Solar panels • Docking ports",
    "hints": [
     {
      "text": "Orbiting base",
@@ -3914,6 +4029,7 @@
   },
   {
    "word": "Army base",
+   "description": "Military site • Barracks • Soldiers train • Salutes • Fences and gates • Drill grounds",
    "hints": [
     {
      "text": "Military site",
@@ -3948,6 +4064,7 @@
   },
   {
    "word": "Fort",
+   "description": "Military building • Stronghold • Defends territory • Historic battles • Thick walls • Cannons",
    "hints": [
     {
      "text": "Military building",
@@ -3982,6 +4099,7 @@
   },
   {
    "word": "Ruins",
+   "description": "Old remains • Ancient site • Archaeologists dig • Tourist visits • Crumbling stones • Broken columns",
    "hints": [
     {
      "text": "Old remains",
@@ -4016,6 +4134,7 @@
   },
   {
    "word": "Pyramid",
+   "description": "Ancient monument • Tomb • Pharaohs buried • Desert wonder • Triangular sides • Stone blocks",
    "hints": [
     {
      "text": "Ancient monument",
@@ -4050,6 +4169,7 @@
   },
   {
    "word": "Tower",
+   "description": "Tall structure • Lookout • Views from top • Clock or bell • Spiral stairs • Narrow building",
    "hints": [
     {
      "text": "Tall structure",
@@ -4084,6 +4204,7 @@
   },
   {
    "word": "Bell tower",
+   "description": "Church steeple • Campanile • Rings for services • Pigeons nest • Hanging chimes • Ropes",
    "hints": [
     {
      "text": "Church steeple",
@@ -4118,6 +4239,7 @@
   },
   {
    "word": "Food court",
+   "description": "Dining area • Shopping break • Many cuisines • Teens gather • Shared tables • Tray returns",
    "hints": [
     {
      "text": "Dining area",
@@ -4152,6 +4274,7 @@
   },
   {
    "word": "Canteen",
+   "description": "Dining hall • Workplace eatery • Lunch breaks • Cheap meals • Trays and counters • Long tables",
    "hints": [
     {
      "text": "Dining hall",
@@ -4186,6 +4309,7 @@
   },
   {
    "word": "Diner",
+   "description": "Casual restaurant • Roadside eatery • Pancakes all day • Milkshakes • Booths and counter • Jukebox",
    "hints": [
     {
      "text": "Casual restaurant",
@@ -4220,6 +4344,7 @@
   },
   {
    "word": "Food truck",
+   "description": "Mobile eatery • Street vendor • Festival snacks • Lunch lines • Serving window • Menu board",
    "hints": [
     {
      "text": "Mobile eatery",
@@ -4254,6 +4379,7 @@
   },
   {
    "word": "Night club",
+   "description": "Party venue • Dance venue • Until dawn • DJ sets • Flashing lights • Dance floor",
    "hints": [
     {
      "text": "Party venue",
@@ -4288,6 +4414,7 @@
   },
   {
    "word": "Concert hall",
+   "description": "Music venue • Performance venue • Orchestras play • Ticketed shows • Acoustic ceiling • Grand stage",
    "hints": [
     {
      "text": "Music venue",
@@ -4322,6 +4449,7 @@
   },
   {
    "word": "Opera house",
+   "description": "Music venue • Performance hall • Sopranos sing • Evening dress • Balconies • Chandeliers",
    "hints": [
     {
      "text": "Music venue",
@@ -4356,6 +4484,7 @@
   },
   {
    "word": "Arcade",
+   "description": "Game hall • Fun center • Tokens and tickets • Teens hang out • Flashing cabinets • Claw machines",
    "hints": [
     {
      "text": "Game hall",
@@ -4390,6 +4519,7 @@
   },
   {
    "word": "Bowling alley",
+   "description": "Leisure venue • Sports hall • Birthday parties • League nights • Lanes and pins • Rental shoes",
    "hints": [
     {
      "text": "Leisure venue",
@@ -4424,6 +4554,7 @@
   },
   {
    "word": "Ski resort",
+   "description": "Winter destination • Mountain lodge • Winter holidays • Hot cocoa • Chairlifts • Snowy slopes",
    "hints": [
     {
      "text": "Winter destination",
@@ -4458,6 +4589,7 @@
   },
   {
    "word": "Resort",
+   "description": "Holiday place • Vacation complex • All inclusive • Pool bars • Beach loungers • Spa",
    "hints": [
     {
      "text": "Holiday place",
@@ -4492,6 +4624,7 @@
   },
   {
    "word": "Motel",
+   "description": "Roadside lodging • Budget hotel • Road trips • Neon vacancy sign • Parking by doors • Ice machine",
    "hints": [
     {
      "text": "Roadside lodging",
@@ -4526,6 +4659,7 @@
   },
   {
    "word": "Inn",
+   "description": "Small hotel • Old lodging • Countryside stays • Cozy rooms • Fireplace lounge • Wooden beams",
    "hints": [
     {
      "text": "Small hotel",
@@ -4560,6 +4694,7 @@
   },
   {
    "word": "Palace garden",
+   "description": "Royal grounds • Formal park • Hedge mazes • Fountains • Topiary • Gravel paths",
    "hints": [
     {
      "text": "Royal grounds",
@@ -4594,6 +4729,7 @@
   },
   {
    "word": "Botanical garden",
+   "description": "Plant collection • Green attraction • Rare flowers • Glasshouses • Labeled plants • Winding paths",
    "hints": [
     {
      "text": "Plant collection",
@@ -4628,6 +4764,7 @@
   },
   {
    "word": "Nursery",
+   "description": "Plant shop • Garden center • Buying saplings • Spring rush • Rows of pots • Compost bags",
    "hints": [
     {
      "text": "Plant shop",
@@ -4662,6 +4799,7 @@
   },
   {
    "word": "Daycare",
+   "description": "Toddler center • Kids center • Working parents • Nap time • Colorful toys • Tiny chairs",
    "hints": [
     {
      "text": "Toddler center",
@@ -4696,6 +4834,7 @@
   },
   {
    "word": "Retirement home",
+   "description": "Elderly residence • Senior living • Bingo nights • Visiting grandkids • Nurses on call • Common room",
    "hints": [
     {
      "text": "Elderly residence",
@@ -4730,6 +4869,7 @@
   },
   {
    "word": "Orphanage",
+   "description": "Children's home • Care shelter • Adoption hopes • Caretakers • Dormitory beds • Shared meals",
    "hints": [
     {
      "text": "Children's home",
@@ -4764,6 +4904,7 @@
   },
   {
    "word": "Shelter",
+   "description": "Refuge • Safe place • Homeless or animals • Charity • Cots and blankets • Volunteers",
    "hints": [
     {
      "text": "Refuge",
@@ -4798,6 +4939,7 @@
   },
   {
    "word": "Recycling center",
+   "description": "Waste facility • Sorting site • Bottles and cans • Eco friendly • Colored bins • Compactors",
    "hints": [
     {
      "text": "Waste facility",
@@ -4832,6 +4974,7 @@
   },
   {
    "word": "Landfill",
+   "description": "Waste site • Garbage dump • Trash trucks • Seagulls circle • Mounds of rubbish • Bulldozers",
    "hints": [
     {
      "text": "Waste site",
@@ -4866,6 +5009,7 @@
   },
   {
    "word": "Junkyard",
+   "description": "Scrap heap • Salvage place • Old cars • Guard dogs • Rusted metal piles • Crushers",
    "hints": [
     {
      "text": "Scrap heap",
@@ -4900,6 +5044,7 @@
   },
   {
    "word": "Cave",
+   "description": "Natural shelter • Underground space • Explorers with torches • Bats • Stalactites • Damp darkness",
    "hints": [
     {
      "text": "Natural shelter",
@@ -4934,6 +5079,7 @@
   },
   {
    "word": "Hut",
+   "description": "Simple shelter • Small dwelling • Mountain trails • Villages • Thatched roof • One room",
    "hints": [
     {
      "text": "Simple shelter",
@@ -4968,6 +5114,7 @@
   },
   {
    "word": "Bungalow",
+   "description": "Single story house • Holiday home • Retirees • Beach rentals • Wide porch • No stairs",
    "hints": [
     {
      "text": "Single story house",
@@ -5002,6 +5149,7 @@
   },
   {
    "word": "Villa",
+   "description": "Luxury house • Holiday home • Mediterranean vacations • Private pools • Terracotta roof • Gardens",
    "hints": [
     {
      "text": "Luxury house",
@@ -5036,6 +5184,7 @@
   },
   {
    "word": "Condo",
+   "description": "Owned apartment • Residential unit • Downtown living • Shared amenities • Building complex • Balcony",
    "hints": [
     {
      "text": "Owned apartment",
@@ -5070,6 +5219,7 @@
   },
   {
    "word": "Penthouse",
+   "description": "Top floor flat • Luxury apartment • City views • Rooftop parties • Floor to ceiling windows • Elevator access",
    "hints": [
     {
      "text": "Top floor flat",
@@ -5104,6 +5254,7 @@
   },
   {
    "word": "Hair salon",
+   "description": "Beauty spot • Styling studio • Weekly blowouts • Gossip sessions • Mirrors and dryers • Color foils",
    "hints": [
     {
      "text": "Beauty spot",
@@ -5138,6 +5289,7 @@
   },
   {
    "word": "Boutique",
+   "description": "Small shop • Fashion store • Designer pieces • Window displays • Mannequins • Changing rooms",
    "hints": [
     {
      "text": "Small shop",
@@ -5172,6 +5324,7 @@
   },
   {
    "word": "Casino",
+   "description": "Gambling venue • Entertainment hall • Slot machines • High rollers • Roulette wheels • Poker chips",
    "hints": [
     {
      "text": "Gambling venue",
@@ -5206,6 +5359,7 @@
   },
   {
    "word": "Racetrack",
+   "description": "Racing venue • Speed circuit • Horse or car races • Cheering crowds • Grandstands • Finish line",
    "hints": [
     {
      "text": "Racing venue",
@@ -5240,6 +5394,7 @@
   },
   {
    "word": "Lagoon resort",
+   "description": "Island stay • Tropical getaway • Overwater bungalows • Snorkel trips • Turquoise water • Palm shade",
    "hints": [
     {
      "text": "Island stay",

@@ -13,6 +13,8 @@ import '../widgets/common.dart';
 import '../widgets/mascot.dart';
 import '../widgets/visuals.dart';
 import 'online_social_screens.dart';
+import '../widgets/hush_loader.dart';
+import '../widgets/busy_overlay.dart';
 
 final _previewProvider = FutureProvider.autoDispose.family<RoomPreview, String>((ref, code) async {
   ref.watch(authUserProvider); // Re-check after sign-in: "member" depends on who asks.
@@ -39,7 +41,7 @@ class _InviteScreenState extends ConsumerState<InviteScreen> {
   Future<void> _join() async {
     if (_joining) return;
     setState(() => _joining = true);
-    final profile = await ref.read(myProfileProvider.future).catchError((_) => null);
+    final profile = await ref.read(manualBusyProvider.notifier).run('Joining the room…', () => ref.read(myProfileProvider.future).catchError((_) => null));
     final ok = await ref.read(onlineLobbyProvider.notifier).joinRoom(
           code: widget.code,
           displayName: profile?.displayName ?? 'Player',
@@ -79,9 +81,7 @@ class _InviteScreenState extends ConsumerState<InviteScreen> {
       context,
       preview.when(
         loading: () => const Column(mainAxisSize: MainAxisSize.min, children: [
-          CircularProgressIndicator(color: HushbugColors.neonPurpleLight),
-          SizedBox(height: 14),
-          Text('Checking your invitation…', style: TextStyle(color: HushbugColors.textSubtext)),
+          HushbugLoader(text: 'Checking your invitation…'),
         ]),
         error: (_, _) => _Problem(
           text: 'No connection. Check your internet and try again.',

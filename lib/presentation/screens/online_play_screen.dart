@@ -19,6 +19,7 @@ import '../widgets/motion.dart';
 import '../widgets/neon.dart';
 import '../widgets/room_comms.dart';
 import '../widgets/visuals.dart';
+import '../widgets/hush_loader.dart';
 
 /// Online game in the neon style. Every rule shown here is also enforced by
 /// the database; the screen only reflects it.
@@ -41,6 +42,7 @@ class _OnlinePlayScreenState extends ConsumerState<OnlinePlayScreen> with Ticker
   bool _timerSynced = false;
   String? _answeredRequestId;
   String? _picked;
+  bool _clueSynced = false;
   bool _secure = false;
 
   @override
@@ -64,6 +66,16 @@ class _OnlinePlayScreenState extends ConsumerState<OnlinePlayScreen> with Ticker
     } else {
       _timerSynced = false;
     }
+    if (s.phase == 'clue' && !s.cluesComplete && s.clueTurnDeadline != null) {
+      final left = s.clueTurnDeadline!.toUtc().difference(DateTime.now().toUtc()).inSeconds;
+      setState(() {});
+      if (left <= 0 && !_clueSynced) {
+        _clueSynced = true;
+        ref.read(onlineGameProvider.notifier).syncTimers();
+      } else if (left > 0) {
+        _clueSynced = false;
+      }
+    }
     if (game.endRequest?.status == 'pending') setState(() {});
   }
 
@@ -83,6 +95,9 @@ class _OnlinePlayScreenState extends ConsumerState<OnlinePlayScreen> with Ticker
   }
 
   void _hold(bool open) {
+    if (open && ref.read(onlineGameProvider).assignment != null) {
+      ref.read(onlineGameProvider.notifier).ackWordViewed();
+    }
     setState(() => _open = open);
     open ? _flip.forward() : _flip.reverse();
     open ? HapticFeedback.mediumImpact() : HapticFeedback.lightImpact();
@@ -132,11 +147,7 @@ class _OnlinePlayScreenState extends ConsumerState<OnlinePlayScreen> with Ticker
                     TextButton(onPressed: () => context.pop(), child: const Text('Back to lobby')),
                   ]),
                 )
-              : const Column(mainAxisSize: MainAxisSize.min, children: [
-                  Mascot(size: 100, mood: MascotMood.detective),
-                  SizedBox(height: 14),
-                  Text('Loading the game…', style: TextStyle(color: HushbugColors.textSubtext, fontSize: 15, fontWeight: FontWeight.w700)),
-                ]),
+              : const HushbugLoader(size: 100, text: 'Loading the game…'),
         ),
       );
     }
@@ -263,20 +274,52 @@ class _OnlinePlayScreenState extends ConsumerState<OnlinePlayScreen> with Ticker
             ),
           ),
         ),
-        if (c.maxHeight > 520) Mascot(size: 90, mood: _open ? MascotMood.peeking : MascotMood.sleeping),
-        const SizedBox(height: 8),
+        if (c.maxHeight > 560) Mascot(size: 80, mood: _open ? MascotMood.peeking : MascotMood.sleeping),
+        _viewProgress(g),
+        const SizedBox(height: 10),
         if (isHost)
           TactileButton(
-            onPressed: g.busy ? null : () => ref.read(onlineGameProvider.notifier).advancePhase('clue'),
+            onPressed: g.busy ? null : () => _startRound(g),
             style: TactileButtonStyle.golden,
             height: 64,
             icon: g.busy ? const _Spinner() : const Icon(Icons.play_arrow_rounded, size: 32),
-            child: const Text('Everyone has seen it'),
+            child: const Text('Start round'),
           )
         else
-          const _Hint('The host starts clues once everyone has looked.'),
+          const _Hint('The host starts the round once everyone has looked.'),
       ]),
     );
+  }
+
+  Widget _viewProgress(OnlineGameState g) {
+    final alive = [for (final p in g.players) if (p.isAlive) p];
+    final seen = alive.where((p) => g.session!.viewers.contains(p.playerId)).length;
+    return Column(children: [
+      NeonTimerBar(fraction: alive.isEmpty ? 0 : seen / alive.length, label: '$seen/${alive.length}', width: 200),
+      const SizedBox(height: 6),
+      Text(seen == alive.length ? 'Everyone has seen their word' : '$seen of ${alive.length} have seen their word',
+          style: const TextStyle(color: HushbugColors.textSubtext, fontSize: 13, fontWeight: FontWeight.w800)),
+    ]);
+  }
+
+  Future<void> _startRound(OnlineGameState g) async {
+    final notifier = ref.read(onlineGameProvider.notifier);
+    final waiting = await notifier.startClueRound();
+    if (waiting <= 0 || !mounted) return;
+    final ok = await showDialog<bool>(
+      context: context,
+      builder: (c) => AlertDialog(
+        title: const Text('Start anyway?'),
+        content: Text(waiting == 1
+            ? "1 player hasn't viewed their secret word yet. Starting now will move the game forward."
+            : "$waiting players haven't viewed their secret words yet. Starting now will move the game forward."),
+        actions: [
+          TextButton(onPressed: () => Navigator.pop(c, false), child: const Text('Cancel')),
+          FilledButton(onPressed: () => Navigator.pop(c, true), child: const Text('Start anyway')),
+        ],
+      ),
+    );
+    if (ok == true) await notifier.startClueRound(force: true);
   }
 
   Widget _closedCard() => const Column(mainAxisAlignment: MainAxisAlignment.center, children: [
@@ -290,7 +333,7 @@ class _OnlinePlayScreenState extends ConsumerState<OnlinePlayScreen> with Ticker
       ]);
 
   Widget _openCard(OnlinePrivateAssignment? a, bool imposterCard) {
-    if (a == null) return const Center(child: CircularProgressIndicator());
+    if (a == null) return const Center(child: HushbugLoader(size: 70));
     return Column(mainAxisAlignment: MainAxisAlignment.center, children: [
       Icon(imposterCard ? Icons.masks_rounded : Icons.lock_open_rounded, size: 40, color: imposterCard ? HushbugColors.imposterRed : HushbugColors.accentYellow),
       const SizedBox(height: 10),
@@ -345,8 +388,10 @@ class _OnlinePlayScreenState extends ConsumerState<OnlinePlayScreen> with Ticker
         highlight: current,
         done: done,
       ),
-      const SizedBox(height: 14),
-      if (speaker != null)
+      const SizedBox(height: 8),
+      _clueProgress(g),
+      const SizedBox(height: 10),
+      if (speaker != null && !s.cluesComplete)
         AnimatedSwitcher(
           duration: motionDuration(context, 240),
           transitionBuilder: swapTransition,
@@ -358,7 +403,7 @@ class _OnlinePlayScreenState extends ConsumerState<OnlinePlayScreen> with Ticker
           ]),
         )
       else
-        const NeonTitle('All clues are in', size: 24),
+        const NeonTitle('All clues are in!', size: 24),
       const SizedBox(height: 10),
       Expanded(
         child: g.clues.isEmpty
@@ -388,7 +433,7 @@ class _OnlinePlayScreenState extends ConsumerState<OnlinePlayScreen> with Ticker
                   ),
               ]),
       ),
-      if (mine) ...[
+      if (mine && !s.cluesComplete) ...[
         GlassPanel(
           radius: 34,
           borderColor: const Color(0x99DCB4FF),
@@ -425,19 +470,42 @@ class _OnlinePlayScreenState extends ConsumerState<OnlinePlayScreen> with Ticker
           icon: g.busy ? const _Spinner() : const Icon(Icons.send_rounded, size: 28),
           child: const Text('Send clue'),
         ),
-      ] else if (current != null)
+      ] else if (current != null && !s.cluesComplete)
         _Hint('Waiting for ${_name(g, current)}…'),
-      if (isHost && offline != null)
+      if (isHost && offline != null && !s.cluesComplete)
         TextButton.icon(
           onPressed: g.busy ? null : () => ref.read(onlineGameProvider.notifier).skipTurn(),
           icon: const Icon(Icons.skip_next_rounded, color: HushbugColors.accentYellow),
           label: Text('${offline.displayName} is offline. Skip turn', style: const TextStyle(color: HushbugColors.accentYellow)),
         ),
+      const SizedBox(height: 8),
       if (isHost)
-        TextButton(
-          onPressed: g.busy ? null : () => ref.read(onlineGameProvider.notifier).advancePhase('discussion'),
-          child: const Text('Host: start the discussion now'),
-        ),
+        TactileButton(
+          onPressed: s.cluesComplete && !g.busy ? () => ref.read(onlineGameProvider.notifier).startDiscussion() : null,
+          style: TactileButtonStyle.neonPurple,
+          height: 58,
+          icon: g.busy ? const _Spinner(color: Colors.white) : const Icon(Icons.forum_rounded, size: 26),
+          child: Text(s.cluesComplete ? 'Start discussion' : 'Start discussion (waiting for clues)'),
+        )
+      else if (s.cluesComplete)
+        const _Hint('Waiting for the host to start the discussion…', color: HushbugColors.accentYellow),
+    ]);
+  }
+
+  /// Clues given so far and time left for the current player.
+  Widget _clueProgress(OnlineGameState g) {
+    final s = g.session!;
+    final rounds = ((ref.watch(onlineLobbyProvider).room?.config['clueRounds'] as num?) ?? 1).toInt().clamp(1, 5);
+    final limit = s.turnOrder.length * rounds;
+    final done = s.cluesComplete ? limit : s.clueStep.clamp(0, limit);
+    final secs = s.clueTurnDeadline == null ? null : s.clueTurnDeadline!.toUtc().difference(DateTime.now().toUtc()).inSeconds.clamp(0, 999);
+    final total = ((ref.watch(onlineLobbyProvider).room?.config['clueSeconds'] as num?) ?? 60).toInt();
+    return Column(children: [
+      Text('$done/$limit clue turns done', style: const TextStyle(color: HushbugColors.textSubtext, fontSize: 13, fontWeight: FontWeight.w800)),
+      if (secs != null && !s.cluesComplete) ...[
+        const SizedBox(height: 6),
+        NeonTimerBar(fraction: total <= 0 ? 0 : secs / total, label: '0:${secs.toString().padLeft(2, '0')}', width: 200, urgent: secs <= 10),
+      ],
     ]);
   }
 
@@ -764,7 +832,7 @@ class _OnlinePlayScreenState extends ConsumerState<OnlinePlayScreen> with Ticker
 
   Widget _result(OnlineGameState g, bool isHost, OnlineRoom? room) {
     final r = g.result;
-    if (r == null) return const Center(child: _Hint('Counting the votes…'));
+    if (r == null) return const Center(child: HushbugLoader(text: 'Counting the votes…'));
     final crewWon = r.winner == 'crew';
     final uid = SupabaseService.currentUserId;
     final summary = g.session!.lastVoteSummary;

@@ -4,6 +4,7 @@
  "words": [
   {
    "word": "Football",
+   "description": "Team sport • Field game • Most popular worldwide • World cup • Kick into goal • Eleven players",
    "hints": [
     {
      "text": "Team sport",
@@ -38,6 +39,7 @@
   },
   {
    "word": "Cricket",
+   "description": "Bat sport • Team sport • Huge in south asia • Lasts for days • Wickets and stumps • Leather ball",
    "hints": [
     {
      "text": "Bat sport",
@@ -72,6 +74,7 @@
   },
   {
    "word": "Basketball",
+   "description": "Team sport • Court game • Tall players • Slam dunks • Hoop and backboard • Dribbling",
    "hints": [
     {
      "text": "Team sport",
@@ -106,6 +109,7 @@
   },
   {
    "word": "Tennis",
+   "description": "Racket sport • Court game • Grand slam events • Love means zero • Yellow fuzzy ball • Net in middle",
    "hints": [
     {
      "text": "Racket sport",
@@ -140,6 +144,7 @@
   },
   {
    "word": "Badminton",
+   "description": "Racket sport • Indoor game • Backyard favorite • Fast smashes • Feathered shuttlecock • High net",
    "hints": [
     {
      "text": "Racket sport",
@@ -174,6 +179,7 @@
   },
   {
    "word": "Golf",
+   "description": "Outdoor sport • Club sport • Played on courses • Quiet spectators • Hole in one • Small dimpled ball",
    "hints": [
     {
      "text": "Outdoor sport",
@@ -208,6 +214,7 @@
   },
   {
    "word": "Baseball",
+   "description": "Bat sport • Team sport • National pastime • Home runs • Diamond field • Pitcher and catcher",
    "hints": [
     {
      "text": "Bat sport",
@@ -242,6 +249,7 @@
   },
   {
    "word": "Hockey",
+   "description": "Team sport • Stick sport • Ice or turf • Fast and rough • Puck or ball • Curved stick",
    "hints": [
     {
      "text": "Team sport",
@@ -276,6 +284,7 @@
   },
   {
    "word": "Rugby",
+   "description": "Team sport • Contact sport • Scrums and tackles • Very physical • Oval ball • Try line",
    "hints": [
     {
      "text": "Team sport",
@@ -310,6 +319,7 @@
   },
   {
    "word": "Volleyball",
+   "description": "Team sport • Net game • Played on beaches • Spikes and blocks • High net • Six players",
    "hints": [
     {
      "text": "Team sport",
@@ -344,6 +354,7 @@
   },
   {
    "word": "Swimming",
+   "description": "Water sport • Olympic event • Laps in pools • Freestyle strokes • Goggles and caps • Diving blocks",
    "hints": [
     {
      "text": "Water sport",
@@ -378,6 +389,7 @@
   },
   {
    "word": "Boxing",
+   "description": "Combat sport • Fighting sport • Heavyweight champions • Knockouts • Padded gloves • Square ring",
    "hints": [
     {
      "text": "Combat sport",
@@ -412,6 +424,7 @@
   },
   {
    "word": "Wrestling",
+   "description": "Combat sport • Grappling sport • Pins and holds • Ancient olympic event • Mat battles • Singlet uniforms",
    "hints": [
     {
      "text": "Combat sport",
@@ -446,6 +459,7 @@
   },
   {
    "word": "Cycling",
+   "description": "Endurance sport • Wheel sport • Tour races • Commuting • Helmets and lycra • Pedal power",
    "hints": [
     {
      "text": "Endurance sport",
@@ -480,6 +494,7 @@
   },
   {
    "word": "Running",
+   "description": "Track sport • Endurance sport • Marathons • Morning jogs • Sneakers • Finish line tape",
    "hints": [
     {
      "text": "Track sport",
@@ -514,6 +529,7 @@
   },
   {
    "word": "Marathon",
+   "description": "Long race • Endurance event • City streets • Water stations • Very long distance • Medal at finish",
    "hints": [
     {
      "text": "Long race",
@@ -548,6 +564,7 @@
   },
   {
    "word": "Skiing",
+   "description": "Winter sport • Snow sport • Mountain resorts • Chair lifts • Two long planks • Poles in hands",
    "hints": [
     {
      "text": "Winter sport",
@@ -582,6 +599,7 @@
   },
   {
    "word": "Snowboarding",
+   "description": "Winter sport • Slope sport • Half pipe tricks • Mountain slopes • Single wide plank • Sideways stance",
    "hints": [
     {
      "text": "Winter sport",
@@ -616,6 +634,7 @@
   },
   {
    "word": "Surfing",
+   "description": "Water sport • Board sport • Beach culture • Catching waves • Wetsuits • Hang ten",
    "hints": [
     {
      "text": "Water sport",
@@ -650,6 +669,7 @@
   },
   {
    "word": "Skateboarding",
+   "description": "Street sport • Wheeled sport • Concrete bowls • Kickflips • Four small wheels • Grip tape",
    "hints": [
     {
      "text": "Street sport",
@@ -684,6 +704,7 @@
   },
   {
    "word": "Karate",
+   "description": "Martial art • Combat sport • Belt colors • Board breaking • White uniform • Chops and kicks",
    "hints": [
     {
      "text": "Martial art",
@@ -718,6 +739,7 @@
   },
   {
    "word": "Judo",
+   "description": "Martial art • Grappling sport • Olympic sport • Throws opponents • Thick white jacket • Tatami mats",
    "hints": [
     {
      "text": "Martial art",
@@ -752,6 +774,7 @@
   },
   {
    "word": "Taekwondo",
+   "description": "Martial art • Kicking sport • Korean origins • Olympic sport • High spinning kicks • Chest protector",
    "hints": [
     {
      "text": "Martial art",
@@ -786,6 +809,7 @@
   },
   {
    "word": "Fencing",
+   "description": "Combat sport • Sword sport • Olympic event • Touches score points • Mesh mask • Thin blades",
    "hints": [
     {
      "text": "Combat sport",
@@ -820,6 +844,7 @@
   },
   {
    "word": "Archery",
+   "description": "Target sport • Precision sport • Olympic event • Ancient skill • Bow and arrows • Bullseye",
    "hints": [
     {
      "text": "Target sport",
@@ -854,6 +879,7 @@
   },
   {
    "word": "Darts",
+   "description": "Pub game • Target sport • Throwing contest • Bars and pubs • Board with rings • Pointed arrows",
    "hints": [
     {
      "text": "Pub game",
@@ -888,6 +914,7 @@
   },
   {
    "word": "Bowling",
+   "description": "Alley sport • Indoor game • Rented shoes • Strikes and spares • Ten pins • Heavy ball",
    "hints": [
     {
      "text": "Alley sport",
@@ -922,6 +949,7 @@
   },
   {
    "word": "Billiards",
+   "description": "Table game • Cue sport • Pool halls • Chalk on tip • Colored balls • Six pockets",
    "hints": [
     {
      "text": "Table game",
@@ -956,6 +984,7 @@
   },
   {
    "word": "Snooker",
+   "description": "Cue sport • Table game • Long matches • Quiet crowds • Red and colored balls • Large green table",
    "hints": [
     {
      "text": "Cue sport",
@@ -990,6 +1019,7 @@
   },
   {
    "word": "Table tennis",
+   "description": "Indoor sport • Paddle sport • Fast rallies • Basement game • Tiny plastic ball • Little net",
    "hints": [
     {
      "text": "Indoor sport",
@@ -1024,6 +1054,7 @@
   },
   {
    "word": "Squash",
+   "description": "Racket sport • Indoor game • Four wall court • Fast and sweaty • Small rubber ball • Hits the wall",
    "hints": [
     {
      "text": "Racket sport",
@@ -1058,6 +1089,7 @@
   },
   {
    "word": "Gymnastics",
+   "description": "Olympic sport • Acrobatic sport • Flips and tumbles • Perfect tens • Balance beam • Parallel bars",
    "hints": [
     {
      "text": "Olympic sport",
@@ -1092,6 +1124,7 @@
   },
   {
    "word": "Diving",
+   "description": "Water sport • Olympic event • Springboard jumps • Graceful entries • High platform • Twists and somersaults",
    "hints": [
     {
      "text": "Water sport",
@@ -1126,6 +1159,7 @@
   },
   {
    "word": "Rowing",
+   "description": "Water sport • Team sport • Boat races • River clubs • Oars in sync • Narrow boats",
    "hints": [
     {
      "text": "Water sport",
@@ -1160,6 +1194,7 @@
   },
   {
    "word": "Sailing",
+   "description": "Water sport • Wind sport • Regattas • Yacht clubs • Wind filled cloth • Tacking and jibing",
    "hints": [
     {
      "text": "Water sport",
@@ -1194,6 +1229,7 @@
   },
   {
    "word": "Kayaking",
+   "description": "Water sport • Paddle sport • River rapids • Sea trips • Double bladed paddle • Narrow boat",
    "hints": [
     {
      "text": "Water sport",
@@ -1228,6 +1264,7 @@
   },
   {
    "word": "Rock climbing",
+   "description": "Adventure sport • Vertical sport • Indoor gyms • Cliff faces • Harness and ropes • Chalk bags",
    "hints": [
     {
      "text": "Adventure sport",
@@ -1262,6 +1299,7 @@
   },
   {
    "word": "Horse racing",
+   "description": "Equestrian sport • Track event • Betting crowds • Fancy hats • Jockeys • Finish post",
    "hints": [
     {
      "text": "Equestrian sport",
@@ -1296,6 +1334,7 @@
   },
   {
    "word": "Polo",
+   "description": "Equestrian sport • Team sport • Played on horseback • Fancy crowd • Long mallets • Ponies",
    "hints": [
     {
      "text": "Equestrian sport",
@@ -1330,6 +1369,7 @@
   },
   {
    "word": "Formula one",
+   "description": "Motor sport • Racing series • Pit stops • Champagne celebrations • Open wheel cars • Very fast laps",
    "hints": [
     {
      "text": "Motor sport",
@@ -1364,6 +1404,7 @@
   },
   {
    "word": "Motocross",
+   "description": "Motor sport • Dirt racing • Muddy tracks • Big jumps • Dirt bikes • Goggles and boots",
    "hints": [
     {
      "text": "Motor sport",
@@ -1398,6 +1439,7 @@
   },
   {
    "word": "Ice skating",
+   "description": "Winter sport • Rink sport • Graceful spins • Frozen ponds • Bladed boots • Figure eights",
    "hints": [
     {
      "text": "Winter sport",
@@ -1432,6 +1474,7 @@
   },
   {
    "word": "Figure skating",
+   "description": "Winter sport • Artistic sport • Olympic event • Sparkly costumes • Triple axel jumps • Ice rink",
    "hints": [
     {
      "text": "Winter sport",
@@ -1466,6 +1509,7 @@
   },
   {
    "word": "Curling",
+   "description": "Winter sport • Ice sport • Sweeping brooms • Olympic oddity • Heavy granite stones • Target house",
    "hints": [
     {
      "text": "Winter sport",
@@ -1500,6 +1544,7 @@
   },
   {
    "word": "Handball",
+   "description": "Team sport • Court sport • Popular in europe • Fast throws • Throwing into goal • Indoor court",
    "hints": [
     {
      "text": "Team sport",
@@ -1534,6 +1579,7 @@
   },
   {
    "word": "Lacrosse",
+   "description": "Team sport • Stick sport • Indigenous origins • College sport • Netted stick • Hard rubber ball",
    "hints": [
     {
      "text": "Team sport",
@@ -1568,6 +1614,7 @@
   },
   {
    "word": "Softball",
+   "description": "Bat sport • Team sport • Underhand pitches • School sport • Larger sphere • Diamond field",
    "hints": [
     {
      "text": "Bat sport",
@@ -1602,6 +1649,7 @@
   },
   {
    "word": "Triathlon",
+   "description": "Endurance sport • Multisport event • Ironman races • Transitions • Swim bike run • Wetsuit to sneakers",
    "hints": [
     {
      "text": "Endurance sport",
@@ -1636,6 +1684,7 @@
   },
   {
    "word": "Weightlifting",
+   "description": "Strength sport • Olympic sport • Gym culture • Clean and jerk • Heavy barbell • Chalky hands",
    "hints": [
     {
      "text": "Strength sport",
@@ -1670,6 +1719,7 @@
   },
   {
    "word": "Sumo",
+   "description": "Combat sport • Japanese sport • Huge wrestlers • Ancient rituals • Circular ring • Throwing salt",
    "hints": [
     {
      "text": "Combat sport",
@@ -1704,6 +1754,7 @@
   },
   {
    "word": "Kabaddi",
+   "description": "Team sport • Contact sport • Popular in south asia • Holding breath • Raider and defenders • Chanting the name",
    "hints": [
     {
      "text": "Team sport",
@@ -1738,6 +1789,7 @@
   },
   {
    "word": "Chess",
+   "description": "Board game • Mind sport • Grandmasters • Timed matches • Checkmate • Kings and queens",
    "hints": [
     {
      "text": "Board game",
@@ -1772,6 +1824,7 @@
   },
   {
    "word": "Polo match",
+   "description": "Equestrian event • Team fixture • Sunday social • Divot stomping • Horses and mallets • Chukkas",
    "hints": [
     {
      "text": "Equestrian event",
@@ -1806,6 +1859,7 @@
   },
   {
    "word": "Water polo",
+   "description": "Pool sport • Team sport • Constant swimming • Olympic sport • Pool goals • Swim caps",
    "hints": [
     {
      "text": "Pool sport",
@@ -1840,6 +1894,7 @@
   },
   {
    "word": "Hurdles",
+   "description": "Track event • Running race • Olympic sprint • Jumping while running • Barriers on track • Knee lifts",
    "hints": [
     {
      "text": "Track event",
@@ -1874,6 +1929,7 @@
   },
   {
    "word": "Long jump",
+   "description": "Track event • Leaping event • Olympic event • Run and leap • Sand pit landing • Takeoff board",
    "hints": [
     {
      "text": "Track event",
@@ -1908,6 +1964,7 @@
   },
   {
    "word": "High jump",
+   "description": "Track event • Leaping event • Back first technique • Olympic event • Bar to clear • Big foam mat",
    "hints": [
     {
      "text": "Track event",
@@ -1942,6 +1999,7 @@
   },
   {
    "word": "Pole vault",
+   "description": "Track event • Jumping event • Olympic event • Flying high • Bendy long rod • Very high bar",
    "hints": [
     {
      "text": "Track event",
@@ -1976,6 +2034,7 @@
   },
   {
    "word": "Javelin",
+   "description": "Throwing event • Track event • Olympic event • Ancient origins • Long spear • Run up throw",
    "hints": [
     {
      "text": "Throwing event",
@@ -2010,6 +2069,7 @@
   },
   {
    "word": "Discus",
+   "description": "Throwing event • Track event • Ancient greek statue • Spin and release • Heavy flat plate • Throwing circle",
    "hints": [
     {
      "text": "Throwing event",
@@ -2044,6 +2104,7 @@
   },
   {
    "word": "Shot put",
+   "description": "Throwing event • Strength event • Olympic event • Push throw • Heavy metal ball • Thrown from neck",
    "hints": [
     {
      "text": "Throwing event",
@@ -2078,6 +2139,7 @@
   },
   {
    "word": "Sprint",
+   "description": "Track event • Short race • Fastest human title • Olympic final • Starting blocks • Explosive burst",
    "hints": [
     {
      "text": "Track event",
@@ -2112,6 +2174,7 @@
   },
   {
    "word": "Relay",
+   "description": "Track event • Team race • Four runners • Exciting finish • Baton passing • Handover zone",
    "hints": [
     {
      "text": "Track event",
@@ -2146,6 +2209,7 @@
   },
   {
    "word": "Decathlon",
+   "description": "Track event • Multi event • Ten disciplines • Best all rounder • Two day contest • Points system",
    "hints": [
     {
      "text": "Track event",
@@ -2180,6 +2244,7 @@
   },
   {
    "word": "Badminton smash",
+   "description": "Fast shot • Racket move • Point winner • Jump attack • Steep downward hit • Feathered target",
    "hints": [
     {
      "text": "Fast shot",
@@ -2214,6 +2279,7 @@
   },
   {
    "word": "Mountain biking",
+   "description": "Off road sport • Wheel sport • Forest trails • Downhill thrills • Suspension frames • Muddy tires",
    "hints": [
     {
      "text": "Off road sport",
@@ -2248,6 +2314,7 @@
   },
   {
    "word": "Paragliding",
+   "description": "Air sport • Adventure sport • Mountain launches • Soaring thermals • Colorful canopy • Harness seat",
    "hints": [
     {
      "text": "Air sport",
@@ -2282,6 +2349,7 @@
   },
   {
    "word": "Skydiving",
+   "description": "Air sport • Extreme sport • Jump from planes • Free fall • Parachute • Altimeter on wrist",
    "hints": [
     {
      "text": "Air sport",
@@ -2316,6 +2384,7 @@
   },
   {
    "word": "Bungee jumping",
+   "description": "Extreme sport • Adventure activity • Bridge leaps • Screaming fall • Stretchy cord • Ankle harness",
    "hints": [
     {
      "text": "Extreme sport",
@@ -2350,6 +2419,7 @@
   },
   {
    "word": "Scuba diving",
+   "description": "Water sport • Underwater sport • Coral reefs • Certification course • Air tanks • Wetsuit and fins",
    "hints": [
     {
      "text": "Water sport",
@@ -2384,6 +2454,7 @@
   },
   {
    "word": "Snorkeling",
+   "description": "Water sport • Beach activity • Tropical reefs • Shallow water • Breathing tube • Face mask",
    "hints": [
     {
      "text": "Water sport",
@@ -2418,6 +2489,7 @@
   },
   {
    "word": "Windsurfing",
+   "description": "Water sport • Board sport • Breezy beaches • Olympic event • Sail on a board • Balancing act",
    "hints": [
     {
      "text": "Water sport",
@@ -2452,6 +2524,7 @@
   },
   {
    "word": "Kitesurfing",
+   "description": "Water sport • Wind sport • Big air jumps • Windy beaches • Giant canopy • Harness and board",
    "hints": [
     {
      "text": "Water sport",
@@ -2486,6 +2559,7 @@
   },
   {
    "word": "Rafting",
+   "description": "Water sport • Group adventure • River rapids • Team paddling • Inflatable boat • Helmets and vests",
    "hints": [
     {
      "text": "Water sport",
@@ -2520,6 +2594,7 @@
   },
   {
    "word": "Canoeing",
+   "description": "Water sport • Paddle sport • Lake trips • Olympic sprint • Single bladed paddle • Open boat",
    "hints": [
     {
      "text": "Water sport",
@@ -2554,6 +2629,7 @@
   },
   {
    "word": "Hiking",
+   "description": "Outdoor activity • Walking sport • Mountain trails • Weekend escape • Backpack and boots • Trail markers",
    "hints": [
     {
      "text": "Outdoor activity",
@@ -2588,6 +2664,7 @@
   },
   {
    "word": "Fishing",
+   "description": "Outdoor hobby • Water sport • Patience needed • Lakeside mornings • Rod and reel • Bait on hook",
    "hints": [
     {
      "text": "Outdoor hobby",
@@ -2622,6 +2699,7 @@
   },
   {
    "word": "Equestrian",
+   "description": "Horse sport • Olympic discipline • Dressage and jumping • Riding schools • Saddle and reins • Show arena",
    "hints": [
     {
      "text": "Horse sport",
@@ -2656,6 +2734,7 @@
   },
   {
    "word": "Rodeo",
+   "description": "Western sport • Cowboy event • Bull riding • Lasso tricks • Bucking broncos • Cowboy hats",
    "hints": [
     {
      "text": "Western sport",
@@ -2690,6 +2769,7 @@
   },
   {
    "word": "Kickboxing",
+   "description": "Combat sport • Striking sport • Fitness classes • Ring bouts • Punches and kicks • Shin guards",
    "hints": [
     {
      "text": "Combat sport",
@@ -2724,6 +2804,7 @@
   },
   {
    "word": "Muay thai",
+   "description": "Combat sport • Ring sport • Art of eight limbs • Ring rituals • Elbows and knees • Headbands",
    "hints": [
     {
      "text": "Combat sport",
@@ -2758,6 +2839,7 @@
   },
   {
    "word": "Kung fu",
+   "description": "Martial art • Chinese sport • Movie fight scenes • Animal styles • Flowing stances • Temple monks",
    "hints": [
     {
      "text": "Martial art",
@@ -2792,6 +2874,7 @@
   },
   {
    "word": "Yoga",
+   "description": "Mind body practice • Stretching exercise • Calm breathing • Mats in studios • Downward dog • Lotus pose",
    "hints": [
     {
      "text": "Mind body practice",
@@ -2826,6 +2909,7 @@
   },
   {
    "word": "Pilates",
+   "description": "Exercise method • Core workout • Studio classes • Low impact • Reformer machine • Core strength",
    "hints": [
     {
      "text": "Exercise method",
@@ -2860,6 +2944,7 @@
   },
   {
    "word": "Aerobics",
+   "description": "Exercise class • Cardio workout • Group fitness • Upbeat music • Step platforms • Leg warmers",
    "hints": [
     {
      "text": "Exercise class",
@@ -2894,6 +2979,7 @@
   },
   {
    "word": "Zumba",
+   "description": "Dance workout • Fitness class • Latin music • High energy • Shaking hips • Instructor moves",
    "hints": [
     {
      "text": "Dance workout",
@@ -2928,6 +3014,7 @@
   },
   {
    "word": "Bodybuilding",
+   "description": "Strength sport • Physique sport • Posing contests • Gym culture • Big muscles • Spray tans",
    "hints": [
     {
      "text": "Strength sport",
@@ -2962,6 +3049,7 @@
   },
   {
    "word": "Powerlifting",
+   "description": "Strength sport • Barbell sport • Max lifts • Gym culture • Squat bench deadlift • Heavy plates",
    "hints": [
     {
      "text": "Strength sport",
@@ -2996,6 +3084,7 @@
   },
   {
    "word": "Arm wrestling",
+   "description": "Strength contest • Table sport • Bar challenges • Grip strength • Elbows on table • Pin the hand",
    "hints": [
     {
      "text": "Strength contest",
@@ -3030,6 +3119,7 @@
   },
   {
    "word": "Hopscotch",
+   "description": "Playground game • Chalk game • Hop on one foot • Kids at recess • Chalk squares • Toss a stone",
    "hints": [
     {
      "text": "Playground game",
@@ -3064,6 +3154,7 @@
   },
   {
    "word": "Dodgeball",
+   "description": "Playground game • Team game • Gym class • Duck and weave • Rubber balls • Getting hit means out",
    "hints": [
     {
      "text": "Playground game",
@@ -3098,6 +3189,7 @@
   },
   {
    "word": "Netball",
+   "description": "Team sport • Court game • School sport • No dribbling • Tall hoop no backboard • Position bibs",
    "hints": [
     {
      "text": "Team sport",
@@ -3132,6 +3224,7 @@
   },
   {
    "word": "Frisbee",
+   "description": "Outdoor game • Throwing game • Park picnics • Dog catches • Flying disc • Spinning throw",
    "hints": [
     {
      "text": "Outdoor game",
@@ -3166,6 +3259,7 @@
   },
   {
    "word": "Ultimate",
+   "description": "Team sport • Disc sport • Self refereed • College campuses • Flying disc • End zones",
    "hints": [
     {
      "text": "Team sport",
@@ -3200,6 +3294,7 @@
   },
   {
    "word": "Pickleball",
+   "description": "Paddle sport • Court game • Fastest growing sport • Retiree favorite • Holey plastic sphere • Kitchen zone",
    "hints": [
     {
      "text": "Paddle sport",
@@ -3234,6 +3329,7 @@
   },
   {
    "word": "Croquet",
+   "description": "Lawn game • Mallet sport • Garden parties • Victorian pastime • Hoops and mallets • Wooden balls",
    "hints": [
     {
      "text": "Lawn game",
@@ -3268,6 +3364,7 @@
   },
   {
    "word": "Mini golf",
+   "description": "Fun game • Putting game • Family outings • Windmill obstacles • Putter only • Colorful courses",
    "hints": [
     {
      "text": "Fun game",
@@ -3302,6 +3399,7 @@
   },
   {
    "word": "Go karting",
+   "description": "Motor fun • Racing game • Birthday parties • Indoor tracks • Small engine cars • Tire barriers",
    "hints": [
     {
      "text": "Motor fun",
@@ -3336,6 +3434,7 @@
   },
   {
    "word": "Esports",
+   "description": "Gaming competition • Digital contest • Arena tournaments • Streaming crowds • Headsets and keyboards • Team jerseys",
    "hints": [
     {
      "text": "Gaming competition",
@@ -3370,6 +3469,7 @@
   },
   {
    "word": "Channel swim",
+   "description": "Endurance event • Lake race • Sea crossings • Hours long • Grease and goggles • Cold waves",
    "hints": [
     {
      "text": "Endurance event",
@@ -3404,6 +3504,7 @@
   },
   {
    "word": "Steeplechase",
+   "description": "Track event • Obstacle race • Water jump • Long distance • Barriers and pit • Muddy splashes",
    "hints": [
     {
      "text": "Track event",
@@ -3438,6 +3539,7 @@
   },
   {
    "word": "Biathlon",
+   "description": "Winter sport • Combined event • Ski and shoot • Olympic event • Rifle on back • Cross country",
    "hints": [
     {
      "text": "Winter sport",
@@ -3472,6 +3574,7 @@
   },
   {
    "word": "Bobsleigh",
+   "description": "Winter sport • Sliding sport • Olympic event • Team push start • Icy track • Sled pod",
    "hints": [
     {
      "text": "Winter sport",
@@ -3506,6 +3609,7 @@
   },
   {
    "word": "Luge",
+   "description": "Winter sport • Sliding sport • Feet first • Olympic event • Lying on sled • Icy curves",
    "hints": [
     {
      "text": "Winter sport",
@@ -3540,6 +3644,7 @@
   },
   {
    "word": "Sledding",
+   "description": "Winter fun • Snow play • Kids on hills • Snow days • Plastic toboggan • Downhill slide",
    "hints": [
     {
      "text": "Winter fun",
@@ -3574,6 +3679,7 @@
   },
   {
    "word": "Rollerblading",
+   "description": "Wheel sport • Street skating • Beach boardwalks • Retro fun • Inline wheels • Knee pads",
    "hints": [
     {
      "text": "Wheel sport",
@@ -3608,6 +3714,7 @@
   },
   {
    "word": "Parkour",
+   "description": "Urban sport • Freerunning • Rooftop jumps • Wall flips • Vaulting railings • City obstacles",
    "hints": [
     {
      "text": "Urban sport",
@@ -3642,6 +3749,7 @@
   },
   {
    "word": "Bouldering",
+   "description": "Climbing sport • Short climbs • Indoor walls • No ropes • Crash pads • Chalky holds",
    "hints": [
     {
      "text": "Climbing sport",
@@ -3676,6 +3784,7 @@
   },
   {
    "word": "Ice hockey",
+   "description": "Winter sport • Team sport • Scuffles on rink • Canadian passion • Rubber puck • Bladed boots",
    "hints": [
     {
      "text": "Winter sport",
@@ -3710,6 +3819,7 @@
   },
   {
    "word": "Field hockey",
+   "description": "Team sport • Stick sport • Olympic sport • Played on turf • Hooked stick • Hard white ball",
    "hints": [
     {
      "text": "Team sport",
@@ -3744,6 +3854,7 @@
   },
   {
    "word": "Beach volleyball",
+   "description": "Sand sport • Team sport • Summer olympics • Pairs play • Sandy court • Sunglasses and bikinis",
    "hints": [
     {
      "text": "Sand sport",
@@ -3778,6 +3889,7 @@
   },
   {
    "word": "Bowls",
+   "description": "Lawn game • Precision sport • Played on greens • Older players • Rolling biased balls • Small white jack",
    "hints": [
     {
      "text": "Lawn game",
@@ -3812,6 +3924,7 @@
   },
   {
    "word": "Bocce",
+   "description": "Lawn game • Italian sport • Park game • Relaxed matches • Heavy balls • Small target ball",
    "hints": [
     {
      "text": "Lawn game",
@@ -3846,6 +3959,7 @@
   },
   {
    "word": "Gymkhana",
+   "description": "Horse event • Games day • Pony club fun • Timed races • Barrels and poles • Young riders",
    "hints": [
     {
      "text": "Horse event",
@@ -3880,6 +3994,7 @@
   },
   {
    "word": "Show jumping",
+   "description": "Equestrian sport • Olympic event • Clear rounds • Timed courses • Horse leaps fences • Colorful rails",
    "hints": [
     {
      "text": "Equestrian sport",
@@ -3914,6 +4029,7 @@
   },
   {
    "word": "Dressage",
+   "description": "Equestrian sport • Olympic event • Horse ballet • Precise moves • Top hats and tails • Precise circles",
    "hints": [
     {
      "text": "Equestrian sport",
@@ -3948,6 +4064,7 @@
   },
   {
    "word": "Pentathlon",
+   "description": "Multi event • Olympic sport • Five disciplines • Military origins • Fencing swimming riding • Laser run",
    "hints": [
     {
      "text": "Multi event",
@@ -3982,6 +4099,7 @@
   },
   {
    "word": "Racquetball",
+   "description": "Racket sport • Indoor game • Enclosed court • Fast bounces • Hollow rubber sphere • Short racket",
    "hints": [
     {
      "text": "Racket sport",
@@ -4016,6 +4134,7 @@
   },
   {
    "word": "Sepak takraw",
+   "description": "Kick sport • Net game • Southeast asian sport • Acrobatic kicks • Woven rattan ball • No hands",
    "hints": [
     {
      "text": "Kick sport",
@@ -4050,6 +4169,7 @@
   },
   {
    "word": "Hurling",
+   "description": "Field sport • Irish sport • Fastest field game • Ancient roots • Wooden stick • Small leather ball",
    "hints": [
     {
      "text": "Field sport",
@@ -4084,6 +4204,7 @@
   },
   {
    "word": "Gaelic football",
+   "description": "Field sport • Irish sport • Amateur players • County rivalry • Hand passing • Tall posts",
    "hints": [
     {
      "text": "Field sport",
@@ -4118,6 +4239,7 @@
   },
   {
    "word": "Kho kho",
+   "description": "Tag game • Indian sport • School sport • Chasing team • Sit in a line • Tap to swap",
    "hints": [
     {
      "text": "Tag game",
@@ -4152,6 +4274,7 @@
   },
   {
    "word": "Gilli danda",
+   "description": "Street game • Indian game • Village pastime • Played with sticks • Small peg flipped • Long stick hit",
    "hints": [
     {
      "text": "Street game",
@@ -4186,6 +4309,7 @@
   },
   {
    "word": "Carrom",
+   "description": "Board game • Tabletop sport • Indian homes • Flicking with fingers • Striker disc • Corner pockets",
    "hints": [
     {
      "text": "Board game",
@@ -4220,6 +4344,7 @@
   },
   {
    "word": "Ludo",
+   "description": "Board game • Dice game • Family nights • Race to home • Four colored tokens • Rolling dice",
    "hints": [
     {
      "text": "Board game",
@@ -4254,6 +4379,7 @@
   },
   {
    "word": "Poker",
+   "description": "Card game • Betting game • Bluffing faces • Casino tables • Royal flush • Stacks of chips",
    "hints": [
     {
      "text": "Card game",
@@ -4288,6 +4414,7 @@
   },
   {
    "word": "Rummy",
+   "description": "Card game • Family game • Holiday card nights • Sets and runs • Meld cards • Discard pile",
    "hints": [
     {
      "text": "Card game",
@@ -4322,6 +4449,7 @@
   },
   {
    "word": "Boomerang",
+   "description": "Throwing sport • Returning toy • Australian origins • Curves back • Curved wood • Spinning flight",
    "hints": [
     {
      "text": "Throwing sport",
@@ -4356,6 +4484,7 @@
   },
   {
    "word": "Kite flying",
+   "description": "Outdoor hobby • Festival sport • Rooftop battles • Windy days • String and spool • Paper diamond",
    "hints": [
     {
      "text": "Outdoor hobby",
@@ -4390,6 +4519,7 @@
   },
   {
    "word": "Jump rope",
+   "description": "Playground game • Cardio exercise • Double dutch • Boxer warmup • Swinging cord • Skipping feet",
    "hints": [
     {
      "text": "Playground game",
@@ -4424,6 +4554,7 @@
   },
   {
    "word": "Hula hoop",
+   "description": "Playground toy • Fitness toy • Hip swinging • Circus tricks • Plastic ring • Spins around waist",
    "hints": [
     {
      "text": "Playground toy",
@@ -4458,6 +4589,7 @@
   },
   {
    "word": "Trampoline",
+   "description": "Bouncing sport • Backyard fun • Olympic event • Flips in air • Springy mat • Safety net",
    "hints": [
     {
      "text": "Bouncing sport",
@@ -4492,6 +4624,7 @@
   },
   {
    "word": "Obstacle race",
+   "description": "Endurance event • Muddy challenge • Team challenges • Charity runs • Walls and mud pits • Crawling under wires",
    "hints": [
     {
      "text": "Endurance event",
@@ -4526,6 +4659,7 @@
   },
   {
    "word": "Rally",
+   "description": "Motor sport • Off road racing • Gravel stages • Co driver notes • Muddy cars • Timed sections",
    "hints": [
     {
      "text": "Motor sport",
@@ -4560,6 +4694,7 @@
   },
   {
    "word": "Drag racing",
+   "description": "Motor sport • Straight line race • Quarter mile • Burnouts • Christmas tree lights • Parachute brakes",
    "hints": [
     {
      "text": "Motor sport",
@@ -4594,6 +4729,7 @@
   },
   {
    "word": "Jet skiing",
+   "description": "Water sport • Motor fun • Beach rentals • Spraying wakes • Personal watercraft • Life jacket",
    "hints": [
     {
      "text": "Water sport",
@@ -4628,6 +4764,7 @@
   },
   {
    "word": "Waterskiing",
+   "description": "Lake sport • Towed sport • Lake summers • Boat pulled • Tow rope • Twin planks",
    "hints": [
     {
      "text": "Lake sport",
@@ -4662,6 +4799,7 @@
   },
   {
    "word": "Wakeboarding",
+   "description": "Water sport • Towed sport • Lake tricks • Jumping boat trails • Short plank • Tow rope",
    "hints": [
     {
      "text": "Water sport",
@@ -4696,6 +4834,7 @@
   },
   {
    "word": "Horse riding",
+   "description": "Outdoor activity • Equestrian hobby • Pony lessons • Trail rides • Saddle and stirrups • Trotting",
    "hints": [
     {
      "text": "Outdoor activity",
@@ -4730,6 +4869,7 @@
   },
   {
    "word": "Cliff diving",
+   "description": "Extreme sport • Water sport • Dramatic heights • Coastal rocks • Rocky ledges • Big splash",
    "hints": [
     {
      "text": "Extreme sport",
@@ -4764,6 +4904,7 @@
   },
   {
    "word": "Speed skating",
+   "description": "Winter sport • Racing sport • Olympic oval • Tight suits • Long bladed boots • Crouched stance",
    "hints": [
     {
      "text": "Winter sport",
@@ -4798,6 +4939,7 @@
   },
   {
    "word": "Cross country",
+   "description": "Running race • Outdoor race • School meets • Muddy courses • Fields and hills • Spiked shoes",
    "hints": [
     {
      "text": "Running race",
@@ -4832,6 +4974,7 @@
   },
   {
    "word": "Golf putt",
+   "description": "Short stroke • Green finish • Reading the slope • Nervous moment • Flat club face • Rolling into cup",
    "hints": [
     {
      "text": "Short stroke",
@@ -4866,6 +5009,7 @@
   },
   {
    "word": "Penalty kick",
+   "description": "Football moment • Set piece • Goalkeeper guesses • Tense crowd • Spot on the pitch • One on keeper",
    "hints": [
     {
      "text": "Football moment",
@@ -4900,6 +5044,7 @@
   },
   {
    "word": "Slam dunk",
+   "description": "Basketball move • Highlight play • Crowd goes wild • Tall leapers • Hanging on rim • Jumping throw down",
    "hints": [
     {
      "text": "Basketball move",
@@ -4934,6 +5079,7 @@
   },
   {
    "word": "Home run",
+   "description": "Baseball moment • Big hit • Crowd stands up • Rounds the bases • Over the fence • Bat flip",
    "hints": [
     {
      "text": "Baseball moment",
@@ -4968,6 +5114,7 @@
   },
   {
    "word": "Touchdown",
+   "description": "Gridiron score • Big play • Spiking celebrations • End zone dance • Six points • Crossing the line",
    "hints": [
     {
      "text": "Gridiron score",
@@ -5002,6 +5149,7 @@
   },
   {
    "word": "Hat trick",
+   "description": "Scoring feat • Triple achievement • Three goals • Fans throw caps • Same match triple • Rare and special",
    "hints": [
     {
      "text": "Scoring feat",
@@ -5036,6 +5184,7 @@
   },
   {
    "word": "Knockout",
+   "description": "Boxing finish • Fight ending • Count to ten • Crowd erupts • Fighter hits canvas • Lights out",
    "hints": [
     {
      "text": "Boxing finish",
@@ -5070,6 +5219,7 @@
   },
   {
    "word": "Olympics",
+   "description": "Sports festival • Global event • Every four years • Opening ceremony • Five rings • Gold medals",
    "hints": [
     {
      "text": "Sports festival",
@@ -5104,6 +5254,7 @@
   },
   {
    "word": "World cup",
+   "description": "Football tournament • Global event • Every four years • National teams • Golden trophy • Penalty shootouts",
    "hints": [
     {
      "text": "Football tournament",
@@ -5138,6 +5289,7 @@
   },
   {
    "word": "Super bowl",
+   "description": "Gridiron final • Big game • Halftime show • Expensive ads • Championship rings • Sunday party",
    "hints": [
     {
      "text": "Gridiron final",
@@ -5172,6 +5324,7 @@
   },
   {
    "word": "Stadium",
+   "description": "Sports venue • Huge arena • Thousands of fans • Floodlights • Tiered seating • Hot dog stands",
    "hints": [
     {
      "text": "Sports venue",
@@ -5206,6 +5359,7 @@
   },
   {
    "word": "Trophy",
+   "description": "Winning prize • Shiny award • Lifted overhead • Kept in cabinets • Golden cup • Engraved names",
    "hints": [
     {
      "text": "Winning prize",

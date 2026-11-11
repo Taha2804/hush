@@ -102,7 +102,7 @@ ok('too few players cannot start', /3 players/.test(await fails(p4, 'start_onlin
 await rpc(p4, 'join_room', [room.code, 'P4', 4]);
 ok('joining elsewhere leaves the old room (empty room removed)', (await admin('select 1 from rooms where id=$1', [twoRoom.room_id])).length === 0);
 
-await rpc(host, 'update_room_settings', [room.room_id, 1, 'simultaneous', 'private']);
+await rpc(host, 'update_room_settings', [room.room_id, 1, 'simultaneous', 'private', 60]);
 const started = await rpc(host, 'start_online_game', [room.room_id]);
 const sid = started.session_id;
 ok('double start is rejected', /already running/.test(await fails(host, 'start_online_game', [room.room_id])));
@@ -136,9 +136,19 @@ ok('non-host cannot advance', /host/i.test(await fails(p2, 'advance_game_phase',
 ok('anon cannot advance', (await fails(null, 'advance_game_phase', [sid, 'clue'])) !== null);
 let res = await rpc(host, 'advance_game_phase', [sid, 'vote']);
 ok('phases cannot be skipped', res.phase === 'reveal');
-await rpc(host, 'advance_game_phase', [sid, 'clue']);
+ok('discussion cannot start from the reveal', (await rpc(host, 'start_discussion', [sid])).status === 'already_started' && (await admin('select phase from game_sessions where id=$1', [sid]))[0].phase === 'reveal');
+await rpc(p2, 'ack_word_viewed', [sid]);
+ok('viewing is recorded by id only', JSON.stringify((await admin('select viewers from game_sessions where id=$1', [sid]))[0].viewers) === JSON.stringify([p2]));
+ok('outsider cannot acknowledge', (await fails(outsider, 'ack_word_viewed', [sid])) !== null);
+ok('non-host cannot start the round', /host/i.test(await fails(p2, 'start_clue_round', [sid, true])));
+res = await rpc(host, 'start_clue_round', [sid, false]);
+ok('host is asked before skipping unseen words', res.status === 'needs_confirm' && res.waiting === 3);
+res = await rpc(host, 'start_clue_round', [sid, true]);
+ok('host can start anyway', res.status === 'started');
+ok('second start is ignored', (await rpc(host, 'start_clue_round', [sid, true])).status === 'already_started');
 
 const session = async () => (await admin('select * from game_sessions where id=$1', [sid]))[0];
+const players0 = () => [host, p2, p3, p4].find((x) => x !== hostNow);
 const current = (s) => s.turn_order[s.clue_step % s.turn_order.length];
 let s = await session();
 const notTurn = s.turn_order.find((x) => x !== current(s));
@@ -164,12 +174,24 @@ ok('host can skip a disconnected player', current(s) !== dropped);
 await rpc(dropped, 'room_heartbeat', [room.room_id]);
 ok('returning player is connected again', (await admin('select is_connected from room_players where player_id=$1 and room_id=$2', [dropped, room.room_id]))[0].is_connected === true);
 
-while ((await session()).phase === 'clue') {
+ok('host cannot start discussion mid-round', /still going/.test(await fails(hostNow, 'start_discussion', [sid])));
+// One player runs out of time: their clue is skipped, not lost forever.
+s = await session();
+const slow = current(s);
+await admin(`update game_sessions set clue_turn_deadline = now() - interval '1 second' where id = $1`, [sid]);
+await rpc(hostNow, 'sync_game', [sid]);
+ok('timer running out moves to the next player', current(await session()) !== slow);
+while (!(await session()).clues_complete) {
   s = await session();
   await rpc(current(s), 'submit_online_clue', [sid, `clue ${s.clue_step}`]);
 }
 s = await session();
-ok('last clue moves the game to discussion', s.phase === 'discussion');
+ok('finished clue round waits for the host', s.phase === 'clue' && s.clues_complete);
+ok('non-host cannot start discussion', /host/i.test(await fails(players0(), 'start_discussion', [sid])));
+const both = await Promise.allSettled([rpc(hostNow, 'start_discussion', [sid]), rpc(hostNow, 'start_discussion', [sid])]);
+ok('double start is safe', both.filter((r) => r.status === 'fulfilled').length === 2);
+s = await session();
+ok('host starts the discussion', s.phase === 'discussion');
 ok('discussion timer is fresh', new Date(s.discussion_end_time) > new Date());
 ok('host cannot cut discussion short', /timer/.test(await fails(hostNow, 'advance_game_phase', [sid, 'vote'])));
 await admin(`update game_sessions set discussion_end_time = now() - interval '1 second' where id = $1`, [sid]);

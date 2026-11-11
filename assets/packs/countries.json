@@ -4,6 +4,7 @@
  "words": [
   {
    "word": "India",
+   "description": "Asian nation • Huge population • Cricket crazy • Land of spices • Taj mahal home • Saris and curries",
    "hints": [
     {
      "text": "Asian nation",
@@ -38,6 +39,7 @@
   },
   {
    "word": "China",
+   "description": "Asian nation • Most populous • Ancient dynasties • Invented paper • Great wall home • Giant pandas",
    "hints": [
     {
      "text": "Asian nation",
@@ -72,6 +74,7 @@
   },
   {
    "word": "Japan",
+   "description": "Island nation • Asian country • Bullet trains • Cherry blossoms • Sushi and samurai • Rising sun flag",
    "hints": [
     {
      "text": "Island nation",
@@ -106,6 +109,7 @@
   },
   {
    "word": "France",
+   "description": "European nation • Romantic country • Famous for cuisine • Fashion capital home • Eiffel tower • Croissants and baguettes",
    "hints": [
     {
      "text": "European nation",
@@ -140,6 +144,7 @@
   },
   {
    "word": "Italy",
+   "description": "European nation • Mediterranean country • Pasta and pizza • Ancient empire • Boot shaped • Leaning tower",
    "hints": [
     {
      "text": "European nation",
@@ -174,6 +179,7 @@
   },
   {
    "word": "Spain",
+   "description": "European nation • Sunny country • Flamenco dancing • Afternoon siesta • Paella and tapas • Bullfighting tradition",
    "hints": [
     {
      "text": "European nation",
@@ -208,6 +214,7 @@
   },
   {
    "word": "Germany",
+   "description": "European nation • Industrial country • Famous for cars • Oktoberfest home • Pretzels and sausages • Autobahn highways",
    "hints": [
     {
      "text": "European nation",
@@ -242,6 +249,7 @@
   },
   {
    "word": "Brazil",
+   "description": "South american nation • Huge country • Football legends • Carnival parades • Amazon rainforest • Speaks portuguese",
    "hints": [
     {
      "text": "South american nation",
@@ -276,6 +284,7 @@
   },
   {
    "word": "Mexico",
+   "description": "North american nation • Latin country • Tacos and burritos • Day of the dead • Ancient pyramids • Sombreros and mariachi",
    "hints": [
     {
      "text": "North american nation",
@@ -310,6 +319,7 @@
   },
   {
    "word": "Canada",
+   "description": "North american nation • Cold country • Very polite people • Hockey crazy • Maple leaf flag • Moose and mounties",
    "hints": [
     {
      "text": "North american nation",
@@ -344,6 +354,7 @@
   },
   {
    "word": "Australia",
+   "description": "Island continent • Southern nation • Kangaroos and koalas • Outback desert • Opera house • Barrier reef",
    "hints": [
     {
      "text": "Island continent",
@@ -378,6 +389,7 @@
   },
   {
    "word": "Russia",
+   "description": "Huge nation • Eurasian country • Freezing winters • Ballet tradition • Nesting dolls • Onion domes",
    "hints": [
     {
      "text": "Huge nation",
@@ -412,6 +424,7 @@
   },
   {
    "word": "Egypt",
+   "description": "African nation • Desert country • Ancient pharaohs • Hieroglyphics • Pyramids and sphinx • Along the nile",
    "hints": [
     {
      "text": "African nation",
@@ -446,6 +459,7 @@
   },
   {
    "word": "Greece",
+   "description": "European nation • Ancient civilization • Birthplace of democracy • Olympic origins • White and blue houses • Island hopping",
    "hints": [
     {
      "text": "European nation",
@@ -480,6 +494,7 @@
   },
   {
    "word": "Turkey",
+   "description": "Transcontinental nation • Bridge country • Grand bazaars • Strong coffee • Hot air balloons • Kebabs and delight",
    "hints": [
     {
      "text": "Transcontinental nation",
@@ -514,6 +529,7 @@
   },
   {
    "word": "Thailand",
+   "description": "Asian nation • Tropical country • Smiling people • Street food heaven • Tuk tuks • Golden temples",
    "hints": [
     {
      "text": "Asian nation",
@@ -548,6 +564,7 @@
   },
   {
    "word": "Vietnam",
+   "description": "Asian nation • Long country • Rice paddies • Motorbike streets • Conical hats • Pho noodles",
    "hints": [
     {
      "text": "Asian nation",
@@ -582,6 +599,7 @@
   },
   {
    "word": "Indonesia",
+   "description": "Island nation • Asian archipelago • Thousands of islands • Volcanic land • Bali beaches • Komodo dragons",
    "hints": [
     {
      "text": "Island nation",
@@ -616,6 +634,7 @@
   },
   {
    "word": "Philippines",
+   "description": "Island nation • Asian archipelago • Thousands of islands • Karaoke lovers • Jeepney rides • Tropical beaches",
    "hints": [
     {
      "text": "Island nation",
@@ -650,6 +669,7 @@
   },
   {
    "word": "Nepal",
+   "description": "Mountain nation • Himalayan country • Trekking paradise • Landlocked • Highest peak home • Prayer flags",
    "hints": [
     {
      "text": "Mountain nation",
@@ -684,6 +704,7 @@
   },
   {
    "word": "Pakistan",
+   "description": "Asian nation • South asian country • Cricket rivalry • Mountain ranges • Green crescent flag • Biryani lovers",
    "hints": [
     {
      "text": "Asian nation",
@@ -718,6 +739,7 @@
   },
   {
    "word": "Bangladesh",
+   "description": "South asian nation • River country • Densely populated • Monsoon floods • Bengal tigers • Green and red flag",
    "hints": [
     {
      "text": "South asian nation",
@@ -752,6 +774,7 @@
   },
   {
    "word": "Sri lanka",
+   "description": "Island nation • South asian country • Famous for tea • Teardrop island • Elephants and temples • Golden beaches",
    "hints": [
     {
      "text": "Island nation",
@@ -786,6 +809,7 @@
   },
   {
    "word": "Maldives",
+   "description": "Island nation • Tropical paradise • Honeymoon destination • Low lying islands • Overwater villas • Coral atolls",
    "hints": [
     {
      "text": "Island nation",
@@ -820,6 +844,7 @@
   },
   {
    "word": "South korea",
+   "description": "Asian nation • Peninsula country • Pop music craze • Tech giants • Kimchi lovers • Northern border tension",
    "hints": [
     {
      "text": "Asian nation",
@@ -854,6 +879,7 @@
   },
   {
    "word": "North korea",
+   "description": "Asian nation • Secretive country • Very isolated • Strict regime • Military parades • Divided peninsula",
    "hints": [
     {
      "text": "Asian nation",
@@ -888,6 +914,7 @@
   },
   {
    "word": "Mongolia",
+   "description": "Asian nation • Landlocked country • Nomadic herders • Vast steppes • Gers or yurts • Horseback culture",
    "hints": [
     {
      "text": "Asian nation",
@@ -922,6 +949,7 @@
   },
   {
    "word": "Kazakhstan",
+   "description": "Central asian nation • Steppe country • Largest landlocked • Space launch site • Eagle hunters • Vast grasslands",
    "hints": [
     {
      "text": "Central asian nation",
@@ -956,6 +984,7 @@
   },
   {
    "word": "Iran",
+   "description": "Middle eastern nation • Ancient persia • Persian rugs • Saffron producer • Ancient ruins • Poetry tradition",
    "hints": [
     {
      "text": "Middle eastern nation",
@@ -990,6 +1019,7 @@
   },
   {
    "word": "Iraq",
+   "description": "Middle eastern nation • Ancient land • Cradle of civilization • Two great rivers • Ancient babylon • Date palms",
    "hints": [
     {
      "text": "Middle eastern nation",
@@ -1024,6 +1054,7 @@
   },
   {
    "word": "Saudi arabia",
+   "description": "Middle eastern nation • Desert kingdom • Oil rich • Holy cities • Vast sand dunes • Green flag",
    "hints": [
     {
      "text": "Middle eastern nation",
@@ -1058,6 +1089,7 @@
   },
   {
    "word": "Israel",
+   "description": "Middle eastern nation • Small country • Ancient holy land • Tech hub • Dead sea floating • Desert farming",
    "hints": [
     {
      "text": "Middle eastern nation",
@@ -1092,6 +1124,7 @@
   },
   {
    "word": "Jordan",
+   "description": "Middle eastern nation • Desert kingdom • Ancient rose city • Bedouin culture • Floating in salty sea • Red rock canyons",
    "hints": [
     {
      "text": "Middle eastern nation",
@@ -1126,6 +1159,7 @@
   },
   {
    "word": "Morocco",
+   "description": "North african nation • Desert country • Colorful souks • Mint tea culture • Blue painted town • Tagine dishes",
    "hints": [
     {
      "text": "North african nation",
@@ -1160,6 +1194,7 @@
   },
   {
    "word": "Kenya",
+   "description": "East african nation • Safari country • Marathon runners • Great migration • Maasai warriors • Savanna wildlife",
    "hints": [
     {
      "text": "East african nation",
@@ -1194,6 +1229,7 @@
   },
   {
    "word": "Nigeria",
+   "description": "West african nation • Populous country • Movie industry giant • Oil producer • Jollof rice • Afrobeats music",
    "hints": [
     {
      "text": "West african nation",
@@ -1228,6 +1264,7 @@
   },
   {
    "word": "South africa",
+   "description": "Continental tip nation • Rainbow nation • Three capital cities • Safari parks • Table mountain • Penguins on beaches",
    "hints": [
     {
      "text": "Continental tip nation",
@@ -1262,6 +1299,7 @@
   },
   {
    "word": "Ethiopia",
+   "description": "East african nation • Ancient country • Birthplace of coffee • Never colonized • Injera bread • Unique calendar",
    "hints": [
     {
      "text": "East african nation",
@@ -1296,6 +1334,7 @@
   },
   {
    "word": "Ghana",
+   "description": "West african nation • Golden coast • Cocoa producer • Friendly people • Kente cloth • Jollof debates",
    "hints": [
     {
      "text": "West african nation",
@@ -1330,6 +1369,7 @@
   },
   {
    "word": "Tanzania",
+   "description": "East african nation • Safari country • Tallest african mountain • Great migration • Zanzibar spices • Serengeti plains",
    "hints": [
     {
      "text": "East african nation",
@@ -1364,6 +1404,7 @@
   },
   {
    "word": "Madagascar",
+   "description": "Island nation • African island • Unique wildlife • Vanilla producer • Lemurs everywhere • Baobab trees",
    "hints": [
     {
      "text": "Island nation",
@@ -1398,6 +1439,7 @@
   },
   {
    "word": "Argentina",
+   "description": "South american nation • Southern country • Tango dancing • Football legends • Beef and asado • Glaciers in south",
    "hints": [
     {
      "text": "South american nation",
@@ -1432,6 +1474,7 @@
   },
   {
    "word": "Chile",
+   "description": "South american nation • Long thin country • Desert to glaciers • Vineyard region • Easter island statues • Andes border",
    "hints": [
     {
      "text": "South american nation",
@@ -1466,6 +1509,7 @@
   },
   {
    "word": "Peru",
+   "description": "South american nation • Andean country • Ancient incas • Llamas and alpacas • Mountain citadel ruins • Ceviche dish",
    "hints": [
     {
      "text": "South american nation",
@@ -1500,6 +1544,7 @@
   },
   {
    "word": "Colombia",
+   "description": "South american nation • Tropical country • Coffee growers • Emerald mines • Salsa dancing • Two coastlines",
    "hints": [
     {
      "text": "South american nation",
@@ -1534,6 +1579,7 @@
   },
   {
    "word": "Venezuela",
+   "description": "South american nation • Oil country • Beauty pageant winners • Tallest waterfall • Arepas • Caribbean coast",
    "hints": [
     {
      "text": "South american nation",
@@ -1568,6 +1614,7 @@
   },
   {
    "word": "Cuba",
+   "description": "Caribbean nation • Island country • Classic old cars • Salsa music • Famous cigars • Colorful havana",
    "hints": [
     {
      "text": "Caribbean nation",
@@ -1602,6 +1649,7 @@
   },
   {
    "word": "Jamaica",
+   "description": "Caribbean nation • Island country • Reggae music • Sprinting legends • Jerk chicken • Rasta colors",
    "hints": [
     {
      "text": "Caribbean nation",
@@ -1636,6 +1684,7 @@
   },
   {
    "word": "Ireland",
+   "description": "European nation • Emerald isle • Lucky charms • Pub culture • Shamrocks • Rolling green hills",
    "hints": [
     {
      "text": "European nation",
@@ -1670,6 +1719,7 @@
   },
   {
    "word": "Scotland",
+   "description": "European nation • Northern territory • Bagpipes • Highland games • Kilts and tartan • Lake monster legend",
    "hints": [
     {
      "text": "European nation",
@@ -1704,6 +1754,7 @@
   },
   {
    "word": "England",
+   "description": "European nation • Island country • Royal family • Afternoon tea • Red phone boxes • Rainy weather",
    "hints": [
     {
      "text": "European nation",
@@ -1738,6 +1789,7 @@
   },
   {
    "word": "Wales",
+   "description": "European nation • Small country • Rugby crazy • Singing tradition • Red dragon flag • Many castles",
    "hints": [
     {
      "text": "European nation",
@@ -1772,6 +1824,7 @@
   },
   {
    "word": "Netherlands",
+   "description": "European nation • Low country • Windmills and canals • Bicycles everywhere • Tulip fields • Wooden clogs",
    "hints": [
     {
      "text": "European nation",
@@ -1806,6 +1859,7 @@
   },
   {
    "word": "Belgium",
+   "description": "European nation • Small country • Waffles and chocolate • Comic strip home • Famous fries • Peeing boy statue",
    "hints": [
     {
      "text": "European nation",
@@ -1840,6 +1894,7 @@
   },
   {
    "word": "Switzerland",
+   "description": "European nation • Alpine country • Neutral country • Banking hub • Cheese with holes • Precise watches",
    "hints": [
     {
      "text": "European nation",
@@ -1874,6 +1929,7 @@
   },
   {
    "word": "Austria",
+   "description": "European nation • Alpine country • Classical composers • Ski resorts • Waltzes and opera • Schnitzel",
    "hints": [
     {
      "text": "European nation",
@@ -1908,6 +1964,7 @@
   },
   {
    "word": "Sweden",
+   "description": "Nordic nation • Scandinavian country • Flat pack furniture • Pop music exports • Meatballs • Northern lights",
    "hints": [
     {
      "text": "Nordic nation",
@@ -1942,6 +1999,7 @@
   },
   {
    "word": "Norway",
+   "description": "Nordic nation • Scandinavian country • Fjords • Oil wealth • Midnight sun • Viking history",
    "hints": [
     {
      "text": "Nordic nation",
@@ -1976,6 +2034,7 @@
   },
   {
    "word": "Denmark",
+   "description": "Nordic nation • Scandinavian country • Happiest people • Cycling culture • Building bricks toy • Little mermaid statue",
    "hints": [
     {
      "text": "Nordic nation",
@@ -2010,6 +2069,7 @@
   },
   {
    "word": "Finland",
+   "description": "Nordic nation • Lakeland nation • Saunas everywhere • Great education • Santa village • Thousands of lakes",
    "hints": [
     {
      "text": "Nordic nation",
@@ -2044,6 +2104,7 @@
   },
   {
    "word": "Iceland",
+   "description": "Nordic nation • Island country • Volcanoes and glaciers • Northern lights • Geysers and hot springs • Fire and ice",
    "hints": [
     {
      "text": "Nordic nation",
@@ -2078,6 +2139,7 @@
   },
   {
    "word": "Poland",
+   "description": "European nation • Central country • Pierogi dumplings • Rich history • Famous composer home • Salt mine",
    "hints": [
     {
      "text": "European nation",
@@ -2112,6 +2174,7 @@
   },
   {
    "word": "Portugal",
+   "description": "European nation • Coastal country • Explorer history • Famous footballer home • Custard tarts • Fado music",
    "hints": [
     {
      "text": "European nation",
@@ -2146,6 +2209,7 @@
   },
   {
    "word": "Ukraine",
+   "description": "European nation • Breadbasket country • Sunflower fields • Golden domes • Borscht soup • Blue and yellow flag",
    "hints": [
     {
      "text": "European nation",
@@ -2180,6 +2244,7 @@
   },
   {
    "word": "Hungary",
+   "description": "European nation • Central country • Thermal baths • Paprika lovers • Goulash stew • Danube river capital",
    "hints": [
     {
      "text": "European nation",
@@ -2214,6 +2279,7 @@
   },
   {
    "word": "Czechia",
+   "description": "European nation • Central country • Castles everywhere • Fairytale capital • Astronomical clock • Puppet tradition",
    "hints": [
     {
      "text": "European nation",
@@ -2248,6 +2314,7 @@
   },
   {
    "word": "Romania",
+   "description": "European nation • Eastern country • Vampire legends • Carpathian mountains • Painted monasteries • Castle tours",
    "hints": [
     {
      "text": "European nation",
@@ -2282,6 +2349,7 @@
   },
   {
    "word": "Croatia",
+   "description": "European nation • Coastal country • Island hopping • Football finals • Walled old town • Dalmatian dogs",
    "hints": [
     {
      "text": "European nation",
@@ -2316,6 +2384,7 @@
   },
   {
    "word": "Singapore",
+   "description": "City state • Asian island • Very clean • Strict rules • Lion city • Hawker food",
    "hints": [
     {
      "text": "City state",
@@ -2350,6 +2419,7 @@
   },
   {
    "word": "Malaysia",
+   "description": "Asian nation • Tropical country • Twin towers • Diverse cultures • Rainforests • Nasi lemak",
    "hints": [
     {
      "text": "Asian nation",
@@ -2384,6 +2454,7 @@
   },
   {
    "word": "New zealand",
+   "description": "Island nation • Southern country • Movie fantasy filming • Rugby legends • Kiwi birds • More sheep than people",
    "hints": [
     {
      "text": "Island nation",
@@ -2418,6 +2489,7 @@
   },
   {
    "word": "Fiji",
+   "description": "Island nation • Pacific country • Tropical resorts • Rugby sevens • Coral reefs • Bula greeting",
    "hints": [
     {
      "text": "Island nation",
@@ -2452,6 +2524,7 @@
   },
   {
    "word": "Bhutan",
+   "description": "Himalayan nation • Small kingdom • Measures happiness • Carbon negative • Thunder dragon flag • Cliff monasteries",
    "hints": [
     {
      "text": "Himalayan nation",
@@ -2486,6 +2559,7 @@
   },
   {
    "word": "Afghanistan",
+   "description": "Central asian nation • Mountain country • Ancient silk road • Rugged terrain • Kite flying • Pomegranate fields",
    "hints": [
     {
      "text": "Central asian nation",
@@ -2520,6 +2594,7 @@
   },
   {
    "word": "Myanmar",
+   "description": "Southeast asian nation • Golden land • Thousands of pagodas • Formerly burma • Balloons over temples • Longyi skirts",
    "hints": [
     {
      "text": "Southeast asian nation",
@@ -2554,6 +2629,7 @@
   },
   {
    "word": "Cambodia",
+   "description": "Southeast asian nation • Ancient kingdom • Temple ruins • River life • Angkor temples • Floating villages",
    "hints": [
     {
      "text": "Southeast asian nation",
@@ -2588,6 +2664,7 @@
   },
   {
    "word": "Laos",
+   "description": "Southeast asian nation • Landlocked country • Mekong river • Sticky rice • Monk alms giving • Waterfalls",
    "hints": [
     {
      "text": "Southeast asian nation",
@@ -2622,6 +2699,7 @@
   },
   {
    "word": "Taiwan",
+   "description": "Island nation • Asian island • Night markets • Tech chips • Bubble tea birthplace • Tall tower",
    "hints": [
     {
      "text": "Island nation",
@@ -2656,6 +2734,7 @@
   },
   {
    "word": "Qatar",
+   "description": "Gulf nation • Desert country • Very rich • Hosted world cup • Futuristic skyline • Pearl diving history",
    "hints": [
     {
      "text": "Gulf nation",
@@ -2690,6 +2769,7 @@
   },
   {
    "word": "Oman",
+   "description": "Gulf nation • Desert country • Frankincense trade • Ancient forts • Rugged mountains • Dhow boats",
    "hints": [
     {
      "text": "Gulf nation",
@@ -2724,6 +2804,7 @@
   },
   {
    "word": "Kuwait",
+   "description": "Gulf nation • Small country • Oil rich • Desert heat • Iconic water towers • Gulf coast",
    "hints": [
     {
      "text": "Gulf nation",
@@ -2758,6 +2839,7 @@
   },
   {
    "word": "Lebanon",
+   "description": "Middle eastern nation • Mediterranean country • Cedar trees • Mountain and sea • Hummus and tabbouleh • Ancient ports",
    "hints": [
     {
      "text": "Middle eastern nation",
@@ -2792,6 +2874,7 @@
   },
   {
    "word": "Syria",
+   "description": "Middle eastern nation • Ancient land • Ancient trade cities • Old souks • Rose water • Ancient columns",
    "hints": [
     {
      "text": "Middle eastern nation",
@@ -2826,6 +2909,7 @@
   },
   {
    "word": "Algeria",
+   "description": "North african nation • Largest african country • Sahara desert • French colonial past • Couscous dishes • Green white flag",
    "hints": [
     {
      "text": "North african nation",
@@ -2860,6 +2944,7 @@
   },
   {
    "word": "Tunisia",
+   "description": "North african nation • Mediterranean country • Desert movie sets • Blue and white town • Couscous • Ancient carthage",
    "hints": [
     {
      "text": "North african nation",
@@ -2894,6 +2979,7 @@
   },
   {
    "word": "Libya",
+   "description": "North african nation • Desert country • Mostly sahara • Oil rich • Ancient ruins • Mediterranean coast",
    "hints": [
     {
      "text": "North african nation",
@@ -2928,6 +3014,7 @@
   },
   {
    "word": "Sudan",
+   "description": "African nation • Nile country • Many pyramids • Desert land • Two niles meet • Hot climate",
    "hints": [
     {
      "text": "African nation",
@@ -2962,6 +3049,7 @@
   },
   {
    "word": "Uganda",
+   "description": "East african nation • Pearl of africa • Mountain gorillas • Source of the nile • Lake victoria • Crested crane",
    "hints": [
     {
      "text": "East african nation",
@@ -2996,6 +3084,7 @@
   },
   {
    "word": "Rwanda",
+   "description": "East african nation • Land of hills • Mountain gorillas • Very clean • Thousand hills • Coffee farms",
    "hints": [
     {
      "text": "East african nation",
@@ -3030,6 +3119,7 @@
   },
   {
    "word": "Zimbabwe",
+   "description": "Southern african nation • Landlocked country • Giant waterfall • Ancient stone ruins • Mighty falls • Rich wildlife",
    "hints": [
     {
      "text": "Southern african nation",
@@ -3064,6 +3154,7 @@
   },
   {
    "word": "Zambia",
+   "description": "Southern african nation • Landlocked country • Shares giant falls • Copper mining • Walking safaris • River rafting",
    "hints": [
     {
      "text": "Southern african nation",
@@ -3098,6 +3189,7 @@
   },
   {
    "word": "Botswana",
+   "description": "Southern african nation • Safari country • Elephant haven • Diamond mines • River delta • Kalahari desert",
    "hints": [
     {
      "text": "Southern african nation",
@@ -3132,6 +3224,7 @@
   },
   {
    "word": "Namibia",
+   "description": "Southern african nation • Desert country • Tall red dunes • Skeleton coast • Desert elephants • Oldest desert",
    "hints": [
     {
      "text": "Southern african nation",
@@ -3166,6 +3259,7 @@
   },
   {
    "word": "Senegal",
+   "description": "West african nation • Coastal country • Pink lake • Wrestling sport • Colorful fabrics • Thieboudienne dish",
    "hints": [
     {
      "text": "West african nation",
@@ -3200,6 +3294,7 @@
   },
   {
    "word": "Cameroon",
+   "description": "Central african nation • Diverse country • Africa in miniature • Football lions • Rainforests and volcano • Many languages",
    "hints": [
     {
      "text": "Central african nation",
@@ -3234,6 +3329,7 @@
   },
   {
    "word": "Somalia",
+   "description": "East african nation • Horn of africa • Longest african coastline • Camel herders • Pirate history • Arid land",
    "hints": [
     {
      "text": "East african nation",
@@ -3268,6 +3364,7 @@
   },
   {
    "word": "Ecuador",
+   "description": "South american nation • Equator country • Unique island wildlife • Banana exporter • Giant tortoises • Volcano avenue",
    "hints": [
     {
      "text": "South american nation",
@@ -3302,6 +3399,7 @@
   },
   {
    "word": "Bolivia",
+   "description": "South american nation • Landlocked country • Salt flats • High altitude capital • Llamas • Bowler hats",
    "hints": [
     {
      "text": "South american nation",
@@ -3336,6 +3434,7 @@
   },
   {
    "word": "Uruguay",
+   "description": "South american nation • Small country • First world cup host • Mate drinkers • Beef lovers • Beach resorts",
    "hints": [
     {
      "text": "South american nation",
@@ -3370,6 +3469,7 @@
   },
   {
    "word": "Paraguay",
+   "description": "South american nation • Landlocked country • Huge dam • Two languages • Harp music • Lace weaving",
    "hints": [
     {
      "text": "South american nation",
@@ -3404,6 +3504,7 @@
   },
   {
    "word": "Panama",
+   "description": "Central american nation • Isthmus country • Famous canal • Links two oceans • Straw hats • Rainforest",
    "hints": [
     {
      "text": "Central american nation",
@@ -3438,6 +3539,7 @@
   },
   {
    "word": "Costa rica",
+   "description": "Central isthmus nation • Green country • No army • Pura vida • Cloud forests • Sloths and toucans",
    "hints": [
     {
      "text": "Central isthmus nation",
@@ -3472,6 +3574,7 @@
   },
   {
    "word": "Guatemala",
+   "description": "Central american nation • Mayan country • Mayan ruins • Colorful textiles • Volcano lakes • Quetzal bird",
    "hints": [
     {
      "text": "Central american nation",
@@ -3506,6 +3609,7 @@
   },
   {
    "word": "Honduras",
+   "description": "Central american nation • Tropical country • Mayan ruins • Coral reef islands • Banana plantations • Rainforest",
    "hints": [
     {
      "text": "Central american nation",
@@ -3540,6 +3644,7 @@
   },
   {
    "word": "Haiti",
+   "description": "Caribbean nation • Island country • First black republic • Vibrant art • Shares an island • Mountain land",
    "hints": [
     {
      "text": "Caribbean nation",
@@ -3574,6 +3679,7 @@
   },
   {
    "word": "Bahamas",
+   "description": "Caribbean nation • Island chain • Swimming pigs • Clear water • Pink sand beaches • Coral reefs",
    "hints": [
     {
      "text": "Caribbean nation",
@@ -3608,6 +3714,7 @@
   },
   {
    "word": "Barbados",
+   "description": "Caribbean nation • Island country • Cricket lovers • Pop star home • Flying fish • Sugarcane history",
    "hints": [
     {
      "text": "Caribbean nation",
@@ -3642,6 +3749,7 @@
   },
   {
    "word": "Belarus",
+   "description": "European nation • Landlocked country • Ancient forests • Bison reserve • Red and green flag • Flat lands",
    "hints": [
     {
      "text": "European nation",
@@ -3676,6 +3784,7 @@
   },
   {
    "word": "Lithuania",
+   "description": "Baltic nation • European country • Basketball crazy • Hill of crosses • Amber jewelry • Baltic coast",
    "hints": [
     {
      "text": "Baltic nation",
@@ -3710,6 +3819,7 @@
   },
   {
    "word": "Latvia",
+   "description": "Baltic nation • European country • Art nouveau buildings • Song festivals • Amber coast • Dense forests",
    "hints": [
     {
      "text": "Baltic nation",
@@ -3744,6 +3854,7 @@
   },
   {
    "word": "Estonia",
+   "description": "Baltic nation • Digital country • Online voting • Startup hub • Medieval old town • Saunas",
    "hints": [
     {
      "text": "Baltic nation",
@@ -3778,6 +3889,7 @@
   },
   {
    "word": "Slovakia",
+   "description": "European nation • Central country • Many castles • Mountain hiking • Folk traditions • Wooden churches",
    "hints": [
     {
      "text": "European nation",
@@ -3812,6 +3924,7 @@
   },
   {
    "word": "Slovenia",
+   "description": "European nation • Green country • Lake with island church • Caves • Alpine meadows • Honey bees",
    "hints": [
     {
      "text": "European nation",
@@ -3846,6 +3959,7 @@
   },
   {
    "word": "Serbia",
+   "description": "European nation • Balkan country • Tennis star home • Lively nightlife • Grilled meats • Danube rivers",
    "hints": [
     {
      "text": "European nation",
@@ -3880,6 +3994,7 @@
   },
   {
    "word": "Bulgaria",
+   "description": "European nation • Balkan country • Rose oil producer • Yogurt origins • Black sea coast • Painted monasteries",
    "hints": [
     {
      "text": "European nation",
@@ -3914,6 +4029,7 @@
   },
   {
    "word": "Albania",
+   "description": "European nation • Balkan country • Concrete bunkers • Hidden beaches • Double headed eagle • Mountain villages",
    "hints": [
     {
      "text": "European nation",
@@ -3948,6 +4064,7 @@
   },
   {
    "word": "Montenegro",
+   "description": "European nation • Small country • Dramatic bay • Black mountains • Walled coastal towns • Adriatic beaches",
    "hints": [
     {
      "text": "European nation",
@@ -3982,6 +4099,7 @@
   },
   {
    "word": "Cyprus",
+   "description": "Island nation • Mediterranean country • Divided island • Sunny beaches • Halloumi cheese • Ancient mosaics",
    "hints": [
     {
      "text": "Island nation",
@@ -4016,6 +4134,7 @@
   },
   {
    "word": "Malta",
+   "description": "Island nation • Tiny country • Knights history • Ancient temples • Golden limestone • Blue lagoon",
    "hints": [
     {
      "text": "Island nation",
@@ -4050,6 +4169,7 @@
   },
   {
    "word": "Luxembourg",
+   "description": "European nation • Tiny country • Very rich • Banking hub • Grand duchy • Castle towns",
    "hints": [
     {
      "text": "European nation",
@@ -4084,6 +4204,7 @@
   },
   {
    "word": "Monaco",
+   "description": "European nation • Tiny country • Glamorous casinos • Super rich • Racing grand prix • Royal palace",
    "hints": [
     {
      "text": "European nation",
@@ -4118,6 +4239,7 @@
   },
   {
    "word": "Vatican",
+   "description": "City state • Smallest country • Home of the pope • Holy see • Famous painted ceiling • Swiss guards",
    "hints": [
     {
      "text": "City state",
@@ -4152,6 +4274,7 @@
   },
   {
    "word": "Andorra",
+   "description": "European nation • Mountain country • Duty free shopping • Ski slopes • Between two countries • Tiny principality",
    "hints": [
     {
      "text": "European nation",
@@ -4186,6 +4309,7 @@
   },
   {
    "word": "Georgia",
+   "description": "Caucasus nation • Mountain country • Vineyard cradle • Ancient churches • Cheesy bread • Polyphonic singing",
    "hints": [
     {
      "text": "Caucasus nation",
@@ -4220,6 +4344,7 @@
   },
   {
    "word": "Armenia",
+   "description": "Caucasus nation • Ancient country • First christian nation • Ancient alphabet • Apricot symbol • Mountain monasteries",
    "hints": [
     {
      "text": "Caucasus nation",
@@ -4254,6 +4379,7 @@
   },
   {
    "word": "Azerbaijan",
+   "description": "Caucasus nation • Land of fire • Oil fields • Flame towers • Burning hillsides • Carpet weaving",
    "hints": [
     {
      "text": "Caucasus nation",
@@ -4288,6 +4414,7 @@
   },
   {
    "word": "Uzbekistan",
+   "description": "Central asian nation • Silk road country • Blue tiled cities • Ancient caravan routes • Plov rice • Domed mosques",
    "hints": [
     {
      "text": "Central asian nation",
@@ -4322,6 +4449,7 @@
   },
   {
    "word": "Tajikistan",
+   "description": "Central asian nation • Mountain country • Roof of the world • Mostly mountains • High passes • Turquoise lakes",
    "hints": [
     {
      "text": "Central asian nation",
@@ -4356,6 +4484,7 @@
   },
   {
    "word": "Kyrgyzstan",
+   "description": "Central asian nation • Mountain country • Nomadic yurts • Horse games • Alpine lakes • Felt carpets",
    "hints": [
     {
      "text": "Central asian nation",
@@ -4390,6 +4519,7 @@
   },
   {
    "word": "Turkmenistan",
+   "description": "Central asian nation • Desert country • Gas crater • Marble city • Burning crater • Carpet traditions",
    "hints": [
     {
      "text": "Central asian nation",
@@ -4424,6 +4554,7 @@
   },
   {
    "word": "Brunei",
+   "description": "Asian nation • Small sultanate • Oil rich • Water villages • Golden domed mosque • Rainforest",
    "hints": [
     {
      "text": "Asian nation",
@@ -4458,6 +4589,7 @@
   },
   {
    "word": "Samoa",
+   "description": "Island nation • Pacific country • Rugby lovers • Traditional tattoos • Open sided huts • Lush volcanic islands",
    "hints": [
     {
      "text": "Island nation",
@@ -4492,6 +4624,7 @@
   },
   {
    "word": "Tonga",
+   "description": "Island nation • Pacific kingdom • Rugby lovers • Royal family • Humpback whales • Coral islands",
    "hints": [
     {
      "text": "Island nation",
@@ -4526,6 +4659,7 @@
   },
   {
    "word": "Vanuatu",
+   "description": "Island nation • Pacific country • Active volcanoes • Land diving ritual • Coral reefs • Tribal villages",
    "hints": [
     {
      "text": "Island nation",
@@ -4560,6 +4694,7 @@
   },
   {
    "word": "Greenland",
+   "description": "Arctic island • Largest island • Mostly ice • Inuit culture • Glaciers and icebergs • Northern lights",
    "hints": [
     {
      "text": "Arctic island",
@@ -4594,6 +4729,7 @@
   },
   {
    "word": "Mauritius",
+   "description": "Island nation • Indian ocean country • Extinct dodo bird • Luxury resorts • Underwater waterfall illusion • Sugarcane fields",
    "hints": [
     {
      "text": "Island nation",
@@ -4628,6 +4764,7 @@
   },
   {
    "word": "Seychelles",
+   "description": "Island nation • Indian ocean country • Giant tortoises • Granite boulders • Coco de mer palm • Turquoise beaches",
    "hints": [
     {
      "text": "Island nation",
@@ -4662,6 +4799,7 @@
   },
   {
    "word": "United states",
+   "description": "North american nation • Superpower • Fifty regions • Hollywood movies • Stars and stripes • Statue of liberty",
    "hints": [
     {
      "text": "North american nation",
@@ -4696,6 +4834,7 @@
   },
   {
    "word": "Chad",
+   "description": "Central african nation • Landlocked country • Shrinking lake • Sahara edge • Desert nomads • Blue yellow red",
    "hints": [
     {
      "text": "Central african nation",
@@ -4730,6 +4869,7 @@
   },
   {
    "word": "Mali",
+   "description": "West african nation • Desert country • Ancient mud mosques • Historic trade city • Timbuktu legend • Niger river",
    "hints": [
     {
      "text": "West african nation",
@@ -4764,6 +4904,7 @@
   },
   {
    "word": "Niger",
+   "description": "West african nation • Landlocked country • Mostly desert • Giraffe reserves • Tuareg nomads • Orange disc flag",
    "hints": [
     {
      "text": "West african nation",
@@ -4798,6 +4939,7 @@
   },
   {
    "word": "Angola",
+   "description": "Southern african nation • Coastal country • Oil producer • Portuguese speaking • Huge waterfalls • Kizomba dance",
    "hints": [
     {
      "text": "Southern african nation",
@@ -4832,6 +4974,7 @@
   },
   {
    "word": "Mozambique",
+   "description": "Southeast african nation • Coastal country • Long coastline • Portuguese speaking • Rifle on flag • Island archipelagos",
    "hints": [
     {
      "text": "Southeast african nation",
@@ -4866,6 +5009,7 @@
   },
   {
    "word": "Malawi",
+   "description": "Southeast african nation • Warm heart • Huge lake • Very friendly • Colorful cichlid fish • Rising sun flag",
    "hints": [
     {
      "text": "Southeast african nation",
@@ -4900,6 +5044,7 @@
   },
   {
    "word": "Ivory coast",
+   "description": "West african nation • Cocoa giant • Football stars • Cocoa exporter • Huge basilica • Orange white green",
    "hints": [
     {
      "text": "West african nation",
@@ -4934,6 +5079,7 @@
   },
   {
    "word": "Eritrea",
+   "description": "East african nation • Red sea country • Art deco capital • Coffee ceremonies • Italian heritage • Red sea coast",
    "hints": [
     {
      "text": "East african nation",
@@ -4968,6 +5114,7 @@
   },
   {
    "word": "Liberia",
+   "description": "West african nation • Founded by freed people • Lone star flag • Rubber plantations • Atlantic beaches • Rainforests",
    "hints": [
     {
      "text": "West african nation",
@@ -5002,6 +5149,7 @@
   },
   {
    "word": "Sierra leone",
+   "description": "West african nation • Coastal country • Diamond mines • Freetown capital • Lion mountains • Sandy beaches",
    "hints": [
     {
      "text": "West african nation",
@@ -5036,6 +5184,7 @@
   },
   {
    "word": "Gambia",
+   "description": "West african nation • Smallest mainland • Follows a river • Bird watching • Thin river shape • Smiling coast",
    "hints": [
     {
      "text": "West african nation",
@@ -5070,6 +5219,7 @@
   },
   {
    "word": "Gabon",
+   "description": "Central african nation • Rainforest country • Surfing hippos • National parks • Dense forests • Lowland gorillas",
    "hints": [
     {
      "text": "Central african nation",
@@ -5104,6 +5254,7 @@
   },
   {
    "word": "Nicaragua",
+   "description": "Central american nation • Lakes and volcanoes • Colonial towns • Volcano boarding • Huge freshwater lake • Ash slopes",
    "hints": [
     {
      "text": "Central american nation",
@@ -5138,6 +5289,7 @@
   },
   {
    "word": "El salvador",
+   "description": "Central american nation • Smallest isthmus country • Surfing beaches • Pupusas • Volcano chain • Coffee farms",
    "hints": [
     {
      "text": "Central american nation",
@@ -5172,6 +5324,7 @@
   },
   {
    "word": "Belize",
+   "description": "Central american nation • Caribbean coast • Barrier reef • English speaking • Blue hole dive • Mayan ruins",
    "hints": [
     {
      "text": "Central american nation",

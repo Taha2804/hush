@@ -289,7 +289,8 @@ as int,
 /// @nodoc
 mixin _$WordEntry {
 
- String get id; String get category; String get word; List<Hint> get hints; List<String> get fakeWords; String get source;
+ String get id; String get category; String get word; List<Hint> get hints; List<String> get fakeWords;/// Short plain-language meaning, shown on request to players who get the word.
+ String? get description; String get source;
 /// Create a copy of WordEntry
 /// with the given fields replaced by the non-null parameter values.
 @JsonKey(includeFromJson: false, includeToJson: false)
@@ -303,20 +304,20 @@ $WordEntryCopyWith<WordEntry> get copyWith => _$WordEntryCopyWithImpl<WordEntry>
 @override
 bool operator ==(Object other) {
   final _this = this as WordEntry;
-  return identical(this, other) || (other.runtimeType == runtimeType&&other is WordEntry&&(identical(other.id, _this.id) || other.id == _this.id)&&(identical(other.category, _this.category) || other.category == _this.category)&&(identical(other.word, _this.word) || other.word == _this.word)&&const DeepCollectionEquality().equals(other.hints, _this.hints)&&const DeepCollectionEquality().equals(other.fakeWords, _this.fakeWords)&&(identical(other.source, _this.source) || other.source == _this.source));
+  return identical(this, other) || (other.runtimeType == runtimeType&&other is WordEntry&&(identical(other.id, _this.id) || other.id == _this.id)&&(identical(other.category, _this.category) || other.category == _this.category)&&(identical(other.word, _this.word) || other.word == _this.word)&&const DeepCollectionEquality().equals(other.hints, _this.hints)&&const DeepCollectionEquality().equals(other.fakeWords, _this.fakeWords)&&(identical(other.description, _this.description) || other.description == _this.description)&&(identical(other.source, _this.source) || other.source == _this.source));
 }
 
 @JsonKey(includeFromJson: false, includeToJson: false)
 @override
 int get hashCode {
   final _this = this as WordEntry;
-  return Object.hash(runtimeType,_this.id,_this.category,_this.word,const DeepCollectionEquality().hash(_this.hints),const DeepCollectionEquality().hash(_this.fakeWords),_this.source);
+  return Object.hash(runtimeType,_this.id,_this.category,_this.word,const DeepCollectionEquality().hash(_this.hints),const DeepCollectionEquality().hash(_this.fakeWords),_this.description,_this.source);
 }
 
 @override
 String toString() {
   final _this = this as WordEntry;
-  return 'WordEntry(id: ${_this.id}, category: ${_this.category}, word: ${_this.word}, hints: ${_this.hints}, fakeWords: ${_this.fakeWords}, source: ${_this.source})';
+  return 'WordEntry(id: ${_this.id}, category: ${_this.category}, word: ${_this.word}, hints: ${_this.hints}, fakeWords: ${_this.fakeWords}, description: ${_this.description}, source: ${_this.source})';
 }
 
 
@@ -327,7 +328,7 @@ abstract mixin class $WordEntryCopyWith<$Res>  {
   factory $WordEntryCopyWith(WordEntry value, $Res Function(WordEntry) _then) = _$WordEntryCopyWithImpl;
 @useResult
 $Res call({
- String id, String category, String word, List<Hint> hints, List<String> fakeWords, String source
+ String id, String category, String word, List<Hint> hints, List<String> fakeWords, String? description, String source
 });
 
 
@@ -344,14 +345,15 @@ class _$WordEntryCopyWithImpl<$Res>
 
 /// Create a copy of WordEntry
 /// with the given fields replaced by the non-null parameter values.
-@pragma('vm:prefer-inline') @override $Res call({Object? id = null,Object? category = null,Object? word = null,Object? hints = null,Object? fakeWords = null,Object? source = null,}) {
+@pragma('vm:prefer-inline') @override $Res call({Object? id = null,Object? category = null,Object? word = null,Object? hints = null,Object? fakeWords = null,Object? description = freezed,Object? source = null,}) {
   return _then(WordEntry(
 id: null == id ? _self.id : id // ignore: cast_nullable_to_non_nullable
 as String,category: null == category ? _self.category : category // ignore: cast_nullable_to_non_nullable
 as String,word: null == word ? _self.word : word // ignore: cast_nullable_to_non_nullable
 as String,hints: null == hints ? _self.hints : hints // ignore: cast_nullable_to_non_nullable
 as List<Hint>,fakeWords: null == fakeWords ? _self.fakeWords : fakeWords // ignore: cast_nullable_to_non_nullable
-as List<String>,source: null == source ? _self.source : source // ignore: cast_nullable_to_non_nullable
+as List<String>,description: freezed == description ? _self.description : description // ignore: cast_nullable_to_non_nullable
+as String?,source: null == source ? _self.source : source // ignore: cast_nullable_to_non_nullable
 as String,
   ));
 }
@@ -437,10 +439,10 @@ return $default(_that);case _:
 /// }
 /// ```
 
-@optionalTypeArgs TResult maybeWhen<TResult extends Object?>(TResult Function( String id,  String category,  String word,  List<Hint> hints,  List<String> fakeWords,  String source)?  $default,{required TResult orElse(),}) {final _that = this;
+@optionalTypeArgs TResult maybeWhen<TResult extends Object?>(TResult Function( String id,  String category,  String word,  List<Hint> hints,  List<String> fakeWords,  String? description,  String source)?  $default,{required TResult orElse(),}) {final _that = this;
 switch (_that) {
 case _WordEntry() when $default != null:
-return $default(_that.id,_that.category,_that.word,_that.hints,_that.fakeWords,_that.source);case _:
+return $default(_that.id,_that.category,_that.word,_that.hints,_that.fakeWords,_that.description,_that.source);case _:
   return orElse();
 
 }
@@ -458,10 +460,10 @@ return $default(_that.id,_that.category,_that.word,_that.hints,_that.fakeWords,_
 /// }
 /// ```
 
-@optionalTypeArgs TResult when<TResult extends Object?>(TResult Function( String id,  String category,  String word,  List<Hint> hints,  List<String> fakeWords,  String source)  $default,) {final _that = this;
+@optionalTypeArgs TResult when<TResult extends Object?>(TResult Function( String id,  String category,  String word,  List<Hint> hints,  List<String> fakeWords,  String? description,  String source)  $default,) {final _that = this;
 switch (_that) {
 case _WordEntry():
-return $default(_that.id,_that.category,_that.word,_that.hints,_that.fakeWords,_that.source);case _:
+return $default(_that.id,_that.category,_that.word,_that.hints,_that.fakeWords,_that.description,_that.source);case _:
   throw StateError('Unexpected subclass');
 
 }
@@ -478,10 +480,10 @@ return $default(_that.id,_that.category,_that.word,_that.hints,_that.fakeWords,_
 /// }
 /// ```
 
-@optionalTypeArgs TResult? whenOrNull<TResult extends Object?>(TResult? Function( String id,  String category,  String word,  List<Hint> hints,  List<String> fakeWords,  String source)?  $default,) {final _that = this;
+@optionalTypeArgs TResult? whenOrNull<TResult extends Object?>(TResult? Function( String id,  String category,  String word,  List<Hint> hints,  List<String> fakeWords,  String? description,  String source)?  $default,) {final _that = this;
 switch (_that) {
 case _WordEntry() when $default != null:
-return $default(_that.id,_that.category,_that.word,_that.hints,_that.fakeWords,_that.source);case _:
+return $default(_that.id,_that.category,_that.word,_that.hints,_that.fakeWords,_that.description,_that.source);case _:
   return null;
 
 }
@@ -493,7 +495,7 @@ return $default(_that.id,_that.category,_that.word,_that.hints,_that.fakeWords,_
 @JsonSerializable()
 
 class _WordEntry extends WordEntry {
-  const _WordEntry({required this.id, required this.category, required this.word,  List<Hint> hints = const <Hint>[],  List<String> fakeWords = const <String>[], required this.source}): _hints = hints,_fakeWords = fakeWords,super._();
+  const _WordEntry({required this.id, required this.category, required this.word,  List<Hint> hints = const <Hint>[],  List<String> fakeWords = const <String>[], this.description, required this.source}): _hints = hints,_fakeWords = fakeWords,super._();
   factory _WordEntry.fromJson(Map<String, dynamic> json) => _$WordEntryFromJson(json);
 
 @override final  String id;
@@ -513,6 +515,8 @@ class _WordEntry extends WordEntry {
   return EqualUnmodifiableListView(_fakeWords);
 }
 
+/// Short plain-language meaning, shown on request to players who get the word.
+@override final  String? description;
 @override final  String source;
 
 /// Create a copy of WordEntry
@@ -528,18 +532,18 @@ Map<String, dynamic> toJson() {
 
 @override
 bool operator ==(Object other) {
-    return identical(this, other) || (other.runtimeType == runtimeType&&other is _WordEntry&&(identical(other.id, id) || other.id == id)&&(identical(other.category, category) || other.category == category)&&(identical(other.word, word) || other.word == word)&&const DeepCollectionEquality().equals(other.hints, _hints)&&const DeepCollectionEquality().equals(other.fakeWords, _fakeWords)&&(identical(other.source, source) || other.source == source));
+    return identical(this, other) || (other.runtimeType == runtimeType&&other is _WordEntry&&(identical(other.id, id) || other.id == id)&&(identical(other.category, category) || other.category == category)&&(identical(other.word, word) || other.word == word)&&const DeepCollectionEquality().equals(other.hints, _hints)&&const DeepCollectionEquality().equals(other.fakeWords, _fakeWords)&&(identical(other.description, description) || other.description == description)&&(identical(other.source, source) || other.source == source));
 }
 
 @JsonKey(includeFromJson: false, includeToJson: false)
 @override
 int get hashCode {
-    return Object.hash(runtimeType,id,category,word,const DeepCollectionEquality().hash(_hints),const DeepCollectionEquality().hash(_fakeWords),source);
+    return Object.hash(runtimeType,id,category,word,const DeepCollectionEquality().hash(_hints),const DeepCollectionEquality().hash(_fakeWords),description,source);
 }
 
 @override
 String toString() {
-    return 'WordEntry(id: $id, category: $category, word: $word, hints: $hints, fakeWords: $fakeWords, source: $source)';
+    return 'WordEntry(id: $id, category: $category, word: $word, hints: $hints, fakeWords: $fakeWords, description: $description, source: $source)';
 }
 
 
@@ -550,7 +554,7 @@ abstract mixin class _$WordEntryCopyWith<$Res> implements $WordEntryCopyWith<$Re
   factory _$WordEntryCopyWith(_WordEntry value, $Res Function(_WordEntry) _then) = __$WordEntryCopyWithImpl;
 @override @useResult
 $Res call({
- String id, String category, String word, List<Hint> hints, List<String> fakeWords, String source
+ String id, String category, String word, List<Hint> hints, List<String> fakeWords, String? description, String source
 });
 
 
@@ -567,14 +571,15 @@ class __$WordEntryCopyWithImpl<$Res>
 
 /// Create a copy of WordEntry
 /// with the given fields replaced by the non-null parameter values.
-@override @pragma('vm:prefer-inline') $Res call({Object? id = null,Object? category = null,Object? word = null,Object? hints = null,Object? fakeWords = null,Object? source = null,}) {
+@override @pragma('vm:prefer-inline') $Res call({Object? id = null,Object? category = null,Object? word = null,Object? hints = null,Object? fakeWords = null,Object? description = freezed,Object? source = null,}) {
   return _then(_WordEntry(
 id: null == id ? _self.id : id // ignore: cast_nullable_to_non_nullable
 as String,category: null == category ? _self.category : category // ignore: cast_nullable_to_non_nullable
 as String,word: null == word ? _self.word : word // ignore: cast_nullable_to_non_nullable
 as String,hints: null == hints ? _self._hints : hints // ignore: cast_nullable_to_non_nullable
 as List<Hint>,fakeWords: null == fakeWords ? _self._fakeWords : fakeWords // ignore: cast_nullable_to_non_nullable
-as List<String>,source: null == source ? _self.source : source // ignore: cast_nullable_to_non_nullable
+as List<String>,description: freezed == description ? _self.description : description // ignore: cast_nullable_to_non_nullable
+as String?,source: null == source ? _self.source : source // ignore: cast_nullable_to_non_nullable
 as String,
   ));
 }

@@ -168,12 +168,12 @@ class OnlineLobbyNotifier extends Notifier<OnlineLobbyState> {
     }
   }
 
-  Future<void> updateSettings({required int totalRounds, required String voteMode, required String voteVisibility}) async {
+  Future<void> updateSettings({required int totalRounds, required String voteMode, required String voteVisibility, int clueSeconds = 60}) async {
     final svc = ref.read(supabaseRoomServiceProvider);
     final room = state.room;
     if (svc == null || room == null) return;
     try {
-      await svc.updateSettings(roomId: room.id, totalRounds: totalRounds, voteMode: voteMode, voteVisibility: voteVisibility);
+      await svc.updateSettings(roomId: room.id, totalRounds: totalRounds, voteMode: voteMode, voteVisibility: voteVisibility, clueSeconds: clueSeconds);
       await refresh();
     } catch (e) {
       state = state.copyWith(error: () => friendlyError(e));
@@ -400,6 +400,7 @@ class OnlineGameNotifier extends Notifier<OnlineGameState> {
     final gameService = ref.read(supabaseGameServiceProvider);
     if (gameService == null) return;
 
+    _acked = false;
     state = state.copyWith(isLoading: true, error: () => null);
     try {
       final session = await gameService.fetchSession(sessionId);
@@ -453,6 +454,34 @@ class OnlineGameNotifier extends Notifier<OnlineGameState> {
   }
 
   Future<bool> tallyVotes() => _submit((svc, s) => svc.tallyVotes(s.id));
+
+  /// Returns how many players have not seen their word when the host must
+  /// confirm, 0 when the round started, or -1 on failure.
+  Future<int> startClueRound({bool force = false}) async {
+    var waiting = -1;
+    await _submit((svc, s) async {
+      final r = await svc.startClueRound(s.id, force: force);
+      waiting = r.status == 'needs_confirm' ? r.waiting : 0;
+    });
+    return waiting;
+  }
+
+  Future<bool> startDiscussion() => _submit((svc, s) => svc.startDiscussion(s.id));
+
+  bool _acked = false;
+
+  /// Called the first time this player actually holds their card open.
+  Future<void> ackWordViewed() async {
+    final svc = ref.read(supabaseGameServiceProvider);
+    final s = state.session;
+    if (svc == null || s == null || _acked) return;
+    _acked = true;
+    try {
+      await svc.ackWordViewed(s.id);
+    } catch (_) {
+      _acked = false; // Try again on the next hold.
+    }
+  }
 
   Future<bool> skipTurn() => _submit((svc, s) => svc.skipTurn(s.id));
 

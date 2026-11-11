@@ -67,12 +67,14 @@ class SupabaseRoomService {
     required int totalRounds,
     required String voteMode,
     required String voteVisibility,
+    int clueSeconds = 60,
   }) async {
     await client.rpc('update_room_settings', params: {
       'p_room_id': roomId,
       'p_total_rounds': totalRounds,
       'p_vote_mode': voteMode,
       'p_vote_visibility': voteVisibility,
+      'p_clue_seconds': clueSeconds,
     }).timeout(rpcTimeout);
   }
 

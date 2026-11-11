@@ -4,6 +4,7 @@
  "words": [
   {
    "word": "Shirt",
+   "description": "Top garment • Everyday wear • Office outfit • Ironed on sundays • Collar and buttons • Long sleeves",
    "hints": [
     {
      "text": "Top garment",
@@ -38,6 +39,7 @@
   },
   {
    "word": "T-shirt",
+   "description": "Casual top • Cotton wear • Band merch • Summer staple • Short sleeves • Printed designs",
    "hints": [
     {
      "text": "Casual top",
@@ -72,6 +74,7 @@
   },
   {
    "word": "Jeans",
+   "description": "Casual pants • Denim wear • Everyday staple • Faded over time • Blue fabric • Rivets and pockets",
    "hints": [
     {
      "text": "Casual pants",
@@ -106,6 +109,7 @@
   },
   {
    "word": "Trousers",
+   "description": "Leg garment • Formal wear • Office attire • Pressed creases • Belt loops • Long legs",
    "hints": [
     {
      "text": "Leg garment",
@@ -140,6 +144,7 @@
   },
   {
    "word": "Shorts",
+   "description": "Summer wear • Leg garment • Beach days • Gym class • Above the knee • Elastic waist",
    "hints": [
     {
      "text": "Summer wear",
@@ -174,6 +179,7 @@
   },
   {
    "word": "Skirt",
+   "description": "Lower garment • Feminine wear • School uniform • Twirls when spinning • Pleated or straight • Hangs from waist",
    "hints": [
     {
      "text": "Lower garment",
@@ -208,6 +214,7 @@
   },
   {
    "word": "Dress",
+   "description": "One piece outfit • Feminine wear • Parties and weddings • Summer favorite • Flowing fabric • Zip at back",
    "hints": [
     {
      "text": "One piece outfit",
@@ -242,6 +249,7 @@
   },
   {
    "word": "Sweater",
+   "description": "Warm top • Knitwear • Winter wear • Grandma knitted • Woolly fabric • Ribbed cuffs",
    "hints": [
     {
      "text": "Warm top",
@@ -276,6 +284,7 @@
   },
   {
    "word": "Hoodie",
+   "description": "Casual top • Comfy wear • Lazy days • Student uniform • Front pocket • Drawstring cowl",
    "hints": [
     {
      "text": "Casual top",
@@ -310,6 +319,7 @@
   },
   {
    "word": "Jacket",
+   "description": "Outer layer • Outerwear • Chilly evenings • Hung by the door • Zip or buttons • Pockets",
    "hints": [
     {
      "text": "Outer layer",
@@ -344,6 +354,7 @@
   },
   {
    "word": "Coat",
+   "description": "Outer garment • Winter wear • Keeps you warm • Hung in hallways • Long and heavy • Big buttons",
    "hints": [
     {
      "text": "Outer garment",
@@ -378,6 +389,7 @@
   },
   {
    "word": "Raincoat",
+   "description": "Wet weather gear • Outerwear • Wet weather • Puddle splashing • Waterproof fabric • Bright yellow",
    "hints": [
     {
      "text": "Wet weather gear",
@@ -412,6 +424,7 @@
   },
   {
    "word": "Suit",
+   "description": "Formal wear • Business outfit • Job interviews • Weddings • Matching jacket and trousers • Tie included",
    "hints": [
     {
      "text": "Formal wear",
@@ -446,6 +459,7 @@
   },
   {
    "word": "Tuxedo",
+   "description": "Formal wear • Evening outfit • Black tie events • Prom night • Satin lapels • Bow tie",
    "hints": [
     {
      "text": "Formal wear",
@@ -480,6 +494,7 @@
   },
   {
    "word": "Blazer",
+   "description": "Smart jacket • Formal wear • School uniform • Office smart • Tailored fit • Crest on pocket",
    "hints": [
     {
      "text": "Smart jacket",
@@ -514,6 +529,7 @@
   },
   {
    "word": "Tie",
+   "description": "Neckwear • Formal accessory • Office dress code • Fathers day gift • Long strip • Knotted at collar",
    "hints": [
     {
      "text": "Neckwear",
@@ -548,6 +564,7 @@
   },
   {
    "word": "Bow tie",
+   "description": "Neckwear • Formal accessory • Tuxedo partner • Quirky style • Butterfly shape • Tied at neck",
    "hints": [
     {
      "text": "Neckwear",
@@ -582,6 +599,7 @@
   },
   {
    "word": "Scarf",
+   "description": "Neckwear • Winter accessory • Wrapped around neck • Knitted gift • Long fabric strip • Fringed ends",
    "hints": [
     {
      "text": "Neckwear",
@@ -616,6 +634,7 @@
   },
   {
    "word": "Gloves",
+   "description": "Hand wear • Winter accessory • Keep fingers warm • Lost in pairs • Five fingers • Woolly or leather",
    "hints": [
     {
      "text": "Hand wear",
@@ -650,6 +669,7 @@
   },
   {
    "word": "Mittens",
+   "description": "Hand wear • Winter accessory • Kids in snow • Strung through sleeves • Thumb pocket only • Fluffy",
    "hints": [
     {
      "text": "Hand wear",
@@ -684,6 +704,7 @@
   },
   {
    "word": "Socks",
+   "description": "Footwear • Underlayer • Lost in laundry • Holiday gift • Pulled over feet • Come in pairs",
    "hints": [
     {
      "text": "Footwear",
@@ -718,6 +739,7 @@
   },
   {
    "word": "Shoes",
+   "description": "Footwear • Everyday wear • Laces and soles • Taken off at door • Pair for feet • Left and right",
    "hints": [
     {
      "text": "Footwear",
@@ -752,6 +774,7 @@
   },
   {
    "word": "Sneakers",
+   "description": "Footwear • Sports shoes • Running and gym • Collected by fans • Rubber soles • Laces",
    "hints": [
     {
      "text": "Footwear",
@@ -786,6 +809,7 @@
   },
   {
    "word": "Boots",
+   "description": "Footwear • Sturdy shoes • Rainy days • Hiking trails • Ankle high • Thick soles",
    "hints": [
     {
      "text": "Footwear",
@@ -820,6 +844,7 @@
   },
   {
    "word": "Sandals",
+   "description": "Summer footwear • Open shoes • Beach days • Hot weather • Straps • Toes showing",
    "hints": [
     {
      "text": "Summer footwear",
@@ -854,6 +879,7 @@
   },
   {
    "word": "Flip flops",
+   "description": "Beach footwear • Summer shoes • Pool side • Snapping sound • Thong between toes • Rubber soles",
    "hints": [
     {
      "text": "Beach footwear",
@@ -888,6 +914,7 @@
   },
   {
    "word": "Slippers",
+   "description": "Indoor footwear • Comfy shoes • Worn at home • Cozy mornings • Fluffy lining • Slide on",
    "hints": [
     {
      "text": "Indoor footwear",
@@ -922,6 +949,7 @@
   },
   {
    "word": "High heels",
+   "description": "Formal footwear • Fancy shoes • Parties and galas • Hard to walk in • Tall pointed spike • Clicking sound",
    "hints": [
     {
      "text": "Formal footwear",
@@ -956,6 +984,7 @@
   },
   {
    "word": "Hat",
+   "description": "Headwear • Accessory • Shade from sun • Tipped politely • Brim around • Sits on head",
    "hints": [
     {
      "text": "Headwear",
@@ -990,6 +1019,7 @@
   },
   {
    "word": "Cap",
+   "description": "Headwear • Casual accessory • Sports teams • Worn backwards • Peak at front • Adjustable strap",
    "hints": [
     {
      "text": "Headwear",
@@ -1024,6 +1054,7 @@
   },
   {
    "word": "Beanie",
+   "description": "Headwear • Winter accessory • Snowy days • Skater style • Knitted wool • Pom pom on top",
    "hints": [
     {
      "text": "Headwear",
@@ -1058,6 +1089,7 @@
   },
   {
    "word": "Beret",
+   "description": "Headwear • Artist accessory • Painters and poets • Military units • Soft and flat • Tilted on side",
    "hints": [
     {
      "text": "Headwear",
@@ -1092,6 +1124,7 @@
   },
   {
    "word": "Helmet",
+   "description": "Protective headwear • Safety gear • Cyclists and bikers • Construction sites • Hard shell • Chin strap",
    "hints": [
     {
      "text": "Protective headwear",
@@ -1126,6 +1159,7 @@
   },
   {
    "word": "Belt",
+   "description": "Waist accessory • Leather strip • Holds up trousers • Notches tighten • Buckle • Through loops",
    "hints": [
     {
      "text": "Waist accessory",
@@ -1160,6 +1194,7 @@
   },
   {
    "word": "Suspenders",
+   "description": "Trouser holders • Accessory • Old fashioned style • Over shoulders • Elastic straps • Clip on",
    "hints": [
     {
      "text": "Trouser holders",
@@ -1194,6 +1229,7 @@
   },
   {
    "word": "Pajamas",
+   "description": "Sleepwear • Night clothes • Bedtime outfit • Sleepovers • Matching top and bottoms • Soft cotton",
    "hints": [
     {
      "text": "Sleepwear",
@@ -1228,6 +1264,7 @@
   },
   {
    "word": "Robe",
+   "description": "Loungewear • Bathroom wear • After showers • Hotel luxury • Tie belt • Fluffy towelling",
    "hints": [
     {
      "text": "Loungewear",
@@ -1262,6 +1299,7 @@
   },
   {
    "word": "Swimsuit",
+   "description": "Beachwear • Water clothing • Pool parties • Summer vacation • Stretchy fabric • Quick drying",
    "hints": [
     {
      "text": "Beachwear",
@@ -1296,6 +1334,7 @@
   },
   {
    "word": "Bikini",
+   "description": "Beachwear • Two piece • Sunbathing • Summer holidays • Top and bottom • Bright prints",
    "hints": [
     {
      "text": "Beachwear",
@@ -1330,6 +1369,7 @@
   },
   {
    "word": "Wetsuit",
+   "description": "Water gear • Diving outfit • Surfers wear it • Cold water • Thick neoprene • Zip at back",
    "hints": [
     {
      "text": "Water gear",
@@ -1364,6 +1404,7 @@
   },
   {
    "word": "Uniform",
+   "description": "Work clothing • Matching outfit • Schools and armies • Dress code • Same for everyone • Badges and crests",
    "hints": [
     {
      "text": "Work clothing",
@@ -1398,6 +1439,7 @@
   },
   {
    "word": "Overalls",
+   "description": "Work wear • One piece • Farmers and painters • Bib front • Shoulder straps • Big pockets",
    "hints": [
     {
      "text": "Work wear",
@@ -1432,6 +1474,7 @@
   },
   {
    "word": "Jumpsuit",
+   "description": "One piece outfit • Fashion wear • Pilots and mechanics • Trendy style • Top and trousers joined • Zip front",
    "hints": [
     {
      "text": "One piece outfit",
@@ -1466,6 +1509,7 @@
   },
   {
    "word": "Leggings",
+   "description": "Stretchy pants • Activewear • Yoga classes • Comfy wear • Skin tight • Elastic waistband",
    "hints": [
     {
      "text": "Stretchy pants",
@@ -1500,6 +1544,7 @@
   },
   {
    "word": "Tights",
+   "description": "Legwear • Stretchy hosiery • Under skirts • Ballet class • Sheer nylon • Full leg",
    "hints": [
     {
      "text": "Legwear",
@@ -1534,6 +1579,7 @@
   },
   {
    "word": "Cardigan",
+   "description": "Knitwear • Light layer • Grandpa style • Over shirts • Buttons down front • Woolly",
    "hints": [
     {
      "text": "Knitwear",
@@ -1568,6 +1614,7 @@
   },
   {
    "word": "Vest",
+   "description": "Sleeveless top • Layering piece • Under shirts • Three piece suits • No sleeves • Buttons or pullover",
    "hints": [
     {
      "text": "Sleeveless top",
@@ -1602,6 +1649,7 @@
   },
   {
    "word": "Tank top",
+   "description": "Sleeveless shirt • Summer wear • Gym workouts • Hot days • Thin straps • Bare arms",
    "hints": [
     {
      "text": "Sleeveless shirt",
@@ -1636,6 +1684,7 @@
   },
   {
    "word": "Polo shirt",
+   "description": "Casual top • Sporty top • Golf outfits • Smart casual • Short collar • Few buttons",
    "hints": [
     {
      "text": "Casual top",
@@ -1670,6 +1719,7 @@
   },
   {
    "word": "Blouse",
+   "description": "Ladies top • Smart wear • Office wear • Tucked in • Soft fabric • Buttons or bow",
    "hints": [
     {
      "text": "Ladies top",
@@ -1704,6 +1754,7 @@
   },
   {
    "word": "Kimono",
+   "description": "Japanese garment • Traditional robe • Tea ceremonies • Festivals • Wide sleeves • Sash belt",
    "hints": [
     {
      "text": "Japanese garment",
@@ -1738,6 +1789,7 @@
   },
   {
    "word": "Sari",
+   "description": "Indian garment • Traditional drape • Weddings and festivals • Elegant wear • Long draped fabric • Blouse underneath",
    "hints": [
     {
      "text": "Indian garment",
@@ -1772,6 +1824,7 @@
   },
   {
    "word": "Kurta",
+   "description": "Indian garment • Long tunic • Festive wear • Comfortable cotton • Knee length • Collarless",
    "hints": [
     {
      "text": "Indian garment",
@@ -1806,6 +1859,7 @@
   },
   {
    "word": "Lehenga",
+   "description": "Indian garment • Bridal wear • Weddings • Festive dances • Flared skirt • Heavy embroidery",
    "hints": [
     {
      "text": "Indian garment",
@@ -1840,6 +1894,7 @@
   },
   {
    "word": "Sherwani",
+   "description": "Indian garment • Groom wear • Wedding outfit • Royal look • Long coat • Embroidered",
    "hints": [
     {
      "text": "Indian garment",
@@ -1874,6 +1929,7 @@
   },
   {
    "word": "Dhoti",
+   "description": "Indian garment • Traditional wrap • Temple wear • Rural wear • Unstitched cloth • Tied at waist",
    "hints": [
     {
      "text": "Indian garment",
@@ -1908,6 +1964,7 @@
   },
   {
    "word": "Turban",
+   "description": "Headwear • Traditional wrap • Religious significance • Weddings • Long cloth wound • Colorful folds",
    "hints": [
     {
      "text": "Headwear",
@@ -1942,6 +1999,7 @@
   },
   {
    "word": "Kilt",
+   "description": "Scottish garment • Tartan skirt • Highland games • Bagpipers • Pleated wool • Sporran pouch",
    "hints": [
     {
      "text": "Scottish garment",
@@ -1976,6 +2034,7 @@
   },
   {
    "word": "Poncho",
+   "description": "Outerwear • Blanket wrap • Rain cover • Festival wear • Head hole in middle • Fringed edges",
    "hints": [
     {
      "text": "Outerwear",
@@ -2010,6 +2069,7 @@
   },
   {
    "word": "Cape",
+   "description": "Outerwear • Flowing cloak • Superheroes • Magicians • Tied at neck • Billowing fabric",
    "hints": [
     {
      "text": "Outerwear",
@@ -2044,6 +2104,7 @@
   },
   {
    "word": "Cloak",
+   "description": "Outerwear • Hooded wrap • Wizards and knights • Medieval wear • Long and flowing • Hooded",
    "hints": [
     {
      "text": "Outerwear",
@@ -2078,6 +2139,7 @@
   },
   {
    "word": "Shawl",
+   "description": "Shoulder wrap • Accessory • Chilly evenings • Elegant cover • Draped fabric • Fringe edges",
    "hints": [
     {
      "text": "Shoulder wrap",
@@ -2112,6 +2174,7 @@
   },
   {
    "word": "Apron",
+   "description": "Kitchen wear • Protective layer • Cooking and baking • Tied at back • Front pocket • Neck strap",
    "hints": [
     {
      "text": "Kitchen wear",
@@ -2146,6 +2209,7 @@
   },
   {
    "word": "Bib",
+   "description": "Baby item • Protective cloth • Messy eaters • Lobster dinners • Tied at neck • Catches food",
    "hints": [
     {
      "text": "Baby item",
@@ -2180,6 +2244,7 @@
   },
   {
    "word": "Sunglasses",
+   "description": "Eyewear • Summer accessory • Bright days • Cool look • Dark lenses • Block glare",
    "hints": [
     {
      "text": "Eyewear",
@@ -2214,6 +2279,7 @@
   },
   {
    "word": "Goggles",
+   "description": "Protective eyewear • Sports gear • Swimming and skiing • Lab safety • Strap around head • Sealed lenses",
    "hints": [
     {
      "text": "Protective eyewear",
@@ -2248,6 +2314,7 @@
   },
   {
    "word": "Watch",
+   "description": "Wrist accessory • Timepiece • Checks the time • Gift for graduates • Strap and face • Ticking hands",
    "hints": [
     {
      "text": "Wrist accessory",
@@ -2282,6 +2349,7 @@
   },
   {
    "word": "Necklace",
+   "description": "Jewelry • Throat accessory • Gift on birthdays • Pendants • Delicate chain • Clasp at back",
    "hints": [
     {
      "text": "Jewelry",
@@ -2316,6 +2384,7 @@
   },
   {
    "word": "Bracelet",
+   "description": "Jewelry • Wrist accessory • Friendship gifts • Charm collection • Loop on wrist • Beads or chain",
    "hints": [
     {
      "text": "Jewelry",
@@ -2350,6 +2419,7 @@
   },
   {
    "word": "Earrings",
+   "description": "Jewelry • Ear accessory • Pierced ears • Matching pair • Studs or hoops • Dangling",
    "hints": [
     {
      "text": "Jewelry",
@@ -2384,6 +2454,7 @@
   },
   {
    "word": "Ring",
+   "description": "Jewelry • Finger accessory • Engagement proposals • Wedding vows • Circle band • Gemstone setting",
    "hints": [
     {
      "text": "Jewelry",
@@ -2418,6 +2489,7 @@
   },
   {
    "word": "Crown",
+   "description": "Royal headwear • Jewelled accessory • Kings and queens • Coronations • Golden points • Precious stones",
    "hints": [
     {
      "text": "Royal headwear",
@@ -2452,6 +2524,7 @@
   },
   {
    "word": "Tiara",
+   "description": "Jewelled headwear • Princess accessory • Beauty pageants • Brides • Sparkly band • Small arch",
    "hints": [
     {
      "text": "Jewelled headwear",
@@ -2486,6 +2559,7 @@
   },
   {
    "word": "Headband",
+   "description": "Hair accessory • Sports accessory • Keeps hair back • Workout sweat • Elastic loop • Over forehead",
    "hints": [
     {
      "text": "Hair accessory",
@@ -2520,6 +2594,7 @@
   },
   {
    "word": "Bandana",
+   "description": "Head scarf • Cotton square • Cowboys and bikers • Tied around neck • Paisley pattern • Folded triangle",
    "hints": [
     {
      "text": "Head scarf",
@@ -2554,6 +2629,7 @@
   },
   {
    "word": "Handkerchief",
+   "description": "Pocket cloth • Small square • Wipe your nose • Breast pocket • Folded square • Embroidered corner",
    "hints": [
     {
      "text": "Pocket cloth",
@@ -2588,6 +2664,7 @@
   },
   {
    "word": "Wallet",
+   "description": "Pocket accessory • Money holder • Cards and cash • Back pocket • Folding leather • Card slots",
    "hints": [
     {
      "text": "Pocket accessory",
@@ -2622,6 +2699,7 @@
   },
   {
    "word": "Handbag",
+   "description": "Fashion accessory • Carry bag • Holds essentials • Designer labels • Shoulder strap • Zip closure",
    "hints": [
     {
      "text": "Fashion accessory",
@@ -2656,6 +2734,7 @@
   },
   {
    "word": "Backpack",
+   "description": "Bag • Carry sack • School and hiking • Worn behind • Two straps • Many pockets",
    "hints": [
     {
      "text": "Bag",
@@ -2690,6 +2769,7 @@
   },
   {
    "word": "Earmuffs",
+   "description": "Winter accessory • Ear warmers • Snowy days • Ice skating • Fluffy pads • Headband",
    "hints": [
     {
      "text": "Winter accessory",
@@ -2724,6 +2804,7 @@
   },
   {
    "word": "Leotard",
+   "description": "Dancewear • Gym wear • Ballet and gymnastics • Stretchy fit • Tight one piece • No legs",
    "hints": [
     {
      "text": "Dancewear",
@@ -2758,6 +2839,7 @@
   },
   {
    "word": "Tutu",
+   "description": "Ballet costume • Dancewear • Ballerinas • Little girls dress up • Stiff netting skirt • Frilly layers",
    "hints": [
     {
      "text": "Ballet costume",
@@ -2792,6 +2874,7 @@
   },
   {
    "word": "Gown",
+   "description": "Formal dress • Evening wear • Red carpets • Balls and proms • Floor length • Flowing fabric",
    "hints": [
     {
      "text": "Formal dress",
@@ -2826,6 +2909,7 @@
   },
   {
    "word": "Wedding dress",
+   "description": "Bridal wear • Special gown • Walk down aisle • Kept for years • White lace • Long train",
    "hints": [
     {
      "text": "Bridal wear",
@@ -2860,6 +2944,7 @@
   },
   {
    "word": "Veil",
+   "description": "Bridal accessory • Head covering • Lifted at altar • Wedding tradition • Sheer fabric • Over face",
    "hints": [
     {
      "text": "Bridal accessory",
@@ -2894,6 +2979,7 @@
   },
   {
    "word": "Corset",
+   "description": "Historical garment • Fitted bodice • Victorian fashion • Tight lacing • Boned panels • Laced back",
    "hints": [
     {
      "text": "Historical garment",
@@ -2928,6 +3014,7 @@
   },
   {
    "word": "Waistcoat",
+   "description": "Smart layer • Suit piece • Three piece suits • Wedding wear • Sleeveless • Buttons down front",
    "hints": [
     {
      "text": "Smart layer",
@@ -2962,6 +3049,7 @@
   },
   {
    "word": "Turtleneck",
+   "description": "Knitwear • Warm top • Intellectual look • Winter layering • Folded high collar • Covers throat",
    "hints": [
     {
      "text": "Knitwear",
@@ -2996,6 +3084,7 @@
   },
   {
    "word": "Parka",
+   "description": "Winter coat • Outerwear • Arctic weather • Very warm • Fur trimmed hood • Padded",
    "hints": [
     {
      "text": "Winter coat",
@@ -3030,6 +3119,7 @@
   },
   {
    "word": "Puffer jacket",
+   "description": "Winter layer • Padded wear • Very warm • Puffy look • Quilted sections • Down filling",
    "hints": [
     {
      "text": "Winter layer",
@@ -3064,6 +3154,7 @@
   },
   {
    "word": "Fleece",
+   "description": "Warm layer • Outdoor wear • Camping trips • Soft and cozy • Synthetic fluff • Zip up",
    "hints": [
     {
      "text": "Warm layer",
@@ -3098,6 +3189,7 @@
   },
   {
    "word": "Tracksuit",
+   "description": "Sportswear • Matching set • Gym class • Lazy weekends • Zip jacket and joggers • Stripes down side",
    "hints": [
     {
      "text": "Sportswear",
@@ -3132,6 +3224,7 @@
   },
   {
    "word": "Joggers",
+   "description": "Casual pants • Sportswear • Lounge and run • Comfy wear • Elastic cuffs • Drawstring waist",
    "hints": [
     {
      "text": "Casual pants",
@@ -3166,6 +3259,7 @@
   },
   {
    "word": "Cargo pants",
+   "description": "Utility trousers • Casual wear • Hiking and travel • Lots of storage • Side pockets • Baggy fit",
    "hints": [
     {
      "text": "Utility trousers",
@@ -3200,6 +3294,7 @@
   },
   {
    "word": "Loafers",
+   "description": "Smart shoes • Slip ons • Preppy style • No laces • Leather • Tassels or penny slot",
    "hints": [
     {
      "text": "Smart shoes",
@@ -3234,6 +3329,7 @@
   },
   {
    "word": "Wellies",
+   "description": "Rain boots • Rubber footwear • Muddy fields • Puddle jumping • Knee high • Waterproof rubber",
    "hints": [
     {
      "text": "Rain boots",
@@ -3268,6 +3364,7 @@
   },
   {
    "word": "Clogs",
+   "description": "Wooden shoes • Dutch footwear • Nurses wear them • Tulip fields • Carved wood • Chunky sole",
    "hints": [
     {
      "text": "Wooden shoes",
@@ -3302,6 +3399,7 @@
   },
   {
    "word": "Moccasins",
+   "description": "Soft shoes • Leather footwear • Native origins • Indoor comfort • Stitched toe • Suede",
    "hints": [
     {
      "text": "Soft shoes",
@@ -3336,6 +3434,7 @@
   },
   {
    "word": "Espadrilles",
+   "description": "Summer shoes • Canvas footwear • Beach towns • Breezy • Rope soles • Canvas top",
    "hints": [
     {
      "text": "Summer shoes",
@@ -3370,6 +3469,7 @@
   },
   {
    "word": "Ballet flats",
+   "description": "Low shoes • Feminine footwear • Office comfort • Easy wear • Rounded toe • Thin sole",
    "hints": [
     {
      "text": "Low shoes",
@@ -3404,6 +3504,7 @@
   },
   {
    "word": "Stockings",
+   "description": "Legwear • Hosiery • Christmas hanging • Vintage fashion • Thigh high • Sheer nylon",
    "hints": [
     {
      "text": "Legwear",
@@ -3438,6 +3539,7 @@
   },
   {
    "word": "Hairclip",
+   "description": "Styling accessory • Small clasp • Holds locks back • Kids love them • Spring clasp • Decorative",
    "hints": [
     {
      "text": "Styling accessory",
@@ -3472,6 +3574,7 @@
   },
   {
    "word": "Brooch",
+   "description": "Jewelry • Pin accessory • Grandma style • On lapels • Decorative pin • Clasp at back",
    "hints": [
     {
      "text": "Jewelry",
@@ -3506,6 +3609,7 @@
   },
   {
    "word": "Cufflinks",
+   "description": "Shirt accessory • Formal jewelry • Fancy shirts • Wedding gifts • Pair of fasteners • Through sleeve holes",
    "hints": [
     {
      "text": "Shirt accessory",
@@ -3540,6 +3644,7 @@
   },
   {
    "word": "Lanyard",
+   "description": "Neck strap • Badge holder • Conferences • Office passes • Ribbon loop • Clip at end",
    "hints": [
     {
      "text": "Neck strap",
@@ -3574,6 +3679,7 @@
   },
   {
    "word": "Tie clip",
+   "description": "Formal accessory • Small clasp • Keeps neckwear flat • Office smart • Metal bar • Slides on",
    "hints": [
     {
      "text": "Formal accessory",
@@ -3608,6 +3714,7 @@
   },
   {
    "word": "Romper",
+   "description": "One piece outfit • Summer wear • Toddlers and adults • Playful style • Shorts and top joined • Buttons",
    "hints": [
     {
      "text": "One piece outfit",
@@ -3642,6 +3749,7 @@
   },
   {
    "word": "Sarong",
+   "description": "Wrap garment • Beachwear • Tropical holidays • Tied at waist • Colorful cloth • Knotted side",
    "hints": [
     {
      "text": "Wrap garment",
@@ -3676,6 +3784,7 @@
   },
   {
    "word": "Hanbok",
+   "description": "Korean garment • Traditional dress • Festivals and weddings • Bright colors • High waist skirt • Short jacket",
    "hints": [
     {
      "text": "Korean garment",
@@ -3710,6 +3819,7 @@
   },
   {
    "word": "Qipao",
+   "description": "Chinese dress • Traditional gown • Lunar festivities • Elegant fit • High collar • Side slits",
    "hints": [
     {
      "text": "Chinese dress",
@@ -3744,6 +3854,7 @@
   },
   {
    "word": "Sombrero",
+   "description": "Mexican hat • Wide hat • Mariachi bands • Sun protection • Huge brim • Pointed crown",
    "hints": [
     {
      "text": "Mexican hat",
@@ -3778,6 +3889,7 @@
   },
   {
    "word": "Fedora",
+   "description": "Classic hat • Felt hat • Detective style • Jazz age • Pinched crown • Ribbon band",
    "hints": [
     {
      "text": "Classic hat",
@@ -3812,6 +3924,7 @@
   },
   {
    "word": "Top hat",
+   "description": "Formal headwear • Tall headwear • Magicians and gentlemen • Victorian style • Tall cylinder • Silk finish",
    "hints": [
     {
      "text": "Formal headwear",
@@ -3846,6 +3959,7 @@
   },
   {
    "word": "Bowler",
+   "description": "Rounded hat • Classic hat • City gentlemen • Comedy icons • Hard dome • Short brim",
    "hints": [
     {
      "text": "Rounded hat",
@@ -3880,6 +3994,7 @@
   },
   {
    "word": "Cowboy hat",
+   "description": "Western headwear • Wide headwear • Ranchers • Rodeos • Wide curled brim • Felt crown",
    "hints": [
     {
      "text": "Western headwear",
@@ -3914,6 +4029,7 @@
   },
   {
    "word": "Visor",
+   "description": "Sun shield • Sport headwear • Tennis and golf • Open top • Curved peak • Headband style",
    "hints": [
     {
      "text": "Sun shield",
@@ -3948,6 +4064,7 @@
   },
   {
    "word": "Balaclava",
+   "description": "Winter headwear • Face cover • Skiing • Very cold days • Covers whole head • Eye holes",
    "hints": [
     {
      "text": "Winter headwear",
@@ -3982,6 +4099,7 @@
   },
   {
    "word": "Mask",
+   "description": "Face covering • Accessory • Costume parties • Health protection • Covers face • Elastic loops",
    "hints": [
     {
      "text": "Face covering",
@@ -4016,6 +4134,7 @@
   },
   {
    "word": "Costume",
+   "description": "Dress up outfit • Fancy dress • Halloween • School plays • Character outfit • Props and wigs",
    "hints": [
     {
      "text": "Dress up outfit",
@@ -4050,6 +4169,7 @@
   },
   {
    "word": "Wig",
+   "description": "Fake hair • Costume piece • Theater and parties • Hair loss • Mesh cap • Synthetic strands",
    "hints": [
     {
      "text": "Fake hair",
@@ -4084,6 +4204,7 @@
   },
   {
    "word": "Snow boots",
+   "description": "Winter footwear • Insulated footwear • Mountain hikes • Ski lodges • Fur lining • Thick treads",
    "hints": [
     {
      "text": "Winter footwear",
@@ -4118,6 +4239,7 @@
   },
   {
    "word": "Nightgown",
+   "description": "Sleepwear • Long nightie • Victorian bedtime • Flowing comfort • Loose dress • Cotton or silk",
    "hints": [
     {
      "text": "Sleepwear",
@@ -4152,6 +4274,7 @@
   },
   {
    "word": "Underwear",
+   "description": "Inner garment • Basic clothing • Changed daily • Drawer staple • Elastic waistband • Cotton",
    "hints": [
     {
      "text": "Inner garment",
@@ -4186,6 +4309,7 @@
   },
   {
    "word": "Bathrobe",
+   "description": "Loungewear • After shower wear • Spa days • Sunday mornings • Towelling fabric • Tie belt",
    "hints": [
     {
      "text": "Loungewear",
@@ -4220,6 +4344,7 @@
   },
   {
    "word": "Dungarees",
+   "description": "Work wear • Bib trousers • Kids and painters • Denim style • Shoulder straps • Front bib",
    "hints": [
     {
      "text": "Work wear",
@@ -4254,6 +4379,7 @@
   },
   {
    "word": "Anorak",
+   "description": "Outerwear • Weatherproof jacket • Hiking trips • Windy days • Pull over hood • Drawstring hem",
    "hints": [
     {
      "text": "Outerwear",
@@ -4288,6 +4414,7 @@
   },
   {
    "word": "Peacoat",
+   "description": "Winter outerwear • Naval style • Sailor origins • Classic look • Double breasted • Wool",
    "hints": [
     {
      "text": "Winter outerwear",
@@ -4322,6 +4449,7 @@
   },
   {
    "word": "Trench coat",
+   "description": "Outerwear • Belted outerwear • Detective look • Rainy cities • Belted waist • Epaulettes",
    "hints": [
     {
      "text": "Outerwear",
@@ -4356,6 +4484,7 @@
   },
   {
    "word": "Sports bra",
+   "description": "Activewear • Support top • Workouts • Running • Stretchy band • Racerback",
    "hints": [
     {
      "text": "Activewear",
@@ -4390,6 +4519,7 @@
   },
   {
    "word": "Crop top",
+   "description": "Short shirt • Trendy wear • Summer fashion • Shows midriff • Short hem • Fitted",
    "hints": [
     {
      "text": "Short shirt",
@@ -4424,6 +4554,7 @@
   },
   {
    "word": "Tunic",
+   "description": "Long top • Loose garment • Ancient romans • Over leggings • Hip length • Simple cut",
    "hints": [
     {
      "text": "Long top",
@@ -4458,6 +4589,7 @@
   },
   {
    "word": "Sash",
+   "description": "Waist band • Ceremonial strip • Beauty pageants • Martial arts • Diagonal ribbon • Tied bow",
    "hints": [
     {
      "text": "Waist band",
@@ -4492,6 +4624,7 @@
   },
   {
    "word": "Hood",
+   "description": "Head cover • Garment part • Rainy walks • Mystery look • Attached to coat • Drawstrings",
    "hints": [
     {
      "text": "Head cover",
@@ -4526,6 +4659,7 @@
   },
   {
    "word": "Collar",
+   "description": "Garment part • Neck edge • Popped style • Shirt feature • Folded fabric • Around neck",
    "hints": [
     {
      "text": "Garment part",
@@ -4560,6 +4694,7 @@
   },
   {
    "word": "Pocket",
+   "description": "Garment part • Small pouch • Holds keys • Hands inside • Sewn pouch • Jeans or jackets",
    "hints": [
     {
      "text": "Garment part",
@@ -4594,6 +4729,7 @@
   },
   {
    "word": "Zipper",
+   "description": "Fastener • Clothing part • Jackets and bags • Gets stuck • Metal teeth • Pull tab",
    "hints": [
     {
      "text": "Fastener",
@@ -4628,6 +4764,7 @@
   },
   {
    "word": "Button",
+   "description": "Fastener • Small disc • Shirts and coats • Pops off • Holes for thread • Through slits",
    "hints": [
     {
      "text": "Fastener",
@@ -4662,6 +4799,7 @@
   },
   {
    "word": "Sweatband",
+   "description": "Sports accessory • Wrist or head • Tennis players • Absorbs moisture • Terry cloth loop • Elastic",
    "hints": [
     {
      "text": "Sports accessory",
@@ -4696,6 +4834,7 @@
   },
   {
    "word": "Slip",
+   "description": "Inner garment • Under dress layer • Prevents see through • Vintage lingerie • Silky fabric • Thin straps",
    "hints": [
     {
      "text": "Inner garment",
@@ -4730,6 +4869,7 @@
   },
   {
    "word": "Camisole",
+   "description": "Light top • Inner layer • Under blazers • Summer layering • Spaghetti straps • Silky fabric",
    "hints": [
     {
      "text": "Light top",
@@ -4764,6 +4904,7 @@
   },
   {
    "word": "Petticoat",
+   "description": "Under skirt • Vintage layer • Adds volume • Victorian fashion • Frilly layers • Worn beneath",
    "hints": [
     {
      "text": "Under skirt",
@@ -4798,6 +4939,7 @@
   },
   {
    "word": "Mitts",
+   "description": "Hand wear • Fingerless gloves • Gamers and cyclists • Winter typing • Open fingertips • Knitted wool",
    "hints": [
     {
      "text": "Hand wear",
@@ -4832,6 +4974,7 @@
   },
   {
    "word": "Anklet",
+   "description": "Jewelry • Foot accessory • Beach style • Jingling bells • Chain above foot • Delicate loop",
    "hints": [
     {
      "text": "Jewelry",
@@ -4866,6 +5009,7 @@
   },
   {
    "word": "Choker",
+   "description": "Jewelry • Tight necklace • Nineties trend • Gothic style • Snug band • Velvet or lace",
    "hints": [
     {
      "text": "Jewelry",
@@ -4900,6 +5044,7 @@
   },
   {
    "word": "Pendant",
+   "description": "Jewelry • Hanging charm • Locket photos • Gift idea • Dangling stone • On a chain",
    "hints": [
     {
      "text": "Jewelry",
@@ -4934,6 +5079,7 @@
   },
   {
    "word": "Locket",
+   "description": "Jewelry • Keepsake • Holds a photo • Opens on hinge • Heart shaped • Tiny clasp",
    "hints": [
     {
      "text": "Jewelry",
@@ -4968,6 +5114,7 @@
   },
   {
    "word": "Nose ring",
+   "description": "Jewelry • Facial piercing • Bridal adornment • Trendy look • Small hoop • Stud on side",
    "hints": [
     {
      "text": "Jewelry",
@@ -5002,6 +5149,7 @@
   },
   {
    "word": "Toe ring",
+   "description": "Jewelry • Foot accessory • Married women tradition • Beach wear • Silver band • Worn barefoot",
    "hints": [
     {
      "text": "Jewelry",
@@ -5036,6 +5184,7 @@
   },
   {
    "word": "Cravat",
+   "description": "Neckwear • Dapper accessory • Victorian gentlemen • Silk knot • Folded silk • Tucked into shirt",
    "hints": [
     {
      "text": "Neckwear",
@@ -5070,6 +5219,7 @@
   },
   {
    "word": "Wristband",
+   "description": "Sport accessory • Festival accessory • Festival entry • Charity colors • Rubber or fabric • Snug loop",
    "hints": [
     {
      "text": "Sport accessory",
@@ -5104,6 +5254,7 @@
   },
   {
    "word": "Boilersuit",
+   "description": "Work wear • One piece • Mechanics and factory • Utilitarian • Zip front • Long sleeves",
    "hints": [
     {
      "text": "Work wear",
@@ -5138,6 +5289,7 @@
   },
   {
    "word": "Knee pads",
+   "description": "Protective gear • Sports gear • Skating and volleyball • Gardening • Padded caps • Strapped on",
    "hints": [
     {
      "text": "Protective gear",
@@ -5172,6 +5324,7 @@
   },
   {
    "word": "Shin guards",
+   "description": "Protective gear • Football gear • Under socks • Tackle protection • Hard plastic • Front of leg",
    "hints": [
     {
      "text": "Protective gear",

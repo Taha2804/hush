@@ -4,6 +4,7 @@
  "words": [
   {
    "word": "Doctor",
+   "description": "Medical job • Health professional • Works in hospitals • Long shifts • Stethoscope • White coat",
    "hints": [
     {
      "text": "Medical job",
@@ -38,6 +39,7 @@
   },
   {
    "word": "Nurse",
+   "description": "Medical job • Caring profession • Works night shifts • Helps patients • Scrubs • Takes your temperature",
    "hints": [
     {
      "text": "Medical job",
@@ -72,6 +74,7 @@
   },
   {
    "word": "Teacher",
+   "description": "Education job • School worker • Grades papers • Has summer break • Blackboard • Apple on desk",
    "hints": [
     {
      "text": "Education job",
@@ -106,6 +109,7 @@
   },
   {
    "word": "Police officer",
+   "description": "Public service • Law job • Patrols streets • Wears a badge • Handcuffs • Siren car",
    "hints": [
     {
      "text": "Public service",
@@ -140,6 +144,7 @@
   },
   {
    "word": "Firefighter",
+   "description": "Rescue job • Brave profession • Slides down poles • Saves cats • Red truck • Hose and helmet",
    "hints": [
     {
      "text": "Rescue job",
@@ -174,6 +179,7 @@
   },
   {
    "word": "Chef",
+   "description": "Kitchen job • Food profession • Runs a kitchen • Yells orders • Tall white hat • Sharp knives",
    "hints": [
     {
      "text": "Kitchen job",
@@ -208,6 +214,7 @@
   },
   {
    "word": "Pilot",
+   "description": "Aviation job • Travel profession • Flies planes • Talks to passengers • Cockpit controls • Captain hat",
    "hints": [
     {
      "text": "Aviation job",
@@ -242,6 +249,7 @@
   },
   {
    "word": "Astronaut",
+   "description": "Space job • Science profession • Trains for years • Floats in orbit • Space suit • Rocket launch",
    "hints": [
     {
      "text": "Space job",
@@ -276,6 +284,7 @@
   },
   {
    "word": "Farmer",
+   "description": "Agriculture job • Rural worker • Wakes at dawn • Drives tractors • Plants crops • Milks cows",
    "hints": [
     {
      "text": "Agriculture job",
@@ -310,6 +319,7 @@
   },
   {
    "word": "Dentist",
+   "description": "Medical job • Oral care • Checks your teeth • Says open wide • Drill and mirror • Floss advice",
    "hints": [
     {
      "text": "Medical job",
@@ -344,6 +354,7 @@
   },
   {
    "word": "Lawyer",
+   "description": "Legal job • Court profession • Argues cases • Charges by hour • Suit and briefcase • Objection",
    "hints": [
     {
      "text": "Legal job",
@@ -378,6 +389,7 @@
   },
   {
    "word": "Judge",
+   "description": "Legal job • Court authority • Gives verdicts • Very respected • Gavel • Black robe",
    "hints": [
     {
      "text": "Legal job",
@@ -412,6 +424,7 @@
   },
   {
    "word": "Engineer",
+   "description": "Technical job • Problem solver • Designs things • Uses math • Hard hat • Blueprints",
    "hints": [
     {
      "text": "Technical job",
@@ -446,6 +459,7 @@
   },
   {
    "word": "Architect",
+   "description": "Design job • Building profession • Plans skyscrapers • Draws designs • Blueprints • Scale models",
    "hints": [
     {
      "text": "Design job",
@@ -480,6 +494,7 @@
   },
   {
    "word": "Scientist",
+   "description": "Research job • Lab worker • Runs experiments • Publishes papers • Lab coat • Test tubes",
    "hints": [
     {
      "text": "Research job",
@@ -514,6 +529,7 @@
   },
   {
    "word": "Artist",
+   "description": "Creative job • Visual profession • Paints canvases • Sells at galleries • Easel and brushes • Paint splatters",
    "hints": [
     {
      "text": "Creative job",
@@ -548,6 +564,7 @@
   },
   {
    "word": "Musician",
+   "description": "Creative job • Performing profession • Plays concerts • Records albums • Instruments • Rehearsals",
    "hints": [
     {
      "text": "Creative job",
@@ -582,6 +599,7 @@
   },
   {
    "word": "Singer",
+   "description": "Performing job • Vocal artist • Sings on stage • Records songs • Microphone • Hits high notes",
    "hints": [
     {
      "text": "Performing job",
@@ -616,6 +634,7 @@
   },
   {
    "word": "Actor",
+   "description": "Performing job • Entertainment profession • Memorizes lines • Red carpet events • Movie sets • Stage makeup",
    "hints": [
     {
      "text": "Performing job",
@@ -650,6 +669,7 @@
   },
   {
    "word": "Dancer",
+   "description": "Performing job • Movement artist • Rehearses daily • Performs on stage • Ballet shoes • Mirrored studios",
    "hints": [
     {
      "text": "Performing job",
@@ -684,6 +704,7 @@
   },
   {
    "word": "Photographer",
+   "description": "Creative job • Visual profession • Shoots weddings • Edits pictures • Camera lens • Flash",
    "hints": [
     {
      "text": "Creative job",
@@ -718,6 +739,7 @@
   },
   {
    "word": "Journalist",
+   "description": "Media job • News profession • Interviews people • Meets deadlines • Notepad and pen • Press pass",
    "hints": [
     {
      "text": "Media job",
@@ -752,6 +774,7 @@
   },
   {
    "word": "Writer",
+   "description": "Creative job • Word profession • Writes books • Blank page fear • Keyboard or notebook • Manuscripts",
    "hints": [
     {
      "text": "Creative job",
@@ -786,6 +809,7 @@
   },
   {
    "word": "Librarian",
+   "description": "Book job • Quiet profession • Shushes people • Organizes shelves • Library cards • Due dates",
    "hints": [
     {
      "text": "Book job",
@@ -820,6 +844,7 @@
   },
   {
    "word": "Mechanic",
+   "description": "Repair job • Garage worker • Fixes cars • Greasy hands • Wrench • Oil changes",
    "hints": [
     {
      "text": "Repair job",
@@ -854,6 +879,7 @@
   },
   {
    "word": "Plumber",
+   "description": "Repair job • Trade profession • Fixes leaks • Unclogs drains • Pipe wrench • Toilet repairs",
    "hints": [
     {
      "text": "Repair job",
@@ -888,6 +914,7 @@
   },
   {
    "word": "Electrician",
+   "description": "Trade job • Wiring expert • Fixes power • Safety first • Wires and cables • Voltage tester",
    "hints": [
     {
      "text": "Trade job",
@@ -922,6 +949,7 @@
   },
   {
    "word": "Carpenter",
+   "description": "Trade job • Wood worker • Builds furniture • Measures twice • Hammer and nails • Saw dust",
    "hints": [
     {
      "text": "Trade job",
@@ -956,6 +984,7 @@
   },
   {
    "word": "Builder",
+   "description": "Construction job • Trade worker • Lays bricks • Builds houses • Hard hat • Cement mixer",
    "hints": [
     {
      "text": "Construction job",
@@ -990,6 +1019,7 @@
   },
   {
    "word": "Baker",
+   "description": "Food job • Early riser • Makes bread • Works before dawn • Flour and ovens • Fresh loaves",
    "hints": [
     {
      "text": "Food job",
@@ -1024,6 +1054,7 @@
   },
   {
    "word": "Butcher",
+   "description": "Food job • Meat seller • Cuts meat • Works in shops • Cleaver • Bloody apron",
    "hints": [
     {
      "text": "Food job",
@@ -1058,6 +1089,7 @@
   },
   {
    "word": "Waiter",
+   "description": "Service job • Restaurant worker • Takes orders • Earns tips • Carries trays • Notepad for orders",
    "hints": [
     {
      "text": "Service job",
@@ -1092,6 +1124,7 @@
   },
   {
    "word": "Cashier",
+   "description": "Retail job • Store worker • Scans items • Handles money • Till drawer • Receipts",
    "hints": [
     {
      "text": "Retail job",
@@ -1126,6 +1159,7 @@
   },
   {
    "word": "Accountant",
+   "description": "Finance job • Number cruncher • Does taxes • Busy in spring • Spreadsheets • Balance sheets",
    "hints": [
     {
      "text": "Finance job",
@@ -1160,6 +1194,7 @@
   },
   {
    "word": "Banker",
+   "description": "Finance job • Money profession • Approves loans • Works in vaults • Suits and ties • Interest rates",
    "hints": [
     {
      "text": "Finance job",
@@ -1194,6 +1229,7 @@
   },
   {
    "word": "Programmer",
+   "description": "Tech job • Software profession • Writes code • Fixes bugs • Keyboard and screens • Lots of coffee",
    "hints": [
     {
      "text": "Tech job",
@@ -1228,6 +1264,7 @@
   },
   {
    "word": "Designer",
+   "description": "Creative job • Visual profession • Creates layouts • Picks fonts • Sketches and mood boards • Color palettes",
    "hints": [
     {
      "text": "Creative job",
@@ -1262,6 +1299,7 @@
   },
   {
    "word": "Hairdresser",
+   "description": "Beauty job • Salon worker • Cuts and styles • Chats with clients • Scissors and combs • Blow dryer",
    "hints": [
     {
      "text": "Beauty job",
@@ -1296,6 +1334,7 @@
   },
   {
    "word": "Barber",
+   "description": "Grooming job • Shop worker • Trims beards • Gives fades • Striped pole • Straight razor",
    "hints": [
     {
      "text": "Grooming job",
@@ -1330,6 +1369,7 @@
   },
   {
    "word": "Tailor",
+   "description": "Clothing job • Craft profession • Takes measurements • Alters suits • Needle and thread • Tape measure",
    "hints": [
     {
      "text": "Clothing job",
@@ -1364,6 +1404,7 @@
   },
   {
    "word": "Cobbler",
+   "description": "Repair job • Shoe worker • Fixes heels • Small shop • Leather and glue • Shoe last",
    "hints": [
     {
      "text": "Repair job",
@@ -1398,6 +1439,7 @@
   },
   {
    "word": "Blacksmith",
+   "description": "Craft job • Metal worker • Forges tools • Hot workshop • Anvil and hammer • Glowing iron",
    "hints": [
     {
      "text": "Craft job",
@@ -1432,6 +1474,7 @@
   },
   {
    "word": "Gardener",
+   "description": "Outdoor job • Plant worker • Mows lawns • Plants flowers • Shears and trowel • Muddy gloves",
    "hints": [
     {
      "text": "Outdoor job",
@@ -1466,6 +1509,7 @@
   },
   {
    "word": "Florist",
+   "description": "Retail job • Flower seller • Makes bouquets • Busy on valentines • Fresh flowers • Ribbons and vases",
    "hints": [
     {
      "text": "Retail job",
@@ -1500,6 +1544,7 @@
   },
   {
    "word": "Veterinarian",
+   "description": "Animal job • Medical profession • Treats pets • Rescues animals • Pet clinic • Vaccines for dogs",
    "hints": [
     {
      "text": "Animal job",
@@ -1534,6 +1579,7 @@
   },
   {
    "word": "Zookeeper",
+   "description": "Animal job • Caretaker • Feeds lions • Cleans enclosures • Buckets of fish • Khaki uniform",
    "hints": [
     {
      "text": "Animal job",
@@ -1568,6 +1614,7 @@
   },
   {
    "word": "Lifeguard",
+   "description": "Safety job • Beach worker • Watches swimmers • Rescues people • Red float • Whistle and tower",
    "hints": [
     {
      "text": "Safety job",
@@ -1602,6 +1649,7 @@
   },
   {
    "word": "Paramedic",
+   "description": "Medical job • Emergency responder • Rides ambulances • First on scene • Stretcher • Defibrillator",
    "hints": [
     {
      "text": "Medical job",
@@ -1636,6 +1684,7 @@
   },
   {
    "word": "Surgeon",
+   "description": "Medical job • Specialist doctor • Operates on patients • Long surgeries • Scalpel • Operating theatre",
    "hints": [
     {
      "text": "Medical job",
@@ -1670,6 +1719,7 @@
   },
   {
    "word": "Pharmacist",
+   "description": "Medical job • Medicine expert • Fills prescriptions • Gives advice • Pills and labels • Drug store counter",
    "hints": [
     {
      "text": "Medical job",
@@ -1704,6 +1754,7 @@
   },
   {
    "word": "Psychologist",
+   "description": "Mental health job • Therapy profession • Listens carefully • Helps with feelings • Couch sessions • Notebook",
    "hints": [
     {
      "text": "Mental health job",
@@ -1738,6 +1789,7 @@
   },
   {
    "word": "Soldier",
+   "description": "Military job • Defense profession • Serves country • Follows orders • Camouflage • Salutes officers",
    "hints": [
     {
      "text": "Military job",
@@ -1772,6 +1824,7 @@
   },
   {
    "word": "Sailor",
+   "description": "Navy job • Sea worker • Lives on ships • Ties knots • Anchors and ropes • White uniform",
    "hints": [
     {
      "text": "Navy job",
@@ -1806,6 +1859,7 @@
   },
   {
    "word": "Fisherman",
+   "description": "Sea job • Boat worker • Casts nets • Early mornings • Rods and bait • Rubber boots",
    "hints": [
     {
      "text": "Sea job",
@@ -1840,6 +1894,7 @@
   },
   {
    "word": "Truck driver",
+   "description": "Transport job • Road worker • Long hauls • Highway life • Big rig • Radio chatter",
    "hints": [
     {
      "text": "Transport job",
@@ -1874,6 +1929,7 @@
   },
   {
    "word": "Taxi driver",
+   "description": "Transport job • City worker • Drives passengers • Knows shortcuts • Meter running • Yellow cab",
    "hints": [
     {
      "text": "Transport job",
@@ -1908,6 +1964,7 @@
   },
   {
    "word": "Bus driver",
+   "description": "Transport job • Public service • Fixed routes • Collects fares • Big steering wheel • Stops on schedule",
    "hints": [
     {
      "text": "Transport job",
@@ -1942,6 +1999,7 @@
   },
   {
    "word": "Mail carrier",
+   "description": "Postal job • Delivery worker • Walks routes • Dogs chase them • Envelopes and parcels • Shoulder satchel",
    "hints": [
     {
      "text": "Postal job",
@@ -1976,6 +2034,7 @@
   },
   {
    "word": "Courier",
+   "description": "Delivery job • Fast service • Rides bikes • Rushes packages • Parcels • Signature needed",
    "hints": [
     {
      "text": "Delivery job",
@@ -2010,6 +2069,7 @@
   },
   {
    "word": "Detective",
+   "description": "Investigation job • Crime solver • Finds clues • Solves mysteries • Magnifying glass • Trench coat",
    "hints": [
     {
      "text": "Investigation job",
@@ -2044,6 +2104,7 @@
   },
   {
    "word": "Spy",
+   "description": "Secret job • Intelligence agent • Uses disguises • Gathers secrets • Gadgets • Secret codes",
    "hints": [
     {
      "text": "Secret job",
@@ -2078,6 +2139,7 @@
   },
   {
    "word": "Security guard",
+   "description": "Safety job • Protection worker • Night shifts • Checks badges • Walkie talkie • Flashlight",
    "hints": [
     {
      "text": "Safety job",
@@ -2112,6 +2174,7 @@
   },
   {
    "word": "Janitor",
+   "description": "Cleaning job • Building worker • Mops floors • Works after hours • Keys on belt • Cleaning cart",
    "hints": [
     {
      "text": "Cleaning job",
@@ -2146,6 +2209,7 @@
   },
   {
    "word": "Clown",
+   "description": "Entertainment job • Circus performer • Makes kids laugh • Birthday parties • Red nose • Big shoes",
    "hints": [
     {
      "text": "Entertainment job",
@@ -2180,6 +2244,7 @@
   },
   {
    "word": "Magician",
+   "description": "Entertainment job • Stage performer • Card tricks • Never reveals secrets • Top hat • Pulls rabbits",
    "hints": [
     {
      "text": "Entertainment job",
@@ -2214,6 +2279,7 @@
   },
   {
    "word": "Comedian",
+   "description": "Entertainment job • Stand up performer • Tells jokes • Comedy clubs • Microphone stand • Punchlines",
    "hints": [
     {
      "text": "Entertainment job",
@@ -2248,6 +2314,7 @@
   },
   {
    "word": "Professor",
+   "description": "Education job • University teacher • Gives lectures • Does research • Tweed jacket • Office hours",
    "hints": [
     {
      "text": "Education job",
@@ -2282,6 +2349,7 @@
   },
   {
    "word": "Principal",
+   "description": "School job • Education leader • Runs the school • Detention threats • Office visits • Morning announcements",
    "hints": [
     {
      "text": "School job",
@@ -2316,6 +2384,7 @@
   },
   {
    "word": "Tutor",
+   "description": "Education job • Private teacher • Helps with homework • Private sessions • Extra lessons • Exam prep",
    "hints": [
     {
      "text": "Education job",
@@ -2350,6 +2419,7 @@
   },
   {
    "word": "Coach",
+   "description": "Sports job • Team leader • Trains athletes • Yells from sidelines • Whistle and clipboard • Halftime talks",
    "hints": [
     {
      "text": "Sports job",
@@ -2384,6 +2454,7 @@
   },
   {
    "word": "Referee",
+   "description": "Sports job • Match official • Blows whistle • Makes calls • Striped shirt • Yellow cards",
    "hints": [
     {
      "text": "Sports job",
@@ -2418,6 +2489,7 @@
   },
   {
    "word": "Athlete",
+   "description": "Sports job • Competitor • Trains daily • Wins medals • Sports drinks • Stadium crowds",
    "hints": [
     {
      "text": "Sports job",
@@ -2452,6 +2524,7 @@
   },
   {
    "word": "Model",
+   "description": "Fashion job • Runway worker • Poses for cameras • Fashion shows • Catwalk • Photo shoots",
    "hints": [
     {
      "text": "Fashion job",
@@ -2486,6 +2559,7 @@
   },
   {
    "word": "Influencer",
+   "description": "Online job • Social media worker • Posts content • Gains followers • Ring light • Sponsored posts",
    "hints": [
     {
      "text": "Online job",
@@ -2520,6 +2594,7 @@
   },
   {
    "word": "Streamer",
+   "description": "Online job • Live broadcaster • Plays games live • Chats with viewers • Webcam and headset • Donations",
    "hints": [
     {
      "text": "Online job",
@@ -2554,6 +2629,7 @@
   },
   {
    "word": "Translator",
+   "description": "Language job • Word profession • Converts languages • Works with documents • Dictionaries • Bilingual skills",
    "hints": [
     {
      "text": "Language job",
@@ -2588,6 +2664,7 @@
   },
   {
    "word": "Diplomat",
+   "description": "Government job • Foreign relations • Negotiates treaties • Works at embassies • Formal dinners • Passports",
    "hints": [
     {
      "text": "Government job",
@@ -2622,6 +2699,7 @@
   },
   {
    "word": "Politician",
+   "description": "Government job • Public figure • Gives speeches • Campaigns for votes • Election posters • Kissing babies",
    "hints": [
     {
      "text": "Government job",
@@ -2656,6 +2734,7 @@
   },
   {
    "word": "Mayor",
+   "description": "Government job • City leader • Cuts ribbons • Runs the city • Town hall • Official chain",
    "hints": [
     {
      "text": "Government job",
@@ -2690,6 +2769,7 @@
   },
   {
    "word": "Priest",
+   "description": "Religious job • Spiritual leader • Leads ceremonies • Gives blessings • Collar and robes • Holy books",
    "hints": [
     {
      "text": "Religious job",
@@ -2724,6 +2804,7 @@
   },
   {
    "word": "Monk",
+   "description": "Religious life • Spiritual devotee • Lives in monastery • Meditates daily • Shaved head • Simple robes",
    "hints": [
     {
      "text": "Religious life",
@@ -2758,6 +2839,7 @@
   },
   {
    "word": "Miner",
+   "description": "Underground job • Dangerous work • Digs for coal • Works in tunnels • Headlamp helmet • Pickaxe",
    "hints": [
     {
      "text": "Underground job",
@@ -2792,6 +2874,7 @@
   },
   {
    "word": "Welder",
+   "description": "Trade job • Metal worker • Joins metal • Bright sparks • Dark visor mask • Torch",
    "hints": [
     {
      "text": "Trade job",
@@ -2826,6 +2909,7 @@
   },
   {
    "word": "Painter",
+   "description": "Trade job • Decorating work • Paints walls • Climbs ladders • Rollers and brushes • Drop cloths",
    "hints": [
     {
      "text": "Trade job",
@@ -2860,6 +2944,7 @@
   },
   {
    "word": "Cleaner",
+   "description": "Service job • Housekeeping • Tidies homes • Dusts shelves • Mop and bucket • Rubber gloves",
    "hints": [
     {
      "text": "Service job",
@@ -2894,6 +2979,7 @@
   },
   {
    "word": "Receptionist",
+   "description": "Office job • Front desk • Answers phones • Greets visitors • Appointment book • Headset",
    "hints": [
     {
      "text": "Office job",
@@ -2928,6 +3014,7 @@
   },
   {
    "word": "Secretary",
+   "description": "Office job • Admin worker • Schedules meetings • Takes notes • Typing fast • Phone calls",
    "hints": [
     {
      "text": "Office job",
@@ -2962,6 +3049,7 @@
   },
   {
    "word": "Manager",
+   "description": "Office job • Team leader • Runs meetings • Sets targets • Performance reviews • Corner office",
    "hints": [
     {
      "text": "Office job",
@@ -2996,6 +3084,7 @@
   },
   {
    "word": "Chief executive",
+   "description": "Business job • Top boss • Runs the company • Big decisions • Boardroom • Huge salary",
    "hints": [
     {
      "text": "Business job",
@@ -3030,6 +3119,7 @@
   },
   {
    "word": "Entrepreneur",
+   "description": "Business job • Startup founder • Takes risks • Pitches investors • Business plan • Own company",
    "hints": [
     {
      "text": "Business job",
@@ -3064,6 +3154,7 @@
   },
   {
    "word": "Inventor",
+   "description": "Creative job • Innovation profession • Creates new things • Files patents • Workshop gadgets • Prototypes",
    "hints": [
     {
      "text": "Creative job",
@@ -3098,6 +3189,7 @@
   },
   {
    "word": "Archaeologist",
+   "description": "Research job • History digger • Digs up ruins • Studies ancient things • Brushes and trowels • Fossils and bones",
    "hints": [
     {
      "text": "Research job",
@@ -3132,6 +3224,7 @@
   },
   {
    "word": "Geologist",
+   "description": "Science job • Earth expert • Studies rocks • Field trips • Rock hammer • Mineral samples",
    "hints": [
     {
      "text": "Science job",
@@ -3166,6 +3259,7 @@
   },
   {
    "word": "Astronomer",
+   "description": "Science job • Space watcher • Studies stars • Works at night • Telescope • Observatory",
    "hints": [
     {
      "text": "Science job",
@@ -3200,6 +3294,7 @@
   },
   {
    "word": "Biologist",
+   "description": "Science job • Life expert • Studies living things • Lab work • Microscope • Petri dishes",
    "hints": [
     {
      "text": "Science job",
@@ -3234,6 +3329,7 @@
   },
   {
    "word": "Chemist",
+   "description": "Science job • Lab expert • Mixes compounds • Runs reactions • Beakers and flasks • Safety goggles",
    "hints": [
     {
      "text": "Science job",
@@ -3268,6 +3364,7 @@
   },
   {
    "word": "Pilot instructor",
+   "description": "Aviation teacher • Flight trainer • Teaches flying • Sits beside students • Training aircraft • Logbooks",
    "hints": [
     {
      "text": "Aviation teacher",
@@ -3302,6 +3399,7 @@
   },
   {
    "word": "Flight attendant",
+   "description": "Aviation job • Cabin crew • Serves snacks • Safety demonstrations • Trolley cart • Uniform and scarf",
    "hints": [
     {
      "text": "Aviation job",
@@ -3336,6 +3434,7 @@
   },
   {
    "word": "Tour guide",
+   "description": "Travel job • Sightseeing leader • Leads groups • Tells history • Raised umbrella • Microphone headset",
    "hints": [
     {
      "text": "Travel job",
@@ -3370,6 +3469,7 @@
   },
   {
    "word": "Travel agent",
+   "description": "Holiday planner • Booking expert • Plans holidays • Finds deals • Brochures • Flight tickets",
    "hints": [
     {
      "text": "Holiday planner",
@@ -3404,6 +3504,7 @@
   },
   {
    "word": "Realtor",
+   "description": "Property job • Sales profession • Shows houses • Earns commission • Open houses • For sale signs",
    "hints": [
     {
      "text": "Property job",
@@ -3438,6 +3539,7 @@
   },
   {
    "word": "Salesperson",
+   "description": "Retail job • Persuasive worker • Meets targets • Pitches products • Name badge • Commission",
    "hints": [
     {
      "text": "Retail job",
@@ -3472,6 +3574,7 @@
   },
   {
    "word": "Shopkeeper",
+   "description": "Retail job • Small business • Runs a store • Knows customers • Counter and till • Open sign",
    "hints": [
     {
      "text": "Retail job",
@@ -3506,6 +3609,7 @@
   },
   {
    "word": "Delivery rider",
+   "description": "Gig job • Takeout runner • Rides scooters • Brings meals • Insulated backpack • Phone mount",
    "hints": [
     {
      "text": "Gig job",
@@ -3540,6 +3644,7 @@
   },
   {
    "word": "Bartender",
+   "description": "Service job • Drink mixer • Mixes cocktails • Night shifts • Shaker and glasses • Behind counter",
    "hints": [
     {
      "text": "Service job",
@@ -3574,6 +3679,7 @@
   },
   {
    "word": "Barista",
+   "description": "Cafe job • Coffee maker • Makes lattes • Early shifts • Espresso machine • Latte art",
    "hints": [
     {
      "text": "Cafe job",
@@ -3608,6 +3714,7 @@
   },
   {
    "word": "Apprentice",
+   "description": "Trainee worker • Learner • Carries tools • Learns a trade • Watches the master • Low pay",
    "hints": [
     {
      "text": "Trainee worker",
@@ -3642,6 +3749,7 @@
   },
   {
    "word": "Ranger",
+   "description": "Outdoor job • Park protector • Guards forests • Leads nature walks • Wide brimmed hat • Watch tower",
    "hints": [
     {
      "text": "Outdoor job",
@@ -3676,6 +3784,7 @@
   },
   {
    "word": "Shepherd",
+   "description": "Rural job • Flock keeper • Tends sheep • Lives outdoors • Crook staff • Herding dogs",
    "hints": [
     {
      "text": "Rural job",
@@ -3710,6 +3819,7 @@
   },
   {
    "word": "Cowboy",
+   "description": "Ranch job • Western worker • Herds cattle • Rides horses • Lasso • Wide hat and boots",
    "hints": [
     {
      "text": "Ranch job",
@@ -3744,6 +3854,7 @@
   },
   {
    "word": "Sheriff",
+   "description": "Law job • County officer • Keeps the peace • Western towns • Star badge • Holster",
    "hints": [
     {
      "text": "Law job",
@@ -3778,6 +3889,7 @@
   },
   {
    "word": "Lumberjack",
+   "description": "Forest job • Wood worker • Fells trees • Plaid shirts • Axe • Chainsaw",
    "hints": [
     {
      "text": "Forest job",
@@ -3812,6 +3924,7 @@
   },
   {
    "word": "Glassblower",
+   "description": "Craft job • Artisan • Shapes molten sand • Blowpipe skills • Glowing furnace • Molten blobs",
    "hints": [
     {
      "text": "Craft job",
@@ -3846,6 +3959,7 @@
   },
   {
    "word": "Potter",
+   "description": "Craft job • Clay artist • Shapes bowls • Muddy hands • Spinning wheel • Kiln",
    "hints": [
     {
      "text": "Craft job",
@@ -3880,6 +3994,7 @@
   },
   {
    "word": "Sculptor",
+   "description": "Creative job • Stone artist • Carves statues • Works with marble • Chisel and mallet • Clay models",
    "hints": [
     {
      "text": "Creative job",
@@ -3914,6 +4029,7 @@
   },
   {
    "word": "Jeweler",
+   "description": "Craft job • Precious work • Sets diamonds • Repairs watches • Loupe magnifier • Gold rings",
    "hints": [
     {
      "text": "Craft job",
@@ -3948,6 +4064,7 @@
   },
   {
    "word": "Watchmaker",
+   "description": "Craft job • Precision work • Repairs clocks • Tiny gears • Loupe and tweezers • Ticking parts",
    "hints": [
     {
      "text": "Craft job",
@@ -3982,6 +4099,7 @@
   },
   {
    "word": "Locksmith",
+   "description": "Trade job • Security worker • Opens jammed doors • Cuts keys • Picks and tension tools • Key blanks",
    "hints": [
     {
      "text": "Trade job",
@@ -4016,6 +4134,7 @@
   },
   {
    "word": "Disc jockey",
+   "description": "Music job • Party worker • Plays club sets • Reads the crowd • Turntables • Headphones on one ear",
    "hints": [
     {
      "text": "Music job",
@@ -4050,6 +4169,7 @@
   },
   {
    "word": "Composer",
+   "description": "Music job • Creative profession • Writes symphonies • Film scores • Sheet music • Piano sketches",
    "hints": [
     {
      "text": "Music job",
@@ -4084,6 +4204,7 @@
   },
   {
    "word": "Conductor",
+   "description": "Music job • Orchestra leader • Leads musicians • Waves arms • Baton • Podium",
    "hints": [
     {
      "text": "Music job",
@@ -4118,6 +4239,7 @@
   },
   {
    "word": "Director",
+   "description": "Film job • Creative leader • Calls action • Leads the crew • Clapperboard • Megaphone",
    "hints": [
     {
      "text": "Film job",
@@ -4152,6 +4274,7 @@
   },
   {
    "word": "Producer",
+   "description": "Film job • Project boss • Funds movies • Manages budgets • Schedules and contracts • Big decisions",
    "hints": [
     {
      "text": "Film job",
@@ -4186,6 +4309,7 @@
   },
   {
    "word": "Animator",
+   "description": "Creative job • Cartoon maker • Draws frames • Brings drawings alive • Storyboards • Keyframes",
    "hints": [
     {
      "text": "Creative job",
@@ -4220,6 +4344,7 @@
   },
   {
    "word": "Illustrator",
+   "description": "Creative job • Drawing profession • Draws book pictures • Comic art • Pens and tablets • Character sketches",
    "hints": [
     {
      "text": "Creative job",
@@ -4254,6 +4379,7 @@
   },
   {
    "word": "Editor",
+   "description": "Media job • Word fixer • Checks drafts • Cuts mistakes • Red pen • Deadlines",
    "hints": [
     {
      "text": "Media job",
@@ -4288,6 +4414,7 @@
   },
   {
    "word": "Reporter",
+   "description": "Media job • News gatherer • Covers stories • On the scene • Microphone • Camera crew",
    "hints": [
     {
      "text": "Media job",
@@ -4322,6 +4449,7 @@
   },
   {
    "word": "News anchor",
+   "description": "Media job • Television host • Reads headlines • Live broadcasts • Teleprompter • Studio desk",
    "hints": [
     {
      "text": "Media job",
@@ -4356,6 +4484,7 @@
   },
   {
    "word": "Radio host",
+   "description": "Media job • Broadcast voice • Talks on air • Plays music • Studio microphone • Call ins",
    "hints": [
     {
      "text": "Media job",
@@ -4390,6 +4519,7 @@
   },
   {
    "word": "Podcaster",
+   "description": "Online job • Audio creator • Records episodes • Interviews guests • Microphone foam • Audio editing",
    "hints": [
     {
      "text": "Online job",
@@ -4424,6 +4554,7 @@
   },
   {
    "word": "Blogger",
+   "description": "Online job • Web writer • Posts articles • Builds an audience • Personal website • Comments section",
    "hints": [
     {
      "text": "Online job",
@@ -4458,6 +4589,7 @@
   },
   {
    "word": "Nanny",
+   "description": "Childcare job • Family helper • Looks after kids • Lives with family • Strollers and snacks • Bedtime stories",
    "hints": [
     {
      "text": "Childcare job",
@@ -4492,6 +4624,7 @@
   },
   {
    "word": "Babysitter",
+   "description": "Childcare job • Part time work • Evenings with kids • Teen job • Bedtime routines • Emergency numbers",
    "hints": [
     {
      "text": "Childcare job",
@@ -4526,6 +4659,7 @@
   },
   {
    "word": "Midwife",
+   "description": "Medical job • Birth helper • Delivers babies • Supports mothers • Birth plans • Maternity ward",
    "hints": [
     {
      "text": "Medical job",
@@ -4560,6 +4694,7 @@
   },
   {
    "word": "Optometrist",
+   "description": "Medical job • Eye specialist • Tests eyesight • Prescribes glasses • Reading chart • Eye drops",
    "hints": [
     {
      "text": "Medical job",
@@ -4594,6 +4729,7 @@
   },
   {
    "word": "Physiotherapist",
+   "description": "Medical job • Movement healer • Treats injuries • Rehab exercises • Massage tables • Resistance bands",
    "hints": [
     {
      "text": "Medical job",
@@ -4628,6 +4764,7 @@
   },
   {
    "word": "Dietitian",
+   "description": "Health job • Food expert • Plans meals • Advises on nutrition • Meal charts • Calorie counts",
    "hints": [
     {
      "text": "Health job",
@@ -4662,6 +4799,7 @@
   },
   {
    "word": "Personal trainer",
+   "description": "Fitness job • Gym coach • Plans workouts • Motivates clients • Dumbbells • Stopwatch",
    "hints": [
     {
      "text": "Fitness job",
@@ -4696,6 +4834,7 @@
   },
   {
    "word": "Decorator",
+   "description": "Home job • Home stylist • Picks furniture • Chooses colors • Fabric swatches • Mood boards",
    "hints": [
     {
      "text": "Home job",
@@ -4730,6 +4869,7 @@
   },
   {
    "word": "Fashion designer",
+   "description": "Creative job • Clothing creator • Runway collections • Sketches outfits • Mannequins • Fabric rolls",
    "hints": [
     {
      "text": "Creative job",
@@ -4764,6 +4904,7 @@
   },
   {
    "word": "Makeup artist",
+   "description": "Beauty job • Face painter • Prepares actors • Wedding glam • Brushes and palettes • Foundation",
    "hints": [
     {
      "text": "Beauty job",
@@ -4798,6 +4939,7 @@
   },
   {
    "word": "Stuntman",
+   "description": "Film job • Risky performer • Does dangerous scenes • Falls from heights • Crash pads • Fire suits",
    "hints": [
     {
      "text": "Film job",
@@ -4832,6 +4974,7 @@
   },
   {
    "word": "Acrobat",
+   "description": "Circus job • Flexible performer • Flips and balances • Big top shows • Trapeze • Tightrope",
    "hints": [
     {
      "text": "Circus job",
@@ -4866,6 +5009,7 @@
   },
   {
    "word": "Juggler",
+   "description": "Circus job • Street performer • Keeps things in air • Busking • Balls and pins • Flaming torches",
    "hints": [
     {
      "text": "Circus job",
@@ -4900,6 +5044,7 @@
   },
   {
    "word": "Ringmaster",
+   "description": "Circus job • Show host • Introduces acts • Commands the stage • Top hat and whip • Red tailcoat",
    "hints": [
     {
      "text": "Circus job",
@@ -4934,6 +5079,7 @@
   },
   {
    "word": "Astrologer",
+   "description": "Fortune job • Star reader • Reads horoscopes • Predicts futures • Zodiac charts • Birth dates",
    "hints": [
     {
      "text": "Fortune job",
@@ -4968,6 +5114,7 @@
   },
   {
    "word": "Mason",
+   "description": "Construction job • Stone worker • Builds walls • Lays foundations • Trowel and mortar • Cut stone blocks",
    "hints": [
     {
      "text": "Construction job",
@@ -5002,6 +5149,7 @@
   },
   {
    "word": "Auditor",
+   "description": "Finance job • Inspector • Checks the books • Feared by companies • Spreadsheets and receipts • Compliance reports",
    "hints": [
     {
      "text": "Finance job",
@@ -5036,6 +5184,7 @@
   },
   {
    "word": "Umpire",
+   "description": "Sports job • Match official • Makes close calls • Raises finger • Stands behind stumps • Wide brimmed hat",
    "hints": [
     {
      "text": "Sports job",
@@ -5070,6 +5219,7 @@
   },
   {
    "word": "Usher",
+   "description": "Venue job • Seating guide • Shows you to seats • Theater worker • Flashlight in aisle • Ticket checks",
    "hints": [
     {
      "text": "Venue job",
@@ -5104,6 +5254,7 @@
   },
   {
    "word": "Hacker",
+   "description": "Tech role • Code breaker • Finds security holes • Hoodie stereotype • Green terminal text • Late nights",
    "hints": [
     {
      "text": "Tech role",
@@ -5138,6 +5289,7 @@
   },
   {
    "word": "Gamer",
+   "description": "Hobby role • Pro player • Plays tournaments • Streams online • Headset and controller • Fast reflexes",
    "hints": [
     {
      "text": "Hobby role",
@@ -5172,6 +5324,7 @@
   },
   {
    "word": "Optician",
+   "description": "Eyewear job • Shop specialist • Fits glasses • Adjusts frames • Lens displays • Tiny screwdrivers",
    "hints": [
     {
      "text": "Eyewear job",
@@ -5206,6 +5359,7 @@
   },
   {
    "word": "Dispatcher",
+   "description": "Coordination job • Radio worker • Sends out crews • High stress • Headset and maps • Emergency calls",
    "hints": [
     {
      "text": "Coordination job",

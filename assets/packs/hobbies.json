@@ -4,6 +4,7 @@
  "words": [
   {
    "word": "Painting",
+   "description": "Art hobby • Creative pastime • Weekend canvases • Gallery dreams • Brushes and easel • Watercolor or oil",
    "hints": [
     {
      "text": "Art hobby",
@@ -38,6 +39,7 @@
   },
   {
    "word": "Drawing",
+   "description": "Art hobby • Sketch practice • Doodles in notebooks • Portraits • Pencil shading • Paper pads",
    "hints": [
     {
      "text": "Art hobby",
@@ -72,6 +74,7 @@
   },
   {
    "word": "Photography",
+   "description": "Visual hobby • Picture taking • Travel snapshots • Golden hour • Lens and tripod • Shutter speed",
    "hints": [
     {
      "text": "Visual hobby",
@@ -106,6 +109,7 @@
   },
   {
    "word": "Gardening",
+   "description": "Outdoor hobby • Plant care • Growing vegetables • Weekend digging • Seeds and soil • Watering can",
    "hints": [
     {
      "text": "Outdoor hobby",
@@ -140,6 +144,7 @@
   },
   {
    "word": "Cooking",
+   "description": "Kitchen hobby • Food making • Family recipes • Trying cuisines • Pots and pans • Tasting spoons",
    "hints": [
     {
      "text": "Kitchen hobby",
@@ -174,6 +179,7 @@
   },
   {
    "word": "Baking",
+   "description": "Kitchen hobby • Oven craft • Bread and cakes • Sweet aromas • Flour and butter • Mixing bowls",
    "hints": [
     {
      "text": "Kitchen hobby",
@@ -208,6 +214,7 @@
   },
   {
    "word": "Knitting",
+   "description": "Craft hobby • Yarn craft • Scarves for gifts • Grandma favorite • Two needles • Balls of wool",
    "hints": [
     {
      "text": "Craft hobby",
@@ -242,6 +249,7 @@
   },
   {
    "word": "Crochet",
+   "description": "Craft hobby • Yarn craft • Blankets and toys • Granny squares • Single hook • Looped stitches",
    "hints": [
     {
      "text": "Craft hobby",
@@ -276,6 +284,7 @@
   },
   {
    "word": "Sewing",
+   "description": "Craft hobby • Fabric craft • Making clothes • Mending tears • Needle and thread • Machine pedal",
    "hints": [
     {
      "text": "Craft hobby",
@@ -310,6 +319,7 @@
   },
   {
    "word": "Embroidery",
+   "description": "Craft hobby • Needle art • Decorative patterns • Hoops on walls • Colored floss • Hoop frame",
    "hints": [
     {
      "text": "Craft hobby",
@@ -344,6 +354,7 @@
   },
   {
    "word": "Quilting",
+   "description": "Craft hobby • Patchwork • Family heirlooms • Sewing circles • Fabric squares • Stitched layers",
    "hints": [
     {
      "text": "Craft hobby",
@@ -378,6 +389,7 @@
   },
   {
    "word": "Pottery",
+   "description": "Craft hobby • Clay art • Throwing bowls • Messy hands • Spinning wheel • Kiln firing",
    "hints": [
     {
      "text": "Craft hobby",
@@ -412,6 +424,7 @@
   },
   {
    "word": "Woodworking",
+   "description": "Craft hobby • Carpentry • Building furniture • Garage workshop • Saws and chisels • Sawdust",
    "hints": [
     {
      "text": "Craft hobby",
@@ -446,6 +459,7 @@
   },
   {
    "word": "Origami",
+   "description": "Paper craft • Japanese folding • Paper cranes • Classroom fun • Folded squares • No glue",
    "hints": [
     {
      "text": "Paper craft",
@@ -480,6 +494,7 @@
   },
   {
    "word": "Scrapbooking",
+   "description": "Craft hobby • Memory keeping • Photo albums • Stickers and washi • Decorated pages • Glue and ribbons",
    "hints": [
     {
      "text": "Craft hobby",
@@ -514,6 +529,7 @@
   },
   {
    "word": "Calligraphy",
+   "description": "Writing art • Lettering hobby • Wedding invitations • Elegant scripts • Nib pens • Ink pots",
    "hints": [
     {
      "text": "Writing art",
@@ -548,6 +564,7 @@
   },
   {
    "word": "Journaling",
+   "description": "Writing hobby • Diary keeping • Daily reflections • Gratitude lists • Notebook and pen • Bedside habit",
    "hints": [
     {
      "text": "Writing hobby",
@@ -582,6 +599,7 @@
   },
   {
    "word": "Reading",
+   "description": "Quiet hobby • Book loving • Book clubs • Bedtime chapters • Novels and libraries • Bookmarks",
    "hints": [
     {
      "text": "Quiet hobby",
@@ -616,6 +634,7 @@
   },
   {
    "word": "Writing",
+   "description": "Creative hobby • Storytelling • Novels and poems • Writer's notebook • Plot outlines • Drafts",
    "hints": [
     {
      "text": "Creative hobby",
@@ -650,6 +669,7 @@
   },
   {
    "word": "Blogging",
+   "description": "Online hobby • Web writing • Sharing opinions • Followers • Posts and comments • Personal site",
    "hints": [
     {
      "text": "Online hobby",
@@ -684,6 +704,7 @@
   },
   {
    "word": "Vlogging",
+   "description": "Online hobby • Video diary • Daily uploads • Talking to camera • Selfie stick • Editing software",
    "hints": [
     {
      "text": "Online hobby",
@@ -718,6 +739,7 @@
   },
   {
    "word": "Podcasting",
+   "description": "Audio hobby • Talk show making • Interviews with guests • Weekly episodes • Microphone • Audio editing",
    "hints": [
     {
      "text": "Audio hobby",
@@ -752,6 +774,7 @@
   },
   {
    "word": "Gaming",
+   "description": "Digital hobby • Video games • Late night sessions • Online friends • Controllers and headsets • High scores",
    "hints": [
     {
      "text": "Digital hobby",
@@ -786,6 +809,7 @@
   },
   {
    "word": "Board games",
+   "description": "Tabletop hobby • Family fun • Family evenings • Rolling dice • Tokens and pieces • Rule books",
    "hints": [
     {
      "text": "Tabletop hobby",
@@ -820,6 +844,7 @@
   },
   {
    "word": "Chess",
+   "description": "Strategy game • Board hobby • Tournaments • Grandmasters • Checkmate • Knights and bishops",
    "hints": [
     {
      "text": "Strategy game",
@@ -854,6 +879,7 @@
   },
   {
    "word": "Puzzles",
+   "description": "Brain hobby • Problem solving • Rainy day activity • Thousand pieces • Jigsaw edges • Corner pieces first",
    "hints": [
     {
      "text": "Brain hobby",
@@ -888,6 +914,7 @@
   },
   {
    "word": "Crossword",
+   "description": "Vocabulary puzzle • Newspaper game • Sunday morning • Ink pens • Grid of squares • Clues across and down",
    "hints": [
     {
      "text": "Vocabulary puzzle",
@@ -922,6 +949,7 @@
   },
   {
    "word": "Sudoku",
+   "description": "Number puzzle • Logic game • Newspaper puzzle • Commute pastime • Nine by nine grid • No repeats",
    "hints": [
     {
      "text": "Number puzzle",
@@ -956,6 +984,7 @@
   },
   {
    "word": "Collecting",
+   "description": "Hobby type • Gathering items • Displays and albums • Rare finds • Shelves of treasures • Catalog lists",
    "hints": [
     {
      "text": "Hobby type",
@@ -990,6 +1019,7 @@
   },
   {
    "word": "Stamp collecting",
+   "description": "Postal hobby • Philately • Rare postage • Albums and tweezers • Perforated edges • Postmarks",
    "hints": [
     {
      "text": "Postal hobby",
@@ -1024,6 +1054,7 @@
   },
   {
    "word": "Coin collecting",
+   "description": "Currency hobby • Numismatics • Rare currency • Magnifying glass • Mint condition • Old currency",
    "hints": [
     {
      "text": "Currency hobby",
@@ -1058,6 +1089,7 @@
   },
   {
    "word": "Birdwatching",
+   "description": "Nature hobby • Feather spotting • Early mornings • Field guides • Binoculars • Notebook tallies",
    "hints": [
     {
      "text": "Nature hobby",
@@ -1092,6 +1124,7 @@
   },
   {
    "word": "Fishing",
+   "description": "Outdoor hobby • Angling • Patient waiting • Lake weekends • Rod and reel • Bait and tackle",
    "hints": [
     {
      "text": "Outdoor hobby",
@@ -1126,6 +1159,7 @@
   },
   {
    "word": "Hiking",
+   "description": "Outdoor hobby • Trail walking • Mountain views • Weekend escapes • Boots and backpack • Trail maps",
    "hints": [
     {
      "text": "Outdoor hobby",
@@ -1160,6 +1194,7 @@
   },
   {
    "word": "Camping",
+   "description": "Outdoor hobby • Nights in nature • Campfires and stories • Starry skies • Tents and sleeping bags • Marshmallows",
    "hints": [
     {
      "text": "Outdoor hobby",
@@ -1194,6 +1229,7 @@
   },
   {
    "word": "Cycling",
+   "description": "Outdoor hobby • Bike riding • Weekend rides • Fitness trails • Helmet and pedals • Water bottle",
    "hints": [
     {
      "text": "Outdoor hobby",
@@ -1228,6 +1264,7 @@
   },
   {
    "word": "Running",
+   "description": "Fitness hobby • Jogging • Morning routine • Marathon goals • Sneakers • Fitness tracker",
    "hints": [
     {
      "text": "Fitness hobby",
@@ -1262,6 +1299,7 @@
   },
   {
    "word": "Swimming",
+   "description": "Fitness hobby • Water sport • Pool laps • Summer beaches • Goggles and cap • Freestyle",
    "hints": [
     {
      "text": "Fitness hobby",
@@ -1296,6 +1334,7 @@
   },
   {
    "word": "Yoga",
+   "description": "Fitness hobby • Mindful exercise • Morning stretches • Calm breathing • Mats and poses • Sun salutation",
    "hints": [
     {
      "text": "Fitness hobby",
@@ -1330,6 +1369,7 @@
   },
   {
    "word": "Meditation",
+   "description": "Mindful hobby • Calm practice • Quiet mornings • Stress relief • Closed eyes • Breathing focus",
    "hints": [
     {
      "text": "Mindful hobby",
@@ -1364,6 +1404,7 @@
   },
   {
    "word": "Dancing",
+   "description": "Movement hobby • Rhythm activity • Classes and parties • Wedding floors • Steps and spins • Music beats",
    "hints": [
     {
      "text": "Movement hobby",
@@ -1398,6 +1439,7 @@
   },
   {
    "word": "Singing",
+   "description": "Musical hobby • Vocal practice • Shower concerts • Karaoke nights • Scales and songs • Microphone",
    "hints": [
     {
      "text": "Musical hobby",
@@ -1432,6 +1474,7 @@
   },
   {
    "word": "Karaoke",
+   "description": "Singing activity • Party fun • Friends cheer • Off key performances • Lyrics on screen • Microphone",
    "hints": [
     {
      "text": "Singing activity",
@@ -1466,6 +1509,7 @@
   },
   {
    "word": "Playing guitar",
+   "description": "Musical hobby • String practice • Campfire songs • Learning chords • Six strings • Pick in hand",
    "hints": [
     {
      "text": "Musical hobby",
@@ -1500,6 +1544,7 @@
   },
   {
    "word": "Playing piano",
+   "description": "Musical hobby • Keyboard practice • Lessons and recitals • Classical pieces • Keys and pedals • Sheet music",
    "hints": [
     {
      "text": "Musical hobby",
@@ -1534,6 +1579,7 @@
   },
   {
    "word": "Drumming",
+   "description": "Musical hobby • Rhythm practice • Loud practice • Garage bands • Sticks and kit • Keeping time",
    "hints": [
     {
      "text": "Musical hobby",
@@ -1568,6 +1614,7 @@
   },
   {
    "word": "Magic tricks",
+   "description": "Performance hobby • Illusions • Party illusions • Pulling coins • Deck of cards • Top hat",
    "hints": [
     {
      "text": "Performance hobby",
@@ -1602,6 +1649,7 @@
   },
   {
    "word": "Juggling",
+   "description": "Skill hobby • Circus art • Street performers • Practice in parks • Balls in the air • Hand eye coordination",
    "hints": [
     {
      "text": "Skill hobby",
@@ -1636,6 +1684,7 @@
   },
   {
    "word": "Kite flying",
+   "description": "Outdoor hobby • Windy pastime • Beach afternoons • Festival battles • String and spool • Diamond shape",
    "hints": [
     {
      "text": "Outdoor hobby",
@@ -1670,6 +1719,7 @@
   },
   {
    "word": "Model building",
+   "description": "Craft hobby • Miniature making • Ships in bottles • Miniature railways • Glue and tiny parts • Paint brushes",
    "hints": [
     {
      "text": "Craft hobby",
@@ -1704,6 +1754,7 @@
   },
   {
    "word": "Model trains",
+   "description": "Miniature hobby • Railway replicas • Basement layouts • Holiday displays • Tiny tracks • Scenery villages",
    "hints": [
     {
      "text": "Miniature hobby",
@@ -1738,6 +1789,7 @@
   },
   {
    "word": "Lego",
+   "description": "Building toy • Brick hobby • Adult collectors • Sets with manuals • Interlocking bricks • Minifigures",
    "hints": [
     {
      "text": "Building toy",
@@ -1772,6 +1824,7 @@
   },
   {
    "word": "Astronomy",
+   "description": "Science hobby • Stargazing • Meteor showers • Dark sky sites • Telescope • Star charts",
    "hints": [
     {
      "text": "Science hobby",
@@ -1806,6 +1859,7 @@
   },
   {
    "word": "Stargazing",
+   "description": "Night hobby • Sky watching • Constellations • Shooting stars • Blanket on grass • Clear nights",
    "hints": [
     {
      "text": "Night hobby",
@@ -1840,6 +1894,7 @@
   },
   {
    "word": "Geocaching",
+   "description": "Treasure hunt hobby • Outdoor game • Gps hunts • Hidden boxes • Logbooks • Coordinates",
    "hints": [
     {
      "text": "Treasure hunt hobby",
@@ -1874,6 +1929,7 @@
   },
   {
    "word": "Scuba diving",
+   "description": "Water hobby • Underwater exploring • Coral reefs • Certification • Air tanks • Wetsuit and fins",
    "hints": [
     {
      "text": "Water hobby",
@@ -1908,6 +1964,7 @@
   },
   {
    "word": "Surfing",
+   "description": "Water hobby • Wave riding • Beach mornings • Beach culture • Wetsuit and wax • Paddling out",
    "hints": [
     {
      "text": "Water hobby",
@@ -1942,6 +1999,7 @@
   },
   {
    "word": "Skateboarding",
+   "description": "Street hobby • Deck tricks • Concrete bowls • Kickflips • Grip tape • Four wheels",
    "hints": [
     {
      "text": "Street hobby",
@@ -1976,6 +2034,7 @@
   },
   {
    "word": "Rock climbing",
+   "description": "Adventure hobby • Vertical sport • Indoor walls • Cliff faces • Harness and chalk • Belay ropes",
    "hints": [
     {
      "text": "Adventure hobby",
@@ -2010,6 +2069,7 @@
   },
   {
    "word": "Skiing",
+   "description": "Winter hobby • Snow sport • Snowy getaways • Mountain lodges • Poles and boots • Chair lifts",
    "hints": [
     {
      "text": "Winter hobby",
@@ -2044,6 +2104,7 @@
   },
   {
    "word": "Ice skating",
+   "description": "Winter hobby • Rink fun • Holiday rinks • Spins and glides • Bladed boots • Frozen ponds",
    "hints": [
     {
      "text": "Winter hobby",
@@ -2078,6 +2139,7 @@
   },
   {
    "word": "Horse riding",
+   "description": "Outdoor hobby • Equestrian • Pony lessons • Trail rides • Saddle and reins • Helmet",
    "hints": [
     {
      "text": "Outdoor hobby",
@@ -2112,6 +2174,7 @@
   },
   {
    "word": "Archery",
+   "description": "Target hobby • Bow sport • Ranges and clubs • Focus practice • Bow and arrows • Bullseye",
    "hints": [
     {
      "text": "Target hobby",
@@ -2146,6 +2209,7 @@
   },
   {
    "word": "Golfing",
+   "description": "Leisure sport • Club hobby • Weekend rounds • Country clubs • Clubs and tees • Putting greens",
    "hints": [
     {
      "text": "Leisure sport",
@@ -2180,6 +2244,7 @@
   },
   {
    "word": "Bowling",
+   "description": "Leisure activity • Alley game • League nights • Rental shoes • Pins and balls • Strikes",
    "hints": [
     {
      "text": "Leisure activity",
@@ -2214,6 +2279,7 @@
   },
   {
    "word": "Billiards",
+   "description": "Table game • Cue hobby • Pool halls • Bar games • Cue stick • Colored balls",
    "hints": [
     {
      "text": "Table game",
@@ -2248,6 +2314,7 @@
   },
   {
    "word": "Darts",
+   "description": "Pub game • Throwing hobby • League nights • Friendly matches • Board and arrows • Bullseye",
    "hints": [
     {
      "text": "Pub game",
@@ -2282,6 +2349,7 @@
   },
   {
    "word": "Card games",
+   "description": "Tabletop hobby • Deck pastimes • Family poker nights • Solitaire • Shuffled deck • Dealt hands",
    "hints": [
     {
      "text": "Tabletop hobby",
@@ -2316,6 +2384,7 @@
   },
   {
    "word": "Poker",
+   "description": "Card game • Betting hobby • Bluffing friends • Tournament nights • Chips and cards • Royal flush",
    "hints": [
     {
      "text": "Card game",
@@ -2350,6 +2419,7 @@
   },
   {
    "word": "Bird feeding",
+   "description": "Garden hobby • Nature care • Watching from windows • Winter help • Seed feeders • Suet balls",
    "hints": [
     {
      "text": "Garden hobby",
@@ -2384,6 +2454,7 @@
   },
   {
    "word": "Aquarium keeping",
+   "description": "Pet hobby • Fish tank care • Tropical fish • Calming display • Filters and gravel • Glass tank",
    "hints": [
     {
      "text": "Pet hobby",
@@ -2418,6 +2489,7 @@
   },
   {
    "word": "Terrarium",
+   "description": "Plant hobby • Miniature garden • Glass jars • Succulents • Sealed glass • Layered soil",
    "hints": [
     {
      "text": "Plant hobby",
@@ -2452,6 +2524,7 @@
   },
   {
    "word": "Bonsai",
+   "description": "Plant hobby • Miniature trees • Japanese art • Patient pruning • Tiny trees • Shallow pots",
    "hints": [
     {
      "text": "Plant hobby",
@@ -2486,6 +2559,7 @@
   },
   {
    "word": "Candle making",
+   "description": "Craft hobby • Wax craft • Scented gifts • Melted wax • Wicks and molds • Fragrance oils",
    "hints": [
     {
      "text": "Craft hobby",
@@ -2520,6 +2594,7 @@
   },
   {
    "word": "Soap making",
+   "description": "Craft hobby • Bath product craft • Handmade gifts • Natural oils • Molds and lye • Fragrant bars",
    "hints": [
     {
      "text": "Craft hobby",
@@ -2554,6 +2629,7 @@
   },
   {
    "word": "Jewelry making",
+   "description": "Craft hobby • Bead craft • Handmade gifts • Craft fairs • Beads and wire • Pliers",
    "hints": [
     {
      "text": "Craft hobby",
@@ -2588,6 +2664,7 @@
   },
   {
    "word": "Macrame",
+   "description": "Craft hobby • Knot art • Plant hangers • Boho decor • Knotted cords • Wall hangings",
    "hints": [
     {
      "text": "Craft hobby",
@@ -2622,6 +2699,7 @@
   },
   {
    "word": "Weaving",
+   "description": "Craft hobby • Loom work • Rugs and tapestries • Ancient craft • Warp and weft • Wooden loom",
    "hints": [
     {
      "text": "Craft hobby",
@@ -2656,6 +2734,7 @@
   },
   {
    "word": "Glassblowing",
+   "description": "Craft hobby • Molten art • Studio classes • Molten shapes • Blowpipe • Glowing furnace",
    "hints": [
     {
      "text": "Craft hobby",
@@ -2690,6 +2769,7 @@
   },
   {
    "word": "Sculpting",
+   "description": "Art hobby • Three dimensional art • Clay or stone • Gallery pieces • Chisels and tools • Busts",
    "hints": [
     {
      "text": "Art hobby",
@@ -2724,6 +2804,7 @@
   },
   {
    "word": "Carving",
+   "description": "Craft hobby • Whittling • Pocket knife projects • Wooden figures • Knife and blocks • Wood shavings",
    "hints": [
     {
      "text": "Craft hobby",
@@ -2758,6 +2839,7 @@
   },
   {
    "word": "Metal detecting",
+   "description": "Treasure hobby • Beach hunting • Buried coins • Beeping finds • Sweeping wand • Headphones on",
    "hints": [
     {
      "text": "Treasure hobby",
@@ -2792,6 +2874,7 @@
   },
   {
    "word": "Genealogy",
+   "description": "Family research • Ancestry hobby • Family trees • Old records • Census papers • Archives",
    "hints": [
     {
      "text": "Family research",
@@ -2826,6 +2909,7 @@
   },
   {
    "word": "Volunteering",
+   "description": "Giving hobby • Community service • Food banks • Animal shelters • Helping hands • Charity events",
    "hints": [
     {
      "text": "Giving hobby",
@@ -2860,6 +2944,7 @@
   },
   {
    "word": "Languages",
+   "description": "Study hobby • Linguistic practice • Apps and flashcards • Travel prep • Vocabulary drills • Conversation partners",
    "hints": [
     {
      "text": "Study hobby",
@@ -2894,6 +2979,7 @@
   },
   {
    "word": "Traveling",
+   "description": "Leisure hobby • Exploring places • Passport stamps • Bucket lists • Suitcases and maps • Airport lounges",
    "hints": [
     {
      "text": "Leisure hobby",
@@ -2928,6 +3014,7 @@
   },
   {
    "word": "Antiquing",
+   "description": "Shopping hobby • Vintage hunting • Flea markets • Estate sales • Old furniture • Price haggling",
    "hints": [
     {
      "text": "Shopping hobby",
@@ -2962,6 +3049,7 @@
   },
   {
    "word": "Thrifting",
+   "description": "Shopping hobby • Secondhand hunting • Charity shops • Vintage clothes • Bargain racks • Hidden gems",
    "hints": [
     {
      "text": "Shopping hobby",
@@ -2996,6 +3084,7 @@
   },
   {
    "word": "Cosplay",
+   "description": "Costume hobby • Fan dress up • Comic conventions • Anime fans • Handmade outfits • Wigs and props",
    "hints": [
     {
      "text": "Costume hobby",
@@ -3030,6 +3119,7 @@
   },
   {
    "word": "Acting",
+   "description": "Performance hobby • Theater craft • Community plays • Auditions • Scripts and rehearsals • Stage lights",
    "hints": [
     {
      "text": "Performance hobby",
@@ -3064,6 +3154,7 @@
   },
   {
    "word": "Comedy club",
+   "description": "Performance hobby • Joke telling • Open mic nights • Heckled • Microphone • Punchlines",
    "hints": [
     {
      "text": "Performance hobby",
@@ -3098,6 +3189,7 @@
   },
   {
    "word": "Improv",
+   "description": "Performance hobby • Unscripted comedy • Yes and • Audience suggestions • Spontaneous scenes • Quick wit",
    "hints": [
     {
      "text": "Performance hobby",
@@ -3132,6 +3224,7 @@
   },
   {
    "word": "Bird photography",
+   "description": "Nature hobby • Wildlife shots • Long lenses • Patient waiting • Camouflage hides • Telephoto",
    "hints": [
     {
      "text": "Nature hobby",
@@ -3166,6 +3259,7 @@
   },
   {
    "word": "Fly tying",
+   "description": "Craft hobby • Lure making • Angling prep • Feathers and thread • Tiny hooks • Vise clamp",
    "hints": [
     {
      "text": "Craft hobby",
@@ -3200,6 +3294,7 @@
   },
   {
    "word": "Beekeeping",
+   "description": "Farming hobby • Hive care • Fresh honey • Protecting pollinators • Smoker and veil • Wooden frames",
    "hints": [
     {
      "text": "Farming hobby",
@@ -3234,6 +3329,7 @@
   },
   {
    "word": "Homebrewing",
+   "description": "Kitchen hobby • Fermentation craft • Kombucha batches • Bubbling jars • Airlocks and bottles • Yeast",
    "hints": [
     {
      "text": "Kitchen hobby",
@@ -3268,6 +3364,7 @@
   },
   {
    "word": "Pickling",
+   "description": "Kitchen hobby • Food preserving • Jars of cucumbers • Grandma recipes • Vinegar and brine • Mason jars",
    "hints": [
     {
      "text": "Kitchen hobby",
@@ -3302,6 +3399,7 @@
   },
   {
    "word": "Fermenting",
+   "description": "Kitchen hobby • Food culture • Sauerkraut and kimchi • Gut health • Bubbling crocks • Salt brine",
    "hints": [
     {
      "text": "Kitchen hobby",
@@ -3336,6 +3434,7 @@
   },
   {
    "word": "Grilling",
+   "description": "Outdoor cooking • Barbecue hobby • Summer cookouts • Backyard parties • Charcoal and tongs • Charred stripes",
    "hints": [
     {
      "text": "Outdoor cooking",
@@ -3370,6 +3469,7 @@
   },
   {
    "word": "Food blogging",
+   "description": "Online hobby • Recipe sharing • Photographing dishes • Followers • Plating shots • Recipe cards",
    "hints": [
     {
      "text": "Online hobby",
@@ -3404,6 +3504,7 @@
   },
   {
    "word": "Cheese tasting",
+   "description": "Gourmet hobby • Deli visits • Pairing crackers • Sampling notes • Aged wheels • Cellar tours",
    "hints": [
     {
      "text": "Gourmet hobby",
@@ -3438,6 +3539,7 @@
   },
   {
    "word": "Coffee brewing",
+   "description": "Kitchen hobby • Barista craft • Pour over rituals • Bean grinding • Scales and kettles • Latte art",
    "hints": [
     {
      "text": "Kitchen hobby",
@@ -3472,6 +3574,7 @@
   },
   {
    "word": "Tea ceremony",
+   "description": "Cultural hobby • Ritual brewing • Japanese tradition • Mindful sipping • Whisk and bowl • Kneeling",
    "hints": [
     {
      "text": "Cultural hobby",
@@ -3506,6 +3609,7 @@
   },
   {
    "word": "Flower arranging",
+   "description": "Craft hobby • Floral design • Ikebana art • Bouquets • Vases and stems • Floral foam",
    "hints": [
     {
      "text": "Craft hobby",
@@ -3540,6 +3644,7 @@
   },
   {
    "word": "Decorating",
+   "description": "Home hobby • Room styling • Rearranging furniture • Mood boards • Cushions and paint swatches • Throw rugs",
    "hints": [
     {
      "text": "Home hobby",
@@ -3574,6 +3679,7 @@
   },
   {
    "word": "Home improvement",
+   "description": "Weekend projects • Fixing up • Painting walls • Tiling bathrooms • Toolbox and ladder • Hardware stores",
    "hints": [
     {
      "text": "Weekend projects",
@@ -3608,6 +3714,7 @@
   },
   {
    "word": "Car restoration",
+   "description": "Mechanical hobby • Vintage vehicles • Garage weekends • Auto shows • Engines and polish • Rust removal",
    "hints": [
     {
      "text": "Mechanical hobby",
@@ -3642,6 +3749,7 @@
   },
   {
    "word": "Motorbiking",
+   "description": "Riding hobby • Two wheel trips • Weekend road trips • Biker clubs • Leather jackets • Helmets",
    "hints": [
     {
      "text": "Riding hobby",
@@ -3676,6 +3784,7 @@
   },
   {
    "word": "Drone flying",
+   "description": "Tech hobby • Aerial filming • Sky photography • Racing quadcopters • Propellers and remote • Goggles",
    "hints": [
     {
      "text": "Tech hobby",
@@ -3710,6 +3819,7 @@
   },
   {
    "word": "Coding",
+   "description": "Tech hobby • Programming • Building apps • Hackathons • Laptops and code • Debugging",
    "hints": [
     {
      "text": "Tech hobby",
@@ -3744,6 +3854,7 @@
   },
   {
    "word": "Robotics",
+   "description": "Tech hobby • Machine building • School competitions • Arduino kits • Motors and sensors • Soldering",
    "hints": [
     {
      "text": "Tech hobby",
@@ -3778,6 +3889,7 @@
   },
   {
    "word": "Electronics",
+   "description": "Tech hobby • Circuit tinkering • Soldering kits • Fixing gadgets • Breadboards and wires • Multimeter",
    "hints": [
     {
      "text": "Tech hobby",
@@ -3812,6 +3924,7 @@
   },
   {
    "word": "Ham radio",
+   "description": "Tech hobby • Amateur broadcasting • Talks across the world • Call signs • Antennas and transceivers • Morse code",
    "hints": [
     {
      "text": "Tech hobby",
@@ -3846,6 +3959,7 @@
   },
   {
    "word": "Speedcubing",
+   "description": "Puzzle toy • Cube twisting • Timed solves • Algorithms • Colored squares • Twisting faces",
    "hints": [
     {
      "text": "Puzzle toy",
@@ -3880,6 +3994,7 @@
   },
   {
    "word": "Yo yo",
+   "description": "Skill toy • Tricks hobby • Walk the dog • Playground fad • String loop • Spinning disc",
    "hints": [
     {
      "text": "Skill toy",
@@ -3914,6 +4029,7 @@
   },
   {
    "word": "Fantasy football",
+   "description": "Sports hobby • Online league • Draft day • Weekly lineups • Points tables • Trade offers",
    "hints": [
     {
      "text": "Sports hobby",
@@ -3948,6 +4064,7 @@
   },
   {
    "word": "Trivia nights",
+   "description": "Quiz hobby • Pub games • Teams compete • General knowledge • Answer sheets • Quizmaster",
    "hints": [
     {
      "text": "Quiz hobby",
@@ -3982,6 +4099,7 @@
   },
   {
    "word": "Escape rooms",
+   "description": "Puzzle outing • Team challenge • Hour long countdown • Locked doors • Clues and padlocks • Hidden keys",
    "hints": [
     {
      "text": "Puzzle outing",
@@ -4016,6 +4134,7 @@
   },
   {
    "word": "Paintball",
+   "description": "Outdoor game • Team combat • Bachelor parties • Splattered colors • Masks and markers • Bunkers",
    "hints": [
     {
      "text": "Outdoor game",
@@ -4050,6 +4169,7 @@
   },
   {
    "word": "Laser tag",
+   "description": "Arcade game • Team combat • Birthday parties • Dark arenas • Vests and blasters • Fog and lights",
    "hints": [
     {
      "text": "Arcade game",
@@ -4084,6 +4204,7 @@
   },
   {
    "word": "Bird calling",
+   "description": "Nature hobby • Imitation skill • Whistling to finches • Contests • Wooden whistles • Mimicry",
    "hints": [
     {
      "text": "Nature hobby",
@@ -4118,6 +4239,7 @@
   },
   {
    "word": "Whittling",
+   "description": "Craft hobby • Knife carving • Porch pastime • Small figures • Pocket knife • Wood shavings",
    "hints": [
     {
      "text": "Craft hobby",
@@ -4152,6 +4274,7 @@
   },
   {
    "word": "Bookbinding",
+   "description": "Craft hobby • Journal making • Handmade journals • Old craft • Thread and glue • Leather covers",
    "hints": [
     {
      "text": "Craft hobby",
@@ -4186,6 +4309,7 @@
   },
   {
    "word": "Leathercraft",
+   "description": "Artisan hobby • Hide working • Wallets and belts • Tooling patterns • Stitching awl • Stamps",
    "hints": [
     {
      "text": "Artisan hobby",
@@ -4220,6 +4344,7 @@
   },
   {
    "word": "Puppetry",
+   "description": "Performance hobby • Marionette shows • Kids entertainment • Hand puppets • Strings and sock figures • Voices",
    "hints": [
     {
      "text": "Performance hobby",
@@ -4254,6 +4379,7 @@
   },
   {
    "word": "Ventriloquism",
+   "description": "Performance skill • Voice throwing • Talking dummy • Comedy acts • Lips stay still • Wooden puppet",
    "hints": [
     {
      "text": "Performance skill",
@@ -4288,6 +4414,7 @@
   },
   {
    "word": "Snorkeling",
+   "description": "Water hobby • Reef viewing • Tropical holidays • Shallow lagoons • Mask and breathing tube • Flippers",
    "hints": [
     {
      "text": "Water hobby",
@@ -4322,6 +4449,7 @@
   },
   {
    "word": "Kayaking",
+   "description": "Water hobby • Paddle outings • Lake mornings • River trips • Double bladed paddle • Life vest",
    "hints": [
     {
      "text": "Water hobby",
@@ -4356,6 +4484,7 @@
   },
   {
    "word": "Sailing",
+   "description": "Water hobby • Wind voyaging • Yacht clubs • Regattas • Canvas and ropes • Knots",
    "hints": [
     {
      "text": "Water hobby",
@@ -4390,6 +4519,7 @@
   },
   {
    "word": "Bodybuilding",
+   "description": "Fitness hobby • Muscle training • Gym rats • Protein shakes • Heavy weights • Posing",
    "hints": [
     {
      "text": "Fitness hobby",
@@ -4424,6 +4554,7 @@
   },
   {
    "word": "Pilates",
+   "description": "Fitness hobby • Core training • Studio classes • Reformer machines • Mat exercises • Controlled moves",
    "hints": [
     {
      "text": "Fitness hobby",
@@ -4458,6 +4589,7 @@
   },
   {
    "word": "Tai chi",
+   "description": "Martial practice • Slow exercise • Parks at dawn • Elderly groups • Flowing movements • Balance",
    "hints": [
     {
      "text": "Martial practice",
@@ -4492,6 +4624,7 @@
   },
   {
    "word": "Martial arts",
+   "description": "Fitness hobby • Combat practice • Belt gradings • Dojo classes • Kicks and punches • Uniforms",
    "hints": [
     {
      "text": "Fitness hobby",
@@ -4526,6 +4659,7 @@
   },
   {
    "word": "People watching",
+   "description": "Idle hobby • Observation • Cafe windows • Park benches • Quiet curiosity • Imagining stories",
    "hints": [
     {
      "text": "Idle hobby",
@@ -4560,6 +4694,7 @@
   },
   {
    "word": "Daydreaming",
+   "description": "Idle pastime • Mind wandering • Staring out windows • Lost in thought • Imaginary worlds • Spacing out",
    "hints": [
     {
      "text": "Idle pastime",
@@ -4594,6 +4729,7 @@
   },
   {
    "word": "Napping",
+   "description": "Relaxing habit • Short sleep • Sunday afternoons • Power recharge • Couch snoozes • Eye mask",
    "hints": [
     {
      "text": "Relaxing habit",
@@ -4628,6 +4764,7 @@
   },
   {
    "word": "Chocolate making",
+   "description": "Kitchen hobby • Sweet craft • Tempering lessons • Holiday gifts • Molds and cocoa • Glossy truffles",
    "hints": [
     {
      "text": "Kitchen hobby",
@@ -4662,6 +4799,7 @@
   },
   {
    "word": "Sketching",
+   "description": "Art hobby • Quick drawing • Urban scenes • Cafe doodles • Charcoal pencils • Pocket notebook",
    "hints": [
     {
      "text": "Art hobby",
@@ -4696,6 +4834,7 @@
   },
   {
    "word": "Watercolor",
+   "description": "Art hobby • Paint style • Soft washes • Landscape scenes • Wet brushes • Paper blooms",
    "hints": [
     {
      "text": "Art hobby",
@@ -4730,6 +4869,7 @@
   },
   {
    "word": "Oil painting",
+   "description": "Art hobby • Classic art style • Canvas portraits • Slow drying • Turpentine smell • Thick strokes",
    "hints": [
     {
      "text": "Art hobby",
@@ -4764,6 +4904,7 @@
   },
   {
    "word": "Comic drawing",
+   "description": "Art hobby • Panel art • Superhero fan art • Online strips • Speech bubbles • Inked panels",
    "hints": [
     {
      "text": "Art hobby",
@@ -4798,6 +4939,7 @@
   },
   {
    "word": "Animation",
+   "description": "Digital hobby • Moving pictures • Flipbooks • Stop motion • Frame by frame • Keyframes",
    "hints": [
     {
      "text": "Digital hobby",
@@ -4832,6 +4974,7 @@
   },
   {
    "word": "Filmmaking",
+   "description": "Creative hobby • Movie creation • Short films with friends • Festivals • Camera rigs • Editing timeline",
    "hints": [
     {
      "text": "Creative hobby",
@@ -4866,6 +5009,7 @@
   },
   {
    "word": "Rollerblading",
+   "description": "Wheeled hobby • Inline skating • Boardwalk rides • Retro fun • Knee pads • Brake heel",
    "hints": [
     {
      "text": "Wheeled hobby",
@@ -4900,6 +5044,7 @@
   },
   {
    "word": "Parkour",
+   "description": "Urban hobby • Freerunning • Rooftop leaps • Wall flips • Vaulting railings • Precision jumps",
    "hints": [
     {
      "text": "Urban hobby",
@@ -4934,6 +5079,7 @@
   },
   {
    "word": "Frisbee",
+   "description": "Park hobby • Disc throwing • Beach games • Dogs chase it • Flying plastic plate • Spinning toss",
    "hints": [
     {
      "text": "Park hobby",
@@ -4968,6 +5114,7 @@
   },
   {
    "word": "Bird table",
+   "description": "Garden hobby • Wildlife care • Winter feeders • Window watching • Seed trays • Suet cakes",
    "hints": [
     {
      "text": "Garden hobby",
@@ -5002,6 +5149,7 @@
   },
   {
    "word": "Composting",
+   "description": "Garden hobby • Waste recycling • Kitchen scraps • Rich soil • Worm bins • Turning piles",
    "hints": [
     {
      "text": "Garden hobby",
@@ -5036,6 +5184,7 @@
   },
   {
    "word": "Trail photos",
+   "description": "Outdoor hobby • Hiking snapshots • Scenic views • Sunrise hikes • Backpack camera • Summit selfies",
    "hints": [
     {
      "text": "Outdoor hobby",
@@ -5070,6 +5219,7 @@
   },
   {
    "word": "Kite surfing",
+   "description": "Water hobby • Wind sport • Windy beaches • Big jumps • Giant canopy • Board and harness",
    "hints": [
     {
      "text": "Water hobby",
@@ -5104,6 +5254,7 @@
   },
   {
    "word": "Patch making",
+   "description": "Craft hobby • Badge crafting • Jacket decorations • Iron ons • Satin stitches • Felt backing",
    "hints": [
     {
      "text": "Craft hobby",
@@ -5138,6 +5289,7 @@
   },
   {
    "word": "Diorama building",
+   "description": "Miniature hobby • Scene crafting • Museum style displays • School projects • Tiny figures • Painted backdrops",
    "hints": [
     {
      "text": "Miniature hobby",
@@ -5172,6 +5324,7 @@
   },
   {
    "word": "Dollhouses",
+   "description": "Miniature hobby • Tiny homes • Collectors decorate • Inherited treasures • Furniture miniatures • Wallpaper scraps",
    "hints": [
     {
      "text": "Miniature hobby",
@@ -5206,6 +5359,7 @@
   },
   {
    "word": "Calisthenics",
+   "description": "Fitness hobby • Bodyweight training • Park bars • Pull up challenges • No equipment • Muscle ups",
    "hints": [
     {
      "text": "Fitness hobby",

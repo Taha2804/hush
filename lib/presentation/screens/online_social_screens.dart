@@ -13,6 +13,8 @@ import '../widgets/common.dart';
 import '../widgets/mascot.dart';
 import '../widgets/room_comms.dart';
 import '../widgets/visuals.dart';
+import '../widgets/hush_loader.dart';
+import '../widgets/busy_overlay.dart';
 
 Widget _shell(BuildContext context, {required String title, required Widget child}) => Scaffold(
       body: Container(
@@ -54,7 +56,7 @@ class _OnlineSignInViewState extends ConsumerState<OnlineSignInView> {
   Future<void> _run(Future<void> Function() action) async {
     setState(() => _busy = true);
     try {
-      await action();
+      await ref.read(manualBusyProvider.notifier).run('Signing you in…', action);
     } catch (e) {
       if (mounted) toast(context, friendlyError(e));
     } finally {
@@ -327,7 +329,7 @@ class _FriendsScreenState extends ConsumerState<FriendsScreen> {
               child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
                 Text('FRIENDS (${accepted.length})', style: _label),
                 if (friends.isLoading && list.isEmpty)
-                  const Padding(padding: EdgeInsets.all(12), child: Center(child: CircularProgressIndicator()))
+                  const Padding(padding: EdgeInsets.all(12), child: Center(child: HushbugLoader(size: 60)))
                 else if (accepted.isEmpty)
                   const Padding(
                     padding: EdgeInsets.symmetric(vertical: 10),

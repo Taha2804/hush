@@ -101,6 +101,9 @@ class OnlineGameSession {
     this.voteMode = 'simultaneous',
     this.voteVisibility = 'private',
     this.voters = const [],
+    this.viewers = const [],
+    this.clueTurnDeadline,
+    this.cluesComplete = false,
     this.lastVoteSummary,
     this.winner,
     this.winReason,
@@ -126,6 +129,13 @@ class OnlineGameSession {
 
   /// Players who have handed in a ballot in the current vote (never targets).
   final List<String> voters;
+
+  /// Players who confirmed seeing their word (ids only).
+  final List<String> viewers;
+  final DateTime? clueTurnDeadline;
+
+  /// Every clue turn is used up; waiting for the host to start the discussion.
+  final bool cluesComplete;
 
   /// Set when a vote closes: counts, plus who voted for whom in public mode.
   final Map<String, dynamic>? lastVoteSummary;
@@ -153,6 +163,9 @@ class OnlineGameSession {
         voteMode: j['vote_mode']?.toString() ?? 'simultaneous',
         voteVisibility: j['vote_visibility']?.toString() ?? 'private',
         voters: (j['voters'] as List? ?? []).map((e) => e.toString()).toList(),
+        viewers: (j['viewers'] as List? ?? []).map((e) => e.toString()).toList(),
+        clueTurnDeadline: DateTime.tryParse(j['clue_turn_deadline']?.toString() ?? ''),
+        cluesComplete: (j['clues_complete'] as bool?) ?? false,
         lastVoteSummary: j['last_vote_summary'] is Map ? Map<String, dynamic>.from(j['last_vote_summary'] as Map) : null,
         winner: j['winner']?.toString(),
         winReason: j['win_reason']?.toString(),

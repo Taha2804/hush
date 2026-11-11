@@ -4,6 +4,7 @@
  "words": [
   {
    "word": "Computer",
+   "description": "Electronic device • Work machine • Used in offices • Runs programs • Keyboard and mouse • Monitor screen",
    "hints": [
     {
      "text": "Electronic device",
@@ -38,6 +39,7 @@
   },
   {
    "word": "Laptop",
+   "description": "Portable computer • Electronic device • Work on the go • Cafe workers • Folding screen • Built in keyboard",
    "hints": [
     {
      "text": "Portable computer",
@@ -72,6 +74,7 @@
   },
   {
    "word": "Smartphone",
+   "description": "Mobile device • Pocket gadget • Always in hand • Social apps • Touchscreen • Camera on back",
    "hints": [
     {
      "text": "Mobile device",
@@ -106,6 +109,7 @@
   },
   {
    "word": "Tablet",
+   "description": "Portable device • Touchscreen gadget • Kids watch cartoons • Reading ebooks • Flat glass slab • No keyboard",
    "hints": [
     {
      "text": "Portable device",
@@ -140,6 +144,7 @@
   },
   {
    "word": "Smartwatch",
+   "description": "Wearable gadget • Wrist device • Counts steps • Shows messages • Tiny screen • Strap on wrist",
    "hints": [
     {
      "text": "Wearable gadget",
@@ -174,6 +179,7 @@
   },
   {
    "word": "Headphones",
+   "description": "Audio device • Listening gear • Music on commutes • Gaming sessions • Over the ears • Padded cushions",
    "hints": [
     {
      "text": "Audio device",
@@ -208,6 +214,7 @@
   },
   {
    "word": "Earbuds",
+   "description": "Audio device • Tiny speakers • Wireless listening • Lost easily • Fit in ears • Charging case",
    "hints": [
     {
      "text": "Audio device",
@@ -242,6 +249,7 @@
   },
   {
    "word": "Speaker",
+   "description": "Audio device • Sound system • Party music • Bluetooth pairing • Booming bass • Cone driver",
    "hints": [
     {
      "text": "Audio device",
@@ -276,6 +284,7 @@
   },
   {
    "word": "Microphone",
+   "description": "Audio device • Recording tool • Karaoke nights • Podcasts • Mesh head • Tap to test",
    "hints": [
     {
      "text": "Audio device",
@@ -310,6 +319,7 @@
   },
   {
    "word": "Keyboard",
+   "description": "Input device • Typing tool • Office work • Gamers love clicky ones • Rows of keys • Space bar",
    "hints": [
     {
      "text": "Input device",
@@ -344,6 +354,7 @@
   },
   {
    "word": "Mouse",
+   "description": "Input device • Pointing tool • Click and scroll • Desk companion • Two buttons • Scroll wheel",
    "hints": [
     {
      "text": "Input device",
@@ -378,6 +389,7 @@
   },
   {
    "word": "Monitor",
+   "description": "Display device • Computer screen • Desk setup • Dual setups • Flat panel • Stand underneath",
    "hints": [
     {
      "text": "Display device",
@@ -412,6 +424,7 @@
   },
   {
    "word": "Printer",
+   "description": "Office device • Paper machine • Prints documents • Always jams • Ink cartridges • Paper tray",
    "hints": [
     {
      "text": "Office device",
@@ -446,6 +459,7 @@
   },
   {
    "word": "Scanner",
+   "description": "Office device • Digitizer • Copies documents • Flatbed glass • Light bar • Lid on top",
    "hints": [
     {
      "text": "Office device",
@@ -480,6 +494,7 @@
   },
   {
    "word": "Router",
+   "description": "Network device • Internet box • Home wifi • Blinking lights • Antennas • Ethernet ports",
    "hints": [
     {
      "text": "Network device",
@@ -514,6 +529,7 @@
   },
   {
    "word": "Modem",
+   "description": "Network device • Internet gateway • Connects to provider • Dial up history • Blinking lights • Phone line",
    "hints": [
     {
      "text": "Network device",
@@ -548,6 +564,7 @@
   },
   {
    "word": "Charger",
+   "description": "Power accessory • Cable plug • Plug in at night • Phone dies • Cable and adapter • Wall socket",
    "hints": [
     {
      "text": "Power accessory",
@@ -582,6 +599,7 @@
   },
   {
    "word": "Power bank",
+   "description": "Portable battery • Charging gadget • Travel essential • Saves dead phones • Pocket sized brick • Charging ports",
    "hints": [
     {
      "text": "Portable battery",
@@ -616,6 +634,7 @@
   },
   {
    "word": "Usb drive",
+   "description": "Storage device • Portable memory • Transfers files • Lost in pockets • Small stick • Plug in port",
    "hints": [
     {
      "text": "Storage device",
@@ -650,6 +669,7 @@
   },
   {
    "word": "Hard drive",
+   "description": "Storage device • Data keeper • Backups • Spinning platters • Gigabytes or terabytes • Whirring sound",
    "hints": [
     {
      "text": "Storage device",
@@ -684,6 +704,7 @@
   },
   {
    "word": "Memory card",
+   "description": "Storage device • Tiny chip • Camera photos • Slots into phones • Thumbnail sized • Gigabytes",
    "hints": [
     {
      "text": "Storage device",
@@ -718,6 +739,7 @@
   },
   {
    "word": "Sim card",
+   "description": "Phone chip • Network chip • Swapped abroad • Carrier plan • Tiny gold contacts • Ejector pin",
    "hints": [
     {
      "text": "Phone chip",
@@ -752,6 +774,7 @@
   },
   {
    "word": "Camera",
+   "description": "Photo device • Imaging gadget • Holiday snaps • Wedding photos • Lens and shutter • Flash",
    "hints": [
     {
      "text": "Photo device",
@@ -786,6 +809,7 @@
   },
   {
    "word": "Webcam",
+   "description": "Video device • Computer camera • Video calls • Streaming • Clips on monitor • Tiny lens",
    "hints": [
     {
      "text": "Video device",
@@ -820,6 +844,7 @@
   },
   {
    "word": "Drone",
+   "description": "Flying gadget • Unmanned aircraft • Aerial videos • Remote pilots • Four propellers • Camera underneath",
    "hints": [
     {
      "text": "Flying gadget",
@@ -854,6 +879,7 @@
   },
   {
    "word": "Robot",
+   "description": "Machine • Automaton • Factory work • Sci fi movies • Metal arms • Beeping sounds",
    "hints": [
     {
      "text": "Machine",
@@ -888,6 +914,7 @@
   },
   {
    "word": "Television",
+   "description": "Display device • Living room screen • Watch shows • Streaming nights • Remote control • Big flat panel",
    "hints": [
     {
      "text": "Display device",
@@ -922,6 +949,7 @@
   },
   {
    "word": "Projector",
+   "description": "Display device • Beam machine • Classroom slides • Movie nights • Throws image on wall • Bright lamp",
    "hints": [
     {
      "text": "Display device",
@@ -956,6 +984,7 @@
   },
   {
    "word": "Game console",
+   "description": "Gaming device • Entertainment box • Multiplayer nights • Exclusive titles • Controllers • Plugs into tv",
    "hints": [
     {
      "text": "Gaming device",
@@ -990,6 +1019,7 @@
   },
   {
    "word": "Joystick",
+   "description": "Game controller • Input lever • Flight games • Arcade machines • Tilting lever • Trigger button",
    "hints": [
     {
      "text": "Game controller",
@@ -1024,6 +1054,7 @@
   },
   {
    "word": "Virtual reality",
+   "description": "Immersive tech • Simulated world • Gaming headsets • Training simulations • Goggles on face • Hand controllers",
    "hints": [
     {
      "text": "Immersive tech",
@@ -1058,6 +1089,7 @@
   },
   {
    "word": "Hologram",
+   "description": "Light projection • Futuristic display • Sci fi messages • Concert tricks • Three dimensional image • Floating light",
    "hints": [
     {
      "text": "Light projection",
@@ -1092,6 +1124,7 @@
   },
   {
    "word": "Laser",
+   "description": "Light beam • Focused light • Cat chases dot • Barcode scanners • Red dot • Narrow beam",
    "hints": [
     {
      "text": "Light beam",
@@ -1126,6 +1159,7 @@
   },
   {
    "word": "Satellite",
+   "description": "Orbiting device • Space machine • Weather images • Phone signals • Solar panels • Dish antenna",
    "hints": [
     {
      "text": "Orbiting device",
@@ -1160,6 +1194,7 @@
   },
   {
    "word": "Gps",
+   "description": "Navigation system • Location service • Map directions • Recalculating route • Satellite signals • Coordinates",
    "hints": [
     {
      "text": "Navigation system",
@@ -1194,6 +1229,7 @@
   },
   {
    "word": "Radar",
+   "description": "Detection system • Radio tech • Weather tracking • Speed traps • Rotating dish • Blips on screen",
    "hints": [
     {
      "text": "Detection system",
@@ -1228,6 +1264,7 @@
   },
   {
    "word": "Wifi",
+   "description": "Wireless network • Internet signal • Password asked • Cafe freebie • Signal bars • Router broadcasts",
    "hints": [
     {
      "text": "Wireless network",
@@ -1262,6 +1299,7 @@
   },
   {
    "word": "Bluetooth",
+   "description": "Wireless tech • Short range link • Pairs headphones • Car audio • Rune logo • Pairing mode",
    "hints": [
     {
      "text": "Wireless tech",
@@ -1296,6 +1334,7 @@
   },
   {
    "word": "Internet",
+   "description": "Global network • Information web • Browsing websites • Always online • Servers and cables • World wide web",
    "hints": [
     {
      "text": "Global network",
@@ -1330,6 +1369,7 @@
   },
   {
    "word": "Website",
+   "description": "Online page • Web address • Bookmarked • Visited daily • Homepage • Links and menus",
    "hints": [
     {
      "text": "Online page",
@@ -1364,6 +1404,7 @@
   },
   {
    "word": "App",
+   "description": "Software program • Phone tool • Download from store • Notifications • Icon on home screen • Updates",
    "hints": [
     {
      "text": "Software program",
@@ -1398,6 +1439,7 @@
   },
   {
    "word": "Email",
+   "description": "Digital message • Online note • Inbox full • Spam folder • At symbol address • Attachments",
    "hints": [
     {
      "text": "Digital message",
@@ -1432,6 +1474,7 @@
   },
   {
    "word": "Password",
+   "description": "Security code • Secret phrase • Forgotten often • Keep it strong • Asterisks on screen • Special characters",
    "hints": [
     {
      "text": "Security code",
@@ -1466,6 +1509,7 @@
   },
   {
    "word": "Emoji",
+   "description": "Digital icon • Tiny picture • Texting fun • Expresses feelings • Smiley faces • Yellow circles",
    "hints": [
     {
      "text": "Digital icon",
@@ -1500,6 +1544,7 @@
   },
   {
    "word": "Meme",
+   "description": "Internet joke • Viral image • Shared in group chats • Funny captions • Image with text • Spreads fast",
    "hints": [
     {
      "text": "Internet joke",
@@ -1534,6 +1579,7 @@
   },
   {
    "word": "Video call",
+   "description": "Online meeting • Face chat • Remote work • Family far away • Webcam and mic • You are on mute",
    "hints": [
     {
      "text": "Online meeting",
@@ -1568,6 +1614,7 @@
   },
   {
    "word": "Social media",
+   "description": "Online platform • Sharing network • Likes and followers • Endless scrolling • Profile pictures • News feed",
    "hints": [
     {
      "text": "Online platform",
@@ -1602,6 +1649,7 @@
   },
   {
    "word": "Search engine",
+   "description": "Web tool • Finder • Type a question • Billions of pages • Query box • Ranked results",
    "hints": [
     {
      "text": "Web tool",
@@ -1636,6 +1684,7 @@
   },
   {
    "word": "Browser",
+   "description": "Software • Web viewer • Opens websites • Many tabs • Address bar • Back button",
    "hints": [
     {
      "text": "Software",
@@ -1670,6 +1719,7 @@
   },
   {
    "word": "Cloud storage",
+   "description": "Online backup • Remote files • Backups anywhere • Sync devices • Upload and download • Servers far away",
    "hints": [
     {
      "text": "Online backup",
@@ -1704,6 +1754,7 @@
   },
   {
    "word": "Server",
+   "description": "Network computer • Data center machine • Hosts websites • Runs nonstop • Racks of blades • Humming fans",
    "hints": [
     {
      "text": "Network computer",
@@ -1738,6 +1789,7 @@
   },
   {
    "word": "Algorithm",
+   "description": "Step procedure • Computer logic • Recommends videos • Sorts data • Instructions in order • Flowchart",
    "hints": [
     {
      "text": "Step procedure",
@@ -1772,6 +1824,7 @@
   },
   {
    "word": "Coding",
+   "description": "Programming • Software writing • Builds apps • Debugging nights • Lines of syntax • Curly brackets",
    "hints": [
     {
      "text": "Programming",
@@ -1806,6 +1859,7 @@
   },
   {
    "word": "Machine learning",
+   "description": "Smart software • Trained models • Chatbots • Self driving cars • Neural networks • Trained on data",
    "hints": [
     {
      "text": "Smart software",
@@ -1840,6 +1894,7 @@
   },
   {
    "word": "Chatbot",
+   "description": "Conversational software • Virtual assistant • Customer support • Answers questions • Text bubbles • Automatic replies",
    "hints": [
     {
      "text": "Conversational software",
@@ -1874,6 +1929,7 @@
   },
   {
    "word": "Virus",
+   "description": "Malicious program • Computer threat • Security scans • Infected files • Spreads through downloads • Corrupts data",
    "hints": [
     {
      "text": "Malicious program",
@@ -1908,6 +1964,7 @@
   },
   {
    "word": "Bug",
+   "description": "Software error • Glitch • Developers fix it • Crashes apps • Unexpected behavior • Patch needed",
    "hints": [
     {
      "text": "Software error",
@@ -1942,6 +1999,7 @@
   },
   {
    "word": "Hacker",
+   "description": "Computer intruder • Code breaker • Breaks security • Hoodie stereotype • Green screen text • Passwords stolen",
    "hints": [
     {
      "text": "Computer intruder",
@@ -1976,6 +2034,7 @@
   },
   {
    "word": "Firewall",
+   "description": "Security software • Network shield • Blocks threats • Corporate networks • Traffic rules • Ports closed",
    "hints": [
     {
      "text": "Security software",
@@ -2010,6 +2069,7 @@
   },
   {
    "word": "Battery",
+   "description": "Power cell • Energy store • Dies at worst time • Recharge nightly • Plus and minus • Lithium ion",
    "hints": [
     {
      "text": "Power cell",
@@ -2044,6 +2104,7 @@
   },
   {
    "word": "Solar panel",
+   "description": "Energy device • Green tech • Rooftop power • Sunny days • Blue cells • Faces the sun",
    "hints": [
     {
      "text": "Energy device",
@@ -2078,6 +2139,7 @@
   },
   {
    "word": "Wind turbine",
+   "description": "Energy device • Green tech • Breezy hilltops • Clean power • Giant blades • Tall white tower",
    "hints": [
     {
      "text": "Energy device",
@@ -2112,6 +2174,7 @@
   },
   {
    "word": "Electric car",
+   "description": "Battery vehicle • Green transport • Charging stations • Quiet ride • Plug in port • No exhaust",
    "hints": [
     {
      "text": "Battery vehicle",
@@ -2146,6 +2209,7 @@
   },
   {
    "word": "Microchip",
+   "description": "Tiny circuit • Silicon component • Inside every gadget • Global shortage • Transistors • Black square with pins",
    "hints": [
     {
      "text": "Tiny circuit",
@@ -2180,6 +2244,7 @@
   },
   {
    "word": "Processor",
+   "description": "Computer brain • Central chip • Speed in gigahertz • Gets hot • Many cores • Under the fan",
    "hints": [
     {
      "text": "Computer brain",
@@ -2214,6 +2279,7 @@
   },
   {
    "word": "Motherboard",
+   "description": "Main circuit • Computer part • Connects everything • Inside the tower • Slots and sockets • Green panel",
    "hints": [
     {
      "text": "Main circuit",
@@ -2248,6 +2314,7 @@
   },
   {
    "word": "Graphics card",
+   "description": "Computer part • Video processor • Gamers upgrade it • Renders images • Big fans • Plugs into slot",
    "hints": [
     {
      "text": "Computer part",
@@ -2282,6 +2349,7 @@
   },
   {
    "word": "Calculator",
+   "description": "Math device • Number gadget • Exam helper • Solar powered • Number keys • Small display",
    "hints": [
     {
      "text": "Math device",
@@ -2316,6 +2384,7 @@
   },
   {
    "word": "Abacus",
+   "description": "Counting tool • Ancient calculator • Teaches arithmetic • Beads slide • Wooden frame • Rows of beads",
    "hints": [
     {
      "text": "Counting tool",
@@ -2350,6 +2419,7 @@
   },
   {
    "word": "Typewriter",
+   "description": "Writing machine • Retro device • Old novelists • Clack clack • Ink ribbon • Carriage return",
    "hints": [
     {
      "text": "Writing machine",
@@ -2384,6 +2454,7 @@
   },
   {
    "word": "Fax machine",
+   "description": "Office device • Document sender • Outdated tech • Screeching tones • Phone line • Thermal paper",
    "hints": [
     {
      "text": "Office device",
@@ -2418,6 +2489,7 @@
   },
   {
    "word": "Pager",
+   "description": "Retro device • Message beeper • Doctors used them • Nineties tech • Tiny screen • Clips on belt",
    "hints": [
     {
      "text": "Retro device",
@@ -2452,6 +2524,7 @@
   },
   {
    "word": "Walkie talkie",
+   "description": "Radio device • Handheld transceiver • Roger that • Camping trips • Press to speak • Antenna",
    "hints": [
     {
      "text": "Radio device",
@@ -2486,6 +2559,7 @@
   },
   {
    "word": "Radio",
+   "description": "Audio device • Broadcast receiver • Morning shows • Car stereo • Tuning dial • Antenna",
    "hints": [
     {
      "text": "Audio device",
@@ -2520,6 +2594,7 @@
   },
   {
    "word": "Vinyl record",
+   "description": "Music format • Retro disc • Collectors love them • Played on turntables • Grooves • Black disc",
    "hints": [
     {
      "text": "Music format",
@@ -2554,6 +2629,7 @@
   },
   {
    "word": "Cassette",
+   "description": "Music format • Retro tape • Mixtapes • Rewind with pencil • Magnetic tape • Two spools",
    "hints": [
     {
      "text": "Music format",
@@ -2588,6 +2664,7 @@
   },
   {
    "word": "Floppy disk",
+   "description": "Storage medium • Retro device • Save icon • Nineties computers • Square plastic • Metal shutter",
    "hints": [
     {
      "text": "Storage medium",
@@ -2622,6 +2699,7 @@
   },
   {
    "word": "Compact disc",
+   "description": "Music format • Shiny platter • Albums in cases • Scratches skip • Rainbow reflection • Laser read",
    "hints": [
     {
      "text": "Music format",
@@ -2656,6 +2734,7 @@
   },
   {
    "word": "Dvd player",
+   "description": "Video device • Movie machine • Movie nights • Rental stores • Disc tray • Remote control",
    "hints": [
     {
      "text": "Video device",
@@ -2690,6 +2769,7 @@
   },
   {
    "word": "Remote control",
+   "description": "Handheld device • Wireless clicker • Lost in the sofa • Changes channels • Infrared beam • Rubber buttons",
    "hints": [
     {
      "text": "Handheld device",
@@ -2724,6 +2804,7 @@
   },
   {
    "word": "Smart speaker",
+   "description": "Voice assistant • Home device • Asks the weather • Plays music • Glowing ring • Always listening",
    "hints": [
     {
      "text": "Voice assistant",
@@ -2758,6 +2839,7 @@
   },
   {
    "word": "Fitness tracker",
+   "description": "Wearable device • Health gadget • Counts steps • Sleep tracking • Wrist band • Heart sensor",
    "hints": [
     {
      "text": "Wearable device",
@@ -2792,6 +2874,7 @@
   },
   {
    "word": "E-reader",
+   "description": "Reading device • Digital book • Thousands of books • Long battery life • Electronic ink • Paper like screen",
    "hints": [
     {
      "text": "Reading device",
@@ -2826,6 +2909,7 @@
   },
   {
    "word": "Laser cutter",
+   "description": "Fabrication machine • Maker tool • Cuts wood and acrylic • Precise outlines • Focused beam • Smoky smell",
    "hints": [
     {
      "text": "Fabrication machine",
@@ -2860,6 +2944,7 @@
   },
   {
    "word": "Barcode",
+   "description": "Product label • Scannable label • Supermarket checkout • Inventory • Black and white stripes • Numbers underneath",
    "hints": [
     {
      "text": "Product label",
@@ -2894,6 +2979,7 @@
   },
   {
    "word": "Qr code",
+   "description": "Scannable square • Square pattern • Restaurant menus • Payments • Pixelated square • Phone camera",
    "hints": [
     {
      "text": "Scannable square",
@@ -2928,6 +3014,7 @@
   },
   {
    "word": "Touchscreen",
+   "description": "Interactive display • Glass panel • Swipe and tap • Phones and kiosks • Fingerprint smudges • Pinch to zoom",
    "hints": [
     {
      "text": "Interactive display",
@@ -2962,6 +3049,7 @@
   },
   {
    "word": "Thumbprint",
+   "description": "Biometric sensor • Security marker • Unlocks phones • Border control • Swirls and ridges • Touch to unlock",
    "hints": [
     {
      "text": "Biometric sensor",
@@ -2996,6 +3084,7 @@
   },
   {
    "word": "Face unlock",
+   "description": "Biometric tech • Security feature • Phones and laptops • Airport gates • Camera scan • Matching features",
    "hints": [
     {
      "text": "Biometric tech",
@@ -3030,6 +3119,7 @@
   },
   {
    "word": "Selfie stick",
+   "description": "Photo accessory • Extendable pole • Tourist spots • Group pictures • Telescopic rod • Phone clamp",
    "hints": [
     {
      "text": "Photo accessory",
@@ -3064,6 +3154,7 @@
   },
   {
    "word": "Tripod",
+   "description": "Camera stand • Three legs • Long exposures • Steady shots • Adjustable legs • Mounting head",
    "hints": [
     {
      "text": "Camera stand",
@@ -3098,6 +3189,7 @@
   },
   {
    "word": "Gimbal",
+   "description": "Camera stabilizer • Smooth motion gear • Vloggers • Cinematic shots • Motorized axes • Handheld grip",
    "hints": [
     {
      "text": "Camera stabilizer",
@@ -3132,6 +3224,7 @@
   },
   {
    "word": "Dashcam",
+   "description": "Car camera • Recording gadget • Accident evidence • Road trips • On the windshield • Loop recording",
    "hints": [
     {
      "text": "Car camera",
@@ -3166,6 +3259,7 @@
   },
   {
    "word": "Action camera",
+   "description": "Rugged recorder • Sports recorder • Extreme sports • Helmet mounts • Waterproof case • Wide angle",
    "hints": [
     {
      "text": "Rugged recorder",
@@ -3200,6 +3294,7 @@
   },
   {
    "word": "Electric scooter",
+   "description": "Battery ride • Urban transport • Rental apps • Sidewalk zipping • Folding stem • Small wheels",
    "hints": [
     {
      "text": "Battery ride",
@@ -3234,6 +3329,7 @@
   },
   {
    "word": "Robotaxi",
+   "description": "Autonomous vehicle • Driverless ride • Future roads • Testing in cities • Lidar sensors • No hands needed",
    "hints": [
     {
      "text": "Autonomous vehicle",
@@ -3268,6 +3364,7 @@
   },
   {
    "word": "Spreadsheet",
+   "description": "Office software • Data grid • Budgets and charts • Formulas • Rows and columns • Cells",
    "hints": [
     {
      "text": "Office software",
@@ -3302,6 +3399,7 @@
   },
   {
    "word": "Database",
+   "description": "Record storage • Organized records • Stores customer info • Queries • Tables and rows • Indexes",
    "hints": [
     {
      "text": "Record storage",
@@ -3336,6 +3434,7 @@
   },
   {
    "word": "Operating system",
+   "description": "Core software • Platform • Boots the computer • Updates nightly • Desktop and icons • File manager",
    "hints": [
     {
      "text": "Core software",
@@ -3370,6 +3469,7 @@
   },
   {
    "word": "Software update",
+   "description": "Program patch • New version • Restart required • Bug fixes • Progress bar • Download size",
    "hints": [
     {
      "text": "Program patch",
@@ -3404,6 +3504,7 @@
   },
   {
    "word": "Screenshot",
+   "description": "Display capture • Saved image • Proof in chats • Keyboard shortcut • Camera shutter sound • Cropped picture",
    "hints": [
     {
      "text": "Display capture",
@@ -3438,6 +3539,7 @@
   },
   {
    "word": "Download",
+   "description": "File transfer • Saving from web • Progress bar • Slow internet • Arrow pointing lower • Saved file",
    "hints": [
     {
      "text": "File transfer",
@@ -3472,6 +3574,7 @@
   },
   {
    "word": "Streaming",
+   "description": "Online media • Live playback • Binge watching • Buffering wheel • Subscription • No downloading",
    "hints": [
     {
      "text": "Online media",
@@ -3506,6 +3609,7 @@
   },
   {
    "word": "Podcast",
+   "description": "Audio show • Online series • Commute listening • Episodes weekly • Hosts talk • Subscribe button",
    "hints": [
     {
      "text": "Audio show",
@@ -3540,6 +3644,7 @@
   },
   {
    "word": "Video game",
+   "description": "Interactive entertainment • Digital play • Level up • Save points • Controller in hand • High scores",
    "hints": [
     {
      "text": "Interactive entertainment",
@@ -3574,6 +3679,7 @@
   },
   {
    "word": "Arcade",
+   "description": "Game hall • Retro gaming • Tokens and tickets • Claw machines • Cabinets with joysticks • Flashing lights",
    "hints": [
     {
      "text": "Game hall",
@@ -3608,6 +3714,7 @@
   },
   {
    "word": "Pixel",
+   "description": "Image dot • Screen element • Retro graphics • Resolution counts • Tiny square • Colored light",
    "hints": [
     {
      "text": "Image dot",
@@ -3642,6 +3749,7 @@
   },
   {
    "word": "Byte",
+   "description": "Data unit • Digital measure • File sizes • Kilo mega giga • Eight bits • Binary storage",
    "hints": [
     {
      "text": "Data unit",
@@ -3676,6 +3784,7 @@
   },
   {
    "word": "Binary",
+   "description": "Number system • Computer language • Ones and zeros • Machine code • Base two • Digits one zero",
    "hints": [
     {
      "text": "Number system",
@@ -3710,6 +3819,7 @@
   },
   {
    "word": "Circuit board",
+   "description": "Electronic component • Green panel • Inside gadgets • Soldered parts • Copper traces • Tiny chips",
    "hints": [
     {
      "text": "Electronic component",
@@ -3744,6 +3854,7 @@
   },
   {
    "word": "Transistor",
+   "description": "Electronic switch • Semiconductor • Billions per chip • Changed computing • Three legs • Amplifies signals",
    "hints": [
     {
      "text": "Electronic switch",
@@ -3778,6 +3889,7 @@
   },
   {
    "word": "Electricity",
+   "description": "Energy form • Power supply • Lights the home • Power cuts • Flowing electrons • Volts and amps",
    "hints": [
     {
      "text": "Energy form",
@@ -3812,6 +3924,7 @@
   },
   {
    "word": "Light bulb",
+   "description": "Electric device • Glowing glass • Bright idea symbol • Screws in • Filament or led • Glass globe",
    "hints": [
     {
      "text": "Electric device",
@@ -3846,6 +3959,7 @@
   },
   {
    "word": "Led",
+   "description": "Light source • Efficient lamp • Fairy lights • Low energy • Tiny diode • Bright colors",
    "hints": [
     {
      "text": "Light source",
@@ -3880,6 +3994,7 @@
   },
   {
    "word": "Generator",
+   "description": "Power machine • Backup energy • Power cuts • Camping sites • Fuel engine • Loud rumble",
    "hints": [
     {
      "text": "Power machine",
@@ -3914,6 +4029,7 @@
   },
   {
    "word": "Nuclear reactor",
+   "description": "Power plant core • Atomic energy • Cooling towers • Strict safety • Uranium rods • Control room",
    "hints": [
     {
      "text": "Power plant core",
@@ -3948,6 +4064,7 @@
   },
   {
    "word": "Microscope",
+   "description": "Science instrument • Lab tool • Tiny cells • Biology class • Lenses • Glass slides",
    "hints": [
     {
      "text": "Science instrument",
@@ -3982,6 +4099,7 @@
   },
   {
    "word": "Telescope",
+   "description": "Science instrument • Star viewer • Astronomy nights • Observatories • Long tube • Big lens",
    "hints": [
     {
      "text": "Science instrument",
@@ -4016,6 +4134,7 @@
   },
   {
    "word": "Binoculars",
+   "description": "Optical device • Viewing tool • Bird watching • Stadium seats • Twin lenses • Neck strap",
    "hints": [
     {
      "text": "Optical device",
@@ -4050,6 +4169,7 @@
   },
   {
    "word": "X-ray",
+   "description": "Medical imaging • Radiation scan • Broken bones • Airport security • See through photo • Lead apron",
    "hints": [
     {
      "text": "Medical imaging",
@@ -4084,6 +4204,7 @@
   },
   {
    "word": "Ultrasound",
+   "description": "Medical imaging • Echo scan • Baby scans • Cold gel • Grainy picture • Handheld probe",
    "hints": [
     {
      "text": "Medical imaging",
@@ -4118,6 +4239,7 @@
   },
   {
    "word": "Smart home",
+   "description": "Connected house • Automation • Lights by voice • App controls • Sensors and hubs • Remote thermostat",
    "hints": [
     {
      "text": "Connected house",
@@ -4152,6 +4274,7 @@
   },
   {
    "word": "Robot vacuum",
+   "description": "Cleaning gadget • Autonomous cleaner • Cats ride them • Bumps into walls • Round disc • Charging dock",
    "hints": [
     {
      "text": "Cleaning gadget",
@@ -4186,6 +4309,7 @@
   },
   {
    "word": "Air fryer",
+   "description": "Kitchen gadget • Countertop cooker • Crispy fries • Less oil • Basket drawer • Convection fan",
    "hints": [
     {
      "text": "Kitchen gadget",
@@ -4220,6 +4344,7 @@
   },
   {
    "word": "Microwave oven",
+   "description": "Kitchen appliance • Quick heater • Reheats food • Pops popcorn • Rotating plate • Beeps when done",
    "hints": [
     {
      "text": "Kitchen appliance",
@@ -4254,6 +4379,7 @@
   },
   {
    "word": "Electric razor",
+   "description": "Bathroom gadget • Grooming tool • Morning shave • Buzzing sound • Rotating heads • Charging base",
    "hints": [
     {
      "text": "Bathroom gadget",
@@ -4288,6 +4414,7 @@
   },
   {
    "word": "Hearing aid",
+   "description": "Medical device • Sound amplifier • Elderly users • Behind the ear • Tiny earpiece • Battery powered",
    "hints": [
     {
      "text": "Medical device",
@@ -4322,6 +4449,7 @@
   },
   {
    "word": "Pacemaker",
+   "description": "Medical device • Heart implant • Keeps rhythm steady • Surgery needed • Small battery • Electrical pulses",
    "hints": [
     {
      "text": "Medical device",
@@ -4356,6 +4484,7 @@
   },
   {
    "word": "Antenna",
+   "description": "Signal receiver • Metal rod • Rooftop tv • Old radios • Picks up waves • Extends upward",
    "hints": [
     {
      "text": "Signal receiver",
@@ -4390,6 +4519,7 @@
   },
   {
    "word": "Satellite dish",
+   "description": "Signal receiver • Rooftop device • Cable tv • Space signals • Curved bowl • Points at sky",
    "hints": [
     {
      "text": "Signal receiver",
@@ -4424,6 +4554,7 @@
   },
   {
    "word": "Cable",
+   "description": "Wire connector • Power cord • Tangled behind desks • Charging • Plug at each end • Rubber coating",
    "hints": [
     {
      "text": "Wire connector",
@@ -4458,6 +4589,7 @@
   },
   {
    "word": "Plug",
+   "description": "Electrical connector • Wall fitting • Into the socket • Travel adapters • Metal prongs • Three pins",
    "hints": [
     {
      "text": "Electrical connector",
@@ -4492,6 +4624,7 @@
   },
   {
    "word": "Switch",
+   "description": "Electrical control • Flip control • Wall lights • Flip it • Toggle lever • Click sound",
    "hints": [
     {
      "text": "Electrical control",
@@ -4526,6 +4659,7 @@
   },
   {
    "word": "Thermostat",
+   "description": "Climate controller • Smart device • Sets the heat • Saves energy • Temperature dial • Wall mounted",
    "hints": [
     {
      "text": "Climate controller",
@@ -4560,6 +4694,7 @@
   },
   {
    "word": "Alarm system",
+   "description": "Security setup • Home protection • Burglar deterrent • Loud siren • Motion sensors • Keypad code",
    "hints": [
     {
      "text": "Security setup",
@@ -4594,6 +4729,7 @@
   },
   {
    "word": "Security camera",
+   "description": "Surveillance device • Watchful eye • Shops and homes • Recording footage • Mounted lens • Red light",
    "hints": [
     {
      "text": "Surveillance device",
@@ -4628,6 +4764,7 @@
   },
   {
    "word": "Doorbell camera",
+   "description": "Smart chime • Porch device • Package thieves • Answer remotely • Lens by entrance • Motion alerts",
    "hints": [
     {
      "text": "Smart chime",
@@ -4662,6 +4799,7 @@
   },
   {
    "word": "Gaming laptop",
+   "description": "Powerful notebook • Portable rig • Esports on the go • Heavy and loud • Glowing keyboard • Big fans",
    "hints": [
     {
      "text": "Powerful notebook",
@@ -4696,6 +4834,7 @@
   },
   {
    "word": "Stylus",
+   "description": "Digital pen • Tablet tool • Drawing apps • Note taking • Pointed tip • Pressure sensitive",
    "hints": [
     {
      "text": "Digital pen",
@@ -4730,6 +4869,7 @@
   },
   {
    "word": "Graphics tablet",
+   "description": "Drawing device • Artist gadget • Digital art • Animators use it • Pen on pad • Pressure levels",
    "hints": [
     {
      "text": "Drawing device",
@@ -4764,6 +4904,7 @@
   },
   {
    "word": "Keycaps",
+   "description": "Keyboard parts • Enthusiast gear • Gamers and coders • Custom sets • Printed symbols • Pop off switches",
    "hints": [
     {
      "text": "Keyboard parts",
@@ -4798,6 +4939,7 @@
   },
   {
    "word": "Smart glasses",
+   "description": "Wearable gadget • Face computer • Heads up display • Records video • Tiny projector • Frames with camera",
    "hints": [
     {
      "text": "Wearable gadget",
@@ -4832,6 +4974,7 @@
   },
   {
    "word": "Headset",
+   "description": "Audio gear • Gaming accessory • Call centers • Online matches • Mic on boom arm • Over ears",
    "hints": [
     {
      "text": "Audio gear",
@@ -4866,6 +5009,7 @@
   },
   {
    "word": "Charging cable",
+   "description": "Power accessory • Phone cord • Always borrowed • Frays at end • Connector tips • Coiled in bags",
    "hints": [
     {
      "text": "Power accessory",
@@ -4900,6 +5044,7 @@
   },
   {
    "word": "Adapter",
+   "description": "Connector gadget • Travel accessory • Foreign sockets • Converts ports • Small plastic block • Prongs",
    "hints": [
     {
      "text": "Connector gadget",
@@ -4934,6 +5079,7 @@
   },
   {
    "word": "Hard disk",
+   "description": "Storage drive • Computer part • Spinning platters • Clicks when old • Magnetic platters • Read head",
    "hints": [
     {
      "text": "Storage drive",
@@ -4968,6 +5114,7 @@
   },
   {
    "word": "Ethernet",
+   "description": "Wired network • Cable connection • Faster than wireless • Office desks • Clicky plug • Twisted pairs",
    "hints": [
     {
      "text": "Wired network",
@@ -5002,6 +5149,7 @@
   },
   {
    "word": "Semiconductor",
+   "description": "Chip material • Electronics base • Global industry • Silicon valley • Doped silicon • Wafer slices",
    "hints": [
     {
      "text": "Chip material",
@@ -5036,6 +5184,7 @@
   },
   {
    "word": "Pixel art",
+   "description": "Retro graphics • Blocky images • Old video games • Indie style • Tiny squares • Limited palette",
    "hints": [
     {
      "text": "Retro graphics",
@@ -5070,6 +5219,7 @@
   },
   {
    "word": "Emulator",
+   "description": "Software tool • Retro gaming • Old consoles on pc • Testing apps • Mimics hardware • Rom files",
    "hints": [
     {
      "text": "Software tool",
@@ -5104,6 +5254,7 @@
   },
   {
    "word": "Cookie",
+   "description": "Browser data • Website tracker • Accept all popup • Remembers logins • Tiny text file • Stored by sites",
    "hints": [
     {
      "text": "Browser data",
@@ -5138,6 +5289,7 @@
   },
   {
    "word": "Bookmark",
+   "description": "Saved link • Browser feature • Favorite websites • Star icon • Saved address • Quick access",
    "hints": [
     {
      "text": "Saved link",
@@ -5172,6 +5324,7 @@
   },
   {
    "word": "Hashtag",
+   "description": "Social tag • Topic marker • Trending topics • Captions • Pound sign • Clickable keyword",
    "hints": [
     {
      "text": "Social tag",

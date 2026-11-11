@@ -4,6 +4,7 @@
  "words": [
   {
    "word": "Heart",
+   "description": "Organ • Vital organ • Pumps blood • Symbol of love • Beats per minute • Four chambers",
    "hints": [
     {
      "text": "Organ",
@@ -38,6 +39,7 @@
   },
   {
    "word": "Brain",
+   "description": "Organ • Control center • Thinks and remembers • Very complex • Wrinkly folds • Inside the skull",
    "hints": [
     {
      "text": "Organ",
@@ -72,6 +74,7 @@
   },
   {
    "word": "Lungs",
+   "description": "Organs • Breathing organs • Fill with air • Smoking harms them • Pair in chest • Alveoli sacs",
    "hints": [
     {
      "text": "Organs",
@@ -106,6 +109,7 @@
   },
   {
    "word": "Liver",
+   "description": "Organ • Filter organ • Cleans the blood • Can regrow • Largest internal organ • Right side",
    "hints": [
     {
      "text": "Organ",
@@ -140,6 +144,7 @@
   },
   {
    "word": "Kidney",
+   "description": "Organ • Filter organ • Makes urine • Pair of them • Bean shaped • Lower back",
    "hints": [
     {
      "text": "Organ",
@@ -174,6 +179,7 @@
   },
   {
    "word": "Stomach",
+   "description": "Organ • Digestive organ • Growls when hungry • Butterflies feeling • Acidic juices • Stretchy pouch",
    "hints": [
     {
      "text": "Organ",
@@ -208,6 +214,7 @@
   },
   {
    "word": "Skin",
+   "description": "Organ • Body covering • Sunburns • Goosebumps • Largest organ • Pores and freckles",
    "hints": [
     {
      "text": "Organ",
@@ -242,6 +249,7 @@
   },
   {
    "word": "Bone",
+   "description": "Body part • Skeleton piece • Breaks in falls • Dogs chew them • Hard and white • Calcium rich",
    "hints": [
     {
      "text": "Body part",
@@ -276,6 +284,7 @@
   },
   {
    "word": "Skeleton",
+   "description": "Body frame • Bone structure • Halloween decoration • Holds you up • Two hundred bones • Skull and ribs",
    "hints": [
     {
      "text": "Body frame",
@@ -310,6 +319,7 @@
   },
   {
    "word": "Skull",
+   "description": "Head bone • Cranium • Pirate flags • Protects the brain • Eye sockets • Jaw bone",
    "hints": [
     {
      "text": "Head bone",
@@ -344,6 +354,7 @@
   },
   {
    "word": "Spine",
+   "description": "Back bone • Vertebral column • Good posture • Back pain • Stacked vertebrae • Spinal cord",
    "hints": [
     {
      "text": "Back bone",
@@ -378,6 +389,7 @@
   },
   {
    "word": "Muscle",
+   "description": "Body tissue • Strength source • Gym workouts • Gets sore • Biceps and triceps • Contracts",
    "hints": [
     {
      "text": "Body tissue",
@@ -412,6 +424,7 @@
   },
   {
    "word": "Blood",
+   "description": "Body fluid • Red liquid • Donated at drives • Flows in veins • Red cells • Plasma",
    "hints": [
     {
      "text": "Body fluid",
@@ -446,6 +459,7 @@
   },
   {
    "word": "Vein",
+   "description": "Blood vessel • Body tube • Blue under skin • Draws blood • Carries to heart • Valves inside",
    "hints": [
     {
      "text": "Blood vessel",
@@ -480,6 +494,7 @@
   },
   {
    "word": "Nerve",
+   "description": "Body wire • Signal carrier • Tingling limbs • Feeling pain • Electrical messages • Spinal connections",
    "hints": [
     {
      "text": "Body wire",
@@ -514,6 +529,7 @@
   },
   {
    "word": "Eye",
+   "description": "Sense organ • Vision organ • Blinking • Saline drops • Iris and pupil • Eyelashes",
    "hints": [
     {
      "text": "Sense organ",
@@ -548,6 +564,7 @@
   },
   {
    "word": "Ear",
+   "description": "Sense organ • Hearing organ • Earrings • Wax builds up • Eardrum • Lobe",
    "hints": [
     {
      "text": "Sense organ",
@@ -582,6 +599,7 @@
   },
   {
    "word": "Nose",
+   "description": "Sense organ • Smell organ • Sneezing • Runny colds • Nostrils • Bridge on face",
    "hints": [
     {
      "text": "Sense organ",
@@ -616,6 +634,7 @@
   },
   {
    "word": "Mouth",
+   "description": "Face part • Eating opening • Talking and eating • Smiles • Lips and teeth • Tongue inside",
    "hints": [
     {
      "text": "Face part",
@@ -650,6 +669,7 @@
   },
   {
    "word": "Tongue",
+   "description": "Muscle organ • Taste organ • Sticking it out • Taste buds • Pink and wet • Licks lollipops",
    "hints": [
     {
      "text": "Muscle organ",
@@ -684,6 +704,7 @@
   },
   {
    "word": "Teeth",
+   "description": "Mouth parts • Chewing tools • Brushed twice daily • Dentist visits • Enamel and molars • Biting",
    "hints": [
     {
      "text": "Mouth parts",
@@ -718,6 +739,7 @@
   },
   {
    "word": "Hair",
+   "description": "Body fiber • Head covering • Salon visits • Messy mornings • Strands and roots • Grows constantly",
    "hints": [
     {
      "text": "Body fiber",
@@ -752,6 +774,7 @@
   },
   {
    "word": "Fingernail",
+   "description": "Body part • Hand tip • Painted with polish • Bitten when nervous • Keratin layer • Grows slowly",
    "hints": [
     {
      "text": "Body part",
@@ -786,6 +809,7 @@
   },
   {
    "word": "Hand",
+   "description": "Body part • Limb end • Shake to greet • Wave hello • Five fingers • Palm and knuckles",
    "hints": [
     {
      "text": "Body part",
@@ -820,6 +844,7 @@
   },
   {
    "word": "Foot",
+   "description": "Body part • Limb end • Walking and running • Ticklish soles • Toes and heel • Arch",
    "hints": [
     {
      "text": "Body part",
@@ -854,6 +879,7 @@
   },
   {
    "word": "Knee",
+   "description": "Body joint • Leg joint • Scraped as kids • Praying position • Patella • Bends the leg",
    "hints": [
     {
      "text": "Body joint",
@@ -888,6 +914,7 @@
   },
   {
    "word": "Elbow",
+   "description": "Body joint • Arm joint • Funny bone • Leaning on tables • Bends the arm • Pointy tip",
    "hints": [
     {
      "text": "Body joint",
@@ -922,6 +949,7 @@
   },
   {
    "word": "Shoulder",
+   "description": "Body joint • Upper limb joint • Carries bags • Shrugging • Ball and socket • Collarbone",
    "hints": [
     {
      "text": "Body joint",
@@ -956,6 +984,7 @@
   },
   {
    "word": "Neck",
+   "description": "Body part • Head support • Scarves and ties • Stiff mornings • Throat and nape • Turns the head",
    "hints": [
     {
      "text": "Body part",
@@ -990,6 +1019,7 @@
   },
   {
    "word": "Belly button",
+   "description": "Body mark • Navel • Leftover from birth • Innie or outie • Center of tummy • Small dimple",
    "hints": [
     {
      "text": "Body mark",
@@ -1024,6 +1054,7 @@
   },
   {
    "word": "Thumb",
+   "description": "Digit • Hand part • Approval gesture • Hitchhiking • Opposable • Short and wide",
    "hints": [
     {
      "text": "Digit",
@@ -1058,6 +1089,7 @@
   },
   {
    "word": "Wrist",
+   "description": "Body joint • Hand joint • Wears watches • Sprained easily • Pulse point • Small bones",
    "hints": [
     {
      "text": "Body joint",
@@ -1092,6 +1124,7 @@
   },
   {
    "word": "Ankle",
+   "description": "Body joint • Foot joint • Twisted in sports • Socks cover • Above the foot • Bony bumps",
    "hints": [
     {
      "text": "Body joint",
@@ -1126,6 +1159,7 @@
   },
   {
    "word": "Heel",
+   "description": "Foot part • Back of foot • Blisters from shoes • Achilles • Rounded bone • Hits ground first",
    "hints": [
     {
      "text": "Foot part",
@@ -1160,6 +1194,7 @@
   },
   {
    "word": "Eyebrow",
+   "description": "Face feature • Hair arch • Raised in surprise • Plucked or threaded • Above the eye • Thin hair line",
    "hints": [
     {
      "text": "Face feature",
@@ -1194,6 +1229,7 @@
   },
   {
    "word": "Eyelash",
+   "description": "Face feature • Lid hair • Make a wish • Mascara • Curled hairs • Protects eyes",
    "hints": [
     {
      "text": "Face feature",
@@ -1228,6 +1264,7 @@
   },
   {
    "word": "Fever",
+   "description": "Illness sign • High temperature • Thermometer check • Sweats and chills • Hot forehead • Body fighting infection",
    "hints": [
     {
      "text": "Illness sign",
@@ -1262,6 +1299,7 @@
   },
   {
    "word": "Cold",
+   "description": "Common illness • Sniffles • Runny nose • Tissues everywhere • Sneezing • Sore throat",
    "hints": [
     {
      "text": "Common illness",
@@ -1296,6 +1334,7 @@
   },
   {
    "word": "Flu",
+   "description": "Illness • Seasonal virus • Annual vaccine • Bedridden days • Aches and fever • Chills",
    "hints": [
     {
      "text": "Illness",
@@ -1330,6 +1369,7 @@
   },
   {
    "word": "Cough",
+   "description": "Symptom • Throat reflex • Cover your mouth • Syrup helps • Hacking sound • Tickly throat",
    "hints": [
     {
      "text": "Symptom",
@@ -1364,6 +1404,7 @@
   },
   {
    "word": "Sneeze",
+   "description": "Body reflex • Nose burst • Bless you • Pepper triggers it • Achoo • Tissue needed",
    "hints": [
     {
      "text": "Body reflex",
@@ -1398,6 +1439,7 @@
   },
   {
    "word": "Hiccup",
+   "description": "Body reflex • Diaphragm spasm • Scare them away • Hold breath cure • Squeaky jolts • Repeating",
    "hints": [
     {
      "text": "Body reflex",
@@ -1432,6 +1474,7 @@
   },
   {
    "word": "Yawn",
+   "description": "Body reflex • Tired sign • Contagious • Boring meetings • Wide open mouth • Stretching jaw",
    "hints": [
     {
      "text": "Body reflex",
@@ -1466,6 +1509,7 @@
   },
   {
    "word": "Headache",
+   "description": "Pain • Temple pain • Too much screen time • Painkillers • Throbbing temples • Pressure",
    "hints": [
     {
      "text": "Pain",
@@ -1500,6 +1544,7 @@
   },
   {
    "word": "Toothache",
+   "description": "Pain • Mouth pain • Dentist needed • Cavities • Throbbing jaw • Sensitive to cold",
    "hints": [
     {
      "text": "Pain",
@@ -1534,6 +1579,7 @@
   },
   {
    "word": "Allergy",
+   "description": "Immune reaction • Sensitivity • Pollen season • Peanut warnings • Itchy eyes • Sneezing fits",
    "hints": [
     {
      "text": "Immune reaction",
@@ -1568,6 +1614,7 @@
   },
   {
    "word": "Asthma",
+   "description": "Breathing condition • Lung condition • Inhalers • Wheezing • Tight airways • Puffer",
    "hints": [
     {
      "text": "Breathing condition",
@@ -1602,6 +1649,7 @@
   },
   {
    "word": "Rash",
+   "description": "Skin problem • Red patches • Allergic reactions • Itchy • Bumpy skin • Ointment",
    "hints": [
     {
      "text": "Skin problem",
@@ -1636,6 +1684,7 @@
   },
   {
    "word": "Bruise",
+   "description": "Skin mark • Injury sign • Bumping into tables • Turns colors • Purple patch • Tender spot",
    "hints": [
     {
      "text": "Skin mark",
@@ -1670,6 +1719,7 @@
   },
   {
    "word": "Scar",
+   "description": "Skin mark • Healed wound • Stories behind them • Fades over time • Raised line • Lighter skin",
    "hints": [
     {
      "text": "Skin mark",
@@ -1704,6 +1754,7 @@
   },
   {
    "word": "Blister",
+   "description": "Skin bubble • Friction injury • New shoes • Do not pop • Fluid filled • Sore heel",
    "hints": [
     {
      "text": "Skin bubble",
@@ -1738,6 +1789,7 @@
   },
   {
    "word": "Pimple",
+   "description": "Skin spot • Acne bump • Teen years • Popping temptation • Red bump • White head",
    "hints": [
     {
      "text": "Skin spot",
@@ -1772,6 +1824,7 @@
   },
   {
    "word": "Freckle",
+   "description": "Skin spot • Sun mark • Summer faces • Cute dots • Tiny brown dots • Across the nose",
    "hints": [
     {
      "text": "Skin spot",
@@ -1806,6 +1859,7 @@
   },
   {
    "word": "Sunburn",
+   "description": "Skin injury • Sun damage • Forgot sunscreen • Beach days • Red and peeling • Stings",
    "hints": [
     {
      "text": "Skin injury",
@@ -1840,6 +1894,7 @@
   },
   {
    "word": "Broken bone",
+   "description": "Injury • Fracture • Cast signing • Ski accidents • X ray picture • Splint",
    "hints": [
     {
      "text": "Injury",
@@ -1874,6 +1929,7 @@
   },
   {
    "word": "Sprain",
+   "description": "Injury • Twisted joint • Ankle rolls • Ice packs • Swollen ligament • Bandaged",
    "hints": [
     {
      "text": "Injury",
@@ -1908,6 +1964,7 @@
   },
   {
    "word": "Cramp",
+   "description": "Muscle pain • Sudden tightness • Swimming warnings • Night leg pain • Knotted muscle • Stretch it out",
    "hints": [
     {
      "text": "Muscle pain",
@@ -1942,6 +1999,7 @@
   },
   {
    "word": "Bandage",
+   "description": "Medical supply • Wound cover • Wrapped around cuts • First aid kit • Sticky strip • Gauze",
    "hints": [
     {
      "text": "Medical supply",
@@ -1976,6 +2034,7 @@
   },
   {
    "word": "Cast",
+   "description": "Medical support • Hard wrap • Friends sign it • Broken arm • Plaster shell • Itchy inside",
    "hints": [
     {
      "text": "Medical support",
@@ -2010,6 +2069,7 @@
   },
   {
    "word": "Crutches",
+   "description": "Mobility aid • Walking support • Leg injuries • Hopping around • Armpit pads • Pair of poles",
    "hints": [
     {
      "text": "Mobility aid",
@@ -2044,6 +2104,7 @@
   },
   {
    "word": "Wheelchair",
+   "description": "Mobility aid • Rolling seat • Accessibility ramps • Hospitals • Big wheels • Push handles",
    "hints": [
     {
      "text": "Mobility aid",
@@ -2078,6 +2139,7 @@
   },
   {
    "word": "Stethoscope",
+   "description": "Medical tool • Listening device • Doctors wear it • Cold on chest • Ear tubes • Round chest piece",
    "hints": [
     {
      "text": "Medical tool",
@@ -2112,6 +2174,7 @@
   },
   {
    "word": "Thermometer",
+   "description": "Medical tool • Temperature gauge • Under the tongue • Fever check • Digital beep • Degrees reading",
    "hints": [
     {
      "text": "Medical tool",
@@ -2146,6 +2209,7 @@
   },
   {
    "word": "Syringe",
+   "description": "Medical tool • Injection device • Vaccines • Nervous patients • Sharp needle • Plunger",
    "hints": [
     {
      "text": "Medical tool",
@@ -2180,6 +2244,7 @@
   },
   {
    "word": "Vaccine",
+   "description": "Medicine • Immunization • Prevents disease • Booster shots • Injected dose • Builds immunity",
    "hints": [
     {
      "text": "Medicine",
@@ -2214,6 +2279,7 @@
   },
   {
    "word": "Pill",
+   "description": "Medicine • Tablet • Swallowed with water • Daily dose • Small capsule • Prescription bottle",
    "hints": [
     {
      "text": "Medicine",
@@ -2248,6 +2314,7 @@
   },
   {
    "word": "Vitamin",
+   "description": "Nutrient • Supplement • Gummies for kids • Healthy diet • Daily tablets • Citrus source",
    "hints": [
     {
      "text": "Nutrient",
@@ -2282,6 +2349,7 @@
   },
   {
    "word": "Ambulance",
+   "description": "Emergency vehicle • Medical van • Rushes to hospital • Flashing lights • Siren wail • Stretcher inside",
    "hints": [
     {
      "text": "Emergency vehicle",
@@ -2316,6 +2384,7 @@
   },
   {
    "word": "Medicine box",
+   "description": "Medical kit • Emergency supplies • Camping essential • Cuts and scrapes • Red cross sign • Bandages inside",
    "hints": [
     {
      "text": "Medical kit",
@@ -2350,6 +2419,7 @@
   },
   {
    "word": "Surgery",
+   "description": "Medical procedure • Operation • Anesthesia • Recovery time • Scalpel and stitches • Operating room",
    "hints": [
     {
      "text": "Medical procedure",
@@ -2384,6 +2454,7 @@
   },
   {
    "word": "Stitches",
+   "description": "Wound closure • Sutures • After deep cuts • Removed later • Thread in skin • Tiny knots",
    "hints": [
     {
      "text": "Wound closure",
@@ -2418,6 +2489,7 @@
   },
   {
    "word": "X-ray",
+   "description": "Medical image • Bone scan • Broken bone check • Dentist pictures • See through photo • Lead apron",
    "hints": [
     {
      "text": "Medical image",
@@ -2452,6 +2524,7 @@
   },
   {
    "word": "Checkup",
+   "description": "Doctor visit • Health exam • Yearly appointment • Say ahh • Weight and height • Blood pressure",
    "hints": [
     {
      "text": "Doctor visit",
@@ -2486,6 +2559,7 @@
   },
   {
    "word": "Pulse",
+   "description": "Heartbeat sign • Vital sign • Checked at wrist • Races when scared • Beats per minute • Throbbing",
    "hints": [
     {
      "text": "Heartbeat sign",
@@ -2520,6 +2594,7 @@
   },
   {
    "word": "Breath",
+   "description": "Air intake • Respiration • Hold it underwater • Slow inhales calm • Inhale and exhale • Lungs fill",
    "hints": [
     {
      "text": "Air intake",
@@ -2554,6 +2629,7 @@
   },
   {
    "word": "Sweat",
+   "description": "Body fluid • Perspiration • Hot days • Workouts • Salty drops • Armpits",
    "hints": [
     {
      "text": "Body fluid",
@@ -2588,6 +2664,7 @@
   },
   {
    "word": "Tears",
+   "description": "Body fluid • Eye drops • Crying • Onion chopping • Salty droplets • Down the cheeks",
    "hints": [
     {
      "text": "Body fluid",
@@ -2622,6 +2699,7 @@
   },
   {
    "word": "Saliva",
+   "description": "Body fluid • Spit • Mouth watering • Helps digestion • Drool • Clear liquid",
    "hints": [
     {
      "text": "Body fluid",
@@ -2656,6 +2734,7 @@
   },
   {
    "word": "Sleep",
+   "description": "Rest state • Nightly rest • Eight hours • Bedtime • Dreams and snoring • Eyes closed",
    "hints": [
     {
      "text": "Rest state",
@@ -2690,6 +2769,7 @@
   },
   {
    "word": "Dream",
+   "description": "Sleep vision • Night story • Wake up confused • Nightmares • Images while asleep • Surreal",
    "hints": [
     {
      "text": "Sleep vision",
@@ -2724,6 +2804,7 @@
   },
   {
    "word": "Nightmare",
+   "description": "Bad dream • Scary sleep • Wake up sweating • Monsters chase • Frightening visions • Sleep terror",
    "hints": [
     {
      "text": "Bad dream",
@@ -2758,6 +2839,7 @@
   },
   {
    "word": "Snoring",
+   "description": "Sleep noise • Nasal sound • Partners complain • Loud nights • Rumbling breath • Open mouth",
    "hints": [
     {
      "text": "Sleep noise",
@@ -2792,6 +2874,7 @@
   },
   {
    "word": "Exercise",
+   "description": "Physical activity • Workout • Gym routines • Keeps you fit • Sweat and stretching • Push ups",
    "hints": [
     {
      "text": "Physical activity",
@@ -2826,6 +2909,7 @@
   },
   {
    "word": "Diet",
+   "description": "Eating plan • Food habits • New year goals • Calorie counting • Healthy meals • Portion control",
    "hints": [
     {
      "text": "Eating plan",
@@ -2860,6 +2944,7 @@
   },
   {
    "word": "Fasting",
+   "description": "Not eating • Food break • Religious practice • Intermittent trend • Empty stomach • Skipped meals",
    "hints": [
     {
      "text": "Not eating",
@@ -2894,6 +2979,7 @@
   },
   {
    "word": "Meditation",
+   "description": "Mind practice • Calm technique • Stress relief • Quiet mornings • Closed eyes • Breathing focus",
    "hints": [
     {
      "text": "Mind practice",
@@ -2928,6 +3014,7 @@
   },
   {
    "word": "Yoga",
+   "description": "Mind body exercise • Stretching practice • Mats in studios • Calm breathing • Downward dog • Lotus pose",
    "hints": [
     {
      "text": "Mind body exercise",
@@ -2962,6 +3049,7 @@
   },
   {
    "word": "Massage",
+   "description": "Body therapy • Relaxing rub • Spa treatment • Sore muscles • Kneading hands • Scented oil",
    "hints": [
     {
      "text": "Body therapy",
@@ -2996,6 +3084,7 @@
   },
   {
    "word": "Hospital bed",
+   "description": "Medical furniture • Patient cot • Recovery rooms • Adjustable • Rails on sides • Wheels",
    "hints": [
     {
      "text": "Medical furniture",
@@ -3030,6 +3119,7 @@
   },
   {
    "word": "Doctor",
+   "description": "Medical professional • Healer • Writes prescriptions • White coat • Stethoscope • Clinic visits",
    "hints": [
     {
      "text": "Medical professional",
@@ -3064,6 +3154,7 @@
   },
   {
    "word": "Nurse",
+   "description": "Medical professional • Caregiver • Night shifts • Takes temperature • Scrubs • Hospital wards",
    "hints": [
     {
      "text": "Medical professional",
@@ -3098,6 +3189,7 @@
   },
   {
    "word": "Dentist",
+   "description": "Tooth doctor • Oral specialist • Check ups • Fillings • Drill sound • Reclining chair",
    "hints": [
     {
      "text": "Tooth doctor",
@@ -3132,6 +3224,7 @@
   },
   {
    "word": "Braces",
+   "description": "Dental device • Teeth straightener • Teen years • Tightened monthly • Metal brackets • Rubber bands",
    "hints": [
     {
      "text": "Dental device",
@@ -3166,6 +3259,7 @@
   },
   {
    "word": "Glasses",
+   "description": "Vision aid • Eyewear • Reading help • Smudged lenses • Frames and lenses • Rests on nose",
    "hints": [
     {
      "text": "Vision aid",
@@ -3200,6 +3294,7 @@
   },
   {
    "word": "Contact lenses",
+   "description": "Vision aid • Eye discs • Instead of glasses • Daily wear • Tiny clear discs • On the eyeball",
    "hints": [
     {
      "text": "Vision aid",
@@ -3234,6 +3329,7 @@
   },
   {
    "word": "Hearing aid",
+   "description": "Medical device • Ear device • Elderly users • Volume boost • Behind the ear • Tiny battery",
    "hints": [
     {
      "text": "Medical device",
@@ -3268,6 +3364,7 @@
   },
   {
    "word": "Inhaler",
+   "description": "Medical device • Breathing aid • Asthma relief • Carried everywhere • Puffer • Mouthpiece",
    "hints": [
     {
      "text": "Medical device",
@@ -3302,6 +3399,7 @@
   },
   {
    "word": "Germ",
+   "description": "Microbe • Tiny invader • Wash your hands • Spreads illness • Bacteria or virus • Microscopic",
    "hints": [
     {
      "text": "Microbe",
@@ -3336,6 +3434,7 @@
   },
   {
    "word": "Virus",
+   "description": "Microbe • Infectious agent • Colds and flu • Spreads fast • Tiny particle • Needs a host",
    "hints": [
     {
      "text": "Microbe",
@@ -3370,6 +3469,7 @@
   },
   {
    "word": "Bacteria",
+   "description": "Microbes • Single cells • Good and bad types • Antibiotics fight • Rod or round shapes • Petri dishes",
    "hints": [
     {
      "text": "Microbes",
@@ -3404,6 +3504,7 @@
   },
   {
    "word": "Immune system",
+   "description": "Body defense • Protector network • Fights infection • Vaccines train it • White blood cells • Antibodies",
    "hints": [
     {
      "text": "Body defense",
@@ -3438,6 +3539,7 @@
   },
   {
    "word": "Calories",
+   "description": "Energy units • Food energy • Diet counting • Burned in workouts • Nutrition labels • Energy counts",
    "hints": [
     {
      "text": "Energy units",
@@ -3472,6 +3574,7 @@
   },
   {
    "word": "Protein",
+   "description": "Nutrient • Muscle builder • Gym shakes • Eggs and meat • Amino acids • Repairs tissue",
    "hints": [
     {
      "text": "Nutrient",
@@ -3506,6 +3609,7 @@
   },
   {
    "word": "Hydration",
+   "description": "Water intake • Fluid balance • Drink eight glasses • Hot days • Water bottles • Clear urine",
    "hints": [
     {
      "text": "Water intake",
@@ -3540,6 +3644,7 @@
   },
   {
    "word": "Posture",
+   "description": "Body position • Stance • Sit up straight • Back pain • Shoulders back • Spine aligned",
    "hints": [
     {
      "text": "Body position",
@@ -3574,6 +3679,7 @@
   },
   {
    "word": "Flexibility",
+   "description": "Body range • Stretchiness • Yoga goal • Gymnasts excel • Touch your toes • Splits",
    "hints": [
     {
      "text": "Body range",
@@ -3608,6 +3714,7 @@
   },
   {
    "word": "Balance",
+   "description": "Body control • Stability • Standing on one foot • Tightrope • Inner ear • Core strength",
    "hints": [
     {
      "text": "Body control",
@@ -3642,6 +3749,7 @@
   },
   {
    "word": "Heartbeat",
+   "description": "Body rhythm • Cardiac pulse • Races when nervous • Doctors listen • Thump thump • Steady rhythm",
    "hints": [
     {
      "text": "Body rhythm",
@@ -3676,6 +3784,7 @@
   },
   {
    "word": "Blink",
+   "description": "Eye reflex • Quick shut • Hundreds a day • Staring contests • Eyelids close • Moistens eyes",
    "hints": [
     {
      "text": "Eye reflex",
@@ -3710,6 +3819,7 @@
   },
   {
    "word": "Goosebumps",
+   "description": "Skin reaction • Shiver reaction • Cold or scared • Spine tingles • Raised hairs • Bumpy arms",
    "hints": [
     {
      "text": "Skin reaction",
@@ -3744,6 +3854,7 @@
   },
   {
    "word": "Dimple",
+   "description": "Face feature • Cheek dent • Cute smiles • Inherited • Small hollow • Appears when smiling",
    "hints": [
     {
      "text": "Face feature",
@@ -3778,6 +3889,7 @@
   },
   {
    "word": "Wrinkle",
+   "description": "Skin line • Aging sign • Laugh lines • Anti aging creams • Creases • Around the eyes",
    "hints": [
     {
      "text": "Skin line",
@@ -3812,6 +3924,7 @@
   },
   {
    "word": "Mole",
+   "description": "Skin spot • Dark mark • Checked by doctors • Beauty mark • Brown dot • Raised or flat",
    "hints": [
     {
      "text": "Skin spot",
@@ -3846,6 +3959,7 @@
   },
   {
    "word": "Wart",
+   "description": "Skin growth • Bumpy spot • Witches noses • Frozen off • Rough bump • Viral cause",
    "hints": [
     {
      "text": "Skin growth",
@@ -3880,6 +3994,7 @@
   },
   {
    "word": "Callus",
+   "description": "Hard skin • Thick patch • Guitar players • Manual work • Rough toughened spot • Fingertips or feet",
    "hints": [
     {
      "text": "Hard skin",
@@ -3914,6 +4029,7 @@
   },
   {
    "word": "Earwax",
+   "description": "Ear secretion • Ear gunk • Cotton buds • Protects ears • Yellowish • Sticky",
    "hints": [
     {
      "text": "Ear secretion",
@@ -3948,6 +4064,7 @@
   },
   {
    "word": "Dandruff",
+   "description": "Scalp flakes • Hair problem • Special shampoo • Dark shoulders show it • White flakes • Itchy scalp",
    "hints": [
     {
      "text": "Scalp flakes",
@@ -3982,6 +4099,7 @@
   },
   {
    "word": "Lice",
+   "description": "Hair pests • Head bugs • School outbreaks • Fine combs • Tiny insects • Nits",
    "hints": [
     {
      "text": "Hair pests",
@@ -4016,6 +4134,7 @@
   },
   {
    "word": "Burp",
+   "description": "Body sound • Gas release • After fizzy drinks • Babies need it • Loud from mouth • Excuse me",
    "hints": [
     {
      "text": "Body sound",
@@ -4050,6 +4169,7 @@
   },
   {
    "word": "Appetite",
+   "description": "Hunger feeling • Desire to eat • Grows with exercise • Lost when sick • Rumbling tummy • Craving",
    "hints": [
     {
      "text": "Hunger feeling",
@@ -4084,6 +4204,7 @@
   },
   {
    "word": "Thirst",
+   "description": "Body need • Desire to drink • Hot days • Dry mouth • Craving water • Parched",
    "hints": [
     {
      "text": "Body need",
@@ -4118,6 +4239,7 @@
   },
   {
    "word": "Fatigue",
+   "description": "Tiredness • Low energy • After long days • Needs rest • Heavy eyelids • Sluggish",
    "hints": [
     {
      "text": "Tiredness",
@@ -4152,6 +4274,7 @@
   },
   {
    "word": "Stress",
+   "description": "Mental strain • Pressure • Deadlines • Exams • Tension headaches • Racing thoughts",
    "hints": [
     {
      "text": "Mental strain",
@@ -4186,6 +4309,7 @@
   },
   {
    "word": "Anxiety",
+   "description": "Worry • Nervous feeling • Before exams • Panic • Racing heart • Restless",
    "hints": [
     {
      "text": "Worry",
@@ -4220,6 +4344,7 @@
   },
   {
    "word": "Laughter",
+   "description": "Joyful sound • Happy reaction • Best medicine • Contagious • Belly laughs • Giggles",
    "hints": [
     {
      "text": "Joyful sound",
@@ -4254,6 +4379,7 @@
   },
   {
    "word": "Tickle",
+   "description": "Light touch • Giggle trigger • Feet and armpits • Siblings tease • Wiggly fingers • Squirming",
    "hints": [
     {
      "text": "Light touch",
@@ -4288,6 +4414,7 @@
   },
   {
    "word": "Itch",
+   "description": "Skin feeling • Urge to scratch • Mosquito bites • Wool sweaters • Scratching • Irritated skin",
    "hints": [
     {
      "text": "Skin feeling",
@@ -4322,6 +4449,7 @@
   },
   {
    "word": "Puberty",
+   "description": "Life stage • Teen changes • Growth spurts • Voice cracks • Hormones • Body changes",
    "hints": [
     {
      "text": "Life stage",
@@ -4356,6 +4484,7 @@
   },
   {
    "word": "Pregnancy",
+   "description": "Life stage • Expecting baby • Baby bump • Cravings • Nine months • Ultrasound scans",
    "hints": [
     {
      "text": "Life stage",
@@ -4390,6 +4519,7 @@
   },
   {
    "word": "Old age",
+   "description": "Life stage • Senior years • Retirement • Grandchildren • Grey hair • Walking stick",
    "hints": [
     {
      "text": "Life stage",
@@ -4424,6 +4554,7 @@
   },
   {
    "word": "Childhood",
+   "description": "Life stage • Early years • Playgrounds • Bedtime stories • Toys and school • Growing up",
    "hints": [
     {
      "text": "Life stage",
@@ -4458,6 +4589,7 @@
   },
   {
    "word": "Physiotherapy",
+   "description": "Treatment • Rehab sessions • After injuries • Exercise plans • Stretching bands • Massage tables",
    "hints": [
     {
      "text": "Treatment",
@@ -4492,6 +4624,7 @@
   },
   {
    "word": "Acupuncture",
+   "description": "Alternative therapy • Needle treatment • Ancient chinese medicine • Pain relief • Thin needles • Pressure points",
    "hints": [
     {
      "text": "Alternative therapy",
@@ -4526,6 +4659,7 @@
   },
   {
    "word": "Therapy",
+   "description": "Treatment • Counseling • Talking it out • Weekly sessions • Couch and notepad • Therapist",
    "hints": [
     {
      "text": "Treatment",
@@ -4560,6 +4694,7 @@
   },
   {
    "word": "Pharmacy",
+   "description": "Medicine shop • Chemist • Prescriptions filled • Cough syrup • Pill bottles • Counter",
    "hints": [
     {
      "text": "Medicine shop",
@@ -4594,6 +4729,7 @@
   },
   {
    "word": "Ward",
+   "description": "Hospital room • Patient area • Visiting hours • Rows of beds • Curtains around beds • Nurses station",
    "hints": [
     {
      "text": "Hospital room",
@@ -4628,6 +4764,7 @@
   },
   {
    "word": "Waiting room",
+   "description": "Clinic area • Lobby • Old magazines • Name called • Rows of chairs • Reception desk",
    "hints": [
     {
      "text": "Clinic area",
@@ -4662,6 +4799,7 @@
   },
   {
    "word": "Blood pressure",
+   "description": "Vital sign • Circulation measure • Cuff on arm • High or low • Two numbers • Squeezing band",
    "hints": [
     {
      "text": "Vital sign",
@@ -4696,6 +4834,7 @@
   },
   {
    "word": "Blood test",
+   "description": "Medical check • Lab check • Fasting before • Needle prick • Labeled vials • Lab results",
    "hints": [
     {
      "text": "Medical check",
@@ -4730,6 +4869,7 @@
   },
   {
    "word": "Eye test",
+   "description": "Vision exam • Optician check • Read the chart • New glasses • Covering one side • Rows shrink",
    "hints": [
     {
      "text": "Vision exam",
@@ -4764,6 +4904,7 @@
   },
   {
    "word": "Hearing test",
+   "description": "Ear exam • Audiology check • Beeping sounds • Raise your hand • Headphones on • Soundproof booth",
    "hints": [
     {
      "text": "Ear exam",
@@ -4798,6 +4939,7 @@
   },
   {
    "word": "Plaster",
+   "description": "Wound cover • Sticky strip • Small cuts • Kids cartoon prints • Adhesive edges • Padded middle",
    "hints": [
     {
      "text": "Wound cover",
@@ -4832,6 +4974,7 @@
   },
   {
    "word": "Sling",
+   "description": "Arm support • Fabric hammock • Broken arm • Shoulder injury • Tied around neck • Cradles arm",
    "hints": [
     {
      "text": "Arm support",
@@ -4866,6 +5009,7 @@
   },
   {
    "word": "Splint",
+   "description": "Medical support • Rigid brace • First aid for fractures • Finger injuries • Stiff strip • Taped on",
    "hints": [
     {
      "text": "Medical support",
@@ -4900,6 +5044,7 @@
   },
   {
    "word": "Ointment",
+   "description": "Medical cream • Skin salve • Rashes and burns • Rubbed in • Greasy cream • Small tube",
    "hints": [
     {
      "text": "Medical cream",
@@ -4934,6 +5079,7 @@
   },
   {
    "word": "Cough syrup",
+   "description": "Liquid medicine • Throat remedy • Bedtime dose • Bad taste • Sticky spoonful • Cherry flavor",
    "hints": [
     {
      "text": "Liquid medicine",
@@ -4968,6 +5114,7 @@
   },
   {
    "word": "Lozenge",
+   "description": "Throat sweet • Medicated candy • Sore throats • Sucked slowly • Menthol taste • Wrapped drops",
    "hints": [
     {
      "text": "Throat sweet",
@@ -5002,6 +5149,7 @@
   },
   {
    "word": "Appendix",
+   "description": "Small organ • Body mystery • Can burst suddenly • Often removed • Tiny pouch • Lower right belly",
    "hints": [
     {
      "text": "Small organ",
@@ -5036,6 +5184,7 @@
   },
   {
    "word": "Tonsils",
+   "description": "Throat tissue • Glands • Removed in childhood • Sore when infected • Back of throat • Swell up",
    "hints": [
     {
      "text": "Throat tissue",
@@ -5070,6 +5219,7 @@
   },
   {
    "word": "Ribcage",
+   "description": "Bone structure • Chest shield • Protects the heart • Breathing room • Curved bones • Sternum front",
    "hints": [
     {
      "text": "Bone structure",
@@ -5104,6 +5254,7 @@
   },
   {
    "word": "Pelvis",
+   "description": "Bone structure • Hip bones • Supports the spine • Childbirth canal • Bowl shaped • Hip sockets",
    "hints": [
     {
      "text": "Bone structure",
@@ -5138,6 +5289,7 @@
   },
   {
    "word": "Diaphragm",
+   "description": "Breathing muscle • Chest muscle • Causes hiccups • Singers train it • Dome shaped • Under the lungs",
    "hints": [
     {
      "text": "Breathing muscle",
@@ -5172,6 +5324,7 @@
   },
   {
    "word": "Eardrum",
+   "description": "Ear part • Hearing membrane • Pops on planes • Loud music damages • Thin skin layer • Vibrates",
    "hints": [
     {
      "text": "Ear part",

@@ -4,6 +4,7 @@
  "words": [
   {
    "word": "Dragon",
+   "description": "Mythical beast • Legendary monster • Hoards gold • Knights fight it • Breathes fire • Scaly wings",
    "hints": [
     {
      "text": "Mythical beast",
@@ -38,6 +39,7 @@
   },
   {
    "word": "Unicorn",
+   "description": "Mythical horse • Magical creature • Symbol of purity • Rainbow fantasies • Single horn • White coat",
    "hints": [
     {
      "text": "Mythical horse",
@@ -72,6 +74,7 @@
   },
   {
    "word": "Phoenix",
+   "description": "Mythical bird • Fire creature • Rises from ashes • Symbol of rebirth • Flaming feathers • Reborn eternally",
    "hints": [
     {
      "text": "Mythical bird",
@@ -106,6 +109,7 @@
   },
   {
    "word": "Griffin",
+   "description": "Mythical beast • Hybrid creature • Guards treasure • Heraldry symbol • Eagle head • Lion body",
    "hints": [
     {
      "text": "Mythical beast",
@@ -140,6 +144,7 @@
   },
   {
    "word": "Mermaid",
+   "description": "Sea creature • Mythical maiden • Lures sailors • Sings on rocks • Fish tail • Long flowing hair",
    "hints": [
     {
      "text": "Sea creature",
@@ -174,6 +179,7 @@
   },
   {
    "word": "Centaur",
+   "description": "Mythical hybrid • Greek creature • Skilled archers • Wise teachers • Horse body • Human torso",
    "hints": [
     {
      "text": "Mythical hybrid",
@@ -208,6 +214,7 @@
   },
   {
    "word": "Minotaur",
+   "description": "Greek monster • Hybrid beast • Lives in a labyrinth • Eats tributes • Bull head • Human body",
    "hints": [
     {
      "text": "Greek monster",
@@ -242,6 +249,7 @@
   },
   {
    "word": "Cyclops",
+   "description": "Greek giant • One eyed monster • Blinded by a hero • Forges thunderbolts • Single eye • Huge and strong",
    "hints": [
     {
      "text": "Greek giant",
@@ -276,6 +284,7 @@
   },
   {
    "word": "Hydra",
+   "description": "Greek monster • Serpent beast • Heads grow back • Hero's labor • Many heads • Poisonous breath",
    "hints": [
     {
      "text": "Greek monster",
@@ -310,6 +319,7 @@
   },
   {
    "word": "Kraken",
+   "description": "Sea monster • Giant beast • Sinks ships • Sailor legends • Huge tentacles • Lurks in deep",
    "hints": [
     {
      "text": "Sea monster",
@@ -344,6 +354,7 @@
   },
   {
    "word": "Yeti",
+   "description": "Snow creature • Cryptid • Himalayan legend • Abominable snowman • White fur • Giant footprints",
    "hints": [
     {
      "text": "Snow creature",
@@ -378,6 +389,7 @@
   },
   {
    "word": "Bigfoot",
+   "description": "Forest cryptid • Hairy giant • Blurry photos • Hikers claim sightings • Huge footprints • Ape like",
    "hints": [
     {
      "text": "Forest cryptid",
@@ -412,6 +424,7 @@
   },
   {
    "word": "Vampire",
+   "description": "Undead creature • Night stalker • Sleeps in coffins • Hates garlic • Sharp fangs • No reflection",
    "hints": [
     {
      "text": "Undead creature",
@@ -446,6 +459,7 @@
   },
   {
    "word": "Werewolf",
+   "description": "Shapeshifter • Night creature • Full moon transformation • Silver bullets • Howls • Hairy beast",
    "hints": [
     {
      "text": "Shapeshifter",
@@ -480,6 +494,7 @@
   },
   {
    "word": "Ghost",
+   "description": "Spirit • Haunting presence • Haunted houses • Moans at night • See through • White sheet",
    "hints": [
     {
      "text": "Spirit",
@@ -514,6 +529,7 @@
   },
   {
    "word": "Zombie",
+   "description": "Undead creature • Walking dead • Apocalypse stories • Craves brains • Shambling walk • Rotting flesh",
    "hints": [
     {
      "text": "Undead creature",
@@ -548,6 +564,7 @@
   },
   {
    "word": "Mummy",
+   "description": "Undead creature • Ancient corpse • Egyptian tombs • Pharaoh's curse • Wrapped in bandages • Shuffling",
    "hints": [
     {
      "text": "Undead creature",
@@ -582,6 +599,7 @@
   },
   {
    "word": "Goblin",
+   "description": "Small monster • Mischievous creature • Lives in caves • Steals things • Green skin • Pointy ears",
    "hints": [
     {
      "text": "Small monster",
@@ -616,6 +634,7 @@
   },
   {
    "word": "Troll",
+   "description": "Mythical brute • Bridge dweller • Demands tolls • Turns to stone • Huge and ugly • Lives under bridges",
    "hints": [
     {
      "text": "Mythical brute",
@@ -650,6 +669,7 @@
   },
   {
    "word": "Ogre",
+   "description": "Giant brute • Fairy tale monster • Eats people • Lives in swamps • Huge and smelly • Club wielding",
    "hints": [
     {
      "text": "Giant brute",
@@ -684,6 +704,7 @@
   },
   {
    "word": "Elf",
+   "description": "Magical being • Woodland folk • Santa's helpers • Archers in fantasy • Pointy ears • Long life",
    "hints": [
     {
      "text": "Magical being",
@@ -718,6 +739,7 @@
   },
   {
    "word": "Dwarf",
+   "description": "Mythical miner • Short folk • Mine for gems • Forge weapons • Long beard • Pickaxe",
    "hints": [
     {
      "text": "Mythical miner",
@@ -752,6 +774,7 @@
   },
   {
    "word": "Fairy",
+   "description": "Magical being • Tiny sprite • Grants wishes • Lives in gardens • Glittering wings • Magic wand",
    "hints": [
     {
      "text": "Magical being",
@@ -786,6 +809,7 @@
   },
   {
    "word": "Pixie",
+   "description": "Magical sprite • Tiny folk • Mischief makers • Sparkly dust • Pointed hats • Tiny wings",
    "hints": [
     {
      "text": "Magical sprite",
@@ -820,6 +844,7 @@
   },
   {
    "word": "Gnome",
+   "description": "Garden folk • Earth spirit • Garden statues • Guards treasure • Pointy red hat • White beard",
    "hints": [
     {
      "text": "Garden folk",
@@ -854,6 +879,7 @@
   },
   {
    "word": "Leprechaun",
+   "description": "Irish fairy • Tiny cobbler • Pot of gold • Lucky charms • Green suit • Buckled hat",
    "hints": [
     {
      "text": "Irish fairy",
@@ -888,6 +914,7 @@
   },
   {
    "word": "Sphinx",
+   "description": "Mythical riddler • Hybrid guardian • Asks riddles • Guards pyramids • Lion body • Human head",
    "hints": [
     {
      "text": "Mythical riddler",
@@ -922,6 +949,7 @@
   },
   {
    "word": "Pegasus",
+   "description": "Winged horse • Greek creature • Born from a gorgon • Flies heroes • Feathered wings • White stallion",
    "hints": [
     {
      "text": "Winged horse",
@@ -956,6 +984,7 @@
   },
   {
    "word": "Chimera",
+   "description": "Greek monster • Hybrid beast • Breathes fire • Slain by a hero • Lion goat serpent • Three heads",
    "hints": [
     {
      "text": "Greek monster",
@@ -990,6 +1019,7 @@
   },
   {
    "word": "Basilisk",
+   "description": "Serpent king • Deadly reptile • Deadly gaze • Petrifies victims • Crowned serpent • Venomous",
    "hints": [
     {
      "text": "Serpent king",
@@ -1024,6 +1054,7 @@
   },
   {
    "word": "Cockatrice",
+   "description": "Mythical beast • Rooster serpent • Hatched from egg • Deadly gaze • Rooster head • Serpent tail",
    "hints": [
     {
      "text": "Mythical beast",
@@ -1058,6 +1089,7 @@
   },
   {
    "word": "Wyvern",
+   "description": "Dragon kin • Winged reptile • Heraldry beast • Medieval legend • Two legs • Barbed tail",
    "hints": [
     {
      "text": "Dragon kin",
@@ -1092,6 +1124,7 @@
   },
   {
    "word": "Manticore",
+   "description": "Persian monster • Hybrid beast • Man eater • Shoots spikes • Lion body • Scorpion tail",
    "hints": [
     {
      "text": "Persian monster",
@@ -1126,6 +1159,7 @@
   },
   {
    "word": "Harpy",
+   "description": "Greek monster • Bird woman • Snatches food • Storm spirits • Woman face • Bird body",
    "hints": [
     {
      "text": "Greek monster",
@@ -1160,6 +1194,7 @@
   },
   {
    "word": "Siren",
+   "description": "Sea enchantress • Greek creature • Lures sailors • Deadly songs • Beautiful voice • Rocky islands",
    "hints": [
     {
      "text": "Sea enchantress",
@@ -1194,6 +1229,7 @@
   },
   {
    "word": "Gorgon",
+   "description": "Greek monster • Snake haired woman • Turns people to stone • Slain by a hero • Snakes for hair • Deadly gaze",
    "hints": [
     {
      "text": "Greek monster",
@@ -1228,6 +1264,7 @@
   },
   {
    "word": "Cerberus",
+   "description": "Greek hound • Underworld guard • Guards the dead • Lulled by music • Three heads • Serpent tail",
    "hints": [
     {
      "text": "Greek hound",
@@ -1262,6 +1299,7 @@
   },
   {
    "word": "Satyr",
+   "description": "Greek creature • Woodland spirit • Loves music and parties • Follows revelry god • Goat legs • Small horns",
    "hints": [
     {
      "text": "Greek creature",
@@ -1296,6 +1334,7 @@
   },
   {
    "word": "Faun",
+   "description": "Roman spirit • Forest creature • Plays pipes • Gentle woodland dweller • Goat legs • Curly horns",
    "hints": [
     {
      "text": "Roman spirit",
@@ -1330,6 +1369,7 @@
   },
   {
    "word": "Nymph",
+   "description": "Nature spirit • Greek maiden • Lives in springs • Dances in woods • Beautiful maiden • Tied to nature",
    "hints": [
     {
      "text": "Nature spirit",
@@ -1364,6 +1404,7 @@
   },
   {
    "word": "Dryad",
+   "description": "Tree spirit • Forest nymph • Lives in oaks • Dies with tree • Bark skin • Leafy hair",
    "hints": [
     {
      "text": "Tree spirit",
@@ -1398,6 +1439,7 @@
   },
   {
    "word": "Selkie",
+   "description": "Sea creature • Shapeshifter • Celtic legend • Sheds seal skin • Seal form • Human form",
    "hints": [
     {
      "text": "Sea creature",
@@ -1432,6 +1474,7 @@
   },
   {
    "word": "Kelpie",
+   "description": "Water spirit • Shapeshifting horse • Scottish lochs • Drowns riders • Horse form • Dripping mane",
    "hints": [
     {
      "text": "Water spirit",
@@ -1466,6 +1509,7 @@
   },
   {
    "word": "Golem",
+   "description": "Clay giant • Animated statue • Jewish folklore • Guards a city • Made of clay • Word on forehead",
    "hints": [
     {
      "text": "Clay giant",
@@ -1500,6 +1544,7 @@
   },
   {
    "word": "Genie",
+   "description": "Magical spirit • Wish granter • Lives in a lamp • Three wishes • Smoke wisps • Rubbed lamp",
    "hints": [
     {
      "text": "Magical spirit",
@@ -1534,6 +1579,7 @@
   },
   {
    "word": "Kitsune",
+   "description": "Japanese spirit • Fox spirit • Shapeshifts into women • Trickster • Many tails • Glowing fur",
    "hints": [
     {
      "text": "Japanese spirit",
@@ -1568,6 +1614,7 @@
   },
   {
    "word": "Tengu",
+   "description": "Japanese spirit • Mountain goblin • Masters of martial arts • Mischief • Long nose • Red face",
    "hints": [
     {
      "text": "Japanese spirit",
@@ -1602,6 +1649,7 @@
   },
   {
    "word": "Kappa",
+   "description": "Japanese creature • River imp • Loves cucumbers • Drowns swimmers • Water dish on head • Turtle shell",
    "hints": [
     {
      "text": "Japanese creature",
@@ -1636,6 +1684,7 @@
   },
   {
    "word": "Oni",
+   "description": "Japanese demon • Ogre • Festival masks • Carries club • Red or blue skin • Horns",
    "hints": [
     {
      "text": "Japanese demon",
@@ -1670,6 +1719,7 @@
   },
   {
    "word": "Naga",
+   "description": "Serpent being • South asian deity • Guards treasures • Water realms • Cobra hood • Half snake",
    "hints": [
     {
      "text": "Serpent being",
@@ -1704,6 +1754,7 @@
   },
   {
    "word": "Garuda",
+   "description": "Bird deity • Hindu legend • Vishnu's mount • Enemy of serpents • Eagle like • Golden wings",
    "hints": [
     {
      "text": "Bird deity",
@@ -1738,6 +1789,7 @@
   },
   {
    "word": "Wendigo",
+   "description": "Cryptid • Cannibal spirit • North woods legend • Endless hunger • Antlered skull • Gaunt body",
    "hints": [
     {
      "text": "Cryptid",
@@ -1772,6 +1824,7 @@
   },
   {
    "word": "Chupacabra",
+   "description": "Cryptid • Blood drinker • Latin american legend • Livestock attacks • Spiky back • Glowing eyes",
    "hints": [
     {
      "text": "Cryptid",
@@ -1806,6 +1859,7 @@
   },
   {
    "word": "Mothman",
+   "description": "Cryptid • Winged humanoid • West virginia legend • Bridge sighting • Glowing red eyes • Large wings",
    "hints": [
     {
      "text": "Cryptid",
@@ -1840,6 +1894,7 @@
   },
   {
    "word": "Jackalope",
+   "description": "Cryptid • Joke creature • Postcard prank • Wild west tall tale • Rabbit body • Antlers",
    "hints": [
     {
      "text": "Cryptid",
@@ -1874,6 +1929,7 @@
   },
   {
    "word": "Thunderbird",
+   "description": "Mythical flyer • Native american legend • Creates storms • Totem poles • Giant wings • Lightning eyes",
    "hints": [
     {
      "text": "Mythical flyer",
@@ -1908,6 +1964,7 @@
   },
   {
    "word": "Roc",
+   "description": "Giant bird • Arabian legend • Carries elephants • Sailor tales • Enormous wingspan • Huge eggs",
    "hints": [
     {
      "text": "Giant bird",
@@ -1942,6 +1999,7 @@
   },
   {
    "word": "Hippogriff",
+   "description": "Mythical beast • Hybrid flyer • Bow before riding • Fantasy steed • Eagle front • Horse back",
    "hints": [
     {
      "text": "Mythical beast",
@@ -1976,6 +2034,7 @@
   },
   {
    "word": "Kirin",
+   "description": "Asian beast • Auspicious creature • Appears for wise rulers • Gentle • Dragon scales • Deer body",
    "hints": [
     {
      "text": "Asian beast",
@@ -2010,6 +2069,7 @@
   },
   {
    "word": "Banshee",
+   "description": "Irish spirit • Wailing woman • Wails before death • Omen • Piercing scream • Ghostly figure",
    "hints": [
     {
      "text": "Irish spirit",
@@ -2044,6 +2104,7 @@
   },
   {
    "word": "Wraith",
+   "description": "Ghostly being • Spectral figure • Dark fantasy villain • Drains life • Shadowy form • Hooded cloak",
    "hints": [
     {
      "text": "Ghostly being",
@@ -2078,6 +2139,7 @@
   },
   {
    "word": "Poltergeist",
+   "description": "Noisy ghost • Haunting spirit • Throws objects • Bangs in night • Flying furniture • Unseen force",
    "hints": [
     {
      "text": "Noisy ghost",
@@ -2112,6 +2174,7 @@
   },
   {
    "word": "Ghoul",
+   "description": "Undead creature • Grave robber • Feeds on corpses • Lurks in cemeteries • Pale skin • Sharp claws",
    "hints": [
     {
      "text": "Undead creature",
@@ -2146,6 +2209,7 @@
   },
   {
    "word": "Imp",
+   "description": "Small demon • Mischievous creature • Plays pranks • Pesky helper • Tiny horns • Bat wings",
    "hints": [
     {
      "text": "Small demon",
@@ -2180,6 +2244,7 @@
   },
   {
    "word": "Gremlin",
+   "description": "Mischievous creature • Machine wrecker • Pilots blamed them • Breaks gadgets • Pointy ears • Grinning teeth",
    "hints": [
     {
      "text": "Mischievous creature",
@@ -2214,6 +2279,7 @@
   },
   {
    "word": "Hobgoblin",
+   "description": "Household spirit • Puckish kin • Helpful or tricky • English folklore • Small and hairy • Mischievous grin",
    "hints": [
     {
      "text": "Household spirit",
@@ -2248,6 +2314,7 @@
   },
   {
    "word": "Brownie",
+   "description": "Household spirit • Helpful fairy • Does chores at night • Leave out milk • Tiny and shaggy • Shy helper",
    "hints": [
     {
      "text": "Household spirit",
@@ -2282,6 +2349,7 @@
   },
   {
    "word": "Boggart",
+   "description": "Household spirit • Shapeshifter • English folklore • Scares children • Takes feared forms • Hides in closets",
    "hints": [
     {
      "text": "Household spirit",
@@ -2316,6 +2384,7 @@
   },
   {
    "word": "Bogeyman",
+   "description": "Scary figure • Child fright • Hides under beds • Behave warning • Shadowy shape • Lurks in closets",
    "hints": [
     {
      "text": "Scary figure",
@@ -2350,6 +2419,7 @@
   },
   {
    "word": "Sandman",
+   "description": "Sleep spirit • Folklore figure • Brings dreams • Sprinkles sleepy dust • Sack of dust • Night visitor",
    "hints": [
     {
      "text": "Sleep spirit",
@@ -2384,6 +2454,7 @@
   },
   {
    "word": "Tooth fairy",
+   "description": "Childhood spirit • Night visitor • Swaps teeth for coins • Under pillows • Tiny wings • Collects baby teeth",
    "hints": [
     {
      "text": "Childhood spirit",
@@ -2418,6 +2489,7 @@
   },
   {
    "word": "Kobold",
+   "description": "Household sprite • German goblin • Mines and kitchens • Mischief • Small and sneaky • Glowing eyes",
    "hints": [
     {
      "text": "Household sprite",
@@ -2452,6 +2524,7 @@
   },
   {
    "word": "Nixie",
+   "description": "Water sprite • Shapeshifter • Lures to rivers • Germanic legend • Lives in rivers • Plays music",
    "hints": [
     {
      "text": "Water sprite",
@@ -2486,6 +2559,7 @@
   },
   {
    "word": "Sprite",
+   "description": "Small spirit • Elemental being • Woodland mischief • Quick and light • Tiny glowing figure • Airy",
    "hints": [
     {
      "text": "Small spirit",
@@ -2520,6 +2594,7 @@
   },
   {
    "word": "Specter",
+   "description": "Ghostly figure • Apparition • Haunts castles • Chilling presence • Transparent form • Cold air",
    "hints": [
     {
      "text": "Ghostly figure",
@@ -2554,6 +2629,7 @@
   },
   {
    "word": "Phantom",
+   "description": "Ghostly figure • Apparition • Opera legend • Vanishes suddenly • Masked face • Shadowy",
    "hints": [
     {
      "text": "Ghostly figure",
@@ -2588,6 +2664,7 @@
   },
   {
    "word": "Lich",
+   "description": "Undead sorcerer • Dark wizard • Seeks immortality • Fantasy villain • Skeletal mage • Hidden soul jar",
    "hints": [
     {
      "text": "Undead sorcerer",
@@ -2622,6 +2699,7 @@
   },
   {
    "word": "Revenant",
+   "description": "Undead returner • Vengeful corpse • Returns for revenge • Medieval legend • Decayed figure • Unfinished business",
    "hints": [
     {
      "text": "Undead returner",
@@ -2656,6 +2734,7 @@
   },
   {
    "word": "Dullahan",
+   "description": "Irish spirit • Headless rider • Omen of death • Black horse • Carries own head • Whip of spine",
    "hints": [
     {
      "text": "Irish spirit",
@@ -2690,6 +2769,7 @@
   },
   {
    "word": "Lamia",
+   "description": "Greek monster • Serpent woman • Devours children • Ancient legend • Snake lower body • Woman upper",
    "hints": [
     {
      "text": "Greek monster",
@@ -2724,6 +2804,7 @@
   },
   {
    "word": "Sea serpent",
+   "description": "Ocean monster • Giant snake • Sailor sightings • Ancient maps • Coiling body • Rises from waves",
    "hints": [
     {
      "text": "Ocean monster",
@@ -2758,6 +2839,7 @@
   },
   {
    "word": "Leviathan",
+   "description": "Sea monster • Biblical beast • Ocean chaos • Ancient scripture • Colossal size • Scaly coils",
    "hints": [
     {
      "text": "Sea monster",
@@ -2792,6 +2874,7 @@
   },
   {
    "word": "Behemoth",
+   "description": "Land monster • Biblical beast • Ancient scripture • Unstoppable • Colossal size • Mighty tail",
    "hints": [
     {
      "text": "Land monster",
@@ -2826,6 +2909,7 @@
   },
   {
    "word": "Nessie",
+   "description": "Lake monster • Scottish cryptid • Blurry photos • Tourist legend • Long neck • Humps in water",
    "hints": [
     {
      "text": "Lake monster",
@@ -2860,6 +2944,7 @@
   },
   {
    "word": "Hellhound",
+   "description": "Demonic dog • Underworld beast • Hunts souls • Omen of death • Fiery eyes • Black fur",
    "hints": [
     {
      "text": "Demonic dog",
@@ -2894,6 +2979,7 @@
   },
   {
    "word": "Fenrir",
+   "description": "Norse wolf • Giant beast • Bound by gods • Swallows the sun • Enormous wolf • Broken chains",
    "hints": [
     {
      "text": "Norse wolf",
@@ -2928,6 +3014,7 @@
   },
   {
    "word": "Valkyrie",
+   "description": "Norse warrior maiden • Battle spirit • Chooses the fallen • Rides to hall • Winged helmet • Flying horse",
    "hints": [
     {
      "text": "Norse warrior maiden",
@@ -2962,6 +3049,7 @@
   },
   {
    "word": "Titan",
+   "description": "Greek giant • Primordial god • Before the olympians • Overthrown • Colossal size • Ancient power",
    "hints": [
     {
      "text": "Greek giant",
@@ -2996,6 +3084,7 @@
   },
   {
    "word": "Giant",
+   "description": "Huge being • Fairy tale figure • Beanstalk story • Fee fi fo fum • Towering height • Stomps",
    "hints": [
     {
      "text": "Huge being",
@@ -3030,6 +3119,7 @@
   },
   {
    "word": "Angel",
+   "description": "Heavenly being • Divine messenger • Guardian protector • Christmas tree topper • Feathered wings • Halo",
    "hints": [
     {
      "text": "Heavenly being",
@@ -3064,6 +3154,7 @@
   },
   {
    "word": "Cherub",
+   "description": "Winged child • Heavenly being • Valentine imagery • Church paintings • Chubby baby • Tiny wings",
    "hints": [
     {
      "text": "Winged child",
@@ -3098,6 +3189,7 @@
   },
   {
    "word": "Demon",
+   "description": "Evil spirit • Underworld being • Possession stories • Exorcisms • Horns and tail • Red eyes",
    "hints": [
     {
      "text": "Evil spirit",
@@ -3132,6 +3224,7 @@
   },
   {
    "word": "Gargoyle",
+   "description": "Stone creature • Cathedral guardian • Comes alive at night • Gothic buildings • Winged statue • Water spout",
    "hints": [
     {
      "text": "Stone creature",
@@ -3166,6 +3259,7 @@
   },
   {
    "word": "Shapeshifter",
+   "description": "Transforming being • Mythical changer • Mimics others • Folklore across cultures • Changes form • Hidden identity",
    "hints": [
     {
      "text": "Transforming being",
@@ -3200,6 +3294,7 @@
   },
   {
    "word": "Changeling",
+   "description": "Fairy child • Swapped baby • Left by fairies • Irish folklore • Strange behavior • Looks like a child",
    "hints": [
     {
      "text": "Fairy child",
@@ -3234,6 +3329,7 @@
   },
   {
    "word": "Doppelganger",
+   "description": "Ghostly double • Look alike • Bad omen • Meeting yourself • Identical twin • Spooky copy",
    "hints": [
     {
      "text": "Ghostly double",
@@ -3268,6 +3364,7 @@
   },
   {
    "word": "Skinwalker",
+   "description": "Shapeshifter • Navajo legend • Wears animal skins • Night terror • Eerie howls • Walks upright",
    "hints": [
     {
      "text": "Shapeshifter",
@@ -3302,6 +3399,7 @@
   },
   {
    "word": "Rakshasa",
+   "description": "Hindu demon • Shapeshifter • Epic villains • Man eater • Fangs and claws • Many forms",
    "hints": [
     {
      "text": "Hindu demon",
@@ -3336,6 +3434,7 @@
   },
   {
    "word": "Vetala",
+   "description": "Hindu spirit • Corpse dweller • Riddles a king • Lives in cemeteries • Hangs from trees • Possesses bodies",
    "hints": [
     {
      "text": "Hindu spirit",
@@ -3370,6 +3469,7 @@
   },
   {
    "word": "Yaksha",
+   "description": "Nature spirit • Treasure guardian • Hindu and buddhist lore • Guards wealth • Stout figure • Temple carvings",
    "hints": [
     {
      "text": "Nature spirit",
@@ -3404,6 +3504,7 @@
   },
   {
    "word": "Apsara",
+   "description": "Celestial dancer • Heavenly nymph • Temple carvings • Divine courts • Graceful dancer • Jeweled crown",
    "hints": [
     {
      "text": "Celestial dancer",
@@ -3438,6 +3539,7 @@
   },
   {
    "word": "Makara",
+   "description": "Sea creature • Hindu beast • River goddess mount • Temple gates • Crocodile body • Elephant snout",
    "hints": [
     {
      "text": "Sea creature",
@@ -3472,6 +3574,7 @@
   },
   {
    "word": "Kinnara",
+   "description": "Celestial musician • Half bird being • Buddhist art • Heavenly songs • Human torso • Bird legs",
    "hints": [
     {
      "text": "Celestial musician",
@@ -3506,6 +3609,7 @@
   },
   {
    "word": "Asura",
+   "description": "Demon race • Power seekers • Fight the devas • Hindu epics • Many arms • Fierce faces",
    "hints": [
     {
      "text": "Demon race",
@@ -3540,6 +3644,7 @@
   },
   {
    "word": "Djinn",
+   "description": "Spirit being • Arabian legend • Made of smokeless fire • Grants wishes • Bound to lamps • Invisible",
    "hints": [
     {
      "text": "Spirit being",
@@ -3574,6 +3679,7 @@
   },
   {
    "word": "Ifrit",
+   "description": "Fire spirit • Arabian demon • Powerful djinn class • Feared • Flaming body • Smoky wings",
    "hints": [
     {
      "text": "Fire spirit",
@@ -3608,6 +3714,7 @@
   },
   {
    "word": "Bunyip",
+   "description": "Australian cryptid • Swamp monster • Aboriginal legend • Lurks in billabongs • Booming cry • Furry body",
    "hints": [
     {
      "text": "Australian cryptid",
@@ -3642,6 +3749,7 @@
   },
   {
    "word": "Yowie",
+   "description": "Australian cryptid • Hairy giant • Outback sightings • Blurry photos • Ape like • Big footprints",
    "hints": [
     {
      "text": "Australian cryptid",
@@ -3676,6 +3784,7 @@
   },
   {
    "word": "Tikbalang",
+   "description": "Filipino creature • Trickster • Leads travelers astray • Forest dweller • Horse head • Long limbs",
    "hints": [
     {
      "text": "Filipino creature",
@@ -3710,6 +3819,7 @@
   },
   {
    "word": "Aswang",
+   "description": "Filipino monster • Shapeshifter • Night terror • Village legend • Long tongue • Flying torso",
    "hints": [
     {
      "text": "Filipino monster",
@@ -3744,6 +3854,7 @@
   },
   {
    "word": "Baku",
+   "description": "Dream eater • Japanese spirit • Eats nightmares • Pillow charm • Elephant trunk • Tiger paws",
    "hints": [
     {
      "text": "Dream eater",
@@ -3778,6 +3889,7 @@
   },
   {
    "word": "Tanuki",
+   "description": "Japanese creature • Raccoon dog spirit • Shapeshifting trickster • Statues outside shops • Big belly • Straw hat",
    "hints": [
     {
      "text": "Japanese creature",
@@ -3812,6 +3924,7 @@
   },
   {
    "word": "Rusalka",
+   "description": "Slavic spirit • Water maiden • Drowns young men • Haunts rivers • Pale maiden • Wet hair",
    "hints": [
     {
      "text": "Slavic spirit",
@@ -3846,6 +3959,7 @@
   },
   {
    "word": "Domovoi",
+   "description": "Slavic spirit • House guardian • Lives behind stove • Protects home • Small bearded man • Hairy",
    "hints": [
     {
      "text": "Slavic spirit",
@@ -3880,6 +3994,7 @@
   },
   {
    "word": "Firebird",
+   "description": "Slavic legend • Glowing creature • Russian fairy tales • Quest prize • Flaming plumage • Golden glow",
    "hints": [
     {
      "text": "Slavic legend",
@@ -3914,6 +4029,7 @@
   },
   {
    "word": "Baba yaga",
+   "description": "Slavic witch • Forest crone • Fairy tale villain • Eats children • Chicken leg hut • Flying mortar",
    "hints": [
     {
      "text": "Slavic witch",
@@ -3948,6 +4064,7 @@
   },
   {
    "word": "Zmey",
+   "description": "Slavic dragon • Multi headed beast • Russian epics • Kidnaps princesses • Three heads • Breathes fire",
    "hints": [
     {
      "text": "Slavic dragon",
@@ -3982,6 +4099,7 @@
   },
   {
    "word": "Alicorn",
+   "description": "Winged unicorn • Fantasy creature • Royal ponies • Ultimate magic • Horn and wings • Shimmering coat",
    "hints": [
     {
      "text": "Winged unicorn",
@@ -4016,6 +4134,7 @@
   },
   {
    "word": "Peryton",
+   "description": "Mythical beast • Deer bird • Casts human shadow • Atlantis myth • Stag body • Bird wings",
    "hints": [
     {
      "text": "Mythical beast",
@@ -4050,6 +4169,7 @@
   },
   {
    "word": "Amphisbaena",
+   "description": "Serpent beast • Two headed snake • Ancient bestiary • Rolls like hoop • Head at each end • Glowing eyes",
    "hints": [
     {
      "text": "Serpent beast",
@@ -4084,6 +4204,7 @@
   },
   {
    "word": "Ouroboros",
+   "description": "Serpent symbol • Endless loop • Eternity sign • Alchemy emblem • Eats own tail • Circular",
    "hints": [
     {
      "text": "Serpent symbol",
@@ -4118,6 +4239,7 @@
   },
   {
    "word": "Hippocamp",
+   "description": "Sea horse beast • Greek creature • Pulls sea god chariot • Fountains • Horse front • Fish tail",
    "hints": [
     {
      "text": "Sea horse beast",
@@ -4152,6 +4274,7 @@
   },
   {
    "word": "Triton",
+   "description": "Sea god • Merman • Blows conch shell • Calms waves • Fish tail • Trident",
    "hints": [
     {
      "text": "Sea god",
@@ -4186,6 +4309,7 @@
   },
   {
    "word": "Merman",
+   "description": "Sea creature • Male mermaid • Ocean kingdom • Fairy tales • Fish tail • Trident in hand",
    "hints": [
     {
      "text": "Sea creature",
@@ -4220,6 +4344,7 @@
   },
   {
    "word": "Ent",
+   "description": "Tree giant • Forest shepherd • Fantasy novel • Slow speaking • Bark skin • Walking tree",
    "hints": [
     {
      "text": "Tree giant",
@@ -4254,6 +4379,7 @@
   },
   {
    "word": "Treant",
+   "description": "Tree creature • Forest guardian • Fantasy games • Protects woods • Moving trunk • Branch arms",
    "hints": [
     {
      "text": "Tree creature",
@@ -4288,6 +4414,7 @@
   },
   {
    "word": "Wisp",
+   "description": "Ghost light • Marsh spirit • Leads travelers astray • Swamp glow • Floating flame • Flickering",
    "hints": [
     {
      "text": "Ghost light",
@@ -4322,6 +4449,7 @@
   },
   {
    "word": "Hag",
+   "description": "Old witch • Folklore crone • Curses villages • Fairy tale villain • Warty nose • Bent back",
    "hints": [
     {
      "text": "Old witch",
@@ -4356,6 +4484,7 @@
   },
   {
    "word": "Witch",
+   "description": "Magic user • Spell caster • Flies on broom • Brews potions • Pointy hat • Black cat",
    "hints": [
     {
      "text": "Magic user",
@@ -4390,6 +4519,7 @@
   },
   {
    "word": "Wizard",
+   "description": "Magic user • Spellcaster • Casts spells • Wise mentor • Long beard • Pointed hat",
    "hints": [
     {
      "text": "Magic user",
@@ -4424,6 +4554,7 @@
   },
   {
    "word": "Sorcerer",
+   "description": "Magic user • Dark mage • Commands spirits • Ancient tomes • Glowing staff • Dark robes",
    "hints": [
     {
      "text": "Magic user",
@@ -4458,6 +4589,7 @@
   },
   {
    "word": "Necromancer",
+   "description": "Dark magician • Death mage • Raises the dead • Graveyard rituals • Skull staff • Hooded robe",
    "hints": [
     {
      "text": "Dark magician",
@@ -4492,6 +4624,7 @@
   },
   {
    "word": "Grim reaper",
+   "description": "Death figure • Soul collector • Comes for souls • Hourglass • Black hooded cloak • Scythe",
    "hints": [
     {
      "text": "Death figure",
@@ -4526,6 +4659,7 @@
   },
   {
    "word": "Cupid",
+   "description": "Love god • Winged archer • Valentines day icon • Matchmaker • Bow and arrows • Chubby wings",
    "hints": [
     {
      "text": "Love god",
@@ -4560,6 +4694,7 @@
   },
   {
    "word": "Medusa",
+   "description": "Gorgon queen • Greek monster • Defeated by a hero • Cursed beauty • Snakes for hair • Stone gaze",
    "hints": [
     {
      "text": "Gorgon queen",
@@ -4594,6 +4729,7 @@
   },
   {
    "word": "Sasquatch",
+   "description": "Forest cryptid • Hairy giant • Pacific northwest • Hiker legends • Ape like • Big feet",
    "hints": [
     {
      "text": "Forest cryptid",
@@ -4628,6 +4764,7 @@
   },
   {
    "word": "Water kelpie",
+   "description": "Loch horse • Scottish spirit • Lures children • Lochs and rivers • Seaweed mane • Wet coat",
    "hints": [
     {
      "text": "Loch horse",
@@ -4662,6 +4799,7 @@
   },
   {
    "word": "Jersey devil",
+   "description": "Cryptid • Winged creature • Pine barrens legend • Thirteenth child • Hooves and wings • Forked tail",
    "hints": [
     {
      "text": "Cryptid",
@@ -4696,6 +4834,7 @@
   },
   {
    "word": "Wolpertinger",
+   "description": "Bavarian cryptid • Hybrid beast • Tourist joke • Taxidermy prank • Rabbit with wings • Antlers",
    "hints": [
     {
      "text": "Bavarian cryptid",
@@ -4730,6 +4869,7 @@
   },
   {
    "word": "Bigfoot cousin",
+   "description": "Cryptid kin • Hairy beast • Campfire tales • Blurry legend • Footprints in mud • Shaggy",
    "hints": [
     {
      "text": "Cryptid kin",
@@ -4764,6 +4904,7 @@
   },
   {
    "word": "Swamp monster",
+   "description": "Bog creature • Cryptid • Bayou legends • Horror films • Slimy green • Moss covered",
    "hints": [
     {
      "text": "Bog creature",
@@ -4798,6 +4939,7 @@
   },
   {
    "word": "Mandrake",
+   "description": "Magical plant • Folklore root • Screams when pulled • Potion ingredient • Human shaped root • Earmuffs needed",
    "hints": [
     {
      "text": "Magical plant",
@@ -4832,6 +4974,7 @@
   },
   {
    "word": "Homunculus",
+   "description": "Alchemy creature • Tiny artificial being • Made in flasks • Medieval alchemy • Miniature person • Grown in glass",
    "hints": [
     {
      "text": "Alchemy creature",
@@ -4866,6 +5009,7 @@
   },
   {
    "word": "Basilisk king",
+   "description": "Serpent ruler • Crowned reptile • Stare turns to stone • Ancient bestiary • Golden crown • Venomous fangs",
    "hints": [
     {
      "text": "Serpent ruler",
@@ -4900,6 +5044,7 @@
   },
   {
    "word": "Qilin",
+   "description": "Chinese beast • Lucky creature • Arrives with sages • Gentle step • Scaly body • Single horn",
    "hints": [
     {
      "text": "Chinese beast",
@@ -4934,6 +5079,7 @@
   },
   {
    "word": "Hellcat",
+   "description": "Demonic feline • Underworld beast • Witches companion • Curses • Fiery eyes • Black fur",
    "hints": [
     {
      "text": "Demonic feline",
@@ -4968,6 +5114,7 @@
   },
   {
    "word": "Gryphon chick",
+   "description": "Young beast • Hybrid hatchling • Fantasy pet • Hatched from egg • Fluffy feathers • Tiny talons",
    "hints": [
     {
      "text": "Young beast",
@@ -5002,6 +5149,7 @@
   },
   {
    "word": "Drake",
+   "description": "Wingless dragon • Fire reptile • Fantasy games • Cave dweller • Scaly body • Breathes flame",
    "hints": [
     {
      "text": "Wingless dragon",
@@ -5036,6 +5184,7 @@
   },
   {
    "word": "Wyrm",
+   "description": "Serpent dragon • Ancient worm • Norse sagas • Treasure hoarder • Legless coils • Poisonous breath",
    "hints": [
     {
      "text": "Serpent dragon",
@@ -5070,6 +5219,7 @@
   },
   {
    "word": "Werecat",
+   "description": "Shapeshifter • Feline beast • Moonlit change • Folklore across cultures • Cat eyes • Sharp claws",
    "hints": [
     {
      "text": "Shapeshifter",
@@ -5104,6 +5254,7 @@
   },
   {
    "word": "Mermaid queen",
+   "description": "Ocean royalty • Sea monarch • Undersea palace • Commands tides • Pearl crown • Shimmering tail",
    "hints": [
     {
      "text": "Ocean royalty",
@@ -5138,6 +5289,7 @@
   },
   {
    "word": "Harpy eagle",
+   "description": "Real bird • Named after monster • Rainforest raptor • Huge talons • Feathered crest • Powerful grip",
    "hints": [
     {
      "text": "Real bird",

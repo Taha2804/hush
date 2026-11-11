@@ -14,6 +14,7 @@ import '../theme.dart';
 import '../widgets/common.dart';
 import '../widgets/mascot.dart';
 import '../widgets/visuals.dart';
+import '../widgets/hush_loader.dart';
 
 final myPacksProvider = FutureProvider.autoDispose<List<MyPack>>((ref) => ref.watch(myWordsSourceProvider).packs());
 final packWordsProvider =
@@ -109,7 +110,7 @@ class MyWordsScreen extends ConsumerWidget {
         label: Text(l.newPack),
       ),
       body: packs.when(
-        loading: () => const Center(child: CircularProgressIndicator()),
+        loading: () => const Center(child: HushbugLoader()),
         error: (e, _) => Center(child: Text('$e')),
         data: (list) => list.isEmpty
             ? Center(
@@ -325,7 +326,7 @@ class _PackEditorScreenState extends ConsumerState<PackEditorScreen> {
         label: Text(l.addWord),
       ),
       body: words.when(
-        loading: () => const Center(child: CircularProgressIndicator()),
+        loading: () => const Center(child: HushbugLoader()),
         error: (e, _) => Center(child: Text('$e')),
         data: (list) => list.isEmpty
             ? Center(child: Text(l.noWordsYet))
@@ -656,7 +657,7 @@ class _TopicSearchScreenState extends ConsumerState<TopicSearchScreen> {
                     // Words Checklist on Left / Center
                     if (_loading)
                       Center(
-                        child: CircularProgressIndicator(color: HushbugColors.neonPurpleLight),
+                        child: HushbugLoader(text: 'Finding words…'),
                       )
                     else if (results != null && results.isNotEmpty)
                       ListView.builder(

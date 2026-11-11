@@ -275,6 +275,7 @@ class Enricher {
       word: word,
       hints: pool,
       fakeWords: fakes,
+      description: (summary?['description'] as String?)?.trim().isNotEmpty == true ? (summary!['description'] as String).trim() : null,
       source: 'online',
     );
   }

@@ -4,6 +4,7 @@
  "words": [
   {
    "word": "Teacher",
+   "description": "School staff • Educator • Grades homework • Gives lessons • Stands at blackboard • Red pen",
    "hints": [
     {
      "text": "School staff",
@@ -38,6 +39,7 @@
   },
   {
    "word": "Student",
+   "description": "Learner • Pupil • Takes exams • Carries backpack • Raises hand • Does homework",
    "hints": [
     {
      "text": "Learner",
@@ -72,6 +74,7 @@
   },
   {
    "word": "Principal",
+   "description": "School head • Leader • Morning assembly • Detention threat • Big office • Calls parents",
    "hints": [
     {
      "text": "School head",
@@ -106,6 +109,7 @@
   },
   {
    "word": "Classroom",
+   "description": "School space • Learning space • Rows of desks • Daily lessons • Board at front • Posters on walls",
    "hints": [
     {
      "text": "School space",
@@ -140,6 +144,7 @@
   },
   {
    "word": "Blackboard",
+   "description": "Writing surface • Classroom fixture • Teacher writes notes • Erased daily • Chalk dust • Dark green",
    "hints": [
     {
      "text": "Writing surface",
@@ -174,6 +179,7 @@
   },
   {
    "word": "Whiteboard",
+   "description": "Writing surface • Office fixture • Meetings and lessons • Wipe clean • Dry erase markers • Glossy surface",
    "hints": [
     {
      "text": "Writing surface",
@@ -208,6 +214,7 @@
   },
   {
    "word": "Chalk",
+   "description": "Writing tool • Classroom supply • Squeaks on boards • Dusty fingers • White stick • Breaks easily",
    "hints": [
     {
      "text": "Writing tool",
@@ -242,6 +249,7 @@
   },
   {
    "word": "Pencil",
+   "description": "Writing tool • Stationery • Sharpened daily • Exams • Graphite core • Eraser on end",
    "hints": [
     {
      "text": "Writing tool",
@@ -276,6 +284,7 @@
   },
   {
    "word": "Eraser",
+   "description": "Stationery • Correction tool • Fixes mistakes • Rubs out marks • Pink rubber • Crumbs left",
    "hints": [
     {
      "text": "Stationery",
@@ -310,6 +319,7 @@
   },
   {
    "word": "Sharpener",
+   "description": "Stationery • Small tool • Twist the pencil • Shavings collect • Tiny blade • Hole for tip",
    "hints": [
     {
      "text": "Stationery",
@@ -344,6 +354,7 @@
   },
   {
    "word": "Ruler",
+   "description": "Measuring tool • Stationery • Draw straight lines • Math class • Inch and centimeter marks • Flat strip",
    "hints": [
     {
      "text": "Measuring tool",
@@ -378,6 +389,7 @@
   },
   {
    "word": "Protractor",
+   "description": "Math tool • Geometry instrument • Measures angles • Exam kit • Half circle • Degree marks",
    "hints": [
     {
      "text": "Math tool",
@@ -412,6 +424,7 @@
   },
   {
    "word": "Compass",
+   "description": "Math tool • Geometry instrument • Draws circles • Sharp point • Two legs • Pencil holder",
    "hints": [
     {
      "text": "Math tool",
@@ -446,6 +459,7 @@
   },
   {
    "word": "Calculator",
+   "description": "Math gadget • Number tool • Banned in some tests • Solar powered • Number keys • Small display",
    "hints": [
     {
      "text": "Math gadget",
@@ -480,6 +494,7 @@
   },
   {
    "word": "Notebook",
+   "description": "Stationery • Paper pad • Class notes • Doodles in margins • Lined pages • Spiral binding",
    "hints": [
     {
      "text": "Stationery",
@@ -514,6 +529,7 @@
   },
   {
    "word": "Textbook",
+   "description": "School reading • Study material • Heavy in bags • Assigned reading • Chapters and exercises • Index at back",
    "hints": [
     {
      "text": "School reading",
@@ -548,6 +564,7 @@
   },
   {
    "word": "Dictionary",
+   "description": "Reference book • Word book • Look up meanings • Word lookup • Alphabetical entries • Thick book",
    "hints": [
     {
      "text": "Reference book",
@@ -582,6 +599,7 @@
   },
   {
    "word": "Atlas",
+   "description": "Reference book • Map book • Geography class • Find countries • Maps and borders • Index of places",
    "hints": [
     {
      "text": "Reference book",
@@ -616,6 +634,7 @@
   },
   {
    "word": "Globe",
+   "description": "Geography model • Spinning sphere • On teacher desk • Find countries • Round map • Tilted axis",
    "hints": [
     {
      "text": "Geography model",
@@ -650,6 +669,7 @@
   },
   {
    "word": "Backpack",
+   "description": "School bag • Carry bag • Heavy with books • Worn on shoulders • Two straps • Zip pockets",
    "hints": [
     {
      "text": "School bag",
@@ -684,6 +704,7 @@
   },
   {
    "word": "Lunchbox",
+   "description": "Food container • School item • Packed by parents • Traded snacks • Clip lid • Cartoon designs",
    "hints": [
     {
      "text": "Food container",
@@ -718,6 +739,7 @@
   },
   {
    "word": "Homework",
+   "description": "School task • After class task • Dog ate it • Due tomorrow • Worksheets • Done at kitchen table",
    "hints": [
     {
      "text": "School task",
@@ -752,6 +774,7 @@
   },
   {
    "word": "Exam",
+   "description": "Test • Assessment • Stressful week • Study all night • Answer sheets • Invigilator watches",
    "hints": [
     {
      "text": "Test",
@@ -786,6 +809,7 @@
   },
   {
    "word": "Quiz",
+   "description": "Short test • Assessment • Pop surprise • Quick questions • Multiple choice • Few minutes",
    "hints": [
     {
      "text": "Short test",
@@ -820,6 +844,7 @@
   },
   {
    "word": "Report card",
+   "description": "Grade sheet • Progress record • Parents sign it • End of term • Marks per subject • Teacher comments",
    "hints": [
     {
      "text": "Grade sheet",
@@ -854,6 +879,7 @@
   },
   {
    "word": "Diploma",
+   "description": "Certificate • Graduation document • Framed on walls • Years of study • Rolled scroll • Official seal",
    "hints": [
     {
      "text": "Certificate",
@@ -888,6 +914,7 @@
   },
   {
    "word": "Graduation",
+   "description": "Ceremony • School milestone • Caps thrown in air • Proud parents • Gowns and tassels • Stage walk",
    "hints": [
     {
      "text": "Ceremony",
@@ -922,6 +949,7 @@
   },
   {
    "word": "Library",
+   "description": "Book room • Quiet space • Borrow books • Study area • Shelves and librarian • Silence please",
    "hints": [
     {
      "text": "Book room",
@@ -956,6 +984,7 @@
   },
   {
    "word": "Cafeteria",
+   "description": "Dining hall • Lunch room • Food fights • Long queues • Trays and benches • Mystery meat",
    "hints": [
     {
      "text": "Dining hall",
@@ -990,6 +1019,7 @@
   },
   {
    "word": "Playground",
+   "description": "Outdoor area • Recess spot • Kids run around • Break time • Swings and slides • Monkey bars",
    "hints": [
     {
      "text": "Outdoor area",
@@ -1024,6 +1054,7 @@
   },
   {
    "word": "Gymnasium",
+   "description": "Sports hall • Exercise space • Basketball games • Assemblies • Wooden floors • Climbing ropes",
    "hints": [
     {
      "text": "Sports hall",
@@ -1058,6 +1089,7 @@
   },
   {
    "word": "Auditorium",
+   "description": "Large hall • Performance space • School plays • Assemblies • Stage and curtains • Rows of seats",
    "hints": [
     {
      "text": "Large hall",
@@ -1092,6 +1124,7 @@
   },
   {
    "word": "Laboratory",
+   "description": "Science room • Experiment space • Chemistry class • Safety goggles • Test tubes and burners • Fume hood",
    "hints": [
     {
      "text": "Science room",
@@ -1126,6 +1159,7 @@
   },
   {
    "word": "Recess",
+   "description": "Break time • Free period • Kids play outside • Snack time • Bell rings • Playground games",
    "hints": [
     {
      "text": "Break time",
@@ -1160,6 +1194,7 @@
   },
   {
    "word": "Detention",
+   "description": "School punishment • After school penalty • Bad behavior • Stay late • Sitting quietly • Teacher supervises",
    "hints": [
     {
      "text": "School punishment",
@@ -1194,6 +1229,7 @@
   },
   {
    "word": "Assembly",
+   "description": "School gathering • Morning meeting • Announcements • National anthem • Whole school together • Principal speaks",
    "hints": [
     {
      "text": "School gathering",
@@ -1228,6 +1264,7 @@
   },
   {
    "word": "School bus",
+   "description": "Yellow vehicle • Student transport • Morning pickup • Rowdy back seats • Stop sign arm • Bright yellow",
    "hints": [
     {
      "text": "Yellow vehicle",
@@ -1262,6 +1299,7 @@
   },
   {
    "word": "Uniform",
+   "description": "School clothes • Dress code • Same for everyone • Ironed shirts • Blazer and tie • School crest",
    "hints": [
     {
      "text": "School clothes",
@@ -1296,6 +1334,7 @@
   },
   {
    "word": "Bell",
+   "description": "School signal • Timer sound • Ends each period • Kids rush out • Loud ring • Hallway speaker",
    "hints": [
     {
      "text": "School signal",
@@ -1330,6 +1369,7 @@
   },
   {
    "word": "Locker",
+   "description": "Storage unit • Hallway cabinet • Combination dial • Stuffed with books • Metal door • Rows in corridor",
    "hints": [
     {
      "text": "Storage unit",
@@ -1364,6 +1404,7 @@
   },
   {
    "word": "Desk",
+   "description": "Classroom furniture • Work surface • Carved doodles • Seating charts • Flat top • Chair attached",
    "hints": [
     {
      "text": "Classroom furniture",
@@ -1398,6 +1439,7 @@
   },
   {
    "word": "Field trip",
+   "description": "School outing • Educational visit • Permission slips • Bus rides • Museum visits • Packed lunches",
    "hints": [
     {
      "text": "School outing",
@@ -1432,6 +1474,7 @@
   },
   {
    "word": "Science fair",
+   "description": "School event • Project show • Volcano models • Judges walk around • Trifold posters • Experiments displayed",
    "hints": [
     {
      "text": "School event",
@@ -1466,6 +1509,7 @@
   },
   {
    "word": "Spelling bee",
+   "description": "Contest • Word competition • Nervous students • Ask for definition • Say it aloud • Elimination rounds",
    "hints": [
     {
      "text": "Contest",
@@ -1500,6 +1544,7 @@
   },
   {
    "word": "Debate",
+   "description": "Argument contest • Speech event • For and against • Judges score • Podium speeches • Rebuttals",
    "hints": [
     {
      "text": "Argument contest",
@@ -1534,6 +1579,7 @@
   },
   {
    "word": "Sports day",
+   "description": "School event • Athletic meet • Sack races • Parents cheer • Medals and ribbons • Track events",
    "hints": [
     {
      "text": "School event",
@@ -1568,6 +1614,7 @@
   },
   {
    "word": "Prom",
+   "description": "School dance • Formal party • Ball gowns • Crowned royalty • Corsages • Limousines",
    "hints": [
     {
      "text": "School dance",
@@ -1602,6 +1649,7 @@
   },
   {
    "word": "Semester",
+   "description": "School term • Academic period • Half year • New classes • Midterms and finals • Course load",
    "hints": [
     {
      "text": "School term",
@@ -1636,6 +1684,7 @@
   },
   {
    "word": "Vacation",
+   "description": "Holiday • Break • Summer off • Family trips • No school • Sleeping in",
    "hints": [
     {
      "text": "Holiday",
@@ -1670,6 +1719,7 @@
   },
   {
    "word": "Math",
+   "description": "School subject • Numbers class • Equations • Homework problems • Algebra and geometry • Calculations",
    "hints": [
     {
      "text": "School subject",
@@ -1704,6 +1754,7 @@
   },
   {
    "word": "Science",
+   "description": "School subject • Experiment class • Lab coats • Hypothesis • Biology chemistry physics • Microscopes",
    "hints": [
     {
      "text": "School subject",
@@ -1738,6 +1789,7 @@
   },
   {
    "word": "History",
+   "description": "School subject • Past studies • Dates to memorize • Ancient empires • Timelines • Wars and kings",
    "hints": [
     {
      "text": "School subject",
@@ -1772,6 +1824,7 @@
   },
   {
    "word": "Geography",
+   "description": "School subject • Earth studies • Maps and capitals • Climate zones • Rivers and mountains • Atlas",
    "hints": [
     {
      "text": "School subject",
@@ -1806,6 +1859,7 @@
   },
   {
    "word": "English",
+   "description": "School subject • Language class • Essays and grammar • Reading novels • Poetry and prose • Book reports",
    "hints": [
     {
      "text": "School subject",
@@ -1840,6 +1894,7 @@
   },
   {
    "word": "Art",
+   "description": "School subject • Creative class • Painting and drawing • Messy hands • Easels and brushes • Clay models",
    "hints": [
     {
      "text": "School subject",
@@ -1874,6 +1929,7 @@
   },
   {
    "word": "Music",
+   "description": "School subject • Sound class • Choir practice • Learning recorder • Notes and rhythm • Instruments",
    "hints": [
     {
      "text": "School subject",
@@ -1908,6 +1964,7 @@
   },
   {
    "word": "Gym class",
+   "description": "School subject • Sports lesson • Running laps • Dodgeball • Sports shorts • Whistle blowing",
    "hints": [
     {
      "text": "School subject",
@@ -1942,6 +1999,7 @@
   },
   {
    "word": "Chemistry",
+   "description": "Science subject • Reactions class • Periodic table • Lab experiments • Beakers and burners • Formulas",
    "hints": [
     {
      "text": "Science subject",
@@ -1976,6 +2034,7 @@
   },
   {
    "word": "Physics",
+   "description": "Science subject • Forces class • Gravity and motion • Equations • Newton's laws • Light and energy",
    "hints": [
     {
      "text": "Science subject",
@@ -2010,6 +2069,7 @@
   },
   {
    "word": "Biology",
+   "description": "Science subject • Life class • Cells and genes • Dissecting frogs • Microscope slides • Ecosystems",
    "hints": [
     {
      "text": "Science subject",
@@ -2044,6 +2104,7 @@
   },
   {
    "word": "Algebra",
+   "description": "Math branch • Equation work • Solve for x • High school math • Variables and symbols • Unknowns",
    "hints": [
     {
      "text": "Math branch",
@@ -2078,6 +2139,7 @@
   },
   {
    "word": "Geometry",
+   "description": "Math branch • Shapes study • Angles and triangles • Proofs • Protractor and compass • Theorems",
    "hints": [
     {
      "text": "Math branch",
@@ -2112,6 +2174,7 @@
   },
   {
    "word": "Essay",
+   "description": "Writing task • Assignment • Word count limits • Late night writing • Introduction and conclusion • Thesis",
    "hints": [
     {
      "text": "Writing task",
@@ -2146,6 +2209,7 @@
   },
   {
    "word": "Project",
+   "description": "School task • Group work • Poster boards • Presentations • Teamwork • Deadline looming",
    "hints": [
     {
      "text": "School task",
@@ -2180,6 +2244,7 @@
   },
   {
    "word": "Presentation",
+   "description": "Speech task • Class talk • Slides and notes • Nervous speaking • Projector screen • Audience questions",
    "hints": [
     {
      "text": "Speech task",
@@ -2214,6 +2279,7 @@
   },
   {
    "word": "Lecture",
+   "description": "Teaching talk • University class • Professor speaks • Take notes • Big hall • Slides on screen",
    "hints": [
     {
      "text": "Teaching talk",
@@ -2248,6 +2314,7 @@
   },
   {
    "word": "Scholarship",
+   "description": "Study funding • Merit award • Pays tuition • Competitive application • Grants for grades • Prestigious",
    "hints": [
     {
      "text": "Study funding",
@@ -2282,6 +2349,7 @@
   },
   {
    "word": "University",
+   "description": "Higher education • Campus • Degrees offered • Dorm life • Lecture halls • Professors",
    "hints": [
     {
      "text": "Higher education",
@@ -2316,6 +2384,7 @@
   },
   {
    "word": "Kindergarten",
+   "description": "Early school • Preschool • Nap time • Finger painting • Tiny chairs • Alphabet songs",
    "hints": [
     {
      "text": "Early school",
@@ -2350,6 +2419,7 @@
   },
   {
    "word": "Dormitory",
+   "description": "Student housing • Campus residence • Roommates • Late night pizza • Bunk beds • Shared bathrooms",
    "hints": [
     {
      "text": "Student housing",
@@ -2384,6 +2454,7 @@
   },
   {
    "word": "Campus",
+   "description": "University grounds • School area • Student life • Walk between classes • Quad lawns • Many buildings",
    "hints": [
     {
      "text": "University grounds",
@@ -2418,6 +2489,7 @@
   },
   {
    "word": "Tuition",
+   "description": "School fees • Education cost • Expensive degrees • Paid each term • Bills from college • Student loans",
    "hints": [
     {
      "text": "School fees",
@@ -2452,6 +2524,7 @@
   },
   {
    "word": "Grade",
+   "description": "Score • Mark • Report card result • Curve debates • Marks or percentages • Teacher assigns",
    "hints": [
     {
      "text": "Score",
@@ -2486,6 +2559,7 @@
   },
   {
    "word": "Attendance",
+   "description": "Roll call • Presence record • Absent or present • Morning register • Teacher calls names • Tick marks",
    "hints": [
     {
      "text": "Roll call",
@@ -2520,6 +2594,7 @@
   },
   {
    "word": "Hall pass",
+   "description": "School permit • Corridor ticket • Bathroom breaks • Teacher signs • Wooden block or card • Leave class",
    "hints": [
     {
      "text": "School permit",
@@ -2554,6 +2629,7 @@
   },
   {
    "word": "Permission slip",
+   "description": "Parent consent • School form • Field trips • Signed at home • Tear off section • Due this week",
    "hints": [
     {
      "text": "Parent consent",
@@ -2588,6 +2664,7 @@
   },
   {
    "word": "Crayon",
+   "description": "Coloring tool • Art supply • Kids drawings • Melts in sun • Wax stick • Many colors",
    "hints": [
     {
      "text": "Coloring tool",
@@ -2622,6 +2699,7 @@
   },
   {
    "word": "Marker",
+   "description": "Writing tool • Art supply • Whiteboards • Posters • Felt tip • Strong smell",
    "hints": [
     {
      "text": "Writing tool",
@@ -2656,6 +2734,7 @@
   },
   {
    "word": "Highlighter",
+   "description": "Stationery • Study tool • Marks key points • Textbook pages • Neon yellow • Chisel tip",
    "hints": [
     {
      "text": "Stationery",
@@ -2690,6 +2769,7 @@
   },
   {
    "word": "Glue stick",
+   "description": "Craft supply • Adhesive • Art projects • Bonds paper • Twist up tube • Dries clear",
    "hints": [
     {
      "text": "Craft supply",
@@ -2724,6 +2804,7 @@
   },
   {
    "word": "Scissors",
+   "description": "Cutting tool • Craft supply • Safety rounded tips • Cutting paper • Two blades • Finger loops",
    "hints": [
     {
      "text": "Cutting tool",
@@ -2758,6 +2839,7 @@
   },
   {
    "word": "Stapler",
+   "description": "Office tool • Fastener • Joins worksheets • Jams often • Metal staples • Press down",
    "hints": [
     {
      "text": "Office tool",
@@ -2792,6 +2874,7 @@
   },
   {
    "word": "Folder",
+   "description": "Paper holder • Stationery • Organizes worksheets • Colored by subject • Two pockets • Folds in half",
    "hints": [
     {
      "text": "Paper holder",
@@ -2826,6 +2909,7 @@
   },
   {
    "word": "Binder",
+   "description": "Paper holder • Ring folder • Divider tabs • Heavy with notes • Metal rings • Hole punched pages",
    "hints": [
     {
      "text": "Paper holder",
@@ -2860,6 +2944,7 @@
   },
   {
    "word": "Pencil case",
+   "description": "Stationery holder • Small pouch • Holds pens • Zip closure • Fabric or tin • Doodled on",
    "hints": [
     {
      "text": "Stationery holder",
@@ -2894,6 +2979,7 @@
   },
   {
    "word": "Geometry box",
+   "description": "Math kit • Tool case • Exam essential • Indian schools • Compass and protractor • Metal case",
    "hints": [
     {
      "text": "Math kit",
@@ -2928,6 +3014,7 @@
   },
   {
    "word": "Abacus",
+   "description": "Counting tool • Bead frame • Early math • Ancient calculator • Sliding beads • Wooden rods",
    "hints": [
     {
      "text": "Counting tool",
@@ -2962,6 +3049,7 @@
   },
   {
    "word": "Flashcards",
+   "description": "Study tool • Memory aids • Vocabulary practice • Quiz yourself • Question front • Answer back",
    "hints": [
     {
      "text": "Study tool",
@@ -2996,6 +3084,7 @@
   },
   {
    "word": "Worksheet",
+   "description": "Practice page • Assignment • Fill in blanks • Handed out • Printed questions • Answer spaces",
    "hints": [
     {
      "text": "Practice page",
@@ -3030,6 +3119,7 @@
   },
   {
    "word": "Encyclopedia",
+   "description": "Reference book • Knowledge set • Many volumes • Research projects • Alphabetical articles • Heavy books",
    "hints": [
     {
      "text": "Reference book",
@@ -3064,6 +3154,7 @@
   },
   {
    "word": "Microscope",
+   "description": "Science tool • Lab instrument • Biology class • Tiny cells • Eyepiece and lenses • Glass slides",
    "hints": [
     {
      "text": "Science tool",
@@ -3098,6 +3189,7 @@
   },
   {
    "word": "Test tube",
+   "description": "Lab glassware • Science vessel • Chemistry experiments • Rack holder • Thin glass vial • Rounded bottom",
    "hints": [
     {
      "text": "Lab glassware",
@@ -3132,6 +3224,7 @@
   },
   {
    "word": "Beaker",
+   "description": "Lab glassware • Measuring cup • Chemistry class • Mixing liquids • Spout lip • Volume marks",
    "hints": [
     {
      "text": "Lab glassware",
@@ -3166,6 +3259,7 @@
   },
   {
    "word": "Periodic table",
+   "description": "Chemistry chart • Element list • Classroom poster • Memorize symbols • Rows and columns • Atomic numbers",
    "hints": [
     {
      "text": "Chemistry chart",
@@ -3200,6 +3294,7 @@
   },
   {
    "word": "Skeleton model",
+   "description": "Biology prop • Anatomy prop • Science classroom • Halloween prop • Plastic bones • Hanging stand",
    "hints": [
     {
      "text": "Biology prop",
@@ -3234,6 +3329,7 @@
   },
   {
    "word": "Timetable",
+   "description": "Schedule • Class plan • Which lesson next • Pinned on wall • Days and periods • Grid layout",
    "hints": [
     {
      "text": "Schedule",
@@ -3268,6 +3364,7 @@
   },
   {
    "word": "Syllabus",
+   "description": "Course plan • Topic list • First day handout • Exam topics • Chapters listed • Reading schedule",
    "hints": [
     {
      "text": "Course plan",
@@ -3302,6 +3399,7 @@
   },
   {
    "word": "Favorite student",
+   "description": "Favored pupil • Classroom role • Sits in front • Brings apples • Always answers • Teased by others",
    "hints": [
     {
      "text": "Favored pupil",
@@ -3336,6 +3434,7 @@
   },
   {
    "word": "Class clown",
+   "description": "Funny student • Joker role • Makes everyone laugh • Detention regular • Jokes and pranks • Sent outside",
    "hints": [
     {
      "text": "Funny student",
@@ -3370,6 +3469,7 @@
   },
   {
    "word": "Bully",
+   "description": "Mean student • Troublemaker • Picks on others • Anti campaigns • Takes lunch money • Pushes kids",
    "hints": [
     {
      "text": "Mean student",
@@ -3404,6 +3504,7 @@
   },
   {
    "word": "Nerd",
+   "description": "Studious kid • Bookworm • Loves science • Top grades • Thick glasses • Pocket protector",
    "hints": [
     {
      "text": "Studious kid",
@@ -3438,6 +3539,7 @@
   },
   {
    "word": "Monitor",
+   "description": "Class helper • Student leader • Takes attendance • Hall duty • Badge on chest • Keeps order",
    "hints": [
     {
      "text": "Class helper",
@@ -3472,6 +3574,7 @@
   },
   {
    "word": "Prefect",
+   "description": "Student leader • School official • Senior students • Supervise younger • Badge • Keeps discipline",
    "hints": [
     {
      "text": "Student leader",
@@ -3506,6 +3609,7 @@
   },
   {
    "word": "Head girl",
+   "description": "Student leader • Top prefect • Elected seniors • Speeches • Special badge • Represents school",
    "hints": [
     {
      "text": "Student leader",
@@ -3540,6 +3644,7 @@
   },
   {
    "word": "Tutor",
+   "description": "Private teacher • Helper • Extra lessons • Exam prep • One student • After school",
    "hints": [
     {
      "text": "Private teacher",
@@ -3574,6 +3679,7 @@
   },
   {
    "word": "Janitor",
+   "description": "School staff • Caretaker • Mops hallways • Fixes things • Ring of keys • Cleaning cart",
    "hints": [
     {
      "text": "School staff",
@@ -3608,6 +3714,7 @@
   },
   {
    "word": "Counselor",
+   "description": "School staff • Guidance advisor • College applications • Personal problems • Quiet office • Listens well",
    "hints": [
     {
      "text": "School staff",
@@ -3642,6 +3749,7 @@
   },
   {
    "word": "Lunch lady",
+   "description": "Cafeteria staff • School cook • Serves meals • Hairnet • Big ladle • Tray line",
    "hints": [
     {
      "text": "Cafeteria staff",
@@ -3676,6 +3784,7 @@
   },
   {
    "word": "Nurse office",
+   "description": "Sick room • Health room • Fake illnesses • Ice packs • Cot and thermometer • First aid",
    "hints": [
     {
      "text": "Sick room",
@@ -3710,6 +3819,7 @@
   },
   {
    "word": "Staff room",
+   "description": "Teachers lounge • Rest area • Coffee and gossip • Students not allowed • Kettle and sofas • Notice board",
    "hints": [
     {
      "text": "Teachers lounge",
@@ -3744,6 +3854,7 @@
   },
   {
    "word": "Hallway",
+   "description": "School corridor • Passage • Rush between classes • No running • Lockers line walls • Long and echoing",
    "hints": [
     {
      "text": "School corridor",
@@ -3778,6 +3889,7 @@
   },
   {
    "word": "Notice board",
+   "description": "Information wall • Bulletin • Announcements • Pinned flyers • Cork surface • Thumb tacks",
    "hints": [
     {
      "text": "Information wall",
@@ -3812,6 +3924,7 @@
   },
   {
    "word": "Trophy cabinet",
+   "description": "Display case • School pride • Sports wins • Polished cups • Glass doors • Shelves of awards",
    "hints": [
     {
      "text": "Display case",
@@ -3846,6 +3959,7 @@
   },
   {
    "word": "Fire drill",
+   "description": "Safety practice • Evacuation • Line up outside • Alarm sounds • Roll call on field • Exit routes",
    "hints": [
     {
      "text": "Safety practice",
@@ -3880,6 +3994,7 @@
   },
   {
    "word": "Snow day",
+   "description": "School closure • Winter surprise • No classes • Sledging outside • Blizzard overnight • Radio announcements",
    "hints": [
     {
      "text": "School closure",
@@ -3914,6 +4029,7 @@
   },
   {
    "word": "Summer school",
+   "description": "Extra classes • Holiday learning • Catching up • Retaking courses • Hot classrooms • Short term",
    "hints": [
     {
      "text": "Extra classes",
@@ -3948,6 +4064,7 @@
   },
   {
    "word": "Boarding school",
+   "description": "Residential academy • Live on campus • Dorms and matrons • Holidays home • Strict rules • Uniforms",
    "hints": [
     {
      "text": "Residential academy",
@@ -3982,6 +4099,7 @@
   },
   {
    "word": "Homeschool",
+   "description": "Learning in the house • Parent taught • Flexible schedule • Kitchen classroom • Parents as teachers • Online lessons",
    "hints": [
     {
      "text": "Learning in the house",
@@ -4016,6 +4134,7 @@
   },
   {
    "word": "Online class",
+   "description": "Virtual lesson • Remote learning • Mute your mic • Webcam on • Video call • Shared screen",
    "hints": [
     {
      "text": "Virtual lesson",
@@ -4050,6 +4169,7 @@
   },
   {
    "word": "Alphabet",
+   "description": "Writing basics • Kindergarten lesson • Songs to remember • Learned first • Twenty six symbols • From a to z",
    "hints": [
     {
      "text": "Writing basics",
@@ -4084,6 +4204,7 @@
   },
   {
    "word": "Grammar",
+   "description": "Language rules • English lesson • Nouns and verbs • Red pen corrections • Punctuation • Sentence structure",
    "hints": [
     {
      "text": "Language rules",
@@ -4118,6 +4239,7 @@
   },
   {
    "word": "Vocabulary",
+   "description": "Word knowledge • Language skill • Learn new words • Flashcards • Definitions • Word lists",
    "hints": [
     {
      "text": "Word knowledge",
@@ -4152,6 +4274,7 @@
   },
   {
    "word": "Poem",
+   "description": "Writing piece • Verse • Recited in class • Rhyming lines • Stanzas • Metaphors",
    "hints": [
     {
      "text": "Writing piece",
@@ -4186,6 +4309,7 @@
   },
   {
    "word": "Novel",
+   "description": "Long book • Fiction • Reading assignment • Book report • Chapters and characters • Plot twists",
    "hints": [
     {
      "text": "Long book",
@@ -4220,6 +4344,7 @@
   },
   {
    "word": "Book report",
+   "description": "School assignment • Reading review • Summarize the plot • Due next week • Characters and themes • Cover page",
    "hints": [
     {
      "text": "School assignment",
@@ -4254,6 +4379,7 @@
   },
   {
    "word": "Spelling test",
+   "description": "Weekly quiz • Word drill • Friday practice • Study word lists • Teacher reads aloud • Write correctly",
    "hints": [
     {
      "text": "Weekly quiz",
@@ -4288,6 +4414,7 @@
   },
   {
    "word": "Pop quiz",
+   "description": "Surprise test • Short exam • No warning • Groans in class • Unannounced questions • Quick marking",
    "hints": [
     {
      "text": "Surprise test",
@@ -4322,6 +4449,7 @@
   },
   {
    "word": "Final exam",
+   "description": "End assessment • Big assessment • Last week of term • Cramming • Silent hall • Long paper",
    "hints": [
     {
      "text": "End assessment",
@@ -4356,6 +4484,7 @@
   },
   {
    "word": "Cheat sheet",
+   "description": "Hidden notes • Exam trick • Not allowed • Tiny writing • Scribbled formulas • Hidden in sleeve",
    "hints": [
     {
      "text": "Hidden notes",
@@ -4390,6 +4519,7 @@
   },
   {
    "word": "Gold star",
+   "description": "Reward sticker • Teacher praise • Good work • Chart on wall • Shiny sticker • Shape of a point",
    "hints": [
     {
      "text": "Reward sticker",
@@ -4424,6 +4554,7 @@
   },
   {
    "word": "Sticker chart",
+   "description": "Reward system • Progress tracker • Good behavior • Kindergarten • Rows of shiny dots • Prize at end",
    "hints": [
     {
      "text": "Reward system",
@@ -4458,6 +4589,7 @@
   },
   {
    "word": "Valedictorian",
+   "description": "Top student • Class leader • Gives graduation speech • Highest grades • Honors cords • Stage moment",
    "hints": [
     {
      "text": "Top student",
@@ -4492,6 +4624,7 @@
   },
   {
    "word": "Alumni",
+   "description": "Former students • Graduates • Reunions • Donations • Old school ties • Yearbook faces",
    "hints": [
     {
      "text": "Former students",
@@ -4526,6 +4659,7 @@
   },
   {
    "word": "Yearbook",
+   "description": "School album • Memory album • Signed by friends • Final term • Class photos • Superlatives",
    "hints": [
     {
      "text": "School album",
@@ -4560,6 +4694,7 @@
   },
   {
    "word": "Freshman",
+   "description": "First year student • Newcomer • Gets lost on campus • Orientation • New faces • Youngest class",
    "hints": [
     {
      "text": "First year student",
@@ -4594,6 +4729,7 @@
   },
   {
    "word": "Senior",
+   "description": "Final year student • Oldest class • College applications • Prom • Last year • Graduating soon",
    "hints": [
     {
      "text": "Final year student",
@@ -4628,6 +4764,7 @@
   },
   {
    "word": "Orientation",
+   "description": "Welcome program • First week • Campus tours • Meet new people • Name tags • Icebreakers",
    "hints": [
     {
      "text": "Welcome program",
@@ -4662,6 +4799,7 @@
   },
   {
    "word": "Seminar",
+   "description": "Small class • Discussion session • University course • Presentations • Round table • Debate ideas",
    "hints": [
     {
      "text": "Small class",
@@ -4696,6 +4834,7 @@
   },
   {
    "word": "Thesis",
+   "description": "Long paper • Research project • Final year • Months of work • Bound volume • Defended before panel",
    "hints": [
     {
      "text": "Long paper",
@@ -4730,6 +4869,7 @@
   },
   {
    "word": "Library card",
+   "description": "Borrowing pass • Member pass • Check out books • Overdue fines • Barcode on back • Name printed",
    "hints": [
     {
      "text": "Borrowing pass",
@@ -4764,6 +4904,7 @@
   },
   {
    "word": "Student id",
+   "description": "Identity card • School pass • Discounts • Campus access • Photo and number • Lanyard",
    "hints": [
     {
      "text": "Identity card",
@@ -4798,6 +4939,7 @@
   },
   {
    "word": "Backpack strap",
+   "description": "Bag part • Shoulder band • Adjust the length • Breaks when overloaded • Padded strip • Buckle clip",
    "hints": [
     {
      "text": "Bag part",
@@ -4832,6 +4974,7 @@
   },
   {
    "word": "Whistle",
+   "description": "Coach tool • Signal device • Gym teachers blow it • Ends the game • Shrill sound • Hangs on lanyard",
    "hints": [
     {
      "text": "Coach tool",
@@ -4866,6 +5009,7 @@
   },
   {
    "word": "Megaphone",
+   "description": "Loud speaker • Voice amplifier • Sports day announcements • Cheerleaders • Cone shape • Handle trigger",
    "hints": [
     {
      "text": "Loud speaker",
@@ -4900,6 +5044,7 @@
   },
   {
    "word": "Duster",
+   "description": "Cleaning tool • Classroom item • Clapped outside • Dusty clouds • Felt pad • Wooden block",
    "hints": [
     {
      "text": "Cleaning tool",
@@ -4934,6 +5079,7 @@
   },
   {
    "word": "Inkpot",
+   "description": "Old stationery • Writing supply • Quill era • Spills easily • Glass bottle • Dark liquid",
    "hints": [
     {
      "text": "Old stationery",
@@ -4968,6 +5114,7 @@
   },
   {
    "word": "Fountain pen",
+   "description": "Writing tool • Classic nib • Calligraphy practice • Fancy handwriting • Metal nib • Ink cartridge",
    "hints": [
     {
      "text": "Writing tool",
@@ -5002,6 +5149,7 @@
   },
   {
    "word": "Quill",
+   "description": "Old writing tool • Feather pen • Medieval scribes • Dipped in ink • Feather shaft • Sharp tip",
    "hints": [
     {
      "text": "Old writing tool",
@@ -5036,6 +5184,7 @@
   },
   {
    "word": "Set square",
+   "description": "Geometry tool • Triangle ruler • Technical drawing • Exam kit • Right angle • Clear plastic",
    "hints": [
     {
      "text": "Geometry tool",
@@ -5070,6 +5219,7 @@
   },
   {
    "word": "Easel",
+   "description": "Art stand • Painting support • Art class • Artists use it • Three legs • Holds canvas",
    "hints": [
     {
      "text": "Art stand",
@@ -5104,6 +5254,7 @@
   },
   {
    "word": "Clay",
+   "description": "Modeling material • Art supply • Pottery class • Squishy fun • Moldable mud • Baked in kiln",
    "hints": [
     {
      "text": "Modeling material",
@@ -5138,6 +5289,7 @@
   },
   {
    "word": "Choir",
+   "description": "Singing group • Music ensemble • School concerts • Hymns • Rows of singers • Conductor leads",
    "hints": [
     {
      "text": "Singing group",
@@ -5172,6 +5324,7 @@
   },
   {
    "word": "School band",
+   "description": "Music group • Student ensemble • Marching at games • Practice after class • Drums and brass • Uniformed players",
    "hints": [
     {
      "text": "Music group",

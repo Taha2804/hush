@@ -4,6 +4,7 @@
  "words": [
   {
    "word": "Paris",
+   "description": "European capital • Romantic city • City of light • Fashion week host • Iron lattice tower • Riverside cafes",
    "hints": [
     {
      "text": "European capital",
@@ -38,6 +39,7 @@
   },
   {
    "word": "London",
+   "description": "European capital • Historic city • Royal palace • Double decker buses • Big clock tower • Underground tube",
    "hints": [
     {
      "text": "European capital",
@@ -72,6 +74,7 @@
   },
   {
    "word": "New york",
+   "description": "American city • Huge metropolis • Never sleeps • Yellow taxis • Famous green statue • Central park",
    "hints": [
     {
      "text": "American city",
@@ -106,6 +109,7 @@
   },
   {
    "word": "Tokyo",
+   "description": "Asian capital • Huge metropolis • Neon streets • Busy crossings • Bullet trains • Sushi counters",
    "hints": [
     {
      "text": "Asian capital",
@@ -140,6 +144,7 @@
   },
   {
    "word": "Rome",
+   "description": "European capital • Ancient city • Eternal city • Ancient empire seat • Gladiator arena • Throw coins in fountains",
    "hints": [
     {
      "text": "European capital",
@@ -174,6 +179,7 @@
   },
   {
    "word": "Dubai",
+   "description": "Gulf city • Desert metropolis • Luxury shopping • Artificial islands • Tallest building • Indoor ski slope",
    "hints": [
     {
      "text": "Gulf city",
@@ -208,6 +214,7 @@
   },
   {
    "word": "Mumbai",
+   "description": "Indian city • Coastal metropolis • Film industry hub • Financial capital • Vada pav • Seaside promenade",
    "hints": [
     {
      "text": "Indian city",
@@ -242,6 +249,7 @@
   },
   {
    "word": "Delhi",
+   "description": "Indian capital • Huge city • Old and new parts • Street food heaven • Red fort • Ancient minarets",
    "hints": [
     {
      "text": "Indian capital",
@@ -276,6 +284,7 @@
   },
   {
    "word": "Bangalore",
+   "description": "Indian city • Tech hub • Garden city • Pleasant weather • Software parks • Pub culture",
    "hints": [
     {
      "text": "Indian city",
@@ -310,6 +319,7 @@
   },
   {
    "word": "Kolkata",
+   "description": "Indian city • Eastern metropolis • City of joy • Intellectual hub • Yellow taxis • Big iron bridge",
    "hints": [
     {
      "text": "Indian city",
@@ -344,6 +354,7 @@
   },
   {
    "word": "Chennai",
+   "description": "Indian city • Coastal metropolis • Classical dance hub • Filter coffee • Long urban beach • Temple towers",
    "hints": [
     {
      "text": "Indian city",
@@ -378,6 +389,7 @@
   },
   {
    "word": "Hyderabad",
+   "description": "Indian city • Southern metropolis • Famous biryani • Pearl trading • Arched monument • Tech campuses",
    "hints": [
     {
      "text": "Indian city",
@@ -412,6 +424,7 @@
   },
   {
    "word": "Jaipur",
+   "description": "Indian city • Pink city • Royal palaces • Desert state capital • Wind palace • Hilltop forts",
    "hints": [
     {
      "text": "Indian city",
@@ -446,6 +459,7 @@
   },
   {
    "word": "Agra",
+   "description": "Indian city • Historic city • Mughal history • Tourist magnet • White marble mausoleum • Red sandstone fort",
    "hints": [
     {
      "text": "Indian city",
@@ -480,6 +494,7 @@
   },
   {
    "word": "Goa",
+   "description": "Indian state • Beach destination • Party scene • Portuguese heritage • Sandy beaches • Seafood shacks",
    "hints": [
     {
      "text": "Indian state",
@@ -514,6 +529,7 @@
   },
   {
    "word": "Varanasi",
+   "description": "Indian city • Holy city • Ancient spiritual center • River rituals • Ghats and boats • Evening lamp ceremony",
    "hints": [
     {
      "text": "Indian city",
@@ -548,6 +564,7 @@
   },
   {
    "word": "Beijing",
+   "description": "Asian capital • Ancient city • Imperial history • Olympic host • Forbidden palace • Peking duck",
    "hints": [
     {
      "text": "Asian capital",
@@ -582,6 +599,7 @@
   },
   {
    "word": "Shanghai",
+   "description": "Chinese city • Huge port • Financial hub • Futuristic skyline • Riverside promenade • Soup dumplings",
    "hints": [
     {
      "text": "Chinese city",
@@ -616,6 +634,7 @@
   },
   {
    "word": "Hong kong",
+   "description": "Asian city • Harbor city • Dim sum • Shopping paradise • Star ferry • Dense skyscrapers",
    "hints": [
     {
      "text": "Asian city",
@@ -650,6 +669,7 @@
   },
   {
    "word": "Seoul",
+   "description": "Asian capital • Modern city • Pop music hub • Late night food • Palaces and towers • Kimchi stew",
    "hints": [
     {
      "text": "Asian capital",
@@ -684,6 +704,7 @@
   },
   {
    "word": "Bangkok",
+   "description": "Asian capital • Busy city • Street food heaven • Floating markets • Tuk tuks • Golden temples",
    "hints": [
     {
      "text": "Asian capital",
@@ -718,6 +739,7 @@
   },
   {
    "word": "Singapore city",
+   "description": "Asian hub • Garden island • Very clean • Hawker centers • Lion statue fountain • Giant supertrees",
    "hints": [
     {
      "text": "Asian hub",
@@ -752,6 +774,7 @@
   },
   {
    "word": "Sydney",
+   "description": "Australian city • Harbor city • Famous beaches • New year fireworks • Sail shaped opera house • Big arch bridge",
    "hints": [
     {
      "text": "Australian city",
@@ -786,6 +809,7 @@
   },
   {
    "word": "Melbourne",
+   "description": "Australian city • Cultural city • Coffee culture • Tennis tournament • Laneway art • Historic trams",
    "hints": [
     {
      "text": "Australian city",
@@ -820,6 +844,7 @@
   },
   {
    "word": "Los angeles",
+   "description": "American city • Sprawling city • Film industry • Traffic jams • Hillside sign • Beaches and palm trees",
    "hints": [
     {
      "text": "American city",
@@ -854,6 +879,7 @@
   },
   {
    "word": "Chicago",
+   "description": "American city • Windy city • Deep dish pizza • Blues music • Shiny bean sculpture • Lakefront skyline",
    "hints": [
     {
      "text": "American city",
@@ -888,6 +914,7 @@
   },
   {
    "word": "San francisco",
+   "description": "American city • Hilly city • Tech startups • Foggy summers • Red suspension bridge • Cable cars",
    "hints": [
     {
      "text": "American city",
@@ -922,6 +949,7 @@
   },
   {
    "word": "Las vegas",
+   "description": "American city • Desert city • Casinos everywhere • Quick weddings • Neon strip • Magic shows",
    "hints": [
     {
      "text": "American city",
@@ -956,6 +984,7 @@
   },
   {
    "word": "Miami",
+   "description": "American city • Beach city • Latin culture • Art deco buildings • Palm lined beaches • Cuban coffee",
    "hints": [
     {
      "text": "American city",
@@ -990,6 +1019,7 @@
   },
   {
    "word": "Boston",
+   "description": "American city • Historic city • Famous universities • Tea party history • Clam chowder • Freedom trail",
    "hints": [
     {
      "text": "American city",
@@ -1024,6 +1054,7 @@
   },
   {
    "word": "Washington",
+   "description": "American capital • Political city • White house • Cherry blossoms • Tall obelisk • Marble memorials",
    "hints": [
     {
      "text": "American capital",
@@ -1058,6 +1089,7 @@
   },
   {
    "word": "Seattle",
+   "description": "American city • Rainy city • Coffee culture • Tech giants • Space needle tower • Fish throwing market",
    "hints": [
     {
      "text": "American city",
@@ -1092,6 +1124,7 @@
   },
   {
    "word": "Toronto",
+   "description": "Canadian city • Big city • Multicultural • Hockey fans • Tall needle tower • Lake views",
    "hints": [
     {
      "text": "Canadian city",
@@ -1126,6 +1159,7 @@
   },
   {
    "word": "Vancouver",
+   "description": "Canadian city • Coastal city • Mountains and ocean • Very rainy • Seaplanes • Stanley park",
    "hints": [
     {
      "text": "Canadian city",
@@ -1160,6 +1194,7 @@
   },
   {
    "word": "Montreal",
+   "description": "Canadian city • French speaking city • Bagels and poutine • Jazz festival • Underground city • Cobblestone old town",
    "hints": [
     {
      "text": "Canadian city",
@@ -1194,6 +1229,7 @@
   },
   {
    "word": "Mexico city",
+   "description": "Mexican capital • Huge metropolis • Built on a lake • Street tacos • Ancient pyramids nearby • Colorful boats",
    "hints": [
     {
      "text": "Mexican capital",
@@ -1228,6 +1264,7 @@
   },
   {
    "word": "Rio",
+   "description": "Brazilian city • Beach city • Carnival parade • Samba music • Big statue on mountain • Copacabana beach",
    "hints": [
     {
      "text": "Brazilian city",
@@ -1262,6 +1299,7 @@
   },
   {
    "word": "Buenos aires",
+   "description": "Argentine capital • South american city • Tango dancing • Steak houses • Colorful houses • Wide avenues",
    "hints": [
     {
      "text": "Argentine capital",
@@ -1296,6 +1334,7 @@
   },
   {
    "word": "Lima",
+   "description": "Peruvian capital • Coastal city • Food capital • Spanish colonial • Ceviche • Cliffside parks",
    "hints": [
     {
      "text": "Peruvian capital",
@@ -1330,6 +1369,7 @@
   },
   {
    "word": "Cairo",
+   "description": "Egyptian capital • African metropolis • Ancient wonders nearby • Busy bazaars • Pyramids on edge • Nile river",
    "hints": [
     {
      "text": "Egyptian capital",
@@ -1364,6 +1404,7 @@
   },
   {
    "word": "Istanbul",
+   "description": "Turkish city • Bridge of continents • Grand bazaar • Two continents • Domed mosques • Bosphorus strait",
    "hints": [
     {
      "text": "Turkish city",
@@ -1398,6 +1439,7 @@
   },
   {
    "word": "Athens",
+   "description": "Greek capital • Ancient city • Birthplace of democracy • Olympic history • Hilltop temple • Ancient ruins",
    "hints": [
     {
      "text": "Greek capital",
@@ -1432,6 +1474,7 @@
   },
   {
    "word": "Barcelona",
+   "description": "Spanish city • Coastal city • Famous football club • Quirky architecture • Unfinished basilica • Las ramblas",
    "hints": [
     {
      "text": "Spanish city",
@@ -1466,6 +1509,7 @@
   },
   {
    "word": "Madrid",
+   "description": "Spanish capital • Central city • Late dinners • Royal palace • Art museums • Football rivalry",
    "hints": [
     {
      "text": "Spanish capital",
@@ -1500,6 +1544,7 @@
   },
   {
    "word": "Lisbon",
+   "description": "Portuguese capital • Hilly city • Yellow trams • Custard tarts • Fado music • Coastal hills",
    "hints": [
     {
      "text": "Portuguese capital",
@@ -1534,6 +1579,7 @@
   },
   {
    "word": "Amsterdam",
+   "description": "Dutch capital • Canal city • Bicycles everywhere • Museum hub • Canal houses • Tulip markets",
    "hints": [
     {
      "text": "Dutch capital",
@@ -1568,6 +1614,7 @@
   },
   {
    "word": "Berlin",
+   "description": "German capital • Historic city • Divided by a wall • Techno clubs • Famous gate • Currywurst",
    "hints": [
     {
      "text": "German capital",
@@ -1602,6 +1649,7 @@
   },
   {
    "word": "Munich",
+   "description": "German city • Bavarian capital • Autumn festival host • Football club • Pretzels • Alpine views",
    "hints": [
     {
      "text": "German city",
@@ -1636,6 +1684,7 @@
   },
   {
    "word": "Vienna",
+   "description": "Austrian capital • Imperial city • Classical music • Coffee houses • Opera balls • Palaces",
    "hints": [
     {
      "text": "Austrian capital",
@@ -1670,6 +1719,7 @@
   },
   {
    "word": "Prague",
+   "description": "Czech capital • Fairytale city • Castle district • Gothic spires • Astronomical clock • Old bridge",
    "hints": [
     {
      "text": "Czech capital",
@@ -1704,6 +1754,7 @@
   },
   {
    "word": "Budapest",
+   "description": "Hungarian capital • River city • Thermal baths • Two halves • Parliament on river • Chain bridge",
    "hints": [
     {
      "text": "Hungarian capital",
@@ -1738,6 +1789,7 @@
   },
   {
    "word": "Venice",
+   "description": "Italian city • Canal city • Gondola rides • Sinking slowly • Masked carnival • No cars",
    "hints": [
     {
      "text": "Italian city",
@@ -1772,6 +1824,7 @@
   },
   {
    "word": "Florence",
+   "description": "Italian city • Renaissance city • Art masterpieces • Leather markets • Famous dome • Marble statue",
    "hints": [
     {
      "text": "Italian city",
@@ -1806,6 +1859,7 @@
   },
   {
    "word": "Milan",
+   "description": "Italian city • Fashion city • Fashion week • Football rivalry • Gothic cathedral • Famous last supper",
    "hints": [
     {
      "text": "Italian city",
@@ -1840,6 +1894,7 @@
   },
   {
    "word": "Moscow",
+   "description": "Russian capital • Huge city • Freezing winters • Ballet theatre • Red square • Colorful onion domes",
    "hints": [
     {
      "text": "Russian capital",
@@ -1874,6 +1929,7 @@
   },
   {
    "word": "Dublin",
+   "description": "Irish capital • Historic city • Pub culture • Famous writers • Stout brewery • River liffey",
    "hints": [
     {
      "text": "Irish capital",
@@ -1908,6 +1964,7 @@
   },
   {
    "word": "Edinburgh",
+   "description": "Scottish capital • Historic city • Arts festival • Old town • Castle on rock • Bagpipe music",
    "hints": [
     {
      "text": "Scottish capital",
@@ -1942,6 +1999,7 @@
   },
   {
    "word": "Copenhagen",
+   "description": "Danish capital • Harbor city • Cycling city • Happiest people • Colorful harbor houses • Mermaid statue",
    "hints": [
     {
      "text": "Danish capital",
@@ -1976,6 +2034,7 @@
   },
   {
    "word": "Stockholm",
+   "description": "Swedish capital • Island city • Built on islands • Nobel ceremony • Old town • Pop music history",
    "hints": [
     {
      "text": "Swedish capital",
@@ -2010,6 +2069,7 @@
   },
   {
    "word": "Oslo",
+   "description": "Norwegian capital • Fjord city • Peace prize • Ski jump • Viking ship museum • Opera roof walk",
    "hints": [
     {
      "text": "Norwegian capital",
@@ -2044,6 +2104,7 @@
   },
   {
    "word": "Helsinki",
+   "description": "Finnish capital • Northern city • Sauna culture • Design hub • Island fortress • White cathedral",
    "hints": [
     {
      "text": "Finnish capital",
@@ -2078,6 +2139,7 @@
   },
   {
    "word": "Reykjavik",
+   "description": "Icelandic capital • Northernmost capital • Northern lights • Geothermal pools • Rocket shaped church • Colorful roofs",
    "hints": [
     {
      "text": "Icelandic capital",
@@ -2112,6 +2174,7 @@
   },
   {
    "word": "Zurich",
+   "description": "Swiss city • Banking city • Very expensive • Chocolate shops • Lake views • Alpine backdrop",
    "hints": [
     {
      "text": "Swiss city",
@@ -2146,6 +2209,7 @@
   },
   {
    "word": "Geneva",
+   "description": "Swiss city • Diplomatic city • Peace talks • Luxury watches • Giant lake fountain • Mountains nearby",
    "hints": [
     {
      "text": "Swiss city",
@@ -2180,6 +2244,7 @@
   },
   {
    "word": "Brussels",
+   "description": "Belgian capital • European hub • Waffles • Chocolate shops • Grand square • Atomium",
    "hints": [
     {
      "text": "Belgian capital",
@@ -2214,6 +2279,7 @@
   },
   {
    "word": "Warsaw",
+   "description": "Polish capital • Rebuilt city • Composer home • Rebuilt old town • Mermaid symbol • Pierogi",
    "hints": [
     {
      "text": "Polish capital",
@@ -2248,6 +2314,7 @@
   },
   {
    "word": "Krakow",
+   "description": "Polish city • Historic city • Royal castle • Huge market square • Dragon legend • Salt mine nearby",
    "hints": [
     {
      "text": "Polish city",
@@ -2282,6 +2349,7 @@
   },
   {
    "word": "Kyiv",
+   "description": "Ukrainian capital • Historic city • Golden domes • Ancient caves • River city • Chestnut trees",
    "hints": [
     {
      "text": "Ukrainian capital",
@@ -2316,6 +2384,7 @@
   },
   {
    "word": "Nairobi",
+   "description": "Kenyan capital • African city • Safari gateway • Tech hub • National park in city • Giraffe centre",
    "hints": [
     {
      "text": "Kenyan capital",
@@ -2350,6 +2419,7 @@
   },
   {
    "word": "Cape town",
+   "description": "South african city • Coastal city • Vineyard country • Penguin beach • Flat topped mountain • Island prison",
    "hints": [
     {
      "text": "South african city",
@@ -2384,6 +2454,7 @@
   },
   {
    "word": "Lagos",
+   "description": "Nigerian city • Huge metropolis • Music scene • Traffic jams • Jollof rice • Lagoon city",
    "hints": [
     {
      "text": "Nigerian city",
@@ -2418,6 +2489,7 @@
   },
   {
    "word": "Marrakech",
+   "description": "Moroccan city • Red city • Busy souks • Snake charmers • Main square • Riad hotels",
    "hints": [
     {
      "text": "Moroccan city",
@@ -2452,6 +2524,7 @@
   },
   {
    "word": "Casablanca",
+   "description": "Moroccan city • Port city • Classic movie title • Business hub • Huge seaside mosque • White buildings",
    "hints": [
     {
      "text": "Moroccan city",
@@ -2486,6 +2559,7 @@
   },
   {
    "word": "Jerusalem",
+   "description": "Holy city • Ancient city • Sacred to three faiths • Old walls • Golden dome • Western wall",
    "hints": [
     {
      "text": "Holy city",
@@ -2520,6 +2594,7 @@
   },
   {
    "word": "Doha",
+   "description": "Qatari capital • Gulf city • World cup host • Futuristic skyline • Museum of islamic art • Desert dunes",
    "hints": [
     {
      "text": "Qatari capital",
@@ -2554,6 +2629,7 @@
   },
   {
    "word": "Abu dhabi",
+   "description": "Emirati capital • Gulf city • Oil wealth • Grand mosque • White marble mosque • Theme parks",
    "hints": [
     {
      "text": "Emirati capital",
@@ -2588,6 +2664,7 @@
   },
   {
    "word": "Riyadh",
+   "description": "Saudi capital • Desert city • Modern skyline • Royal kingdom • Bottle opener tower • Date palms",
    "hints": [
     {
      "text": "Saudi capital",
@@ -2622,6 +2699,7 @@
   },
   {
    "word": "Tehran",
+   "description": "Iranian capital • Mountain city • Huge bazaar • Snowy peaks nearby • Freedom tower • Persian rugs",
    "hints": [
     {
      "text": "Iranian capital",
@@ -2656,6 +2734,7 @@
   },
   {
    "word": "Kathmandu",
+   "description": "Nepali capital • Valley city • Trekking gateway • Ancient temples • Stupas and prayer flags • Momos",
    "hints": [
     {
      "text": "Nepali capital",
@@ -2690,6 +2769,7 @@
   },
   {
    "word": "Dhaka",
+   "description": "Bangladeshi capital • Crowded city • Rickshaw capital • River trade • Pink palace • Busy rivers",
    "hints": [
     {
      "text": "Bangladeshi capital",
@@ -2724,6 +2804,7 @@
   },
   {
    "word": "Karachi",
+   "description": "Pakistani city • Port city • Biggest city there • Seaside promenade • Street food • Busy harbor",
    "hints": [
     {
      "text": "Pakistani city",
@@ -2758,6 +2839,7 @@
   },
   {
    "word": "Lahore",
+   "description": "Pakistani city • Cultural city • Food lovers • Mughal history • Great mosque • Old walled city",
    "hints": [
     {
      "text": "Pakistani city",
@@ -2792,6 +2874,7 @@
   },
   {
    "word": "Colombo",
+   "description": "Sri lankan city • Port city • Colonial buildings • Tea trade • Seaside green • Lotus tower",
    "hints": [
     {
      "text": "Sri lankan city",
@@ -2826,6 +2909,7 @@
   },
   {
    "word": "Manila",
+   "description": "Philippine capital • Busy metropolis • Jeepneys • Colonial walled city • Bay sunsets • Shopping malls",
    "hints": [
     {
      "text": "Philippine capital",
@@ -2860,6 +2944,7 @@
   },
   {
    "word": "Jakarta",
+   "description": "Indonesian capital • Huge metropolis • Traffic jams • Sinking city • National monument • Street food",
    "hints": [
     {
      "text": "Indonesian capital",
@@ -2894,6 +2979,7 @@
   },
   {
    "word": "Kuala lumpur",
+   "description": "Malaysian capital • Modern city • Twin towers • Food heaven • Cave temples nearby • Night markets",
    "hints": [
     {
      "text": "Malaysian capital",
@@ -2928,6 +3014,7 @@
   },
   {
    "word": "Hanoi",
+   "description": "Vietnamese capital • Historic city • Motorbike chaos • Old quarter • Lake with pagoda • Pho stalls",
    "hints": [
     {
      "text": "Vietnamese capital",
@@ -2962,6 +3049,7 @@
   },
   {
    "word": "Kyoto",
+   "description": "Japanese city • Ancient capital • Thousands of temples • Geisha district • Bamboo grove • Golden pavilion",
    "hints": [
     {
      "text": "Japanese city",
@@ -2996,6 +3084,7 @@
   },
   {
    "word": "Osaka",
+   "description": "Japanese city • Food city • Street food capital • Comedy hub • Neon canal • Takoyaki balls",
    "hints": [
     {
      "text": "Japanese city",
@@ -3030,6 +3119,7 @@
   },
   {
    "word": "Shenzhen",
+   "description": "Chinese city • Tech city • Electronics markets • Fast growth • Factory hub • Modern skyline",
    "hints": [
     {
      "text": "Chinese city",
@@ -3064,6 +3154,7 @@
   },
   {
    "word": "Macau",
+   "description": "Asian city • Gambling city • Casino resorts • Portuguese heritage • Egg tarts • Cobbled squares",
    "hints": [
     {
      "text": "Asian city",
@@ -3098,6 +3189,7 @@
   },
   {
    "word": "Auckland",
+   "description": "New zealand city • Harbor city • City of sails • Volcanic cones • Sky tower • Islands nearby",
    "hints": [
     {
      "text": "New zealand city",
@@ -3132,6 +3224,7 @@
   },
   {
    "word": "Honolulu",
+   "description": "Hawaiian city • Island city • Surfing beaches • Tropical paradise • Famous beach strip • Volcanic crater",
    "hints": [
     {
      "text": "Hawaiian city",
@@ -3166,6 +3259,7 @@
   },
   {
    "word": "Havana",
+   "description": "Cuban capital • Caribbean city • Classic cars • Salsa music • Seaside wall • Colorful colonial",
    "hints": [
     {
      "text": "Cuban capital",
@@ -3200,6 +3294,7 @@
   },
   {
    "word": "Cancun",
+   "description": "Mexican city • Beach resort • Spring break • Turquoise sea • Mayan ruins nearby • Hotel strip",
    "hints": [
     {
      "text": "Mexican city",
@@ -3234,6 +3329,7 @@
   },
   {
    "word": "Santiago",
+   "description": "Chilean capital • Andes city • Mountain backdrop • Vineyard valleys • Hilltop funicular • Snowy peaks",
    "hints": [
     {
      "text": "Chilean capital",
@@ -3268,6 +3364,7 @@
   },
   {
    "word": "Bogota",
+   "description": "Colombian capital • High city • Street art • Coffee culture • Mountain sanctuary • Gold museum",
    "hints": [
     {
      "text": "Colombian capital",
@@ -3302,6 +3399,7 @@
   },
   {
    "word": "Sao paulo",
+   "description": "Brazilian city • Huge metropolis • Biggest southern city • Business hub • Endless skyline • Pizza lovers",
    "hints": [
     {
      "text": "Brazilian city",
@@ -3336,6 +3434,7 @@
   },
   {
    "word": "Philadelphia",
+   "description": "American city • Historic city • Founding fathers • Cheesesteak • Cracked bell • Museum steps",
    "hints": [
     {
      "text": "American city",
@@ -3370,6 +3469,7 @@
   },
   {
    "word": "Orlando",
+   "description": "American city • Theme park capital • Family vacations • Hot and humid • Mouse castle • Roller coasters",
    "hints": [
     {
      "text": "American city",
@@ -3404,6 +3504,7 @@
   },
   {
    "word": "New orleans",
+   "description": "American city • Jazz city • Mardi gras • Creole food • Jazz clubs • Beignets",
    "hints": [
     {
      "text": "American city",
@@ -3438,6 +3539,7 @@
   },
   {
    "word": "Nashville",
+   "description": "American city • Music city • Country music • Hot chicken • Honky tonk bars • Guitar stores",
    "hints": [
     {
      "text": "American city",
@@ -3472,6 +3574,7 @@
   },
   {
    "word": "Houston",
+   "description": "American city • Space city • Mission control • Oil industry • Rodeo • Barbecue",
    "hints": [
     {
      "text": "American city",
@@ -3506,6 +3609,7 @@
   },
   {
    "word": "Atlanta",
+   "description": "American city • Southern city • Busy airport • Peach symbol • Civil rights history • Soft drink museum",
    "hints": [
     {
      "text": "American city",
@@ -3540,6 +3644,7 @@
   },
   {
    "word": "Denver",
+   "description": "American city • Mile high city • Ski trips • Craft breweries • Rocky mountains • Sunny days",
    "hints": [
     {
      "text": "American city",
@@ -3574,6 +3679,7 @@
   },
   {
    "word": "Venice beach",
+   "description": "Californian district • Seaside neighborhood • Skate park • Street performers • Outdoor gym • Canal homes",
    "hints": [
     {
      "text": "Californian district",
@@ -3608,6 +3714,7 @@
   },
   {
    "word": "Ottawa",
+   "description": "Canadian capital • River city • Parliament hill • Winter skating • Frozen canal • Tulip festival",
    "hints": [
     {
      "text": "Canadian capital",
@@ -3642,6 +3749,7 @@
   },
   {
    "word": "Quebec city",
+   "description": "Canadian capital region • Francophone hub • Walled old town • Winter carnival • Castle hotel • Cobblestone streets",
    "hints": [
     {
      "text": "Canadian capital region",
@@ -3676,6 +3784,7 @@
   },
   {
    "word": "Seville",
+   "description": "Spanish city • Southern city • Flamenco dance • Orange trees • Huge cathedral • Royal palace gardens",
    "hints": [
     {
      "text": "Spanish city",
@@ -3710,6 +3819,7 @@
   },
   {
    "word": "Porto",
+   "description": "Portuguese city • River city • Riverside cellars • Riverside houses • Tiled churches • Iron bridge",
    "hints": [
     {
      "text": "Portuguese city",
@@ -3744,6 +3854,7 @@
   },
   {
    "word": "Nice",
+   "description": "French city • Riviera city • Seaside promenade • Pebbly beach • Blue bay • Flower market",
    "hints": [
     {
      "text": "French city",
@@ -3778,6 +3889,7 @@
   },
   {
    "word": "Marseille",
+   "description": "French city • Port city • Fish stew • Oldest french city • Old port • Hilltop basilica",
    "hints": [
     {
      "text": "French city",
@@ -3812,6 +3924,7 @@
   },
   {
    "word": "Lyon",
+   "description": "French city • Food city • Gastronomy capital • Silk history • Two rivers • Festival of lights",
    "hints": [
     {
      "text": "French city",
@@ -3846,6 +3959,7 @@
   },
   {
    "word": "Naples",
+   "description": "Italian city • Port city • Birthplace of pizza • Lively streets • Volcano nearby • Buried city ruins",
    "hints": [
     {
      "text": "Italian city",
@@ -3880,6 +3994,7 @@
   },
   {
    "word": "Salzburg",
+   "description": "Austrian city • Musical city • Famous composer birthplace • Musical film • Hilltop fortress • Baroque old town",
    "hints": [
     {
      "text": "Austrian city",
@@ -3914,6 +4029,7 @@
   },
   {
    "word": "Bruges",
+   "description": "Belgian city • Medieval city • Canals and chocolate • Lace makers • Bell tower • Cobbled squares",
    "hints": [
     {
      "text": "Belgian city",
@@ -3948,6 +4064,7 @@
   },
   {
    "word": "Santorini",
+   "description": "Greek island • Volcanic island • Famous sunsets • Honeymoon spot • White houses • Blue domes",
    "hints": [
     {
      "text": "Greek island",
@@ -3982,6 +4099,7 @@
   },
   {
    "word": "Mykonos",
+   "description": "Greek island • Party island • Windmills • Beach clubs • White alleys • Pelican mascot",
    "hints": [
     {
      "text": "Greek island",
@@ -4016,6 +4134,7 @@
   },
   {
    "word": "Bali",
+   "description": "Indonesian island • Tropical island • Surfing paradise • Yoga retreats • Rice terraces • Temple gates",
    "hints": [
     {
      "text": "Indonesian island",
@@ -4050,6 +4169,7 @@
   },
   {
    "word": "Phuket",
+   "description": "Thai island • Beach destination • Party beaches • Island hopping • Limestone cliffs • Big buddha",
    "hints": [
     {
      "text": "Thai island",
@@ -4084,6 +4204,7 @@
   },
   {
    "word": "Kandy",
+   "description": "Sri lankan city • Hill city • Sacred tooth temple • Elephant parade • Lakeside city • Tea hills",
    "hints": [
     {
      "text": "Sri lankan city",
@@ -4118,6 +4239,7 @@
   },
   {
    "word": "Darjeeling",
+   "description": "Indian hill town • Tea town • Toy train • Himalayan views • Tea gardens • Sunrise peak",
    "hints": [
     {
      "text": "Indian hill town",
@@ -4152,6 +4274,7 @@
   },
   {
    "word": "Shimla",
+   "description": "Indian hill town • Summer capital • Colonial history • Toy train • Mall road • Snowy winters",
    "hints": [
     {
      "text": "Indian hill town",
@@ -4186,6 +4309,7 @@
   },
   {
    "word": "Manali",
+   "description": "Indian hill town • Adventure town • Snowy passes • Backpacker hub • Apple orchards • Paragliding",
    "hints": [
     {
      "text": "Indian hill town",
@@ -4220,6 +4344,7 @@
   },
   {
    "word": "Rishikesh",
+   "description": "Indian town • Yoga capital • River rafting • Spiritual retreats • Suspension bridges • Evening river prayers",
    "hints": [
     {
      "text": "Indian town",
@@ -4254,6 +4379,7 @@
   },
   {
    "word": "Udaipur",
+   "description": "Indian city • City of lakes • Romantic palaces • Royal weddings • Lake palace hotel • Boat rides",
    "hints": [
     {
      "text": "Indian city",
@@ -4288,6 +4414,7 @@
   },
   {
    "word": "Amritsar",
+   "description": "Indian city • Holy city • Golden temple • Border ceremony • Community kitchen • Stuffed kulcha",
    "hints": [
     {
      "text": "Indian city",
@@ -4322,6 +4449,7 @@
   },
   {
    "word": "Pune",
+   "description": "Indian city • Student city • Pleasant weather • Tech hub • Historic fort • Misal pav",
    "hints": [
     {
      "text": "Indian city",
@@ -4356,6 +4484,7 @@
   },
   {
    "word": "Lucknow",
+   "description": "Indian city • City of nawabs • Fine manners • Kebab heaven • Grand gateway • Chikan embroidery",
    "hints": [
     {
      "text": "Indian city",
@@ -4390,6 +4519,7 @@
   },
   {
    "word": "Kochi",
+   "description": "Indian city • Port city • Spice trade • Backwaters gateway • Chinese fishing nets • Colonial fort area",
    "hints": [
     {
      "text": "Indian city",
@@ -4424,6 +4554,7 @@
   },
   {
    "word": "Mysore",
+   "description": "Indian city • Royal city • Grand palace • Silk sarees • Dussehra lights • Sandalwood",
    "hints": [
     {
      "text": "Indian city",
@@ -4458,6 +4589,7 @@
   },
   {
    "word": "Leh",
+   "description": "Indian town • High desert town • Mountain passes • Monasteries • Blue lakes • Prayer wheels",
    "hints": [
     {
      "text": "Indian town",
@@ -4492,6 +4624,7 @@
   },
   {
    "word": "Pondicherry",
+   "description": "Indian town • Coastal town • French quarter • Spiritual ashram • Yellow colonial houses • Seaside promenade",
    "hints": [
     {
      "text": "Indian town",
@@ -4526,6 +4659,7 @@
   },
   {
    "word": "Ahmedabad",
+   "description": "Indian city • Gujarati city • Kite festival • Textile history • Stepwells • Riverside ashram",
    "hints": [
     {
      "text": "Indian city",
@@ -4560,6 +4694,7 @@
   },
   {
    "word": "Chandigarh",
+   "description": "Indian city • Planned city • Modernist design • Very green • Rock garden • Lake promenade",
    "hints": [
     {
      "text": "Indian city",
@@ -4594,6 +4729,7 @@
   },
   {
    "word": "Bhopal",
+   "description": "Indian city • City of lakes • Central indian capital • Lakes and mosques • Upper lake • Tribal museum",
    "hints": [
     {
      "text": "Indian city",
@@ -4628,6 +4764,7 @@
   },
   {
    "word": "Indore",
+   "description": "Indian city • Cleanest city • Street food hub • Night market • Poha and jalebi • Royal palace",
    "hints": [
     {
      "text": "Indian city",
@@ -4662,6 +4799,7 @@
   },
   {
    "word": "Patna",
+   "description": "Indian city • Ancient city • Very old city • River city • Long river bridge • Litti chokha",
    "hints": [
     {
      "text": "Indian city",
@@ -4696,6 +4834,7 @@
   },
   {
    "word": "Guwahati",
+   "description": "Indian city • Northeast gateway • Tea trade • River island • Hilltop temple • Brahmaputra river",
    "hints": [
     {
      "text": "Indian city",
@@ -4730,6 +4869,7 @@
   },
   {
    "word": "Shillong",
+   "description": "Northeastern mountain resort • Scotland of east • Rock music • Waterfalls • Pine forests • Living root bridges",
    "hints": [
     {
      "text": "Northeastern mountain resort",
@@ -4764,6 +4904,7 @@
   },
   {
    "word": "Dallas",
+   "description": "American city • Texan metropolis • Cowboys and rodeos • Big business • Steakhouses • Wide highways",
    "hints": [
     {
      "text": "American city",
@@ -4798,6 +4939,7 @@
   },
   {
    "word": "Austin",
+   "description": "American city • Texan capital • Live music capital • Tech scene • Bat bridge • Food trucks",
    "hints": [
     {
      "text": "American city",
@@ -4832,6 +4974,7 @@
   },
   {
    "word": "Portland",
+   "description": "American city • Quirky city • Craft coffee • Bike friendly • Food carts • Rose gardens",
    "hints": [
     {
      "text": "American city",
@@ -4866,6 +5009,7 @@
   },
   {
    "word": "San diego",
+   "description": "American city • Coastal city • Famous zoo • Sunny weather • Navy harbor • Fish tacos",
    "hints": [
     {
      "text": "American city",
@@ -4900,6 +5044,7 @@
   },
   {
    "word": "Phoenix",
+   "description": "American city • Desert city • Very hot summers • Golf resorts • Saguaro cactus • Red rocks nearby",
    "hints": [
     {
      "text": "American city",
@@ -4934,6 +5079,7 @@
   },
   {
    "word": "Detroit",
+   "description": "American city • Motor city • Car industry • Soul music label • Assembly lines • Riverfront",
    "hints": [
     {
      "text": "American city",
@@ -4968,6 +5114,7 @@
   },
   {
    "word": "Glasgow",
+   "description": "Scottish city • Industrial city • Football rivalry • Music scene • Victorian buildings • River clyde",
    "hints": [
     {
      "text": "Scottish city",
@@ -5002,6 +5149,7 @@
   },
   {
    "word": "Manchester",
+   "description": "English city • Industrial city • Football giants • Music scene • Red brick mills • Rainy days",
    "hints": [
     {
      "text": "English city",
@@ -5036,6 +5184,7 @@
   },
   {
    "word": "Liverpool",
+   "description": "English city • Port city • Famous band birthplace • Football rivals • Docks • Ferry crossing",
    "hints": [
     {
      "text": "English city",
@@ -5070,6 +5219,7 @@
   },
   {
    "word": "Oxford",
+   "description": "English city • University city • Dreaming spires • Famous colleges • Punting boats • Ancient libraries",
    "hints": [
     {
      "text": "English city",
@@ -5104,6 +5254,7 @@
   },
   {
    "word": "Cambridge",
+   "description": "English city • University city • Famous college • Science history • Punting on river • Bicycles",
    "hints": [
     {
      "text": "English city",
@@ -5138,6 +5289,7 @@
   },
   {
    "word": "Granada",
+   "description": "Spanish city • Moorish city • Flamenco caves • Free tapas • Red fortress palace • Snowy mountains",
    "hints": [
     {
      "text": "Spanish city",
@@ -5172,6 +5324,7 @@
   },
   {
    "word": "Valencia",
+   "description": "Spanish city • Coastal city • Paella birthplace • Orange groves • Futuristic arts complex • Fire festival",
    "hints": [
     {
      "text": "Spanish city",

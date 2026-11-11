@@ -4,6 +4,7 @@
  "words": [
   {
    "word": "Chair",
+   "description": "Furniture • Seat • Found at desks • Pulled up to tables • Four legs • Has a backrest",
    "hints": [
     {
      "text": "Furniture",
@@ -38,6 +39,7 @@
   },
   {
    "word": "Table",
+   "description": "Furniture • Flat surface • Family meals • Holds dishes • Four legs • Wooden top",
    "hints": [
     {
      "text": "Furniture",
@@ -72,6 +74,7 @@
   },
   {
    "word": "Sofa",
+   "description": "Furniture • Living room seat • Movie nights • Naps on weekends • Soft cushions • Seats three",
    "hints": [
     {
      "text": "Furniture",
@@ -106,6 +109,7 @@
   },
   {
    "word": "Bed",
+   "description": "Furniture • Bedroom item • Sleep every night • Made each morning • Mattress and pillows • Headboard",
    "hints": [
     {
      "text": "Furniture",
@@ -140,6 +144,7 @@
   },
   {
    "word": "Pillow",
+   "description": "Bedroom item • Soft object • Fights at sleepovers • Under your head • Feather stuffing • Fluffed up",
    "hints": [
     {
      "text": "Bedroom item",
@@ -174,6 +179,7 @@
   },
   {
    "word": "Blanket",
+   "description": "Bedding • Warm cover • Snuggled on couch • Kept in cupboards • Woolly or fleecy • Tucked in",
    "hints": [
     {
      "text": "Bedding",
@@ -208,6 +214,7 @@
   },
   {
    "word": "Lamp",
+   "description": "Light source • Furniture • Bedside reading • Switched on at night • Fabric shade • Bulb inside",
    "hints": [
     {
      "text": "Light source",
@@ -242,6 +249,7 @@
   },
   {
    "word": "Mirror",
+   "description": "Reflective object • Wall item • Check your hair • Bathroom fixture • Glass surface • Shows reflection",
    "hints": [
     {
      "text": "Reflective object",
@@ -276,6 +284,7 @@
   },
   {
    "word": "Clock",
+   "description": "Time keeper • Wall item • Ticks quietly • Alarm in morning • Hour and minute hands • Round face",
    "hints": [
     {
      "text": "Time keeper",
@@ -310,6 +319,7 @@
   },
   {
    "word": "Television",
+   "description": "Electronic device • Living room item • Watch shows • Family movie nights • Remote control • Big screen",
    "hints": [
     {
      "text": "Electronic device",
@@ -344,6 +354,7 @@
   },
   {
    "word": "Refrigerator",
+   "description": "Kitchen appliance • Cold box • Keeps food fresh • Magnets on door • Hums quietly • Ice cubes inside",
    "hints": [
     {
      "text": "Kitchen appliance",
@@ -378,6 +389,7 @@
   },
   {
    "word": "Oven",
+   "description": "Kitchen appliance • Hot box • Bakes cakes • Roasts dinners • Preheat first • Glass door",
    "hints": [
     {
      "text": "Kitchen appliance",
@@ -412,6 +424,7 @@
   },
   {
    "word": "Microwave",
+   "description": "Kitchen appliance • Quick heater • Reheats leftovers • Pops popcorn • Spinning plate • Beeps when done",
    "hints": [
     {
      "text": "Kitchen appliance",
@@ -446,6 +459,7 @@
   },
   {
    "word": "Toaster",
+   "description": "Kitchen appliance • Breakfast gadget • Pops up bread • Morning routine • Two slots • Crumb tray",
    "hints": [
     {
      "text": "Kitchen appliance",
@@ -480,6 +494,7 @@
   },
   {
    "word": "Kettle",
+   "description": "Kitchen appliance • Water heater • Makes tea • Whistles or clicks • Spout and handle • Boils water",
    "hints": [
     {
      "text": "Kitchen appliance",
@@ -514,6 +529,7 @@
   },
   {
    "word": "Blender",
+   "description": "Kitchen appliance • Mixing machine • Makes smoothies • Very noisy • Spinning blades • Glass jug",
    "hints": [
     {
      "text": "Kitchen appliance",
@@ -548,6 +564,7 @@
   },
   {
    "word": "Dishwasher",
+   "description": "Kitchen appliance • Cleaning machine • Saves time after dinner • Loaded with plates • Racks and spray arms • Detergent tablets",
    "hints": [
     {
      "text": "Kitchen appliance",
@@ -582,6 +599,7 @@
   },
   {
    "word": "Washing machine",
+   "description": "Laundry appliance • Cleaning appliance • Spins clothes • Weekly chores • Round door • Detergent drawer",
    "hints": [
     {
      "text": "Laundry appliance",
@@ -616,6 +634,7 @@
   },
   {
    "word": "Vacuum cleaner",
+   "description": "Cleaning appliance • Floor machine • Very noisy • Weekend chores • Sucks dust • Long hose",
    "hints": [
     {
      "text": "Cleaning appliance",
@@ -650,6 +669,7 @@
   },
   {
    "word": "Broom",
+   "description": "Cleaning tool • Sweeping tool • Witches ride them • Kitchen corner • Long handle • Stiff bristles",
    "hints": [
     {
      "text": "Cleaning tool",
@@ -684,6 +704,7 @@
   },
   {
    "word": "Mop",
+   "description": "Cleaning tool • Floor cleaner • Wet floor signs • Bucket partner • Stringy head • Long handle",
    "hints": [
     {
      "text": "Cleaning tool",
@@ -718,6 +739,7 @@
   },
   {
    "word": "Bucket",
+   "description": "Container • Carrying pail • Beach sandcastles • Mop partner • Metal handle • Holds water",
    "hints": [
     {
      "text": "Container",
@@ -752,6 +774,7 @@
   },
   {
    "word": "Sponge",
+   "description": "Cleaning item • Soft scrubber • Washing dishes • Soaks up spills • Yellow and green • Full of holes",
    "hints": [
     {
      "text": "Cleaning item",
@@ -786,6 +809,7 @@
   },
   {
    "word": "Towel",
+   "description": "Bathroom item • Drying cloth • After a shower • Beach essential • Fluffy cotton • Hung on rails",
    "hints": [
     {
      "text": "Bathroom item",
@@ -820,6 +844,7 @@
   },
   {
    "word": "Soap",
+   "description": "Cleaning item • Bathroom item • Wash your hands • Bubbles and lather • Slippery bar • Smells nice",
    "hints": [
     {
      "text": "Cleaning item",
@@ -854,6 +879,7 @@
   },
   {
    "word": "Toothbrush",
+   "description": "Bathroom item • Dental tool • Use twice a day • Replace often • Small bristle head • Long handle",
    "hints": [
     {
      "text": "Bathroom item",
@@ -888,6 +914,7 @@
   },
   {
    "word": "Toothpaste",
+   "description": "Bathroom item • Dental product • Squeezed from tube • Minty fresh • Fluoride • Foamy",
    "hints": [
     {
      "text": "Bathroom item",
@@ -922,6 +949,7 @@
   },
   {
    "word": "Shampoo",
+   "description": "Bathroom item • Hair product • Lather and rinse • Shower routine • Squeezy bottle • Bubbly foam",
    "hints": [
     {
      "text": "Bathroom item",
@@ -956,6 +984,7 @@
   },
   {
    "word": "Comb",
+   "description": "Grooming tool • Hair tool • Pocket sized • Parting hair • Row of teeth • Plastic or wood",
    "hints": [
     {
      "text": "Grooming tool",
@@ -990,6 +1019,7 @@
   },
   {
    "word": "Hairdryer",
+   "description": "Grooming appliance • Bathroom gadget • Loud blowing • After showers • Hot air nozzle • Handheld",
    "hints": [
     {
      "text": "Grooming appliance",
@@ -1024,6 +1054,7 @@
   },
   {
    "word": "Iron",
+   "description": "Laundry appliance • Hot tool • Removes wrinkles • Pressing board • Steam holes • Flat hot plate",
    "hints": [
     {
      "text": "Laundry appliance",
@@ -1058,6 +1089,7 @@
   },
   {
    "word": "Fan",
+   "description": "Cooling device • Electric appliance • Summer relief • Spins quietly • Rotating blades • Ceiling or desk",
    "hints": [
     {
      "text": "Cooling device",
@@ -1092,6 +1124,7 @@
   },
   {
    "word": "Heater",
+   "description": "Warming device • Electric appliance • Winter comfort • Glowing coils • Thermostat • Warm air",
    "hints": [
     {
      "text": "Warming device",
@@ -1126,6 +1159,7 @@
   },
   {
    "word": "Air conditioner",
+   "description": "Cooling appliance • Climate control • Summer savior • Remote control • Wall unit • Cold vents",
    "hints": [
     {
      "text": "Cooling appliance",
@@ -1160,6 +1194,7 @@
   },
   {
    "word": "Curtain",
+   "description": "Window cover • Fabric item • Blocks sunlight • Drawn at night • Hung on rods • Long fabric",
    "hints": [
     {
      "text": "Window cover",
@@ -1194,6 +1229,7 @@
   },
   {
    "word": "Rug",
+   "description": "Floor covering • Decor item • Under the coffee table • Patterned • Soft woven • Rolled up",
    "hints": [
     {
      "text": "Floor covering",
@@ -1228,6 +1264,7 @@
   },
   {
    "word": "Doormat",
+   "description": "Floor item • Entrance item • Wipe your feet • Says welcome • Bristly surface • Front step",
    "hints": [
     {
      "text": "Floor item",
@@ -1262,6 +1299,7 @@
   },
   {
    "word": "Vase",
+   "description": "Decor item • Flower holder • Holds bouquets • Placed on tables • Glass or ceramic • Narrow neck",
    "hints": [
     {
      "text": "Decor item",
@@ -1296,6 +1334,7 @@
   },
   {
    "word": "Candle",
+   "description": "Light source • Decor item • Birthday cakes • Power outages • Wax and wick • Flickering flame",
    "hints": [
     {
      "text": "Light source",
@@ -1330,6 +1369,7 @@
   },
   {
    "word": "Picture frame",
+   "description": "Decor item • Wall item • Family photos • Hung on walls • Glass front • Wooden border",
    "hints": [
     {
      "text": "Decor item",
@@ -1364,6 +1404,7 @@
   },
   {
    "word": "Bookshelf",
+   "description": "Furniture • Storage • Holds novels • Library look • Rows of planks • Tall and wooden",
    "hints": [
     {
      "text": "Furniture",
@@ -1398,6 +1439,7 @@
   },
   {
    "word": "Wardrobe",
+   "description": "Furniture • Clothes storage • Holds hangers • Bedroom item • Tall doors • Rail inside",
    "hints": [
     {
      "text": "Furniture",
@@ -1432,6 +1474,7 @@
   },
   {
    "word": "Drawer",
+   "description": "Furniture part • Storage • Socks and cutlery • Pulled out • Sliding box • Knob or handle",
    "hints": [
     {
      "text": "Furniture part",
@@ -1466,6 +1509,7 @@
   },
   {
    "word": "Cupboard",
+   "description": "Storage • Kitchen furniture • Holds dishes • Above counters • Wooden doors • Shelves inside",
    "hints": [
     {
      "text": "Storage",
@@ -1500,6 +1544,7 @@
   },
   {
    "word": "Desk",
+   "description": "Furniture • Work surface • Homework and offices • Holds computers • Drawers underneath • Flat top",
    "hints": [
     {
      "text": "Furniture",
@@ -1534,6 +1579,7 @@
   },
   {
    "word": "Stool",
+   "description": "Furniture • Small seat • Breakfast bars • Pianists sit on it • No backrest • Three or four legs",
    "hints": [
     {
      "text": "Furniture",
@@ -1568,6 +1614,7 @@
   },
   {
    "word": "Bench",
+   "description": "Furniture • Long seat • Park seats • Dining or garden • Wooden slats • Seats several",
    "hints": [
     {
      "text": "Furniture",
@@ -1602,6 +1649,7 @@
   },
   {
    "word": "Hammock",
+   "description": "Outdoor furniture • Hanging bed • Lazy afternoons • Beach relaxing • Tied between trees • Rope netting",
    "hints": [
     {
      "text": "Outdoor furniture",
@@ -1636,6 +1684,7 @@
   },
   {
    "word": "Plate",
+   "description": "Kitchenware • Dish • Holds dinner • Washed after meals • Round and flat • Ceramic",
    "hints": [
     {
      "text": "Kitchenware",
@@ -1670,6 +1719,7 @@
   },
   {
    "word": "Bowl",
+   "description": "Kitchenware • Dish • Cereal and soup • Mixing batter • Round and deep • Curved sides",
    "hints": [
     {
      "text": "Kitchenware",
@@ -1704,6 +1754,7 @@
   },
   {
    "word": "Cup",
+   "description": "Kitchenware • Drinking vessel • Morning tea • Sits on a saucer • Has a handle • Holds hot drinks",
    "hints": [
     {
      "text": "Kitchenware",
@@ -1738,6 +1789,7 @@
   },
   {
    "word": "Mug",
+   "description": "Kitchenware • Drinking vessel • Hot cocoa • Office desk • Thick handle • Printed designs",
    "hints": [
     {
      "text": "Kitchenware",
@@ -1772,6 +1824,7 @@
   },
   {
    "word": "Glass",
+   "description": "Kitchenware • Drinking vessel • Holds water • Clinked at toasts • Clear and fragile • Breaks easily",
    "hints": [
     {
      "text": "Kitchenware",
@@ -1806,6 +1859,7 @@
   },
   {
    "word": "Fork",
+   "description": "Cutlery • Eating utensil • Twirls spaghetti • Left of plate • Pronged tines • Metal handle",
    "hints": [
     {
      "text": "Cutlery",
@@ -1840,6 +1894,7 @@
   },
   {
    "word": "Spoon",
+   "description": "Cutlery • Eating utensil • Soup and cereal • Stirs tea • Round shallow bowl • Metal handle",
    "hints": [
     {
      "text": "Cutlery",
@@ -1874,6 +1929,7 @@
   },
   {
    "word": "Knife",
+   "description": "Cutlery • Cutting tool • Slices bread • Right of plate • Sharp blade • Serrated edge",
    "hints": [
     {
      "text": "Cutlery",
@@ -1908,6 +1964,7 @@
   },
   {
    "word": "Chopsticks",
+   "description": "Eating utensil • Asian cutlery • Used for sushi • Tricky to learn • Two thin rods • Wood or bamboo",
    "hints": [
     {
      "text": "Eating utensil",
@@ -1942,6 +1999,7 @@
   },
   {
    "word": "Frying pan",
+   "description": "Cookware • Kitchen tool • Cooks eggs • Sizzling sounds • Long handle • Flat bottom",
    "hints": [
     {
      "text": "Cookware",
@@ -1976,6 +2034,7 @@
   },
   {
    "word": "Pot",
+   "description": "Cookware • Cooking vessel • Boils pasta • Soups and stews • Lid on top • Two handles",
    "hints": [
     {
      "text": "Cookware",
@@ -2010,6 +2069,7 @@
   },
   {
    "word": "Wok",
+   "description": "Cookware • Asian pan • Stir fry • High heat • Deep curved bowl • Tossing food",
    "hints": [
     {
      "text": "Cookware",
@@ -2044,6 +2104,7 @@
   },
   {
    "word": "Ladle",
+   "description": "Kitchen tool • Serving spoon • Serves soup • Hangs on hooks • Deep cup • Long handle",
    "hints": [
     {
      "text": "Kitchen tool",
@@ -2078,6 +2139,7 @@
   },
   {
    "word": "Spatula",
+   "description": "Kitchen tool • Flipping tool • Flips pancakes • Scrapes bowls • Flat blade • Long handle",
    "hints": [
     {
      "text": "Kitchen tool",
@@ -2112,6 +2174,7 @@
   },
   {
    "word": "Whisk",
+   "description": "Kitchen tool • Mixing tool • Beats eggs • Whips cream • Wire loops • Balloon shape",
    "hints": [
     {
      "text": "Kitchen tool",
@@ -2146,6 +2209,7 @@
   },
   {
    "word": "Rolling pin",
+   "description": "Kitchen tool • Baking tool • Flattens dough • Cookie making • Wooden cylinder • Two handles",
    "hints": [
     {
      "text": "Kitchen tool",
@@ -2180,6 +2244,7 @@
   },
   {
    "word": "Grater",
+   "description": "Kitchen tool • Shredding tool • Cheese and carrots • Scraped knuckles • Sharp holes • Box shape",
    "hints": [
     {
      "text": "Kitchen tool",
@@ -2214,6 +2279,7 @@
   },
   {
    "word": "Peeler",
+   "description": "Kitchen tool • Prep tool • Potatoes and carrots • Removes skin • Swivel blade • Small handle",
    "hints": [
     {
      "text": "Kitchen tool",
@@ -2248,6 +2314,7 @@
   },
   {
    "word": "Can opener",
+   "description": "Kitchen tool • Gadget • Opens tins • Hand cranked • Rotating wheel • Sharp cutter",
    "hints": [
     {
      "text": "Kitchen tool",
@@ -2282,6 +2349,7 @@
   },
   {
    "word": "Bottle opener",
+   "description": "Kitchen gadget • Small tool • Pops caps • Party drawer item • Metal lever • Fits in pocket",
    "hints": [
     {
      "text": "Kitchen gadget",
@@ -2316,6 +2384,7 @@
   },
   {
    "word": "Cutting board",
+   "description": "Kitchen tool • Prep surface • Chopping vegetables • Wooden or plastic • Flat slab • Knife marks",
    "hints": [
     {
      "text": "Kitchen tool",
@@ -2350,6 +2419,7 @@
   },
   {
    "word": "Teapot",
+   "description": "Kitchenware • Serving pot • Afternoon tea • Brews leaves • Spout and lid • Round and squat",
    "hints": [
     {
      "text": "Kitchenware",
@@ -2384,6 +2454,7 @@
   },
   {
    "word": "Jug",
+   "description": "Kitchenware • Pouring vessel • Holds water or milk • Table centerpiece • Spout and handle • Tall body",
    "hints": [
     {
      "text": "Kitchenware",
@@ -2418,6 +2489,7 @@
   },
   {
    "word": "Tray",
+   "description": "Serving item • Flat carrier • Breakfast in bed • Carries drinks • Raised edges • Two handles",
    "hints": [
     {
      "text": "Serving item",
@@ -2452,6 +2524,7 @@
   },
   {
    "word": "Napkin",
+   "description": "Table item • Cloth square • Wipe your mouth • Folded fancy • Paper or cloth • On your lap",
    "hints": [
     {
      "text": "Table item",
@@ -2486,6 +2559,7 @@
   },
   {
    "word": "Tablecloth",
+   "description": "Dining item • Fabric cover • Holiday dinners • Protects surface • Large fabric sheet • Checkered pattern",
    "hints": [
     {
      "text": "Dining item",
@@ -2520,6 +2594,7 @@
   },
   {
    "word": "Trash can",
+   "description": "Waste bin • Household item • Taken out weekly • Kitchen corner • Foot pedal lid • Liner bag",
    "hints": [
     {
      "text": "Waste bin",
@@ -2554,6 +2629,7 @@
   },
   {
    "word": "Laundry basket",
+   "description": "Household item • Clothes holder • Dirty clothes • Carried to washer • Woven or plastic • Two handles",
    "hints": [
     {
      "text": "Household item",
@@ -2588,6 +2664,7 @@
   },
   {
    "word": "Ironing board",
+   "description": "Household item • Folding stand • Laundry day • Folds flat • Padded cover • Metal legs",
    "hints": [
     {
      "text": "Household item",
@@ -2622,6 +2699,7 @@
   },
   {
    "word": "Ladder",
+   "description": "Household tool • Climbing tool • Reach high shelves • Changing bulbs • Rungs • Folding legs",
    "hints": [
     {
      "text": "Household tool",
@@ -2656,6 +2734,7 @@
   },
   {
    "word": "Hammer",
+   "description": "Tool • Hand tool • Hangs pictures • Builder's best friend • Claw end • Hits nails",
    "hints": [
     {
      "text": "Tool",
@@ -2690,6 +2769,7 @@
   },
   {
    "word": "Screwdriver",
+   "description": "Tool • Hand tool • Assembles furniture • Fixes things • Flat or cross tip • Twisting",
    "hints": [
     {
      "text": "Tool",
@@ -2724,6 +2804,7 @@
   },
   {
    "word": "Toolbox",
+   "description": "Storage • Hardware holder • Kept in garage • Weekend fixes • Handle on top • Trays inside",
    "hints": [
     {
      "text": "Storage",
@@ -2758,6 +2839,7 @@
   },
   {
    "word": "Flashlight",
+   "description": "Battery device • Handheld device • Power outages • Camping trips • Batteries inside • Bright beam",
    "hints": [
     {
      "text": "Battery device",
@@ -2792,6 +2874,7 @@
   },
   {
    "word": "Battery",
+   "description": "Power source • Small cell • Powers remotes • Runs out • Plus and minus • Recharge or replace",
    "hints": [
     {
      "text": "Power source",
@@ -2826,6 +2909,7 @@
   },
   {
    "word": "Light bulb",
+   "description": "Electric part • Glass object • Screwed into lamps • Idea symbol • Glass globe • Glowing filament",
    "hints": [
     {
      "text": "Electric part",
@@ -2860,6 +2944,7 @@
   },
   {
    "word": "Extension cord",
+   "description": "Electrical item • Power cable • More outlets • Trip hazard • Long wire • Multiple sockets",
    "hints": [
     {
      "text": "Electrical item",
@@ -2894,6 +2979,7 @@
   },
   {
    "word": "Remote control",
+   "description": "Gadget • Handheld device • Lost in sofa • Changes channels • Rubber buttons • Points at screen",
    "hints": [
     {
      "text": "Gadget",
@@ -2928,6 +3014,7 @@
   },
   {
    "word": "Doorbell",
+   "description": "Entrance device • Chime • Rings when guests arrive • Ding dong • Button by entrance • Camera models",
    "hints": [
     {
      "text": "Entrance device",
@@ -2962,6 +3049,7 @@
   },
   {
    "word": "Lock",
+   "description": "Security device • Door item • Keeps burglars out • Turned with key • Keyhole • Metal bolt",
    "hints": [
     {
      "text": "Security device",
@@ -2996,6 +3084,7 @@
   },
   {
    "word": "Key",
+   "description": "Small tool • Metal object • Opens doors • Often lost • Jagged teeth • Kept on rings",
    "hints": [
     {
      "text": "Small tool",
@@ -3030,6 +3119,7 @@
   },
   {
    "word": "Umbrella",
+   "description": "Rain gear • Folding object • Rainy days • Left on trains • Opens like a canopy • Curved handle",
    "hints": [
     {
      "text": "Rain gear",
@@ -3064,6 +3154,7 @@
   },
   {
    "word": "Coat hanger",
+   "description": "Closet item • Clothes holder • Hangs shirts • Wire or wood • Hook top • Triangle shape",
    "hints": [
     {
      "text": "Closet item",
@@ -3098,6 +3189,7 @@
   },
   {
    "word": "Clothespin",
+   "description": "Laundry item • Small clip • Hangs washing • Outside line • Spring clip • Wooden pegs",
    "hints": [
     {
      "text": "Laundry item",
@@ -3132,6 +3224,7 @@
   },
   {
    "word": "Alarm clock",
+   "description": "Bedside item • Wake up device • Snooze button • Annoying ring • Ticking face • Loud buzzer",
    "hints": [
     {
      "text": "Bedside item",
@@ -3166,6 +3259,7 @@
   },
   {
    "word": "Cushion",
+   "description": "Decor item • Soft object • On sofas • Thrown in fights • Square and plump • Decorative cover",
    "hints": [
     {
      "text": "Decor item",
@@ -3200,6 +3294,7 @@
   },
   {
    "word": "Beanbag",
+   "description": "Furniture • Squishy seat • Gaming corners • Kids rooms • Filled with beads • Shapeless",
    "hints": [
     {
      "text": "Furniture",
@@ -3234,6 +3329,7 @@
   },
   {
    "word": "Bathtub",
+   "description": "Bathroom fixture • Washing tub • Bubble baths • Rubber ducks • Fill with water • Plug at bottom",
    "hints": [
     {
      "text": "Bathroom fixture",
@@ -3268,6 +3364,7 @@
   },
   {
    "word": "Shower",
+   "description": "Bathroom fixture • Washing area • Morning routine • Sing in it • Water spray head • Curtain or glass",
    "hints": [
     {
      "text": "Bathroom fixture",
@@ -3302,6 +3399,7 @@
   },
   {
    "word": "Sink",
+   "description": "Kitchen fixture • Basin • Wash dishes • Brush teeth • Faucet • Drain hole",
    "hints": [
     {
      "text": "Kitchen fixture",
@@ -3336,6 +3434,7 @@
   },
   {
    "word": "Toilet",
+   "description": "Bathroom fixture • Porcelain throne • Flushes • Seat up or down • Tank and bowl • Paper roll nearby",
    "hints": [
     {
      "text": "Bathroom fixture",
@@ -3370,6 +3469,7 @@
   },
   {
    "word": "Faucet",
+   "description": "Plumbing fixture • Water tap • Drips at night • Hot and cold • Turn the handle • Spout over sink",
    "hints": [
     {
      "text": "Plumbing fixture",
@@ -3404,6 +3504,7 @@
   },
   {
    "word": "Piggy bank",
+   "description": "Savings item • Kids toy • Saves coins • Shaken to check • Slot on back • Ceramic animal",
    "hints": [
     {
      "text": "Savings item",
@@ -3438,6 +3539,7 @@
   },
   {
    "word": "Safe",
+   "description": "Security box • Storage • Keeps valuables • Hidden in closets • Combination dial • Heavy steel",
    "hints": [
     {
      "text": "Security box",
@@ -3472,6 +3574,7 @@
   },
   {
    "word": "Calendar",
+   "description": "Planning item • Wall item • Marks birthdays • Flip each month • Grid of days • Holidays listed",
    "hints": [
     {
      "text": "Planning item",
@@ -3506,6 +3609,7 @@
   },
   {
    "word": "Notebook",
+   "description": "Stationery • Paper item • School notes • Journaling • Spiral bound • Lined pages",
    "hints": [
     {
      "text": "Stationery",
@@ -3540,6 +3644,7 @@
   },
   {
    "word": "Scissors",
+   "description": "Cutting tool • Office item • Cuts paper • Never run with them • Two blades • Finger loops",
    "hints": [
     {
      "text": "Cutting tool",
@@ -3574,6 +3679,7 @@
   },
   {
    "word": "Tape",
+   "description": "Sticky item • Office supply • Wraps gifts • Fixes tears • Clear roll • Dispenser",
    "hints": [
     {
      "text": "Sticky item",
@@ -3608,6 +3714,7 @@
   },
   {
    "word": "Glue",
+   "description": "Sticky item • Craft supply • School projects • Bonds things • Squeeze bottle • Dries clear",
    "hints": [
     {
      "text": "Sticky item",
@@ -3642,6 +3749,7 @@
   },
   {
    "word": "Stapler",
+   "description": "Office tool • Fastening tool • Joins papers • Office desk • Metal staples • Press down",
    "hints": [
     {
      "text": "Office tool",
@@ -3676,6 +3784,7 @@
   },
   {
    "word": "Paperclip",
+   "description": "Office item • Small fastener • Holds sheets • Bent when bored • Twisted wire • Silver loop",
    "hints": [
     {
      "text": "Office item",
@@ -3710,6 +3819,7 @@
   },
   {
    "word": "Pen",
+   "description": "Writing tool • Stationery • Signs documents • Clicks open • Ink inside • Ballpoint tip",
    "hints": [
     {
      "text": "Writing tool",
@@ -3744,6 +3854,7 @@
   },
   {
    "word": "Pencil",
+   "description": "Writing tool • Stationery • School tests • Erasable • Graphite core • Rubber on end",
    "hints": [
     {
      "text": "Writing tool",
@@ -3778,6 +3889,7 @@
   },
   {
    "word": "Basket",
+   "description": "Container • Woven item • Picnics • Laundry or shopping • Woven wicker • Handle on top",
    "hints": [
     {
      "text": "Container",
@@ -3812,6 +3924,7 @@
   },
   {
    "word": "Jar",
+   "description": "Container • Glass item • Stores jam • Twist lid • Glass body • Screw top",
    "hints": [
     {
      "text": "Container",
@@ -3846,6 +3959,7 @@
   },
   {
    "word": "Bottle",
+   "description": "Container • Liquid holder • Water on the go • Recyclable • Narrow neck • Screw cap",
    "hints": [
     {
      "text": "Container",
@@ -3880,6 +3994,7 @@
   },
   {
    "word": "Thermos",
+   "description": "Insulated flask • Travel item • Keeps soup hot • Picnics and hikes • Double walled • Screw lid",
    "hints": [
     {
      "text": "Insulated flask",
@@ -3914,6 +4029,7 @@
   },
   {
    "word": "Lunchbox",
+   "description": "Container • School item • Packed sandwiches • Cartoon designs • Clip lid • Compartments",
    "hints": [
     {
      "text": "Container",
@@ -3948,6 +4064,7 @@
   },
   {
    "word": "Cooler",
+   "description": "Insulated box • Picnic item • Keeps drinks cold • Beach trips • Ice packs inside • Lid and handle",
    "hints": [
     {
      "text": "Insulated box",
@@ -3982,6 +4099,7 @@
   },
   {
    "word": "Extinguisher",
+   "description": "Safety device • Emergency tool • Kitchen flames • Red cylinder • Pull the pin • Spray nozzle",
    "hints": [
     {
      "text": "Safety device",
@@ -4016,6 +4134,7 @@
   },
   {
    "word": "Smoke detector",
+   "description": "Safety device • Ceiling gadget • Beeps when toast burns • Test monthly • Round disc • Battery chirp",
    "hints": [
     {
      "text": "Safety device",
@@ -4050,6 +4169,7 @@
   },
   {
    "word": "Thermostat",
+   "description": "Climate control • Wall device • Sets temperature • Family arguments • Dial or screen • Degrees display",
    "hints": [
     {
      "text": "Climate control",
@@ -4084,6 +4204,7 @@
   },
   {
    "word": "Plant pot",
+   "description": "Garden item • Container • Holds greenery • Drainage hole • Terracotta clay • Saucer under",
    "hints": [
     {
      "text": "Garden item",
@@ -4118,6 +4239,7 @@
   },
   {
    "word": "Watering can",
+   "description": "Garden tool • Container • Sprinkles flowers • Kids garden toy • Long spout • Sprinkle rose",
    "hints": [
     {
      "text": "Garden tool",
@@ -4152,6 +4274,7 @@
   },
   {
    "word": "Hose",
+   "description": "Garden tool • Water pipe • Washes cars • Summer sprinklers • Long rubber tube • Spray nozzle",
    "hints": [
     {
      "text": "Garden tool",
@@ -4186,6 +4309,7 @@
   },
   {
    "word": "Lawn mower",
+   "description": "Garden machine • Grass cutter • Weekend chores • Loud engine • Spinning blades • Grass catcher",
    "hints": [
     {
      "text": "Garden machine",
@@ -4220,6 +4344,7 @@
   },
   {
    "word": "Rake",
+   "description": "Garden tool • Leaf tool • Autumn leaves • Stepping prank • Long handle • Metal tines",
    "hints": [
     {
      "text": "Garden tool",
@@ -4254,6 +4379,7 @@
   },
   {
    "word": "Shovel",
+   "description": "Garden tool • Digging tool • Digs holes • Snow clearing • Flat blade • Long handle",
    "hints": [
     {
      "text": "Garden tool",
@@ -4288,6 +4414,7 @@
   },
   {
    "word": "Wheelbarrow",
+   "description": "Garden tool • Cart • Moves soil • Building sites • Single tire • Two handles",
    "hints": [
     {
      "text": "Garden tool",
@@ -4322,6 +4449,7 @@
   },
   {
    "word": "Mailbox",
+   "description": "Outdoor item • Post slot • Delivered daily • Flag on side • Slot or door • Post outside",
    "hints": [
     {
      "text": "Outdoor item",
@@ -4356,6 +4484,7 @@
   },
   {
    "word": "Coat rack",
+   "description": "Hallway item • Stand • Hang jackets • By the door • Hooks on pole • Wooden stand",
    "hints": [
     {
      "text": "Hallway item",
@@ -4390,6 +4519,7 @@
   },
   {
    "word": "Shoe rack",
+   "description": "Storage • Hallway item • Organizes sneakers • By the door • Slanted shelves • Pairs lined up",
    "hints": [
     {
      "text": "Storage",
@@ -4424,6 +4554,7 @@
   },
   {
    "word": "Fireplace",
+   "description": "Living room feature • Hearth • Cozy winters • Stockings hung • Crackling logs • Chimney above",
    "hints": [
     {
      "text": "Living room feature",
@@ -4458,6 +4589,7 @@
   },
   {
    "word": "Chimney",
+   "description": "House part • Smoke outlet • Santa climbs down • Sweeps clean it • Brick stack • On the roof",
    "hints": [
     {
      "text": "House part",
@@ -4492,6 +4624,7 @@
   },
   {
    "word": "Ceiling fan",
+   "description": "Cooling device • Overhead fixture • Spins in summer • Hangs overhead • Large blades • Pull chain",
    "hints": [
     {
      "text": "Cooling device",
@@ -4526,6 +4659,7 @@
   },
   {
    "word": "Chandelier",
+   "description": "Light fixture • Fancy decor • Grand ballrooms • Hanging from ceiling • Crystal drops • Many bulbs",
    "hints": [
     {
      "text": "Light fixture",
@@ -4560,6 +4694,7 @@
   },
   {
    "word": "Bunk bed",
+   "description": "Furniture • Kids sleeping • Siblings share • Sleepovers • Ladder up • Two levels",
    "hints": [
     {
      "text": "Furniture",
@@ -4594,6 +4729,7 @@
   },
   {
    "word": "Crib",
+   "description": "Baby furniture • Infant bed • Nursery item • Rocked to sleep • Wooden bars • Mobile above",
    "hints": [
     {
      "text": "Baby furniture",
@@ -4628,6 +4764,7 @@
   },
   {
    "word": "Rocking chair",
+   "description": "Furniture • Porch seat • Grandparents relax • Knitting time • Curved runners • Sways back and forth",
    "hints": [
     {
      "text": "Furniture",
@@ -4662,6 +4799,7 @@
   },
   {
    "word": "Armchair",
+   "description": "Furniture • Comfy seat • Reading corner • Fireside seat • Padded arms • Single seat",
    "hints": [
     {
      "text": "Furniture",
@@ -4696,6 +4834,7 @@
   },
   {
    "word": "Recliner",
+   "description": "Furniture • Lounge seat • Movie marathons • Leans back • Footrest pops up • Lever on side",
    "hints": [
     {
      "text": "Furniture",
@@ -4730,6 +4869,7 @@
   },
   {
    "word": "Coffee table",
+   "description": "Furniture • Low surface • In living rooms • Holds magazines • Low and flat • In front of sofa",
    "hints": [
     {
      "text": "Furniture",
@@ -4764,6 +4904,7 @@
   },
   {
    "word": "Nightstand",
+   "description": "Furniture • Bedside table • Holds a lamp • Phone charger spot • Small drawer • By the bed",
    "hints": [
     {
      "text": "Furniture",
@@ -4798,6 +4939,7 @@
   },
   {
    "word": "Dresser",
+   "description": "Furniture • Bedroom storage • Folded clothes • Mirror on top • Stack of drawers • Wooden chest",
    "hints": [
     {
      "text": "Furniture",
@@ -4832,6 +4974,7 @@
   },
   {
    "word": "Keyring",
+   "description": "Small accessory • Key holder • Jingles in pockets • Souvenir trinket • Metal loop • Dangling charm",
    "hints": [
     {
      "text": "Small accessory",
@@ -4866,6 +5009,7 @@
   },
   {
    "word": "Photo album",
+   "description": "Memory book • Keepsake • Family history • Wedding pictures • Plastic sleeves • Thick pages",
    "hints": [
     {
      "text": "Memory book",
@@ -4900,6 +5044,7 @@
   },
   {
    "word": "Sewing machine",
+   "description": "Craft appliance • Stitching appliance • Hems trousers • Home tailoring • Needle and bobbin • Foot pedal",
    "hints": [
     {
      "text": "Craft appliance",
@@ -4934,6 +5079,7 @@
   },
   {
    "word": "Clothesline",
+   "description": "Laundry item • Outdoor rope • Sun dried washing • Backyard • Stretched rope • Pegs along it",
    "hints": [
     {
      "text": "Laundry item",
@@ -4968,6 +5114,7 @@
   },
   {
    "word": "Doorstop",
+   "description": "Small object • Entrance holder • Keeps entrances open • Wedge shape • Rubber wedge • Floor level",
    "hints": [
     {
      "text": "Small object",
@@ -5002,6 +5149,7 @@
   },
   {
    "word": "Welcome mat",
+   "description": "Entrance item • Floor covering • Greets guests • Wipe your shoes • Printed greeting • Coir bristles",
    "hints": [
     {
      "text": "Entrance item",
@@ -5036,6 +5184,7 @@
   },
   {
    "word": "Plunger",
+   "description": "Bathroom tool • Plumbing tool • Unclogs toilets • Embarrassing moments • Rubber cup • Wooden handle",
    "hints": [
     {
      "text": "Bathroom tool",
@@ -5070,6 +5219,7 @@
   },
   {
    "word": "Coaster",
+   "description": "Table item • Drink mat • Protects furniture • Stops water rings • Small square • Cork or stone",
    "hints": [
     {
      "text": "Table item",
@@ -5104,6 +5254,7 @@
   },
   {
    "word": "Placemat",
+   "description": "Dining item • Table mat • Under plates • Kids drawings • Woven or plastic • One per seat",
    "hints": [
     {
      "text": "Dining item",
@@ -5138,6 +5289,7 @@
   },
   {
    "word": "Salt shaker",
+   "description": "Table item • Seasoning holder • Passed at dinner • Pepper partner • Holes on top • Tiny white grains",
    "hints": [
     {
      "text": "Table item",
@@ -5172,6 +5324,7 @@
   },
   {
    "word": "Pepper mill",
+   "description": "Kitchen gadget • Spice grinder • Twisted over pasta • Fancy restaurants • Grinding top • Black corns",
    "hints": [
     {
      "text": "Kitchen gadget",
@@ -5206,6 +5359,7 @@
   },
   {
    "word": "Colander",
+   "description": "Kitchen tool • Strainer • Drains pasta • Washes berries • Bowl with holes • Two handles",
    "hints": [
     {
      "text": "Kitchen tool",
@@ -5240,6 +5394,7 @@
   },
   {
    "word": "Mortar",
+   "description": "Kitchen tool • Grinding bowl • Crushes spices • Ancient tool • Stone bowl • Pestle partner",
    "hints": [
     {
      "text": "Kitchen tool",

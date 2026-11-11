@@ -24,7 +24,7 @@ for path in sorted(glob.glob("assets/packs/*.json")):
                 seen.add(t.lower())
                 parts.append(t)
         rows.append({
-            "d": " • ".join(parts),
+            "d": (w.get("description") or " • ".join(parts)).strip(),
             "c": pack["name"],
             "w": w["word"],
             "h": [h["text"] for h in w.get("hints", []) if h.get("level") == 2],

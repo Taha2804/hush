@@ -4,6 +4,7 @@
  "words": [
   {
    "word": "Mountain",
+   "description": "Landform • High ground • Climbers conquer it • Snowy peaks • Steep slopes • Summit at top",
    "hints": [
     {
      "text": "Landform",
@@ -38,6 +39,7 @@
   },
   {
    "word": "River",
+   "description": "Water body • Flowing water • Boats and fishing • Ends at sea • Banks on both sides • Current",
    "hints": [
     {
      "text": "Water body",
@@ -72,6 +74,7 @@
   },
   {
    "word": "Ocean",
+   "description": "Water body • Vast sea • Covers most of earth • Whales live there • Salty waves • Deep blue",
    "hints": [
     {
      "text": "Water body",
@@ -106,6 +109,7 @@
   },
   {
    "word": "Lake",
+   "description": "Water body • Still water • Summer cabins • Boating trips • Surrounded by land • Calm surface",
    "hints": [
     {
      "text": "Water body",
@@ -140,6 +144,7 @@
   },
   {
    "word": "Forest",
+   "description": "Wooded area • Natural habitat • Hiking trails • Animals hide • Dense trees • Leafy canopy",
    "hints": [
     {
      "text": "Wooded area",
@@ -174,6 +179,7 @@
   },
   {
    "word": "Jungle",
+   "description": "Tropical habitat • Dense wilderness • Monkeys and parrots • Explorers • Thick vines • Humid air",
    "hints": [
     {
      "text": "Tropical habitat",
@@ -208,6 +214,7 @@
   },
   {
    "word": "Desert",
+   "description": "Dry land • Arid region • Camels cross it • Mirages • Sand dunes • Cactus plants",
    "hints": [
     {
      "text": "Dry land",
@@ -242,6 +249,7 @@
   },
   {
    "word": "Beach",
+   "description": "Coastline • Seaside • Summer holidays • Sandcastles • Sand and waves • Seashells",
    "hints": [
     {
      "text": "Coastline",
@@ -276,6 +284,7 @@
   },
   {
    "word": "Island",
+   "description": "Landform • Isolated ground • Castaway stories • Holiday resorts • Surrounded by sea • Palm trees",
    "hints": [
     {
      "text": "Landform",
@@ -310,6 +319,7 @@
   },
   {
    "word": "Volcano",
+   "description": "Landform • Fiery mountain • Erupts lava • Ash clouds • Crater at top • Molten rock",
    "hints": [
     {
      "text": "Landform",
@@ -344,6 +354,7 @@
   },
   {
    "word": "Waterfall",
+   "description": "River feature • Natural wonder • Tourist attraction • Rainbows in mist • Cascading torrent • Plunge pool",
    "hints": [
     {
      "text": "River feature",
@@ -378,6 +389,7 @@
   },
   {
    "word": "Cave",
+   "description": "Natural shelter • Underground space • Bats live inside • Explorers with torches • Stalactites • Dark and damp",
    "hints": [
     {
      "text": "Natural shelter",
@@ -412,6 +424,7 @@
   },
   {
    "word": "Cliff",
+   "description": "Landform • Steep drop • Coastal views • Climbers scale it • Sheer rock face • Edge warning",
    "hints": [
     {
      "text": "Landform",
@@ -446,6 +459,7 @@
   },
   {
    "word": "Canyon",
+   "description": "Landform • Deep valley • Carved by rivers • Tourist lookouts • Steep red walls • Echoes",
    "hints": [
     {
      "text": "Landform",
@@ -480,6 +494,7 @@
   },
   {
    "word": "Valley",
+   "description": "Landform • Low land • Between mountains • Rivers flow through • Green and fertile • Sheltered",
    "hints": [
     {
      "text": "Landform",
@@ -514,6 +529,7 @@
   },
   {
    "word": "Hill",
+   "description": "Landform • Small rise • Rolling countryside • Sledding spot • Gentle slope • Grassy top",
    "hints": [
     {
      "text": "Landform",
@@ -548,6 +564,7 @@
   },
   {
    "word": "Meadow",
+   "description": "Grassland • Open field • Picnic spot • Wildflowers bloom • Tall grass • Butterflies",
    "hints": [
     {
      "text": "Grassland",
@@ -582,6 +599,7 @@
   },
   {
    "word": "Swamp",
+   "description": "Wetland • Marshy land • Alligators lurk • Mosquitoes • Murky water • Mossy trees",
    "hints": [
     {
      "text": "Wetland",
@@ -616,6 +634,7 @@
   },
   {
    "word": "Glacier",
+   "description": "Ice mass • Frozen river • Melting with warming • Carves valleys • Blue ice • Slow moving",
    "hints": [
     {
      "text": "Ice mass",
@@ -650,6 +669,7 @@
   },
   {
    "word": "Iceberg",
+   "description": "Floating ice • Polar hazard • Sank a famous ship • Mostly underwater • Tip shows above • White and blue",
    "hints": [
     {
      "text": "Floating ice",
@@ -684,6 +704,7 @@
   },
   {
    "word": "Rainbow",
+   "description": "Sky display • Weather wonder • After showers • Pot of gold • Seven colors • Arc shape",
    "hints": [
     {
      "text": "Sky display",
@@ -718,6 +739,7 @@
   },
   {
    "word": "Thunder",
+   "description": "Weather sound • Storm noise • Scares pets • Follows lightning • Loud rumble • Booming crash",
    "hints": [
     {
      "text": "Weather sound",
@@ -752,6 +774,7 @@
   },
   {
    "word": "Lightning",
+   "description": "Weather event • Electric flash • Storms at night • Strikes tall things • Zigzag bolt • Bright flash",
    "hints": [
     {
      "text": "Weather event",
@@ -786,6 +809,7 @@
   },
   {
    "word": "Rain",
+   "description": "Weather • Falling water • Umbrellas out • Puddles form • Droplets from clouds • Pitter patter",
    "hints": [
     {
      "text": "Weather",
@@ -820,6 +844,7 @@
   },
   {
    "word": "Snow",
+   "description": "Weather • Frozen flakes • Winter fights • School closures • White blanket • Cold and fluffy",
    "hints": [
     {
      "text": "Weather",
@@ -854,6 +879,7 @@
   },
   {
    "word": "Hail",
+   "description": "Weather • Ice pellets • Dents cars • Sudden storms • Bouncing ice balls • Rattles roofs",
    "hints": [
     {
      "text": "Weather",
@@ -888,6 +914,7 @@
   },
   {
    "word": "Fog",
+   "description": "Weather • Low cloud • Airport delays • Spooky mornings • Thick grey mist • Low visibility",
    "hints": [
     {
      "text": "Weather",
@@ -922,6 +949,7 @@
   },
   {
    "word": "Wind",
+   "description": "Weather • Moving air • Flies kites • Blows hats away • Gusts and breezes • Invisible",
    "hints": [
     {
      "text": "Weather",
@@ -956,6 +984,7 @@
   },
   {
    "word": "Tornado",
+   "description": "Weather event • Violent storm • Storm chasers • Midwest plains • Spinning funnel • Destroys houses",
    "hints": [
     {
      "text": "Weather event",
@@ -990,6 +1019,7 @@
   },
   {
    "word": "Hurricane",
+   "description": "Weather event • Tropical storm • Named storms • Evacuations • Eye in center • Huge spiral",
    "hints": [
     {
      "text": "Weather event",
@@ -1024,6 +1054,7 @@
   },
   {
    "word": "Earthquake",
+   "description": "Natural disaster • Ground shaking • Measured on scales • Buildings collapse • Tectonic plates • Aftershocks",
    "hints": [
     {
      "text": "Natural disaster",
@@ -1058,6 +1089,7 @@
   },
   {
    "word": "Tsunami",
+   "description": "Natural disaster • Giant wave • Follows undersea quakes • Coastal warnings • Wall of water • Sea retreats first",
    "hints": [
     {
      "text": "Natural disaster",
@@ -1092,6 +1124,7 @@
   },
   {
    "word": "Flood",
+   "description": "Natural disaster • Rising water • Heavy rains • Sandbags • Submerged streets • Overflowing rivers",
    "hints": [
     {
      "text": "Natural disaster",
@@ -1126,6 +1159,7 @@
   },
   {
    "word": "Drought",
+   "description": "Natural disaster • Arid period • No showers for months • Crops fail • Cracked earth • Empty riverbeds",
    "hints": [
     {
      "text": "Natural disaster",
@@ -1160,6 +1194,7 @@
   },
   {
    "word": "Avalanche",
+   "description": "Natural disaster • Snow slide • Mountain danger • Skiers warned • Rushing snow • Buries everything",
    "hints": [
     {
      "text": "Natural disaster",
@@ -1194,6 +1229,7 @@
   },
   {
    "word": "Sun",
+   "description": "Star • Sky object • Gives daylight • Sunscreen needed • Hot and bright • Center of solar system",
    "hints": [
     {
      "text": "Star",
@@ -1228,6 +1264,7 @@
   },
   {
    "word": "Moon",
+   "description": "Satellite • Night sky object • Phases monthly • Controls tides • Craters • Silver glow",
    "hints": [
     {
      "text": "Satellite",
@@ -1262,6 +1299,7 @@
   },
   {
    "word": "Star",
+   "description": "Night light • Celestial body • Make a wish • Twinkle twinkle • Shines far away • Constellations",
    "hints": [
     {
      "text": "Night light",
@@ -1296,6 +1334,7 @@
   },
   {
    "word": "Comet",
+   "description": "Space object • Icy wanderer • Rare sightings • Ancient omens • Glowing tail • Orbits the sun",
    "hints": [
     {
      "text": "Space object",
@@ -1330,6 +1369,7 @@
   },
   {
    "word": "Planet",
+   "description": "Celestial body • Orbiting world • Eight in our system • Explored by probes • Round world • Circles a star",
    "hints": [
     {
      "text": "Celestial body",
@@ -1364,6 +1404,7 @@
   },
   {
    "word": "Tree",
+   "description": "Plant • Woody plant • Gives shade • Climbed by kids • Trunk and branches • Leaves",
    "hints": [
     {
      "text": "Plant",
@@ -1398,6 +1439,7 @@
   },
   {
    "word": "Flower",
+   "description": "Plant part • Blossom • Given on valentines • Bees visit • Petals • Sweet smell",
    "hints": [
     {
      "text": "Plant part",
@@ -1432,6 +1474,7 @@
   },
   {
    "word": "Leaf",
+   "description": "Plant part • Green part • Falls in autumn • Photosynthesis • Veins and stem • Flat and green",
    "hints": [
     {
      "text": "Plant part",
@@ -1466,6 +1509,7 @@
   },
   {
    "word": "Grass",
+   "description": "Plant • Ground cover • Mowed on weekends • Cows eat it • Green blades • Lawns",
    "hints": [
     {
      "text": "Plant",
@@ -1500,6 +1544,7 @@
   },
   {
    "word": "Moss",
+   "description": "Small plant • Ground cover • Grows in shade • Soft carpet • Green fuzz • Damp rocks",
    "hints": [
     {
      "text": "Small plant",
@@ -1534,6 +1579,7 @@
   },
   {
    "word": "Fern",
+   "description": "Plant • Ancient plant • Shady forests • Houseplant • Feathery fronds • Spores underneath",
    "hints": [
     {
      "text": "Plant",
@@ -1568,6 +1614,7 @@
   },
   {
    "word": "Cactus",
+   "description": "Desert plant • Succulent • Stores water • Hard to kill • Sharp spines • Thick stems",
    "hints": [
     {
      "text": "Desert plant",
@@ -1602,6 +1649,7 @@
   },
   {
    "word": "Palm tree",
+   "description": "Tropical plant • Beach plant • Island holidays • Coconuts hang • Long trunk • Fan leaves",
    "hints": [
     {
      "text": "Tropical plant",
@@ -1636,6 +1684,7 @@
   },
   {
    "word": "Pine tree",
+   "description": "Evergreen • Conifer • Holiday decoration • Forest smell • Needle leaves • Woody cones",
    "hints": [
     {
      "text": "Evergreen",
@@ -1670,6 +1719,7 @@
   },
   {
    "word": "Oak",
+   "description": "Tree • Hardwood • Mighty and old • Furniture wood • Acorns • Lobed leaves",
    "hints": [
     {
      "text": "Tree",
@@ -1704,6 +1754,7 @@
   },
   {
    "word": "Maple",
+   "description": "Tree • Hardwood • Syrup source • Canadian symbol • Red autumn leaves • Winged seeds",
    "hints": [
     {
      "text": "Tree",
@@ -1738,6 +1789,7 @@
   },
   {
    "word": "Bamboo",
+   "description": "Grass plant • Fast grower • Pandas eat it • Building material • Hollow green stalks • Segmented",
    "hints": [
     {
      "text": "Grass plant",
@@ -1772,6 +1824,7 @@
   },
   {
    "word": "Rose",
+   "description": "Flower • Romantic bloom • Valentine gift • Love symbol • Thorny stems • Red petals",
    "hints": [
     {
      "text": "Flower",
@@ -1806,6 +1859,7 @@
   },
   {
    "word": "Sunflower",
+   "description": "Garden plant • Tall bloom • Follows daylight • Seeds as snack • Huge yellow head • Brown center",
    "hints": [
     {
      "text": "Garden plant",
@@ -1840,6 +1894,7 @@
   },
   {
    "word": "Tulip",
+   "description": "Flower • Spring bloom • Dutch fields • Bulb planted • Cup shaped petals • Bright colors",
    "hints": [
     {
      "text": "Flower",
@@ -1874,6 +1929,7 @@
   },
   {
    "word": "Lotus",
+   "description": "Flower • Sacred bloom • Grows in mud • Spiritual symbol • Floats on ponds • Pink petals",
    "hints": [
     {
      "text": "Flower",
@@ -1908,6 +1964,7 @@
   },
   {
    "word": "Daisy",
+   "description": "Flower • Simple bloom • Petal picking game • Chains • White petals • Yellow center",
    "hints": [
     {
      "text": "Flower",
@@ -1942,6 +1999,7 @@
   },
   {
    "word": "Lily",
+   "description": "Flower • Elegant bloom • Funerals and weddings • Fragrant • Trumpet shape • Long stamens",
    "hints": [
     {
      "text": "Flower",
@@ -1976,6 +2034,7 @@
   },
   {
    "word": "Orchid",
+   "description": "Flower • Exotic bloom • Expensive houseplant • Delicate care • Unusual shape • Long lasting",
    "hints": [
     {
      "text": "Flower",
@@ -2010,6 +2069,7 @@
   },
   {
    "word": "Mushroom",
+   "description": "Fungus • Forest growth • Fairy rings • Pizza topping • Cap and stem • Grows in damp",
    "hints": [
     {
      "text": "Fungus",
@@ -2044,6 +2104,7 @@
   },
   {
    "word": "Rock",
+   "description": "Natural object • Solid mineral • Skimmed on lakes • Collected by geologists • Hard and heavy • Grey stone",
    "hints": [
     {
      "text": "Natural object",
@@ -2078,6 +2139,7 @@
   },
   {
    "word": "Pebble",
+   "description": "Small stone • Smooth rock • Beach collecting • Skipping on water • Rounded by water • Fits in palm",
    "hints": [
     {
      "text": "Small stone",
@@ -2112,6 +2174,7 @@
   },
   {
    "word": "Sand",
+   "description": "Granular material • Beach ground • Beach castles • Hourglasses • Tiny grains • Gets everywhere",
    "hints": [
     {
      "text": "Granular material",
@@ -2146,6 +2209,7 @@
   },
   {
    "word": "Mud",
+   "description": "Wet earth • Sticky ground • Pigs roll in it • Rainy fields • Brown and squelchy • Messy boots",
    "hints": [
     {
      "text": "Wet earth",
@@ -2180,6 +2244,7 @@
   },
   {
    "word": "Soil",
+   "description": "Ground material • Earth • Gardens grow in it • Worms live there • Dark and crumbly • Rich nutrients",
    "hints": [
     {
      "text": "Ground material",
@@ -2214,6 +2279,7 @@
   },
   {
    "word": "Seashell",
+   "description": "Beach find • Sea creature home • Hear the ocean • Collected on holidays • Spiral or fan • Pearly inside",
    "hints": [
     {
      "text": "Beach find",
@@ -2248,6 +2314,7 @@
   },
   {
    "word": "Coral reef",
+   "description": "Marine habitat • Underwater ecosystem • Snorkeling spots • Colorful fish • Polyps • Bleaching threat",
    "hints": [
     {
      "text": "Marine habitat",
@@ -2282,6 +2349,7 @@
   },
   {
    "word": "Wave",
+   "description": "Ocean motion • Water swell • Surfers ride them • Crash on shore • Crests and troughs • White foam",
    "hints": [
     {
      "text": "Ocean motion",
@@ -2316,6 +2384,7 @@
   },
   {
    "word": "Tide",
+   "description": "Ocean movement • Sea level change • Twice daily • Moon pulls it • High and low • Rock pools appear",
    "hints": [
     {
      "text": "Ocean movement",
@@ -2350,6 +2419,7 @@
   },
   {
    "word": "Breeze",
+   "description": "Gentle wind • Light air • Cools summer days • Rustles leaves • Soft gust • Refreshing",
    "hints": [
     {
      "text": "Gentle wind",
@@ -2384,6 +2454,7 @@
   },
   {
    "word": "Sunrise",
+   "description": "Morning event • Dawn • Early risers • Roosters crow • Golden horizon • Sky turns pink",
    "hints": [
     {
      "text": "Morning event",
@@ -2418,6 +2489,7 @@
   },
   {
    "word": "Sunset",
+   "description": "Evening event • Dusk • Romantic walks • Photographers love it • Orange sky • Sun dips low",
    "hints": [
     {
      "text": "Evening event",
@@ -2452,6 +2524,7 @@
   },
   {
    "word": "Aurora",
+   "description": "Sky lights • Polar display • Seen up north • Bucket list sight • Green ribbons • Dancing glow",
    "hints": [
     {
      "text": "Sky lights",
@@ -2486,6 +2559,7 @@
   },
   {
    "word": "Eclipse",
+   "description": "Sky event • Celestial alignment • Special glasses needed • Rare event • Moon blocks sun • Daytime darkness",
    "hints": [
     {
      "text": "Sky event",
@@ -2520,6 +2594,7 @@
   },
   {
    "word": "Meteor",
+   "description": "Space rock • Shooting star • Make a wish • Sky showers • Streak of light • Burns up",
    "hints": [
     {
      "text": "Space rock",
@@ -2554,6 +2629,7 @@
   },
   {
    "word": "Cloud",
+   "description": "Sky object • Water vapor • Shapes like animals • Brings rain • Fluffy white • Floats overhead",
    "hints": [
     {
      "text": "Sky object",
@@ -2588,6 +2664,7 @@
   },
   {
    "word": "Puddle",
+   "description": "Small water • Rain leftover • Kids jump in • Splashes cars • Shallow pool • Reflects sky",
    "hints": [
     {
      "text": "Small water",
@@ -2622,6 +2699,7 @@
   },
   {
    "word": "Pond",
+   "description": "Small lake • Still water • Ducks and frogs • Garden feature • Lily pads • Reeds around",
    "hints": [
     {
      "text": "Small lake",
@@ -2656,6 +2734,7 @@
   },
   {
    "word": "Stream",
+   "description": "Small river • Flowing water • Hikers cross it • Babbling sound • Narrow and shallow • Pebbly bed",
    "hints": [
     {
      "text": "Small river",
@@ -2690,6 +2769,7 @@
   },
   {
    "word": "Geyser",
+   "description": "Hot spring • Natural fountain • Erupts on schedule • Tourist attraction • Steam blast • Boiling water",
    "hints": [
     {
      "text": "Hot spring",
@@ -2724,6 +2804,7 @@
   },
   {
    "word": "Hot spring",
+   "description": "Natural pool • Warm water • Relaxing soak • Volcanic areas • Steaming pools • Mineral rich",
    "hints": [
     {
      "text": "Natural pool",
@@ -2758,6 +2839,7 @@
   },
   {
    "word": "Oasis",
+   "description": "Desert haven • Water source • Camels rest there • Mirage myth • Palm trees • Pool in sand",
    "hints": [
     {
      "text": "Desert haven",
@@ -2792,6 +2874,7 @@
   },
   {
    "word": "Prairie",
+   "description": "Grassland • Open plains • Bison roamed • Wheat farms • Endless grass • Big sky",
    "hints": [
     {
      "text": "Grassland",
@@ -2826,6 +2909,7 @@
   },
   {
    "word": "Savanna",
+   "description": "Grassland • African plains • Lions and zebras • Safari trips • Scattered trees • Dry season",
    "hints": [
     {
      "text": "Grassland",
@@ -2860,6 +2944,7 @@
   },
   {
    "word": "Tundra",
+   "description": "Cold biome • Frozen plain • Reindeer graze • Permafrost • Treeless land • Short summers",
    "hints": [
     {
      "text": "Cold biome",
@@ -2894,6 +2979,7 @@
   },
   {
    "word": "Rainforest",
+   "description": "Tropical biome • Rich biome • Huge biodiversity • Endangered habitat • Constant downpours • Tall canopy",
    "hints": [
     {
      "text": "Tropical biome",
@@ -2928,6 +3014,7 @@
   },
   {
    "word": "Coral",
+   "description": "Marine organism • Reef builder • Snorkelers admire • Bleaching threat • Colorful branches • Hard skeleton",
    "hints": [
     {
      "text": "Marine organism",
@@ -2962,6 +3049,7 @@
   },
   {
    "word": "Seaweed",
+   "description": "Marine plant • Algae • Wrapped around sushi • Washes ashore • Slimy green fronds • Floats in water",
    "hints": [
     {
      "text": "Marine plant",
@@ -2996,6 +3084,7 @@
   },
   {
    "word": "Kelp",
+   "description": "Marine algae • Underwater plant • Otters wrap in it • Forests underwater • Tall brown fronds • Gas bladders",
    "hints": [
     {
      "text": "Marine algae",
@@ -3030,6 +3119,7 @@
   },
   {
    "word": "Acorn",
+   "description": "Tree seed • Nut • Squirrels bury them • Autumn find • Little cap • From oak trees",
    "hints": [
     {
      "text": "Tree seed",
@@ -3064,6 +3154,7 @@
   },
   {
    "word": "Pinecone",
+   "description": "Tree seed • Conifer fruit • Christmas crafts • Forest floor • Woody scales • Opens when dry",
    "hints": [
     {
      "text": "Tree seed",
@@ -3098,6 +3189,7 @@
   },
   {
    "word": "Seed",
+   "description": "Plant start • Tiny grain • Planted in spring • Sprouts • Tiny shell • Grows into plant",
    "hints": [
     {
      "text": "Plant start",
@@ -3132,6 +3224,7 @@
   },
   {
    "word": "Root",
+   "description": "Plant part • Underground part • Absorbs water • Anchors plants • Grows downward • Tangled strands",
    "hints": [
     {
      "text": "Plant part",
@@ -3166,6 +3259,7 @@
   },
   {
    "word": "Branch",
+   "description": "Tree part • Limb • Birds perch • Swings hang from it • Woody arm • Leafy twigs",
    "hints": [
     {
      "text": "Tree part",
@@ -3200,6 +3294,7 @@
   },
   {
    "word": "Thorn",
+   "description": "Plant defense • Sharp point • Roses have them • Pricks fingers • Pointy spike • On stems",
    "hints": [
     {
      "text": "Plant defense",
@@ -3234,6 +3329,7 @@
   },
   {
    "word": "Petal",
+   "description": "Flower part • Colorful piece • Love me not game • Wedding confetti • Soft and colorful • Falls off",
    "hints": [
     {
      "text": "Flower part",
@@ -3268,6 +3364,7 @@
   },
   {
    "word": "Pollen",
+   "description": "Plant powder • Flower dust • Causes allergies • Bees carry it • Yellow dust • Sneezing season",
    "hints": [
     {
      "text": "Plant powder",
@@ -3302,6 +3399,7 @@
   },
   {
    "word": "Nectar",
+   "description": "Flower juice • Sweet liquid • Bees collect it • Hummingbird food • Sugary fluid • Inside blooms",
    "hints": [
     {
      "text": "Flower juice",
@@ -3336,6 +3434,7 @@
   },
   {
    "word": "Sap",
+   "description": "Tree fluid • Sticky liquid • Maple syrup source • Oozes from bark • Golden sticky • Runs in spring",
    "hints": [
     {
      "text": "Tree fluid",
@@ -3370,6 +3469,7 @@
   },
   {
    "word": "Bark",
+   "description": "Tree skin • Outer layer • Rubbing for crafts • Trees shed it • Rough texture • Protects trunk",
    "hints": [
     {
      "text": "Tree skin",
@@ -3404,6 +3504,7 @@
   },
   {
    "word": "Twig",
+   "description": "Small stick • Tree piece • Nests built with them • Snaps underfoot • Thin and dry • Forest floor",
    "hints": [
     {
      "text": "Small stick",
@@ -3438,6 +3539,7 @@
   },
   {
    "word": "Log",
+   "description": "Fallen tree • Wood piece • Campfire fuel • Sat on outdoors • Heavy cylinder • Bark covered",
    "hints": [
     {
      "text": "Fallen tree",
@@ -3472,6 +3574,7 @@
   },
   {
    "word": "Stump",
+   "description": "Tree remains • Cut base • Rings show age • Seat in woods • Flat top • Roots below",
    "hints": [
     {
      "text": "Tree remains",
@@ -3506,6 +3609,7 @@
   },
   {
    "word": "Vine",
+   "description": "Climbing plant • Creeper • Tarzan swings • Grapes grow • Twisting stems • Wraps around",
    "hints": [
     {
      "text": "Climbing plant",
@@ -3540,6 +3644,7 @@
   },
   {
    "word": "Ivy",
+   "description": "Climbing plant • Evergreen creeper • Covers old walls • College buildings • Green leaves • Clings to bricks",
    "hints": [
     {
      "text": "Climbing plant",
@@ -3574,6 +3679,7 @@
   },
   {
    "word": "Weed",
+   "description": "Unwanted plant • Garden pest • Pulled by gardeners • Grows anywhere • Dandelions • Invasive roots",
    "hints": [
     {
      "text": "Unwanted plant",
@@ -3608,6 +3714,7 @@
   },
   {
    "word": "Dandelion",
+   "description": "Wildflower • Common weed • Blown for wishes • Lawn invader • Fluffy seed head • Yellow bloom",
    "hints": [
     {
      "text": "Wildflower",
@@ -3642,6 +3749,7 @@
   },
   {
    "word": "Clover",
+   "description": "Small plant • Lucky charm • Four leaf luck • Bees adore it • Three round leaves • White blooms",
    "hints": [
     {
      "text": "Small plant",
@@ -3676,6 +3784,7 @@
   },
   {
    "word": "Willow",
+   "description": "Tree • Riverside tree • Weeping branches • Cricket bats • Drooping limbs • Long thin leaves",
    "hints": [
     {
      "text": "Tree",
@@ -3710,6 +3819,7 @@
   },
   {
    "word": "Birch",
+   "description": "Tree • Slender tree • Northern forests • Canoe bark • White papery bark • Thin trunk",
    "hints": [
     {
      "text": "Tree",
@@ -3744,6 +3854,7 @@
   },
   {
    "word": "Redwood",
+   "description": "Tree • Giant tree • Tallest trees • Ancient forests • Reddish bark • Huge trunks",
    "hints": [
     {
      "text": "Tree",
@@ -3778,6 +3889,7 @@
   },
   {
    "word": "Baobab",
+   "description": "Tree • African tree • Upside down tree • Stores water • Fat trunk • Stubby branches",
    "hints": [
     {
      "text": "Tree",
@@ -3812,6 +3924,7 @@
   },
   {
    "word": "Coconut palm",
+   "description": "Tropical tree • Beach tree • Island postcards • Climbers harvest • Fruit cluster up top • Feathery fronds",
    "hints": [
     {
      "text": "Tropical tree",
@@ -3846,6 +3959,7 @@
   },
   {
    "word": "Bonsai",
+   "description": "Miniature tree • Japanese art • Patient pruning • Indoor display • Tiny trunk • Shallow pot",
    "hints": [
     {
      "text": "Miniature tree",
@@ -3880,6 +3994,7 @@
   },
   {
    "word": "Hedge",
+   "description": "Garden border • Shrub row • Trimmed neatly • Privacy wall • Dense leaves • Clipped shape",
    "hints": [
     {
      "text": "Garden border",
@@ -3914,6 +4029,7 @@
   },
   {
    "word": "Bush",
+   "description": "Shrub • Small plant • Garden borders • Berries grow • Many stems • Low and round",
    "hints": [
     {
      "text": "Shrub",
@@ -3948,6 +4064,7 @@
   },
   {
    "word": "Lavender",
+   "description": "Herb plant • Purple flower • Calming scent • Soap and oils • Purple spikes • Fragrant fields",
    "hints": [
     {
      "text": "Herb plant",
@@ -3982,6 +4099,7 @@
   },
   {
    "word": "Jasmine",
+   "description": "Flowering vine • Fragrant bloom • Night scent • Garlands • Small white stars • Sweet perfume",
    "hints": [
     {
      "text": "Flowering vine",
@@ -4016,6 +4134,7 @@
   },
   {
    "word": "Marigold",
+   "description": "Flower • Festival bloom • Garlands for festivals • Pest repellent • Orange ruffles • Strong smell",
    "hints": [
     {
      "text": "Flower",
@@ -4050,6 +4169,7 @@
   },
   {
    "word": "Hibiscus",
+   "description": "Tropical flower • Bright bloom • Hawaiian shirts • Herbal tea • Big red petals • Long stamen",
    "hints": [
     {
      "text": "Tropical flower",
@@ -4084,6 +4204,7 @@
   },
   {
    "word": "Snowflake",
+   "description": "Ice crystal • Winter symbol • No two alike • Caught on tongues • Six sided • Delicate pattern",
    "hints": [
     {
      "text": "Ice crystal",
@@ -4118,6 +4239,7 @@
   },
   {
    "word": "Icicle",
+   "description": "Frozen drip • Winter feature • Hangs from roofs • Melts in sun • Pointed ice spike • Glistens",
    "hints": [
     {
      "text": "Frozen drip",
@@ -4152,6 +4274,7 @@
   },
   {
    "word": "Frost",
+   "description": "Ice coating • Cold morning • Scrape the windshield • Kills plants • White crystals • Sparkly grass",
    "hints": [
     {
      "text": "Ice coating",
@@ -4186,6 +4309,7 @@
   },
   {
    "word": "Dew",
+   "description": "Morning moisture • Water droplets • Wet grass at dawn • Spider webs sparkle • Tiny beads • Condensation",
    "hints": [
     {
      "text": "Morning moisture",
@@ -4220,6 +4344,7 @@
   },
   {
    "word": "Mist",
+   "description": "Light fog • Fine droplets • Mysterious mornings • Waterfalls create it • Hazy air • Damp feeling",
    "hints": [
     {
      "text": "Light fog",
@@ -4254,6 +4379,7 @@
   },
   {
    "word": "Storm",
+   "description": "Weather event • Bad weather • Cancel plans • Power cuts • Thunder and rain • Dark clouds",
    "hints": [
     {
      "text": "Weather event",
@@ -4288,6 +4414,7 @@
   },
   {
    "word": "Blizzard",
+   "description": "Snowstorm • Winter weather • Snowed in • Whiteout • Howling wind • Heavy snowfall",
    "hints": [
     {
      "text": "Snowstorm",
@@ -4322,6 +4449,7 @@
   },
   {
    "word": "Monsoon",
+   "description": "Seasonal rain • Wet season • South asian summer • Floods • Heavy downpours • Humid winds",
    "hints": [
     {
      "text": "Seasonal rain",
@@ -4356,6 +4484,7 @@
   },
   {
    "word": "Heatwave",
+   "description": "Hot weather • Extreme temperatures • Fans sell out • Stay hydrated • Scorching days • Warm nights",
    "hints": [
     {
      "text": "Hot weather",
@@ -4390,6 +4519,7 @@
   },
   {
    "word": "Constellation",
+   "description": "Star pattern • Night sky shape • Zodiac signs • Sailors navigated • Connect the dots • Named shapes",
    "hints": [
     {
      "text": "Star pattern",
@@ -4424,6 +4554,7 @@
   },
   {
    "word": "Galaxy",
+   "description": "Star system • Cosmic structure • Milky way • Billions of stars • Spiral arms • Distant glow",
    "hints": [
     {
      "text": "Star system",
@@ -4458,6 +4589,7 @@
   },
   {
    "word": "Nebula",
+   "description": "Space cloud • Cosmic dust • Star nurseries • Telescope photos • Colorful gas • Glowing clouds",
    "hints": [
     {
      "text": "Space cloud",
@@ -4492,6 +4624,7 @@
   },
   {
    "word": "Asteroid",
+   "description": "Space rock • Minor body • Dinosaur extinction • Belt between planets • Rocky lump • Craters",
    "hints": [
     {
      "text": "Space rock",
@@ -4526,6 +4659,7 @@
   },
   {
    "word": "Black hole",
+   "description": "Space mystery • Collapsed star • Nothing escapes • Bends light • Event horizon • Spaghettification",
    "hints": [
     {
      "text": "Space mystery",
@@ -4560,6 +4694,7 @@
   },
   {
    "word": "Supernova",
+   "description": "Star explosion • Cosmic blast • Brightest event • Creates elements • Dying giant star • Shockwave",
    "hints": [
     {
      "text": "Star explosion",
@@ -4594,6 +4729,7 @@
   },
   {
    "word": "Atoll",
+   "description": "Coral island • Ring reef • Pacific paradise • Lagoon inside • Circular reef • Low lying",
    "hints": [
     {
      "text": "Coral island",
@@ -4628,6 +4764,7 @@
   },
   {
    "word": "Peninsula",
+   "description": "Landform • Almost island • Water on three sides • Coastal towns • Jutting land • Connected to mainland",
    "hints": [
     {
      "text": "Landform",
@@ -4662,6 +4799,7 @@
   },
   {
    "word": "Delta",
+   "description": "River mouth • Wetland • Fertile farmland • Bird habitat • Fan shaped • Many channels",
    "hints": [
     {
      "text": "River mouth",
@@ -4696,6 +4834,7 @@
   },
   {
    "word": "Lagoon",
+   "description": "Shallow water • Coastal pool • Calm swimming • Tropical resorts • Separated by reef • Turquoise",
    "hints": [
     {
      "text": "Shallow water",
@@ -4730,6 +4869,7 @@
   },
   {
    "word": "Bay",
+   "description": "Coastal inlet • Curved shore • Harbors and boats • Calm waters • Curving coastline • Sheltered",
    "hints": [
     {
      "text": "Coastal inlet",
@@ -4764,6 +4904,7 @@
   },
   {
    "word": "Gorge",
+   "description": "Narrow valley • Ravine • River rapids • Rafting trips • Steep rock walls • Deep cut",
    "hints": [
     {
      "text": "Narrow valley",
@@ -4798,6 +4939,7 @@
   },
   {
    "word": "Plateau",
+   "description": "Landform • Flat highland • Tablelands • High farms • Raised flat land • Steep sides",
    "hints": [
     {
      "text": "Landform",
@@ -4832,6 +4974,7 @@
   },
   {
    "word": "Marsh",
+   "description": "Wetland • Grassy swamp • Birds nest • Reeds sway • Soggy ground • Tall reeds",
    "hints": [
     {
      "text": "Wetland",
@@ -4866,6 +5009,7 @@
   },
   {
    "word": "Bog",
+   "description": "Wetland • Peat land • Ancient preserved finds • Cranberries grow • Spongy moss • Acidic water",
    "hints": [
     {
      "text": "Wetland",
@@ -4900,6 +5044,7 @@
   },
   {
    "word": "Dune",
+   "description": "Sand hill • Desert feature • Sandboarding • Shifts with wind • Rippled sand • Curved crest",
    "hints": [
     {
      "text": "Sand hill",
@@ -4934,6 +5079,7 @@
   },
   {
    "word": "Crater",
+   "description": "Landform • Impact hole • Meteor strikes • Moon surface • Round bowl • Raised rim",
    "hints": [
     {
      "text": "Landform",
@@ -4968,6 +5114,7 @@
   },
   {
    "word": "Fossil",
+   "description": "Ancient remains • Preserved life • Dinosaur bones • Museum displays • Imprint in rock • Millions of years",
    "hints": [
     {
      "text": "Ancient remains",
@@ -5002,6 +5149,7 @@
   },
   {
    "word": "Amber",
+   "description": "Fossil resin • Golden gem • Insects trapped • Jewelry • Honey colored • Translucent",
    "hints": [
     {
      "text": "Fossil resin",
@@ -5036,6 +5184,7 @@
   },
   {
    "word": "Crystal",
+   "description": "Mineral formation • Shiny stone • Healing claims • Geode centers • Sharp facets • Clear and glinting",
    "hints": [
     {
      "text": "Mineral formation",
@@ -5070,6 +5219,7 @@
   },
   {
    "word": "Diamond",
+   "description": "Gemstone • Precious stone • Engagement rings • Hardest substance • Sparkly facets • Made from carbon",
    "hints": [
     {
      "text": "Gemstone",
@@ -5104,6 +5254,7 @@
   },
   {
    "word": "Pearl",
+   "description": "Gem • Oyster treasure • Necklaces • Divers search • Round and white • Lustrous",
    "hints": [
     {
      "text": "Gem",
@@ -5138,6 +5289,7 @@
   },
   {
    "word": "Gold",
+   "description": "Precious metal • Valuable element • Medals and jewelry • Prospectors rush • Shiny yellow • Does not rust",
    "hints": [
     {
      "text": "Precious metal",
@@ -5172,6 +5324,7 @@
   },
   {
    "word": "Spider web",
+   "description": "Silk trap • Natural net • Catches flies • Halloween decor • Sticky threads • Dew covered",
    "hints": [
     {
      "text": "Silk trap",
@@ -5206,6 +5359,7 @@
   },
   {
    "word": "Nest",
+   "description": "Bird home • Animal shelter • Eggs hatch • Built in trees • Woven twigs • Cup shaped",
    "hints": [
     {
      "text": "Bird home",
@@ -5240,6 +5394,7 @@
   },
   {
    "word": "Beehive",
+   "description": "Insect home • Honey factory • Buzzing colony • Beekeepers • Hexagon cells • Wax combs",
    "hints": [
     {
      "text": "Insect home",
@@ -5274,6 +5429,7 @@
   },
   {
    "word": "Anthill",
+   "description": "Insect home • Colony mound • Tunnels underground • Busy workers • Mound of dirt • Tiny entrance",
    "hints": [
     {
      "text": "Insect home",
@@ -5308,6 +5464,7 @@
   },
   {
    "word": "Burrow",
+   "description": "Animal home • Underground hole • Rabbits live there • Dug by moles • Tunnel entrance • Dark and cosy",
    "hints": [
     {
      "text": "Animal home",
@@ -5342,6 +5499,7 @@
   },
   {
    "word": "Den",
+   "description": "Animal home • Lair • Bears hibernate • Fox cubs • Hidden hollow • Rocky shelter",
    "hints": [
     {
      "text": "Animal home",

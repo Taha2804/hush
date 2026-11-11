@@ -63,6 +63,7 @@ List<WordEntry> parsePack(Map<String, dynamic> json, List<PackIssue> issues) {
       word: word,
       hints: parsedHints,
       fakeWords: [for (final f in fakes) if (f is String) f],
+      description: w['description'] is String && (w['description'] as String).trim().isNotEmpty ? (w['description'] as String).trim() : null,
       source: 'offline',
     ));
   }

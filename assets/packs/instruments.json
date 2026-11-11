@@ -4,6 +4,7 @@
  "words": [
   {
    "word": "Piano",
+   "description": "Keyboard instrument • Classical staple • Lessons for kids • Concert halls • Black and white keys • Pedals underneath",
    "hints": [
     {
      "text": "Keyboard instrument",
@@ -38,6 +39,7 @@
   },
   {
    "word": "Guitar",
+   "description": "String instrument • Rock staple • Campfire songs • Strummed chords • Six strings • Frets on neck",
    "hints": [
     {
      "text": "String instrument",
@@ -72,6 +74,7 @@
   },
   {
    "word": "Violin",
+   "description": "String instrument • Orchestra staple • Played with a bow • Classical solos • Tucked under chin • Four strings",
    "hints": [
     {
      "text": "String instrument",
@@ -106,6 +109,7 @@
   },
   {
    "word": "Cello",
+   "description": "String instrument • Large fiddle • Deep mellow tones • Seated players • Rests on floor • Spike at bottom",
    "hints": [
     {
      "text": "String instrument",
@@ -140,6 +144,7 @@
   },
   {
    "word": "Drums",
+   "description": "Percussion instrument • Rhythm section • Rock bands • Loud practice • Sticks and cymbals • Kick pedal",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -174,6 +179,7 @@
   },
   {
    "word": "Flute",
+   "description": "Woodwind instrument • Breathy sound • Played sideways • Orchestra solos • Silver tube • Finger keys",
    "hints": [
     {
      "text": "Woodwind instrument",
@@ -208,6 +214,7 @@
   },
   {
    "word": "Trumpet",
+   "description": "Brass instrument • Loud horn • Jazz bands • Military calls • Three valves • Flared bell",
    "hints": [
     {
      "text": "Brass instrument",
@@ -242,6 +249,7 @@
   },
   {
    "word": "Saxophone",
+   "description": "Woodwind instrument • Jazz horn • Smooth jazz • Late night clubs • Curved brass body • Reed mouthpiece",
    "hints": [
     {
      "text": "Woodwind instrument",
@@ -276,6 +284,7 @@
   },
   {
    "word": "Clarinet",
+   "description": "Woodwind instrument • Reed instrument • School bands • Klezmer music • Black tube • Single reed",
    "hints": [
     {
      "text": "Woodwind instrument",
@@ -310,6 +319,7 @@
   },
   {
    "word": "Trombone",
+   "description": "Brass instrument • Slide horn • Marching bands • Comic slides • Long slide • Big bell",
    "hints": [
     {
      "text": "Brass instrument",
@@ -344,6 +354,7 @@
   },
   {
    "word": "Tuba",
+   "description": "Brass instrument • Huge horn • Oompah bands • Bass notes • Massive coiled tubing • Upward bell",
    "hints": [
     {
      "text": "Brass instrument",
@@ -378,6 +389,7 @@
   },
   {
    "word": "Harp",
+   "description": "String instrument • Plucked frame • Angels play it • Heavenly sound • Tall triangle • Many strings",
    "hints": [
     {
      "text": "String instrument",
@@ -412,6 +424,7 @@
   },
   {
    "word": "Accordion",
+   "description": "Squeezebox • Bellows instrument • Polka music • Street performers • Pleated folds • Buttons and keys",
    "hints": [
     {
      "text": "Squeezebox",
@@ -446,6 +459,7 @@
   },
   {
    "word": "Harmonica",
+   "description": "Mouth organ • Pocket instrument • Blues players • Campfire tunes • Small metal bar • Blow and draw",
    "hints": [
     {
      "text": "Mouth organ",
@@ -480,6 +494,7 @@
   },
   {
    "word": "Banjo",
+   "description": "String instrument • Country twang • Bluegrass music • Southern porches • Round drum body • Plucky sound",
    "hints": [
     {
      "text": "String instrument",
@@ -514,6 +529,7 @@
   },
   {
    "word": "Ukulele",
+   "description": "String instrument • Small guitar • Hawaiian music • Beach songs • Four strings • Tiny body",
    "hints": [
     {
      "text": "String instrument",
@@ -548,6 +564,7 @@
   },
   {
    "word": "Xylophone",
+   "description": "Percussion instrument • Mallet instrument • Kids toy version • Plinky notes • Wooden bars • Struck with mallets",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -582,6 +599,7 @@
   },
   {
    "word": "Tambourine",
+   "description": "Percussion instrument • Hand drum • Shaken at concerts • Folk dances • Jingling discs • Round frame",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -616,6 +634,7 @@
   },
   {
    "word": "Maracas",
+   "description": "Percussion instrument • Shakers • Latin music • Party rhythms • Pair of gourds • Rattling seeds",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -650,6 +669,7 @@
   },
   {
    "word": "Triangle",
+   "description": "Percussion instrument • Metal chime • Orchestra joke • Single ting • Bent steel rod • Struck with beater",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -684,6 +704,7 @@
   },
   {
    "word": "Cymbal",
+   "description": "Percussion instrument • Metal disc • Crash in drum kits • Big finales • Brass plate • Shimmering crash",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -718,6 +739,7 @@
   },
   {
    "word": "Gong",
+   "description": "Percussion instrument • Large disc • Temple ceremonies • Dramatic entrance • Hanging bronze plate • Deep boom",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -752,6 +774,7 @@
   },
   {
    "word": "Bagpipes",
+   "description": "Wind instrument • Highland instrument • Scottish parades • Funeral laments • Air bag • Droning tubes",
    "hints": [
     {
      "text": "Wind instrument",
@@ -786,6 +809,7 @@
   },
   {
    "word": "Organ",
+   "description": "Keyboard instrument • Church instrument • Wedding marches • Cathedral music • Huge pipes • Many keyboards",
    "hints": [
     {
      "text": "Keyboard instrument",
@@ -820,6 +844,7 @@
   },
   {
    "word": "Recorder",
+   "description": "Woodwind instrument • School instrument • Kids learn it first • Squeaky notes • Plastic tube • Thumb hole",
    "hints": [
     {
      "text": "Woodwind instrument",
@@ -854,6 +879,7 @@
   },
   {
    "word": "Oboe",
+   "description": "Woodwind instrument • Double reed • Tunes the orchestra • Nasal tone • Black body • Thin reed",
    "hints": [
     {
      "text": "Woodwind instrument",
@@ -888,6 +914,7 @@
   },
   {
    "word": "Bassoon",
+   "description": "Woodwind instrument • Low reed • Grandfather sound • Comic parts • Tall wooden tube • Bent crook",
    "hints": [
     {
      "text": "Woodwind instrument",
@@ -922,6 +949,7 @@
   },
   {
    "word": "Piccolo",
+   "description": "Woodwind instrument • Tiny flute • Marching bands • Highest pitch • Short silver tube • Shrill notes",
    "hints": [
     {
      "text": "Woodwind instrument",
@@ -956,6 +984,7 @@
   },
   {
    "word": "French horn",
+   "description": "Brass instrument • Coiled brass • Orchestra brass • Hand in bell • Circular tubing • Rotary valves",
    "hints": [
     {
      "text": "Brass instrument",
@@ -990,6 +1019,7 @@
   },
   {
    "word": "Bugle",
+   "description": "Brass instrument • Military horn • Morning wake up call • Army camps • No valves • Simple tube",
    "hints": [
     {
      "text": "Brass instrument",
@@ -1024,6 +1054,7 @@
   },
   {
    "word": "Double bass",
+   "description": "String instrument • Biggest fiddle • Jazz grooves • Plucked or bowed • Taller than player • Deep notes",
    "hints": [
     {
      "text": "String instrument",
@@ -1058,6 +1089,7 @@
   },
   {
    "word": "Viola",
+   "description": "String instrument • Middle fiddle • Orchestra alto • Mellow tone • Slightly bigger body • Under chin",
    "hints": [
     {
      "text": "String instrument",
@@ -1092,6 +1124,7 @@
   },
   {
    "word": "Mandolin",
+   "description": "String instrument • Folk lute • Italian serenades • Bluegrass • Teardrop body • Paired strings",
    "hints": [
     {
      "text": "String instrument",
@@ -1126,6 +1159,7 @@
   },
   {
    "word": "Lute",
+   "description": "String instrument • Medieval instrument • Renaissance minstrels • Courtly songs • Pear shaped body • Bent neck",
    "hints": [
     {
      "text": "String instrument",
@@ -1160,6 +1194,7 @@
   },
   {
    "word": "Lyre",
+   "description": "String instrument • Ancient instrument • Greek myths • Poets played it • U shaped frame • Plucked strings",
    "hints": [
     {
      "text": "String instrument",
@@ -1194,6 +1229,7 @@
   },
   {
    "word": "Sitar",
+   "description": "String instrument • Indian instrument • Classical ragas • Sixties rock • Long neck • Gourd body",
    "hints": [
     {
      "text": "String instrument",
@@ -1228,6 +1264,7 @@
   },
   {
    "word": "Tabla",
+   "description": "Percussion instrument • Indian drums • Classical rhythms • Played with fingers • Pair of drums • Black center spot",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -1262,6 +1299,7 @@
   },
   {
    "word": "Veena",
+   "description": "String instrument • Indian lute • Carnatic music • Goddess holds it • Two gourds • Long fretted neck",
    "hints": [
     {
      "text": "String instrument",
@@ -1296,6 +1334,7 @@
   },
   {
    "word": "Bansuri",
+   "description": "Bamboo pipe • Indian woodwind • Krishna plays it • Soulful tunes • Hollow bamboo • Six holes",
    "hints": [
     {
      "text": "Bamboo pipe",
@@ -1330,6 +1369,7 @@
   },
   {
    "word": "Shehnai",
+   "description": "Wind instrument • Indian oboe • Weddings in india • Auspicious music • Flared bell • Double reed",
    "hints": [
     {
      "text": "Wind instrument",
@@ -1364,6 +1404,7 @@
   },
   {
    "word": "Harmonium",
+   "description": "Keyboard instrument • Reed organ • Devotional songs • Qawwali • Hand pumped bellows • Small keyboard",
    "hints": [
     {
      "text": "Keyboard instrument",
@@ -1398,6 +1439,7 @@
   },
   {
    "word": "Dhol",
+   "description": "Percussion instrument • Barrel drum • Bhangra dancing • Weddings • Two sided drum • Hung from shoulder",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -1432,6 +1474,7 @@
   },
   {
    "word": "Mridangam",
+   "description": "Percussion instrument • South indian drum • Carnatic concerts • Ancient rhythms • Double headed barrel • Played sideways",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -1466,6 +1509,7 @@
   },
   {
    "word": "Sarod",
+   "description": "String instrument • Indian lute • Classical ragas • Fretless • Metal fingerboard • Skin covered body",
    "hints": [
     {
      "text": "String instrument",
@@ -1500,6 +1544,7 @@
   },
   {
    "word": "Santoor",
+   "description": "String instrument • Hammered dulcimer • Kashmiri music • Soothing tones • Trapezoid box • Tiny mallets",
    "hints": [
     {
      "text": "String instrument",
@@ -1534,6 +1579,7 @@
   },
   {
    "word": "Tanpura",
+   "description": "String instrument • Drone lute • Accompanies singers • Constant hum • Long neck • No frets",
    "hints": [
     {
      "text": "String instrument",
@@ -1568,6 +1614,7 @@
   },
   {
    "word": "Didgeridoo",
+   "description": "Wind instrument • Aboriginal horn • Australian outback • Circular breathing • Long hollow log • Droning buzz",
    "hints": [
     {
      "text": "Wind instrument",
@@ -1602,6 +1649,7 @@
   },
   {
    "word": "Bongos",
+   "description": "Percussion instrument • Hand drums • Latin rhythms • Beach jams • Pair of small drums • Held between knees",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -1636,6 +1684,7 @@
   },
   {
    "word": "Congas",
+   "description": "Percussion instrument • Tall drums • Salsa bands • Afro cuban music • Barrel shaped • Slapped by hand",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -1670,6 +1719,7 @@
   },
   {
    "word": "Djembe",
+   "description": "Percussion instrument • African drum • Drum circles • West african music • Goblet shape • Goatskin head",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -1704,6 +1754,7 @@
   },
   {
    "word": "Castanets",
+   "description": "Percussion instrument • Clappers • Flamenco dancers • Spanish rhythms • Shell pairs • Clicked in palm",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -1738,6 +1789,7 @@
   },
   {
    "word": "Kazoo",
+   "description": "Toy instrument • Humming tube • Party noise • Silly buzz • Paper membrane • Hum into it",
    "hints": [
     {
      "text": "Toy instrument",
@@ -1772,6 +1824,7 @@
   },
   {
    "word": "Ocarina",
+   "description": "Wind instrument • Vessel flute • Video game fame • Ancient origins • Egg shaped clay • Finger holes",
    "hints": [
     {
      "text": "Wind instrument",
@@ -1806,6 +1859,7 @@
   },
   {
    "word": "Glockenspiel",
+   "description": "Percussion instrument • Bell lyre • Christmas music • Twinkly notes • Metal bars • Small mallets",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -1840,6 +1894,7 @@
   },
   {
    "word": "Marimba",
+   "description": "Percussion instrument • Wooden mallet instrument • Latin and african music • Warm tones • Wide wooden bars • Resonator tubes",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -1874,6 +1929,7 @@
   },
   {
    "word": "Vibraphone",
+   "description": "Percussion instrument • Jazz mallets • Shimmering tones • Cool jazz • Metal bars • Spinning fans",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -1908,6 +1964,7 @@
   },
   {
    "word": "Harpsichord",
+   "description": "Keyboard instrument • Baroque keyboard • Bach era • Royal courts • Plucked strings • Two keyboards",
    "hints": [
     {
      "text": "Keyboard instrument",
@@ -1942,6 +1999,7 @@
   },
   {
    "word": "Synthesizer",
+   "description": "Electronic instrument • Sound generator • Eighties pop • Dance music • Knobs and sliders • Electronic sounds",
    "hints": [
     {
      "text": "Electronic instrument",
@@ -1976,6 +2034,7 @@
   },
   {
    "word": "Keyboard",
+   "description": "Electronic instrument • Portable piano • School music rooms • Preset rhythms • Plastic keys • Built in speakers",
    "hints": [
     {
      "text": "Electronic instrument",
@@ -2010,6 +2069,7 @@
   },
   {
    "word": "Electric guitar",
+   "description": "Amplified instrument • Rock axe • Shredding solos • Stadium concerts • Solid body • Pickups and amp",
    "hints": [
     {
      "text": "Amplified instrument",
@@ -2044,6 +2104,7 @@
   },
   {
    "word": "Bass guitar",
+   "description": "String instrument • Low rhythm • Funky grooves • Band backbone • Four thick strings • Long neck",
    "hints": [
     {
      "text": "String instrument",
@@ -2078,6 +2139,7 @@
   },
   {
    "word": "Acoustic guitar",
+   "description": "String instrument • Wooden strummer • Campfire songs • Unplugged sessions • Hollow body • Sound hole",
    "hints": [
     {
      "text": "String instrument",
@@ -2112,6 +2174,7 @@
   },
   {
    "word": "Fiddle",
+   "description": "String instrument • Folk violin • Country dances • Irish jigs • Bowed strings • Hoedown music",
    "hints": [
     {
      "text": "String instrument",
@@ -2146,6 +2209,7 @@
   },
   {
    "word": "Theremin",
+   "description": "Electronic instrument • Touchless instrument • Spooky movie sounds • Hand waving • Two antennas • Eerie whine",
    "hints": [
     {
      "text": "Electronic instrument",
@@ -2180,6 +2244,7 @@
   },
   {
    "word": "Steel drum",
+   "description": "Percussion instrument • Caribbean pan • Calypso music • Beach parties • Dimpled metal pan • Bright ringing",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -2214,6 +2279,7 @@
   },
   {
    "word": "Snare drum",
+   "description": "Percussion instrument • Marching percussion • Military rolls • Kit staple • Rattling wires • Crisp crack",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -2248,6 +2314,7 @@
   },
   {
    "word": "Bass drum",
+   "description": "Percussion instrument • Big boomer • Marching bands • Kick pedal • Deep boom • Large round shell",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -2282,6 +2349,7 @@
   },
   {
    "word": "Timpani",
+   "description": "Percussion instrument • Kettle drums • Orchestra climaxes • Thunder effects • Copper bowls • Tuning pedals",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -2316,6 +2384,7 @@
   },
   {
    "word": "Cowbell",
+   "description": "Percussion instrument • Metal clanker • Rock songs • Need more of it • Clanky metal • Struck with stick",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -2350,6 +2419,7 @@
   },
   {
    "word": "Chimes",
+   "description": "Percussion instrument • Tubular bells • Church sounds • Orchestra effects • Hanging metal tubes • Ringing tones",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -2384,6 +2454,7 @@
   },
   {
    "word": "Bells",
+   "description": "Percussion instrument • Ringing metal • Church towers • Holiday songs • Cup shaped • Clappers inside",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -2418,6 +2489,7 @@
   },
   {
    "word": "Handbell",
+   "description": "Percussion instrument • Held ringer • Ringing choirs • Christmas concerts • Polished brass • Leather handle",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -2452,6 +2524,7 @@
   },
   {
    "word": "Washboard",
+   "description": "Percussion instrument • Folk rhythm • Zydeco music • Jug bands • Ridged metal • Thimbles scrape",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -2486,6 +2559,7 @@
   },
   {
    "word": "Spoons",
+   "description": "Folk percussion • Household rhythm • Kitchen jam sessions • Irish music • Two utensils clicked • Back to back",
    "hints": [
     {
      "text": "Folk percussion",
@@ -2520,6 +2594,7 @@
   },
   {
    "word": "Jaw harp",
+   "description": "Mouth instrument • Twangy plucker • Folk music • Boing sounds • Metal frame • Flexible tongue",
    "hints": [
     {
      "text": "Mouth instrument",
@@ -2554,6 +2629,7 @@
   },
   {
    "word": "Pan flute",
+   "description": "Wind instrument • Tube pipes • Andean music • Greek myth god • Row of tubes • Blown across top",
    "hints": [
     {
      "text": "Wind instrument",
@@ -2588,6 +2664,7 @@
   },
   {
    "word": "Alphorn",
+   "description": "Wind instrument • Swiss trumpet • Alpine valleys • Herders call • Very long wooden tube • Upturned bell",
    "hints": [
     {
      "text": "Wind instrument",
@@ -2622,6 +2699,7 @@
   },
   {
    "word": "Sousaphone",
+   "description": "Brass instrument • Marching tuba • Football halftime • Wrapped around player • Huge front bell • Circular coil",
    "hints": [
     {
      "text": "Brass instrument",
@@ -2656,6 +2734,7 @@
   },
   {
    "word": "Euphonium",
+   "description": "Brass instrument • Small tuba • Brass bands • Mellow solos • Tenor range • Upright valves",
    "hints": [
     {
      "text": "Brass instrument",
@@ -2690,6 +2769,7 @@
   },
   {
    "word": "Cornet",
+   "description": "Brass instrument • Compact trumpet • Brass bands • Mellow tone • Shorter body • Three valves",
    "hints": [
     {
      "text": "Brass instrument",
@@ -2724,6 +2804,7 @@
   },
   {
    "word": "Flugelhorn",
+   "description": "Brass instrument • Wide trumpet • Jazz ballads • Dark tone • Conical bore • Large bell",
    "hints": [
     {
      "text": "Brass instrument",
@@ -2758,6 +2839,7 @@
   },
   {
    "word": "Zither",
+   "description": "String instrument • Flat box • Folk music • Laid on lap • Many strings • Flat soundboard",
    "hints": [
     {
      "text": "String instrument",
@@ -2792,6 +2874,7 @@
   },
   {
    "word": "Dulcimer",
+   "description": "String instrument • Folk box • Appalachian music • Lap played • Hourglass body • Strummed or hammered",
    "hints": [
     {
      "text": "String instrument",
@@ -2826,6 +2909,7 @@
   },
   {
    "word": "Koto",
+   "description": "String instrument • Japanese zither • Traditional japanese music • Kneeling players • Long wooden body • Movable bridges",
    "hints": [
     {
      "text": "String instrument",
@@ -2860,6 +2944,7 @@
   },
   {
    "word": "Shamisen",
+   "description": "String instrument • Japanese lute • Kabuki theater • Three strings • Square body • Large plectrum",
    "hints": [
     {
      "text": "String instrument",
@@ -2894,6 +2979,7 @@
   },
   {
    "word": "Erhu",
+   "description": "String instrument • Chinese fiddle • Mournful melodies • Two strings • Snake skin body • Bow between strings",
    "hints": [
     {
      "text": "String instrument",
@@ -2928,6 +3014,7 @@
   },
   {
    "word": "Pipa",
+   "description": "String instrument • Chinese lute • Ancient chinese music • Rapid plucking • Pear shaped • Many frets",
    "hints": [
     {
      "text": "String instrument",
@@ -2962,6 +3049,7 @@
   },
   {
    "word": "Guzheng",
+   "description": "String instrument • Chinese zither • Flowing melodies • Plucked with picks • Long board • Many strings",
    "hints": [
     {
      "text": "String instrument",
@@ -2996,6 +3084,7 @@
   },
   {
    "word": "Taiko",
+   "description": "Percussion instrument • Japanese drum • Thundering festivals • Group drumming • Huge barrel drum • Thick sticks",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -3030,6 +3119,7 @@
   },
   {
    "word": "Sarangi",
+   "description": "String instrument • Indian fiddle • Accompanies singers • Weeping sound • Bowed strings • Carved wood block",
    "hints": [
     {
      "text": "String instrument",
@@ -3064,6 +3154,7 @@
   },
   {
    "word": "Nadaswaram",
+   "description": "Wind instrument • South indian horn • Temple processions • Weddings • Long wooden pipe • Loud reed",
    "hints": [
     {
      "text": "Wind instrument",
@@ -3098,6 +3189,7 @@
   },
   {
    "word": "Ghatam",
+   "description": "Percussion instrument • Clay pot • Carnatic concerts • Played on lap • Earthenware pot • Finger taps",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -3132,6 +3224,7 @@
   },
   {
    "word": "Dholak",
+   "description": "Percussion instrument • Folk drum • Wedding songs • Indian folk • Two sided barrel • Rope tuned",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -3166,6 +3259,7 @@
   },
   {
    "word": "Damru",
+   "description": "Percussion instrument • Hourglass drum • Shiva holds it • Street monkey shows • Tiny hourglass • Bead strikers",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -3200,6 +3294,7 @@
   },
   {
    "word": "Ektara",
+   "description": "String instrument • One string • Folk singers • Baul music • Single string • Bamboo neck",
    "hints": [
     {
      "text": "String instrument",
@@ -3234,6 +3329,7 @@
   },
   {
    "word": "Morsing",
+   "description": "Mouth instrument • Indian jaw harp • Carnatic percussion • Twangy • Metal frame • Held in teeth",
    "hints": [
     {
      "text": "Mouth instrument",
@@ -3268,6 +3364,7 @@
   },
   {
    "word": "Practice chanter",
+   "description": "Learner reed • Melody tube • Highland beginners • Fingered tune • Reed tube • Finger holes",
    "hints": [
     {
      "text": "Learner reed",
@@ -3302,6 +3399,7 @@
   },
   {
    "word": "Tin whistle",
+   "description": "Wind instrument • Cheap pipe • Irish folk • Cheap and cheerful • Metal tube • Six holes",
    "hints": [
     {
      "text": "Wind instrument",
@@ -3336,6 +3434,7 @@
   },
   {
    "word": "Melodica",
+   "description": "Keyboard instrument • Blow organ • School music class • Reggae • Mouthpiece tube • Small keys",
    "hints": [
     {
      "text": "Keyboard instrument",
@@ -3370,6 +3469,7 @@
   },
   {
    "word": "Concertina",
+   "description": "Squeezebox • Small accordion • Sea shanties • Irish music • Hexagonal ends • Buttons",
    "hints": [
     {
      "text": "Squeezebox",
@@ -3404,6 +3504,7 @@
   },
   {
    "word": "Bandoneon",
+   "description": "Squeezebox • Tango instrument • Argentine tango • Buenos aires • Square bellows • Many buttons",
    "hints": [
     {
      "text": "Squeezebox",
@@ -3438,6 +3539,7 @@
   },
   {
    "word": "Banjolele",
+   "description": "String instrument • Hybrid uke • Music hall songs • Plinky • Drum body • Four strings",
    "hints": [
     {
      "text": "String instrument",
@@ -3472,6 +3574,7 @@
   },
   {
    "word": "Lap steel",
+   "description": "String instrument • Slide guitar • Hawaiian sound • Country weeping • Laid flat • Metal bar slide",
    "hints": [
     {
      "text": "String instrument",
@@ -3506,6 +3609,7 @@
   },
   {
    "word": "Cajon",
+   "description": "Percussion instrument • Box drum • Unplugged sessions • Flamenco • Wooden box • Sit on it",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -3540,6 +3644,7 @@
   },
   {
    "word": "Rainstick",
+   "description": "Percussion instrument • Shaker tube • Relaxing sound • Shower imitation • Cactus tube • Pebbles inside",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -3574,6 +3679,7 @@
   },
   {
    "word": "Woodblock",
+   "description": "Percussion instrument • Wooden clapper • Clip clop effects • Orchestra • Hollow chamber • Struck with stick",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -3608,6 +3714,7 @@
   },
   {
    "word": "Claves",
+   "description": "Percussion instrument • Rhythm sticks • Salsa rhythms • Latin pattern • Two wooden dowels • Sharp click",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -3642,6 +3749,7 @@
   },
   {
    "word": "Shaker",
+   "description": "Percussion instrument • Rattle • Acoustic gigs • Egg shaped • Filled with beads • Shaken rhythm",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -3676,6 +3784,7 @@
   },
   {
    "word": "Guiro",
+   "description": "Percussion instrument • Scraper • Latin music • Raspy sound • Ridged gourd • Scraped with stick",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -3710,6 +3819,7 @@
   },
   {
    "word": "Vuvuzela",
+   "description": "Horn • Stadium trumpet • World cup buzz • Very loud • Long plastic horn • Monotone blare",
    "hints": [
     {
      "text": "Horn",
@@ -3744,6 +3854,7 @@
   },
   {
    "word": "Conch shell",
+   "description": "Wind instrument • Ocean horn • Temple rituals • Ancient signal • Spiral sea spiral • Deep blast",
    "hints": [
     {
      "text": "Wind instrument",
@@ -3778,6 +3889,7 @@
   },
   {
    "word": "Whistle",
+   "description": "Wind instrument • Signal pipe • Referees blow it • Shrill sound • Tiny metal • Pea inside",
    "hints": [
     {
      "text": "Wind instrument",
@@ -3812,6 +3924,7 @@
   },
   {
    "word": "Music box",
+   "description": "Mechanical instrument • Wind up toy • Ballerina spins • Lullabies • Turning cylinder • Metal comb",
    "hints": [
     {
      "text": "Mechanical instrument",
@@ -3846,6 +3959,7 @@
   },
   {
    "word": "Hurdy gurdy",
+   "description": "String instrument • Crank instrument • Medieval fairs • Buzzing drone • Turning wheel • Keyed strings",
    "hints": [
     {
      "text": "String instrument",
@@ -3880,6 +3994,7 @@
   },
   {
    "word": "Celesta",
+   "description": "Keyboard instrument • Bell piano • Sugar plum fairy • Twinkly • Hammers hit metal plates • Small keys",
    "hints": [
     {
      "text": "Keyboard instrument",
@@ -3914,6 +4029,7 @@
   },
   {
    "word": "Clavichord",
+   "description": "Keyboard instrument • Early keyboard • Baroque practice • Very quiet • Struck strings • Small box",
    "hints": [
     {
      "text": "Keyboard instrument",
@@ -3948,6 +4064,7 @@
   },
   {
    "word": "Pipe organ",
+   "description": "Keyboard instrument • Cathedral giant • Weddings and funerals • Thunderous • Hundreds of tubes • Stops and pedals",
    "hints": [
     {
      "text": "Keyboard instrument",
@@ -3982,6 +4099,7 @@
   },
   {
    "word": "Turntable",
+   "description": "Dj equipment • Record player • Scratching sounds • Hip hop roots • Spinning platter • Needle arm",
    "hints": [
     {
      "text": "Dj equipment",
@@ -4016,6 +4134,7 @@
   },
   {
    "word": "Drum machine",
+   "description": "Electronic instrument • Beat maker • Hip hop beats • Dance music • Pads and buttons • Programmed rhythm",
    "hints": [
     {
      "text": "Electronic instrument",
@@ -4050,6 +4169,7 @@
   },
   {
    "word": "Electric violin",
+   "description": "Amplified instrument • Modern fiddle • Crossover music • Neon designs • Skeletal body • Plugged in",
    "hints": [
     {
      "text": "Amplified instrument",
@@ -4084,6 +4204,7 @@
   },
   {
    "word": "Acoustic bass",
+   "description": "String instrument • Hollow low end • Unplugged gigs • Folk bands • Big hollow body • Four strings",
    "hints": [
     {
      "text": "String instrument",
@@ -4118,6 +4239,7 @@
   },
   {
    "word": "Twelve string",
+   "description": "Fretted instrument • Jangly guitar • Folk rock shimmer • Rich chime • Doubled courses • Wide neck",
    "hints": [
     {
      "text": "Fretted instrument",
@@ -4152,6 +4274,7 @@
   },
   {
    "word": "Tenor sax",
+   "description": "Woodwind instrument • Jazz horn • Smoky solos • Rock and roll • Curved neck • Big brass body",
    "hints": [
     {
      "text": "Woodwind instrument",
@@ -4186,6 +4309,7 @@
   },
   {
    "word": "Alto sax",
+   "description": "Woodwind instrument • Jazz horn • School bands • Bright solos • Smaller brass body • Single reed",
    "hints": [
     {
      "text": "Woodwind instrument",
@@ -4220,6 +4344,7 @@
   },
   {
    "word": "Steel guitar",
+   "description": "String instrument • Country sound • Weeping notes • Nashville • Pedals and knees • Slide bar",
    "hints": [
     {
      "text": "String instrument",
@@ -4254,6 +4379,7 @@
   },
   {
    "word": "Dobro",
+   "description": "String instrument • Resonator guitar • Bluegrass slides • Metallic tone • Metal cone • Played flat",
    "hints": [
     {
      "text": "String instrument",
@@ -4288,6 +4414,7 @@
   },
   {
    "word": "Balalaika",
+   "description": "String instrument • Russian lute • Folk dances • Triangular body • Three strings • Triangle shape",
    "hints": [
     {
      "text": "String instrument",
@@ -4322,6 +4449,7 @@
   },
   {
    "word": "Bouzouki",
+   "description": "String instrument • Greek lute • Taverna music • Zorba dance • Long neck • Round back",
    "hints": [
     {
      "text": "String instrument",
@@ -4356,6 +4484,7 @@
   },
   {
    "word": "Oud",
+   "description": "String instrument • Arabic lute • Middle eastern music • Fretless • Bowl back • Short neck",
    "hints": [
     {
      "text": "String instrument",
@@ -4390,6 +4519,7 @@
   },
   {
    "word": "Kalimba",
+   "description": "Thumb piano • African instrument • Soothing plinks • Pocket music • Metal tines • Wooden board",
    "hints": [
     {
      "text": "Thumb piano",
@@ -4424,6 +4554,7 @@
   },
   {
    "word": "Hang drum",
+   "description": "Percussion instrument • Handpan • Meditative tones • Street buskers • Flying saucer shape • Dimpled steel",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -4458,6 +4589,7 @@
   },
   {
    "word": "Tongue drum",
+   "description": "Percussion instrument • Steel percussion • Relaxing tones • Kids play easily • Cut steel tabs • Round body",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -4492,6 +4624,7 @@
   },
   {
    "word": "Gamelan",
+   "description": "Percussion ensemble • Indonesian orchestra • Bali ceremonies • Shimmering tones • Bronze gongs • Metal keys",
    "hints": [
     {
      "text": "Percussion ensemble",
@@ -4526,6 +4659,7 @@
   },
   {
    "word": "Bodhran",
+   "description": "Percussion instrument • Irish frame drum • Celtic music • Pub sessions • Goatskin frame • Double ended stick",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -4560,6 +4694,7 @@
   },
   {
    "word": "Timbales",
+   "description": "Percussion instrument • Latin drums • Salsa music • Shallow shells • Metal drums on stand • Cowbell attached",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -4594,6 +4729,7 @@
   },
   {
    "word": "Tom drum",
+   "description": "Percussion instrument • Kit piece • Rolling fills • Rock kits • Mounted cylinders • Tuned pitches",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -4628,6 +4764,7 @@
   },
   {
    "word": "Hi hat",
+   "description": "Percussion instrument • Pedal cymbals • Disco beats • Tight ticks • Paired cymbals • Foot pedal",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -4662,6 +4799,7 @@
   },
   {
    "word": "Ride cymbal",
+   "description": "Percussion instrument • Large bronze • Jazz patterns • Steady pinging • Big bronze disc • Bell center",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -4696,6 +4834,7 @@
   },
   {
    "word": "Glass harp",
+   "description": "Musical goblets • Friction instrument • Wet finger rims • Eerie tones • Stemmed goblets • Water levels",
    "hints": [
     {
      "text": "Musical goblets",
@@ -4730,6 +4869,7 @@
   },
   {
    "word": "Singing bowl",
+   "description": "Meditation instrument • Tibetan instrument • Yoga classes • Healing sound • Metal vessel • Rubbed wooden stick",
    "hints": [
     {
      "text": "Meditation instrument",
@@ -4764,6 +4904,7 @@
   },
   {
    "word": "Musical saw",
+   "description": "Odd instrument • Bowed blade • Spooky wail • Folk oddity • Bent handsaw • Bow on edge",
    "hints": [
     {
      "text": "Odd instrument",
@@ -4798,6 +4939,7 @@
   },
   {
    "word": "Steel pan",
+   "description": "Percussion instrument • Trinidad drum • Carnival bands • Bright plinks • Hammered oil barrel • Note bumps",
    "hints": [
     {
      "text": "Percussion instrument",
@@ -4832,6 +4974,7 @@
   },
   {
    "word": "Lyre harp",
+   "description": "String instrument • Compact strummer • Folk tunes • Easy to learn • Few strings • Wooden frame",
    "hints": [
     {
      "text": "String instrument",
@@ -4866,6 +5009,7 @@
   },
   {
    "word": "Recorder flute",
+   "description": "Woodwind instrument • School pipe • Music class • Squeaky notes • Plastic tube • Thumb hole",
    "hints": [
     {
      "text": "Woodwind instrument",
@@ -4900,6 +5044,7 @@
   },
   {
    "word": "Baritone",
+   "description": "Brass instrument • Small euphonium • Brass bands • Mellow middle • Upright bell • Three valves",
    "hints": [
     {
      "text": "Brass instrument",
@@ -4934,6 +5079,7 @@
   },
   {
    "word": "Contrabassoon",
+   "description": "Woodwind instrument • Lowest reed • Rumbling low notes • Rare in bands • Doubled back tube • Huge length",
    "hints": [
     {
      "text": "Woodwind instrument",
@@ -4968,6 +5114,7 @@
   },
   {
    "word": "Bass clarinet",
+   "description": "Woodwind instrument • Low reed • Film scores • Jazz textures • Curved neck • Upturned bell",
    "hints": [
     {
      "text": "Woodwind instrument",
@@ -5002,6 +5149,7 @@
   },
   {
    "word": "English horn",
+   "description": "Woodwind instrument • Alto oboe • Pastoral solos • Melancholy tone • Pear shaped bell • Bent crook",
    "hints": [
     {
      "text": "Woodwind instrument",
@@ -5036,6 +5184,7 @@
   },
   {
    "word": "Mbira",
+   "description": "Thumb piano • Zimbabwean instrument • Spiritual ceremonies • Buzzing tone • Metal keys • Gourd resonator",
    "hints": [
     {
      "text": "Thumb piano",
@@ -5070,6 +5219,7 @@
   },
   {
    "word": "Kora",
+   "description": "String instrument • West african harp • Griot storytellers • Flowing melodies • Calabash body • Many strings",
    "hints": [
     {
      "text": "String instrument",
@@ -5104,6 +5254,7 @@
   },
   {
    "word": "Shofar",
+   "description": "Wind instrument • Ram horn • High holy days • Ancient call • Curved animal horn • Raw blast",
    "hints": [
     {
      "text": "Wind instrument",
@@ -5138,6 +5289,7 @@
   },
   {
    "word": "Bugle call",
+   "description": "Military signal • Brass tune • Morning reveille • Lights out • Short notes • No valves",
    "hints": [
     {
      "text": "Military signal",
@@ -5172,6 +5324,7 @@
   },
   {
    "word": "Rattle",
+   "description": "Percussion toy • Shaker • Baby toy • Ritual dances • Beads inside • Handle grip",
    "hints": [
     {
      "text": "Percussion toy",

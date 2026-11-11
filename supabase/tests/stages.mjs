@@ -81,7 +81,12 @@ export async function run({ rpc, fails, sqlFails, as, user, admin, ok }) {
   ok('reveal blocks voice', (await canPub()) === false);
   await rpc(h, 'advance_game_phase', [g.session_id, 'clue']);
   ok('clue follows host setting', (await canPub()) === false);
-  await rpc(h, 'advance_game_phase', [g.session_id, 'discussion']);
+  for (;;) {
+    const [st] = await admin('select * from game_sessions where id=$1', [g.session_id]);
+    if (st.clues_complete) break;
+    await rpc(st.turn_order[st.clue_step % st.turn_order.length], 'submit_online_clue', [g.session_id, 'c']);
+  }
+  await rpc(h, 'start_discussion', [g.session_id]);
   ok('discussion opens voice', (await canPub()) === true);
   await admin(`update game_sessions set discussion_end_time = now() - interval '1 second' where id = $1`, [g.session_id]);
   await rpc(h, 'advance_game_phase', [g.session_id, 'vote']);
@@ -100,9 +105,9 @@ async function stage5({ rpc, fails, sqlFails, as, user, admin, ok }) {
   const [h] = ps;
   const room = await rpc(h, 'create_room', ['H', 0, null]);
   for (const [i, p] of ps.slice(1).entries()) await rpc(p, 'join_room', [room.code, `P${i}`, 0]);
-  ok('non-host cannot change settings', /host/i.test(await fails(ps[1], 'update_room_settings', [room.room_id, 2, 'sequential', 'public'])));
-  ok('rounds are limited to 1-10', /between 1 and 10/.test(await fails(h, 'update_room_settings', [room.room_id, 11, 'sequential', 'public'])));
-  await rpc(h, 'update_room_settings', [room.room_id, 2, 'sequential', 'public']);
+  ok('non-host cannot change settings', /host/i.test(await fails(ps[1], 'update_room_settings', [room.room_id, 2, 'sequential', 'public', 45])));
+  ok('rounds are limited to 1-10', /between 1 and 10/.test(await fails(h, 'update_room_settings', [room.room_id, 11, 'sequential', 'public', 45])));
+  await rpc(h, 'update_room_settings', [room.room_id, 2, 'sequential', 'public', 45]);
 
   const g1 = await rpc(h, 'start_online_game', [room.room_id]);
   const sid = g1.session_id;
@@ -111,10 +116,11 @@ async function stage5({ rpc, fails, sqlFails, as, user, admin, ok }) {
   ok('next round is blocked mid-round', /Finish this round/.test(await fails(h, 'start_next_round', [room.room_id])));
 
   await rpc(h, 'advance_game_phase', [sid, 'clue']);
-  while ((await sess()).phase === 'clue') {
+  while (!(await sess()).clues_complete) {
     const s = await sess();
     await rpc(s.turn_order[s.clue_step % s.turn_order.length], 'submit_online_clue', [sid, 'c']);
   }
+  await rpc(h, 'start_discussion', [sid]);
 
   // Early end: one refusal cancels, cooldown applies, unanimous agreement ends it.
   const req = await rpc(ps[1], 'request_end_discussion', [sid]);

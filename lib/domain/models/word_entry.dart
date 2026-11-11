@@ -23,6 +23,8 @@ abstract class WordEntry with _$WordEntry {
     required String word,
     @Default(<Hint>[]) List<Hint> hints,
     @Default(<String>[]) List<String> fakeWords,
+    /// Short plain-language meaning, shown on request to players who get the word.
+    String? description,
     required String source,
   }) = _WordEntry;
 

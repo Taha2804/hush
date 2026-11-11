@@ -4,6 +4,7 @@
  "words": [
   {
    "word": "Water",
+   "description": "Basic need • Clear liquid • Keeps you hydrated • Comes from taps • No taste • Drink eight glasses",
    "hints": [
     {
      "text": "Basic need",
@@ -38,6 +39,7 @@
   },
   {
    "word": "Sparkling water",
+   "description": "Fizzy drink • Bubbly liquid • Fancy restaurant order • Sugar free • Carbonated bubbles • Tingles on tongue",
    "hints": [
     {
      "text": "Fizzy drink",
@@ -72,6 +74,7 @@
   },
   {
    "word": "Coconut water",
+   "description": "Tropical drink • Natural refresher • Sipped from the shell • Beach favorite • Clear and slightly sweet • Rich in electrolytes",
    "hints": [
     {
      "text": "Tropical drink",
@@ -106,6 +109,7 @@
   },
   {
    "word": "Milk",
+   "description": "Dairy drink • White liquid • Good for bones • Poured on cereal • Comes from cows • Leaves a mustache",
    "hints": [
     {
      "text": "Dairy drink",
@@ -140,6 +144,7 @@
   },
   {
    "word": "Chocolate milk",
+   "description": "Sweet drink • Dairy drink • Kids lunch drink • After school treat • Cocoa flavored • Brown and creamy",
    "hints": [
     {
      "text": "Sweet drink",
@@ -174,6 +179,7 @@
   },
   {
    "word": "Buttermilk",
+   "description": "Dairy drink • Cooling drink • Summer refresher • Served after meals • Thin and tangy • Leftover from churning",
    "hints": [
     {
      "text": "Dairy drink",
@@ -208,6 +214,7 @@
   },
   {
    "word": "Lassi",
+   "description": "Indian drink • Yogurt drink • Summer favorite • Served in clay cups • Thick and creamy • Sweet or salty",
    "hints": [
     {
      "text": "Indian drink",
@@ -242,6 +249,7 @@
   },
   {
    "word": "Mango lassi",
+   "description": "Indian drink • Fruity drink • Restaurant favorite • Summer cooler • Yogurt and pulp • Bright orange",
    "hints": [
     {
      "text": "Indian drink",
@@ -276,6 +284,7 @@
   },
   {
    "word": "Chai",
+   "description": "Hot drink • Indian drink • Served at stalls • Shared with biscuits • Spiced and milky • Boiled with ginger",
    "hints": [
     {
      "text": "Hot drink",
@@ -310,6 +319,7 @@
   },
   {
    "word": "Green tea",
+   "description": "Hot drink • Healthy drink • Full of antioxidants • Popular in east asia • Light and grassy • Pale color",
    "hints": [
     {
      "text": "Hot drink",
@@ -344,6 +354,7 @@
   },
   {
    "word": "Black tea",
+   "description": "Hot drink • Classic brew • British breakfast staple • Served with milk • Strong and dark • Steeped leaves",
    "hints": [
     {
      "text": "Hot drink",
@@ -378,6 +389,7 @@
   },
   {
    "word": "Iced tea",
+   "description": "Cold drink • Summer drink • Sipped on porches • Served in pitchers • Chilled brew • Lemon slice",
    "hints": [
     {
      "text": "Cold drink",
@@ -412,6 +424,7 @@
   },
   {
    "word": "Herbal tea",
+   "description": "Hot drink • Caffeine free • Calms you down • Bedtime drink • Dried flowers and herbs • Steeped in bags",
    "hints": [
     {
      "text": "Hot drink",
@@ -446,6 +459,7 @@
   },
   {
    "word": "Mint tea",
+   "description": "Hot drink • Refreshing brew • North african tradition • Poured from height • Fresh green leaves • Cool aftertaste",
    "hints": [
     {
      "text": "Hot drink",
@@ -480,6 +494,7 @@
   },
   {
    "word": "Chamomile",
+   "description": "Herbal drink • Calming brew • Helps you sleep • Soothes nerves • Daisy like flowers • Golden color",
    "hints": [
     {
      "text": "Herbal drink",
@@ -514,6 +529,7 @@
   },
   {
    "word": "Matcha",
+   "description": "Japanese drink • Powdered tea • Whisked in bowls • Ceremony drink • Bright green • Earthy taste",
    "hints": [
     {
      "text": "Japanese drink",
@@ -548,6 +564,7 @@
   },
   {
    "word": "Bubble tea",
+   "description": "Sweet drink • Taiwanese drink • Sipped through fat straws • Trendy cafes • Chewy tapioca pearls • Milky and sweet",
    "hints": [
     {
      "text": "Sweet drink",
@@ -582,6 +599,7 @@
   },
   {
    "word": "Kombucha",
+   "description": "Fermented drink • Health drink • Trendy wellness drink • Homebrewed • Tangy and fizzy • Made with scoby",
    "hints": [
     {
      "text": "Fermented drink",
@@ -616,6 +634,7 @@
   },
   {
    "word": "Coffee",
+   "description": "Hot drink • Morning drink • Wakes you up • Served at cafes • Roasted beans • Full of caffeine",
    "hints": [
     {
      "text": "Hot drink",
@@ -650,6 +669,7 @@
   },
   {
    "word": "Espresso",
+   "description": "Coffee drink • Italian drink • Quick shot • Served in tiny cups • Strong and concentrated • Crema on top",
    "hints": [
     {
      "text": "Coffee drink",
@@ -684,6 +704,7 @@
   },
   {
    "word": "Cappuccino",
+   "description": "Coffee drink • Italian drink • Breakfast order • Cafe classic • Thick milk foam • Cocoa dusting",
    "hints": [
     {
      "text": "Coffee drink",
@@ -718,6 +739,7 @@
   },
   {
    "word": "Latte",
+   "description": "Coffee drink • Milky drink • Cafe favorite • Leaf patterns on top • Lots of steamed milk • Mild coffee taste",
    "hints": [
     {
      "text": "Coffee drink",
@@ -752,6 +774,7 @@
   },
   {
    "word": "Americano",
+   "description": "Coffee drink • Black coffee • Simple cafe order • Long and mild • Espresso with water • No milk",
    "hints": [
     {
      "text": "Coffee drink",
@@ -786,6 +809,7 @@
   },
   {
    "word": "Mocha",
+   "description": "Coffee drink • Sweet drink • Cafe treat • Topped with cream • Chocolate and espresso • Rich and brown",
    "hints": [
     {
      "text": "Coffee drink",
@@ -820,6 +844,7 @@
   },
   {
    "word": "Macchiato",
+   "description": "Coffee drink • Italian drink • Small cafe order • Strong flavor • Espresso marked with foam • Layered look",
    "hints": [
     {
      "text": "Coffee drink",
@@ -854,6 +879,7 @@
   },
   {
    "word": "Cold brew",
+   "description": "Coffee drink • Chilled drink • Steeped overnight • Smooth and strong • Served over ice • Low acidity",
    "hints": [
     {
      "text": "Coffee drink",
@@ -888,6 +914,7 @@
   },
   {
    "word": "Iced coffee",
+   "description": "Cold drink • Cafe drink • Summer pick me up • Served in tall glasses • Chilled with cubes • Sipped through straws",
    "hints": [
     {
      "text": "Cold drink",
@@ -922,6 +949,7 @@
   },
   {
    "word": "Frappe",
+   "description": "Cold drink • Blended coffee • Summer cafe order • Sweet and frothy • Blended with ice • Whipped topping",
    "hints": [
     {
      "text": "Cold drink",
@@ -956,6 +984,7 @@
   },
   {
    "word": "Hot chocolate",
+   "description": "Warm drink • Winter drink • Cozy evening treat • Kids favorite • Topped with marshmallows • Rich cocoa",
    "hints": [
     {
      "text": "Warm drink",
@@ -990,6 +1019,7 @@
   },
   {
    "word": "Milkshake",
+   "description": "Sweet drink • Diner drink • Served with straws • Thick and cold • Blended ice cream • Topped with cherry",
    "hints": [
     {
      "text": "Sweet drink",
@@ -1024,6 +1054,7 @@
   },
   {
    "word": "Smoothie",
+   "description": "Healthy drink • Blended drink • Breakfast on the go • Gym favorite • Blended fruit • Thick texture",
    "hints": [
     {
      "text": "Healthy drink",
@@ -1058,6 +1089,7 @@
   },
   {
    "word": "Orange juice",
+   "description": "Breakfast drink • Fruit drink • Full of vitamin c • Served at brunch • Freshly squeezed • Pulp or no pulp",
    "hints": [
     {
      "text": "Breakfast drink",
@@ -1092,6 +1124,7 @@
   },
   {
    "word": "Apple juice",
+   "description": "Fruit drink • Kids drink • Lunchbox staple • Served in boxes • Pale gold • Pressed fruit",
    "hints": [
     {
      "text": "Fruit drink",
@@ -1126,6 +1159,7 @@
   },
   {
    "word": "Grape juice",
+   "description": "Fruit drink • Purple drink • Kids party drink • Stains clothes • Deep purple • Very sweet",
    "hints": [
     {
      "text": "Fruit drink",
@@ -1160,6 +1194,7 @@
   },
   {
    "word": "Lemonade",
+   "description": "Cold drink • Summer drink • Sold at kids stands • Picnic favorite • Sour and sweet • Squeezed citrus",
    "hints": [
     {
      "text": "Cold drink",
@@ -1194,6 +1229,7 @@
   },
   {
    "word": "Limeade",
+   "description": "Cold drink • Citrus drink • Summer cooler • Tart refresher • Green citrus • Sugar and water",
    "hints": [
     {
      "text": "Cold drink",
@@ -1228,6 +1264,7 @@
   },
   {
    "word": "Pineapple juice",
+   "description": "Tropical drink • Fruit drink • Beach drink • Sweet and tangy • Yellow and frothy • Pressed tropical fruit",
    "hints": [
     {
      "text": "Tropical drink",
@@ -1262,6 +1299,7 @@
   },
   {
    "word": "Mango juice",
+   "description": "Tropical drink • Fruit drink • Summer favorite • Sold in cartons • Thick and orange • Very sweet pulp",
    "hints": [
     {
      "text": "Tropical drink",
@@ -1296,6 +1334,7 @@
   },
   {
    "word": "Tomato juice",
+   "description": "Vegetable drink • Savory drink • Airplane drink • Seasoned with salt • Thick and red • Made from vines",
    "hints": [
     {
      "text": "Vegetable drink",
@@ -1330,6 +1369,7 @@
   },
   {
    "word": "Carrot juice",
+   "description": "Vegetable drink • Healthy drink • Good for eyesight • Health bar order • Bright orange • Earthy sweet",
    "hints": [
     {
      "text": "Vegetable drink",
@@ -1364,6 +1404,7 @@
   },
   {
    "word": "Cranberry juice",
+   "description": "Fruit drink • Tart drink • Good for health • Holiday drink • Deep red • Sour berries",
    "hints": [
     {
      "text": "Fruit drink",
@@ -1398,6 +1439,7 @@
   },
   {
    "word": "Watermelon juice",
+   "description": "Summer drink • Fruit drink • Super refreshing • Beach cooler • Pink and watery • Made from melons",
    "hints": [
     {
      "text": "Summer drink",
@@ -1432,6 +1474,7 @@
   },
   {
    "word": "Sugarcane juice",
+   "description": "Street drink • Sweet drink • Pressed by roadside carts • Summer cooler • Crushed stalks • Green and frothy",
    "hints": [
     {
      "text": "Street drink",
@@ -1466,6 +1509,7 @@
   },
   {
    "word": "Pomegranate",
+   "description": "Fruit drink • Healthy drink • Rich in antioxidants • Pricey drink • Deep ruby red • Made from seeds",
    "hints": [
     {
      "text": "Fruit drink",
@@ -1500,6 +1544,7 @@
   },
   {
    "word": "Almond milk",
+   "description": "Plant based • Dairy alternative • Vegan favorite • Used in lattes • Made from nuts • Nutty taste",
    "hints": [
     {
      "text": "Plant based",
@@ -1534,6 +1579,7 @@
   },
   {
    "word": "Soy milk",
+   "description": "Plant based • Dairy alternative • Vegan staple • High in protein • Made from beans • Creamy beige",
    "hints": [
     {
      "text": "Plant based",
@@ -1568,6 +1614,7 @@
   },
   {
    "word": "Oat milk",
+   "description": "Plant based • Dairy alternative • Barista favorite • Creamy in coffee • Made from grains • Slightly sweet",
    "hints": [
     {
      "text": "Plant based",
@@ -1602,6 +1649,7 @@
   },
   {
    "word": "Cola",
+   "description": "Soft drink • Fizzy drink • Served with pizza • Famous secret recipe • Dark brown • Lots of sugar",
    "hints": [
     {
      "text": "Soft drink",
@@ -1636,6 +1684,7 @@
   },
   {
    "word": "Ginger ale",
+   "description": "Soft drink • Fizzy drink • Settles your stomach • Served on planes • Pale gold • Spicy root flavor",
    "hints": [
     {
      "text": "Soft drink",
@@ -1670,6 +1719,7 @@
   },
   {
    "word": "Cream soda",
+   "description": "Soft drink • Sweet drink • Old fashioned fizz • Diner favorite • Vanilla flavor • Fizzy and smooth",
    "hints": [
     {
      "text": "Soft drink",
@@ -1704,6 +1754,7 @@
   },
   {
    "word": "Orange soda",
+   "description": "Soft drink • Fizzy drink • Kids party drink • Bright and sweet • Neon colored • Citrus flavored",
    "hints": [
     {
      "text": "Soft drink",
@@ -1738,6 +1789,7 @@
   },
   {
    "word": "Tonic water",
+   "description": "Fizzy drink • Mixer • Glows under blacklight • Slightly bitter • Contains quinine • Clear and bubbly",
    "hints": [
     {
      "text": "Fizzy drink",
@@ -1772,6 +1824,7 @@
   },
   {
    "word": "Energy drink",
+   "description": "Canned beverage • Caffeinated beverage • Student all nighter • Gamer fuel • Taurine and sugar • Tall slim can",
    "hints": [
     {
      "text": "Canned beverage",
@@ -1806,6 +1859,7 @@
   },
   {
    "word": "Sports drink",
+   "description": "Workout beverage • Hydration beverage • Athletes gulp it • Sold at gyms • Electrolytes • Neon colors",
    "hints": [
     {
      "text": "Workout beverage",
@@ -1840,6 +1894,7 @@
   },
   {
    "word": "Protein shake",
+   "description": "Gym drink • Workout drink • After lifting weights • Mixed in bottles • Powder mixed with milk • Muscle builder",
    "hints": [
     {
      "text": "Gym drink",
@@ -1874,6 +1929,7 @@
   },
   {
    "word": "Eggnog",
+   "description": "Holiday drink • Creamy drink • Winter tradition • Served at parties • Nutmeg on top • Thick and eggy",
    "hints": [
     {
      "text": "Holiday drink",
@@ -1908,6 +1964,7 @@
   },
   {
    "word": "Fruit punch",
+   "description": "Party drink • Sweet drink • Served in big bowls • Kids birthday drink • Mixed berry flavors • Bright red",
    "hints": [
     {
      "text": "Party drink",
@@ -1942,6 +1999,7 @@
   },
   {
    "word": "Slushie",
+   "description": "Frozen drink • Summer treat • Gives brain freeze • Sold at stores • Crushed ice • Neon syrup",
    "hints": [
     {
      "text": "Frozen drink",
@@ -1976,6 +2034,7 @@
   },
   {
    "word": "Horchata",
+   "description": "Latin drink • Sweet drink • Served at taco stands • Very refreshing • Rice and cinnamon • Milky white",
    "hints": [
     {
      "text": "Latin drink",
@@ -2010,6 +2069,7 @@
   },
   {
    "word": "Jaljeera",
+   "description": "Indian drink • Spicy cooler • Summer refresher • Aids digestion • Cumin and mint • Tangy and salty",
    "hints": [
     {
      "text": "Indian drink",
@@ -2044,6 +2104,7 @@
   },
   {
    "word": "Aam panna",
+   "description": "Indian drink • Summer cooler • Beats the heat • Homemade remedy • Raw mango pulp • Tangy and green",
    "hints": [
     {
      "text": "Indian drink",
@@ -2078,6 +2139,7 @@
   },
   {
    "word": "Thandai",
+   "description": "Indian drink • Festive drink • Spring festival favorite • Served chilled • Milk with nuts • Saffron and fennel",
    "hints": [
     {
      "text": "Indian drink",
@@ -2112,6 +2174,7 @@
   },
   {
    "word": "Nimbu pani",
+   "description": "Indian drink • Citrus cooler • Street stall favorite • Summer staple • Lemon with salt • Sometimes fizzy",
    "hints": [
     {
      "text": "Indian drink",
@@ -2146,6 +2209,7 @@
   },
   {
    "word": "Rose milk",
+   "description": "Indian drink • Sweet drink • South indian favorite • Served chilled • Pink and floral • Flavored syrup",
    "hints": [
     {
      "text": "Indian drink",
@@ -2180,6 +2244,7 @@
   },
   {
    "word": "Badam milk",
+   "description": "Indian drink • Nutty drink • Served hot or cold • Healthy treat • Ground almonds • Saffron tinted",
    "hints": [
     {
      "text": "Indian drink",
@@ -2214,6 +2279,7 @@
   },
   {
    "word": "Falooda",
+   "description": "Indian dessert drink • Layered drink • Summer treat • Served in tall glasses • Vermicelli and basil seeds • Topped with kulfi",
    "hints": [
     {
      "text": "Indian dessert drink",
@@ -2248,6 +2314,7 @@
   },
   {
    "word": "Sharbat",
+   "description": "Sweet drink • Traditional cooler • Served to guests • Ramadan favorite • Fruit or flower syrup • Diluted with water",
    "hints": [
     {
      "text": "Sweet drink",
@@ -2282,6 +2349,7 @@
   },
   {
    "word": "Ayran",
+   "description": "Yogurt drink • Turkish drink • Served with kebabs • Salty refresher • Frothy and white • Yogurt and water",
    "hints": [
     {
      "text": "Yogurt drink",
@@ -2316,6 +2384,7 @@
   },
   {
    "word": "Kefir",
+   "description": "Fermented drink • Dairy drink • Gut health favorite • Tangy probiotic • Grains and milk • Slightly fizzy",
    "hints": [
     {
      "text": "Fermented drink",
@@ -2350,6 +2419,7 @@
   },
   {
    "word": "Milk tea",
+   "description": "Sweet drink • Asian drink • Sold at cafes • Hot or iced • Creamy and sweet • Brewed leaves and cream",
    "hints": [
     {
      "text": "Sweet drink",
@@ -2384,6 +2454,7 @@
   },
   {
    "word": "Thai tea",
+   "description": "Sweet drink • Asian drink • Street food partner • Served over ice • Bright orange • Condensed milk",
    "hints": [
     {
      "text": "Sweet drink",
@@ -2418,6 +2489,7 @@
   },
   {
    "word": "Hibiscus tea",
+   "description": "Herbal drink • Tart drink • Served hot or iced • Lowers blood pressure • Deep red petals • Cranberry like",
    "hints": [
     {
      "text": "Herbal drink",
@@ -2452,6 +2524,7 @@
   },
   {
    "word": "Barley water",
+   "description": "Old drink • Cooling drink • Wimbledon tradition • Homemade remedy • Boiled grain • Lemony",
    "hints": [
     {
      "text": "Old drink",
@@ -2486,6 +2559,7 @@
   },
   {
    "word": "Lemon water",
+   "description": "Healthy drink • Morning drink • Detox ritual • Served warm or cold • Citrus slices • Plain and sour",
    "hints": [
     {
      "text": "Healthy drink",
@@ -2520,6 +2594,7 @@
   },
   {
    "word": "Mineral water",
+   "description": "Bottled drink • Pure drink • Sold in bottles • From natural springs • Naturally filtered • Still or sparkling",
    "hints": [
     {
      "text": "Bottled drink",
@@ -2554,6 +2629,7 @@
   },
   {
    "word": "Soda water",
+   "description": "Fizzy drink • Mixer • Plain bubbles • Settles tummy • Carbonated and clear • No sugar",
    "hints": [
     {
      "text": "Fizzy drink",
@@ -2588,6 +2664,7 @@
   },
   {
    "word": "Seltzer",
+   "description": "Fizzy drink • Bubbly water • Flavored versions • Calorie free • Carbonated • Sold in cans",
    "hints": [
     {
      "text": "Fizzy drink",
@@ -2622,6 +2699,7 @@
   },
   {
    "word": "Club soda",
+   "description": "Fizzy drink • Mixer • Removes stains myth • Bar staple • Slightly salty bubbles • Clear",
    "hints": [
     {
      "text": "Fizzy drink",
@@ -2656,6 +2734,7 @@
   },
   {
    "word": "Grape soda",
+   "description": "Soft drink • Fizzy drink • Purple tongue • Kids favorite • Artificial flavor • Deep purple",
    "hints": [
     {
      "text": "Soft drink",
@@ -2690,6 +2769,7 @@
   },
   {
    "word": "Malted milk",
+   "description": "Dairy drink • Vintage drink • Old diner treat • Bedtime drink • Barley powder • Creamy and nutty",
    "hints": [
     {
      "text": "Dairy drink",
@@ -2724,6 +2804,7 @@
   },
   {
    "word": "Hot water",
+   "description": "Simple drink • Warm liquid • Soothes throat • Morning ritual • No flavor • Kettle boiled",
    "hints": [
     {
      "text": "Simple drink",
@@ -2758,6 +2839,7 @@
   },
   {
    "word": "Coconut milk",
+   "description": "Tropical liquid • Creamy liquid • Used in curries • Dairy free • White and rich • Pressed from flesh",
    "hints": [
     {
      "text": "Tropical liquid",
@@ -2792,6 +2874,7 @@
   },
   {
    "word": "Rice milk",
+   "description": "Plant based • Dairy alternative • Allergy friendly • Thin and sweet • Made from grains • Watery white",
    "hints": [
     {
      "text": "Plant based",
@@ -2826,6 +2909,7 @@
   },
   {
    "word": "Beet juice",
+   "description": "Vegetable drink • Health drink • Athletes drink it • Earthy flavor • Deep magenta • Root vegetable",
    "hints": [
     {
      "text": "Vegetable drink",
@@ -2860,6 +2944,7 @@
   },
   {
    "word": "Celery juice",
+   "description": "Green drink • Health fad • Morning wellness trend • Very bitter • Pale green • Pressed stalks",
    "hints": [
     {
      "text": "Green drink",
@@ -2894,6 +2979,7 @@
   },
   {
    "word": "Wheatgrass",
+   "description": "Health shot • Green drink • Juice bar shot • Very grassy • Bright green • Tiny cup",
    "hints": [
     {
      "text": "Health shot",
@@ -2928,6 +3014,7 @@
   },
   {
    "word": "Banana shake",
+   "description": "Sweet drink • Blended drink • Breakfast blend • Gym favorite • Fruit blended with milk • Pale yellow",
    "hints": [
     {
      "text": "Sweet drink",
@@ -2962,6 +3049,7 @@
   },
   {
    "word": "Strawberry shake",
+   "description": "Sweet drink • Pink drink • Diner favorite • Kids treat • Fruity flavored • Topped with cream",
    "hints": [
     {
      "text": "Sweet drink",
@@ -2996,6 +3084,7 @@
   },
   {
    "word": "Cold coffee",
+   "description": "Chilled beverage • Cafe beverage • Indian cafe favorite • Summer treat • Blended with milk • Frothy top",
    "hints": [
     {
      "text": "Chilled beverage",
@@ -3030,6 +3119,7 @@
   },
   {
    "word": "Dalgona",
+   "description": "Coffee drink • Viral drink • Internet trend • Whipped by hand • Fluffy foam on milk • Caramel colored",
    "hints": [
     {
      "text": "Coffee drink",
@@ -3064,6 +3154,7 @@
   },
   {
    "word": "Golden milk",
+   "description": "Healthy drink • Indian drink • Bedtime remedy • Soothes colds • Turmeric infusion • Bright yellow",
    "hints": [
     {
      "text": "Healthy drink",
@@ -3098,6 +3189,7 @@
   },
   {
    "word": "Chai latte",
+   "description": "Cafe drink • Spiced drink • Cafe version of tradition • Sweet and creamy • Spiced tea with foam • Cinnamon dusted",
    "hints": [
     {
      "text": "Cafe drink",
@@ -3132,6 +3224,7 @@
   },
   {
    "word": "Matcha latte",
+   "description": "Cafe drink • Green drink • Trendy breakfast drink • Trendy cafe pick • Whisked powder with milk • Bright green",
    "hints": [
     {
      "text": "Cafe drink",
@@ -3166,6 +3259,7 @@
   },
   {
    "word": "Turmeric latte",
+   "description": "Cafe drink • Healthy drink • Wellness cafe order • Warming spice • Yellow root powder • Steamed milk",
    "hints": [
     {
      "text": "Cafe drink",
@@ -3200,6 +3294,7 @@
   },
   {
    "word": "Kahwa",
+   "description": "Kashmiri drink • Hot tea • Served at weddings • Winter warmer • Saffron and almonds • Green tea base",
    "hints": [
     {
      "text": "Kashmiri drink",
@@ -3234,6 +3329,7 @@
   },
   {
    "word": "Butter tea",
+   "description": "Himalayan drink • Salty brew • Mountain tradition • Keeps you warm • Churned with yak fat • Thick and salty",
    "hints": [
     {
      "text": "Himalayan drink",
@@ -3268,6 +3364,7 @@
   },
   {
    "word": "Sencha",
+   "description": "Japanese tea • Green tea • Everyday tea in japan • Served hot • Steamed leaves • Grassy taste",
    "hints": [
     {
      "text": "Japanese tea",
@@ -3302,6 +3399,7 @@
   },
   {
    "word": "Oolong",
+   "description": "Chinese tea • Traditional brew • Partially oxidized • Served in small cups • Floral aroma • Rolled leaves",
    "hints": [
     {
      "text": "Chinese tea",
@@ -3336,6 +3434,7 @@
   },
   {
    "word": "Jasmine tea",
+   "description": "Chinese brew • Floral brew • Served at dim sum • Sweet aroma • Scented with flowers • Pale gold",
    "hints": [
     {
      "text": "Chinese brew",
@@ -3370,6 +3469,7 @@
   },
   {
    "word": "Rooibos",
+   "description": "Herbal tea • South african tea • Caffeine free • Red bush • Reddish color • Sweet and nutty",
    "hints": [
     {
      "text": "Herbal tea",
@@ -3404,6 +3504,7 @@
   },
   {
    "word": "Peppermint",
+   "description": "Herbal tea • Fresh brew • Settles the stomach • Cool and fresh • Bright green leaves • Menthol taste",
    "hints": [
     {
      "text": "Herbal tea",
@@ -3438,6 +3539,7 @@
   },
   {
    "word": "Ginger tea",
+   "description": "Herbal brew • Spicy infusion • Cure for colds • Warms you up • Root slices • Peppery bite",
    "hints": [
     {
      "text": "Herbal brew",
@@ -3472,6 +3574,7 @@
   },
   {
    "word": "Lemon tea",
+   "description": "Hot drink • Citrus brew • Soothes sore throats • Light and tangy • Citrus infusion • No milk",
    "hints": [
     {
      "text": "Hot drink",
@@ -3506,6 +3609,7 @@
   },
   {
    "word": "Yerba mate",
+   "description": "South american drink • Herbal brew • Shared in a gourd • Gives energy • Metal straw • Bitter leaves",
    "hints": [
     {
      "text": "South american drink",
@@ -3540,6 +3644,7 @@
   },
   {
    "word": "Masala chai",
+   "description": "Indian drink • Spiced tea • Train station favorite • Rainy day drink • Cardamom and cloves • Milky brew",
    "hints": [
     {
      "text": "Indian drink",
@@ -3574,6 +3679,7 @@
   },
   {
    "word": "Filter coffee",
+   "description": "South indian drink • Caffeinated drink • Poured between cups • Morning ritual • Frothy and strong • Steel tumbler",
    "hints": [
     {
      "text": "South indian drink",
@@ -3608,6 +3714,7 @@
   },
   {
    "word": "Turkish coffee",
+   "description": "Caffeinated drink • Traditional brew • Fortune telling grounds • Served in tiny cups • Unfiltered and thick • Cooked in a pot",
    "hints": [
     {
      "text": "Caffeinated drink",
@@ -3642,6 +3749,7 @@
   },
   {
    "word": "Decaf",
+   "description": "Coffee drink • Mild drink • Late night coffee • Gentle on sleep • Caffeine removed • Same roasty taste",
    "hints": [
     {
      "text": "Coffee drink",
@@ -3676,6 +3784,7 @@
   },
   {
    "word": "Iced latte",
+   "description": "Cold drink • Coffee drink • Summer cafe order • Served in clear cups • Espresso over ice • Lots of milk",
    "hints": [
     {
      "text": "Cold drink",
@@ -3710,6 +3819,7 @@
   },
   {
    "word": "Cortado",
+   "description": "Coffee drink • Spanish drink • Small but strong • Cafe favorite • Equal espresso and milk • Glass cup",
    "hints": [
     {
      "text": "Coffee drink",
@@ -3744,6 +3854,7 @@
   },
   {
    "word": "Flat white",
+   "description": "Coffee drink • Milky drink • Popular down under • Cafe order • Velvety microfoam • Double shot",
    "hints": [
     {
      "text": "Coffee drink",
@@ -3778,6 +3889,7 @@
   },
   {
    "word": "Affogato",
+   "description": "Coffee dessert • Italian treat • After dinner treat • Served in small glass • Espresso over ice cream • Melty and bitter",
    "hints": [
     {
      "text": "Coffee dessert",
@@ -3812,6 +3924,7 @@
   },
   {
    "word": "Cocoa",
+   "description": "Hot drink • Winter drink • Cozy night in • Kids favorite • Chocolate powder • Stirred with milk",
    "hints": [
     {
      "text": "Hot drink",
@@ -3846,6 +3959,7 @@
   },
   {
    "word": "Soda float",
+   "description": "Dessert drink • Diner treat • Retro diner order • Fizzy and creamy • Scoop in fizz • Long spoon",
    "hints": [
     {
      "text": "Dessert drink",
@@ -3880,6 +3994,7 @@
   },
   {
    "word": "Snow cone",
+   "description": "Frozen treat • Summer drink • Sold at fairs • Melts quickly • Shaved ice • Colorful syrup",
    "hints": [
     {
      "text": "Frozen treat",
@@ -3914,6 +4029,7 @@
   },
   {
    "word": "Pink lemonade",
+   "description": "Cold drink • Summer drink • Picnic favorite • Fair stand drink • Rosy color • Berry tint",
    "hints": [
     {
      "text": "Cold drink",
@@ -3948,6 +4064,7 @@
   },
   {
    "word": "Mint water",
+   "description": "Infused drink • Cooling drink • Spa drink • Very refreshing • Fresh leaves infused • Cool taste",
    "hints": [
     {
      "text": "Infused drink",
@@ -3982,6 +4099,7 @@
   },
   {
    "word": "Cucumber water",
+   "description": "Infused drink • Spa drink • Served at spas • Cool and light • Green slices infused • Very subtle",
    "hints": [
     {
      "text": "Infused drink",
@@ -4016,6 +4134,7 @@
   },
   {
    "word": "Oral rehydration",
+   "description": "Medical drink • Recovery remedy • Given when sick • Replaces lost salts • Salty and sweet • Mixed from sachets",
    "hints": [
     {
      "text": "Medical drink",
@@ -4050,6 +4169,7 @@
   },
   {
    "word": "Shikanji",
+   "description": "Indian drink • Lemon cooler • North indian favorite • Summer street drink • Roasted cumin • Black salt",
    "hints": [
     {
      "text": "Indian drink",
@@ -4084,6 +4204,7 @@
   },
   {
    "word": "Panakam",
+   "description": "South indian drink • Festive drink • Temple offering • Summer cooler • Jaggery and pepper • Cardamom scented",
    "hints": [
     {
      "text": "South indian drink",
@@ -4118,6 +4239,7 @@
   },
   {
    "word": "Neer mor",
+   "description": "South indian drink • Spiced buttermilk • Summer refresher • Temple offering • Curry leaves • Thin and salty",
    "hints": [
     {
      "text": "South indian drink",
@@ -4152,6 +4274,7 @@
   },
   {
    "word": "Lychee juice",
+   "description": "Fruit drink • Tropical drink • Summer favorite • Very fragrant • Pale and sweet • Floral fruit",
    "hints": [
     {
      "text": "Fruit drink",
@@ -4186,6 +4309,7 @@
   },
   {
    "word": "Guava juice",
+   "description": "Tropical drink • Fruit drink • Rich in vitamin c • Thick and pulpy • Pink or white • Sweet and grainy",
    "hints": [
     {
      "text": "Tropical drink",
@@ -4220,6 +4344,7 @@
   },
   {
    "word": "Plum juice",
+   "description": "Fruit drink • Tart drink • Helps digestion • Dark and sweet • Deep purple • Stone fruit",
    "hints": [
     {
      "text": "Fruit drink",
@@ -4254,6 +4379,7 @@
   },
   {
    "word": "Cherry juice",
+   "description": "Fruit drink • Red drink • Helps with sleep • Tart variety • Dark red • Stone fruit",
    "hints": [
     {
      "text": "Fruit drink",
@@ -4288,6 +4414,7 @@
   },
   {
    "word": "Pear juice",
+   "description": "Fruit drink • Mild drink • Baby food staple • Gentle sweet • Pale gold • Soft fruit",
    "hints": [
     {
      "text": "Fruit drink",
@@ -4322,6 +4449,7 @@
   },
   {
    "word": "Peach nectar",
+   "description": "Fruit drink • Thick drink • Brunch favorite • Velvety texture • Orange pulp • Stone fruit",
    "hints": [
     {
      "text": "Fruit drink",
@@ -4356,6 +4484,7 @@
   },
   {
    "word": "Apricot nectar",
+   "description": "Fruit drink • Thick drink • Sold in cans • Velvety sweet • Golden pulp • Stone fruit",
    "hints": [
     {
      "text": "Fruit drink",
@@ -4390,6 +4519,7 @@
   },
   {
    "word": "Papaya juice",
+   "description": "Tropical drink • Fruit drink • Good for digestion • Breakfast drink • Orange flesh • Musky sweet",
    "hints": [
     {
      "text": "Tropical drink",
@@ -4424,6 +4554,7 @@
   },
   {
    "word": "Kiwi smoothie",
+   "description": "Green drink • Blended drink • Breakfast blend • Tangy and fresh • Bright green • Tiny black seeds",
    "hints": [
     {
      "text": "Green drink",
@@ -4458,6 +4589,7 @@
   },
   {
    "word": "Spinach smoothie",
+   "description": "Green drink • Healthy blend • Hides your veggies • Gym favorite • Leafy greens blended • Dark green",
    "hints": [
     {
      "text": "Green drink",
@@ -4492,6 +4624,7 @@
   },
   {
    "word": "Hot cider",
+   "description": "Winter drink • Warm drink • Autumn fair favorite • Spiced and steamy • Mulled apples • Cinnamon sticks",
    "hints": [
     {
      "text": "Winter drink",
@@ -4526,6 +4659,7 @@
   },
   {
    "word": "Lime juice",
+   "description": "Citrus drink • Sour drink • Squeezed fresh • Used in cooking • Green citrus • Very tart",
    "hints": [
     {
      "text": "Citrus drink",
@@ -4560,6 +4694,7 @@
   },
   {
    "word": "Grapefruit",
+   "description": "Citrus drink • Bitter citrus • Breakfast juice • Diet favorite • Pink inside • Very tart",
    "hints": [
     {
      "text": "Citrus drink",
@@ -4594,6 +4729,7 @@
   },
   {
    "word": "Squash",
+   "description": "Concentrate drink • British cordial • Diluted with water • Kids drink • Fruit syrup • Comes in bottles",
    "hints": [
     {
      "text": "Concentrate drink",
@@ -4628,6 +4764,7 @@
   },
   {
    "word": "Cordial",
+   "description": "Concentrate drink • Sweet syrup • Mixed with water • Victorian drink • Flower or fruit syrup • Very sweet",
    "hints": [
     {
      "text": "Concentrate drink",
@@ -4662,6 +4799,7 @@
   },
   {
    "word": "Taro tea",
+   "description": "Boba shop flavor • Sweet drink • Asian cafe order • Purple color • Root vegetable flavor • Nutty and creamy",
    "hints": [
     {
      "text": "Boba shop flavor",
@@ -4696,6 +4834,7 @@
   },
   {
    "word": "Warm milk",
+   "description": "Bedtime drink • Comforting drink • Helps kids sleep • Heated on stove • Plain and creamy • Sometimes with honey",
    "hints": [
     {
      "text": "Bedtime drink",
@@ -4730,6 +4869,7 @@
   },
   {
    "word": "Sweet tea",
+   "description": "Southern drink • Cold drink • Porch favorite • Served by the jug • Sugary brew • Lots of ice",
    "hints": [
     {
      "text": "Southern drink",
@@ -4764,6 +4904,7 @@
   },
   {
    "word": "Agua fresca",
+   "description": "Mexican drink • Fruity cooler • Sold at markets • Big glass jars • Blended fruit and water • Light and sweet",
    "hints": [
     {
      "text": "Mexican drink",
@@ -4798,6 +4939,7 @@
   },
   {
    "word": "Sikhye",
+   "description": "Korean drink • Rice drink • Served after meals • Spa favorite • Floating grains • Malt sweetened",
    "hints": [
     {
      "text": "Korean drink",
@@ -4832,6 +4974,7 @@
   },
   {
    "word": "Barley tea",
+   "description": "Korean drink • Roasted brew • Served instead of water • Hot or cold • Nutty grain taste • Golden brown",
    "hints": [
     {
      "text": "Korean drink",
@@ -4866,6 +5009,7 @@
   },
   {
    "word": "Corn tea",
+   "description": "Korean drink • Roasted brew • Caffeine free • Nutty and sweet • Roasted kernels • Golden color",
    "hints": [
     {
      "text": "Korean drink",
@@ -4900,6 +5044,7 @@
   },
   {
    "word": "Yuzu tea",
+   "description": "Korean drink • Citrus brew • Winter cold remedy • Made from marmalade • Sweet citrus peel • Spooned from jars",
    "hints": [
     {
      "text": "Korean drink",
@@ -4934,6 +5079,7 @@
   },
   {
    "word": "Lemongrass tea",
+   "description": "Herbal drink • Fragrant brew • Thai kitchen herb • Calming drink • Grassy stalks • Citrusy aroma",
    "hints": [
     {
      "text": "Herbal drink",
@@ -4968,6 +5114,7 @@
   },
   {
    "word": "Ginseng tea",
+   "description": "Herbal drink • Korean remedy • Boosts energy • Pricey root • Earthy bitter taste • Gnarled root",
    "hints": [
     {
      "text": "Herbal drink",
@@ -5002,6 +5149,7 @@
   },
   {
    "word": "Genmaicha",
+   "description": "Japanese brew • Green blend • Popcorn tea nickname • Nutty aroma • Toasted rice kernels • Light green",
    "hints": [
     {
      "text": "Japanese brew",
@@ -5036,6 +5184,7 @@
   },
   {
    "word": "Chicory coffee",
+   "description": "Caffeine substitute • Roasted drink • New orleans favorite • Caffeine free • Roasted root • Bitter and woody",
    "hints": [
     {
      "text": "Caffeine substitute",
@@ -5070,6 +5219,7 @@
   },
   {
    "word": "Jigarthanda",
+   "description": "South indian drink • Cooling drink • Madurai specialty • Summer treat • Milk and almond gum • Topped with ice cream",
    "hints": [
     {
      "text": "South indian drink",
@@ -5104,6 +5254,7 @@
   },
   {
    "word": "Sol kadhi",
+   "description": "Konkan drink • Pink drink • Served after seafood • Aids digestion • Coconut and kokum • Pale pink",
    "hints": [
     {
      "text": "Konkan drink",
@@ -5138,6 +5289,7 @@
   },
   {
    "word": "Mango shake",
+   "description": "Sweet drink • Summer drink • Juice shop favorite • Thick and fruity • Blended pulp and milk • Bright yellow",
    "hints": [
     {
      "text": "Sweet drink",
@@ -5172,6 +5324,7 @@
   },
   {
    "word": "Vanilla shake",
+   "description": "Sweet drink • Diner drink • Classic order • Thick and cold • Pale cream color • Bean specks",
    "hints": [
     {
      "text": "Sweet drink",
@@ -5206,6 +5359,7 @@
   },
   {
    "word": "Tamarind drink",
+   "description": "Tangy cooler • Street refresher • Sold in markets • Sweet and sour • Brown pulp • Pod fruit",
    "hints": [
     {
      "text": "Tangy cooler",
@@ -5240,6 +5394,7 @@
   },
   {
    "word": "Kokum sharbat",
+   "description": "Indian cooler • Purple drink • Coastal favorite • Beats the heat • Dried fruit rind • Deep purple",
    "hints": [
     {
      "text": "Indian cooler",

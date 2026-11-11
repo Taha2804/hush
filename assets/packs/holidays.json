@@ -4,6 +4,7 @@
  "words": [
   {
    "word": "Christmas",
+   "description": "Winter holiday • December festival • Gifts under a tree • Family dinners • Stockings and carols • Reindeer and sleigh",
    "hints": [
     {
      "text": "Winter holiday",
@@ -38,6 +39,7 @@
   },
   {
    "word": "Diwali",
+   "description": "Festival of lights • Hindu festival • Fireworks and sweets • Cleaning homes • Oil lamps • Rangoli patterns",
    "hints": [
     {
      "text": "Festival of lights",
@@ -72,6 +74,7 @@
   },
   {
    "word": "Holi",
+   "description": "Spring festival • Color festival • Throwing powder • Water balloons • Bright pigments • Splashed clothes",
    "hints": [
     {
      "text": "Spring festival",
@@ -106,6 +109,7 @@
   },
   {
    "word": "Eid",
+   "description": "Religious festival • Celebration day • Ends a holy month • New clothes • Sweet vermicelli • Moon sighting",
    "hints": [
     {
      "text": "Religious festival",
@@ -140,6 +144,7 @@
   },
   {
    "word": "Easter",
+   "description": "Spring holiday • Religious feast • Egg hunts • Chocolate treats • Painted eggs • Bunny mascot",
    "hints": [
     {
      "text": "Spring holiday",
@@ -174,6 +179,7 @@
   },
   {
    "word": "Halloween",
+   "description": "Autumn holiday • Spooky night • Trick or treat • Costume parties • Carved pumpkins • Witches and ghosts",
    "hints": [
     {
      "text": "Autumn holiday",
@@ -208,6 +214,7 @@
   },
   {
    "word": "Thanksgiving",
+   "description": "Autumn holiday • Harvest feast • Family gathering • Expressing gratitude • Roast turkey • Pumpkin pie",
    "hints": [
     {
      "text": "Autumn holiday",
@@ -242,6 +249,7 @@
   },
   {
    "word": "New year",
+   "description": "Annual celebration • Calendar start • Midnight countdown • Resolutions • Fireworks • Champagne toasts",
    "hints": [
     {
      "text": "Annual celebration",
@@ -276,6 +284,7 @@
   },
   {
    "word": "Tet",
+   "description": "Vietnamese festival • Lunar celebration • Red envelopes • Family reunions • Peach blossoms • Sticky rice cakes",
    "hints": [
     {
      "text": "Vietnamese festival",
@@ -310,6 +319,7 @@
   },
   {
    "word": "Hanukkah",
+   "description": "Winter holiday • Jewish festival • Eight nights • Spinning tops • Menorah candles • Potato pancakes",
    "hints": [
     {
      "text": "Winter holiday",
@@ -344,6 +354,7 @@
   },
   {
    "word": "Passover",
+   "description": "Spring holiday • Jewish festival • Seder dinner • Story retold • Unleavened bread • Four cups",
    "hints": [
     {
      "text": "Spring holiday",
@@ -378,6 +389,7 @@
   },
   {
    "word": "Ramadan",
+   "description": "Holy month • Fasting period • Dawn to dusk fasting • Night prayers • Iftar meals • Crescent moon",
    "hints": [
     {
      "text": "Holy month",
@@ -412,6 +424,7 @@
   },
   {
    "word": "Valentines day",
+   "description": "Romantic holiday • February celebration • Cards and roses • Dinner dates • Heart shapes • Chocolates",
    "hints": [
     {
      "text": "Romantic holiday",
@@ -446,6 +459,7 @@
   },
   {
    "word": "Mothers day",
+   "description": "Family holiday • Parent appreciation • Breakfast in bed • Flowers • Handmade cards • Hugs",
    "hints": [
     {
      "text": "Family holiday",
@@ -480,6 +494,7 @@
   },
   {
    "word": "Fathers day",
+   "description": "Family holiday • Parent appreciation • Ties and tools gifts • Barbecues • Handmade cards • Golf outings",
    "hints": [
     {
      "text": "Family holiday",
@@ -514,6 +529,7 @@
   },
   {
    "word": "Birthday",
+   "description": "Personal celebration • Annual party • Cake and candles • Gifts • Party hats • Singing to you",
    "hints": [
     {
      "text": "Personal celebration",
@@ -548,6 +564,7 @@
   },
   {
    "word": "Anniversary",
+   "description": "Celebration • Yearly milestone • Couples celebrate • Romantic dinners • Gifts by year • Toasting",
    "hints": [
     {
      "text": "Celebration",
@@ -582,6 +599,7 @@
   },
   {
    "word": "Wedding",
+   "description": "Ceremony • Celebration of marriage • Vows and rings • Dancing reception • White gown • Tiered cake",
    "hints": [
     {
      "text": "Ceremony",
@@ -616,6 +634,7 @@
   },
   {
    "word": "Graduation",
+   "description": "Ceremony • Academic milestone • Caps tossed • Proud families • Gowns and diplomas • Stage walk",
    "hints": [
     {
      "text": "Ceremony",
@@ -650,6 +669,7 @@
   },
   {
    "word": "Carnival",
+   "description": "Festival • Street party • Parades and costumes • Samba dancers • Feathered outfits • Floats",
    "hints": [
     {
      "text": "Festival",
@@ -684,6 +704,7 @@
   },
   {
    "word": "Mardi gras",
+   "description": "Festival • Party season • Bead throwing • Masked revelers • Purple green gold • Pancake tuesday",
    "hints": [
     {
      "text": "Festival",
@@ -718,6 +739,7 @@
   },
   {
    "word": "Oktoberfest",
+   "description": "Autumn festival • Bavarian fair • Lederhosen • Oompah bands • Pretzels and sausages • Huge tents",
    "hints": [
     {
      "text": "Autumn festival",
@@ -752,6 +774,7 @@
   },
   {
    "word": "Navratri",
+   "description": "Hindu festival • Nine nights • Garba dancing • Fasting • Colorful chaniya choli • Dandiya sticks",
    "hints": [
     {
      "text": "Hindu festival",
@@ -786,6 +809,7 @@
   },
   {
    "word": "Durga puja",
+   "description": "Hindu festival • Bengali festival • Pandal hopping • Goddess worship • Clay idols • Drumming dhak",
    "hints": [
     {
      "text": "Hindu festival",
@@ -820,6 +844,7 @@
   },
   {
    "word": "Dussehra",
+   "description": "Hindu festival • Victory day • Good over evil • Theater plays • Burning effigies • Bow and arrow",
    "hints": [
     {
      "text": "Hindu festival",
@@ -854,6 +879,7 @@
   },
   {
    "word": "Ganesh chaturthi",
+   "description": "Hindu festival • Elephant god celebration • Idols in homes • Immersion processions • Modak sweets • Clay statues",
    "hints": [
     {
      "text": "Hindu festival",
@@ -888,6 +914,7 @@
   },
   {
    "word": "Janmashtami",
+   "description": "Hindu festival • Birthday celebration • Midnight prayers • Pot breaking • Butter pots • Human pyramids",
    "hints": [
     {
      "text": "Hindu festival",
@@ -922,6 +949,7 @@
   },
   {
    "word": "Raksha bandhan",
+   "description": "Indian festival • Sibling celebration • Sisters tie threads • Brothers promise • Decorative bracelet • Sweets exchange",
    "hints": [
     {
      "text": "Indian festival",
@@ -956,6 +984,7 @@
   },
   {
    "word": "Pongal",
+   "description": "Harvest festival • South indian celebration • Boiling rice pots • Cattle decorated • Sugarcane stalks • Kolam drawings",
    "hints": [
     {
      "text": "Harvest festival",
@@ -990,6 +1019,7 @@
   },
   {
    "word": "Onam",
+   "description": "Harvest festival • Kerala celebration • Boat races • Flower carpets • Banana leaf feast • Pookalam",
    "hints": [
     {
      "text": "Harvest festival",
@@ -1024,6 +1054,7 @@
   },
   {
    "word": "Lohri",
+   "description": "Winter festival • Punjabi celebration • Bonfire dancing • Folk songs • Popcorn and peanuts • Bonfire circles",
    "hints": [
     {
      "text": "Winter festival",
@@ -1058,6 +1089,7 @@
   },
   {
    "word": "Baisakhi",
+   "description": "Harvest festival • Punjabi new year • Bhangra dancing • Fairs • Golden wheat • Drums",
    "hints": [
     {
      "text": "Harvest festival",
@@ -1092,6 +1124,7 @@
   },
   {
    "word": "Makar sankranti",
+   "description": "Harvest festival • Kite festival • Kite battles on rooftops • Sesame sweets • Til ladoos • Sun festival",
    "hints": [
     {
      "text": "Harvest festival",
@@ -1126,6 +1159,7 @@
   },
   {
    "word": "Christmas eve",
+   "description": "Holiday night • Festive evening • Hanging stockings • Midnight mass • Cookies for visitors • Wrapped presents",
    "hints": [
     {
      "text": "Holiday night",
@@ -1160,6 +1194,7 @@
   },
   {
    "word": "Boxing day",
+   "description": "Post holiday • Shopping spree • Big sales • Leftover turkey • After the feast • Football matches",
    "hints": [
     {
      "text": "Post holiday",
@@ -1194,6 +1229,7 @@
   },
   {
    "word": "Black friday",
+   "description": "Shopping event • Sale day • Huge discounts • Store stampedes • Doorbusters • Long queues",
    "hints": [
     {
      "text": "Shopping event",
@@ -1228,6 +1264,7 @@
   },
   {
    "word": "Independence day",
+   "description": "National holiday • Freedom celebration • Flag hoisting • Parades • Fireworks • National anthem",
    "hints": [
     {
      "text": "National holiday",
@@ -1262,6 +1299,7 @@
   },
   {
    "word": "Republic day",
+   "description": "National holiday • Constitution anniversary • Military parades • Flag ceremonies • Marching troops • Tableaux",
    "hints": [
     {
      "text": "National holiday",
@@ -1296,6 +1334,7 @@
   },
   {
    "word": "Labor day",
+   "description": "Public holiday • Workers holiday • Long weekend • End of summer • Barbecues • Parades",
    "hints": [
     {
      "text": "Public holiday",
@@ -1330,6 +1369,7 @@
   },
   {
    "word": "Memorial day",
+   "description": "Remembrance holiday • Honoring fallen • Veterans honored • Long weekend • Poppies or flags • Cemeteries",
    "hints": [
     {
      "text": "Remembrance holiday",
@@ -1364,6 +1404,7 @@
   },
   {
    "word": "Earth day",
+   "description": "Environmental holiday • Green holiday • Tree planting • Clean ups • Recycling drives • Nature walks",
    "hints": [
     {
      "text": "Environmental holiday",
@@ -1398,6 +1439,7 @@
   },
   {
    "word": "April fools",
+   "description": "Prank day • Silly holiday • Practical jokes • Fake news • Whoopee cushions • Gotcha",
    "hints": [
     {
      "text": "Prank day",
@@ -1432,6 +1474,7 @@
   },
   {
    "word": "Samhain",
+   "description": "Gaelic festival • Ancient harvest end • Bonfires lit • Spirits wander • Turnip lanterns • Celtic calendar",
    "hints": [
     {
      "text": "Gaelic festival",
@@ -1466,6 +1509,7 @@
   },
   {
    "word": "Saint patrick",
+   "description": "Irish holiday • Green celebration • Parades • Shamrocks • Leprechauns • Green rivers",
    "hints": [
     {
      "text": "Irish holiday",
@@ -1500,6 +1544,7 @@
   },
   {
    "word": "Bonfire night",
+   "description": "British festival • November fireworks • Guy figures burned • Sparklers • Burning effigies • Toffee apples",
    "hints": [
     {
      "text": "British festival",
@@ -1534,6 +1579,7 @@
   },
   {
    "word": "Midsummer",
+   "description": "Solstice festival • Nordic celebration • Maypole dancing • Flower crowns • Longest day • Herring feasts",
    "hints": [
     {
      "text": "Solstice festival",
@@ -1568,6 +1614,7 @@
   },
   {
    "word": "Solstice",
+   "description": "Seasonal event • Sky milestone • Longest or shortest day • Ancient rituals • Stone circles • Sunrise gatherings",
    "hints": [
     {
      "text": "Seasonal event",
@@ -1602,6 +1649,7 @@
   },
   {
    "word": "Harvest festival",
+   "description": "Autumn celebration • Thanksgiving feast • Crops gathered • Church displays • Corn and pumpkins • Baskets of produce",
    "hints": [
     {
      "text": "Autumn celebration",
@@ -1636,6 +1684,7 @@
   },
   {
    "word": "Mid autumn",
+   "description": "Asian festival • Moon festival • Lanterns • Family gatherings • Mooncakes • Full moon viewing",
    "hints": [
     {
      "text": "Asian festival",
@@ -1670,6 +1719,7 @@
   },
   {
    "word": "Lantern festival",
+   "description": "Asian celebration • Light celebration • Riddle games • Glowing parades • Paper glow • Sweet dumplings",
    "hints": [
     {
      "text": "Asian celebration",
@@ -1704,6 +1754,7 @@
   },
   {
    "word": "Songkran",
+   "description": "Thai festival • New year celebration • Water fights • Temple visits • Splashing buckets • Water guns",
    "hints": [
     {
      "text": "Thai festival",
@@ -1738,6 +1789,7 @@
   },
   {
    "word": "Loy krathong",
+   "description": "Thai festival • Floating lights • River offerings • Romantic wishes • Banana leaf boats • Candles on water",
    "hints": [
     {
      "text": "Thai festival",
@@ -1772,6 +1824,7 @@
   },
   {
    "word": "Obon",
+   "description": "Japanese festival • Ancestor celebration • Dancing in circles • Family returns • Floating lanterns • Taiko drums",
    "hints": [
     {
      "text": "Japanese festival",
@@ -1806,6 +1859,7 @@
   },
   {
    "word": "Hanami",
+   "description": "Japanese tradition • Blossom viewing • Picnics under trees • Spring parties • Pink petals • Paper lanterns",
    "hints": [
     {
      "text": "Japanese tradition",
@@ -1840,6 +1894,7 @@
   },
   {
    "word": "Kwanzaa",
+   "description": "Cultural holiday • African american festival • Seven principles • Week long • Kinara candles • Unity cup",
    "hints": [
     {
      "text": "Cultural holiday",
@@ -1874,6 +1929,7 @@
   },
   {
    "word": "Juneteenth",
+   "description": "American holiday • Freedom day • Emancipation celebrated • Red foods • Cookouts • Parades",
    "hints": [
     {
      "text": "American holiday",
@@ -1908,6 +1964,7 @@
   },
   {
    "word": "Bastille day",
+   "description": "French holiday • National holiday • Military parade • Fireworks • Tricolor flags • Storming history",
    "hints": [
     {
      "text": "French holiday",
@@ -1942,6 +1999,7 @@
   },
   {
    "word": "Australia day",
+   "description": "National holiday • Summer celebration • Beach barbecues • Citizenship ceremonies • Flags and fireworks • Hot weather",
    "hints": [
     {
      "text": "National holiday",
@@ -1976,6 +2034,7 @@
   },
   {
    "word": "Canada day",
+   "description": "National holiday • Summer celebration • Maple leaf flags • Fireworks • Red and white • Parades",
    "hints": [
     {
      "text": "National holiday",
@@ -2010,6 +2069,7 @@
   },
   {
    "word": "Fiesta",
+   "description": "Spanish party • Street celebration • Mariachi music • Parades • Sombreros • Papel picado",
    "hints": [
     {
      "text": "Spanish party",
@@ -2044,6 +2104,7 @@
   },
   {
    "word": "Spring festival",
+   "description": "Lunar holiday • Chinese celebration • Red packets • Family reunion • Lion dances • Firecrackers",
    "hints": [
     {
      "text": "Lunar holiday",
@@ -2078,6 +2139,7 @@
   },
   {
    "word": "Rosh hashanah",
+   "description": "Jewish new year • High holiday • Apples and honey • Synagogue services • Blowing the shofar • Round bread",
    "hints": [
     {
      "text": "Jewish new year",
@@ -2112,6 +2174,7 @@
   },
   {
    "word": "Yom kippur",
+   "description": "Jewish holy day • Day of atonement • Fasting all day • Prayers • White clothing • Shofar finale",
    "hints": [
     {
      "text": "Jewish holy day",
@@ -2146,6 +2209,7 @@
   },
   {
    "word": "Lent",
+   "description": "Religious season • Forty days • Giving something up • Before easter • Ash marks • Fish fridays",
    "hints": [
     {
      "text": "Religious season",
@@ -2180,6 +2244,7 @@
   },
   {
    "word": "Advent",
+   "description": "Religious season • Pre christmas period • Counting down • Chocolate calendars • Wreath candles • Little doors",
    "hints": [
     {
      "text": "Religious season",
@@ -2214,6 +2279,7 @@
   },
   {
    "word": "Epiphany",
+   "description": "Christian holiday • Twelfth night • Three kings • Kings cake • Star following • Gifts of gold",
    "hints": [
     {
      "text": "Christian holiday",
@@ -2248,6 +2314,7 @@
   },
   {
    "word": "Good friday",
+   "description": "Christian holy day • Solemn day • Before easter • Church services • Hot cross buns • Cross processions",
    "hints": [
     {
      "text": "Christian holy day",
@@ -2282,6 +2349,7 @@
   },
   {
    "word": "Gurpurab",
+   "description": "Sikh festival • Founder birthday • Processions • Community kitchens • Gurdwara lights • Hymns",
    "hints": [
     {
      "text": "Sikh festival",
@@ -2316,6 +2384,7 @@
   },
   {
    "word": "Buddha purnima",
+   "description": "Buddhist festival • Enlightenment day • Temple visits • Lanterns • Full moon • Monks chanting",
    "hints": [
     {
      "text": "Buddhist festival",
@@ -2350,6 +2419,7 @@
   },
   {
    "word": "Mahashivratri",
+   "description": "Hindu festival • Night of worship • All night vigils • Fasting • Milk offerings • Bel leaves",
    "hints": [
     {
      "text": "Hindu festival",
@@ -2384,6 +2454,7 @@
   },
   {
    "word": "Karva chauth",
+   "description": "Hindu festival • Fasting day • Wives fast • Moon sighting • Sieve and lamp • Henna hands",
    "hints": [
     {
      "text": "Hindu festival",
@@ -2418,6 +2489,7 @@
   },
   {
    "word": "Teej",
+   "description": "Hindu festival • Monsoon celebration • Swings decorated • Women gather • Green bangles • Henna",
    "hints": [
     {
      "text": "Hindu festival",
@@ -2452,6 +2524,7 @@
   },
   {
    "word": "Bihu",
+   "description": "Assamese festival • Harvest celebration • Folk dance • Feasts • Dhol drums • Silk outfits",
    "hints": [
     {
      "text": "Assamese festival",
@@ -2486,6 +2559,7 @@
   },
   {
    "word": "Ugadi",
+   "description": "Telugu new year • Spring festival • Bitter and sweet chutney • New beginnings • Mango leaves • Rangoli",
    "hints": [
     {
      "text": "Telugu new year",
@@ -2520,6 +2594,7 @@
   },
   {
    "word": "Gudi padwa",
+   "description": "Marathi new year • Spring festival • Flags outside homes • Processions • Silk cloth pole • Neem leaves",
    "hints": [
     {
      "text": "Marathi new year",
@@ -2554,6 +2629,7 @@
   },
   {
    "word": "Vishu",
+   "description": "Kerala new year • Spring festival • Morning sight ritual • Firecrackers • Golden flowers • Fruit arrangement",
    "hints": [
     {
      "text": "Kerala new year",
@@ -2588,6 +2664,7 @@
   },
   {
    "word": "Bhai dooj",
+   "description": "Indian festival • Sibling day • Sisters bless brothers • After diwali • Forehead mark • Sweets",
    "hints": [
     {
      "text": "Indian festival",
@@ -2622,6 +2699,7 @@
   },
   {
    "word": "Christmas tree",
+   "description": "Holiday decoration • Festive centerpiece • Decorated in december • Gifts underneath • Tinsel and baubles • Star on top",
    "hints": [
     {
      "text": "Holiday decoration",
@@ -2656,6 +2734,7 @@
   },
   {
    "word": "Fireworks",
+   "description": "Celebration display • Night lights • New year skies • Festival nights • Rockets and sparklers • Loud bangs",
    "hints": [
     {
      "text": "Celebration display",
@@ -2690,6 +2769,7 @@
   },
   {
    "word": "Confetti",
+   "description": "Party decoration • Celebration paper • Weddings • Parades • Tiny paper bits • Thrown in air",
    "hints": [
     {
      "text": "Party decoration",
@@ -2724,6 +2804,7 @@
   },
   {
    "word": "Balloon",
+   "description": "Party decoration • Inflatable • Birthdays • Pops loudly • Helium filled • Tied with string",
    "hints": [
     {
      "text": "Party decoration",
@@ -2758,6 +2839,7 @@
   },
   {
    "word": "Party hat",
+   "description": "Celebration accessory • Cone topper • Birthdays • New year • Elastic strap • Pointed cone",
    "hints": [
     {
      "text": "Celebration accessory",
@@ -2792,6 +2874,7 @@
   },
   {
    "word": "Streamer",
+   "description": "Party decoration • Paper ribbon • Hung from ceilings • Party favors • Curly crepe paper • Colorful twists",
    "hints": [
     {
      "text": "Party decoration",
@@ -2826,6 +2909,7 @@
   },
   {
    "word": "Pinata",
+   "description": "Party game • Candy container • Blindfolded swinging • Kids birthdays • Paper donkey • Bursts with sweets",
    "hints": [
     {
      "text": "Party game",
@@ -2860,6 +2944,7 @@
   },
   {
    "word": "Gift",
+   "description": "Present • Celebration item • Wrapped with ribbon • Birthdays • Bow on top • Surprise inside",
    "hints": [
     {
      "text": "Present",
@@ -2894,6 +2979,7 @@
   },
   {
    "word": "Greeting card",
+   "description": "Celebration paper • Message note • Birthday wishes • Mailed to friends • Folded with message • Envelope",
    "hints": [
     {
      "text": "Celebration paper",
@@ -2928,6 +3014,7 @@
   },
   {
    "word": "Parade",
+   "description": "Street event • Celebration march • Floats and bands • Crowds lining streets • Marching bands • Waving flags",
    "hints": [
     {
      "text": "Street event",
@@ -2962,6 +3049,7 @@
   },
   {
    "word": "Festival",
+   "description": "Celebration event • Community party • Music and food • Crowds • Stalls and stages • Tents",
    "hints": [
     {
      "text": "Celebration event",
@@ -2996,6 +3084,7 @@
   },
   {
    "word": "Fair",
+   "description": "Community event • Outdoor festival • Rides and games • Cotton candy • Ferris wheel • Prize booths",
    "hints": [
     {
      "text": "Community event",
@@ -3030,6 +3119,7 @@
   },
   {
    "word": "Feast",
+   "description": "Big meal • Celebration dinner • Holiday tables • Family gatherings • Many dishes • Overeating",
    "hints": [
     {
      "text": "Big meal",
@@ -3064,6 +3154,7 @@
   },
   {
    "word": "Picnic",
+   "description": "Outdoor meal • Leisure event • Parks and blankets • Summer days • Baskets and sandwiches • Ants",
    "hints": [
     {
      "text": "Outdoor meal",
@@ -3098,6 +3189,7 @@
   },
   {
    "word": "Potluck",
+   "description": "Shared meal • Group dinner • Everyone brings a dish • Office parties • Casserole dishes • Mixed menu",
    "hints": [
     {
      "text": "Shared meal",
@@ -3132,6 +3224,7 @@
   },
   {
    "word": "Barbecue",
+   "description": "Outdoor cookout • Grill party • Summer weekends • Backyard gatherings • Charcoal smoke • Burgers and sausages",
    "hints": [
     {
      "text": "Outdoor cookout",
@@ -3166,6 +3259,7 @@
   },
   {
    "word": "Bonfire",
+   "description": "Outdoor blaze • Night gathering • Camping trips • Marshmallow roasting • Crackling logs • Sparks rising",
    "hints": [
     {
      "text": "Outdoor blaze",
@@ -3200,6 +3294,7 @@
   },
   {
    "word": "Lantern",
+   "description": "Light source • Festival decoration • Floating wishes • Camping nights • Paper or metal • Glowing inside",
    "hints": [
     {
      "text": "Light source",
@@ -3234,6 +3329,7 @@
   },
   {
    "word": "Diya",
+   "description": "Clay lamp • Festival light • Lit on diwali • Rows on doorsteps • Oil and wick • Small clay bowl",
    "hints": [
     {
      "text": "Clay lamp",
@@ -3268,6 +3364,7 @@
   },
   {
    "word": "Rangoli",
+   "description": "Floor art • Festival decoration • Drawn at doorsteps • Diwali tradition • Colored powder • Geometric patterns",
    "hints": [
     {
      "text": "Floor art",
@@ -3302,6 +3399,7 @@
   },
   {
    "word": "Mehndi",
+   "description": "Body art • Henna design • Weddings and festivals • Bridal hands • Orange brown patterns • Paste cones",
    "hints": [
     {
      "text": "Body art",
@@ -3336,6 +3434,7 @@
   },
   {
    "word": "Mistletoe",
+   "description": "Holiday plant • Kissing tradition • Hung in doorways • Christmas custom • White berries • Green sprig",
    "hints": [
     {
      "text": "Holiday plant",
@@ -3370,6 +3469,7 @@
   },
   {
    "word": "Wreath",
+   "description": "Holiday decoration • Door decoration • Christmas doors • Funerals • Circle of greenery • Ribbon bow",
    "hints": [
     {
      "text": "Holiday decoration",
@@ -3404,6 +3504,7 @@
   },
   {
    "word": "Menorah",
+   "description": "Candle holder • Religious lamp • Lit for eight nights • Window displays • Nine branches • Center candle",
    "hints": [
     {
      "text": "Candle holder",
@@ -3438,6 +3539,7 @@
   },
   {
    "word": "Easter egg",
+   "description": "Holiday treat • Painted shell • Hunts in gardens • Chocolate versions • Pastel colors • Hidden in grass",
    "hints": [
     {
      "text": "Holiday treat",
@@ -3472,6 +3574,7 @@
   },
   {
    "word": "Jackolantern",
+   "description": "Halloween decoration • Carved gourd • Glows on porches • Scary faces • Candle inside • Orange gourd",
    "hints": [
     {
      "text": "Halloween decoration",
@@ -3506,6 +3609,7 @@
   },
   {
    "word": "Guising",
+   "description": "Halloween custom • Candy collecting • Kids in costumes • Door to door • Candy bags • Doorbell ringing",
    "hints": [
     {
      "text": "Halloween custom",
@@ -3540,6 +3644,7 @@
   },
   {
    "word": "Caroling",
+   "description": "Holiday singing • Door to door songs • Winter evenings • Groups of singers • Song sheets • Candles",
    "hints": [
     {
      "text": "Holiday singing",
@@ -3574,6 +3679,7 @@
   },
   {
    "word": "Santa claus",
+   "description": "Holiday figure • Gift giver • Chimney visits • Naughty list • Red suit • White beard",
    "hints": [
     {
      "text": "Holiday figure",
@@ -3608,6 +3714,7 @@
   },
   {
    "word": "Snowman",
+   "description": "Winter figure • Frosty sculpture • Built by kids • Melts in sun • Carrot nose • Coal eyes",
    "hints": [
     {
      "text": "Winter figure",
@@ -3642,6 +3749,7 @@
   },
   {
    "word": "Reindeer",
+   "description": "Arctic animal • Sleigh puller • Christmas legends • Red nosed one • Antlers • Hooves on roofs",
    "hints": [
     {
      "text": "Arctic animal",
@@ -3676,6 +3784,7 @@
   },
   {
    "word": "Elf",
+   "description": "Holiday helper • Workshop worker • Makes toys • North pole • Pointy ears • Green outfit",
    "hints": [
     {
      "text": "Holiday helper",
@@ -3710,6 +3819,7 @@
   },
   {
    "word": "Turkey dinner",
+   "description": "Holiday meal • Festive roast • Thanksgiving tradition • Carving at table • Stuffing and gravy • Cranberry sauce",
    "hints": [
     {
      "text": "Holiday meal",
@@ -3744,6 +3854,7 @@
   },
   {
    "word": "Pumpkin pie",
+   "description": "Holiday dessert • Autumn dessert • Thanksgiving tables • Whipped cream • Spiced orange filling • Flaky crust",
    "hints": [
     {
      "text": "Holiday dessert",
@@ -3778,6 +3889,7 @@
   },
   {
    "word": "Gingerbread",
+   "description": "Holiday cookie • Spiced treat • Houses built from it • Christmas baking • Icing decorations • Little man shape",
    "hints": [
     {
      "text": "Holiday cookie",
@@ -3812,6 +3924,7 @@
   },
   {
    "word": "Fruitcake",
+   "description": "Holiday loaf • Dense dessert • Regifted jokes • Christmas tradition • Candied fruits • Heavy loaf",
    "hints": [
     {
      "text": "Holiday loaf",
@@ -3846,6 +3959,7 @@
   },
   {
    "word": "Simnel",
+   "description": "Easter cake • Fruit loaf • Good friday tradition • Marzipan layers • Eleven marzipan balls • Raisins inside",
    "hints": [
     {
      "text": "Easter cake",
@@ -3880,6 +3994,7 @@
   },
   {
    "word": "Mooncake",
+   "description": "Festival pastry • Chinese treat • Mid autumn gifts • Shared with family • Round and dense • Lotus paste",
    "hints": [
     {
      "text": "Festival pastry",
@@ -3914,6 +4029,7 @@
   },
   {
    "word": "Modak",
+   "description": "Indian sweet • Festival dumpling • Offered to elephant god • Steamed • Coconut jaggery filling • Pleated top",
    "hints": [
     {
      "text": "Indian sweet",
@@ -3948,6 +4064,7 @@
   },
   {
    "word": "Gujiya",
+   "description": "Indian sweet • Holi treat • Fried crescent • Festive snack • Sweet filling • Crimped edges",
    "hints": [
     {
      "text": "Indian sweet",
@@ -3982,6 +4099,7 @@
   },
   {
    "word": "Sweets box",
+   "description": "Festival gift • Treat package • Shared on diwali • Visiting relatives • Assorted mithai • Silver foil",
    "hints": [
     {
      "text": "Festival gift",
@@ -4016,6 +4134,7 @@
   },
   {
    "word": "Hamper",
+   "description": "Gift basket • Festive package • Corporate gifts • Holiday treats • Wicker basket • Ribbon wrapped",
    "hints": [
     {
      "text": "Gift basket",
@@ -4050,6 +4169,7 @@
   },
   {
    "word": "Secret santa",
+   "description": "Gift exchange • Office tradition • Draw names • Budget limit • Anonymous presents • Reveal moment",
    "hints": [
     {
      "text": "Gift exchange",
@@ -4084,6 +4204,7 @@
   },
   {
    "word": "Countdown",
+   "description": "New year ritual • Number chant • Crowds in squares • Ball drop • Ten to one • Midnight cheer",
    "hints": [
     {
      "text": "New year ritual",
@@ -4118,6 +4239,7 @@
   },
   {
    "word": "Resolution",
+   "description": "New year promise • Goal • Gym memberships • Broken by february • Self improvement • Fresh start",
    "hints": [
     {
      "text": "New year promise",
@@ -4152,6 +4274,7 @@
   },
   {
    "word": "Toast",
+   "description": "Celebration speech • Raised glasses • Weddings and dinners • Cheers • Clinking glasses • Speech",
    "hints": [
     {
      "text": "Celebration speech",
@@ -4186,6 +4309,7 @@
   },
   {
    "word": "Costume party",
+   "description": "Dress up event • Themed bash • Halloween favorite • Prizes for best • Masks and wigs • Character outfits",
    "hints": [
     {
      "text": "Dress up event",
@@ -4220,6 +4344,7 @@
   },
   {
    "word": "Masquerade",
+   "description": "Masked ball • Formal party • Mystery guests • Venetian style • Feathered masks • Ballgowns",
    "hints": [
     {
      "text": "Masked ball",
@@ -4254,6 +4379,7 @@
   },
   {
    "word": "Baby shower",
+   "description": "Celebration • Pregnancy party • Gifts for newborn • Silly games • Pastel decorations • Diaper cakes",
    "hints": [
     {
      "text": "Celebration",
@@ -4288,6 +4414,7 @@
   },
   {
    "word": "Bridal shower",
+   "description": "Pre wedding party • Celebration • Gifts for the bride • Games • Flowers and tea • Veil props",
    "hints": [
     {
      "text": "Pre wedding party",
@@ -4322,6 +4449,7 @@
   },
   {
    "word": "Engagement",
+   "description": "Celebration • Proposal event • Ring on knee • Families meet • Diamond ring • Party",
    "hints": [
     {
      "text": "Celebration",
@@ -4356,6 +4484,7 @@
   },
   {
    "word": "Housewarming",
+   "description": "Celebration • New home party • Friends visit • Gifts for home • Plants and candles • Tour of rooms",
    "hints": [
     {
      "text": "Celebration",
@@ -4390,6 +4519,7 @@
   },
   {
    "word": "Reunion",
+   "description": "Gathering • Family meetup • Long lost relatives • Class of years ago • Name tags • Group photos",
    "hints": [
     {
      "text": "Gathering",
@@ -4424,6 +4554,7 @@
   },
   {
    "word": "Sports day",
+   "description": "School event • Athletic celebration • Sack races • Parents cheer • Medals and ribbons • Track events",
    "hints": [
     {
      "text": "School event",
@@ -4458,6 +4589,7 @@
   },
   {
    "word": "Talent show",
+   "description": "Performance event • School performance • Singing and magic • Judges • Stage and spotlight • Applause",
    "hints": [
     {
      "text": "Performance event",
@@ -4492,6 +4624,7 @@
   },
   {
    "word": "Recital",
+   "description": "Performance • Music show • Piano students • Proud parents • Sheet music • Bowing",
    "hints": [
     {
      "text": "Performance",
@@ -4526,6 +4659,7 @@
   },
   {
    "word": "Concert",
+   "description": "Music event • Live show • Fans singing along • Encores • Stage lights • Amplifiers",
    "hints": [
     {
      "text": "Music event",
@@ -4560,6 +4694,7 @@
   },
   {
    "word": "Bachelor party",
+   "description": "Pre wedding bash • Celebration • Friends weekend • Pranks • Road trips • Matching shirts",
    "hints": [
     {
      "text": "Pre wedding bash",
@@ -4594,6 +4729,7 @@
   },
   {
    "word": "Gender reveal",
+   "description": "Pregnancy celebration • Surprise party • Pink or blue • Cake cutting • Colored smoke • Balloons popped",
    "hints": [
     {
      "text": "Pregnancy celebration",
@@ -4628,6 +4764,7 @@
   },
   {
    "word": "Book fair",
+   "description": "School event • Reading festival • Buying novels • Author visits • Stalls of stories • Posters",
    "hints": [
     {
      "text": "School event",
@@ -4662,6 +4799,7 @@
   },
   {
    "word": "Science fair",
+   "description": "School event • Project showcase • Volcano models • Judges • Trifold posters • Ribbons",
    "hints": [
     {
      "text": "School event",
@@ -4696,6 +4834,7 @@
   },
   {
    "word": "Easter bunny",
+   "description": "Holiday mascot • Egg bringer • Hides eggs • Spring visitor • Long ears • Basket of treats",
    "hints": [
     {
      "text": "Holiday mascot",
@@ -4730,6 +4869,7 @@
   },
   {
    "word": "Tooth fairy",
+   "description": "Childhood figure • Night visitor • Coins under pillow • Lost teeth • Tiny wings • Sparkly",
    "hints": [
     {
      "text": "Childhood figure",
@@ -4764,6 +4904,7 @@
   },
   {
    "word": "Groundhog day",
+   "description": "Weather tradition • February custom • Shadow prediction • Six more weeks • Burrowing rodent • Small town crowds",
    "hints": [
     {
      "text": "Weather tradition",
@@ -4798,6 +4939,7 @@
   },
   {
    "word": "Leap day",
+   "description": "Rare date • Calendar quirk • Every four years • Rare birthdays • Twenty ninth february • Bonus date",
    "hints": [
     {
      "text": "Rare date",
@@ -4832,6 +4974,7 @@
   },
   {
    "word": "Hogmanay",
+   "description": "Scottish celebration • Year end party • First footing visitors • Street parties • Bagpipes at midnight • Torchlight procession",
    "hints": [
     {
      "text": "Scottish celebration",
@@ -4866,6 +5009,7 @@
   },
   {
    "word": "Burns night",
+   "description": "Scottish celebration • Poetry supper • Haggis is piped in • Recited verses • Kilts and tartan • Address to haggis",
    "hints": [
     {
      "text": "Scottish celebration",
@@ -4900,6 +5044,7 @@
   },
   {
    "word": "Beltane",
+   "description": "Gaelic festival • Spring celebration • Bonfires on hills • Maypole dances • Flower crowns • Ancient rites",
    "hints": [
     {
      "text": "Gaelic festival",
@@ -4934,6 +5079,7 @@
   },
   {
    "word": "Vesak",
+   "description": "Buddhist festival • Enlightenment celebration • Temple visits • Releasing birds • Paper lanterns • Monks chanting",
    "hints": [
     {
      "text": "Buddhist festival",
@@ -4968,6 +5114,7 @@
   },
   {
    "word": "Navroz",
+   "description": "Persian new year • Spring celebration • Table of seven items • Jumping over fires • Sprouted grains • Painted eggs",
    "hints": [
     {
      "text": "Persian new year",
@@ -5002,6 +5149,7 @@
   },
   {
    "word": "Sukkot",
+   "description": "Jewish festival • Harvest celebration • Eating in huts • Week long • Leafy roofs • Palm fronds",
    "hints": [
     {
      "text": "Jewish festival",
@@ -5036,6 +5184,7 @@
   },
   {
    "word": "Purim",
+   "description": "Jewish festival • Costume celebration • Reading a scroll • Noisemakers • Triangle cookies • Gift baskets",
    "hints": [
     {
      "text": "Jewish festival",
@@ -5070,6 +5219,7 @@
   },
   {
    "word": "Thaipusam",
+   "description": "Hindu festival • Tamil celebration • Pilgrimage to temples • Devotional piercings • Milk pots carried • Peacock feathers",
    "hints": [
     {
      "text": "Hindu festival",
@@ -5104,6 +5254,7 @@
   },
   {
    "word": "Yuletide",
+   "description": "Holiday season • Winter festivities • Kids wake early • Pajamas all day • Torn wrapping paper • Stockings emptied",
    "hints": [
     {
      "text": "Holiday season",
@@ -5138,6 +5289,7 @@
   },
   {
    "word": "Diwali sweets",
+   "description": "Festival treats • Indian desserts • Shared with neighbors • Silver leaf • Barfi and ladoo • Boxes stacked",
    "hints": [
     {
      "text": "Festival treats",

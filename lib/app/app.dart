@@ -23,6 +23,7 @@ import '../presentation/theme.dart';
 import '../presentation/widgets/room_comms.dart';
 import '../services/invite_links.dart';
 import 'providers.dart';
+import '../presentation/widgets/busy_overlay.dart';
 
 final routerProvider = Provider<GoRouter>((ref) {
   return GoRouter(
@@ -39,7 +40,10 @@ final routerProvider = Provider<GoRouter>((ref) {
       GoRoute(path: '/about', builder: (c, s) => const AboutScreen()),
       GoRoute(path: '/stats', builder: (c, s) => const StatsScreen()),
       GoRoute(path: '/achievements', builder: (c, s) => const AchievementsScreen()),
-      GoRoute(path: '/invite/:code', builder: (c, s) => InviteScreen(code: s.pathParameters['code']!.toUpperCase())),
+      GoRoute(
+        path: '/invite/:code',
+        builder: (c, s) => InviteScreen(code: s.pathParameters['code']!.toUpperCase()),
+      ),
       GoRoute(path: '/multiplayer', builder: (c, s) => const MultiplayerScreen()),
       GoRoute(
         path: '/multiplayer/play/:id',
@@ -89,10 +93,9 @@ class HushbugApp extends ConsumerWidget {
             textScaler: TextScaler.linear(mq.textScaler.scale(1).clamp(0.8, 1.6)),
             disableAnimations: mq.disableAnimations || s.reduceMotion,
           ),
-          child: _InviteLinkListener(
-            child: InviteOverlay(
-              onAccept: (code) => router.push('/invite/$code'),
-              child: child ?? const SizedBox.shrink(),
+          child: HushbugBusyOverlay(
+            child: _InviteLinkListener(
+              child: InviteOverlay(onAccept: (code) => router.push('/invite/$code'), child: child ?? const SizedBox.shrink()),
             ),
           ),
         );

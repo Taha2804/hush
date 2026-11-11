@@ -4,6 +4,7 @@
  "words": [
   {
    "word": "Car",
+   "description": "Vehicle • Road transport • Daily commute • Needs fuel • Four wheels • Steering wheel",
    "hints": [
     {
      "text": "Vehicle",
@@ -38,6 +39,7 @@
   },
   {
    "word": "Bus",
+   "description": "Public transport • Big vehicle • School trips • Fixed routes • Many seats • Ring bell to stop",
    "hints": [
     {
      "text": "Public transport",
@@ -72,6 +74,7 @@
   },
   {
    "word": "Train",
+   "description": "Rail transport • Long vehicle • Station platforms • Tickets checked • Carriages • Runs on tracks",
    "hints": [
     {
      "text": "Rail transport",
@@ -106,6 +109,7 @@
   },
   {
    "word": "Airplane",
+   "description": "Air transport • Flying machine • Airport security • Window seats • Wings and engines • Takes off",
    "hints": [
     {
      "text": "Air transport",
@@ -140,6 +144,7 @@
   },
   {
    "word": "Helicopter",
+   "description": "Air transport • Hovering craft • Rescue missions • Traffic reports • Spinning rotors • Lands on roofs",
    "hints": [
     {
      "text": "Air transport",
@@ -174,6 +179,7 @@
   },
   {
    "word": "Bicycle",
+   "description": "Pedal transport • Two wheeler • Kids learn to ride • Eco friendly • Chain and pedals • Handlebars",
    "hints": [
     {
      "text": "Pedal transport",
@@ -208,6 +214,7 @@
   },
   {
    "word": "Motorcycle",
+   "description": "Two wheeler • Engine vehicle • Leather jackets • Weaves through traffic • Helmet required • Revving engine",
    "hints": [
     {
      "text": "Two wheeler",
@@ -242,6 +249,7 @@
   },
   {
    "word": "Scooter",
+   "description": "Two wheeler • City ride • Kick to go • Electric rentals • Small wheels • Footboard",
    "hints": [
     {
      "text": "Two wheeler",
@@ -276,6 +284,7 @@
   },
   {
    "word": "Boat",
+   "description": "Water transport • Floating vessel • Lake trips • Fishing outings • Hull and deck • Rocks on waves",
    "hints": [
     {
      "text": "Water transport",
@@ -310,6 +319,7 @@
   },
   {
    "word": "Ship",
+   "description": "Water transport • Ocean vessel • Crosses oceans • Cargo or cruise • Huge hull • Anchor and deck",
    "hints": [
     {
      "text": "Water transport",
@@ -344,6 +354,7 @@
   },
   {
    "word": "Submarine",
+   "description": "Underwater vessel • Navy craft • Dives deep • Secret missions • Periscope • Sonar pings",
    "hints": [
     {
      "text": "Underwater vessel",
@@ -378,6 +389,7 @@
   },
   {
    "word": "Truck",
+   "description": "Heavy vehicle • Road hauler • Delivers goods • Highway trips • Big cargo bed • Loud horn",
    "hints": [
     {
      "text": "Heavy vehicle",
@@ -412,6 +424,7 @@
   },
   {
    "word": "Van",
+   "description": "Road vehicle • Delivery vehicle • Moving house • Family trips • Sliding door • Boxy shape",
    "hints": [
     {
      "text": "Road vehicle",
@@ -446,6 +459,7 @@
   },
   {
    "word": "Taxi",
+   "description": "Hired ride • City transport • Hail from curb • Meter running • Yellow paint • Roof sign",
    "hints": [
     {
      "text": "Hired ride",
@@ -480,6 +494,7 @@
   },
   {
    "word": "Ambulance",
+   "description": "Emergency vehicle • Medical transport • Rushes to hospital • Flashing lights • Siren • Stretcher inside",
    "hints": [
     {
      "text": "Emergency vehicle",
@@ -514,6 +529,7 @@
   },
   {
    "word": "Fire engine",
+   "description": "Emergency vehicle • Rescue truck • Rushes to blazes • Kids love it • Red paint • Long ladder",
    "hints": [
     {
      "text": "Emergency vehicle",
@@ -548,6 +564,7 @@
   },
   {
    "word": "Police car",
+   "description": "Emergency vehicle • Patrol vehicle • Chases speeders • Flashing lights • Siren on roof • Black and white",
    "hints": [
     {
      "text": "Emergency vehicle",
@@ -582,6 +599,7 @@
   },
   {
    "word": "Tractor",
+   "description": "Farm vehicle • Heavy machine • Plows fields • Slow on roads • Huge back tires • Pulls trailers",
    "hints": [
     {
      "text": "Farm vehicle",
@@ -616,6 +634,7 @@
   },
   {
    "word": "Bulldozer",
+   "description": "Construction vehicle • Heavy machine • Clears land • Building sites • Big front blade • Caterpillar tracks",
    "hints": [
     {
      "text": "Construction vehicle",
@@ -650,6 +669,7 @@
   },
   {
    "word": "Excavator",
+   "description": "Construction vehicle • Digger • Digs foundations • Building sites • Long arm • Toothed bucket",
    "hints": [
     {
      "text": "Construction vehicle",
@@ -684,6 +704,7 @@
   },
   {
    "word": "Crane",
+   "description": "Construction machine • Lifting machine • Builds skyscrapers • Towers over sites • Long boom • Hook and cable",
    "hints": [
     {
      "text": "Construction machine",
@@ -718,6 +739,7 @@
   },
   {
    "word": "Forklift",
+   "description": "Warehouse vehicle • Lifting machine • Moves pallets • Beeps reversing • Twin prongs • Small cab",
    "hints": [
     {
      "text": "Warehouse vehicle",
@@ -752,6 +774,7 @@
   },
   {
    "word": "Tram",
+   "description": "Rail transport • Street car • City streets • Overhead wires • Runs on tracks • Ding ding bell",
    "hints": [
     {
      "text": "Rail transport",
@@ -786,6 +809,7 @@
   },
   {
    "word": "Subway",
+   "description": "Underground rail • City transport • Rush hour crowds • Tunnel stations • Turnstiles • Map with lines",
    "hints": [
     {
      "text": "Underground rail",
@@ -820,6 +844,7 @@
   },
   {
    "word": "Monorail",
+   "description": "Elevated transport • Single beam • Theme parks • Airport shuttles • Elevated beam • Futuristic look",
    "hints": [
     {
      "text": "Elevated transport",
@@ -854,6 +879,7 @@
   },
   {
    "word": "Cable car",
+   "description": "Hill transport • Suspended cabin • Mountain views • Ski resorts • Hanging from wires • Swaying cabin",
    "hints": [
     {
      "text": "Hill transport",
@@ -888,6 +914,7 @@
   },
   {
    "word": "Balloon flight",
+   "description": "Sky transport • Floating craft • Sunrise rides • Festival skies • Wicker basket • Burner flame",
    "hints": [
     {
      "text": "Sky transport",
@@ -922,6 +949,7 @@
   },
   {
    "word": "Blimp",
+   "description": "Airship • Floating craft • Stadium views • Slow flyer • Gas filled • Cigar shape",
    "hints": [
     {
      "text": "Airship",
@@ -956,6 +984,7 @@
   },
   {
    "word": "Glider",
+   "description": "Air craft • Engineless plane • Silent flights • Rides thermals • Long thin wings • Towed up",
    "hints": [
     {
      "text": "Air craft",
@@ -990,6 +1019,7 @@
   },
   {
    "word": "Jet",
+   "description": "Fast aircraft • Air transport • Supersonic speed • Fighter pilots • Turbine engines • Contrails",
    "hints": [
     {
      "text": "Fast aircraft",
@@ -1024,6 +1054,7 @@
   },
   {
    "word": "Rocket",
+   "description": "Space vehicle • Launch craft • Countdown liftoff • Astronauts ride • Fiery exhaust • Tall and pointy",
    "hints": [
     {
      "text": "Space vehicle",
@@ -1058,6 +1089,7 @@
   },
   {
    "word": "Spaceship",
+   "description": "Galactic vehicle • Science fiction craft • Travels to stars • Alien movies • Warp drive • Cockpit windows",
    "hints": [
     {
      "text": "Galactic vehicle",
@@ -1092,6 +1124,7 @@
   },
   {
    "word": "Ferry",
+   "description": "Water transport • Passenger boat • Crosses rivers • Carries cars • Regular schedule • Car deck",
    "hints": [
     {
      "text": "Water transport",
@@ -1126,6 +1159,7 @@
   },
   {
    "word": "Yacht",
+   "description": "Luxury boat • Sailing vessel • Billionaire toy • Marina parties • Sleek hull • Tall mast",
    "hints": [
     {
      "text": "Luxury boat",
@@ -1160,6 +1194,7 @@
   },
   {
    "word": "Canoe",
+   "description": "Paddle boat • Narrow vessel • Lake adventures • Summer camp • Single paddle • Pointed ends",
    "hints": [
     {
      "text": "Paddle boat",
@@ -1194,6 +1229,7 @@
   },
   {
    "word": "Kayak",
+   "description": "Paddle boat • Narrow vessel • River rapids • Sea trips • Double paddle • Sit inside",
    "hints": [
     {
      "text": "Paddle boat",
@@ -1228,6 +1264,7 @@
   },
   {
    "word": "Raft",
+   "description": "Floating platform • Simple boat • River rapids • Castaway escape • Logs tied together • Inflatable",
    "hints": [
     {
      "text": "Floating platform",
@@ -1262,6 +1299,7 @@
   },
   {
    "word": "Gondola",
+   "description": "Canal boat • Italian boat • Romantic rides • Singing rowers • Long black boat • Single oar",
    "hints": [
     {
      "text": "Canal boat",
@@ -1296,6 +1334,7 @@
   },
   {
    "word": "Sailboat",
+   "description": "Wind powered vessel • Water vessel • Weekend regattas • Breezy days • Mast and sails • Tiller steering",
    "hints": [
     {
      "text": "Wind powered vessel",
@@ -1330,6 +1369,7 @@
   },
   {
    "word": "Speedboat",
+   "description": "Fast vessel • Motor vessel • Water skiing • Spray and splash • Powerful outboard • Sleek hull",
    "hints": [
     {
      "text": "Fast vessel",
@@ -1364,6 +1404,7 @@
   },
   {
    "word": "Cruise ship",
+   "description": "Holiday vessel • Floating hotel • Buffets and pools • Island hopping • Many decks • Huge white hull",
    "hints": [
     {
      "text": "Holiday vessel",
@@ -1398,6 +1439,7 @@
   },
   {
    "word": "Rickshaw",
+   "description": "Small vehicle • City ride • Asian streets • Pulled or pedaled • Two wheels • Canopy seat",
    "hints": [
     {
      "text": "Small vehicle",
@@ -1432,6 +1474,7 @@
   },
   {
    "word": "Auto rickshaw",
+   "description": "Three wheeler • City taxi • Indian streets • Bargain fares • Green and yellow • Open sides",
    "hints": [
     {
      "text": "Three wheeler",
@@ -1466,6 +1509,7 @@
   },
   {
    "word": "Limousine",
+   "description": "Luxury car • Long vehicle • Proms and weddings • Celebrities • Stretch body • Chauffeur",
    "hints": [
     {
      "text": "Luxury car",
@@ -1500,6 +1544,7 @@
   },
   {
    "word": "Skateboard",
+   "description": "Wheeled plank • Street ride • Concrete bowls • Tricks • Four small wheels • Grip tape",
    "hints": [
     {
      "text": "Wheeled plank",
@@ -1534,6 +1579,7 @@
   },
   {
    "word": "Rollerblades",
+   "description": "Wheeled boots • Skating gear • Boardwalk fun • Retro trend • Inline wheels • Brake pad",
    "hints": [
     {
      "text": "Wheeled boots",
@@ -1568,6 +1614,7 @@
   },
   {
    "word": "Segway",
+   "description": "Two wheeled device • Personal transporter • Tourist tours • Mall cops • Self balancing • Lean to go",
    "hints": [
     {
      "text": "Two wheeled device",
@@ -1602,6 +1649,7 @@
   },
   {
    "word": "Hoverboard",
+   "description": "Self balancing gadget • Gizmo • Teen gift • Futuristic toy • Two wheels • Foot controlled",
    "hints": [
     {
      "text": "Self balancing gadget",
@@ -1636,6 +1684,7 @@
   },
   {
    "word": "Unicycle",
+   "description": "Single wheel • Circus ride • Jugglers ride it • Hard to balance • One wheel • Seat on pole",
    "hints": [
     {
      "text": "Single wheel",
@@ -1670,6 +1719,7 @@
   },
   {
    "word": "Tricycle",
+   "description": "Three wheeler • Kids ride • Toddler toy • First bike • Three wheels • Front pedals",
    "hints": [
     {
      "text": "Three wheeler",
@@ -1704,6 +1754,7 @@
   },
   {
    "word": "Tandem",
+   "description": "Shared bicycle • Two seater • Couples ride • Teamwork • Two seats • Long frame",
    "hints": [
     {
      "text": "Shared bicycle",
@@ -1738,6 +1789,7 @@
   },
   {
    "word": "Moped",
+   "description": "Small motorbike • City ride • Delivery riders • Beeps through traffic • Small engine • Step through",
    "hints": [
     {
      "text": "Small motorbike",
@@ -1772,6 +1824,7 @@
   },
   {
    "word": "Sedan",
+   "description": "Car type • Family car • Daily commute • Four doors • Separate trunk • Low roof",
    "hints": [
     {
      "text": "Car type",
@@ -1806,6 +1859,7 @@
   },
   {
    "word": "Convertible",
+   "description": "Car type • Open top car • Sunny drives • Wind in hair • Folding roof • Sporty look",
    "hints": [
     {
      "text": "Car type",
@@ -1840,6 +1894,7 @@
   },
   {
    "word": "Jeep",
+   "description": "Off road vehicle • Rugged car • Safari trips • Muddy trails • Open top • Big tires",
    "hints": [
     {
      "text": "Off road vehicle",
@@ -1874,6 +1929,7 @@
   },
   {
    "word": "Pickup truck",
+   "description": "Light hauler • Utility vehicle • Farm hauling • Country roads • Open cargo bed • Tailgate",
    "hints": [
     {
      "text": "Light hauler",
@@ -1908,6 +1964,7 @@
   },
   {
    "word": "Minivan",
+   "description": "Family vehicle • People carrier • School runs • Soccer moms • Sliding doors • Seven seats",
    "hints": [
     {
      "text": "Family vehicle",
@@ -1942,6 +1999,7 @@
   },
   {
    "word": "Camper van",
+   "description": "Holiday vehicle • Home on wheels • Road trips • Campsites • Tiny kitchen • Pop up roof",
    "hints": [
     {
      "text": "Holiday vehicle",
@@ -1976,6 +2034,7 @@
   },
   {
    "word": "Caravan",
+   "description": "Towed home • Holiday trailer • Campsites • Pulled by car • Fold out beds • Hitch",
    "hints": [
     {
      "text": "Towed home",
@@ -2010,6 +2069,7 @@
   },
   {
    "word": "Trailer",
+   "description": "Towed cart • Hauling unit • Moves boats • Hooked to cars • Hitch • No engine",
    "hints": [
     {
      "text": "Towed cart",
@@ -2044,6 +2104,7 @@
   },
   {
    "word": "Lorry",
+   "description": "Heavy truck • Freight vehicle • Highway freight • Long journeys • Huge trailer • Many wheels",
    "hints": [
     {
      "text": "Heavy truck",
@@ -2078,6 +2139,7 @@
   },
   {
    "word": "Tanker",
+   "description": "Liquid carrier • Big vehicle • Carries fuel • Ocean or road • Round drum • Hazard signs",
    "hints": [
     {
      "text": "Liquid carrier",
@@ -2112,6 +2174,7 @@
   },
   {
    "word": "Tow truck",
+   "description": "Recovery vehicle • Road rescue • Breakdowns • Illegal parking • Winch and hook • Flashing amber",
    "hints": [
     {
      "text": "Recovery vehicle",
@@ -2146,6 +2209,7 @@
   },
   {
    "word": "Garbage truck",
+   "description": "Municipal vehicle • Waste collector • Weekly pickups • Smelly job • Crushing compactor • Bins lifted",
    "hints": [
     {
      "text": "Municipal vehicle",
@@ -2180,6 +2244,7 @@
   },
   {
    "word": "Dump truck",
+   "description": "Construction vehicle • Hauler • Carries gravel • Tips loads • Tilting bed • Huge tires",
    "hints": [
     {
      "text": "Construction vehicle",
@@ -2214,6 +2279,7 @@
   },
   {
    "word": "Cement mixer",
+   "description": "Construction vehicle • Mixing truck • Building sites • Never stops turning • Rotating drum • Wet concrete",
    "hints": [
     {
      "text": "Construction vehicle",
@@ -2248,6 +2314,7 @@
   },
   {
    "word": "Steamroller",
+   "description": "Construction vehicle • Road flattener • Paves roads • Very slow • Huge front drum • Flattens asphalt",
    "hints": [
     {
      "text": "Construction vehicle",
@@ -2282,6 +2349,7 @@
   },
   {
    "word": "Snowplow",
+   "description": "Winter vehicle • Road clearer • Clears blizzards • Early mornings • Angled front blade • Salt spreader",
    "hints": [
     {
      "text": "Winter vehicle",
@@ -2316,6 +2384,7 @@
   },
   {
    "word": "Snowmobile",
+   "description": "Winter vehicle • Arctic ride • Arctic trips • Mountain trails • Skis in front • Tracked back",
    "hints": [
     {
      "text": "Winter vehicle",
@@ -2350,6 +2419,7 @@
   },
   {
    "word": "Sled",
+   "description": "Snow transport • Winter ride • Pulled by dogs • Hills in winter • Runners underneath • Rope to pull",
    "hints": [
     {
      "text": "Snow transport",
@@ -2384,6 +2454,7 @@
   },
   {
    "word": "Sleigh",
+   "description": "Snow carriage • Festive ride • Santa rides one • Pulled by reindeer • Jingle bells • Curved runners",
    "hints": [
     {
      "text": "Snow carriage",
@@ -2418,6 +2489,7 @@
   },
   {
    "word": "Carriage",
+   "description": "Horse drawn • Old transport • Royal processions • Fairy tales • Big wheels • Coachman seat",
    "hints": [
     {
      "text": "Horse drawn",
@@ -2452,6 +2524,7 @@
   },
   {
    "word": "Wagon",
+   "description": "Horse drawn • Wild west transport • Pioneers • Hay rides • Canvas cover • Wooden wheels",
    "hints": [
     {
      "text": "Horse drawn",
@@ -2486,6 +2559,7 @@
   },
   {
    "word": "Cart",
+   "description": "Small vehicle • Pushed or pulled • Shopping or farm • Rickety wheels • Two wheels • Wooden bed",
    "hints": [
     {
      "text": "Small vehicle",
@@ -2520,6 +2594,7 @@
   },
   {
    "word": "Bullock cart",
+   "description": "Animal drawn • Rural transport • Village roads • Farm hauling • Pulled by oxen • Wooden wheels",
    "hints": [
     {
      "text": "Animal drawn",
@@ -2554,6 +2629,7 @@
   },
   {
    "word": "Camel caravan",
+   "description": "Desert travel • Animal convoy • Silk road traders • Sand dunes • Line of humped animals • Laden packs",
    "hints": [
     {
      "text": "Desert travel",
@@ -2588,6 +2664,7 @@
   },
   {
    "word": "Horse",
+   "description": "Animal ride • Old transport • Riding lessons • Cowboys • Saddle and reins • Galloping",
    "hints": [
     {
      "text": "Animal ride",
@@ -2622,6 +2699,7 @@
   },
   {
    "word": "Elephant ride",
+   "description": "Animal journey • Tourist trek • Royal processions • Jungle treks • Howdah seat • Huge steps",
    "hints": [
     {
      "text": "Animal journey",
@@ -2656,6 +2734,7 @@
   },
   {
    "word": "Escalator",
+   "description": "Moving stairs • Mall transport • Shopping centers • Stand on right • Metal steps • Moving handrail",
    "hints": [
     {
      "text": "Moving stairs",
@@ -2690,6 +2769,7 @@
   },
   {
    "word": "Elevator",
+   "description": "Vertical transport • Lift • Skyscrapers • Awkward silence • Buttons for floors • Sliding doors",
    "hints": [
     {
      "text": "Vertical transport",
@@ -2724,6 +2804,7 @@
   },
   {
    "word": "Travelator",
+   "description": "Moving walkway • Airport transport • Long terminals • Walk faster • Flat belt • Moving handrail",
    "hints": [
     {
      "text": "Moving walkway",
@@ -2758,6 +2839,7 @@
   },
   {
    "word": "Funicular",
+   "description": "Hill railway • Cable railway • Steep slopes • Tourist ride • Counterweighted cars • Inclined track",
    "hints": [
     {
      "text": "Hill railway",
@@ -2792,6 +2874,7 @@
   },
   {
    "word": "Chairlift",
+   "description": "Slope transport • Mountain ride • Ski resorts • Dangling legs • Open seats • Safety bar",
    "hints": [
     {
      "text": "Slope transport",
@@ -2826,6 +2909,7 @@
   },
   {
    "word": "Bullet train",
+   "description": "High speed rail • Fast rail • Japanese icon • Punctual service • Sleek nose • Very fast",
    "hints": [
     {
      "text": "High speed rail",
@@ -2860,6 +2944,7 @@
   },
   {
    "word": "Steam train",
+   "description": "Old locomotive • Heritage rail • Puffs smoke • Choo choo • Coal fired engine • Whistle",
    "hints": [
     {
      "text": "Old locomotive",
@@ -2894,6 +2979,7 @@
   },
   {
    "word": "Freight train",
+   "description": "Cargo rail • Long locomotive • Carries goods • Very long • Box cars • Container wagons",
    "hints": [
     {
      "text": "Cargo rail",
@@ -2928,6 +3014,7 @@
   },
   {
    "word": "Metro",
+   "description": "City rail • Rapid transit • Daily commute • Smart cards • Underground tunnels • Station maps",
    "hints": [
     {
      "text": "City rail",
@@ -2962,6 +3049,7 @@
   },
   {
    "word": "Coach",
+   "description": "Long distance bus • Tour bus • School trips • Comfy seats • Luggage hold • Reclining seats",
    "hints": [
     {
      "text": "Long distance bus",
@@ -2996,6 +3084,7 @@
   },
   {
    "word": "Double decker",
+   "description": "Two level bus • City bus • Tourist tours • Upstairs views • Two floors • Red paint",
    "hints": [
     {
      "text": "Two level bus",
@@ -3030,6 +3119,7 @@
   },
   {
    "word": "School bus",
+   "description": "Kids transport • Yellow vehicle • Morning pickups • Stop sign arm • Bright yellow • Rows of seats",
    "hints": [
     {
      "text": "Kids transport",
@@ -3064,6 +3154,7 @@
   },
   {
    "word": "Minibus",
+   "description": "Small bus • Group transport • Airport shuttles • Sports teams • Fifteen seats • Sliding door",
    "hints": [
     {
      "text": "Small bus",
@@ -3098,6 +3189,7 @@
   },
   {
    "word": "Shuttle",
+   "description": "Connecting transport • Short trip ride • Airport hotels • Free service • Loops a route • Small bus",
    "hints": [
     {
      "text": "Connecting transport",
@@ -3132,6 +3224,7 @@
   },
   {
    "word": "Jet ski",
+   "description": "Water vehicle • Personal watercraft • Beach rentals • Sprays water • Handlebars • Sit astride",
    "hints": [
     {
      "text": "Water vehicle",
@@ -3166,6 +3259,7 @@
   },
   {
    "word": "Hovercraft",
+   "description": "Air cushion vehicle • Amphibious vessel • Crosses water and land • Loud fans • Rubber skirt • Floats on air",
    "hints": [
     {
      "text": "Air cushion vehicle",
@@ -3200,6 +3294,7 @@
   },
   {
    "word": "Barge",
+   "description": "Cargo boat • Flat vessel • Canal transport • Slow moving • Flat bottom • Pushed by tugs",
    "hints": [
     {
      "text": "Cargo boat",
@@ -3234,6 +3329,7 @@
   },
   {
    "word": "Tugboat",
+   "description": "Harbor vessel • Small powerful vessel • Pushes big ships • Docking help • Big fenders • Chunky hull",
    "hints": [
     {
      "text": "Harbor vessel",
@@ -3268,6 +3364,7 @@
   },
   {
    "word": "Houseboat",
+   "description": "Floating home • Lake vessel • Kerala backwaters • Kashmir lakes • Bedrooms aboard • Moored",
    "hints": [
     {
      "text": "Floating home",
@@ -3302,6 +3399,7 @@
   },
   {
    "word": "Rowboat",
+   "description": "Small vessel • Oar powered • Lake outings • Romantic rows • Two oars • Wooden seats",
    "hints": [
     {
      "text": "Small vessel",
@@ -3336,6 +3434,7 @@
   },
   {
    "word": "Paddleboard",
+   "description": "Water craft • Standing sport • Calm lakes • Yoga on water • Long plank • Single oar",
    "hints": [
     {
      "text": "Water craft",
@@ -3370,6 +3469,7 @@
   },
   {
    "word": "Surfboard",
+   "description": "Wave rider • Beach craft • Beach culture • Catches waves • Fin underneath • Waxed top",
    "hints": [
     {
      "text": "Wave rider",
@@ -3404,6 +3504,7 @@
   },
   {
    "word": "Pirate ship",
+   "description": "Old vessel • Adventure vessel • Treasure hunts • Walk the plank • Skull flag • Cannons",
    "hints": [
     {
      "text": "Old vessel",
@@ -3438,6 +3539,7 @@
   },
   {
    "word": "Galleon",
+   "description": "Old ship • Sailing warship • Spanish treasure • Age of sail • Tall masts • Wooden decks",
    "hints": [
     {
      "text": "Old ship",
@@ -3472,6 +3574,7 @@
   },
   {
    "word": "Aircraft carrier",
+   "description": "Navy ship • Floating runway • Jets take off • Huge crew • Flat deck • Catapult launch",
    "hints": [
     {
      "text": "Navy ship",
@@ -3506,6 +3609,7 @@
   },
   {
    "word": "Battleship",
+   "description": "Navy vessel • Warship • Big guns • Naval combat • Armored hull • Gun turrets",
    "hints": [
     {
      "text": "Navy vessel",
@@ -3540,6 +3644,7 @@
   },
   {
    "word": "Fighter jet",
+   "description": "Military aircraft • Fast plane • Air shows • Sonic boom • Afterburner • Missiles under wings",
    "hints": [
     {
      "text": "Military aircraft",
@@ -3574,6 +3679,7 @@
   },
   {
    "word": "Drone",
+   "description": "Unmanned aircraft • Flying gadget • Aerial photos • Package delivery • Four rotors • Remote controlled",
    "hints": [
     {
      "text": "Unmanned aircraft",
@@ -3608,6 +3714,7 @@
   },
   {
    "word": "Seaplane",
+   "description": "Water aircraft • Float aircraft • Island hopping • Lands on lakes • Pontoons • Propeller",
    "hints": [
     {
      "text": "Water aircraft",
@@ -3642,6 +3749,7 @@
   },
   {
    "word": "Biplane",
+   "description": "Old aircraft • Vintage aircraft • Air shows • Crop dusting • Two wings stacked • Open cockpit",
    "hints": [
     {
      "text": "Old aircraft",
@@ -3676,6 +3784,7 @@
   },
   {
    "word": "Paraglider",
+   "description": "Air sport craft • Wing canopy • Mountain launches • Soaring • Fabric wing • Harness seat",
    "hints": [
     {
      "text": "Air sport craft",
@@ -3710,6 +3819,7 @@
   },
   {
    "word": "Parachute",
+   "description": "Descent device • Air safety • Skydivers • Emergency exit • Canopy • Ripcord",
    "hints": [
     {
      "text": "Descent device",
@@ -3744,6 +3854,7 @@
   },
   {
    "word": "Space shuttle",
+   "description": "Reusable orbiter • Orbital vehicle • Retired program • Glided home • Orange fuel tank • Winged orbiter",
    "hints": [
     {
      "text": "Reusable orbiter",
@@ -3778,6 +3889,7 @@
   },
   {
    "word": "Satellite",
+   "description": "Orbiting object • Space device • Weather forecasts • Gps signals • Solar panels • Circles the planet",
    "hints": [
     {
      "text": "Orbiting object",
@@ -3812,6 +3924,7 @@
   },
   {
    "word": "Space station",
+   "description": "Orbiting lab • Orbital base • Astronauts live there • Science experiments • Solar arrays • Docking ports",
    "hints": [
     {
      "text": "Orbiting lab",
@@ -3846,6 +3959,7 @@
   },
   {
    "word": "Lunar rover",
+   "description": "Moon vehicle • Space buggy • Driven by astronauts • Moon missions • Mesh wheels • Antenna dish",
    "hints": [
     {
      "text": "Moon vehicle",
@@ -3880,6 +3994,7 @@
   },
   {
    "word": "Go kart",
+   "description": "Small car • Racing toy • Birthday parties • Track fun • Low seat • Small engine",
    "hints": [
     {
      "text": "Small car",
@@ -3914,6 +4029,7 @@
   },
   {
    "word": "Bumper car",
+   "description": "Fairground ride • Toy vehicle • Crash for fun • Amusement parks • Rubber edges • Pole to ceiling",
    "hints": [
     {
      "text": "Fairground ride",
@@ -3948,6 +4064,7 @@
   },
   {
    "word": "Race car",
+   "description": "Fast vehicle • Sports vehicle • Grand prix • Pit stops • Slick tires • Spoiler wing",
    "hints": [
     {
      "text": "Fast vehicle",
@@ -3982,6 +4099,7 @@
   },
   {
    "word": "Sports car",
+   "description": "Fast vehicle • Luxury vehicle • Midlife crisis • Roaring engine • Low and sleek • Two doors",
    "hints": [
     {
      "text": "Fast vehicle",
@@ -4016,6 +4134,7 @@
   },
   {
    "word": "Electric car",
+   "description": "Battery vehicle • Green vehicle • Charging stations • Silent motor • No exhaust • Plug in",
    "hints": [
     {
      "text": "Battery vehicle",
@@ -4050,6 +4169,7 @@
   },
   {
    "word": "Quad bike",
+   "description": "Off road vehicle • Four wheeler • Beach rides • Farm use • Handlebars • Chunky tires",
    "hints": [
     {
      "text": "Off road vehicle",
@@ -4084,6 +4204,7 @@
   },
   {
    "word": "Dirt bike",
+   "description": "Off road motorcycle • Trail machine • Muddy tracks • Big jumps • Knobby tires • High fenders",
    "hints": [
     {
      "text": "Off road motorcycle",
@@ -4118,6 +4239,7 @@
   },
   {
    "word": "Tuk tuk",
+   "description": "Three wheeler • Asian taxi • Thai streets • Noisy engine • Open sides • Colorful canopy",
    "hints": [
     {
      "text": "Three wheeler",
@@ -4152,6 +4274,7 @@
   },
   {
    "word": "Pedicab",
+   "description": "Bicycle taxi • Pedal rickshaw • Tourist rides • Eco friendly • Rider in front • Passenger seat behind",
    "hints": [
     {
      "text": "Bicycle taxi",
@@ -4186,6 +4309,7 @@
   },
   {
    "word": "Wheelchair",
+   "description": "Mobility aid • Personal transport • Hospital use • Accessibility • Two big wheels • Push rims",
    "hints": [
     {
      "text": "Mobility aid",
@@ -4220,6 +4344,7 @@
   },
   {
    "word": "Stretcher",
+   "description": "Medical carrier • Patient transport • Ambulance crews • Carry injured • Flat bed • Folding legs",
    "hints": [
     {
      "text": "Medical carrier",
@@ -4254,6 +4379,7 @@
   },
   {
    "word": "Stroller",
+   "description": "Baby carrier • Pushed chair • Park walks • Parents push it • Canopy • Small wheels",
    "hints": [
     {
      "text": "Baby carrier",
@@ -4288,6 +4414,7 @@
   },
   {
    "word": "Pram",
+   "description": "Baby carriage • Old pushchair • Victorian nannies • Newborns lie in it • Hooded bassinet • Big wheels",
    "hints": [
     {
      "text": "Baby carriage",
@@ -4322,6 +4449,7 @@
   },
   {
    "word": "Shopping cart",
+   "description": "Store trolley • Wheeled basket • Supermarkets • Wonky wheel • Wire basket • Child seat",
    "hints": [
     {
      "text": "Store trolley",
@@ -4356,6 +4484,7 @@
   },
   {
    "word": "Conveyor belt",
+   "description": "Moving strip • Factory transport • Airport luggage • Checkout lanes • Rubber surface • Rollers",
    "hints": [
     {
      "text": "Moving strip",
@@ -4390,6 +4519,7 @@
   },
   {
    "word": "Zipline",
+   "description": "Adventure ride • Cable slide • Jungle canopies • Thrill seekers • Harness and pulley • Steel cable",
    "hints": [
     {
      "text": "Adventure ride",
@@ -4424,6 +4554,7 @@
   },
   {
    "word": "Ox cart",
+   "description": "Animal drawn • Farm transport • Rural villages • Slow pace • Pair of oxen • Yoke",
    "hints": [
     {
      "text": "Animal drawn",
@@ -4458,6 +4589,7 @@
   },
   {
    "word": "Dog sled",
+   "description": "Snow transport • Arctic ride • Races in alaska • Mushing • Team of huskies • Wooden runners",
    "hints": [
     {
      "text": "Snow transport",
@@ -4492,6 +4624,7 @@
   },
   {
    "word": "Toboggan",
+   "description": "Snow sled • Winter ride • Snowy hills • Family fun • Curled front • Flat wooden base",
    "hints": [
     {
      "text": "Snow sled",
@@ -4526,6 +4659,7 @@
   },
   {
    "word": "Zeppelin",
+   "description": "Airship • Rigid balloon • Early aviation • Floating giants • Metal frame • Gondola underneath",
    "hints": [
     {
      "text": "Airship",
@@ -4560,6 +4694,7 @@
   },
   {
    "word": "Ocean liner",
+   "description": "Passenger ship • Grand vessel • Transatlantic crossings • Historic voyages • Funnels • Many decks",
    "hints": [
     {
      "text": "Passenger ship",
@@ -4594,6 +4729,7 @@
   },
   {
    "word": "Container ship",
+   "description": "Cargo vessel • Freight vessel • Global trade • Huge ports • Stacked boxes • Giant cranes",
    "hints": [
     {
      "text": "Cargo vessel",
@@ -4628,6 +4764,7 @@
   },
   {
    "word": "Fishing boat",
+   "description": "Work vessel • Trawler • Early morning catch • Harbor docks • Nets and winches • Seagulls follow",
    "hints": [
     {
      "text": "Work vessel",
@@ -4662,6 +4799,7 @@
   },
   {
    "word": "Lifeboat",
+   "description": "Rescue vessel • Safety vessel • Emergency at sea • Coast guards • Bright orange • Hanging from ship",
    "hints": [
     {
      "text": "Rescue vessel",
@@ -4696,6 +4834,7 @@
   },
   {
    "word": "Dinghy",
+   "description": "Small boat • Inflatable boat • Yacht tender • Lake fun • Rubber sides • Outboard motor",
    "hints": [
     {
      "text": "Small boat",
@@ -4730,6 +4869,7 @@
   },
   {
    "word": "Catamaran",
+   "description": "Twin hull boat • Sailing vessel • Island cruises • Stable ride • Two parallel hulls • Netting deck",
    "hints": [
     {
      "text": "Twin hull boat",
@@ -4764,6 +4904,7 @@
   },
   {
    "word": "Airship",
+   "description": "Lighter than air • Floating craft • Early aviation • Slow cruises • Gas envelope • Cabin underneath",
    "hints": [
     {
      "text": "Lighter than air",
@@ -4798,6 +4939,7 @@
   },
   {
    "word": "Mail truck",
+   "description": "Delivery vehicle • Postal van • Daily rounds • Right hand drive • Boxy shape • Sliding door",
    "hints": [
     {
      "text": "Delivery vehicle",
@@ -4832,6 +4974,7 @@
   },
   {
    "word": "Treat van",
+   "description": "Dessert vehicle • Summer vehicle • Chimes a tune • Kids chase it • Serving window • Cone sign",
    "hints": [
     {
      "text": "Dessert vehicle",
@@ -4866,6 +5009,7 @@
   },
   {
    "word": "Food truck",
+   "description": "Mobile kitchen • Street vendor • Festival snacks • Office lunches • Serving hatch • Menu board",
    "hints": [
     {
      "text": "Mobile kitchen",
@@ -4900,6 +5044,7 @@
   },
   {
    "word": "Rickshaw puller",
+   "description": "Old city transport • Human drawn cart • Kolkata streets • Tourist rides • Long poles • Barefoot runner",
    "hints": [
     {
      "text": "Old city transport",
@@ -4934,6 +5079,7 @@
   },
   {
    "word": "Horse carriage",
+   "description": "Animal drawn ride • Romantic ride • City park tours • Weddings • Coachman • Clip clop hooves",
    "hints": [
     {
      "text": "Animal drawn ride",
@@ -4968,6 +5114,7 @@
   },
   {
    "word": "Penny farthing",
+   "description": "Old bicycle • Victorian ride • Hard to mount • Museum piece • Huge front wheel • Tiny back wheel",
    "hints": [
     {
      "text": "Old bicycle",
@@ -5002,6 +5149,7 @@
   },
   {
    "word": "Airport shuttle",
+   "description": "Terminal transport • Courtesy bus • Hotel pickups • Free rides • Luggage racks • Frequent loops",
    "hints": [
     {
      "text": "Terminal transport",
@@ -5036,6 +5184,7 @@
   },
   {
    "word": "Hatchback",
+   "description": "Car type • Compact car • City parking • First vehicle • Rear lift door • Short boot",
    "hints": [
     {
      "text": "Car type",
@@ -5070,6 +5219,7 @@
   },
   {
    "word": "Coupe",
+   "description": "Car type • Two door car • Sporty look • Sleek roofline • Sloping back • Low stance",
    "hints": [
     {
      "text": "Car type",
@@ -5104,6 +5254,7 @@
   },
   {
    "word": "Ambulance boat",
+   "description": "Rescue vessel • Water medics • Island emergencies • Coastal medics • Siren on deck • Stretcher inside",
    "hints": [
     {
      "text": "Rescue vessel",
@@ -5138,6 +5289,7 @@
   },
   {
    "word": "Light rail",
+   "description": "City transit • Modern tram • Suburban lines • Electric power • Overhead wires • Low floor carriages",
    "hints": [
     {
      "text": "City transit",
@@ -5172,6 +5324,7 @@
   },
   {
    "word": "Motorboat",
+   "description": "Engine vessel • Leisure craft • Lake weekends • Waterskiing tows • Outboard engine • Steering wheel",
    "hints": [
     {
      "text": "Engine vessel",

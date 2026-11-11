@@ -20,6 +20,8 @@ import '../widgets/neon.dart';
 import '../widgets/room_comms.dart';
 import '../widgets/visuals.dart';
 import 'online_social_screens.dart';
+import '../widgets/hush_loader.dart';
+import '../widgets/busy_overlay.dart';
 
 /// Uppercases, drops spaces and symbols, and pulls a code out of a pasted
 /// invitation link or message.
@@ -128,7 +130,7 @@ class _MultiplayerScreenState extends ConsumerState<MultiplayerScreen> {
     ctrl.dispose();
     if (name == null || name.trim().isEmpty) return;
     try {
-      await social.myProfile(displayName: name.trim()).timeout(rpcTimeout);
+      await ref.read(manualBusyProvider.notifier).run('Saving your name…', () => social.myProfile(displayName: name.trim()).timeout(rpcTimeout));
       ref.invalidate(myProfileProvider);
     } catch (e) {
       if (mounted) toast(context, friendlyError(e));
@@ -166,7 +168,7 @@ class _MultiplayerScreenState extends ConsumerState<MultiplayerScreen> {
     if (room == null || svc == null || _starting) return;
     setState(() => _starting = true);
     try {
-      _openGame(await svc.startGame(room.id));
+      _openGame(await ref.read(manualBusyProvider.notifier).run('Starting the game…', () => svc.startGame(room.id)));
     } catch (e) {
       if (mounted) toast(context, friendlyError(e));
     } finally {
@@ -191,6 +193,7 @@ class _MultiplayerScreenState extends ConsumerState<MultiplayerScreen> {
 
   void _openRoomSettings(OnlineRoom room) {
     var rounds = room.totalRounds;
+    var clueSeconds = ((room.config['clueSeconds'] as num?) ?? 60).toInt().clamp(20, 180);
     var mode = room.voteMode;
     var visibility = room.voteVisibility;
     var clue = room.voicePolicy['clue'] != false;
@@ -246,7 +249,26 @@ class _MultiplayerScreenState extends ConsumerState<MultiplayerScreen> {
                       ),
                     ],
                   ),
-                  label('VOTING'),
+                  label('TIME FOR EACH CLUE'),
+                Row(mainAxisAlignment: MainAxisAlignment.center, children: [
+                  IconButton.filledTonal(
+                    tooltip: 'Less time',
+                    onPressed: clueSeconds > 20 ? () => setSheet(() => clueSeconds -= 10) : null,
+                    icon: const Icon(Icons.remove_rounded),
+                  ),
+                  SizedBox(
+                    width: 120,
+                    child: Text('${clueSeconds}s',
+                        textAlign: TextAlign.center,
+                        style: const TextStyle(color: HushbugColors.accentYellow, fontSize: 22, fontWeight: FontWeight.w900)),
+                  ),
+                  IconButton.filledTonal(
+                    tooltip: 'More time',
+                    onPressed: clueSeconds < 180 ? () => setSheet(() => clueSeconds += 10) : null,
+                    icon: const Icon(Icons.add_rounded),
+                  ),
+                ]),
+                label('VOTING'),
                   SegmentedButton<String>(
                     segments: const [
                       ButtonSegment(value: 'simultaneous', label: Text('Everyone at once')),
@@ -290,7 +312,7 @@ class _MultiplayerScreenState extends ConsumerState<MultiplayerScreen> {
                         : () async {
                             setSheet(() => saving = true);
                             final lobby = ref.read(onlineLobbyProvider.notifier);
-                            await lobby.updateSettings(totalRounds: rounds, voteMode: mode, voteVisibility: visibility);
+                            await lobby.updateSettings(totalRounds: rounds, voteMode: mode, voteVisibility: visibility, clueSeconds: clueSeconds);
                             await lobby.setVoicePolicy(clue: clue, vote: vote);
                             if (c.mounted) Navigator.pop(c);
                           },
@@ -611,7 +633,7 @@ class _MultiplayerScreenState extends ConsumerState<MultiplayerScreen> {
         ),
       Expanded(
         child: lobby.players.isEmpty
-            ? const Center(child: CircularProgressIndicator())
+            ? const Center(child: HushbugLoader(text: 'Joining the room…'))
             : SingleChildScrollView(
                 padding: const EdgeInsets.only(top: 28, bottom: 8),
                 child: Wrap(

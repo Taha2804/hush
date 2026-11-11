@@ -4,6 +4,7 @@
  "words": [
   {
    "word": "Comedy",
+   "description": "Film genre • Funny movies • Laugh out loud • Stand up stars • Slapstick gags • Happy endings",
    "hints": [
     {
      "text": "Film genre",
@@ -38,6 +39,7 @@
   },
   {
    "word": "Horror",
+   "description": "Film genre • Scary movies • Jump scares • Watch through fingers • Haunted houses • Creepy music",
    "hints": [
     {
      "text": "Film genre",
@@ -72,6 +74,7 @@
   },
   {
    "word": "Romance",
+   "description": "Film genre • Love stories • Date night pick • Tearjerker kisses • Meet cute • Happily ever after",
    "hints": [
     {
      "text": "Film genre",
@@ -106,6 +109,7 @@
   },
   {
    "word": "Action",
+   "description": "Film genre • Blockbuster style • Car chases • Explosions • Fist fights • Stunt doubles",
    "hints": [
     {
      "text": "Film genre",
@@ -140,6 +144,7 @@
   },
   {
    "word": "Thriller",
+   "description": "Film genre • Suspense movies • Edge of seat • Plot twists • Ticking clock • Cat and mouse",
    "hints": [
     {
      "text": "Film genre",
@@ -174,6 +179,7 @@
   },
   {
    "word": "Documentary",
+   "description": "Film genre • Factual movies • Real events • Narrated footage • Interviews • Nature footage",
    "hints": [
     {
      "text": "Film genre",
@@ -208,6 +214,7 @@
   },
   {
    "word": "Animation",
+   "description": "Film style • Cartoon movies • Family favorites • Voice actors • Hand drawn frames • Computer graphics",
    "hints": [
     {
      "text": "Film style",
@@ -242,6 +249,7 @@
   },
   {
    "word": "Musical",
+   "description": "Film genre • Song movies • Characters burst into song • Broadway adaptations • Dance numbers • Showstoppers",
    "hints": [
     {
      "text": "Film genre",
@@ -276,6 +284,7 @@
   },
   {
    "word": "Western",
+   "description": "Film genre • Cowboy movies • Frontier towns • High noon duels • Saloons and sheriffs • Tumbleweeds",
    "hints": [
     {
      "text": "Film genre",
@@ -310,6 +319,7 @@
   },
   {
    "word": "Fantasy",
+   "description": "Film genre • Magic movies • Dragons and wizards • Epic quests • Enchanted kingdoms • Magic swords",
    "hints": [
     {
      "text": "Film genre",
@@ -344,6 +354,7 @@
   },
   {
    "word": "Science fiction",
+   "description": "Film genre • Future movies • Space travel • Alien invasions • Robots and lasers • Time machines",
    "hints": [
     {
      "text": "Film genre",
@@ -378,6 +389,7 @@
   },
   {
    "word": "Superhero",
+   "description": "Film genre • Caped heroes • Comic book adaptations • Saves the city • Secret identity • Special abilities",
    "hints": [
     {
      "text": "Film genre",
@@ -412,6 +424,7 @@
   },
   {
    "word": "Mystery",
+   "description": "Film genre • Puzzle movies • Whodunit • Detective solves it • Clues and suspects • Big reveal",
    "hints": [
     {
      "text": "Film genre",
@@ -446,6 +459,7 @@
   },
   {
    "word": "Crime",
+   "description": "Film genre • Gangster movies • Heists and mobsters • Police chases • Undercover agents • Shootouts",
    "hints": [
     {
      "text": "Film genre",
@@ -480,6 +494,7 @@
   },
   {
    "word": "Adventure",
+   "description": "Film genre • Quest movies • Treasure hunts • Exotic locations • Maps and jungles • Daring escapes",
    "hints": [
     {
      "text": "Film genre",
@@ -514,6 +529,7 @@
   },
   {
    "word": "Drama",
+   "description": "Film genre • Serious movies • Award season favorites • Emotional • Character studies • Tears and conflict",
    "hints": [
     {
      "text": "Film genre",
@@ -548,6 +564,7 @@
   },
   {
    "word": "War",
+   "description": "Film genre • Battle movies • Soldiers and trenches • Historical battles • Tanks and helmets • Brotherhood",
    "hints": [
     {
      "text": "Film genre",
@@ -582,6 +599,7 @@
   },
   {
    "word": "Disaster",
+   "description": "Film genre • Catastrophe movies • Volcanoes and earthquakes • Survival • Collapsing buildings • Race against time",
    "hints": [
     {
      "text": "Film genre",
@@ -616,6 +634,7 @@
   },
   {
    "word": "Zombie",
+   "description": "Movie monster • Undead horde • Apocalypse films • Survival groups • Shambling hordes • Bite infects",
    "hints": [
     {
      "text": "Movie monster",
@@ -650,6 +669,7 @@
   },
   {
    "word": "Heist",
+   "description": "Movie plot • Robbery caper • Crew of experts • Elaborate plans • Bank vault • Getaway car",
    "hints": [
     {
      "text": "Movie plot",
@@ -684,6 +704,7 @@
   },
   {
    "word": "Time travel",
+   "description": "Movie theme • Science fiction plot • Paradoxes • Change the past • Flux capacitor • Future selves",
    "hints": [
     {
      "text": "Movie theme",
@@ -718,6 +739,7 @@
   },
   {
    "word": "Alien invasion",
+   "description": "Movie plot • Science fiction theme • Spaceships over cities • Humanity fights • Flying saucers • Tripods",
    "hints": [
     {
      "text": "Movie plot",
@@ -752,6 +774,7 @@
   },
   {
    "word": "Robot uprising",
+   "description": "Movie plot • Machine rebellion • Artificial minds turn • Humans resist • Metal armies • Glowing red eyes",
    "hints": [
     {
      "text": "Movie plot",
@@ -786,6 +809,7 @@
   },
   {
    "word": "Haunted house",
+   "description": "Movie setting • Spooky mansion • Creaking floors • Ghostly visitors • Cobwebs • Slamming doors",
    "hints": [
     {
      "text": "Movie setting",
@@ -820,6 +844,7 @@
   },
   {
    "word": "Road trip",
+   "description": "Movie plot • Journey story • Friends in a car • Motels • Highway scenery • Map arguments",
    "hints": [
     {
      "text": "Movie plot",
@@ -854,6 +879,7 @@
   },
   {
    "word": "Growing up",
+   "description": "Movie theme • Adolescent story • Teen years • First love • School dances • Summer change",
    "hints": [
     {
      "text": "Movie theme",
@@ -888,6 +914,7 @@
   },
   {
    "word": "Rom com",
+   "description": "Movie genre • Romantic comedy • Meet cute • Airport chase • Misunderstandings • Happy kiss",
    "hints": [
     {
      "text": "Movie genre",
@@ -922,6 +949,7 @@
   },
   {
    "word": "Sequel",
+   "description": "Movie follow up • Second part • Bigger budget • Returning cast • Part two • Continues story",
    "hints": [
     {
      "text": "Movie follow up",
@@ -956,6 +984,7 @@
   },
   {
    "word": "Prequel",
+   "description": "Movie backstory • Earlier chapter • Origin story • Before the original • Younger characters • Set earlier",
    "hints": [
     {
      "text": "Movie backstory",
@@ -990,6 +1019,7 @@
   },
   {
    "word": "Remake",
+   "description": "Movie redo • New version • Updated effects • Classic retold • Same story • New cast",
    "hints": [
     {
      "text": "Movie redo",
@@ -1024,6 +1054,7 @@
   },
   {
    "word": "Trailer",
+   "description": "Movie preview • Teaser • Plays before films • Online hype • Dramatic voice • Coming soon",
    "hints": [
     {
      "text": "Movie preview",
@@ -1058,6 +1089,7 @@
   },
   {
    "word": "Popcorn",
+   "description": "Cinema snack • Movie treat • Shared at theaters • Buttery • Big paper tub • Salty kernels",
    "hints": [
     {
      "text": "Cinema snack",
@@ -1092,6 +1124,7 @@
   },
   {
    "word": "Premiere",
+   "description": "Movie launch • Opening night • Red carpet • Celebrities arrive • Flashing cameras • Gala event",
    "hints": [
     {
      "text": "Movie launch",
@@ -1126,6 +1159,7 @@
   },
   {
    "word": "Red carpet",
+   "description": "Premiere walkway • Glamour event • Celebrities pose • Award nights • Velvet ropes • Paparazzi",
    "hints": [
     {
      "text": "Premiere walkway",
@@ -1160,6 +1194,7 @@
   },
   {
    "word": "Oscar",
+   "description": "Film award • Golden statue • Award ceremony • Acceptance speech • Golden figure • Best picture",
    "hints": [
     {
      "text": "Film award",
@@ -1194,6 +1229,7 @@
   },
   {
    "word": "Director",
+   "description": "Film maker • Movie boss • Shouts action • Leads the crew • Megaphone • Folding chair",
    "hints": [
     {
      "text": "Film maker",
@@ -1228,6 +1264,7 @@
   },
   {
    "word": "Villain",
+   "description": "Movie bad guy • Antagonist • Evil plans • Monologues • Sinister laugh • Dark costume",
    "hints": [
     {
      "text": "Movie bad guy",
@@ -1262,6 +1299,7 @@
   },
   {
    "word": "Hero",
+   "description": "Movie protagonist • Good guy • Saves the day • Brave choices • Cape or armor • Final showdown",
    "hints": [
     {
      "text": "Movie protagonist",
@@ -1296,6 +1334,7 @@
   },
   {
    "word": "Sidekick",
+   "description": "Movie companion • Helper • Comic relief • Loyal friend • Assists the protagonist • Wisecracks",
    "hints": [
     {
      "text": "Movie companion",
@@ -1330,6 +1369,7 @@
   },
   {
    "word": "Plot twist",
+   "description": "Movie surprise • Shock reveal • Nobody saw it coming • Rewatch value • Hidden identity • Mind blown",
    "hints": [
     {
      "text": "Movie surprise",
@@ -1364,6 +1404,7 @@
   },
   {
    "word": "Cliffhanger",
+   "description": "Story ending • Suspense hook • Wait for sequel • Season finale • Unresolved danger • Hanging moment",
    "hints": [
     {
      "text": "Story ending",
@@ -1398,6 +1439,7 @@
   },
   {
    "word": "Spoiler",
+   "description": "Plot reveal • Ruined surprise • Warnings online • Friends ruin it • Giving away ending • Internet etiquette",
    "hints": [
     {
      "text": "Plot reveal",
@@ -1432,6 +1474,7 @@
   },
   {
    "word": "Flashback",
+   "description": "Story device • Past scene • Memories revealed • Backstory • Sepia tones • Earlier timeline",
    "hints": [
     {
      "text": "Story device",
@@ -1466,6 +1509,7 @@
   },
   {
    "word": "Montage",
+   "description": "Film technique • Quick sequence • Training scenes • Upbeat music • Rapid cuts • Time passing",
    "hints": [
     {
      "text": "Film technique",
@@ -1500,6 +1544,7 @@
   },
   {
    "word": "Slow motion",
+   "description": "Film effect • Dramatic speed • Action highlights • Bullet dodges • Frames stretched • Every detail",
    "hints": [
     {
      "text": "Film effect",
@@ -1534,6 +1579,7 @@
   },
   {
    "word": "Stunt double",
+   "description": "Film role • Risk taker • Dangerous scenes • Looks like star • Car flips • Falls from heights",
    "hints": [
     {
      "text": "Film role",
@@ -1568,6 +1614,7 @@
   },
   {
    "word": "Special effects",
+   "description": "Film magic • Visual tricks • Explosions and aliens • Movie wizardry • Computer graphics • Green screens",
    "hints": [
     {
      "text": "Film magic",
@@ -1602,6 +1649,7 @@
   },
   {
    "word": "Green screen",
+   "description": "Film technique • Chroma background • Weather reports • Superhero scenes • Bright colored wall • Replaced later",
    "hints": [
     {
      "text": "Film technique",
@@ -1636,6 +1684,7 @@
   },
   {
    "word": "Soundtrack",
+   "description": "Movie music • Film score • Iconic themes • Album release • Orchestral pieces • Hit songs",
    "hints": [
     {
      "text": "Movie music",
@@ -1670,6 +1719,7 @@
   },
   {
    "word": "Blockbuster",
+   "description": "Movie hit • Big film • Summer releases • Record sales • Huge budget • Long queues",
    "hints": [
     {
      "text": "Movie hit",
@@ -1704,6 +1754,7 @@
   },
   {
    "word": "Box office",
+   "description": "Movie earnings • Ticket sales • Opening weekend • Records broken • Revenue charts • Theater tills",
    "hints": [
     {
      "text": "Movie earnings",
@@ -1738,6 +1789,7 @@
   },
   {
    "word": "Cinema",
+   "description": "Movie theater • Film venue • Date nights • Big screen • Dark hall • Popcorn stand",
    "hints": [
     {
      "text": "Movie theater",
@@ -1772,6 +1824,7 @@
   },
   {
    "word": "Drive in",
+   "description": "Outdoor cinema • Car theater • Retro dates • Watch from car • Giant outdoor screen • Radio sound",
    "hints": [
     {
      "text": "Outdoor cinema",
@@ -1806,6 +1859,7 @@
   },
   {
    "word": "Film festival",
+   "description": "Movie event • Industry showcase • Premieres and awards • Indie gems • Juries and screenings • Coastal venues",
    "hints": [
     {
      "text": "Movie event",
@@ -1840,6 +1894,7 @@
   },
   {
    "word": "Screenplay",
+   "description": "Movie script • Writer's text • Dialogue and directions • Drafts • Formatted pages • Scene headings",
    "hints": [
     {
      "text": "Movie script",
@@ -1874,6 +1929,7 @@
   },
   {
    "word": "Storyboard",
+   "description": "Film planning • Drawn sequence • Pre production • Shot planning • Comic style panels • Sketches",
    "hints": [
     {
      "text": "Film planning",
@@ -1908,6 +1964,7 @@
   },
   {
    "word": "Clapperboard",
+   "description": "Film tool • Scene marker • Take one • Snaps before shooting • Black and white stripes • Chalk numbers",
    "hints": [
     {
      "text": "Film tool",
@@ -1942,6 +1999,7 @@
   },
   {
    "word": "Cameo",
+   "description": "Brief appearance • Surprise role • Director pops up • Fans spot it • Few seconds • Famous face",
    "hints": [
     {
      "text": "Brief appearance",
@@ -1976,6 +2034,7 @@
   },
   {
    "word": "Extra",
+   "description": "Background actor • Film crowd • Walks in background • No lines • Crowd scenes • Paid daily",
    "hints": [
     {
      "text": "Background actor",
@@ -2010,6 +2069,7 @@
   },
   {
    "word": "Narrator",
+   "description": "Story voice • Offscreen speaker • Documentaries • Fairy tale films • Deep voiceover • Guides story",
    "hints": [
     {
      "text": "Story voice",
@@ -2044,6 +2104,7 @@
   },
   {
    "word": "Subtitles",
+   "description": "On screen text • Translation • Foreign films • Hard of hearing • Bottom of screen • Read along",
    "hints": [
     {
      "text": "On screen text",
@@ -2078,6 +2139,7 @@
   },
   {
    "word": "Credits",
+   "description": "Film ending • Cast list • Roll at the end • Bonus scenes after • Scrolling names • Crew listed",
    "hints": [
     {
      "text": "Film ending",
@@ -2112,6 +2174,7 @@
   },
   {
    "word": "Dubbing",
+   "description": "Voice replacement • Language swap • Foreign releases • Mismatched lips • Recorded voices • Studio booth",
    "hints": [
     {
      "text": "Voice replacement",
@@ -2146,6 +2209,7 @@
   },
   {
    "word": "Silent film",
+   "description": "Old movie • Early cinema • Piano accompaniment • Title cards • Black and white • No dialogue",
    "hints": [
     {
      "text": "Old movie",
@@ -2180,6 +2244,7 @@
   },
   {
    "word": "Monochrome",
+   "description": "Old film style • Grayscale • Classic cinema • Noir mood • Grey tones • No color",
    "hints": [
     {
      "text": "Old film style",
@@ -2214,6 +2279,7 @@
   },
   {
    "word": "Film noir",
+   "description": "Movie style • Dark crime genre • Detectives and femme fatales • Rainy streets • Shadows and smoke • Trench coats",
    "hints": [
     {
      "text": "Movie style",
@@ -2248,6 +2314,7 @@
   },
   {
    "word": "Mockumentary",
+   "description": "Comedy style • Fake documentary • Talking heads • Deadpan humor • Shaky camera • Interviews",
    "hints": [
     {
      "text": "Comedy style",
@@ -2282,6 +2349,7 @@
   },
   {
    "word": "Parody",
+   "description": "Comedy style • Spoof • Mocks famous films • Silly jokes • Exaggerated copy • Pop culture gags",
    "hints": [
     {
      "text": "Comedy style",
@@ -2316,6 +2384,7 @@
   },
   {
    "word": "Biopic",
+   "description": "Film genre • Life story • Real person portrayed • Award bait • Makeup transformations • Based on facts",
    "hints": [
     {
      "text": "Film genre",
@@ -2350,6 +2419,7 @@
   },
   {
    "word": "Epic",
+   "description": "Film style • Grand scale • Long runtime • Thousands of extras • Sweeping battles • Historical sagas",
    "hints": [
     {
      "text": "Film style",
@@ -2384,6 +2454,7 @@
   },
   {
    "word": "Musical number",
+   "description": "Film moment • Song sequence • Everyone dances • Showstopper • Choreography • Catchy tune",
    "hints": [
     {
      "text": "Film moment",
@@ -2418,6 +2489,7 @@
   },
   {
    "word": "Love triangle",
+   "description": "Story trope • Romantic rivalry • Two suitors • Choose one • Jealousy • Heartbreak",
    "hints": [
     {
      "text": "Story trope",
@@ -2452,6 +2524,7 @@
   },
   {
    "word": "Chosen one",
+   "description": "Story trope • Destined hero • Prophecy foretold • Reluctant start • Special mark • Saves the world",
    "hints": [
     {
      "text": "Story trope",
@@ -2486,6 +2559,7 @@
   },
   {
    "word": "Mentor",
+   "description": "Story role • Wise guide • Trains the hero • Often dies • Old and wise • Gives advice",
    "hints": [
     {
      "text": "Story role",
@@ -2520,6 +2594,7 @@
   },
   {
    "word": "Training montage",
+   "description": "Story sequence • Improvement scenes • Underdog prepares • Pumping music • Push ups and running • Quick cuts",
    "hints": [
     {
      "text": "Story sequence",
@@ -2554,6 +2629,7 @@
   },
   {
    "word": "Final battle",
+   "description": "Story climax • Showdown • Hero faces villain • Everything at stake • Epic fight • Last stand",
    "hints": [
     {
      "text": "Story climax",
@@ -2588,6 +2664,7 @@
   },
   {
    "word": "Happy ending",
+   "description": "Story conclusion • Feel good finish • Couple reunites • Credits roll smiling • Celebrations • Everything resolved",
    "hints": [
     {
      "text": "Story conclusion",
@@ -2622,6 +2699,7 @@
   },
   {
    "word": "Car chase",
+   "description": "Action scene • Pursuit • Screeching tires • Police sirens • Crashing through markets • Wrong way driving",
    "hints": [
     {
      "text": "Action scene",
@@ -2656,6 +2734,7 @@
   },
   {
    "word": "Explosion",
+   "description": "Action effect • Big blast • Hero walks away • Slow motion fireball • Fire and debris • Loud boom",
    "hints": [
     {
      "text": "Action effect",
@@ -2690,6 +2769,7 @@
   },
   {
    "word": "Shootout",
+   "description": "Action scene • Gunfight • Western duels • Crime films • Bullets flying • Taking cover",
    "hints": [
     {
      "text": "Action scene",
@@ -2724,6 +2804,7 @@
   },
   {
    "word": "Sword fight",
+   "description": "Action scene • Duel • Pirates and knights • Clashing blades • Fencing moves • Sparks fly",
    "hints": [
     {
      "text": "Action scene",
@@ -2758,6 +2839,7 @@
   },
   {
    "word": "Kung fu",
+   "description": "Martial arts film • Action genre • Training masters • Flying kicks • Dubbed dialogue • Bamboo sets",
    "hints": [
     {
      "text": "Martial arts film",
@@ -2792,6 +2874,7 @@
   },
   {
    "word": "Samurai film",
+   "description": "Japanese genre • Sword epic • Honor and duty • Masterless warriors • Katana duels • Feudal villages",
    "hints": [
     {
      "text": "Japanese genre",
@@ -2826,6 +2909,7 @@
   },
   {
    "word": "Spy movie",
+   "description": "Film genre • Espionage thriller • Secret agents • Gadgets • Tuxedos and martinis • Double agents",
    "hints": [
     {
      "text": "Film genre",
@@ -2860,6 +2944,7 @@
   },
   {
    "word": "Monster movie",
+   "description": "Film genre • Creature feature • Giant beasts • Cities destroyed • Rampaging lizard • Screaming crowds",
    "hints": [
     {
      "text": "Film genre",
@@ -2894,6 +2979,7 @@
   },
   {
    "word": "Pirate movie",
+   "description": "Film genre • High seas adventure • Treasure maps • Sword fights • Eye patches • Skull flags",
    "hints": [
     {
      "text": "Film genre",
@@ -2928,6 +3014,7 @@
   },
   {
    "word": "Dinosaur movie",
+   "description": "Film genre • Prehistoric adventure • Theme park disaster • Roaring beasts • Raptors chase • Fossils come alive",
    "hints": [
     {
      "text": "Film genre",
@@ -2962,6 +3049,7 @@
   },
   {
    "word": "Space opera",
+   "description": "Film genre • Galactic epic • Star empires • Laser swords • Rebels and empires • Starships",
    "hints": [
     {
      "text": "Film genre",
@@ -2996,6 +3084,7 @@
   },
   {
    "word": "Fairy tale",
+   "description": "Story type • Classic fable • Once upon a time • Bedtime stories • Princesses and witches • Magic spells",
    "hints": [
     {
      "text": "Story type",
@@ -3030,6 +3119,7 @@
   },
   {
    "word": "Teen movie",
+   "description": "Film genre • High school story • Prom night • Popular cliques • Lockers and cafeterias • First crush",
    "hints": [
     {
      "text": "Film genre",
@@ -3064,6 +3154,7 @@
   },
   {
    "word": "Sports movie",
+   "description": "Film genre • Underdog story • Big game finale • Locker room speeches • Training scenes • Comeback victory",
    "hints": [
     {
      "text": "Film genre",
@@ -3098,6 +3189,7 @@
   },
   {
    "word": "Courtroom drama",
+   "description": "Film genre • Legal story • Objection your honor • Shocking testimony • Judge and jury • Closing argument",
    "hints": [
     {
      "text": "Film genre",
@@ -3132,6 +3224,7 @@
   },
   {
    "word": "Disaster film",
+   "description": "Movie genre • Catastrophe story • Tsunamis and twisters • Survival race • Crumbling cities • Heroic scientists",
    "hints": [
     {
      "text": "Movie genre",
@@ -3166,6 +3259,7 @@
   },
   {
    "word": "Martial arts",
+   "description": "Fight style • Action genre • Training dojos • Belts and masters • High kicks • Choreographed fights",
    "hints": [
     {
      "text": "Fight style",
@@ -3200,6 +3294,7 @@
   },
   {
    "word": "Bollywood",
+   "description": "Film industry • Indian cinema • Song and dance • Big weddings • Colorful sets • Three hour films",
    "hints": [
     {
      "text": "Film industry",
@@ -3234,6 +3329,7 @@
   },
   {
    "word": "Hollywood",
+   "description": "Film industry • Movie capital • Studios and stars • Walk of fame • Hillside sign • Big budgets",
    "hints": [
     {
      "text": "Film industry",
@@ -3268,6 +3364,7 @@
   },
   {
    "word": "Anime",
+   "description": "Animation style • Japanese cartoons • Big expressive eyes • Fan conventions • Hand drawn action • Dubbed or subbed",
    "hints": [
     {
      "text": "Animation style",
@@ -3302,6 +3399,7 @@
   },
   {
    "word": "Cartoon",
+   "description": "Animation • Kids show • Saturday mornings • Talking animals • Bright colors • Slapstick gags",
    "hints": [
     {
      "text": "Animation",
@@ -3336,6 +3434,7 @@
   },
   {
    "word": "Sitcom",
+   "description": "Television genre • Comedy series • Laugh track • Family living room • Episodes • Catchphrases",
    "hints": [
     {
      "text": "Television genre",
@@ -3370,6 +3469,7 @@
   },
   {
    "word": "Soap opera",
+   "description": "Television genre • Daily drama • Evil twins • Dramatic slaps • Long running • Cliffhanger episodes",
    "hints": [
     {
      "text": "Television genre",
@@ -3404,6 +3504,7 @@
   },
   {
    "word": "Reality show",
+   "description": "Television genre • Unscripted series • Contestants voted off • Confessionals • Hidden cameras • Drama queens",
    "hints": [
     {
      "text": "Television genre",
@@ -3438,6 +3539,7 @@
   },
   {
    "word": "Game show",
+   "description": "Television genre • Quiz program • Contestants win prizes • Studio audience • Buzzers • Host with cards",
    "hints": [
     {
      "text": "Television genre",
@@ -3472,6 +3574,7 @@
   },
   {
    "word": "Talk show",
+   "description": "Television genre • Interview program • Celebrity guests • Late night • Desk and couch • House band",
    "hints": [
     {
      "text": "Television genre",
@@ -3506,6 +3609,7 @@
   },
   {
    "word": "Binge watch",
+   "description": "Viewing habit • Marathon viewing • Whole season overnight • Next episode autoplay • Couch and snacks • Streaming",
    "hints": [
     {
      "text": "Viewing habit",
@@ -3540,6 +3644,7 @@
   },
   {
    "word": "Video streaming",
+   "description": "Online platform • Monthly subscription • Binge worthy shows • Monthly fee • Recommendations • Skip intro",
    "hints": [
     {
      "text": "Online platform",
@@ -3574,6 +3679,7 @@
   },
   {
    "word": "Movie night",
+   "description": "Social event • Home cinema • Friends and popcorn • Pick a film • Dim lights • Blankets",
    "hints": [
     {
      "text": "Social event",
@@ -3608,6 +3714,7 @@
   },
   {
    "word": "Usher",
+   "description": "Cinema worker • Seat guide • Flashlight in aisles • Checks tickets • Uniform • Shushes talkers",
    "hints": [
     {
      "text": "Cinema worker",
@@ -3642,6 +3749,7 @@
   },
   {
    "word": "Projector",
+   "description": "Cinema machine • Light beam • Film reels • Booth upstairs • Bright beam • Whirring",
    "hints": [
     {
      "text": "Cinema machine",
@@ -3676,6 +3784,7 @@
   },
   {
    "word": "Movie poster",
+   "description": "Promotional art • Film advert • Hung in lobbies • Collectibles • Tagline and title • Star faces",
    "hints": [
     {
      "text": "Promotional art",
@@ -3710,6 +3819,7 @@
   },
   {
    "word": "Ticket stub",
+   "description": "Cinema keepsake • Admission slip • Saved in wallets • Torn at entry • Seat number • Showtime printed",
    "hints": [
     {
      "text": "Cinema keepsake",
@@ -3744,6 +3854,7 @@
   },
   {
    "word": "Movie glasses",
+   "description": "Cinema accessory • Viewing gear • Things pop out • Cardboard or plastic • Tinted lenses • Depth effect",
    "hints": [
     {
      "text": "Cinema accessory",
@@ -3778,6 +3889,7 @@
   },
   {
    "word": "Extended cut",
+   "description": "Movie version • Longer edition • Deleted scenes restored • Collectors buy • Longer runtime • Original vision",
    "hints": [
     {
      "text": "Movie version",
@@ -3812,6 +3924,7 @@
   },
   {
    "word": "Blooper",
+   "description": "Filming mistake • Outtake • Shown during credits • Funny flubs • Forgotten lines • Giggling actors",
    "hints": [
     {
      "text": "Filming mistake",
@@ -3846,6 +3959,7 @@
   },
   {
    "word": "Box set",
+   "description": "Collector item • Complete series • Gift for fans • Shelf display • Many discs • Special packaging",
    "hints": [
     {
      "text": "Collector item",
@@ -3880,6 +3994,7 @@
   },
   {
    "word": "Costume designer",
+   "description": "Film crew role • Wardrobe creator • Period outfits • Sketches clothes • Fabric choices • Fittings",
    "hints": [
     {
      "text": "Film crew role",
@@ -3914,6 +4029,7 @@
   },
   {
    "word": "Screenwriter",
+   "description": "Movie author • Script author • Writes dialogue • Rewrites drafts • Typing scripts • Plot outlines",
    "hints": [
     {
      "text": "Movie author",
@@ -3948,6 +4064,7 @@
   },
   {
    "word": "Movie star",
+   "description": "Famous actor • Celebrity • Red carpets • Paparazzi chase • Autographs • Big salary",
    "hints": [
     {
      "text": "Famous actor",
@@ -3982,6 +4099,7 @@
   },
   {
    "word": "Award show",
+   "description": "Ceremony • Film honors • Speeches and envelopes • Glamorous outfits • Golden statues • Host jokes",
    "hints": [
     {
      "text": "Ceremony",
@@ -4016,6 +4134,7 @@
   },
   {
    "word": "Indie film",
+   "description": "Small movie • Independent cinema • Festival favorite • Low budget • Quirky characters • Handheld camera",
    "hints": [
     {
      "text": "Small movie",
@@ -4050,6 +4169,7 @@
   },
   {
    "word": "Short film",
+   "description": "Brief movie • Mini feature • Student projects • Festival category • Under half hour • Tight story",
    "hints": [
     {
      "text": "Brief movie",
@@ -4084,6 +4204,7 @@
   },
   {
    "word": "Feature film",
+   "description": "Full length movie • Main picture • Theater release • Two hours • Opening credits • Three acts",
    "hints": [
     {
      "text": "Full length movie",
@@ -4118,6 +4239,7 @@
   },
   {
    "word": "Horror villain",
+   "description": "Scary antagonist • Slasher figure • Masked killer • Never stays down • Creepy mask • Heavy breathing",
    "hints": [
     {
      "text": "Scary antagonist",
@@ -4152,6 +4274,7 @@
   },
   {
    "word": "Jump scare",
+   "description": "Horror trick • Sudden fright • Loud bang • Audience screams • Quiet build up • Something leaps out",
    "hints": [
     {
      "text": "Horror trick",
@@ -4186,6 +4309,7 @@
   },
   {
    "word": "Haunted doll",
+   "description": "Horror prop • Creepy toy • Moves at night • Cursed object • Porcelain face • Glassy eyes",
    "hints": [
     {
      "text": "Horror prop",
@@ -4220,6 +4344,7 @@
   },
   {
    "word": "Found footage",
+   "description": "Horror style • Shaky camera • Lost tapes • Night vision • Handheld recording • Missing filmmakers",
    "hints": [
     {
      "text": "Horror style",
@@ -4254,6 +4379,7 @@
   },
   {
    "word": "Slasher",
+   "description": "Horror subgenre • Masked killer film • Teens at camp • Final girl • Knife wielding • Sequel heavy",
    "hints": [
     {
      "text": "Horror subgenre",
@@ -4288,6 +4414,7 @@
   },
   {
    "word": "Ghost story",
+   "description": "Spooky tale • Haunting plot • Told around campfires • Restless spirits • Old mansions • Whispering voices",
    "hints": [
     {
      "text": "Spooky tale",
@@ -4322,6 +4449,7 @@
   },
   {
    "word": "Love story",
+   "description": "Romance tale • Heartfelt plot • Doomed couples • Tear jerker • Grand gestures • Rain kisses",
    "hints": [
     {
      "text": "Romance tale",
@@ -4356,6 +4484,7 @@
   },
   {
    "word": "Tragedy",
+   "description": "Story type • Sad ending • Shakespeare classics • Heartbreak • Fatal flaw • Downfall",
    "hints": [
     {
      "text": "Story type",
@@ -4390,6 +4519,7 @@
   },
   {
    "word": "Satire",
+   "description": "Comedy style • Social mockery • Political humor • Biting wit • Exaggeration • Irony",
    "hints": [
     {
      "text": "Comedy style",
@@ -4424,6 +4554,7 @@
   },
   {
    "word": "Slapstick",
+   "description": "Comedy style • Physical humor • Pies in face • Silent era • Pratfalls • Banana peels",
    "hints": [
     {
      "text": "Comedy style",
@@ -4458,6 +4589,7 @@
   },
   {
    "word": "Underdog",
+   "description": "Story trope • Unlikely hero • Nobody believes in them • Big comeback • Long odds • Triumph",
    "hints": [
     {
      "text": "Story trope",
@@ -4492,6 +4624,7 @@
   },
   {
    "word": "Buddy cop",
+   "description": "Movie trope • Mismatched partners • Odd couple detectives • Wisecracks • Two partners • Car banter",
    "hints": [
     {
      "text": "Movie trope",
@@ -4526,6 +4659,7 @@
   },
   {
    "word": "Femme fatale",
+   "description": "Noir trope • Dangerous woman • Seduces the detective • Mysterious past • Red lipstick • Smoky glances",
    "hints": [
     {
      "text": "Noir trope",
@@ -4560,6 +4694,7 @@
   },
   {
    "word": "Mad scientist",
+   "description": "Movie trope • Crazy inventor • Evil experiments • Lightning lab • Wild white hair • Bubbling beakers",
    "hints": [
     {
      "text": "Movie trope",
@@ -4594,6 +4729,7 @@
   },
   {
    "word": "Evil twin",
+   "description": "Story trope • Sinister double • Soap opera twist • Mistaken identity • Identical face • Secret sibling",
    "hints": [
     {
      "text": "Story trope",
@@ -4628,6 +4764,7 @@
   },
   {
    "word": "Last stand",
+   "description": "Story climax • Final defense • Heroes outnumbered • Defend the fort • Barricades • Brave sacrifice",
    "hints": [
     {
      "text": "Story climax",
@@ -4662,6 +4799,7 @@
   },
   {
    "word": "Damsel",
+   "description": "Story trope • Rescued character • Tied to tracks • Tower captive • Waits for rescue • Classic trope",
    "hints": [
     {
      "text": "Story trope",
@@ -4696,6 +4834,7 @@
   },
   {
    "word": "Princess",
+   "description": "Royal character • Fairy tale lead • Castles and balls • Tiara • Ballgown • Royal title",
    "hints": [
     {
      "text": "Royal character",
@@ -4730,6 +4869,7 @@
   },
   {
    "word": "Treasure map",
+   "description": "Adventure prop • Pirate chart • Marked with an x • Buried gold • Old parchment • Dotted path",
    "hints": [
     {
      "text": "Adventure prop",
@@ -4764,6 +4904,7 @@
   },
   {
    "word": "Secret agent",
+   "description": "Spy character • Undercover operative • Gadgets and disguises • License to act • Earpiece • Sunglasses",
    "hints": [
     {
      "text": "Spy character",
@@ -4798,6 +4939,7 @@
   },
   {
    "word": "Time loop",
+   "description": "Movie theme • Repeating day • Wakes up again • Same day repeats • Alarm clock reset • Endless repetition",
    "hints": [
     {
      "text": "Movie theme",
@@ -4832,6 +4974,7 @@
   },
   {
    "word": "Multiverse",
+   "description": "Movie theme • Alternate world • Other versions of you • Portal travel • Mirror worlds • Infinite versions",
    "hints": [
     {
      "text": "Movie theme",
@@ -4866,6 +5009,7 @@
   },
   {
    "word": "Dream sequence",
+   "description": "Film device • Surreal scene • Wakes up shocked • Floaty visuals • Hazy edges • Impossible events",
    "hints": [
     {
      "text": "Film device",
@@ -4900,6 +5044,7 @@
   },
   {
    "word": "Cyborg",
+   "description": "Science fiction figure • Machine human • Robotic limbs • Future cops • Glowing eye • Metal parts",
    "hints": [
     {
      "text": "Science fiction figure",
@@ -4934,6 +5079,7 @@
   },
   {
    "word": "Post apocalyptic",
+   "description": "Movie setting • Ruined world • Survivors scavenge • Wastelands • Rusty vehicles • Gas masks",
    "hints": [
     {
      "text": "Movie setting",
@@ -4968,6 +5114,7 @@
   },
   {
    "word": "Dystopia",
+   "description": "Movie setting • Oppressive future • Rebels rise • Controlled society • Surveillance • Grey uniforms",
    "hints": [
     {
      "text": "Movie setting",
@@ -5002,6 +5149,7 @@
   },
   {
    "word": "Ensemble cast",
+   "description": "Film style • Many stars • Interwoven stories • Big posters • Dozens of actors • Equal billing",
    "hints": [
     {
      "text": "Film style",
@@ -5036,6 +5184,7 @@
   },
   {
    "word": "Antihero",
+   "description": "Story role • Flawed protagonist • Morally grey • Fans love them • Breaks rules • Reluctant savior",
    "hints": [
     {
      "text": "Story role",
@@ -5070,6 +5219,7 @@
   },
   {
    "word": "Henchman",
+   "description": "Movie role • Villain helper • Easily defeated • Matching uniforms • Hired muscle • Falls first",
    "hints": [
     {
      "text": "Movie role",
@@ -5104,6 +5254,7 @@
   },
   {
    "word": "Bodyguard",
+   "description": "Movie role • Protector • Shields the star • Sunglasses indoors • Earpiece • Stern face",
    "hints": [
     {
      "text": "Movie role",
@@ -5138,6 +5289,7 @@
   },
   {
    "word": "Chase scene",
+   "description": "Action sequence • Pursuit • Rooftop runs • Market stalls toppled • Running and jumping • Heart pounding",
    "hints": [
     {
      "text": "Action sequence",
@@ -5172,6 +5324,7 @@
   },
   {
    "word": "Opening scene",
+   "description": "Story start • First moments • Hooks the audience • Sets the tone • Establishing shot • Title card",
    "hints": [
     {
      "text": "Story start",

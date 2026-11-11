@@ -14,6 +14,23 @@ class SupabaseGameService {
     return (res as Map)['session_id'].toString();
   }
 
+  /// Host starts the clue round. Returns 'needs_confirm' when some players
+  /// have not seen their word yet and [force] is false.
+  Future<({String status, int waiting})> startClueRound(String sessionId, {bool force = false}) async {
+    final res = await client.rpc('start_clue_round', params: {'p_session_id': sessionId, 'p_force': force}).timeout(rpcTimeout);
+    final j = Map<String, dynamic>.from(res as Map);
+    return (status: j['status'].toString(), waiting: (j['waiting'] as num?)?.toInt() ?? 0);
+  }
+
+  Future<void> startDiscussion(String sessionId) async {
+    await client.rpc('start_discussion', params: {'p_session_id': sessionId}).timeout(rpcTimeout);
+  }
+
+  /// Records that this player really looked at their word.
+  Future<void> ackWordViewed(String sessionId) async {
+    await client.rpc('ack_word_viewed', params: {'p_session_id': sessionId}).timeout(rpcTimeout);
+  }
+
   Future<String> startNextRound(String roomId) async {
     final res = await client.rpc('start_next_round', params: {'p_room_id': roomId}).timeout(rpcTimeout);
     return (res as Map)['session_id'].toString();

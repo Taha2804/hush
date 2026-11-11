@@ -4,6 +4,7 @@
  "words": [
   {
    "word": "Eiffel Tower",
+   "description": "Famous structure • Parisian icon • Lit up at night • Romantic proposals • Iron lattice • Built for a fair",
    "hints": [
     {
      "text": "Famous structure",
@@ -38,6 +39,7 @@
   },
   {
    "word": "Taj Mahal",
+   "description": "Famous monument • Asian wonder • Symbol of love • Mughal emperor • White marble mausoleum • Reflecting pool",
    "hints": [
     {
      "text": "Famous monument",
@@ -72,6 +74,7 @@
   },
   {
    "word": "Great Wall",
+   "description": "Ancient structure • Asian wonder • Ancient defense • Visible from orbit myth • Winding stone ramparts • Watchtowers",
    "hints": [
     {
      "text": "Ancient structure",
@@ -106,6 +109,7 @@
   },
   {
    "word": "Colosseum",
+   "description": "Ancient arena • European ruin • Gladiator fights • Ancient empire • Crumbling oval walls • Arches in tiers",
    "hints": [
     {
      "text": "Ancient arena",
@@ -140,6 +144,7 @@
   },
   {
    "word": "Lady Liberty",
+   "description": "Famous statue • American icon • Welcomes immigrants • Harbor island • Green copper • Raised torch",
    "hints": [
     {
      "text": "Famous statue",
@@ -174,6 +179,7 @@
   },
   {
    "word": "Big Ben",
+   "description": "Famous clock • British icon • Chimes on the hour • Parliament neighbor • Gothic clock tower • Huge bell",
    "hints": [
     {
      "text": "Famous clock",
@@ -208,6 +214,7 @@
   },
   {
    "word": "Pyramids",
+   "description": "Ancient tombs • Desert wonder • Pharaohs buried inside • Built by thousands • Triangular stone blocks • Sand surroundings",
    "hints": [
     {
      "text": "Ancient tombs",
@@ -242,6 +249,7 @@
   },
   {
    "word": "Sphinx",
+   "description": "Ancient statue • Desert guardian • Missing nose • Riddle legend • Lion body • Human head",
    "hints": [
     {
      "text": "Ancient statue",
@@ -276,6 +284,7 @@
   },
   {
    "word": "Machu Picchu",
+   "description": "Ancient citadel • Mountain ruins • Inca empire • Hiking trail • Terraced stone • Clouds and llamas",
    "hints": [
     {
      "text": "Ancient citadel",
@@ -310,6 +319,7 @@
   },
   {
    "word": "Petra",
+   "description": "Ancient city • Desert ruins • Carved into cliffs • Movie location • Rose colored rock • Treasury facade",
    "hints": [
     {
      "text": "Ancient city",
@@ -344,6 +354,7 @@
   },
   {
    "word": "Angkor Wat",
+   "description": "Temple complex • Asian ruins • Largest religious site • Sunrise views • Lotus shaped towers • Jungle setting",
    "hints": [
     {
      "text": "Temple complex",
@@ -378,6 +389,7 @@
   },
   {
    "word": "Stonehenge",
+   "description": "Ancient monument • Prehistoric site • Mysterious purpose • Solstice gatherings • Giant standing megaliths • Grassy plain",
    "hints": [
     {
      "text": "Ancient monument",
@@ -412,6 +424,7 @@
   },
   {
    "word": "Everest",
+   "description": "Highest peak • Himalayan giant • Climbers risk lives • Base camp • Snowy summit • Sherpa guides",
    "hints": [
     {
      "text": "Highest peak",
@@ -446,6 +459,7 @@
   },
   {
    "word": "Fuji",
+   "description": "Volcanic peak • Asian icon • Climbed in summer • Woodblock prints • Snow capped cone • Cherry blossoms foreground",
    "hints": [
     {
      "text": "Volcanic peak",
@@ -480,6 +494,7 @@
   },
   {
    "word": "Grand Canyon",
+   "description": "Natural wonder • Desert gorge • Carved by a river • Mule rides • Red rock layers • Deep chasm",
    "hints": [
     {
      "text": "Natural wonder",
@@ -514,6 +529,7 @@
   },
   {
    "word": "Niagara Falls",
+   "description": "Natural wonder • Giant cascade • Honeymoon spot • Boat tours • Thundering water • Rainbow mist",
    "hints": [
     {
      "text": "Natural wonder",
@@ -548,6 +564,7 @@
   },
   {
    "word": "Golden Gate",
+   "description": "Famous bridge • American icon • Foggy mornings • Bay crossing • Red suspension cables • Art deco towers",
    "hints": [
     {
      "text": "Famous bridge",
@@ -582,6 +599,7 @@
   },
   {
    "word": "Opera House",
+   "description": "Famous building • Harbor icon • Concert venue • New year fireworks • Sail shaped roofs • White tiles",
    "hints": [
     {
      "text": "Famous building",
@@ -616,6 +634,7 @@
   },
   {
    "word": "Burj Khalifa",
+   "description": "Tallest building • Desert skyscraper • Record breaker • Fountain shows • Needle spire • Glass facade",
    "hints": [
     {
      "text": "Tallest building",
@@ -650,6 +669,7 @@
   },
   {
    "word": "Leaning Tower",
+   "description": "Famous campanile • Italian icon • Tourists pretend to push • Pisa landmark • Slanted marble • Cylindrical tiers",
    "hints": [
     {
      "text": "Famous campanile",
@@ -684,6 +704,7 @@
   },
   {
    "word": "Acropolis",
+   "description": "Ancient citadel • Greek ruins • Birthplace of democracy • Hilltop temple • Marble columns • Rocky outcrop",
    "hints": [
     {
      "text": "Ancient citadel",
@@ -718,6 +739,7 @@
   },
   {
    "word": "Parthenon",
+   "description": "Ancient temple • Greek ruin • Dedicated to a goddess • Hilltop site • Doric columns • Marble pediment",
    "hints": [
     {
      "text": "Ancient temple",
@@ -752,6 +774,7 @@
   },
   {
    "word": "Christ Redeemer",
+   "description": "Famous statue • Mountain monument • Overlooks a beach city • New wonder • Outstretched arms • Hilltop",
    "hints": [
     {
      "text": "Famous statue",
@@ -786,6 +809,7 @@
   },
   {
    "word": "Mount Rushmore",
+   "description": "Famous carving • Granite monument • Four leaders carved • Road trip stop • Giant stone faces • Cliffside sculpture",
    "hints": [
     {
      "text": "Famous carving",
@@ -820,6 +844,7 @@
   },
   {
    "word": "Kremlin",
+   "description": "Fortress complex • Government seat • Red walls • Political power • Onion domes nearby • Star topped towers",
    "hints": [
     {
      "text": "Fortress complex",
@@ -854,6 +879,7 @@
   },
   {
    "word": "Forbidden City",
+   "description": "Imperial palace • Asian complex • Emperors lived there • Off limits once • Red walls • Golden roofs",
    "hints": [
     {
      "text": "Imperial palace",
@@ -888,6 +914,7 @@
   },
   {
    "word": "Versailles",
+   "description": "Royal palace • European chateau • Hall of mirrors • Lavish gardens • Gilded rooms • Fountains",
    "hints": [
     {
      "text": "Royal palace",
@@ -922,6 +949,7 @@
   },
   {
    "word": "Louvre",
+   "description": "Famous museum • Art palace • Smiling portrait inside • Huge collection • Glass pyramid entrance • Former palace",
    "hints": [
     {
      "text": "Famous museum",
@@ -956,6 +984,7 @@
   },
   {
    "word": "Buckingham",
+   "description": "Royal residence • British icon • Changing of the guard • Royal balcony • Fur hats on guards • Grand gates",
    "hints": [
     {
      "text": "Royal residence",
@@ -990,6 +1019,7 @@
   },
   {
    "word": "Tower Bridge",
+   "description": "Famous crossing • River landmark • Opens for ships • Victorian design • Twin turrets • Blue walkways",
    "hints": [
     {
      "text": "Famous crossing",
@@ -1024,6 +1054,7 @@
   },
   {
    "word": "London Eye",
+   "description": "Observation wheel • Riverside attraction • Views over the city • Glass pods • Giant ferris wheel • Slow rotation",
    "hints": [
     {
      "text": "Observation wheel",
@@ -1058,6 +1089,7 @@
   },
   {
    "word": "Times Square",
+   "description": "Famous plaza • City crossroads • New year ball drop • Broadway shows • Giant billboards • Neon lights",
    "hints": [
     {
      "text": "Famous plaza",
@@ -1092,6 +1124,7 @@
   },
   {
    "word": "Central Park",
+   "description": "Urban oasis • City greenery • Picnics and jogging • Movie scenes • Lakes and paths • Horse carriages",
    "hints": [
     {
      "text": "Urban oasis",
@@ -1126,6 +1159,7 @@
   },
   {
    "word": "Empire State",
+   "description": "Famous skyscraper • Art deco tower • Movie ape climbed it • Observation deck • Spire on top • Limestone facade",
    "hints": [
     {
      "text": "Famous skyscraper",
@@ -1160,6 +1194,7 @@
   },
   {
    "word": "Hollywood Sign",
+   "description": "Hillside landmark • Film icon • Movie capital symbol • Photo spot • Giant white lettering • Dry hills",
    "hints": [
     {
      "text": "Hillside landmark",
@@ -1194,6 +1229,7 @@
   },
   {
    "word": "Space Needle",
+   "description": "Observation tower • Futuristic landmark • World fair legacy • Rainy city icon • Saucer top • Slim legs",
    "hints": [
     {
      "text": "Observation tower",
@@ -1228,6 +1264,7 @@
   },
   {
    "word": "CN Tower",
+   "description": "Observation spire • Canadian landmark • Glass floor • Edge walk • Concrete spike • Revolving restaurant",
    "hints": [
     {
      "text": "Observation spire",
@@ -1262,6 +1299,7 @@
   },
   {
    "word": "White House",
+   "description": "Government residence • Presidential home • Press briefings • Oval office • Pale columns • South lawn",
    "hints": [
     {
      "text": "Government residence",
@@ -1296,6 +1334,7 @@
   },
   {
    "word": "Lincoln Memorial",
+   "description": "American monument • Washington landmark • Famous speeches • Reflecting pool • Seated marble figure • Greek columns",
    "hints": [
     {
      "text": "American monument",
@@ -1330,6 +1369,7 @@
   },
   {
    "word": "Alcatraz",
+   "description": "Former prison • Island landmark • Escape legends • Ferry tours • Rocky island • Cell blocks",
    "hints": [
     {
      "text": "Former prison",
@@ -1364,6 +1404,7 @@
   },
   {
    "word": "Brooklyn Bridge",
+   "description": "Famous crossing • American icon • Walk across at sunset • Historic engineering • Stone arches • Cable web",
    "hints": [
     {
      "text": "Famous crossing",
@@ -1398,6 +1439,7 @@
   },
   {
    "word": "Gateway Arch",
+   "description": "Steel monument • American landmark • Pioneer symbol • Tram to top • Stainless curve • Riverside",
    "hints": [
     {
      "text": "Steel monument",
@@ -1432,6 +1474,7 @@
   },
   {
    "word": "Hoover Dam",
+   "description": "Engineering feat • Desert barrier • Hydroelectric power • Huge reservoir • Concrete wall • Canyon setting",
    "hints": [
     {
      "text": "Engineering feat",
@@ -1466,6 +1509,7 @@
   },
   {
    "word": "Panama Canal",
+   "description": "Engineering feat • Shipping route • Connects two oceans • Lock system • Ships lifted • Narrow passage",
    "hints": [
     {
      "text": "Engineering feat",
@@ -1500,6 +1544,7 @@
   },
   {
    "word": "Suez Canal",
+   "description": "Shipping route • Desert waterway • Shortcut between continents • Container ships • Sandy banks • No locks",
    "hints": [
     {
      "text": "Shipping route",
@@ -1534,6 +1579,7 @@
   },
   {
    "word": "Red Fort",
+   "description": "Historic citadel • Mughal stronghold • Independence speeches • Old city landmark • Sandstone walls • Lahori gate",
    "hints": [
     {
      "text": "Historic citadel",
@@ -1568,6 +1614,7 @@
   },
   {
    "word": "Qutub Minar",
+   "description": "Historic tower • Ancient brick spire • Sultanate era • World heritage site • Fluted red tower • Carved inscriptions",
    "hints": [
     {
      "text": "Historic tower",
@@ -1602,6 +1649,7 @@
   },
   {
    "word": "India Gate",
+   "description": "War memorial • Ceremonial arch • Parade route • Eternal flame • Sandstone arch • Lawns around",
    "hints": [
     {
      "text": "War memorial",
@@ -1636,6 +1684,7 @@
   },
   {
    "word": "Hawa Mahal",
+   "description": "Palace • Pink city landmark • Royal women watched streets • Honeycomb facade • Hundreds of tiny windows • Pink sandstone",
    "hints": [
     {
      "text": "Palace",
@@ -1670,6 +1719,7 @@
   },
   {
    "word": "Golden Temple",
+   "description": "Sacred shrine • Sikh landmark • Free community kitchen • Pilgrims • Gilded dome • Holy pool",
    "hints": [
     {
      "text": "Sacred shrine",
@@ -1704,6 +1754,7 @@
   },
   {
    "word": "Lotus Temple",
+   "description": "Modern shrine • Flower shaped building • Open to all faiths • Silent prayers • White petals • Reflecting pools",
    "hints": [
     {
      "text": "Modern shrine",
@@ -1738,6 +1789,7 @@
   },
   {
    "word": "Charminar",
+   "description": "Historic monument • Four minarets • Old city bazaars • Pearl markets • Square arch structure • Four towers",
    "hints": [
     {
      "text": "Historic monument",
@@ -1772,6 +1824,7 @@
   },
   {
    "word": "Mysore Palace",
+   "description": "Royal residence • Southern landmark • Festival illuminations • Royal family • Domes and arches • Golden throne",
    "hints": [
     {
      "text": "Royal residence",
@@ -1806,6 +1859,7 @@
   },
   {
    "word": "Ajanta",
+   "description": "Ancient caves • Rock cut monasteries • Buddhist paintings • World heritage • Carved cliffs • Frescoes",
    "hints": [
     {
      "text": "Ancient caves",
@@ -1840,6 +1894,7 @@
   },
   {
    "word": "Ellora",
+   "description": "Ancient caves • Rock temples • Carved from one rock • Many faiths • Kailasa shrine • Cliff face",
    "hints": [
     {
      "text": "Ancient caves",
@@ -1874,6 +1929,7 @@
   },
   {
    "word": "Konark",
+   "description": "Sun temple • Chariot shaped shrine • Ancient eastern temple • World heritage • Giant stone wheels • Horse carvings",
    "hints": [
     {
      "text": "Sun temple",
@@ -1908,6 +1964,7 @@
   },
   {
    "word": "Hampi",
+   "description": "Ruined city • Ancient empire capital • Boulder landscapes • Backpacker favorite • Stone chariot • Temple ruins",
    "hints": [
     {
      "text": "Ruined city",
@@ -1942,6 +1999,7 @@
   },
   {
    "word": "Khajuraho",
+   "description": "Temple group • Medieval shrines • World heritage • Intricate carvings • Sandstone spires • Sculpted figures",
    "hints": [
     {
      "text": "Temple group",
@@ -1976,6 +2034,7 @@
   },
   {
    "word": "Brandenburg Gate",
+   "description": "Historic portal • German landmark • Reunification symbol • New year parties • Sandstone columns • Chariot on top",
    "hints": [
     {
      "text": "Historic portal",
@@ -2010,6 +2069,7 @@
   },
   {
    "word": "Berlin Wall",
+   "description": "Historic barrier • Divided city • Torn down in protests • Graffiti art • Concrete slabs • Checkpoint",
    "hints": [
     {
      "text": "Historic barrier",
@@ -2044,6 +2104,7 @@
   },
   {
    "word": "Notre Dame",
+   "description": "Gothic cathedral • Island church • Hunchback novel • Restoration after fire • Gargoyles • Rose window",
    "hints": [
     {
      "text": "Gothic cathedral",
@@ -2078,6 +2139,7 @@
   },
   {
    "word": "Sagrada Familia",
+   "description": "Unfinished basilica • Spanish icon • Over a century building • Modernist genius • Spiky towers • Organic shapes",
    "hints": [
     {
      "text": "Unfinished basilica",
@@ -2112,6 +2174,7 @@
   },
   {
    "word": "Alhambra",
+   "description": "Moorish palace • Spanish fortress • Islamic gardens • Hilltop views • Intricate tilework • Red walls",
    "hints": [
     {
      "text": "Moorish palace",
@@ -2146,6 +2209,7 @@
   },
   {
    "word": "Neuschwanstein",
+   "description": "Fairy tale castle • German landmark • Inspired a cartoon castle • Mountain setting • White turrets • Alpine views",
    "hints": [
     {
      "text": "Fairy tale castle",
@@ -2180,6 +2244,7 @@
   },
   {
    "word": "Edinburgh Castle",
+   "description": "Hilltop fortress • Scottish landmark • Military tattoo • One o clock gun • Volcanic rock • Royal mile",
    "hints": [
     {
      "text": "Hilltop fortress",
@@ -2214,6 +2279,7 @@
   },
   {
    "word": "Westminster",
+   "description": "Gothic abbey • Royal venue • Coronations and weddings • Poets corner • Twin towers • Stained glass",
    "hints": [
     {
      "text": "Gothic abbey",
@@ -2248,6 +2314,7 @@
   },
   {
    "word": "Trevi Fountain",
+   "description": "Baroque landmark • Roman attraction • Coin tossing • Movie scene • Neptune statue • Cascading water",
    "hints": [
     {
      "text": "Baroque landmark",
@@ -2282,6 +2349,7 @@
   },
   {
    "word": "Pantheon",
+   "description": "Ancient temple • Roman building • Oldest dome • Tombs inside • Open oculus • Columned portico",
    "hints": [
     {
      "text": "Ancient temple",
@@ -2316,6 +2384,7 @@
   },
   {
    "word": "Sistine Chapel",
+   "description": "Famous ceiling • Papal sanctuary • Papal elections • Renaissance masterpiece • Frescoed creation scene • No photos",
    "hints": [
     {
      "text": "Famous ceiling",
@@ -2350,6 +2419,7 @@
   },
   {
    "word": "Duomo",
+   "description": "Cathedral • Italian landmark • Renaissance dome • Climb to the top • Red brick cupola • Marble facade",
    "hints": [
     {
      "text": "Cathedral",
@@ -2384,6 +2454,7 @@
   },
   {
    "word": "Matterhorn",
+   "description": "Famous mountain • Alpine peak • Climbers challenge • Chocolate logo • Pyramid shaped summit • Snowy",
    "hints": [
     {
      "text": "Famous mountain",
@@ -2418,6 +2489,7 @@
   },
   {
    "word": "Mont Blanc",
+   "description": "Alpine peak • Highest in west • Ski resorts • Cable car • Snowy dome • Glaciers",
    "hints": [
     {
      "text": "Alpine peak",
@@ -2452,6 +2524,7 @@
   },
   {
    "word": "Atomium",
+   "description": "Modern monument • Belgian landmark • World fair leftover • Museum inside • Giant metal spheres • Molecule shape",
    "hints": [
     {
      "text": "Modern monument",
@@ -2486,6 +2559,7 @@
   },
   {
    "word": "Little Mermaid",
+   "description": "Small statue • Harbor sculpture • Fairy tale tribute • Often vandalized • Bronze figure • On a rock",
    "hints": [
     {
      "text": "Small statue",
@@ -2520,6 +2594,7 @@
   },
   {
    "word": "Manneken Pis",
+   "description": "Tiny statue • Cheeky fountain • Dressed in costumes • Tourist magnet • Little bronze boy • Fountain",
    "hints": [
     {
      "text": "Tiny statue",
@@ -2554,6 +2629,7 @@
   },
   {
    "word": "Hagia Sophia",
+   "description": "Domed building • Historic mosque • Church then mosque • Byzantine era • Huge dome • Mosaics",
    "hints": [
     {
      "text": "Domed building",
@@ -2588,6 +2664,7 @@
   },
   {
    "word": "Blue Mosque",
+   "description": "Ottoman landmark • Turkish icon • Six minarets • Tourist visits • Cobalt tiles • Cascading domes",
    "hints": [
     {
      "text": "Ottoman landmark",
@@ -2622,6 +2699,7 @@
   },
   {
    "word": "Abu Simbel",
+   "description": "Temple complex • Desert monument • Relocated from flooding • Sun alignment • Giant seated statues • Carved cliff",
    "hints": [
     {
      "text": "Temple complex",
@@ -2656,6 +2734,7 @@
   },
   {
    "word": "Kilimanjaro",
+   "description": "Highest african peak • Volcano • Climbing trek • Snow near equator • Flat snowy summit • Savanna below",
    "hints": [
     {
      "text": "Highest african peak",
@@ -2690,6 +2769,7 @@
   },
   {
    "word": "Victoria Falls",
+   "description": "Giant waterfall • African wonder • Smoke that thunders • Devils pool • Mist clouds • Gorge",
    "hints": [
     {
      "text": "Giant waterfall",
@@ -2724,6 +2804,7 @@
   },
   {
    "word": "Table Mountain",
+   "description": "Flat topped peak • Coastal landmark • Cable car rides • Cloud blanket • Level summit • City below",
    "hints": [
     {
      "text": "Flat topped peak",
@@ -2758,6 +2839,7 @@
   },
   {
    "word": "Uluru",
+   "description": "Sacred rock • Desert monolith • Indigenous significance • Sunset colors • Red sandstone • Outback",
    "hints": [
     {
      "text": "Sacred rock",
@@ -2792,6 +2874,7 @@
   },
   {
    "word": "Barrier Reef",
+   "description": "Coral system • Marine wonder • Snorkeling trips • Visible from space • Colorful corals • Turquoise water",
    "hints": [
     {
      "text": "Coral system",
@@ -2826,6 +2909,7 @@
   },
   {
    "word": "Easter Island",
+   "description": "Remote isle • Statue site • Mysterious carvings • Pacific isolation • Giant stone heads • Moai figures",
    "hints": [
     {
      "text": "Remote isle",
@@ -2860,6 +2944,7 @@
   },
   {
    "word": "Chichen Itza",
+   "description": "Ancient pyramid • Mayan ruins • Equinox shadow serpent • New wonder • Stepped pyramid • Ball court",
    "hints": [
     {
      "text": "Ancient pyramid",
@@ -2894,6 +2979,7 @@
   },
   {
    "word": "Teotihuacan",
+   "description": "Ancient city • Mexican ruins • Avenue of the dead • Sun pyramid • Giant pyramids • Ancient metropolis",
    "hints": [
     {
      "text": "Ancient city",
@@ -2928,6 +3014,7 @@
   },
   {
    "word": "Iguazu Falls",
+   "description": "Giant cascades • Border wonder • Devils throat • Rainforest setting • Hundreds of drops • Rainbows",
    "hints": [
     {
      "text": "Giant cascades",
@@ -2962,6 +3049,7 @@
   },
   {
    "word": "Angel Falls",
+   "description": "Tallest waterfall • Jungle wonder • Remote location • Pilot spotted it • Plunging from tepui • Mist",
    "hints": [
     {
      "text": "Tallest waterfall",
@@ -2996,6 +3084,7 @@
   },
   {
    "word": "Galapagos",
+   "description": "Island chain • Wildlife haven • Evolution theory • Giant tortoises • Blue footed boobies • Volcanic islands",
    "hints": [
     {
      "text": "Island chain",
@@ -3030,6 +3119,7 @@
   },
   {
    "word": "Marina Bay",
+   "description": "Hotel complex • Rooftop pool • Infinity edge • Light shows • Three towers • Ship on top",
    "hints": [
     {
      "text": "Hotel complex",
@@ -3064,6 +3154,7 @@
   },
   {
    "word": "Petronas Towers",
+   "description": "Twin skyscrapers • Asian icon • Sky bridge • Once tallest • Steel and glass • Twin spires",
    "hints": [
     {
      "text": "Twin skyscrapers",
@@ -3098,6 +3189,7 @@
   },
   {
    "word": "Tokyo Tower",
+   "description": "Observation mast • Japanese landmark • Parisian inspired • City views • Red and white lattice • Night lights",
    "hints": [
     {
      "text": "Observation mast",
@@ -3132,6 +3224,7 @@
   },
   {
    "word": "Shibuya Crossing",
+   "description": "Famous intersection • Busy junction • Scramble pedestrians • Neon screens • Crowds in all directions • Loyal dog statue",
    "hints": [
     {
      "text": "Famous intersection",
@@ -3166,6 +3259,7 @@
   },
   {
    "word": "Himeji Castle",
+   "description": "Japanese fortress • White heron • Samurai era • Cherry blossoms • White walls • Tiered roofs",
    "hints": [
     {
      "text": "Japanese fortress",
@@ -3200,6 +3294,7 @@
   },
   {
    "word": "Fushimi Inari",
+   "description": "Shrine • Gate tunnel • Fox statues • Hiking path • Thousands of orange gates • Mountain trail",
    "hints": [
     {
      "text": "Shrine",
@@ -3234,6 +3329,7 @@
   },
   {
    "word": "Golden Pavilion",
+   "description": "Zen temple • Gilded building • Reflecting pond • Kyoto icon • Shining leaf walls • Garden setting",
    "hints": [
     {
      "text": "Zen temple",
@@ -3268,6 +3364,7 @@
   },
   {
    "word": "Terracotta Army",
+   "description": "Ancient sculptures • Buried soldiers • Emperor's guardians • Farmers discovered • Thousands of clay warriors • Horses",
    "hints": [
     {
      "text": "Ancient sculptures",
@@ -3302,6 +3399,7 @@
   },
   {
    "word": "Potala Palace",
+   "description": "Hillside fortress • Tibetan landmark • Former leader's home • High altitude • White and red walls • Many windows",
    "hints": [
     {
      "text": "Hillside fortress",
@@ -3336,6 +3434,7 @@
   },
   {
    "word": "Borobudur",
+   "description": "Buddhist temple • Indonesian landmark • Sunrise climbs • Pilgrimage site • Stupas and reliefs • Stone terraces",
    "hints": [
     {
      "text": "Buddhist temple",
@@ -3370,6 +3469,7 @@
   },
   {
    "word": "Halong Bay",
+   "description": "Seascape • Limestone islands • Boat cruises • Emerald waters • Towering karsts • Floating villages",
    "hints": [
     {
      "text": "Seascape",
@@ -3404,6 +3504,7 @@
   },
   {
    "word": "Dead Sea",
+   "description": "Salt lake • Lowest point • Floating effortlessly • Mud spas • Super salty water • Desert shore",
    "hints": [
     {
      "text": "Salt lake",
@@ -3438,6 +3539,7 @@
   },
   {
    "word": "Wailing Wall",
+   "description": "Sacred stones • Ancient remnant • Prayers in cracks • Pilgrims • Limestone blocks • Old city",
    "hints": [
     {
      "text": "Sacred stones",
@@ -3472,6 +3574,7 @@
   },
   {
    "word": "Mecca",
+   "description": "Holy city • Pilgrimage site • Millions of pilgrims • Faces of prayer • Black cube • Grand mosque",
    "hints": [
     {
      "text": "Holy city",
@@ -3506,6 +3609,7 @@
   },
   {
    "word": "Yellowstone",
+   "description": "National park • Geothermal wonder • Geysers erupt • Bison herds • Boiling springs • Colorful pools",
    "hints": [
     {
      "text": "National park",
@@ -3540,6 +3644,7 @@
   },
   {
    "word": "Yosemite",
+   "description": "National park • Granite valley • Rock climbers • Waterfalls • Half dome • Giant sequoias",
    "hints": [
     {
      "text": "National park",
@@ -3574,6 +3679,7 @@
   },
   {
    "word": "Old Faithful",
+   "description": "Famous geyser • Natural fountain • Erupts on schedule • Crowds wait • Steam column • Boiling water",
    "hints": [
     {
      "text": "Famous geyser",
@@ -3608,6 +3714,7 @@
   },
   {
    "word": "Death Valley",
+   "description": "Desert basin • Extreme heat • Hottest place records • Sailing stones • Salt flats • Sand dunes",
    "hints": [
     {
      "text": "Desert basin",
@@ -3642,6 +3749,7 @@
   },
   {
    "word": "Monument Valley",
+   "description": "Desert landscape • Western icon • Movie westerns • Navajo land • Red rock buttes • Dusty roads",
    "hints": [
     {
      "text": "Desert landscape",
@@ -3676,6 +3784,7 @@
   },
   {
    "word": "Vegas Strip",
+   "description": "Neon boulevard • Casino row • Gambling and shows • Quick weddings • Bright lights • Fountain shows",
    "hints": [
     {
      "text": "Neon boulevard",
@@ -3710,6 +3819,7 @@
   },
   {
    "word": "Chrysler",
+   "description": "Art deco skyscraper • American icon • Car company origins • Spire • Stainless crown • Eagle gargoyles",
    "hints": [
     {
      "text": "Art deco skyscraper",
@@ -3744,6 +3854,7 @@
   },
   {
    "word": "Flatiron",
+   "description": "Triangular building • American landmark • Wedge shape • Famous photos • Narrow corner • Steel frame",
    "hints": [
     {
      "text": "Triangular building",
@@ -3778,6 +3889,7 @@
   },
   {
    "word": "Shard",
+   "description": "Glass skyscraper • British landmark • Viewing platform • Modern skyline • Pointed glass pyramid • Riverside",
    "hints": [
     {
      "text": "Glass skyscraper",
@@ -3812,6 +3924,7 @@
   },
   {
    "word": "Gherkin",
+   "description": "Glass tower • British skyscraper • Pickle nickname • Financial district • Bullet shape • Diamond glass",
    "hints": [
     {
      "text": "Glass tower",
@@ -3846,6 +3959,7 @@
   },
   {
    "word": "Copacabana",
+   "description": "Famous beach • City shoreline • New year celebrations • Beach volleyball • Wavy promenade tiles • Golden sand",
    "hints": [
     {
      "text": "Famous beach",
@@ -3880,6 +3994,7 @@
   },
   {
    "word": "Bondi Beach",
+   "description": "Famous shore • Surf spot • Lifeguard shows • Ocean pool • Golden sand • Rolling waves",
    "hints": [
     {
      "text": "Famous shore",
@@ -3914,6 +4029,7 @@
   },
   {
    "word": "Waikiki",
+   "description": "Famous beach • Island resort • Surf lessons • Hula shows • Diamond head crater • Palm trees",
    "hints": [
     {
      "text": "Famous beach",
@@ -3948,6 +4064,7 @@
   },
   {
    "word": "Banff",
+   "description": "National park • Mountain town • Turquoise lakes • Ski slopes • Rocky peaks • Moose and elk",
    "hints": [
     {
      "text": "National park",
@@ -3982,6 +4099,7 @@
   },
   {
    "word": "Northern lights",
+   "description": "Natural phenomenon • Polar display • Arctic skies • Bucket list • Dancing green ribbons • Night sky",
    "hints": [
     {
      "text": "Natural phenomenon",
@@ -4016,6 +4134,7 @@
   },
   {
    "word": "Fjords",
+   "description": "Coastal inlets • Glacial valleys • Cruises through them • Norwegian icon • Steep cliffs • Deep water",
    "hints": [
     {
      "text": "Coastal inlets",
@@ -4050,6 +4169,7 @@
   },
   {
    "word": "Loch Ness",
+   "description": "Scottish lake • Monster legend • Cryptid sightings • Boat tours • Dark deep water • Ruined castle",
    "hints": [
     {
      "text": "Scottish lake",
@@ -4084,6 +4204,7 @@
   },
   {
    "word": "Moher Cliffs",
+   "description": "Sea precipice • Irish landmark • Puffin colonies • Movie scenery • Sheer drops • Atlantic waves",
    "hints": [
     {
      "text": "Sea precipice",
@@ -4118,6 +4239,7 @@
   },
   {
    "word": "Giants Causeway",
+   "description": "Rock formation • Irish landmark • Legend of a titan • Coastal walk • Hexagonal columns • Basalt steps",
    "hints": [
     {
      "text": "Rock formation",
@@ -4152,6 +4274,7 @@
   },
   {
    "word": "White Cliffs",
+   "description": "Chalk coast • English landmark • Wartime songs • Ferry views • Bright chalk face • Channel coast",
    "hints": [
     {
      "text": "Chalk coast",
@@ -4186,6 +4309,7 @@
   },
   {
    "word": "Amalfi Coast",
+   "description": "Riviera • Italian shoreline • Cliffside villages • Lemon groves • Winding roads • Colorful houses",
    "hints": [
     {
      "text": "Riviera",
@@ -4220,6 +4344,7 @@
   },
   {
    "word": "Cinque Terre",
+   "description": "Coastal villages • Italian landmark • Hiking trails between towns • Pastel houses • Five villages • Cliffside terraces",
    "hints": [
     {
      "text": "Coastal villages",
@@ -4254,6 +4379,7 @@
   },
   {
    "word": "Matera",
+   "description": "Cave city • Italian town • Ancient dwellings • Film sets • Rock carved houses • Canyon edge",
    "hints": [
     {
      "text": "Cave city",
@@ -4288,6 +4414,7 @@
   },
   {
    "word": "Cappadocia",
+   "description": "Rock landscape • Balloon destination • Hot air balloon sunrise • Cave hotels • Fairy chimneys • Underground cities",
    "hints": [
     {
      "text": "Rock landscape",
@@ -4322,6 +4449,7 @@
   },
   {
    "word": "Bagan",
+   "description": "Temple plains • Ancient city • Balloon flights • Sunrise views • Thousands of pagodas • Dusty plains",
    "hints": [
     {
      "text": "Temple plains",
@@ -4356,6 +4484,7 @@
   },
   {
    "word": "Red Square",
+   "description": "Famous plaza • Russian landmark • Military parades • Colorful cathedral • Cobblestones • Onion domes",
    "hints": [
     {
      "text": "Famous plaza",
@@ -4390,6 +4519,7 @@
   },
   {
    "word": "Trafalgar",
+   "description": "Famous plaza • London landmark • Pigeons and protests • New year crowds • Admiral column • Lion statues",
    "hints": [
     {
      "text": "Famous plaza",
@@ -4424,6 +4554,7 @@
   },
   {
    "word": "Piccadilly",
+   "description": "Busy junction • London landmark • Neon advertising • Theater district • Giant screens • Statue fountain",
    "hints": [
     {
      "text": "Busy junction",
@@ -4458,6 +4589,7 @@
   },
   {
    "word": "Tiananmen",
+   "description": "Huge square • Beijing landmark • Heavenly gate • Flag ceremonies • Vast plaza • Portrait over entrance",
    "hints": [
     {
      "text": "Huge square",
@@ -4492,6 +4624,7 @@
   },
   {
    "word": "Santorini",
+   "description": "Greek island • Volcanic isle • Famous sunsets • Honeymoon spot • Whitewashed houses • Blue domes",
    "hints": [
     {
      "text": "Greek island",
@@ -4526,6 +4659,7 @@
   },
   {
    "word": "Stone Town",
+   "description": "Historic quarter • Island old city • Spice trade history • Carved doors • Narrow alleys • Coral buildings",
    "hints": [
     {
      "text": "Historic quarter",
@@ -4560,6 +4694,7 @@
   },
   {
    "word": "Abbey Road",
+   "description": "Famous crosswalk • Music landmark • Album cover pose • Recording studio • Zebra crossing • Four walking figures",
    "hints": [
     {
      "text": "Famous crosswalk",
@@ -4594,6 +4729,7 @@
   },
   {
    "word": "Hyde Park",
+   "description": "London greenery • Royal grounds • Speakers corner • Summer concerts • Serpentine lake • Rowing boats",
    "hints": [
     {
      "text": "London greenery",
@@ -4628,6 +4764,7 @@
   },
   {
    "word": "Broadway",
+   "description": "Theater district • American stage • Musicals and plays • Ticket queues • Bright marquees • Standing ovations",
    "hints": [
     {
      "text": "Theater district",
@@ -4662,6 +4799,7 @@
   },
   {
    "word": "West End",
+   "description": "Theater district • London stage • Musicals and plays • Long runs • Velvet seats • Marquee lights",
    "hints": [
     {
      "text": "Theater district",
@@ -4696,6 +4834,7 @@
   },
   {
    "word": "Capitol",
+   "description": "Government building • Domed legislature • Lawmakers meet • Inauguration site • White dome • Marble steps",
    "hints": [
     {
      "text": "Government building",
@@ -4730,6 +4869,7 @@
   },
   {
    "word": "Pentagon",
+   "description": "Military headquarters • Defense building • Government security • Huge offices • Five sided shape • Concentric rings",
    "hints": [
     {
      "text": "Military headquarters",
@@ -4764,6 +4904,7 @@
   },
   {
    "word": "Vesuvius",
+   "description": "Active volcano • Italian peak • Buried an ancient city • Looms over bay • Smoking crater • Ash and lava",
    "hints": [
     {
      "text": "Active volcano",
@@ -4798,6 +4939,7 @@
   },
   {
    "word": "Pompeii",
+   "description": "Ancient city • Buried ruins • Volcano victim • Preserved in ash • Plaster casts • Cobbled streets",
    "hints": [
     {
      "text": "Ancient city",
@@ -4832,6 +4974,7 @@
   },
   {
    "word": "Etna",
+   "description": "Active volcano • Sicilian peak • Frequent eruptions • Ski slopes too • Lava flows • Smoking summit",
    "hints": [
     {
      "text": "Active volcano",
@@ -4866,6 +5009,7 @@
   },
   {
    "word": "Blue Lagoon",
+   "description": "Geothermal spa • Icelandic attraction • Milky water • Silica mud masks • Steaming pools • Lava fields",
    "hints": [
     {
      "text": "Geothermal spa",
@@ -4900,6 +5044,7 @@
   },
   {
    "word": "Pamukkale",
+   "description": "Natural terraces • Turkish wonder • Thermal pools • Ancient spa town • White travertine • Cotton castle look",
    "hints": [
     {
      "text": "Natural terraces",
@@ -4934,6 +5079,7 @@
   },
   {
    "word": "Sahara",
+   "description": "Huge desert • African expanse • Camel caravans • Scorching days • Rolling dunes • Oases",
    "hints": [
     {
      "text": "Huge desert",
@@ -4968,6 +5114,7 @@
   },
   {
    "word": "Amazon",
+   "description": "Huge rainforest • River basin • Lungs of the planet • Tribes and wildlife • Dense canopy • Piranhas",
    "hints": [
     {
      "text": "Huge rainforest",
@@ -5002,6 +5149,7 @@
   },
   {
    "word": "Serengeti",
+   "description": "African plains • Wildlife reserve • Great migration • Safari trips • Wildebeest herds • Acacia trees",
    "hints": [
     {
      "text": "African plains",
@@ -5036,6 +5184,7 @@
   },
   {
    "word": "Everglades",
+   "description": "Wetland park • Swamp reserve • Airboat tours • Alligators • Sawgrass marshes • Mangroves",
    "hints": [
     {
      "text": "Wetland park",
@@ -5070,6 +5219,7 @@
   },
   {
    "word": "Antarctica",
+   "description": "Frozen continent • Polar wilderness • Research stations • Penguin colonies • Ice sheets • Midnight sun",
    "hints": [
     {
      "text": "Frozen continent",
@@ -5104,6 +5254,7 @@
   },
   {
    "word": "Big Sur",
+   "description": "Rugged coastline • Californian drive • Scenic highway • Redwood forests • Cliffside bridges • Pacific views",
    "hints": [
     {
      "text": "Rugged coastline",
@@ -5138,6 +5289,7 @@
   },
   {
    "word": "Grand Bazaar",
+   "description": "Covered market • Turkish landmark • Haggling for rugs • Thousands of shops • Domed alleys • Lanterns and spices",
    "hints": [
     {
      "text": "Covered market",
@@ -5172,6 +5324,7 @@
   },
   {
    "word": "Chandni Chowk",
+   "description": "Old market • Delhi landmark • Street food heaven • Crowded lanes • Rickshaws • Spice shops",
    "hints": [
     {
      "text": "Old market",
@@ -5206,6 +5359,7 @@
   },
   {
    "word": "Marine Drive",
+   "description": "Seaside promenade • Mumbai landmark • Evening strolls • Queen's necklace lights • Curved boulevard • Art deco buildings",
    "hints": [
     {
      "text": "Seaside promenade",
@@ -5240,6 +5394,7 @@
   },
   {
    "word": "Sugarloaf",
+   "description": "Granite peak • Harbor landmark • Cable car views • Beach city backdrop • Rounded rock • Ocean setting",
    "hints": [
     {
      "text": "Granite peak",
@@ -5274,6 +5429,7 @@
   },
   {
    "word": "Mezquita",
+   "description": "Mosque cathedral • Spanish landmark • Moorish history • Cordoba icon • Red and white arches • Forest of columns",
    "hints": [
     {
      "text": "Mosque cathedral",
@@ -5308,6 +5464,7 @@
   },
   {
    "word": "Reichstag",
+   "description": "Parliament building • German landmark • Glass dome • Rooftop views • Spiral ramp • Historic fire",
    "hints": [
     {
      "text": "Parliament building",
@@ -5342,6 +5499,7 @@
   },
   {
    "word": "Windsor Castle",
+   "description": "Royal residence • English fortress • Oldest occupied • Royal weddings • Round tower • Thames valley",
    "hints": [
     {
      "text": "Royal residence",
@@ -5376,6 +5534,7 @@
   },
   {
    "word": "Prado",
+   "description": "Art museum • Spanish gallery • Masterpieces • Madrid landmark • Royal paintings • Velvet halls",
    "hints": [
     {
      "text": "Art museum",

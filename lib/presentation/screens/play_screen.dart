@@ -17,6 +17,7 @@ import '../theme.dart';
 import '../widgets/common.dart';
 import '../widgets/mascot.dart';
 import '../widgets/visuals.dart';
+import '../widgets/hush_loader.dart';
 
 class PlayScreen extends ConsumerStatefulWidget {
   const PlayScreen({super.key});
@@ -70,7 +71,7 @@ class _PlayScreenState extends ConsumerState<PlayScreen> {
       return Scaffold(
         body: Container(
           decoration: const BoxDecoration(gradient: HushbugColors.scaffoldGradient),
-          child: Center(child: session.loading ? const CircularProgressIndicator(color: HushbugColors.neonPurpleLight) : Text(l.noticeNoWords)),
+          child: Center(child: session.loading ? const HushbugLoader(text: 'Dealing the cards…') : Text(l.noticeNoWords)),
         ),
       );
     }
@@ -125,6 +126,7 @@ class RevealView extends ConsumerStatefulWidget {
 class _RevealViewState extends ConsumerState<RevealView> with SingleTickerProviderStateMixin {
   /// Whether the secret word is currently actively revealed
   bool _showing = false;
+
 
   /// Global touch tracking: pointer ID that initiated the hold
   int? _activePointerId;
@@ -572,17 +574,6 @@ class _RevealViewState extends ConsumerState<RevealView> with SingleTickerProvid
           // 3. Secret Word Display (or Imposter briefing)
           // Privacy protection: Secret word is strictly masked whenever _showing is false
           if (!isImp) ...[
-            if (_showing && card.word == null && r.description != null)
-              Padding(
-                padding: const EdgeInsets.only(bottom: 8),
-                child: Text(
-                  r.description!,
-                  textAlign: TextAlign.center,
-                  maxLines: 3,
-                  overflow: TextOverflow.ellipsis,
-                  style: const TextStyle(color: Color(0xFFC4B5FD), fontSize: 12, fontWeight: FontWeight.w600, height: 1.35),
-                ),
-              ),
             Text(
               _showing ? (card.word ?? r.word) : '••••••••',
               textAlign: TextAlign.center,
@@ -600,6 +591,18 @@ class _RevealViewState extends ConsumerState<RevealView> with SingleTickerProvid
                 ],
               ),
             ),
+            // What the word means, only while the card is held.
+            if (_showing && (card.word == null || card.word == r.word) && r.description != null)
+              Padding(
+                padding: const EdgeInsets.only(top: 8),
+                child: Text(
+                  r.description!,
+                  textAlign: TextAlign.center,
+                  maxLines: 4,
+                  overflow: TextOverflow.ellipsis,
+                  style: const TextStyle(color: Color(0xFFE0CCFF), fontSize: 13, fontWeight: FontWeight.w700, height: 1.35),
+                ),
+              ),
           ] else ...[
             // Imposter Role assignment & hints
             if (card.word != null) ...[

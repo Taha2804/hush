@@ -26,6 +26,7 @@ _WordEntry _$WordEntryFromJson(Map<String, dynamic> json) => _WordEntry(
   fakeWords:
       (json['fakeWords'] as List<dynamic>?)?.map((e) => e as String).toList() ??
       const <String>[],
+  description: json['description'] as String?,
   source: json['source'] as String,
 );
 
@@ -36,5 +37,6 @@ Map<String, dynamic> _$WordEntryToJson(_WordEntry instance) =>
       'word': instance.word,
       'hints': instance.hints.map((e) => e.toJson()).toList(),
       'fakeWords': instance.fakeWords,
+      'description': instance.description,
       'source': instance.source,
     };

@@ -13,6 +13,7 @@ import '../widgets/common.dart';
 import '../widgets/mascot.dart';
 import '../widgets/visuals.dart';
 import 'player_groups.dart';
+import '../widgets/hush_loader.dart';
 
 /// (id, display name) of each category for a source.
 final categoriesProvider = FutureProvider.autoDispose.family<List<(String, String)>, String>((ref, sourceId) async {
@@ -540,7 +541,7 @@ class _SetupScreenState extends ConsumerState<SetupScreen> {
                         cats.when(
                           loading: () => const Padding(
                             padding: EdgeInsets.symmetric(vertical: 8),
-                            child: Center(child: CircularProgressIndicator(color: HushbugColors.neonPurpleLight, strokeWidth: 2)),
+                            child: Center(child: HushbugLoader(size: 44)),
                           ),
                           error: (e, _) => Text('Error loading categories: $e', style: const TextStyle(color: Colors.red)),
                           data: (allCats) {
@@ -1004,13 +1005,7 @@ class _SetupScreenState extends ConsumerState<SetupScreen> {
                   style: TactileButtonStyle.neonPurple,
                   height: 56,
                   icon: const Icon(Icons.play_arrow_rounded, color: Colors.white, size: 26),
-                  child: loading
-                      ? const SizedBox(
-                          width: 22,
-                          height: 22,
-                          child: CircularProgressIndicator(color: Colors.white, strokeWidth: 2.5),
-                        )
-                      : const Text('Start Game'),
+                  child: const Text('Start Game'),
                 ),
               ),
             ],

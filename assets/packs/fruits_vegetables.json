@@ -4,6 +4,7 @@
  "words": [
   {
    "word": "Apple",
+   "description": "Common fruit • Orchard fruit • Keeps the doctor away • Lunchbox snack • Red or green • Crunchy bite",
    "hints": [
     {
      "text": "Common fruit",
@@ -38,6 +39,7 @@
   },
   {
    "word": "Banana",
+   "description": "Tropical fruit • Yellow fruit • Monkeys love it • Potassium rich • Peel it first • Curved shape",
    "hints": [
     {
      "text": "Tropical fruit",
@@ -72,6 +74,7 @@
   },
   {
    "word": "Orange",
+   "description": "Citrus fruit • Juicy fruit • Breakfast juice • Full of vitamin c • Peel in segments • Dimpled skin",
    "hints": [
     {
      "text": "Citrus fruit",
@@ -106,6 +109,7 @@
   },
   {
    "word": "Mango",
+   "description": "Tropical fruit • Summer fruit • King of fruits • Juicy and messy • Big flat seed • Golden flesh",
    "hints": [
     {
      "text": "Tropical fruit",
@@ -140,6 +144,7 @@
   },
   {
    "word": "Grapes",
+   "description": "Small fruit • Vine fruit • Grow in bunches • Made into raisins • Green or purple • Pop in mouth",
    "hints": [
     {
      "text": "Small fruit",
@@ -174,6 +179,7 @@
   },
   {
    "word": "Strawberry",
+   "description": "Red fruit • Summer fruit • Dipped in chocolate • Picked in fields • Seeds on outside • Heart shaped",
    "hints": [
     {
      "text": "Red fruit",
@@ -208,6 +214,7 @@
   },
   {
    "word": "Blueberry",
+   "description": "Small fruit • Superfood • Baked in muffins • Picked in summer • Tiny and round • Dusty indigo skin",
    "hints": [
     {
      "text": "Small fruit",
@@ -242,6 +249,7 @@
   },
   {
    "word": "Raspberry",
+   "description": "Red fruit • Soft fruit • Used in jams • Grows on canes • Hollow middle • Tiny bumps",
    "hints": [
     {
      "text": "Red fruit",
@@ -276,6 +284,7 @@
   },
   {
    "word": "Watermelon",
+   "description": "Summer fruit • Big fruit • Picnic favorite • Seed spitting contests • Green rind • Juicy red flesh",
    "hints": [
     {
      "text": "Summer fruit",
@@ -310,6 +319,7 @@
   },
   {
    "word": "Pineapple",
+   "description": "Tropical fruit • Spiky fruit • Pizza debate • Beach drinks • Spiky crown • Rough skin",
    "hints": [
     {
      "text": "Tropical fruit",
@@ -344,6 +354,7 @@
   },
   {
    "word": "Cherry",
+   "description": "Small fruit • Stone fruit • Tops a sundae • Blossoms in spring • Long stem • Deep red",
    "hints": [
     {
      "text": "Small fruit",
@@ -378,6 +389,7 @@
   },
   {
    "word": "Peach",
+   "description": "Stone fruit • Summer fruit • Grown in orchards • Juicy and sweet • Fuzzy skin • Pink blush",
    "hints": [
     {
      "text": "Stone fruit",
@@ -412,6 +424,7 @@
   },
   {
    "word": "Pear",
+   "description": "Orchard fruit • Juicy fruit • Ripens off the tree • Lunchbox snack • Bell shaped • Grainy flesh",
    "hints": [
     {
      "text": "Orchard fruit",
@@ -446,6 +459,7 @@
   },
   {
    "word": "Plum",
+   "description": "Stone fruit • Purple fruit • Dried into prunes • Juicy and tart • Smooth dark skin • Pit inside",
    "hints": [
     {
      "text": "Stone fruit",
@@ -480,6 +494,7 @@
   },
   {
    "word": "Lemon",
+   "description": "Citrus fruit • Sour fruit • Squeezed on fish • Squeezed into drinks • Bright yellow • Makes you pucker",
    "hints": [
     {
      "text": "Citrus fruit",
@@ -514,6 +529,7 @@
   },
   {
    "word": "Lime",
+   "description": "Citrus fruit • Sour fruit • Used in tacos • Garnish for drinks • Small and green • Very tart",
    "hints": [
     {
      "text": "Citrus fruit",
@@ -548,6 +564,7 @@
   },
   {
    "word": "Coconut",
+   "description": "Tropical fruit • Hard fruit • Grows on palms • Beach symbol • Hairy brown shell • White flesh inside",
    "hints": [
     {
      "text": "Tropical fruit",
@@ -582,6 +599,7 @@
   },
   {
    "word": "Kiwi",
+   "description": "Small fruit • Fuzzy fruit • Named after a bird • Rich in vitamins • Brown fuzzy skin • Green inside",
    "hints": [
     {
      "text": "Small fruit",
@@ -616,6 +634,7 @@
   },
   {
    "word": "Papaya",
+   "description": "Tropical fruit • Orange fruit • Good for digestion • Breakfast fruit • Black seeds inside • Soft orange flesh",
    "hints": [
     {
      "text": "Tropical fruit",
@@ -650,6 +669,7 @@
   },
   {
    "word": "Guava",
+   "description": "Tropical fruit • Green fruit • Eaten with chili salt • Very fragrant • Pink or white inside • Many small seeds",
    "hints": [
     {
      "text": "Tropical fruit",
@@ -684,6 +704,7 @@
   },
   {
    "word": "Pomegranate",
+   "description": "Ruby fruit • Ancient fruit • Hard to open • Symbol of plenty • Hundreds of seeds • Crown on top",
    "hints": [
     {
      "text": "Ruby fruit",
@@ -718,6 +739,7 @@
   },
   {
    "word": "Fig",
+   "description": "Ancient fruit • Sweet fruit • Dried as snack • Grows in warm regions • Teardrop shape • Seedy pink inside",
    "hints": [
     {
      "text": "Ancient fruit",
@@ -752,6 +774,7 @@
   },
   {
    "word": "Date",
+   "description": "Desert fruit • Sweet fruit • Breaks the fast • Grows on palms • Sticky and brown • Long pit",
    "hints": [
     {
      "text": "Desert fruit",
@@ -786,6 +809,7 @@
   },
   {
    "word": "Apricot",
+   "description": "Stone fruit • Orange fruit • Dried as snack • Made into jam • Velvety skin • Small and golden",
    "hints": [
     {
      "text": "Stone fruit",
@@ -820,6 +844,7 @@
   },
   {
    "word": "Avocado",
+   "description": "Creamy fruit • Green fruit • Smashed on toast • Trendy brunch item • Big round pit • Bumpy dark skin",
    "hints": [
     {
      "text": "Creamy fruit",
@@ -854,6 +879,7 @@
   },
   {
    "word": "Melon",
+   "description": "Summer fruit • Juicy fruit • Served at breakfast • Cut into wedges • Netted rind • Sweet orange flesh",
    "hints": [
     {
      "text": "Summer fruit",
@@ -888,6 +914,7 @@
   },
   {
    "word": "Cantaloupe",
+   "description": "Summer melon • Orange fruit • Breakfast buffet fruit • Balled with scoops • Netted rind • Musky smell",
    "hints": [
     {
      "text": "Summer melon",
@@ -922,6 +949,7 @@
   },
   {
    "word": "Honeydew",
+   "description": "Summer melon • Pale fruit • Fruit salad filler • Mild and sweet • Smooth pale rind • Light green flesh",
    "hints": [
     {
      "text": "Summer melon",
@@ -956,6 +984,7 @@
   },
   {
    "word": "Lychee",
+   "description": "Tropical fruit • Asian fruit • Summer treat • Very fragrant • Bumpy red shell • Translucent white flesh",
    "hints": [
     {
      "text": "Tropical fruit",
@@ -990,6 +1019,7 @@
   },
   {
    "word": "Passion fruit",
+   "description": "Tropical treat • Tangy treat • Used in desserts • Very aromatic • Wrinkly purple skin • Seedy pulp",
    "hints": [
     {
      "text": "Tropical treat",
@@ -1024,6 +1054,7 @@
   },
   {
    "word": "Dragon fruit",
+   "description": "Exotic produce • Cactus produce • Social media famous • Mild flavor • Pink scaly skin • Speckled white flesh",
    "hints": [
     {
      "text": "Exotic produce",
@@ -1058,6 +1089,7 @@
   },
   {
    "word": "Blackberry",
+   "description": "Dark fruit • Wild fruit • Picked from brambles • Stains fingers • Cluster of bubbles • Deep purple",
    "hints": [
     {
      "text": "Dark fruit",
@@ -1092,6 +1124,7 @@
   },
   {
    "word": "Cranberry",
+   "description": "Tart fruit • Bog fruit • Holiday sauce • Grown in bogs • Very sour • Bounces when ripe",
    "hints": [
     {
      "text": "Tart fruit",
@@ -1126,6 +1159,7 @@
   },
   {
    "word": "Grapefruit",
+   "description": "Breakfast citrus • Big citrus • Diet breakfast • Very bitter • Pink inside • Eaten with spoon",
    "hints": [
     {
      "text": "Breakfast citrus",
@@ -1160,6 +1194,7 @@
   },
   {
    "word": "Tangerine",
+   "description": "Citrus fruit • Small citrus • Easy to peel • Winter fruit • Loose skin • Sweet segments",
    "hints": [
     {
      "text": "Citrus fruit",
@@ -1194,6 +1229,7 @@
   },
   {
    "word": "Nectarine",
+   "description": "Stone fruit • Summer fruit • Juicy snack • Grown in orchards • Smooth skin • Red and yellow",
    "hints": [
     {
      "text": "Stone fruit",
@@ -1228,6 +1264,7 @@
   },
   {
    "word": "Persimmon",
+   "description": "Autumn fruit • Orange fruit • Popular in east asia • Dried as treat • Tomato shaped • Leafy cap",
    "hints": [
     {
      "text": "Autumn fruit",
@@ -1262,6 +1299,7 @@
   },
   {
    "word": "Jackfruit",
+   "description": "Huge produce • Tropical produce • Meat substitute • Very fragrant • Spiky green skin • Sticky yellow pods",
    "hints": [
     {
      "text": "Huge produce",
@@ -1296,6 +1334,7 @@
   },
   {
    "word": "Durian",
+   "description": "Tropical fruit • Smelly fruit • Banned on trains • Love it or hate • Thorny husk • Custard flesh",
    "hints": [
     {
      "text": "Tropical fruit",
@@ -1330,6 +1369,7 @@
   },
   {
    "word": "Gooseberry",
+   "description": "Tart fruit • Small fruit • Made into pickles • Very sour • Pale green • Striped skin",
    "hints": [
     {
      "text": "Tart fruit",
@@ -1364,6 +1404,7 @@
   },
   {
    "word": "Mulberry",
+   "description": "Dark fruit • Tree fruit • Silkworms eat leaves • Stains everything • Long and bumpy • Deep purple",
    "hints": [
     {
      "text": "Dark fruit",
@@ -1398,6 +1439,7 @@
   },
   {
    "word": "Quince",
+   "description": "Old fruit • Hard fruit • Made into jelly • Must be cooked • Lumpy yellow • Very fragrant",
    "hints": [
     {
      "text": "Old fruit",
@@ -1432,6 +1474,7 @@
   },
   {
    "word": "Starfruit",
+   "description": "Tropical produce • Waxy produce • Garnish for drinks • Sweet and sour • Five ridges • Pointy slices",
    "hints": [
     {
      "text": "Tropical produce",
@@ -1466,6 +1509,7 @@
   },
   {
    "word": "Rambutan",
+   "description": "Tropical fruit • Hairy fruit • Southeast asian favorite • Sweet and juicy • Spiky red shell • White flesh",
    "hints": [
     {
      "text": "Tropical fruit",
@@ -1500,6 +1544,7 @@
   },
   {
    "word": "Tomato",
+   "description": "Vegetable • Red fruit • Base of ketchup • Used in salads • Round and juicy • Grows on vines",
    "hints": [
     {
      "text": "Vegetable",
@@ -1534,6 +1579,7 @@
   },
   {
    "word": "Potato",
+   "description": "Root vegetable • Starchy food • Made into chips • Mashed or fried • Grows underground • Brown skin",
    "hints": [
     {
      "text": "Root vegetable",
@@ -1568,6 +1614,7 @@
   },
   {
    "word": "Carrot",
+   "description": "Root vegetable • Orange vegetable • Good for eyesight • Rabbits love it • Long and pointed • Leafy top",
    "hints": [
     {
      "text": "Root vegetable",
@@ -1602,6 +1649,7 @@
   },
   {
    "word": "Onion",
+   "description": "Bulb vegetable • Kitchen staple • Makes you cry • Base of curries • Papery skin • Many layers",
    "hints": [
     {
      "text": "Bulb vegetable",
@@ -1636,6 +1684,7 @@
   },
   {
    "word": "Garlic",
+   "description": "Bulb vegetable • Strong flavor • Scares vampires • Bad breath • Many cloves • Papery white skin",
    "hints": [
     {
      "text": "Bulb vegetable",
@@ -1670,6 +1719,7 @@
   },
   {
    "word": "Ginger",
+   "description": "Root spice • Spicy root • Cure for nausea • Used in tea • Knobby shape • Peppery bite",
    "hints": [
     {
      "text": "Root spice",
@@ -1704,6 +1754,7 @@
   },
   {
    "word": "Cabbage",
+   "description": "Leafy vegetable • Round vegetable • Made into coleslaw • Fermented into kimchi • Tight leafy head • Green or purple",
    "hints": [
     {
      "text": "Leafy vegetable",
@@ -1738,6 +1789,7 @@
   },
   {
    "word": "Lettuce",
+   "description": "Leafy vegetable • Salad green • Goes in burgers • Very crunchy • Pale green leaves • Mostly water",
    "hints": [
     {
      "text": "Leafy vegetable",
@@ -1772,6 +1824,7 @@
   },
   {
    "word": "Spinach",
+   "description": "Leafy vegetable • Dark green • Makes sailors strong • Rich in iron • Wilts when cooked • Tender leaves",
    "hints": [
     {
      "text": "Leafy vegetable",
@@ -1806,6 +1859,7 @@
   },
   {
    "word": "Broccoli",
+   "description": "Green vegetable • Healthy vegetable • Kids push it away • Steamed side • Tiny tree shape • Green florets",
    "hints": [
     {
      "text": "Green vegetable",
@@ -1840,6 +1894,7 @@
   },
   {
    "word": "Cauliflower",
+   "description": "White vegetable • Cruciferous vegetable • Low carb swap • Roasted whole • White florets • Brain shaped head",
    "hints": [
     {
      "text": "White vegetable",
@@ -1874,6 +1929,7 @@
   },
   {
    "word": "Cucumber",
+   "description": "Green vegetable • Cool vegetable • Used in salads • Spa eye slices • Long and green • Watery crunch",
    "hints": [
     {
      "text": "Green vegetable",
@@ -1908,6 +1964,7 @@
   },
   {
    "word": "Pumpkin",
+   "description": "Orange vegetable • Autumn vegetable • Carved for halloween • Pie filling • Big and round • Ribbed orange shell",
    "hints": [
     {
      "text": "Orange vegetable",
@@ -1942,6 +1999,7 @@
   },
   {
    "word": "Corn",
+   "description": "Grain vegetable • Yellow vegetable • Grilled at barbecues • Popped for movies • Golden kernels • Eaten off the cob",
    "hints": [
     {
      "text": "Grain vegetable",
@@ -1976,6 +2034,7 @@
   },
   {
    "word": "Peas",
+   "description": "Green vegetable • Small vegetable • Kids hide them • Frozen in bags • Grow in pods • Tiny green balls",
    "hints": [
     {
      "text": "Green vegetable",
@@ -2010,6 +2069,7 @@
   },
   {
    "word": "Green beans",
+   "description": "Garden vegetable • Long vegetable • Holiday casserole • Snapped in half • Thin pods • Snap when bent",
    "hints": [
     {
      "text": "Garden vegetable",
@@ -2044,6 +2104,7 @@
   },
   {
    "word": "Eggplant",
+   "description": "Purple vegetable • Nightshade • Used in curries • Grilled or fried • Glossy purple skin • Spongy flesh",
    "hints": [
     {
      "text": "Purple vegetable",
@@ -2078,6 +2139,7 @@
   },
   {
    "word": "Bell pepper",
+   "description": "Crunchy vegetable • Colorful vegetable • Stuffed and baked • Used in stir fry • Hollow inside • Red yellow or green",
    "hints": [
     {
      "text": "Crunchy vegetable",
@@ -2112,6 +2174,7 @@
   },
   {
    "word": "Chili",
+   "description": "Spicy vegetable • Hot pepper • Makes eyes water • Used in salsa • Small and red • Burns your tongue",
    "hints": [
     {
      "text": "Spicy vegetable",
@@ -2146,6 +2209,7 @@
   },
   {
    "word": "Mushroom",
+   "description": "Fungus • Forest food • Pizza topping • Grows after rain • Cap and stem • Spongy gills",
    "hints": [
     {
      "text": "Fungus",
@@ -2180,6 +2244,7 @@
   },
   {
    "word": "Celery",
+   "description": "Green vegetable • Crunchy stalk • Diet snack • Soup base • Long pale stalks • Stringy crunch",
    "hints": [
     {
      "text": "Green vegetable",
@@ -2214,6 +2279,7 @@
   },
   {
    "word": "Asparagus",
+   "description": "Green vegetable • Spring vegetable • Fancy side dish • Grilled with butter • Thin green spears • Pointed tips",
    "hints": [
     {
      "text": "Green vegetable",
@@ -2248,6 +2314,7 @@
   },
   {
    "word": "Zucchini",
+   "description": "Green vegetable • Summer squash • Grated into bread • Grilled in slices • Long and green • Soft skin",
    "hints": [
     {
      "text": "Green vegetable",
@@ -2282,6 +2349,7 @@
   },
   {
    "word": "Radish",
+   "description": "Root vegetable • Peppery vegetable • Sliced in salads • Fast growing • Small and red • White inside",
    "hints": [
     {
      "text": "Root vegetable",
@@ -2316,6 +2384,7 @@
   },
   {
    "word": "Beetroot",
+   "description": "Earthy vegetable • Purple vegetable • Stains your hands • Made into soup • Deep magenta • Earthy sweet",
    "hints": [
     {
      "text": "Earthy vegetable",
@@ -2350,6 +2419,7 @@
   },
   {
    "word": "Turnip",
+   "description": "Root vegetable • Winter vegetable • Peasant food • Mashed or roasted • Purple top • White bulb",
    "hints": [
     {
      "text": "Root vegetable",
@@ -2384,6 +2454,7 @@
   },
   {
    "word": "Sweet potato",
+   "description": "Root vegetable • Orange tuber • Holiday casserole • Baked fries • Orange flesh • Long and tapered",
    "hints": [
     {
      "text": "Root vegetable",
@@ -2418,6 +2489,7 @@
   },
   {
    "word": "Kale",
+   "description": "Leafy vegetable • Superfood • Baked into chips • Smoothie green • Curly dark leaves • Tough stems",
    "hints": [
     {
      "text": "Leafy vegetable",
@@ -2452,6 +2524,7 @@
   },
   {
    "word": "Okra",
+   "description": "Green vegetable • Pod vegetable • Used in gumbo • Fried in curries • Slimy inside • Ridged green pods",
    "hints": [
     {
      "text": "Green vegetable",
@@ -2486,6 +2559,7 @@
   },
   {
    "word": "Leek",
+   "description": "Allium vegetable • Long vegetable • Used in soups • Welsh symbol • White and green stalk • Mild onion flavor",
    "hints": [
     {
      "text": "Allium vegetable",
@@ -2520,6 +2594,7 @@
   },
   {
    "word": "Artichoke",
+   "description": "Thistle vegetable • Fancy vegetable • Dipped in butter • Hearts in jars • Scaly green leaves • Spiky tips",
    "hints": [
     {
      "text": "Thistle vegetable",
@@ -2554,6 +2629,7 @@
   },
   {
    "word": "Brussels sprouts",
+   "description": "Green vegetable • Mini cabbage • Holiday side dish • Kids dislike them • Tiny round heads • Roasted until crisp",
    "hints": [
     {
      "text": "Green vegetable",
@@ -2588,6 +2664,7 @@
   },
   {
    "word": "Lentils",
+   "description": "Pulse • Legume • Cooked into dal • Cheap protein • Tiny flat discs • Red or green",
    "hints": [
     {
      "text": "Pulse",
@@ -2622,6 +2699,7 @@
   },
   {
    "word": "Chickpeas",
+   "description": "Legume • Pulse • Made into hummus • Used in curries • Round and beige • Nutty bite",
    "hints": [
     {
      "text": "Legume",
@@ -2656,6 +2734,7 @@
   },
   {
    "word": "Kidney beans",
+   "description": "Legume • Red pulse • Used in chili • Cooked as rajma • Dark red • Organ shaped",
    "hints": [
     {
      "text": "Legume",
@@ -2690,6 +2769,7 @@
   },
   {
    "word": "Yam",
+   "description": "Root vegetable • Starchy tuber • Staple in africa • Boiled or pounded • Rough bark skin • White or purple flesh",
    "hints": [
     {
      "text": "Root vegetable",
@@ -2724,6 +2804,7 @@
   },
   {
    "word": "Parsnip",
+   "description": "Root vegetable • Winter vegetable • Roasted at holidays • Sweet when cooked • Pale and tapered • Like a white carrot",
    "hints": [
     {
      "text": "Root vegetable",
@@ -2758,6 +2839,7 @@
   },
   {
    "word": "Shallot",
+   "description": "Allium • Small onion • Used in french cooking • Mild and sweet • Copper skin • Clustered bulbs",
    "hints": [
     {
      "text": "Allium",
@@ -2792,6 +2874,7 @@
   },
   {
    "word": "Scallion",
+   "description": "Allium • Green onion • Garnish for noodles • Mild flavor • Long green tops • White base",
    "hints": [
     {
      "text": "Allium",
@@ -2826,6 +2909,7 @@
   },
   {
    "word": "Bitter gourd",
+   "description": "Sharp tasting vegetable • Healthy vine vegetable • Used in indian cooking • Acquired taste • Bumpy green skin • Warty texture",
    "hints": [
     {
      "text": "Sharp tasting vegetable",
@@ -2860,6 +2944,7 @@
   },
   {
    "word": "Bottle gourd",
+   "description": "Indian vegetable • Pale vine vegetable • Cooked as curry • Very watery • Long and pale green • Smooth skin",
    "hints": [
     {
      "text": "Indian vegetable",
@@ -2894,6 +2979,7 @@
   },
   {
    "word": "Drumstick",
+   "description": "Indian vegetable • Moringa pod • Used in sambar • Long woody pods • Very long and thin • Chewy fibers",
    "hints": [
     {
      "text": "Indian vegetable",
@@ -2928,6 +3014,7 @@
   },
   {
    "word": "Taro",
+   "description": "Root vegetable • Starchy tuber • Purple bubble tea • Eaten in islands • Hairy brown skin • Lilac flesh",
    "hints": [
     {
      "text": "Root vegetable",
@@ -2962,6 +3049,7 @@
   },
   {
    "word": "Cassava",
+   "description": "Root vegetable • Tropical tuber • Made into tapioca • Staple crop • Long and woody • Waxy brown skin",
    "hints": [
     {
      "text": "Root vegetable",
@@ -2996,6 +3084,7 @@
   },
   {
    "word": "Jalapeno",
+   "description": "Spicy pepper • Green chili • Topping for nachos • Mexican favorite • Small and green • Pickled slices",
    "hints": [
     {
      "text": "Spicy pepper",
@@ -3030,6 +3119,7 @@
   },
   {
    "word": "Rhubarb",
+   "description": "Sour vegetable • Spring stalk • Baked in pies • Paired with strawberry • Pink stalks • Poisonous leaves",
    "hints": [
     {
      "text": "Sour vegetable",
@@ -3064,6 +3154,7 @@
   },
   {
    "word": "Chard",
+   "description": "Leafy vegetable • Colorful greens • Sauteed with garlic • Mild flavor • Rainbow stems • Big glossy leaves",
    "hints": [
     {
      "text": "Leafy vegetable",
@@ -3098,6 +3189,7 @@
   },
   {
    "word": "Arugula",
+   "description": "Salad green • Peppery leaf • Pizza topping • Fancy salads • Small notched leaves • Spicy bite",
    "hints": [
     {
      "text": "Salad green",
@@ -3132,6 +3224,7 @@
   },
   {
    "word": "Fennel",
+   "description": "Aromatic vegetable • Bulb vegetable • Seeds chewed after meals • Licorice flavor • Pale bulb • Feathery fronds",
    "hints": [
     {
      "text": "Aromatic vegetable",
@@ -3166,6 +3259,7 @@
   },
   {
    "word": "Plantain",
+   "description": "Starchy fruit • Cooking banana • Fried as chips • Caribbean staple • Green or black • Bigger than banana",
    "hints": [
     {
      "text": "Starchy fruit",
@@ -3200,6 +3294,7 @@
   },
   {
    "word": "Clementine",
+   "description": "Citrus fruit • Small citrus • Christmas stocking fruit • Easy to peel • Seedless segments • Bright orange",
    "hints": [
     {
      "text": "Citrus fruit",
@@ -3234,6 +3329,7 @@
   },
   {
    "word": "Kumquat",
+   "description": "Citrus fruit • Tiny citrus • Eaten whole • Lunar new year gift • Sweet peel • Sour inside",
    "hints": [
     {
      "text": "Citrus fruit",
@@ -3268,6 +3364,7 @@
   },
   {
    "word": "Pomelo",
+   "description": "Citrus fruit • Giant citrus • Asian festival fruit • Thick pith • Pale green skin • Huge segments",
    "hints": [
     {
      "text": "Citrus fruit",
@@ -3302,6 +3399,7 @@
   },
   {
    "word": "Longan",
+   "description": "Tropical fruit • Asian fruit • Called dragon eye • Dried for soup • Tan shell • Clear juicy flesh",
    "hints": [
     {
      "text": "Tropical fruit",
@@ -3336,6 +3434,7 @@
   },
   {
    "word": "Mangosteen",
+   "description": "Tropical fruit • Purple fruit • Queen of fruits • Southeast asian treat • Thick purple rind • White segments",
    "hints": [
     {
      "text": "Tropical fruit",
@@ -3370,6 +3469,7 @@
   },
   {
    "word": "Custard apple",
+   "description": "Tropical fruit • Creamy fruit • Eaten with spoon • Winter fruit in india • Knobby green skin • Black seeds",
    "hints": [
     {
      "text": "Tropical fruit",
@@ -3404,6 +3504,7 @@
   },
   {
    "word": "Sapodilla",
+   "description": "Tropical fruit • Brown fruit • Called chikoo in india • Very sweet • Grainy brown flesh • Malty taste",
    "hints": [
     {
      "text": "Tropical fruit",
@@ -3438,6 +3539,7 @@
   },
   {
    "word": "Jamun",
+   "description": "Indian fruit • Purple berry • Stains your tongue • Summer fruit • Dark purple • Astringent taste",
    "hints": [
     {
      "text": "Indian fruit",
@@ -3472,6 +3574,7 @@
   },
   {
    "word": "Raisin",
+   "description": "Dried fruit • Sweet snack • Baked into cookies • Lunchbox snack • Wrinkly and brown • Dried grape",
    "hints": [
     {
      "text": "Dried fruit",
@@ -3506,6 +3609,7 @@
   },
   {
    "word": "Prune",
+   "description": "Dried fruit • Purple snack • Good for digestion • Grandparent favorite • Wrinkly dark plum • Sticky sweet",
    "hints": [
     {
      "text": "Dried fruit",
@@ -3540,6 +3644,7 @@
   },
   {
    "word": "Olive oil",
+   "description": "Cooking fat • Mediterranean staple • Drizzled on salads • Pressed from fruit • Golden green • Extra virgin",
    "hints": [
     {
      "text": "Cooking fat",
@@ -3574,6 +3679,7 @@
   },
   {
    "word": "Peanut",
+   "description": "Legume • Snack nut • Sold at ballparks • Common allergy • Grows underground • Papery shell",
    "hints": [
     {
      "text": "Legume",
@@ -3608,6 +3714,7 @@
   },
   {
    "word": "Almond",
+   "description": "Tree nut • Healthy snack • Made into milk • Comes from blossoms • Teardrop shape • Brown skin",
    "hints": [
     {
      "text": "Tree nut",
@@ -3642,6 +3749,7 @@
   },
   {
    "word": "Cashew",
+   "description": "Tree nut • Creamy nut • Used in curries • Grows on fruit • Curved shape • Buttery taste",
    "hints": [
     {
      "text": "Tree nut",
@@ -3676,6 +3784,7 @@
   },
   {
    "word": "Walnut",
+   "description": "Tree nut • Brain food • Baked in brownies • Hard to crack • Wrinkly brain shape • Hard shell",
    "hints": [
     {
      "text": "Tree nut",
@@ -3710,6 +3819,7 @@
   },
   {
    "word": "Pistachio",
+   "description": "Tree nut • Green nut • Ice cream flavor • Salty snack • Cracked open shell • Green kernel",
    "hints": [
     {
      "text": "Tree nut",
@@ -3744,6 +3854,7 @@
   },
   {
    "word": "Hazelnut",
+   "description": "Tree nut • Round nut • Paired with chocolate • Coffee flavor • Small round • Smooth brown shell",
    "hints": [
     {
      "text": "Tree nut",
@@ -3778,6 +3889,7 @@
   },
   {
    "word": "Chestnut",
+   "description": "Tree nut • Winter treat • Roasted on fires • Sold on streets • Shiny brown • Spiky husk",
    "hints": [
     {
      "text": "Tree nut",
@@ -3812,6 +3924,7 @@
   },
   {
    "word": "Pecan",
+   "description": "Tree nut • Southern nut • Baked in pies • Sweet and buttery • Long ridged kernel • Smooth shell",
    "hints": [
     {
      "text": "Tree nut",
@@ -3846,6 +3959,7 @@
   },
   {
    "word": "Sweet corn",
+   "description": "Yellow vegetable • Summer crop • Boiled and buttered • Kids favorite • Juicy kernels • Silky threads",
    "hints": [
     {
      "text": "Yellow vegetable",
@@ -3880,6 +3994,7 @@
   },
   {
    "word": "Spring onion",
+   "description": "Allium • Salad allium • Garnish for soups • Chopped finely • Thin white bulb • Hollow green leaves",
    "hints": [
     {
      "text": "Allium",
@@ -3914,6 +4029,7 @@
   },
   {
    "word": "Snow peas",
+   "description": "Pod vegetable • Flat pods • Used in stir fry • Eaten whole • Flat green pods • Crunchy and sweet",
    "hints": [
     {
      "text": "Pod vegetable",
@@ -3948,6 +4064,7 @@
   },
   {
    "word": "Edamame",
+   "description": "Soybean pod • Japanese snack • Served salted • Popped from pods • Fuzzy green pods • Bright beans",
    "hints": [
     {
      "text": "Soybean pod",
@@ -3982,6 +4099,7 @@
   },
   {
    "word": "Watercress",
+   "description": "Salad green • Peppery leaf • Grows in streams • Tea sandwich filling • Small round leaves • Crisp stems",
    "hints": [
     {
      "text": "Salad green",
@@ -4016,6 +4134,7 @@
   },
   {
    "word": "Horseradish",
+   "description": "Root spice • Fiery root • Served with roast beef • Clears sinuses • White grated root • Eye watering",
    "hints": [
     {
      "text": "Root spice",
@@ -4050,6 +4169,7 @@
   },
   {
    "word": "Wasabi",
+   "description": "Japanese spice • Green paste • Served with sushi • Clears sinuses • Bright green • Fiery kick",
    "hints": [
     {
      "text": "Japanese spice",
@@ -4084,6 +4204,7 @@
   },
   {
    "word": "Turmeric",
+   "description": "Golden spice • Medicinal root • Used in curries • Stains everything • Bright orange root • Earthy flavor",
    "hints": [
     {
      "text": "Golden spice",
@@ -4118,6 +4239,7 @@
   },
   {
    "word": "Basil",
+   "description": "Herb • Fragrant leaf • Used in pesto • Pizza garnish • Soft green leaves • Sweet aroma",
    "hints": [
     {
      "text": "Herb",
@@ -4152,6 +4274,7 @@
   },
   {
    "word": "Mint",
+   "description": "Herb • Cool leaf • Used in drinks • Freshens breath • Bright green • Cooling taste",
    "hints": [
     {
      "text": "Herb",
@@ -4186,6 +4309,7 @@
   },
   {
    "word": "Coriander",
+   "description": "Herb • Leafy garnish • Soapy to some • Used in curries • Delicate leaves • Citrusy aroma",
    "hints": [
     {
      "text": "Herb",
@@ -4220,6 +4344,7 @@
   },
   {
    "word": "Parsley",
+   "description": "Herb • Garnish leaf • Sprinkled on plates • Mild and fresh • Curly or flat • Bright green",
    "hints": [
     {
      "text": "Herb",
@@ -4254,6 +4379,7 @@
   },
   {
    "word": "Dill",
+   "description": "Herb • Feathery leaf • Used with pickles • Paired with fish • Thin fronds • Tangy aroma",
    "hints": [
     {
      "text": "Herb",
@@ -4288,6 +4414,7 @@
   },
   {
    "word": "Chives",
+   "description": "Herb • Allium • Sprinkled on baked potatoes • Mild onion flavor • Thin hollow stalks • Purple flowers",
    "hints": [
     {
      "text": "Herb",
@@ -4322,6 +4449,7 @@
   },
   {
    "word": "Rosemary",
+   "description": "Herb • Woody herb • Used with roast lamb • Strong aroma • Needle like leaves • Woody stems",
    "hints": [
     {
      "text": "Herb",
@@ -4356,6 +4484,7 @@
   },
   {
    "word": "Thyme",
+   "description": "Herb • Tiny leaf • Used in stews • Earthy aroma • Tiny leaves on twigs • Hardy plant",
    "hints": [
     {
      "text": "Herb",
@@ -4390,6 +4519,7 @@
   },
   {
    "word": "Oregano",
+   "description": "Herb • Pizza herb • Sprinkled on pizza • Dried in jars • Small oval leaves • Peppery aroma",
    "hints": [
     {
      "text": "Herb",
@@ -4424,6 +4554,7 @@
   },
   {
    "word": "Sage",
+   "description": "Herb • Soft leaf • Used in stuffing • Burned for cleansing • Velvety grey leaves • Earthy aroma",
    "hints": [
     {
      "text": "Herb",
@@ -4458,6 +4589,7 @@
   },
   {
    "word": "Bok choy",
+   "description": "Asian vegetable • Leafy greens • Used in stir fry • Mild flavor • White stalks • Dark green leaves",
    "hints": [
     {
      "text": "Asian vegetable",
@@ -4492,6 +4624,7 @@
   },
   {
    "word": "Lemongrass",
+   "description": "Herb stalk • Citrus herb • Used in thai curries • Brewed as tea • Long woody stalk • Lemony aroma",
    "hints": [
     {
      "text": "Herb stalk",
@@ -4526,6 +4659,7 @@
   },
   {
    "word": "Gourd",
+   "description": "Vine vegetable • Hard fruit • Dried as containers • Autumn decoration • Bumpy shell • Odd shapes",
    "hints": [
     {
      "text": "Vine vegetable",
@@ -4560,6 +4694,7 @@
   },
   {
    "word": "Squash",
+   "description": "Vine vegetable • Autumn vegetable • Roasted in winter • Made into soup • Hard rind • Orange flesh",
    "hints": [
     {
      "text": "Vine vegetable",
@@ -4594,6 +4729,7 @@
   },
   {
    "word": "Mustard greens",
+   "description": "Leafy vegetable • Peppery leaves • Cooked as saag • Winter vegetable • Frilly leaves • Spicy bite",
    "hints": [
     {
      "text": "Leafy vegetable",
@@ -4628,6 +4764,7 @@
   },
   {
    "word": "Corn cob",
+   "description": "Grain vegetable • Summer snack • Grilled on charcoal • Sold by vendors • Golden rows • Buttered and salted",
    "hints": [
     {
      "text": "Grain vegetable",
@@ -4662,6 +4799,7 @@
   },
   {
    "word": "Bean sprouts",
+   "description": "Crunchy vegetable • Asian topping • Added to pho • Grown in jars • White shoots • Tiny tails",
    "hints": [
     {
      "text": "Crunchy vegetable",
@@ -4696,6 +4834,7 @@
   },
   {
    "word": "Cherry tomato",
+   "description": "Small vegetable • Salad favorite • Grows in clusters • Bursts when bitten • Bite sized red • Sweet and juicy",
    "hints": [
     {
      "text": "Small vegetable",
@@ -4730,6 +4869,7 @@
   },
   {
    "word": "Pumpkin seeds",
+   "description": "Crunchy snack • Healthy snack • Roasted after carving • Salty crunch • Flat green kernels • White husks",
    "hints": [
     {
      "text": "Crunchy snack",
@@ -4764,6 +4904,7 @@
   },
   {
    "word": "Sunflower seeds",
+   "description": "Shelled snack • Baseball snack • Spit out shells • Salty crunch • Striped shells • Grey kernels",
    "hints": [
     {
      "text": "Shelled snack",
@@ -4798,6 +4939,7 @@
   },
   {
    "word": "Soybean",
+   "description": "Legume • Protein crop • Made into tofu • Pressed for oil • Small round beans • Fuzzy pods",
    "hints": [
     {
      "text": "Legume",
@@ -4832,6 +4974,7 @@
   },
   {
    "word": "Black beans",
+   "description": "Legume • Dark pulse • Used in burritos • Latin staple • Tiny and dark • Creamy inside",
    "hints": [
     {
      "text": "Legume",
@@ -4866,6 +5009,7 @@
   },
   {
    "word": "Potato wedge",
+   "description": "Side dish • Chunky fry • Served with dips • Oven baked • Thick slices • Skin on",
    "hints": [
     {
      "text": "Side dish",
@@ -4900,6 +5044,7 @@
   },
   {
    "word": "Iceberg lettuce",
+   "description": "Salad green • Crunchy leaf • Burger topping • Very watery • Pale round head • Crisp leaves",
    "hints": [
     {
      "text": "Salad green",
@@ -4934,6 +5079,7 @@
   },
   {
    "word": "Romaine",
+   "description": "Salad green • Long leaf • Used in caesar salad • Crunchy ribs • Long upright leaves • Dark green",
    "hints": [
     {
      "text": "Salad green",
@@ -4968,6 +5114,7 @@
   },
   {
    "word": "Ginger root",
+   "description": "Kitchen spice • Knobby rhizome • Grated into tea • Used in stir fry • Beige skin • Peppery bite",
    "hints": [
     {
      "text": "Kitchen spice",
@@ -5002,6 +5149,7 @@
   },
   {
    "word": "Sweet pepper",
+   "description": "Mild vegetable • Colorful vegetable • Sliced into salads • Stuffed and roasted • Bell shape • Crunchy and juicy",
    "hints": [
     {
      "text": "Mild vegetable",
@@ -5036,6 +5184,7 @@
   },
   {
    "word": "Acorn squash",
+   "description": "Winter vegetable • Ribbed gourd • Roasted in halves • Autumn harvest • Dark green ridges • Orange flesh",
    "hints": [
     {
      "text": "Winter vegetable",
@@ -5070,6 +5219,7 @@
   },
   {
    "word": "Butternut",
+   "description": "Winter vegetable • Pear shaped gourd • Made into soup • Roasted in cubes • Tan skin • Sweet orange flesh",
    "hints": [
     {
      "text": "Winter vegetable",
@@ -5104,6 +5254,7 @@
   },
   {
    "word": "Red cabbage",
+   "description": "Purple vegetable • Leafy head • Pickled or slawed • Turns blue when cooked • Deep purple leaves • Tight layers",
    "hints": [
     {
      "text": "Purple vegetable",
@@ -5138,6 +5289,7 @@
   },
   {
    "word": "Radicchio",
+   "description": "Bitter leaf • Italian vegetable • Grilled in halves • Fancy salads • Red and white leaves • Small round head",
    "hints": [
     {
      "text": "Bitter leaf",
@@ -5172,6 +5324,7 @@
   },
   {
    "word": "Endive",
+   "description": "Bitter leaf • Salad green • Used as edible scoops • Belgian favorite • Pale torpedo shape • Crisp leaves",
    "hints": [
     {
      "text": "Bitter leaf",
@@ -5206,6 +5359,7 @@
   },
   {
    "word": "Garlic chives",
+   "description": "Herb • Flat allium • Used in dumplings • Asian kitchens • Flat green blades • Pungent aroma",
    "hints": [
     {
      "text": "Herb",
@@ -5240,6 +5394,7 @@
   },
   {
    "word": "Cucumber pickle",
+   "description": "Preserved vegetable • Tangy side • Served with burgers • Kept in jars • Briny and crunchy • Dill flavor",
    "hints": [
     {
      "text": "Preserved vegetable",
