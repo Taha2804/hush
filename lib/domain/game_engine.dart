@@ -47,6 +47,7 @@ class RoundState {
     required this.turnOrder,
     this.hint,
     this.fakeWord,
+    this.description,
     this.effectiveMode = GameMode.classic,
     this.revealIndex = 0,
     this.revealSeen = false,
@@ -74,6 +75,9 @@ class RoundState {
   final String category;
   final String? hint;
   final String? fakeWord;
+
+  /// Short description shown with the word to players who get the real word.
+  final String? description;
   final GameMode effectiveMode;
 
   /// Imposter player indices; empty means "nobody" (chaos round).
@@ -144,6 +148,7 @@ class RoundState {
         category: category,
         hint: hint,
         fakeWord: fakeWord,
+        description: description,
         effectiveMode: effectiveMode,
         imposters: imposters,
         starter: starter,
@@ -234,6 +239,7 @@ class GameEngine {
     required String category,
     String? hint,
     String? fakeWord,
+    String? description,
     List<int> previousImposters = const [],
   }) {
     final n = config.players.length;
@@ -263,6 +269,7 @@ class GameEngine {
       category: category,
       hint: hint,
       fakeWord: mode == GameMode.fakeWord ? fakeWord : null,
+      description: description,
       effectiveMode: mode,
       imposters: draw.imposters,
       starter: draw.starter,
@@ -444,4 +451,16 @@ class GameEngine {
     }
     return out;
   }
+}
+
+/// Builds a word's description from its hint lines, broad to specific,
+/// for example "Wild animal • Big cat • Lives in a pride".
+String? describeWord(Iterable<({String text, int level})> hints) {
+  final sorted = hints.toList()..sort((a, b) => a.level.compareTo(b.level));
+  final seen = <String>{};
+  final parts = [
+    for (final h in sorted)
+      if (h.text.trim().isNotEmpty && seen.add(h.text.trim().toLowerCase())) h.text.trim(),
+  ];
+  return parts.isEmpty ? null : parts.join(' • ');
 }

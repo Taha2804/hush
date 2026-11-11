@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-import '../data/prefs/settings.dart';
 
 /// Design tokens from the Hushbug UI Design System & Architecture Plan.
 class HushbugColors {
@@ -195,8 +194,3 @@ ThemeData buildTheme(Brightness brightness, int accent, {bool amoled = false}) {
   );
 }
 
-ThemeMode toThemeMode(AppThemeMode m) => switch (m) {
-      AppThemeMode.system => ThemeMode.system,
-      AppThemeMode.light => ThemeMode.light,
-      AppThemeMode.dark || AppThemeMode.amoled => ThemeMode.dark,
-    };

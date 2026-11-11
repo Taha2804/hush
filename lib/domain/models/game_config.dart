@@ -11,8 +11,6 @@ enum VoteStyle { simple, private }
 
 enum SeatingMode { seatingFromStarter, fullyShuffled }
 
-enum RevealStyle { hold, tap }
-
 /// Easy shows level-3 (specific) hints, Hard shows level-1 (vague) hints.
 enum HintDifficulty {
   easy(3),
@@ -48,7 +46,6 @@ abstract class GameConfig with _$GameConfig {
     @Default(false) bool avoidSameImposter,
     @Default(true) bool lastChance,
     @Default(true) bool scoreboard,
-    @Default(RevealStyle.hold) RevealStyle revealStyle,
     // ---- Fun extras ----
     /// With 2+ imposters, each imposter's card names their partners.
     @Default(false) bool impostersKnowEachOther,

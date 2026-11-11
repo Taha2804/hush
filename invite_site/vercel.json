@@ -1,0 +1,10 @@
+{
+  "cleanUrls": true,
+  "rewrites": [{ "source": "/invite/:code", "destination": "/invite.html" }],
+  "headers": [
+    {
+      "source": "/.well-known/(.*)",
+      "headers": [{ "key": "Content-Type", "value": "application/json" }]
+    }
+  ]
+}

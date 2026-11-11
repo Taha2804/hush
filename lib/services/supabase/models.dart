@@ -1,4 +1,4 @@
-/// Data models for Supabase Online Multiplayer Game Sessions.
+// Data models for Supabase Online Multiplayer Game Sessions.
 
 class OnlineRoom {
   const OnlineRoom({
@@ -8,9 +8,18 @@ class OnlineRoom {
     required this.status,
     required this.maxPlayers,
     required this.config,
+    this.voicePolicy = const {},
+    this.totalRounds = 3,
+    this.currentRound = 0,
     this.createdAt,
   });
 
+  final int totalRounds;
+  final int currentRound;
+  String get voteMode => config['voteMode'] == 'sequential' ? 'sequential' : 'simultaneous';
+  String get voteVisibility => config['voteVisibility'] == 'public' ? 'public' : 'private';
+
+  final Map<String, dynamic> voicePolicy;
   final String id;
   final String code;
   final String hostId;
@@ -26,6 +35,9 @@ class OnlineRoom {
         status: j['status']?.toString() ?? 'waiting',
         maxPlayers: (j['max_players'] as num?)?.toInt() ?? 12,
         config: Map<String, dynamic>.from(j['config'] as Map? ?? {}),
+        voicePolicy: Map<String, dynamic>.from(j['voice_policy'] as Map? ?? {}),
+        totalRounds: (j['total_rounds'] as num?)?.toInt() ?? 3,
+        currentRound: (j['current_round'] as num?)?.toInt() ?? 0,
         createdAt: DateTime.tryParse(j['created_at']?.toString() ?? ''),
       );
 }
@@ -40,6 +52,7 @@ class OnlineRoomPlayer {
     required this.isHost,
     required this.isReady,
     required this.isConnected,
+    this.chatMuted = false,
     this.joinedAt,
   });
 
@@ -51,6 +64,7 @@ class OnlineRoomPlayer {
   final bool isHost;
   final bool isReady;
   final bool isConnected;
+  final bool chatMuted;
   final DateTime? joinedAt;
 
   factory OnlineRoomPlayer.fromJson(Map<String, dynamic> j) => OnlineRoomPlayer(
@@ -62,6 +76,7 @@ class OnlineRoomPlayer {
         isHost: (j['is_host'] as bool?) ?? false,
         isReady: (j['is_ready'] as bool?) ?? false,
         isConnected: (j['is_connected'] as bool?) ?? true,
+        chatMuted: (j['chat_muted'] as bool?) ?? false,
         joinedAt: DateTime.tryParse(j['joined_at']?.toString() ?? ''),
       );
 }
@@ -81,6 +96,12 @@ class OnlineGameSession {
     this.discussionEndTime,
     this.timerPaused = false,
     this.timerRemainingSeconds = 0,
+    this.revotes = 0,
+    this.matchRound = 1,
+    this.voteMode = 'simultaneous',
+    this.voteVisibility = 'private',
+    this.voters = const [],
+    this.lastVoteSummary,
     this.winner,
     this.winReason,
   });
@@ -98,6 +119,18 @@ class OnlineGameSession {
   final DateTime? discussionEndTime;
   final bool timerPaused;
   final int timerRemainingSeconds;
+  final int revotes;
+  final int matchRound;
+  final String voteMode;
+  final String voteVisibility;
+
+  /// Players who have handed in a ballot in the current vote (never targets).
+  final List<String> voters;
+
+  /// Set when a vote closes: counts, plus who voted for whom in public mode.
+  final Map<String, dynamic>? lastVoteSummary;
+
+  bool get isSequentialVote => voteMode == 'sequential';
   final String? winner;
   final String? winReason;
 
@@ -115,6 +148,12 @@ class OnlineGameSession {
         discussionEndTime: DateTime.tryParse(j['discussion_end_time']?.toString() ?? ''),
         timerPaused: (j['timer_paused'] as bool?) ?? false,
         timerRemainingSeconds: (j['timer_remaining_seconds'] as num?)?.toInt() ?? 0,
+        revotes: (j['revotes'] as num?)?.toInt() ?? 0,
+        matchRound: (j['match_round'] as num?)?.toInt() ?? 1,
+        voteMode: j['vote_mode']?.toString() ?? 'simultaneous',
+        voteVisibility: j['vote_visibility']?.toString() ?? 'private',
+        voters: (j['voters'] as List? ?? []).map((e) => e.toString()).toList(),
+        lastVoteSummary: j['last_vote_summary'] is Map ? Map<String, dynamic>.from(j['last_vote_summary'] as Map) : null,
         winner: j['winner']?.toString(),
         winReason: j['win_reason']?.toString(),
       );
@@ -159,6 +198,7 @@ class OnlinePrivateAssignment {
     required this.word,
     this.hint,
     this.fakeWord,
+    this.description,
     this.teammates = const [],
   });
 
@@ -166,6 +206,9 @@ class OnlinePrivateAssignment {
   final String word;
   final String? hint;
   final String? fakeWord;
+
+  /// What the word means. Only players who get the real word receive it.
+  final String? description;
   final List<String> teammates;
 
   factory OnlinePrivateAssignment.fromJson(Map<String, dynamic> j) => OnlinePrivateAssignment(
@@ -173,6 +216,7 @@ class OnlinePrivateAssignment {
         word: j['word']?.toString() ?? '',
         hint: j['hint']?.toString(),
         fakeWord: j['fake_word']?.toString(),
+        description: j['description']?.toString(),
         teammates: (j['teammates'] as List? ?? []).map((e) => e.toString()).toList(),
       );
 }
@@ -228,5 +272,74 @@ class OnlineResult {
         secretWord: j['secret_word']?.toString() ?? '',
         imposters: (j['imposters'] as List? ?? []).map((e) => e.toString()).toList(),
         scores: Map<String, dynamic>.from(j['scores'] as Map? ?? {}),
+      );
+}
+
+class DiscussionEndRequest {
+  const DiscussionEndRequest({
+    required this.id,
+    required this.requesterId,
+    required this.requesterName,
+    required this.status,
+    required this.approvals,
+    required this.eligible,
+    required this.expiresAt,
+  });
+
+  final String id;
+  final String? requesterId;
+  final String requesterName;
+  final String status;
+  final int approvals;
+  final int eligible;
+  final DateTime expiresAt;
+
+  bool get isPending => status == 'pending' && expiresAt.isAfter(DateTime.now());
+
+  factory DiscussionEndRequest.fromJson(Map<String, dynamic> j) => DiscussionEndRequest(
+        id: j['id'].toString(),
+        requesterId: j['requester_id']?.toString(),
+        requesterName: j['requester_name']?.toString() ?? 'Someone',
+        status: j['status']?.toString() ?? 'expired',
+        approvals: (j['approvals'] as num?)?.toInt() ?? 0,
+        eligible: (j['eligible'] as num?)?.toInt() ?? 0,
+        expiresAt: DateTime.tryParse(j['expires_at']?.toString() ?? '')?.toLocal() ?? DateTime.now(),
+      );
+}
+
+class MatchStanding {
+  const MatchStanding(this.playerId, this.displayName, this.points);
+  final String playerId;
+  final String displayName;
+  final int points;
+}
+
+/// What an invitation or typed room code points to.
+class RoomPreview {
+  const RoomPreview({required this.status, this.code, this.hostName, this.playerCount = 0, this.maxPlayers = 12});
+
+  /// open, member, started, full, expired or not_found.
+  final String status;
+  final String? code;
+  final String? hostName;
+  final int playerCount;
+  final int maxPlayers;
+
+  bool get canJoin => status == 'open' || status == 'member';
+
+  String get problem => switch (status) {
+        'not_found' => 'No room has that code. It may have been closed.',
+        'expired' => 'This room has expired.',
+        'full' => 'This room is full.',
+        'started' => 'That game has already started.',
+        _ => '',
+      };
+
+  factory RoomPreview.fromJson(Map<String, dynamic> j) => RoomPreview(
+        status: j['status']?.toString() ?? 'not_found',
+        code: j['code']?.toString(),
+        hostName: j['host_name']?.toString(),
+        playerCount: (j['player_count'] as num?)?.toInt() ?? 0,
+        maxPlayers: (j['max_players'] as num?)?.toInt() ?? 12,
       );
 }

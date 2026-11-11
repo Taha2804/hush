@@ -8,11 +8,10 @@ import 'package:hushbug/app/providers.dart';
 import 'package:hushbug/data/db/app_db.dart';
 import 'package:hushbug/data/sources/online/json_fetcher.dart';
 import 'package:hushbug/data/sources/online/online_source.dart';
-import 'package:hushbug/presentation/widgets/mascot.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 void main() {
-  testWidgets('app boots to the source picker and shows three sources', (tester) async {
+  testWidgets('app boots to Home without Daily Challenges', (tester) async {
     SharedPreferences.setMockInitialValues({});
     final prefs = await SharedPreferences.getInstance();
     final db = AppDb(NativeDatabase.memory());
@@ -37,10 +36,9 @@ void main() {
     await tester.runAsync(() => Future<void>.delayed(const Duration(milliseconds: 200)));
     await tester.pump(const Duration(milliseconds: 300));
 
-    expect(find.text('Choose word source'), findsOneWidget);
-    expect(find.text('Online Search'), findsOneWidget);
-    expect(find.text('Offline Packs'), findsOneWidget);
-    expect(find.text('My Words'), findsWidgets);
-    expect(find.byType(Mascot), findsWidgets);
+    expect(find.text('Hushbug'), findsWidgets);
+    expect(find.byTooltip('Settings'), findsOneWidget);
+    expect(find.byTooltip('Daily Mission'), findsNothing);
+    expect(find.textContaining('DAILY CHALLENGE'), findsNothing);
   });
 }

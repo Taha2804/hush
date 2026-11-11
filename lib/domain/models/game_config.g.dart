@@ -38,9 +38,6 @@ _GameConfig _$GameConfigFromJson(Map<String, dynamic> json) => _GameConfig(
   avoidSameImposter: json['avoidSameImposter'] as bool? ?? false,
   lastChance: json['lastChance'] as bool? ?? true,
   scoreboard: json['scoreboard'] as bool? ?? true,
-  revealStyle:
-      $enumDecodeNullable(_$RevealStyleEnumMap, json['revealStyle']) ??
-      RevealStyle.hold,
   impostersKnowEachOther: json['impostersKnowEachOther'] as bool? ?? false,
   crewStarts: json['crewStarts'] as bool? ?? false,
   roundTwists: json['roundTwists'] as bool? ?? false,
@@ -66,7 +63,6 @@ Map<String, dynamic> _$GameConfigToJson(_GameConfig instance) =>
       'avoidSameImposter': instance.avoidSameImposter,
       'lastChance': instance.lastChance,
       'scoreboard': instance.scoreboard,
-      'revealStyle': _$RevealStyleEnumMap[instance.revealStyle]!,
       'impostersKnowEachOther': instance.impostersKnowEachOther,
       'crewStarts': instance.crewStarts,
       'roundTwists': instance.roundTwists,
@@ -98,5 +94,3 @@ const _$SeatingModeEnumMap = {
   SeatingMode.seatingFromStarter: 'seatingFromStarter',
   SeatingMode.fullyShuffled: 'fullyShuffled',
 };
-
-const _$RevealStyleEnumMap = {RevealStyle.hold: 'hold', RevealStyle.tap: 'tap'};

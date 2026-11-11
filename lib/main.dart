@@ -8,7 +8,6 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'app/app.dart';
 import 'app/providers.dart';
 import 'data/db/app_db.dart';
-import 'services/supabase/supabase_config.dart';
 import 'services/supabase/supabase_service.dart';
 
 Future<void> main() async {
@@ -31,7 +30,6 @@ Future<void> main() async {
     final brands = await rootBundle.loadString('assets/brands.txt');
 
     // Initialize Supabase Online Multiplayer subsystem
-    await SupabaseConfig.init(prefs);
     await SupabaseService.initialize();
 
     runApp(ProviderScope(

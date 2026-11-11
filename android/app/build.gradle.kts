@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.hushbug.hushbug"
-    compileSdk = flutter.compileSdkVersion
+    compileSdk = maxOf(flutter.compileSdkVersion, 37)
     ndkVersion = flutter.ndkVersion
 
     compileOptions {
@@ -27,6 +27,8 @@ android {
         // flag during build.
         versionCode = flutter.versionCode
         versionName = flutter.versionName
+        // Domain that serves invite links and /.well-known/assetlinks.json.
+        manifestPlaceholders["inviteHost"] = (project.findProperty("inviteHost") as String?) ?: "hushbug.app"
     }
 
     buildTypes {

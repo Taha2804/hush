@@ -4,17 +4,12 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 import '../../domain/models/game_config.dart';
 
-enum AppThemeMode { system, light, dark, amoled }
-
 /// User preferences (persisted in shared_preferences).
 class AppSettings {
   const AppSettings({
-    this.themeMode = AppThemeMode.system,
-    this.accent = 0,
     this.language = 'en',
     this.sound = true,
     this.haptics = true,
-    this.textScale = 1.0,
     this.reduceMotion = false,
     this.askSourceEveryLaunch = true,
     this.lastSource,
@@ -23,14 +18,17 @@ class AppSettings {
     this.selectedCategories = const {},
     this.playerGroups = const [],
     this.playerAvatars = const {},
+    this.voiceEnabled = true,
+    this.pushToTalk = false,
+    this.speakerOutput = true,
+    this.voiceVolume = 1.0,
+    this.chatNotifications = true,
+    this.chatTimestamps = true,
   });
 
-  final AppThemeMode themeMode;
-  final int accent;
   final String language;
   final bool sound;
   final bool haptics;
-  final double textScale;
   final bool reduceMotion;
   final bool askSourceEveryLaunch;
   final String? lastSource;
@@ -46,13 +44,18 @@ class AppSettings {
   /// Custom avatar index (0..7) chosen per player name.
   final Map<String, int> playerAvatars;
 
+  // Online voice and chat preferences.
+  final bool voiceEnabled;
+  final bool pushToTalk;
+  final bool speakerOutput;
+  final double voiceVolume;
+  final bool chatNotifications;
+  final bool chatTimestamps;
+
   AppSettings copyWith({
-    AppThemeMode? themeMode,
-    int? accent,
     String? language,
     bool? sound,
     bool? haptics,
-    double? textScale,
     bool? reduceMotion,
     bool? askSourceEveryLaunch,
     String? Function()? lastSource,
@@ -61,14 +64,17 @@ class AppSettings {
     Map<String, List<String>>? selectedCategories,
     List<PlayerGroup>? playerGroups,
     Map<String, int>? playerAvatars,
+    bool? voiceEnabled,
+    bool? pushToTalk,
+    bool? speakerOutput,
+    double? voiceVolume,
+    bool? chatNotifications,
+    bool? chatTimestamps,
   }) =>
       AppSettings(
-        themeMode: themeMode ?? this.themeMode,
-        accent: accent ?? this.accent,
         language: language ?? this.language,
         sound: sound ?? this.sound,
         haptics: haptics ?? this.haptics,
-        textScale: textScale ?? this.textScale,
         reduceMotion: reduceMotion ?? this.reduceMotion,
         askSourceEveryLaunch: askSourceEveryLaunch ?? this.askSourceEveryLaunch,
         lastSource: lastSource != null ? lastSource() : this.lastSource,
@@ -77,15 +83,18 @@ class AppSettings {
         selectedCategories: selectedCategories ?? this.selectedCategories,
         playerGroups: playerGroups ?? this.playerGroups,
         playerAvatars: playerAvatars ?? this.playerAvatars,
+        voiceEnabled: voiceEnabled ?? this.voiceEnabled,
+        pushToTalk: pushToTalk ?? this.pushToTalk,
+        speakerOutput: speakerOutput ?? this.speakerOutput,
+        voiceVolume: voiceVolume ?? this.voiceVolume,
+        chatNotifications: chatNotifications ?? this.chatNotifications,
+        chatTimestamps: chatTimestamps ?? this.chatTimestamps,
       );
 
   Map<String, dynamic> toJson() => {
-        'themeMode': themeMode.name,
-        'accent': accent,
         'language': language,
         'sound': sound,
         'haptics': haptics,
-        'textScale': textScale,
         'reduceMotion': reduceMotion,
         'askSourceEveryLaunch': askSourceEveryLaunch,
         'lastSource': lastSource,
@@ -94,6 +103,12 @@ class AppSettings {
         'selectedCategories': selectedCategories,
         'playerGroups': [for (final g in playerGroups) g.toJson()],
         'playerAvatars': playerAvatars,
+        'voiceEnabled': voiceEnabled,
+        'pushToTalk': pushToTalk,
+        'speakerOutput': speakerOutput,
+        'voiceVolume': voiceVolume,
+        'chatNotifications': chatNotifications,
+        'chatTimestamps': chatTimestamps,
       };
 
   factory AppSettings.fromJson(Map<String, dynamic> j) {
@@ -105,13 +120,9 @@ class AppSettings {
       game = const GameConfig();
     }
     return AppSettings(
-      themeMode: AppThemeMode.values.firstWhere((m) => m.name == j['themeMode'],
-          orElse: () => AppThemeMode.system),
-      accent: pick<num>('accent', 0).toInt().clamp(0, 5),
       language: pick('language', 'en'),
       sound: pick('sound', true),
       haptics: pick('haptics', true),
-      textScale: pick<num>('textScale', 1.0).toDouble().clamp(0.85, 1.5),
       reduceMotion: pick('reduceMotion', false),
       askSourceEveryLaunch: pick('askSourceEveryLaunch', true),
       lastSource: j['lastSource'] as String?,
@@ -132,6 +143,12 @@ class AppSettings {
         for (final e in (j['playerAvatars'] as Map? ?? const {}).entries)
           e.key.toString(): (e.value as num).toInt(),
       },
+      voiceEnabled: pick('voiceEnabled', true),
+      pushToTalk: pick('pushToTalk', false),
+      speakerOutput: pick('speakerOutput', true),
+      voiceVolume: pick<num>('voiceVolume', 1.0).toDouble().clamp(0.0, 1.0),
+      chatNotifications: pick('chatNotifications', true),
+      chatTimestamps: pick('chatTimestamps', true),
     );
   }
 }

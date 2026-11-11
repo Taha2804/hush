@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../app/providers.dart';
-import '../../data/prefs/settings.dart';
 import '../theme.dart';
 import 'common.dart';
 import 'mascot.dart';
@@ -583,29 +582,6 @@ class _ConfettiPainter extends CustomPainter {
 
   @override
   bool shouldRepaint(covariant CustomPainter oldDelegate) => false;
-}
-
-/// Theme toggle button
-class ThemeToggleButton extends ConsumerWidget {
-  const ThemeToggleButton({super.key});
-
-  @override
-  Widget build(BuildContext context, WidgetRef ref) {
-    final isDark = Theme.of(context).brightness == Brightness.dark;
-    final mode = ref.watch(settingsProvider.select((s) => s.themeMode));
-    final n = ref.read(settingsProvider.notifier);
-    return IconButton(
-      tooltip: isDark ? 'Light mode' : 'Dark mode',
-      onPressed: () => n.update((s) => s.copyWith(themeMode: isDark ? AppThemeMode.light : AppThemeMode.dark)),
-      onLongPress: () => n.update((s) => s.copyWith(
-          themeMode: mode == AppThemeMode.amoled ? AppThemeMode.dark : AppThemeMode.amoled)),
-      icon: AnimatedSwitcher(
-        duration: const Duration(milliseconds: 250),
-        transitionBuilder: (c, a) => RotationTransition(turns: a, child: FadeTransition(opacity: a, child: c)),
-        child: Icon(isDark ? Icons.light_mode_rounded : Icons.dark_mode_rounded, key: ValueKey(isDark)),
-      ),
-    );
-  }
 }
 
 /// Icons for categories

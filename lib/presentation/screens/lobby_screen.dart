@@ -47,11 +47,6 @@ class _LobbyScreenState extends ConsumerState<LobbyScreen> with SingleTickerProv
     final gameSession = ref.watch(gameProvider);
     final hasActiveRound = gameSession.round != null && gameSession.round?.phase != GamePhase.result;
 
-    final now = DateTime.now().toUtc();
-    final endOfDay = DateTime.utc(now.year, now.month, now.day, 23, 59, 59);
-    final diff = endOfDay.difference(now);
-    final resetCountdown = 'Resets in ${diff.inHours}h ${diff.inMinutes % 60}m';
-
     return Scaffold(
       body: Container(
         width: double.infinity,
@@ -137,23 +132,9 @@ class _LobbyScreenState extends ConsumerState<LobbyScreen> with SingleTickerProv
                           ),
                         ),
 
-                        // Right Shortcuts: Daily Mission & Settings
+                        // Right shortcut: Settings
                         Row(
                           children: [
-                            IconButton(
-                              tooltip: 'Daily Mission',
-                              onPressed: () => context.push('/daily'),
-                              style: IconButton.styleFrom(
-                                backgroundColor: HushbugColors.cardSurface.withValues(alpha: 0.8),
-                                foregroundColor: HushbugColors.accentYellow,
-                                shape: RoundedRectangleBorder(
-                                  borderRadius: BorderRadius.circular(16),
-                                  side: const BorderSide(color: HushbugColors.cardBorder, width: 1),
-                                ),
-                              ),
-                              icon: const Icon(Icons.flash_on_rounded, size: 20),
-                            ),
-                            const SizedBox(width: 8),
                             IconButton(
                               tooltip: 'Settings',
                               onPressed: () => context.push('/settings'),
@@ -201,97 +182,6 @@ class _LobbyScreenState extends ConsumerState<LobbyScreen> with SingleTickerProv
                           ),
                         ),
                       ],
-                    ),
-
-                    // Daily Challenge Section Card
-                    Material(
-                      color: Colors.transparent,
-                      child: InkWell(
-                        onTap: () => context.push('/daily'),
-                        borderRadius: BorderRadius.circular(18),
-                        child: Container(
-                          padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
-                          decoration: BoxDecoration(
-                            color: HushbugColors.cardSurface.withValues(alpha: 0.9),
-                            borderRadius: BorderRadius.circular(18),
-                            border: Border.all(
-                              color: stats.dailyChallengeCompleted
-                                  ? HushbugColors.civilianEmerald.withValues(alpha: 0.5)
-                                  : HushbugColors.neonPurple.withValues(alpha: 0.4),
-                              width: 1.2,
-                            ),
-                          ),
-                          child: Row(
-                            children: [
-                              Container(
-                                width: 34,
-                                height: 34,
-                                decoration: BoxDecoration(
-                                  color: stats.dailyChallengeCompleted
-                                      ? HushbugColors.civilianBg
-                                      : HushbugColors.neonPurple.withValues(alpha: 0.25),
-                                  borderRadius: BorderRadius.circular(10),
-                                ),
-                                child: Icon(
-                                  stats.dailyChallengeCompleted
-                                      ? Icons.check_circle_rounded
-                                      : Icons.auto_awesome_rounded,
-                                  color: stats.dailyChallengeCompleted
-                                      ? HushbugColors.civilianEmerald
-                                      : HushbugColors.accentYellow,
-                                  size: 18,
-                                ),
-                              ),
-                              const SizedBox(width: 10),
-                              Expanded(
-                                child: Column(
-                                  crossAxisAlignment: CrossAxisAlignment.start,
-                                  children: [
-                                    Row(
-                                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                                      children: [
-                                        const Text(
-                                          'DAILY CHALLENGE',
-                                          style: TextStyle(
-                                            color: HushbugColors.textPrimary,
-                                            fontSize: 11,
-                                            fontWeight: FontWeight.w800,
-                                            letterSpacing: 0.5,
-                                          ),
-                                        ),
-                                        Text(
-                                          stats.dailyChallengeCompleted ? 'Completed' : resetCountdown,
-                                          style: TextStyle(
-                                            color: stats.dailyChallengeCompleted
-                                                ? HushbugColors.civilianEmerald
-                                                : HushbugColors.accentYellow,
-                                            fontSize: 10,
-                                            fontWeight: FontWeight.w700,
-                                          ),
-                                        ),
-                                      ],
-                                    ),
-                                    const SizedBox(height: 2),
-                                    Text(
-                                      stats.dailyChallengeCompleted
-                                          ? 'Daily streak extended! See your challenge results.'
-                                          : "Today's Mystery Word: Explore clues with friends.",
-                                      maxLines: 1,
-                                      overflow: TextOverflow.ellipsis,
-                                      style: const TextStyle(
-                                        color: HushbugColors.textSubtext,
-                                        fontSize: 11,
-                                      ),
-                                    ),
-                                  ],
-                                ),
-                              ),
-                              const SizedBox(width: 6),
-                              const Icon(Icons.chevron_right_rounded, color: HushbugColors.textSubtext, size: 20),
-                            ],
-                          ),
-                        ),
-                      ),
                     ),
 
                     // Primary Action CTAs with subtle idle pulse & peeking mascot

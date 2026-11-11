@@ -5,7 +5,6 @@ import 'package:go_router/go_router.dart';
 import '../../app/providers.dart';
 import '../../data/prefs/settings.dart';
 import '../../domain/models/game_config.dart';
-import '../theme.dart';
 import '../widgets/common.dart';
 
 final _onlineCacheSizeProvider = FutureProvider.autoDispose<int>((ref) => ref.watch(onlineSourceProvider).cacheSize());
@@ -64,13 +63,6 @@ class SettingsScreen extends ConsumerWidget {
                 value: g.speedRound ? g.speedSeconds : 0,
                 options: {0: l.off, for (final x in [10, 15, 20, 30]) x: l.seconds(x)},
                 onChanged: (v) => game((g) => g.copyWith(speedRound: v > 0, speedSeconds: v > 0 ? v : g.speedSeconds)),
-              ),
-              _Choice<RevealStyle>(
-                title: l.revealStyle,
-                description: g.revealStyle == RevealStyle.hold ? l.revealHoldDesc : l.revealTapDesc,
-                value: g.revealStyle,
-                options: {RevealStyle.hold: l.revealHold, RevealStyle.tap: l.revealTap},
-                onChanged: (v) => game((g) => g.copyWith(revealStyle: v)),
               ),
               _Choice<SeatingMode>(
                 title: l.seating,
@@ -182,6 +174,40 @@ class SettingsScreen extends ConsumerWidget {
                 onTap: () => context.push('/settings/app'),
               ),
             ),
+            const SizedBox(height: 10),
+            Card(
+              child: ListTile(
+                leading: const Icon(Icons.forum_rounded),
+                title: const Text('Communication', style: TextStyle(fontWeight: FontWeight.w700)),
+                subtitle: const Text('Voice, chat and privacy for online games'),
+                trailing: const Icon(Icons.chevron_right_rounded),
+                onTap: () => context.push('/settings/communication'),
+              ),
+            ),
+            const SizedBox(height: 10),
+            Card(
+              child: Column(children: [
+                ListTile(
+                  leading: const Icon(Icons.account_circle_rounded),
+                  title: const Text('Account & Friends', style: TextStyle(fontWeight: FontWeight.w700)),
+                  subtitle: const Text('Your name, friend code, Google sign-in and blocked players'),
+                  trailing: const Icon(Icons.chevron_right_rounded),
+                  onTap: () => context.push('/friends'),
+                ),
+                ListTile(
+                  leading: const Icon(Icons.help_outline_rounded),
+                  title: const Text('Help & How to Play', style: TextStyle(fontWeight: FontWeight.w700)),
+                  trailing: const Icon(Icons.chevron_right_rounded),
+                  onTap: () => context.push('/how'),
+                ),
+                ListTile(
+                  leading: const Icon(Icons.info_outline_rounded),
+                  title: const Text('About Hushbug', style: TextStyle(fontWeight: FontWeight.w700)),
+                  trailing: const Icon(Icons.chevron_right_rounded),
+                  onTap: () => context.push('/about'),
+                ),
+              ]),
+            ),
           ]),
         ),
       ]),
@@ -189,7 +215,7 @@ class SettingsScreen extends ConsumerWidget {
   }
 }
 
-/// Theme, language, sound, start-up and word-data settings.
+/// Language, sound, start-up and word-data settings.
 class AppPreferencesScreen extends ConsumerWidget {
   const AppPreferencesScreen({super.key});
 
@@ -205,50 +231,10 @@ class AppPreferencesScreen extends ConsumerWidget {
       body: ListView(padding: const EdgeInsets.only(bottom: 32), children: [
         Body(
           child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
-            _Section(icon: Icons.palette_rounded, title: l.appearance, children: [
+            _Section(icon: Icons.translate_rounded, title: l.language, children: [
               Padding(
                 padding: const EdgeInsets.fromLTRB(16, 8, 16, 16),
                 child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                  Text(l.theme),
-                  const SizedBox(height: 8),
-                  SegmentedButton<AppThemeMode>(
-                    segments: [
-                      ButtonSegment(value: AppThemeMode.system, label: Text(l.themeSystem)),
-                      ButtonSegment(value: AppThemeMode.light, label: Text(l.themeLight)),
-                      ButtonSegment(value: AppThemeMode.dark, label: Text(l.themeDark)),
-                      ButtonSegment(value: AppThemeMode.amoled, label: Text(l.themeAmoled)),
-                    ],
-                    selected: {s.themeMode},
-                    onSelectionChanged: (v) => set((s) => s.copyWith(themeMode: v.first)),
-                  ),
-                  const SizedBox(height: 16),
-                  Text(l.accentColor),
-                  const SizedBox(height: 8),
-                  Wrap(spacing: 12, runSpacing: 12, children: [
-                    for (var i = 0; i < accentColors.length; i++)
-                      Semantics(
-                        label: '${l.accentColor} ${i + 1}',
-                        selected: s.accent == i,
-                        button: true,
-                        child: InkWell(
-                          customBorder: const CircleBorder(),
-                          onTap: () => set((s) => s.copyWith(accent: i)),
-                          child: Container(
-                            width: 44,
-                            height: 44,
-                            decoration: BoxDecoration(
-                              color: accentColors[i],
-                              shape: BoxShape.circle,
-                              border: Border.all(
-                                  color: s.accent == i ? Theme.of(context).colorScheme.onSurface : Colors.transparent,
-                                  width: 3),
-                            ),
-                            child: s.accent == i ? const Icon(Icons.check_rounded, color: Colors.white) : null,
-                          ),
-                        ),
-                      ),
-                  ]),
-                  const SizedBox(height: 16),
                   Text(l.language),
                   const SizedBox(height: 8),
                   SegmentedButton<String>(
@@ -258,16 +244,6 @@ class AppPreferencesScreen extends ConsumerWidget {
                     ],
                     selected: {s.language},
                     onSelectionChanged: (v) => set((s) => s.copyWith(language: v.first)),
-                  ),
-                  const SizedBox(height: 16),
-                  Text('${l.textSize}: ${(s.textScale * 100).round()}%'),
-                  Slider(
-                    value: s.textScale,
-                    min: 0.85,
-                    max: 1.5,
-                    divisions: 13,
-                    label: '${(s.textScale * 100).round()}%',
-                    onChanged: (v) => set((s) => s.copyWith(textScale: v)),
                   ),
                 ]),
               ),

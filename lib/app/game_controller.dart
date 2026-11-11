@@ -108,6 +108,7 @@ class GameController extends Notifier<GameSession> {
         category: categoryName,
         hint: dealt.entry.hints.isEmpty ? categoryName : dealt.hint,
         fakeWord: dealt.fakeWord,
+        description: describeWord(dealt.entry.hints.map((h) => (text: h.text, level: h.level))),
         previousImposters: state.previousImposters,
       );
       if (wantFake && round.effectiveMode != GameMode.fakeWord) notice = 'fake_fallback';

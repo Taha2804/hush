@@ -103,7 +103,7 @@ class GameHistoryRecord {
       );
 }
 
-/// Player Profile, Stats, Achievements & Daily Challenge State Store.
+/// Player Profile, Stats & Achievements State Store.
 class GameStats {
   const GameStats({
     this.totalGames = 0,
@@ -117,8 +117,6 @@ class GameStats {
     this.playerXp = 0,
     this.mostPlayedCategory = 'None',
     this.selectedAvatar = 0,
-    this.dailyChallengeCompleted = false,
-    this.dailyStreak = 0,
     this.history = const [],
     this.unlockedCosmetics = const ['classic'],
     this.selectedCosmetic = 'classic',
@@ -135,8 +133,6 @@ class GameStats {
   final int playerXp;
   final String mostPlayedCategory;
   final int selectedAvatar;
-  final bool dailyChallengeCompleted;
-  final int dailyStreak;
   final List<GameHistoryRecord> history;
   final List<String> unlockedCosmetics;
   final String selectedCosmetic;
@@ -158,8 +154,6 @@ class GameStats {
         'playerXp': playerXp,
         'mostPlayedCategory': mostPlayedCategory,
         'selectedAvatar': selectedAvatar,
-        'dailyChallengeCompleted': dailyChallengeCompleted,
-        'dailyStreak': dailyStreak,
         'history': [for (final h in history) h.toJson()],
         'unlockedCosmetics': unlockedCosmetics,
         'selectedCosmetic': selectedCosmetic,
@@ -178,8 +172,6 @@ class GameStats {
       playerXp: (j['playerXp'] as num?)?.toInt() ?? 0,
       mostPlayedCategory: (j['mostPlayedCategory'] as String?) ?? 'None',
       selectedAvatar: (j['selectedAvatar'] as num?)?.toInt() ?? 0,
-      dailyChallengeCompleted: (j['dailyChallengeCompleted'] as bool?) ?? false,
-      dailyStreak: (j['dailyStreak'] as num?)?.toInt() ?? 0,
       history: [
         for (final h in (j['history'] as List? ?? []))
           if (h is Map) GameHistoryRecord.fromJson(Map<String, dynamic>.from(h)),
@@ -201,8 +193,6 @@ class GameStats {
     int? playerXp,
     String? mostPlayedCategory,
     int? selectedAvatar,
-    bool? dailyChallengeCompleted,
-    int? dailyStreak,
     List<GameHistoryRecord>? history,
     List<String>? unlockedCosmetics,
     String? selectedCosmetic,
@@ -219,8 +209,6 @@ class GameStats {
         playerXp: playerXp ?? this.playerXp,
         mostPlayedCategory: mostPlayedCategory ?? this.mostPlayedCategory,
         selectedAvatar: selectedAvatar ?? this.selectedAvatar,
-        dailyChallengeCompleted: dailyChallengeCompleted ?? this.dailyChallengeCompleted,
-        dailyStreak: dailyStreak ?? this.dailyStreak,
         history: history ?? this.history,
         unlockedCosmetics: unlockedCosmetics ?? this.unlockedCosmetics,
         selectedCosmetic: selectedCosmetic ?? this.selectedCosmetic,

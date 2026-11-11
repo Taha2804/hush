@@ -1,23 +1,27 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
-import '../data/prefs/settings.dart';
 import '../l10n/gen/app_localizations.dart';
 import '../presentation/screens/achievements_screen.dart';
-import '../presentation/screens/daily_challenge_screen.dart';
 import '../presentation/screens/info_screens.dart';
+import '../presentation/screens/invite_screen.dart';
 import '../presentation/screens/lobby_screen.dart';
 import '../presentation/screens/multiplayer_screen.dart';
 import '../presentation/screens/my_words_screens.dart';
 import '../presentation/screens/online_play_screen.dart';
+import '../presentation/screens/online_social_screens.dart';
 import '../presentation/screens/play_screen.dart';
 import '../presentation/screens/settings_screen.dart';
 import '../presentation/screens/setup_screen.dart';
 import '../presentation/screens/source_select_screen.dart';
 import '../presentation/screens/stats_screen.dart';
 import '../presentation/theme.dart';
+import '../presentation/widgets/room_comms.dart';
+import '../services/invite_links.dart';
 import 'providers.dart';
 
 final routerProvider = Provider<GoRouter>((ref) {
@@ -35,12 +39,15 @@ final routerProvider = Provider<GoRouter>((ref) {
       GoRoute(path: '/about', builder: (c, s) => const AboutScreen()),
       GoRoute(path: '/stats', builder: (c, s) => const StatsScreen()),
       GoRoute(path: '/achievements', builder: (c, s) => const AchievementsScreen()),
-      GoRoute(path: '/daily', builder: (c, s) => const DailyChallengeScreen()),
+      GoRoute(path: '/invite/:code', builder: (c, s) => InviteScreen(code: s.pathParameters['code']!.toUpperCase())),
       GoRoute(path: '/multiplayer', builder: (c, s) => const MultiplayerScreen()),
       GoRoute(
         path: '/multiplayer/play/:id',
         builder: (c, s) => OnlinePlayScreen(sessionId: s.pathParameters['id']!),
       ),
+      GoRoute(path: '/multiplayer/chat', builder: (c, s) => const RoomChatScreen()),
+      GoRoute(path: '/friends', builder: (c, s) => const FriendsScreen()),
+      GoRoute(path: '/settings/communication', builder: (c, s) => const CommunicationSettingsScreen()),
       GoRoute(path: '/mywords', builder: (c, s) => const MyWordsScreen()),
       GoRoute(
         path: '/mywords/:id',
@@ -58,14 +65,14 @@ class HushbugApp extends ConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     final s = ref.watch(settingsProvider);
     final router = ref.watch(routerProvider);
-    final amoled = s.themeMode == AppThemeMode.amoled;
     return MaterialApp.router(
       onGenerateTitle: (c) => AppLocalizations.of(c).appTitle,
       debugShowCheckedModeBanner: false,
       routerConfig: router,
-      theme: buildTheme(Brightness.light, s.accent),
-      darkTheme: buildTheme(Brightness.dark, s.accent, amoled: amoled),
-      themeMode: toThemeMode(s.themeMode),
+      // Hushbug has one look: the dark theme.
+      theme: buildTheme(Brightness.dark, 0),
+      darkTheme: buildTheme(Brightness.dark, 0),
+      themeMode: ThemeMode.dark,
       themeAnimationDuration: s.reduceMotion ? Duration.zero : const Duration(milliseconds: 200),
       locale: Locale(s.language),
       supportedLocales: AppLocalizations.supportedLocales,
@@ -79,12 +86,51 @@ class HushbugApp extends ConsumerWidget {
         final mq = MediaQuery.of(context);
         return MediaQuery(
           data: mq.copyWith(
-            textScaler: TextScaler.linear(s.textScale * mq.textScaler.scale(1).clamp(0.8, 1.6)),
+            textScaler: TextScaler.linear(mq.textScaler.scale(1).clamp(0.8, 1.6)),
             disableAnimations: mq.disableAnimations || s.reduceMotion,
           ),
-          child: child ?? const SizedBox.shrink(),
+          child: _InviteLinkListener(
+            child: InviteOverlay(
+              onAccept: (code) => router.push('/invite/$code'),
+              child: child ?? const SizedBox.shrink(),
+            ),
+          ),
         );
       },
     );
   }
+}
+
+/// Opens the invitation screen for links that open the app, and for an
+/// invitation saved before sign-in or carried through installation.
+class _InviteLinkListener extends ConsumerStatefulWidget {
+  const _InviteLinkListener({required this.child});
+  final Widget child;
+
+  @override
+  ConsumerState<_InviteLinkListener> createState() => _InviteLinkListenerState();
+}
+
+class _InviteLinkListenerState extends ConsumerState<_InviteLinkListener> {
+  StreamSubscription<Uri>? _sub;
+
+  @override
+  void initState() {
+    super.initState();
+    InviteLinks.listen(ref.read(bootstrapProvider).prefs, (code) {
+      if (!mounted) return;
+      final router = ref.read(routerProvider);
+      final path = '/invite/$code';
+      if (router.routerDelegate.currentConfiguration.uri.path != path) router.push(path);
+    }).then((sub) => _sub = sub).catchError((_) => null);
+  }
+
+  @override
+  void dispose() {
+    _sub?.cancel();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) => widget.child;
 }

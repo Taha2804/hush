@@ -1,0 +1,7 @@
+# Both functions check the caller themselves: livekit-token through the
+# player's login in the database, livekit-sync through a shared secret.
+[functions.livekit-token]
+verify_jwt = false
+
+[functions.livekit-sync]
+verify_jwt = false

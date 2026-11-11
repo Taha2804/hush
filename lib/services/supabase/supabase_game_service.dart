@@ -1,4 +1,3 @@
-import 'package:flutter/foundation.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 
 import 'models.dart';
@@ -9,40 +8,90 @@ class SupabaseGameService {
 
   SupabaseGameService(this.client);
 
-  /// Host starts game: allocates roles and creates session server-side
-  Future<({String sessionId, int playerCount, String category, String phase})> startGame({
-    required String roomId,
-    required String category,
-    required String word,
-    String? hint,
-    String? fakeWord,
-    int imposterCount = 1,
-    int discussionSeconds = 180,
-  }) async {
-    final res = await client.rpc('start_online_game', params: {
-      'p_room_id': roomId,
-      'p_category': category,
-      'p_word': word,
-      'p_hint': hint,
-      'p_fake_word': fakeWord,
-      'p_imposter_count': imposterCount,
-      'p_discussion_seconds': discussionSeconds,
-    });
+  /// Host starts the game. The server picks the word and assigns roles.
+  Future<String> startGame(String roomId) async {
+    final res = await client.rpc('start_online_game', params: {'p_room_id': roomId}).timeout(rpcTimeout);
+    return (res as Map)['session_id'].toString();
+  }
 
-    final data = Map<String, dynamic>.from(res as Map);
-    return (
-      sessionId: data['session_id']?.toString() ?? '',
-      playerCount: (data['player_count'] as num?)?.toInt() ?? 0,
-      category: data['category']?.toString() ?? category,
-      phase: data['phase']?.toString() ?? 'reveal',
-    );
+  Future<String> startNextRound(String roomId) async {
+    final res = await client.rpc('start_next_round', params: {'p_room_id': roomId}).timeout(rpcTimeout);
+    return (res as Map)['session_id'].toString();
+  }
+
+  /// Host skips the clue or turn-based vote of a player who has dropped out.
+  Future<void> skipTurn(String sessionId) async {
+    await client.rpc('skip_turn', params: {'p_session_id': sessionId}).timeout(rpcTimeout);
+  }
+
+  /// Applies server timers (discussion end, expired requests) right away.
+  Future<void> syncGame(String sessionId) async {
+    await client.rpc('sync_game', params: {'p_session_id': sessionId}).timeout(rpcTimeout);
+  }
+
+  Future<void> requestEndDiscussion(String sessionId) async {
+    await client.rpc('request_end_discussion', params: {'p_session_id': sessionId}).timeout(rpcTimeout);
+  }
+
+  Future<String> respondEndDiscussion(String requestId, bool approve) async {
+    final res = await client.rpc('respond_end_discussion', params: {'p_request_id': requestId, 'p_approve': approve}).timeout(rpcTimeout);
+    return (res as Map)['status'].toString();
+  }
+
+  Future<DiscussionEndRequest?> fetchEndRequest(String sessionId) async {
+    final res = await client
+        .from('discussion_end_requests')
+        .select()
+        .eq('session_id', sessionId)
+        .order('created_at', ascending: false)
+        .limit(1)
+        .maybeSingle()
+        .timeout(rpcTimeout);
+    return res == null ? null : DiscussionEndRequest.fromJson(Map<String, dynamic>.from(res));
+  }
+
+  RealtimeChannel subscribeEndRequests(String sessionId, void Function() onChange) {
+    return client
+        .channel('discussion_end_requests:$sessionId')
+        .onPostgresChanges(
+          event: PostgresChangeEvent.all,
+          schema: 'public',
+          table: 'discussion_end_requests',
+          filter: PostgresChangeFilter(type: PostgresChangeFilterType.eq, column: 'session_id', value: sessionId),
+          callback: (_) => onChange(),
+        )
+        .subscribe();
+  }
+
+  /// This player's own ballot in the current vote, if any.
+  Future<String?> fetchMyVote(OnlineGameSession s) async {
+    final uid = SupabaseService.currentUserId;
+    if (uid == null) return null;
+    final res = await client
+        .from('game_votes')
+        .select('target_id')
+        .eq('session_id', s.id)
+        .eq('voter_id', uid)
+        .eq('round_number', s.roundNumber)
+        .eq('revote_number', s.revotes)
+        .maybeSingle()
+        .timeout(rpcTimeout);
+    return res?['target_id']?.toString();
+  }
+
+  Future<List<MatchStanding>> matchStandings(String roomId) async {
+    final res = await client.rpc('match_standings', params: {'p_room_id': roomId}).timeout(rpcTimeout);
+    return (res as List)
+        .map((e) => Map<String, dynamic>.from(e as Map))
+        .map((j) => MatchStanding(j['player_id'].toString(), j['display_name'].toString(), (j['points'] as num).toInt()))
+        .toList();
   }
 
   /// Retrieves current user's strictly private assignment (Word, Role, Hint)
   Future<OnlinePrivateAssignment> getMyAssignment(String sessionId) async {
     final res = await client.rpc('get_my_assignment', params: {
       'p_session_id': sessionId,
-    });
+    }).timeout(rpcTimeout);
 
     return OnlinePrivateAssignment.fromJson(Map<String, dynamic>.from(res as Map));
   }

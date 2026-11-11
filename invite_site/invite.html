@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Join my Hushbug room</title>
+<meta property="og:title" content="Join my Hushbug room">
+<meta property="og:description" content="Tap to play Hushbug with your friends.">
+<style>
+  :root { color-scheme: dark; }
+  body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: #15131D; color: #F5F1FF;
+         font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 360px; padding: 32px 20px; text-align: center; }
+  .code { font-size: 40px; font-weight: 900; letter-spacing: 6px; color: #FFD166; margin: 8px 0 20px; }
+  a.btn { display: block; padding: 14px; border-radius: 16px; background: #FFD166; color: #2C2106; font-weight: 800; text-decoration: none; margin-bottom: 10px; }
+  a.alt { background: #292338; color: #F5F1FF; border: 1px solid #332C47; }
+  p { color: #AAA3B8; font-size: 14px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>You're invited to Hushbug</h1>
+  <p>Room code</p>
+  <div class="code" id="code">······</div>
+  <a class="btn" id="open" href="#">Open Hushbug</a>
+  <a class="btn alt" id="store" href="#">Get Hushbug on Google Play</a>
+  <p>Already have the app? Open it, choose Online Multiplayer and enter the code.</p>
+</main>
+<script>
+  // The code is the last path segment: /invite/ABC123
+  const raw = (location.pathname.split('/').filter(Boolean).pop() || '').toUpperCase();
+  const code = /^[A-HJ-NP-Z2-9]{6}$/.test(raw) ? raw : '';
+  const pkg = 'com.hushbug.hushbug';
+  // Google Play hands this referrer to the app on its first launch after install.
+  const store = 'https://play.google.com/store/apps/details?id=' + pkg +
+                (code ? '&referrer=' + encodeURIComponent('invite=' + code) : '');
+  document.getElementById('code').textContent = code || '------';
+  document.getElementById('store').href = store;
+  const intent = 'intent://invite/' + code + '#Intent;scheme=hushbug;package=' + pkg +
+                 ';S.browser_fallback_url=' + encodeURIComponent(store) + ';end';
+  const open = document.getElementById('open');
+  open.href = /Android/i.test(navigator.userAgent) ? intent : 'hushbug://invite/' + code;
+  // On Android, try the app straight away; Chrome falls back to Play if it is not installed.
+  if (code && /Android/i.test(navigator.userAgent)) location.href = intent;
+</script>
+</body>
+</html>

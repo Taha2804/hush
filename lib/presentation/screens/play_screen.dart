@@ -572,6 +572,17 @@ class _RevealViewState extends ConsumerState<RevealView> with SingleTickerProvid
           // 3. Secret Word Display (or Imposter briefing)
           // Privacy protection: Secret word is strictly masked whenever _showing is false
           if (!isImp) ...[
+            if (_showing && card.word == null && r.description != null)
+              Padding(
+                padding: const EdgeInsets.only(bottom: 8),
+                child: Text(
+                  r.description!,
+                  textAlign: TextAlign.center,
+                  maxLines: 3,
+                  overflow: TextOverflow.ellipsis,
+                  style: const TextStyle(color: Color(0xFFC4B5FD), fontSize: 12, fontWeight: FontWeight.w600, height: 1.35),
+                ),
+              ),
             Text(
               _showing ? (card.word ?? r.word) : '••••••••',
               textAlign: TextAlign.center,

@@ -4,23 +4,13 @@ This directory contains the production-ready PostgreSQL schema, server-authorita
 
 ---
 
-## 🚀 One-Command Deployment
+## Deployment
 
-You can deploy the complete backend in one step using the automated setup script:
+In the Supabase SQL Editor, run `schema.sql` on a new project, then every file in `migrations/` in filename order. The migrations are safe to re-run.
 
-```bash
-chmod +x supabase/setup_backend.sh
-./supabase/setup_backend.sh "postgresql://postgres:[YOUR-PASSWORD]@[HOST]:5432/postgres"
-```
+After changing the word packs, run `python tool/generate_word_seed.py` and re-run the seed migration. Voice setup is in `functions/README.md`.
 
-*Alternatively, if using the Supabase CLI:*
-```bash
-supabase link --project-ref [YOUR_PROJECT_REF]
-supabase db push
-```
-
-*Or via Supabase Web Dashboard:*
-Copy the entire contents of [`supabase/schema.sql`](./schema.sql) and run it in your **[Supabase SQL Editor](https://supabase.com/dashboard/project/_/sql)**.
+Backend tests run on an in-memory Postgres: `cd supabase/tests && npm install && npm test`.
 
 ---
 
@@ -88,17 +78,6 @@ All sensitive game logic is executed server-side via PostgreSQL functions (`SECU
 
 ---
 
-## 📱 Flutter Client Configuration
+## Flutter client
 
-### Option A: Build-time environment defines
-```bash
-flutter run \
-  --dart-define=SUPABASE_URL=https://your-project.supabase.co \
-  --dart-define=SUPABASE_ANON_KEY=your-anon-key
-```
-
-### Option B: In-App UI Setup Modal
-Open **Online Multiplayer** in the app. Tap the **Setup** pill in the top-right header and paste your Project URL and Public Anon Key. Credentials are encrypted and saved locally in `SharedPreferences`.
-
-### Option C: Offline Local Party Mode
-Local single-device pass-and-play party mode operates **100% offline without internet access or Supabase configuration**.
+The project URL and publishable key are built into the app. Override them with `--dart-define=SUPABASE_URL=...` and `--dart-define=SUPABASE_ANON_KEY=...`. Never ship the service-role key or LiveKit secrets. Local pass-and-play needs no sign-in or network.
