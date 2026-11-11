@@ -176,6 +176,16 @@ class _MultiplayerScreenState extends ConsumerState<MultiplayerScreen> {
     }
   }
 
+  /// Friends list with one-tap invites, plus a share link for everyone else.
+  void _showInviteSheet(OnlineRoom room) {
+    ref.invalidate(friendsProvider);
+    showModalBottomSheet<void>(
+      context: context,
+      isScrollControlled: true,
+      builder: (c) => _InviteFriendsSheet(room: room, onShare: () => _share(room)),
+    );
+  }
+
   void _share(OnlineRoom room) {
     final link = InviteLinks.linkFor(room.code);
     SharePlus.instance.share(
@@ -667,7 +677,7 @@ class _MultiplayerScreenState extends ConsumerState<MultiplayerScreen> {
                           button: true,
                           label: 'Invite friends',
                           child: InkResponse(
-                            onTap: () => context.push('/friends'),
+                            onTap: () => _showInviteSheet(room),
                             child: Column(mainAxisSize: MainAxisSize.min, children: [
                               Container(
                                 width: 70,
@@ -768,4 +778,130 @@ class _Skeleton extends StatelessWidget {
       borderRadius: circle ? null : BorderRadius.circular(6),
     ),
   );
+}
+
+class _InviteFriendsSheet extends ConsumerStatefulWidget {
+  const _InviteFriendsSheet({required this.room, required this.onShare});
+  final OnlineRoom room;
+  final VoidCallback onShare;
+
+  @override
+  ConsumerState<_InviteFriendsSheet> createState() => _InviteFriendsSheetState();
+}
+
+class _InviteFriendsSheetState extends ConsumerState<_InviteFriendsSheet> {
+  final _invited = <String>{};
+  final _sending = <String>{};
+
+  Future<void> _invite(FriendEntry f) async {
+    final social = ref.read(socialServiceProvider);
+    if (social == null || _sending.contains(f.userId)) return;
+    setState(() => _sending.add(f.userId));
+    try {
+      await social.invite(widget.room.id, f.userId).timeout(rpcTimeout);
+      if (mounted) setState(() => _invited.add(f.userId));
+    } catch (e) {
+      if (mounted) toast(context, friendlyError(e));
+    } finally {
+      if (mounted) setState(() => _sending.remove(f.userId));
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final friends = ref.watch(friendsProvider);
+    final inRoom = {for (final p in ref.watch(onlineLobbyProvider).players) p.playerId};
+    final list = [
+      for (final f in friends.value ?? const <FriendEntry>[])
+        if (f.status == 'friend') f,
+    ]..sort((a, b) => (b.online ? 1 : 0) - (a.online ? 1 : 0));
+
+    return SafeArea(
+      child: ConstrainedBox(
+        constraints: BoxConstraints(maxHeight: MediaQuery.sizeOf(context).height * 0.7),
+        child: Padding(
+          padding: const EdgeInsets.fromLTRB(18, 0, 18, 18),
+          child: Column(mainAxisSize: MainAxisSize.min, crossAxisAlignment: CrossAxisAlignment.stretch, children: [
+            const NeonTitle('Invite friends', size: 24),
+            const SizedBox(height: 4),
+            Text('They get a pop-up to join room ${widget.room.code}.',
+                textAlign: TextAlign.center, style: const TextStyle(color: HushbugColors.textSubtext, fontSize: 14, fontWeight: FontWeight.w700)),
+            const SizedBox(height: 14),
+            Flexible(
+              child: friends.isLoading && list.isEmpty
+                  ? const Center(child: HushbugLoader(size: 70, text: 'Loading your friends…'))
+                  : list.isEmpty
+                      ? const Padding(
+                          padding: EdgeInsets.symmetric(vertical: 18),
+                          child: Text('No friends yet. Share the link below, or add friends with their friend code in the Friends screen.',
+                              textAlign: TextAlign.center, style: TextStyle(color: HushbugColors.textSubtext, fontSize: 14, fontWeight: FontWeight.w700)),
+                        )
+                      : ListView.separated(
+                          shrinkWrap: true,
+                          itemCount: list.length,
+                          separatorBuilder: (_, _) => const SizedBox(height: 8),
+                          itemBuilder: (_, i) {
+                            final f = list[i];
+                            final here = inRoom.contains(f.userId);
+                            final invited = _invited.contains(f.userId);
+                            final sending = _sending.contains(f.userId);
+                            return GlassPanel(
+                              radius: 30,
+                              padding: const EdgeInsets.fromLTRB(8, 6, 8, 6),
+                              child: Row(children: [
+                                NeonSeat(name: f.displayName, avatarIndex: f.avatarIndex, size: 46, showName: false),
+                                const SizedBox(width: 12),
+                                Expanded(
+                                  child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                                    Text(f.displayName, overflow: TextOverflow.ellipsis, style: const TextStyle(color: Colors.white, fontSize: 16, fontWeight: FontWeight.w800)),
+                                    Row(children: [
+                                      Container(
+                                        width: 8,
+                                        height: 8,
+                                        decoration: BoxDecoration(shape: BoxShape.circle, color: f.online ? HushbugColors.civilianEmerald : HushbugColors.textMuted),
+                                      ),
+                                      const SizedBox(width: 6),
+                                      Text(f.online ? 'Online' : 'Offline', style: const TextStyle(color: HushbugColors.textSubtext, fontSize: 12, fontWeight: FontWeight.w700)),
+                                    ]),
+                                  ]),
+                                ),
+                                SizedBox(
+                                  width: 112,
+                                  child: here
+                                      ? const Center(child: Text('In the room', style: TextStyle(color: HushbugColors.civilianEmerald, fontSize: 13, fontWeight: FontWeight.w800)))
+                                      : TactileButton(
+                                          onPressed: invited || sending ? null : () => _invite(f),
+                                          style: TactileButtonStyle.golden,
+                                          height: 44,
+                                          child: Text(sending ? 'Sending…' : (invited ? 'Invited ✓' : 'Invite'), style: const TextStyle(fontSize: 15)),
+                                        ),
+                                ),
+                              ]),
+                            );
+                          },
+                        ),
+            ),
+            const SizedBox(height: 14),
+            TactileButton(
+              onPressed: () {
+                Navigator.pop(context);
+                widget.onShare();
+              },
+              style: TactileButtonStyle.neonPurple,
+              height: 54,
+              icon: const Icon(Icons.share_rounded, size: 22),
+              child: const Text('Share invite link'),
+            ),
+            TextButton(
+              onPressed: () {
+                Navigator.pop(context);
+                context.push('/friends');
+              },
+              child: const Text('Add a friend by code'),
+            ),
+          ]),
+        ),
+      ),
+    );
+  }
 }
