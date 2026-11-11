@@ -11,6 +11,7 @@ import '../presentation/screens/info_screens.dart';
 import '../presentation/screens/lobby_screen.dart';
 import '../presentation/screens/multiplayer_screen.dart';
 import '../presentation/screens/my_words_screens.dart';
+import '../presentation/screens/online_play_screen.dart';
 import '../presentation/screens/play_screen.dart';
 import '../presentation/screens/settings_screen.dart';
 import '../presentation/screens/setup_screen.dart';
@@ -36,6 +37,10 @@ final routerProvider = Provider<GoRouter>((ref) {
       GoRoute(path: '/achievements', builder: (c, s) => const AchievementsScreen()),
       GoRoute(path: '/daily', builder: (c, s) => const DailyChallengeScreen()),
       GoRoute(path: '/multiplayer', builder: (c, s) => const MultiplayerScreen()),
+      GoRoute(
+        path: '/multiplayer/play/:id',
+        builder: (c, s) => OnlinePlayScreen(sessionId: s.pathParameters['id']!),
+      ),
       GoRoute(path: '/mywords', builder: (c, s) => const MyWordsScreen()),
       GoRoute(
         path: '/mywords/:id',

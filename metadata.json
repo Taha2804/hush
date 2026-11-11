@@ -1,6 +1,6 @@
 {
   "name": "Hushbug",
-  "description": "Premium social deduction party word game for 3-20 players on one device.",
+  "description": "Premium social deduction party word game for 3-20 players on one device and online multiplayer with Supabase.",
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
