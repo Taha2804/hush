@@ -167,15 +167,6 @@ class StatsScreen extends ConsumerWidget {
                       children: [
                         Expanded(
                           child: _StatCard(
-                            label: 'Win Streak',
-                            value: '${stats.currentWinStreak} 🔥',
-                            icon: Icons.local_fire_department_rounded,
-                            color: Colors.orangeAccent,
-                          ),
-                        ),
-                        const SizedBox(width: 10),
-                        Expanded(
-                          child: _StatCard(
                             label: 'Favorite Pack',
                             value: stats.mostPlayedCategory,
                             icon: Icons.category_rounded,

@@ -70,11 +70,11 @@ class _LobbyScreenState extends ConsumerState<LobbyScreen> with SingleTickerProv
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
-                    // Top Bar Header with Player Profile, Win Streak, and Settings
+                    // Top Bar Header with Player Profile and Settings
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
-                        // Left Player Profile & Win Streak pill
+                        // Left Player Profile pill
                         InkWell(
                           onTap: () => context.push('/stats'),
                           borderRadius: BorderRadius.circular(16),
@@ -101,24 +101,6 @@ class _LobbyScreenState extends ConsumerState<LobbyScreen> with SingleTickerProv
                                   ),
                                 ),
                                 const SizedBox(width: 8),
-                                Text(
-                                  '${stats.currentWinStreak} Streak 🔥',
-                                  style: const TextStyle(
-                                    color: HushbugColors.accentYellow,
-                                    fontSize: 11,
-                                    fontWeight: FontWeight.w800,
-                                  ),
-                                ),
-                                const SizedBox(width: 6),
-                                Container(
-                                  width: 3,
-                                  height: 3,
-                                  decoration: const BoxDecoration(
-                                    shape: BoxShape.circle,
-                                    color: HushbugColors.textSubtext,
-                                  ),
-                                ),
-                                const SizedBox(width: 6),
                                 Text(
                                   '${stats.totalGames} Games',
                                   style: const TextStyle(

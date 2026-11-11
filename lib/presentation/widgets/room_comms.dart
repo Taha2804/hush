@@ -858,3 +858,4 @@ class _InviteOverlayState extends ConsumerState<InviteOverlay> {
 extension OpenRoomChat on BuildContext {
   void openRoomChat() => push('/multiplayer/chat');
 }
+
