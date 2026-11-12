@@ -1,0 +1,60 @@
+{
+  "project": "Hushbug WordForge",
+  "schema_version": 3,
+  "content_version": "1.0.0",
+  "generation_date": "2026-11-12",
+
+  "storage": {
+    "db_path": "output/wordforge.db",
+    "cache_dir": "output/cache",
+    "checkpoint_interval": 50,
+    "reject_store": "output/rejected"
+  },
+
+  "generation": {
+    "provider": "openai",
+    "model": "gpt-4o-mini",
+    "temperature": 0.7,
+    "max_tokens": 4096,
+    "timeout_seconds": 90,
+    "max_retries": 3,
+    "backoff_base_seconds": 2,
+    "rate_limit_rpm": 60,
+    "concurrency": 4,
+    "hints_per_difficulty": 6,
+    "imposters_per_difficulty": 3,
+    "description_word_min": 6,
+    "description_word_max": 20,
+    "min_hints_per_tier": 6,
+    "max_hints_per_tier": 10,
+    "min_imposters_per_tier": 2
+  },
+
+  "validation": {
+    "semantic": {
+      "enabled": false,
+      "model": "all-MiniLM-L6-v2",
+      "synonym_threshold": 0.85,
+      "related_threshold": 0.55
+    },
+    "require_llm_review": true,
+    "reject_on_error": true
+  },
+
+  "export": {
+    "standalone_dir": "output/offline_packs",
+    "hushbug_pack_dir": "assets/packs",
+    "hushbug_index": "assets/packs/index.json",
+    "backup_dir": "output/backup",
+    "dry_run_default": false
+  },
+
+  "supabase": {
+    "url_env": "SUPABASE_URL",
+    "key_env": "SUPABASE_SERVICE_KEY",
+    "schema": "private",
+    "table": "word_bank",
+    "batch_size": 500,
+    "dry_run_default": true
+  }
+}

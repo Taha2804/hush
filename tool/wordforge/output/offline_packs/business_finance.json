@@ -1,0 +1,5357 @@
+{
+  "id": "business_finance",
+  "name": "Business & Finance",
+  "version": 2,
+  "schema_version": 3,
+  "is_adult": false,
+  "content_version": "1.0.0",
+  "generated_at": "2026-11-12T13:15:35.921623Z",
+  "words": [
+    {
+      "word": "Stock",
+      "sub": "Investing",
+      "diff": "easy",
+      "desc": "A share representing ownership in a publicly traded company.",
+      "tags": [
+        "equity",
+        "market",
+        "ownership"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a piece of a corporation",
+          "Trade on a major exchange",
+          "Track performance over many years",
+          "Watch prices change daily",
+          "Retirement accounts often hold these",
+          "Ticker symbols identify each one"
+        ],
+        "medium": [
+          "Diversify across multiple sectors",
+          "Analyze fundamentals before purchase",
+          "Long-term growth beats savings",
+          "Rebalance the mix periodically",
+          "Compare returns to a benchmark",
+          "Compound growth works over decades"
+        ],
+        "hard": [
+          "Beta measures systematic risk exposure",
+          "Alpha represents excess return",
+          "Sharpe ratio adjusts for volatility",
+          "Correlation to the broader index",
+          "Standard deviation of monthly returns",
+          "Efficient frontier optimization model"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Oak tree",
+          "River stone",
+          "Mountain peak"
+        ],
+        "medium": [
+          "Forest meadow",
+          "Valley stream",
+          "Bird nest"
+        ],
+        "hard": [
+          "Feather wing",
+          "Flight path",
+          "Eagle soar"
+        ]
+      }
+    },
+    {
+      "word": "Bond",
+      "sub": "Investing",
+      "diff": "easy",
+      "desc": "A fixed-income loan to a government or corporation paying interest.",
+      "tags": [
+        "fixed-income",
+        "debt",
+        "interest"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a piece of a corporation",
+          "Trade on a major exchange",
+          "Track performance over many years",
+          "Watch prices change daily",
+          "Retirement accounts often hold these",
+          "Ticker symbols identify each one"
+        ],
+        "medium": [
+          "Diversify across multiple sectors",
+          "Analyze fundamentals before purchase",
+          "Long-term growth beats savings",
+          "Rebalance the mix periodically",
+          "Compare returns to a benchmark",
+          "Compound growth works over decades"
+        ],
+        "hard": [
+          "Beta measures systematic risk exposure",
+          "Alpha represents excess return",
+          "Sharpe ratio adjusts for volatility",
+          "Correlation to the broader index",
+          "Standard deviation of monthly returns",
+          "Efficient frontier optimization model"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Oak tree",
+          "River stone",
+          "Mountain peak"
+        ],
+        "medium": [
+          "Forest meadow",
+          "Valley stream",
+          "Bird nest"
+        ],
+        "hard": [
+          "Feather wing",
+          "Flight path",
+          "Eagle soar"
+        ]
+      }
+    },
+    {
+      "word": "Dividend",
+      "sub": "Investing",
+      "diff": "easy",
+      "desc": "A cash payment distributed to shareholders from company profits.",
+      "tags": [
+        "income",
+        "shareholder",
+        "profit"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a piece of a corporation",
+          "Trade on a major exchange",
+          "Track performance over many years",
+          "Watch prices change daily",
+          "Retirement accounts often hold these",
+          "Ticker symbols identify each one"
+        ],
+        "medium": [
+          "Diversify across multiple sectors",
+          "Analyze fundamentals before purchase",
+          "Long-term growth beats savings",
+          "Rebalance the mix periodically",
+          "Compare returns to a benchmark",
+          "Compound growth works over decades"
+        ],
+        "hard": [
+          "Beta measures systematic risk exposure",
+          "Alpha represents excess return",
+          "Sharpe ratio adjusts for volatility",
+          "Correlation to the broader index",
+          "Standard deviation of monthly returns",
+          "Efficient frontier optimization model"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Oak tree",
+          "River stone",
+          "Mountain peak"
+        ],
+        "medium": [
+          "Forest meadow",
+          "Valley stream",
+          "Bird nest"
+        ],
+        "hard": [
+          "Feather wing",
+          "Flight path",
+          "Eagle soar"
+        ]
+      }
+    },
+    {
+      "word": "Portfolio",
+      "sub": "Investing",
+      "diff": "easy",
+      "desc": "A collection of financial assets held by an investor.",
+      "tags": [
+        "collection",
+        "assets",
+        "diversification"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a piece of a corporation",
+          "Trade on a major exchange",
+          "Track performance over many years",
+          "Watch prices change daily",
+          "Retirement accounts often hold these",
+          "Ticker symbols identify each one"
+        ],
+        "medium": [
+          "Diversify across multiple sectors",
+          "Analyze fundamentals before purchase",
+          "Long-term growth beats savings",
+          "Rebalance the mix periodically",
+          "Compare returns to a benchmark",
+          "Compound growth works over decades"
+        ],
+        "hard": [
+          "Beta measures systematic risk exposure",
+          "Alpha represents excess return",
+          "Sharpe ratio adjusts for volatility",
+          "Correlation to the broader index",
+          "Standard deviation of monthly returns",
+          "Efficient frontier optimization model"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Oak tree",
+          "River stone",
+          "Mountain peak"
+        ],
+        "medium": [
+          "Forest meadow",
+          "Valley stream",
+          "Bird nest"
+        ],
+        "hard": [
+          "Feather wing",
+          "Flight path",
+          "Eagle soar"
+        ]
+      }
+    },
+    {
+      "word": "Bull Market",
+      "sub": "Investing",
+      "diff": "easy",
+      "desc": "A sustained period of rising stock prices and investor optimism.",
+      "tags": [
+        "rising",
+        "optimism",
+        "trend"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a piece of a corporation",
+          "Trade on a major exchange",
+          "Track performance over many years",
+          "Watch prices change daily",
+          "Retirement accounts often hold these",
+          "Ticker symbols identify each one"
+        ],
+        "medium": [
+          "Diversify across multiple sectors",
+          "Analyze fundamentals before purchase",
+          "Long-term growth beats savings",
+          "Rebalance the mix periodically",
+          "Compare returns to a benchmark",
+          "Compound growth works over decades"
+        ],
+        "hard": [
+          "Beta measures systematic risk exposure",
+          "Alpha represents excess return",
+          "Sharpe ratio adjusts for volatility",
+          "Correlation to the broader index",
+          "Standard deviation of monthly returns",
+          "Efficient frontier optimization model"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Oak tree",
+          "River stone",
+          "Mountain peak"
+        ],
+        "medium": [
+          "Forest meadow",
+          "Valley stream",
+          "Bird nest"
+        ],
+        "hard": [
+          "Feather wing",
+          "Flight path",
+          "Eagle soar"
+        ]
+      }
+    },
+    {
+      "word": "ETF",
+      "sub": "Investing",
+      "diff": "medium",
+      "desc": "An exchange-traded fund tracking an index or sector.",
+      "tags": [
+        "fund",
+        "exchange",
+        "index"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a piece of a corporation",
+          "Trade on a major exchange",
+          "Track performance over many years",
+          "Watch prices change daily",
+          "Retirement accounts often hold these",
+          "Ticker symbols identify each one"
+        ],
+        "medium": [
+          "Diversify across multiple sectors",
+          "Analyze fundamentals before purchase",
+          "Long-term growth beats savings",
+          "Rebalance the mix periodically",
+          "Compare returns to a benchmark",
+          "Compound growth works over decades"
+        ],
+        "hard": [
+          "Beta measures systematic risk exposure",
+          "Alpha represents excess return",
+          "Sharpe ratio adjusts for volatility",
+          "Correlation to the broader index",
+          "Standard deviation of monthly returns",
+          "Efficient frontier optimization model"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Oak tree",
+          "River stone",
+          "Mountain peak"
+        ],
+        "medium": [
+          "Forest meadow",
+          "Valley stream",
+          "Bird nest"
+        ],
+        "hard": [
+          "Feather wing",
+          "Flight path",
+          "Eagle soar"
+        ]
+      }
+    },
+    {
+      "word": "Mutual Fund",
+      "sub": "Investing",
+      "diff": "medium",
+      "desc": "A pooled investment vehicle managed by professionals holding diversified securities.",
+      "tags": [
+        "pooled",
+        "managed",
+        "diversified"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a piece of a corporation",
+          "Trade on a major exchange",
+          "Track performance over many years",
+          "Watch prices change daily",
+          "Retirement accounts often hold these",
+          "Ticker symbols identify each one"
+        ],
+        "medium": [
+          "Diversify across multiple sectors",
+          "Analyze fundamentals before purchase",
+          "Long-term growth beats savings",
+          "Rebalance the mix periodically",
+          "Compare returns to a benchmark",
+          "Compound growth works over decades"
+        ],
+        "hard": [
+          "Beta measures systematic risk exposure",
+          "Alpha represents excess return",
+          "Sharpe ratio adjusts for volatility",
+          "Correlation to the broader index",
+          "Standard deviation of monthly returns",
+          "Efficient frontier optimization model"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Oak tree",
+          "River stone",
+          "Mountain peak"
+        ],
+        "medium": [
+          "Forest meadow",
+          "Valley stream",
+          "Bird nest"
+        ],
+        "hard": [
+          "Feather wing",
+          "Flight path",
+          "Eagle soar"
+        ]
+      }
+    },
+    {
+      "word": "Asset Allocation",
+      "sub": "Investing",
+      "diff": "medium",
+      "desc": "The strategy of dividing investments across different asset classes.",
+      "tags": [
+        "strategy",
+        "diversification",
+        "risk"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a piece of a corporation",
+          "Trade on a major exchange",
+          "Track performance over many years",
+          "Watch prices change daily",
+          "Retirement accounts often hold these",
+          "Ticker symbols identify each one"
+        ],
+        "medium": [
+          "Diversify across multiple sectors",
+          "Analyze fundamentals before purchase",
+          "Long-term growth beats savings",
+          "Rebalance the mix periodically",
+          "Compare returns to a benchmark",
+          "Compound growth works over decades"
+        ],
+        "hard": [
+          "Beta measures systematic risk exposure",
+          "Alpha represents excess return",
+          "Sharpe ratio adjusts for volatility",
+          "Correlation to the broader index",
+          "Standard deviation of monthly returns",
+          "Efficient frontier optimization model"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Oak tree",
+          "River stone",
+          "Mountain peak"
+        ],
+        "medium": [
+          "Forest meadow",
+          "Valley stream",
+          "Bird nest"
+        ],
+        "hard": [
+          "Feather wing",
+          "Flight path",
+          "Eagle soar"
+        ]
+      }
+    },
+    {
+      "word": "Bear Market",
+      "sub": "Investing",
+      "diff": "medium",
+      "desc": "A prolonged period of declining stock prices and widespread pessimism.",
+      "tags": [
+        "declining",
+        "pessimism",
+        "trend"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a piece of a corporation",
+          "Trade on a major exchange",
+          "Track performance over many years",
+          "Watch prices change daily",
+          "Retirement accounts often hold these",
+          "Ticker symbols identify each one"
+        ],
+        "medium": [
+          "Diversify across multiple sectors",
+          "Analyze fundamentals before purchase",
+          "Long-term growth beats savings",
+          "Rebalance the mix periodically",
+          "Compare returns to a benchmark",
+          "Compound growth works over decades"
+        ],
+        "hard": [
+          "Beta measures systematic risk exposure",
+          "Alpha represents excess return",
+          "Sharpe ratio adjusts for volatility",
+          "Correlation to the broader index",
+          "Standard deviation of monthly returns",
+          "Efficient frontier optimization model"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Oak tree",
+          "River stone",
+          "Mountain peak"
+        ],
+        "medium": [
+          "Forest meadow",
+          "Valley stream",
+          "Bird nest"
+        ],
+        "hard": [
+          "Feather wing",
+          "Flight path",
+          "Eagle soar"
+        ]
+      }
+    },
+    {
+      "word": "Market Cap",
+      "sub": "Investing",
+      "diff": "medium",
+      "desc": "The total market value of a company's outstanding shares.",
+      "tags": [
+        "valuation",
+        "shares",
+        "total"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a piece of a corporation",
+          "Trade on a major exchange",
+          "Track performance over many years",
+          "Watch prices change daily",
+          "Retirement accounts often hold these",
+          "Ticker symbols identify each one"
+        ],
+        "medium": [
+          "Diversify across multiple sectors",
+          "Analyze fundamentals before purchase",
+          "Long-term growth beats savings",
+          "Rebalance the mix periodically",
+          "Compare returns to a benchmark",
+          "Compound growth works over decades"
+        ],
+        "hard": [
+          "Beta measures systematic risk exposure",
+          "Alpha represents excess return",
+          "Sharpe ratio adjusts for volatility",
+          "Correlation to the broader index",
+          "Standard deviation of monthly returns",
+          "Efficient frontier optimization model"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Oak tree",
+          "River stone",
+          "Mountain peak"
+        ],
+        "medium": [
+          "Forest meadow",
+          "Valley stream",
+          "Bird nest"
+        ],
+        "hard": [
+          "Feather wing",
+          "Flight path",
+          "Eagle soar"
+        ]
+      }
+    },
+    {
+      "word": "P/E Ratio",
+      "sub": "Investing",
+      "diff": "hard",
+      "desc": "A valuation metric comparing share price to earnings per share.",
+      "tags": [
+        "valuation",
+        "earnings",
+        "multiple"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a piece of a corporation",
+          "Trade on a major exchange",
+          "Track performance over many years",
+          "Watch prices change daily",
+          "Retirement accounts often hold these",
+          "Ticker symbols identify each one"
+        ],
+        "medium": [
+          "Diversify across multiple sectors",
+          "Analyze fundamentals before purchase",
+          "Long-term growth beats savings",
+          "Rebalance the mix periodically",
+          "Compare returns to a benchmark",
+          "Compound growth works over decades"
+        ],
+        "hard": [
+          "Beta measures systematic risk exposure",
+          "Alpha represents excess return",
+          "Sharpe ratio adjusts for volatility",
+          "Correlation to the broader index",
+          "Standard deviation of monthly returns",
+          "Efficient frontier optimization model"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Oak tree",
+          "River stone",
+          "Mountain peak"
+        ],
+        "medium": [
+          "Forest meadow",
+          "Valley stream",
+          "Bird nest"
+        ],
+        "hard": [
+          "Feather wing",
+          "Flight path",
+          "Eagle soar"
+        ]
+      }
+    },
+    {
+      "word": "Hedge Fund",
+      "sub": "Investing",
+      "diff": "hard",
+      "desc": "A private investment partnership using aggressive strategies for accredited investors.",
+      "tags": [
+        "private",
+        "aggressive",
+        "accredited"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a piece of a corporation",
+          "Trade on a major exchange",
+          "Track performance over many years",
+          "Watch prices change daily",
+          "Retirement accounts often hold these",
+          "Ticker symbols identify each one"
+        ],
+        "medium": [
+          "Diversify across multiple sectors",
+          "Analyze fundamentals before purchase",
+          "Long-term growth beats savings",
+          "Rebalance the mix periodically",
+          "Compare returns to a benchmark",
+          "Compound growth works over decades"
+        ],
+        "hard": [
+          "Beta measures systematic risk exposure",
+          "Alpha represents excess return",
+          "Sharpe ratio adjusts for volatility",
+          "Correlation to the broader index",
+          "Standard deviation of monthly returns",
+          "Efficient frontier optimization model"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Oak tree",
+          "River stone",
+          "Mountain peak"
+        ],
+        "medium": [
+          "Forest meadow",
+          "Valley stream",
+          "Bird nest"
+        ],
+        "hard": [
+          "Feather wing",
+          "Flight path",
+          "Eagle soar"
+        ]
+      }
+    },
+    {
+      "word": "Options",
+      "sub": "Investing",
+      "diff": "hard",
+      "desc": "Contracts giving the right to buy or sell an asset at a set price.",
+      "tags": [
+        "contract",
+        "right",
+        "derivative"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a piece of a corporation",
+          "Trade on a major exchange",
+          "Track performance over many years",
+          "Watch prices change daily",
+          "Retirement accounts often hold these",
+          "Ticker symbols identify each one"
+        ],
+        "medium": [
+          "Diversify across multiple sectors",
+          "Analyze fundamentals before purchase",
+          "Long-term growth beats savings",
+          "Rebalance the mix periodically",
+          "Compare returns to a benchmark",
+          "Compound growth works over decades"
+        ],
+        "hard": [
+          "Beta measures systematic risk exposure",
+          "Alpha represents excess return",
+          "Sharpe ratio adjusts for volatility",
+          "Correlation to the broader index",
+          "Standard deviation of monthly returns",
+          "Efficient frontier optimization model"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Oak tree",
+          "River stone",
+          "Mountain peak"
+        ],
+        "medium": [
+          "Forest meadow",
+          "Valley stream",
+          "Bird nest"
+        ],
+        "hard": [
+          "Feather wing",
+          "Flight path",
+          "Eagle soar"
+        ]
+      }
+    },
+    {
+      "word": "REIT",
+      "sub": "Investing",
+      "diff": "hard",
+      "desc": "A real estate investment trust owning income-producing properties.",
+      "tags": [
+        "real-estate",
+        "trust",
+        "income"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a piece of a corporation",
+          "Trade on a major exchange",
+          "Track performance over many years",
+          "Watch prices change daily",
+          "Retirement accounts often hold these",
+          "Ticker symbols identify each one"
+        ],
+        "medium": [
+          "Diversify across multiple sectors",
+          "Analyze fundamentals before purchase",
+          "Long-term growth beats savings",
+          "Rebalance the mix periodically",
+          "Compare returns to a benchmark",
+          "Compound growth works over decades"
+        ],
+        "hard": [
+          "Beta measures systematic risk exposure",
+          "Alpha represents excess return",
+          "Sharpe ratio adjusts for volatility",
+          "Correlation to the broader index",
+          "Standard deviation of monthly returns",
+          "Efficient frontier optimization model"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Oak tree",
+          "River stone",
+          "Mountain peak"
+        ],
+        "medium": [
+          "Forest meadow",
+          "Valley stream",
+          "Bird nest"
+        ],
+        "hard": [
+          "Feather wing",
+          "Flight path",
+          "Eagle soar"
+        ]
+      }
+    },
+    {
+      "word": "Checking Account",
+      "sub": "Banking",
+      "diff": "easy",
+      "desc": "A bank account for daily transactions with easy deposit and withdrawal access.",
+      "tags": [
+        "daily",
+        "transactions",
+        "access"
+      ],
+      "hints": {
+        "easy": [
+          "Visit a branch or use mobile app",
+          "Monthly statement shows the balance",
+          "Compare fees across institutions",
+          "Ask the teller for help",
+          "Direct deposit goes here first",
+          "ATM access for cash needs"
+        ],
+        "medium": [
+          "Negotiate better terms with lender",
+          "Shop around for the best offer",
+          "Payment history affects your rating",
+          "Monthly budget includes this cost",
+          "Set up automatic payments",
+          "Review the agreement carefully"
+        ],
+        "hard": [
+          "Duration risk affects bond price",
+          "Yield curve shows term structure",
+          "Spread over sovereign benchmarks",
+          "Convexity adjustment may be needed",
+          "Forward rates implied by the curve",
+          "Basis point value calculation"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Whisk bowl",
+          "Oven mitt",
+          "Spice rack"
+        ],
+        "medium": [
+          "Frying pan",
+          "Cooking pot",
+          "Wooden spoon"
+        ],
+        "hard": [
+          "Silver fork",
+          "Sharp knife",
+          "Dinner plate"
+        ]
+      }
+    },
+    {
+      "word": "Savings Account",
+      "sub": "Banking",
+      "diff": "easy",
+      "desc": "A deposit account earning modest interest for short-term money storage.",
+      "tags": [
+        "deposit",
+        "interest",
+        "storage"
+      ],
+      "hints": {
+        "easy": [
+          "Visit a branch or use mobile app",
+          "Monthly statement shows the balance",
+          "Compare fees across institutions",
+          "Ask the teller for help",
+          "Direct deposit goes here first",
+          "ATM access for cash needs"
+        ],
+        "medium": [
+          "Negotiate better terms with lender",
+          "Shop around for the best offer",
+          "Payment history affects your rating",
+          "Monthly budget includes this cost",
+          "Set up automatic payments",
+          "Review the agreement carefully"
+        ],
+        "hard": [
+          "Duration risk affects bond price",
+          "Yield curve shows term structure",
+          "Spread over sovereign benchmarks",
+          "Convexity adjustment may be needed",
+          "Forward rates implied by the curve",
+          "Basis point value calculation"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Whisk bowl",
+          "Oven mitt",
+          "Spice rack"
+        ],
+        "medium": [
+          "Frying pan",
+          "Cooking pot",
+          "Wooden spoon"
+        ],
+        "hard": [
+          "Silver fork",
+          "Sharp knife",
+          "Dinner plate"
+        ]
+      }
+    },
+    {
+      "word": "Interest Rate",
+      "sub": "Banking",
+      "diff": "easy",
+      "desc": "The percentage charged on loans or paid on deposits over time.",
+      "tags": [
+        "percentage",
+        "loans",
+        "deposits"
+      ],
+      "hints": {
+        "easy": [
+          "Visit a branch or use mobile app",
+          "Monthly statement shows the balance",
+          "Compare fees across institutions",
+          "Ask the teller for help",
+          "Direct deposit goes here first",
+          "ATM access for cash needs"
+        ],
+        "medium": [
+          "Negotiate better terms with lender",
+          "Shop around for the best offer",
+          "Payment history affects your rating",
+          "Monthly budget includes this cost",
+          "Set up automatic payments",
+          "Review the agreement carefully"
+        ],
+        "hard": [
+          "Duration risk affects bond price",
+          "Yield curve shows term structure",
+          "Spread over sovereign benchmarks",
+          "Convexity adjustment may be needed",
+          "Forward rates implied by the curve",
+          "Basis point value calculation"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Whisk bowl",
+          "Oven mitt",
+          "Spice rack"
+        ],
+        "medium": [
+          "Frying pan",
+          "Cooking pot",
+          "Wooden spoon"
+        ],
+        "hard": [
+          "Silver fork",
+          "Sharp knife",
+          "Dinner plate"
+        ]
+      }
+    },
+    {
+      "word": "Loan",
+      "sub": "Banking",
+      "diff": "easy",
+      "desc": "Money borrowed from a lender that must be repaid with interest.",
+      "tags": [
+        "borrowed",
+        "repayment",
+        "interest"
+      ],
+      "hints": {
+        "easy": [
+          "Visit a branch or use mobile app",
+          "Monthly statement shows the balance",
+          "Compare fees across institutions",
+          "Ask the teller for help",
+          "Direct deposit goes here first",
+          "ATM access for cash needs"
+        ],
+        "medium": [
+          "Negotiate better terms with lender",
+          "Shop around for the best offer",
+          "Payment history affects your rating",
+          "Monthly budget includes this cost",
+          "Set up automatic payments",
+          "Review the agreement carefully"
+        ],
+        "hard": [
+          "Duration risk affects bond price",
+          "Yield curve shows term structure",
+          "Spread over sovereign benchmarks",
+          "Convexity adjustment may be needed",
+          "Forward rates implied by the curve",
+          "Basis point value calculation"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Whisk bowl",
+          "Oven mitt",
+          "Spice rack"
+        ],
+        "medium": [
+          "Frying pan",
+          "Cooking pot",
+          "Wooden spoon"
+        ],
+        "hard": [
+          "Silver fork",
+          "Sharp knife",
+          "Dinner plate"
+        ]
+      }
+    },
+    {
+      "word": "Mortgage",
+      "sub": "Banking",
+      "diff": "medium",
+      "desc": "A long-term loan secured by real estate property as collateral.",
+      "tags": [
+        "secured",
+        "property",
+        "long-term"
+      ],
+      "hints": {
+        "easy": [
+          "Visit a branch or use mobile app",
+          "Monthly statement shows the balance",
+          "Compare fees across institutions",
+          "Ask the teller for help",
+          "Direct deposit goes here first",
+          "ATM access for cash needs"
+        ],
+        "medium": [
+          "Negotiate better terms with lender",
+          "Shop around for the best offer",
+          "Payment history affects your rating",
+          "Monthly budget includes this cost",
+          "Set up automatic payments",
+          "Review the agreement carefully"
+        ],
+        "hard": [
+          "Duration risk affects bond price",
+          "Yield curve shows term structure",
+          "Spread over sovereign benchmarks",
+          "Convexity adjustment may be needed",
+          "Forward rates implied by the curve",
+          "Basis point value calculation"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Whisk bowl",
+          "Oven mitt",
+          "Spice rack"
+        ],
+        "medium": [
+          "Frying pan",
+          "Cooking pot",
+          "Wooden spoon"
+        ],
+        "hard": [
+          "Silver fork",
+          "Sharp knife",
+          "Dinner plate"
+        ]
+      }
+    },
+    {
+      "word": "Credit Score",
+      "sub": "Banking",
+      "diff": "medium",
+      "desc": "A numerical rating of creditworthiness based on borrowing history.",
+      "tags": [
+        "rating",
+        "creditworthiness",
+        "history"
+      ],
+      "hints": {
+        "easy": [
+          "Visit a branch or use mobile app",
+          "Monthly statement shows the balance",
+          "Compare fees across institutions",
+          "Ask the teller for help",
+          "Direct deposit goes here first",
+          "ATM access for cash needs"
+        ],
+        "medium": [
+          "Negotiate better terms with lender",
+          "Shop around for the best offer",
+          "Payment history affects your rating",
+          "Monthly budget includes this cost",
+          "Set up automatic payments",
+          "Review the agreement carefully"
+        ],
+        "hard": [
+          "Duration risk affects bond price",
+          "Yield curve shows term structure",
+          "Spread over sovereign benchmarks",
+          "Convexity adjustment may be needed",
+          "Forward rates implied by the curve",
+          "Basis point value calculation"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Whisk bowl",
+          "Oven mitt",
+          "Spice rack"
+        ],
+        "medium": [
+          "Frying pan",
+          "Cooking pot",
+          "Wooden spoon"
+        ],
+        "hard": [
+          "Silver fork",
+          "Sharp knife",
+          "Dinner plate"
+        ]
+      }
+    },
+    {
+      "word": "Collateral",
+      "sub": "Banking",
+      "diff": "medium",
+      "desc": "An asset pledged as security for repayment of a loan.",
+      "tags": [
+        "security",
+        "asset",
+        "pledge"
+      ],
+      "hints": {
+        "easy": [
+          "Visit a branch or use mobile app",
+          "Monthly statement shows the balance",
+          "Compare fees across institutions",
+          "Ask the teller for help",
+          "Direct deposit goes here first",
+          "ATM access for cash needs"
+        ],
+        "medium": [
+          "Negotiate better terms with lender",
+          "Shop around for the best offer",
+          "Payment history affects your rating",
+          "Monthly budget includes this cost",
+          "Set up automatic payments",
+          "Review the agreement carefully"
+        ],
+        "hard": [
+          "Duration risk affects bond price",
+          "Yield curve shows term structure",
+          "Spread over sovereign benchmarks",
+          "Convexity adjustment may be needed",
+          "Forward rates implied by the curve",
+          "Basis point value calculation"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Whisk bowl",
+          "Oven mitt",
+          "Spice rack"
+        ],
+        "medium": [
+          "Frying pan",
+          "Cooking pot",
+          "Wooden spoon"
+        ],
+        "hard": [
+          "Silver fork",
+          "Sharp knife",
+          "Dinner plate"
+        ]
+      }
+    },
+    {
+      "word": "Overdraft",
+      "sub": "Banking",
+      "diff": "medium",
+      "desc": "Withdrawing more money than available, creating a negative balance.",
+      "tags": [
+        "negative",
+        "balance",
+        "withdrawal"
+      ],
+      "hints": {
+        "easy": [
+          "Visit a branch or use mobile app",
+          "Monthly statement shows the balance",
+          "Compare fees across institutions",
+          "Ask the teller for help",
+          "Direct deposit goes here first",
+          "ATM access for cash needs"
+        ],
+        "medium": [
+          "Negotiate better terms with lender",
+          "Shop around for the best offer",
+          "Payment history affects your rating",
+          "Monthly budget includes this cost",
+          "Set up automatic payments",
+          "Review the agreement carefully"
+        ],
+        "hard": [
+          "Duration risk affects bond price",
+          "Yield curve shows term structure",
+          "Spread over sovereign benchmarks",
+          "Convexity adjustment may be needed",
+          "Forward rates implied by the curve",
+          "Basis point value calculation"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Whisk bowl",
+          "Oven mitt",
+          "Spice rack"
+        ],
+        "medium": [
+          "Frying pan",
+          "Cooking pot",
+          "Wooden spoon"
+        ],
+        "hard": [
+          "Silver fork",
+          "Sharp knife",
+          "Dinner plate"
+        ]
+      }
+    },
+    {
+      "word": "Wire Transfer",
+      "sub": "Banking",
+      "diff": "hard",
+      "desc": "Electronic movement of funds between bank accounts domestically or internationally.",
+      "tags": [
+        "electronic",
+        "funds",
+        "transfer"
+      ],
+      "hints": {
+        "easy": [
+          "Visit a branch or use mobile app",
+          "Monthly statement shows the balance",
+          "Compare fees across institutions",
+          "Ask the teller for help",
+          "Direct deposit goes here first",
+          "ATM access for cash needs"
+        ],
+        "medium": [
+          "Negotiate better terms with lender",
+          "Shop around for the best offer",
+          "Payment history affects your rating",
+          "Monthly budget includes this cost",
+          "Set up automatic payments",
+          "Review the agreement carefully"
+        ],
+        "hard": [
+          "Duration risk affects bond price",
+          "Yield curve shows term structure",
+          "Spread over sovereign benchmarks",
+          "Convexity adjustment may be needed",
+          "Forward rates implied by the curve",
+          "Basis point value calculation"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Whisk bowl",
+          "Oven mitt",
+          "Spice rack"
+        ],
+        "medium": [
+          "Frying pan",
+          "Cooking pot",
+          "Wooden spoon"
+        ],
+        "hard": [
+          "Silver fork",
+          "Sharp knife",
+          "Dinner plate"
+        ]
+      }
+    },
+    {
+      "word": "Certificate of Deposit",
+      "sub": "Banking",
+      "diff": "hard",
+      "desc": "A time deposit with a fixed term and higher interest rate.",
+      "tags": [
+        "time-deposit",
+        "fixed-term",
+        "higher-rate"
+      ],
+      "hints": {
+        "easy": [
+          "Visit a branch or use mobile app",
+          "Monthly statement shows the balance",
+          "Compare fees across institutions",
+          "Ask the teller for help",
+          "Direct deposit goes here first",
+          "ATM access for cash needs"
+        ],
+        "medium": [
+          "Negotiate better terms with lender",
+          "Shop around for the best offer",
+          "Payment history affects your rating",
+          "Monthly budget includes this cost",
+          "Set up automatic payments",
+          "Review the agreement carefully"
+        ],
+        "hard": [
+          "Duration risk affects bond price",
+          "Yield curve shows term structure",
+          "Spread over sovereign benchmarks",
+          "Convexity adjustment may be needed",
+          "Forward rates implied by the curve",
+          "Basis point value calculation"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Whisk bowl",
+          "Oven mitt",
+          "Spice rack"
+        ],
+        "medium": [
+          "Frying pan",
+          "Cooking pot",
+          "Wooden spoon"
+        ],
+        "hard": [
+          "Silver fork",
+          "Sharp knife",
+          "Dinner plate"
+        ]
+      }
+    },
+    {
+      "word": "Prime Rate",
+      "sub": "Banking",
+      "diff": "hard",
+      "desc": "The interest rate banks charge their most creditworthy corporate customers.",
+      "tags": [
+        "benchmark",
+        "corporate",
+        "creditworthy"
+      ],
+      "hints": {
+        "easy": [
+          "Visit a branch or use mobile app",
+          "Monthly statement shows the balance",
+          "Compare fees across institutions",
+          "Ask the teller for help",
+          "Direct deposit goes here first",
+          "ATM access for cash needs"
+        ],
+        "medium": [
+          "Negotiate better terms with lender",
+          "Shop around for the best offer",
+          "Payment history affects your rating",
+          "Monthly budget includes this cost",
+          "Set up automatic payments",
+          "Review the agreement carefully"
+        ],
+        "hard": [
+          "Duration risk affects bond price",
+          "Yield curve shows term structure",
+          "Spread over sovereign benchmarks",
+          "Convexity adjustment may be needed",
+          "Forward rates implied by the curve",
+          "Basis point value calculation"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Whisk bowl",
+          "Oven mitt",
+          "Spice rack"
+        ],
+        "medium": [
+          "Frying pan",
+          "Cooking pot",
+          "Wooden spoon"
+        ],
+        "hard": [
+          "Silver fork",
+          "Sharp knife",
+          "Dinner plate"
+        ]
+      }
+    },
+    {
+      "word": "Quantitative Easing",
+      "sub": "Banking",
+      "diff": "hard",
+      "desc": "Central bank asset purchases to increase money supply and stimulate the economy.",
+      "tags": [
+        "central-bank",
+        "asset-purchase",
+        "stimulus"
+      ],
+      "hints": {
+        "easy": [
+          "Visit a branch or use mobile app",
+          "Monthly statement shows the balance",
+          "Compare fees across institutions",
+          "Ask the teller for help",
+          "Direct deposit goes here first",
+          "ATM access for cash needs"
+        ],
+        "medium": [
+          "Negotiate better terms with lender",
+          "Shop around for the best offer",
+          "Payment history affects your rating",
+          "Monthly budget includes this cost",
+          "Set up automatic payments",
+          "Review the agreement carefully"
+        ],
+        "hard": [
+          "Duration risk affects bond price",
+          "Yield curve shows term structure",
+          "Spread over sovereign benchmarks",
+          "Convexity adjustment may be needed",
+          "Forward rates implied by the curve",
+          "Basis point value calculation"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Whisk bowl",
+          "Oven mitt",
+          "Spice rack"
+        ],
+        "medium": [
+          "Frying pan",
+          "Cooking pot",
+          "Wooden spoon"
+        ],
+        "hard": [
+          "Silver fork",
+          "Sharp knife",
+          "Dinner plate"
+        ]
+      }
+    },
+    {
+      "word": "Startup",
+      "sub": "Startup",
+      "diff": "easy",
+      "desc": "A newly founded company designed to scale rapidly with innovative products.",
+      "tags": [
+        "new",
+        "scalable",
+        "innovative"
+      ],
+      "hints": {
+        "easy": [
+          "Founders need this to grow",
+          "Silicon Valley uses this term",
+          "Investors ask about it often",
+          "Slide appears in every deck",
+          "Common vocabulary for founders",
+          "Equals rapid growth potential"
+        ],
+        "medium": [
+          "Negotiated during the agreement",
+          "Board approval required for this",
+          "Affects founder ownership percentage",
+          "Model it in the spreadsheet",
+          "Happens before the next round",
+          "Dilution calculations matter here"
+        ],
+        "hard": [
+          "Waterfall distribution method",
+          "Anti-dilution protection clause",
+          "Participation rights provision",
+          "Liquidation preference stack order",
+          "Vesting schedule design choice",
+          "Qualified small business stock rules"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Rocket ship",
+          "Space station",
+          "Satellite dish"
+        ],
+        "medium": [
+          "Orbit path",
+          "Planet moon",
+          "Star galaxy"
+        ],
+        "hard": [
+          "Comet meteor",
+          "Asteroid belt",
+          "Astronaut suit"
+        ]
+      }
+    },
+    {
+      "word": "Angel Investor",
+      "sub": "Startup",
+      "diff": "easy",
+      "desc": "A wealthy individual providing capital to startups in exchange for equity.",
+      "tags": [
+        "individual",
+        "capital",
+        "equity"
+      ],
+      "hints": {
+        "easy": [
+          "Founders need this to grow",
+          "Silicon Valley uses this term",
+          "Investors ask about it often",
+          "Slide appears in every deck",
+          "Common vocabulary for founders",
+          "Equals rapid growth potential"
+        ],
+        "medium": [
+          "Negotiated during the agreement",
+          "Board approval required for this",
+          "Affects founder ownership percentage",
+          "Model it in the spreadsheet",
+          "Happens before the next round",
+          "Dilution calculations matter here"
+        ],
+        "hard": [
+          "Waterfall distribution method",
+          "Anti-dilution protection clause",
+          "Participation rights provision",
+          "Liquidation preference stack order",
+          "Vesting schedule design choice",
+          "Qualified small business stock rules"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Rocket ship",
+          "Space station",
+          "Satellite dish"
+        ],
+        "medium": [
+          "Orbit path",
+          "Planet moon",
+          "Star galaxy"
+        ],
+        "hard": [
+          "Comet meteor",
+          "Asteroid belt",
+          "Astronaut suit"
+        ]
+      }
+    },
+    {
+      "word": "Pitch Deck",
+      "sub": "Startup",
+      "diff": "easy",
+      "desc": "A brief presentation used to persuade investors to fund a business.",
+      "tags": [
+        "presentation",
+        "investors",
+        "funding"
+      ],
+      "hints": {
+        "easy": [
+          "Founders need this to grow",
+          "Silicon Valley uses this term",
+          "Investors ask about it often",
+          "Slide appears in every deck",
+          "Common vocabulary for founders",
+          "Equals rapid growth potential"
+        ],
+        "medium": [
+          "Negotiated during the agreement",
+          "Board approval required for this",
+          "Affects founder ownership percentage",
+          "Model it in the spreadsheet",
+          "Happens before the next round",
+          "Dilution calculations matter here"
+        ],
+        "hard": [
+          "Waterfall distribution method",
+          "Anti-dilution protection clause",
+          "Participation rights provision",
+          "Liquidation preference stack order",
+          "Vesting schedule design choice",
+          "Qualified small business stock rules"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Rocket ship",
+          "Space station",
+          "Satellite dish"
+        ],
+        "medium": [
+          "Orbit path",
+          "Planet moon",
+          "Star galaxy"
+        ],
+        "hard": [
+          "Comet meteor",
+          "Asteroid belt",
+          "Astronaut suit"
+        ]
+      }
+    },
+    {
+      "word": "Unicorn",
+      "sub": "Startup",
+      "diff": "easy",
+      "desc": "A privately held company valued at over one billion dollars.",
+      "tags": [
+        "private",
+        "billion-dollar",
+        "valuation"
+      ],
+      "hints": {
+        "easy": [
+          "Founders need this to grow",
+          "Silicon Valley uses this term",
+          "Investors ask about it often",
+          "Slide appears in every deck",
+          "Common vocabulary for founders",
+          "Equals rapid growth potential"
+        ],
+        "medium": [
+          "Negotiated during the agreement",
+          "Board approval required for this",
+          "Affects founder ownership percentage",
+          "Model it in the spreadsheet",
+          "Happens before the next round",
+          "Dilution calculations matter here"
+        ],
+        "hard": [
+          "Waterfall distribution method",
+          "Anti-dilution protection clause",
+          "Participation rights provision",
+          "Liquidation preference stack order",
+          "Vesting schedule design choice",
+          "Qualified small business stock rules"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Rocket ship",
+          "Space station",
+          "Satellite dish"
+        ],
+        "medium": [
+          "Orbit path",
+          "Planet moon",
+          "Star galaxy"
+        ],
+        "hard": [
+          "Comet meteor",
+          "Asteroid belt",
+          "Astronaut suit"
+        ]
+      }
+    },
+    {
+      "word": "IPO",
+      "sub": "Startup",
+      "diff": "easy",
+      "desc": "Initial public offering when a private company first sells shares to the public.",
+      "tags": [
+        "public",
+        "shares",
+        "first-time"
+      ],
+      "hints": {
+        "easy": [
+          "Founders need this to grow",
+          "Silicon Valley uses this term",
+          "Investors ask about it often",
+          "Slide appears in every deck",
+          "Common vocabulary for founders",
+          "Equals rapid growth potential"
+        ],
+        "medium": [
+          "Negotiated during the agreement",
+          "Board approval required for this",
+          "Affects founder ownership percentage",
+          "Model it in the spreadsheet",
+          "Happens before the next round",
+          "Dilution calculations matter here"
+        ],
+        "hard": [
+          "Waterfall distribution method",
+          "Anti-dilution protection clause",
+          "Participation rights provision",
+          "Liquidation preference stack order",
+          "Vesting schedule design choice",
+          "Qualified small business stock rules"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Rocket ship",
+          "Space station",
+          "Satellite dish"
+        ],
+        "medium": [
+          "Orbit path",
+          "Planet moon",
+          "Star galaxy"
+        ],
+        "hard": [
+          "Comet meteor",
+          "Asteroid belt",
+          "Astronaut suit"
+        ]
+      }
+    },
+    {
+      "word": "Venture Capital",
+      "sub": "Startup",
+      "diff": "medium",
+      "desc": "Private equity financing for high-growth early-stage companies.",
+      "tags": [
+        "private-equity",
+        "high-growth",
+        "early-stage"
+      ],
+      "hints": {
+        "easy": [
+          "Founders need this to grow",
+          "Silicon Valley uses this term",
+          "Investors ask about it often",
+          "Slide appears in every deck",
+          "Common vocabulary for founders",
+          "Equals rapid growth potential"
+        ],
+        "medium": [
+          "Negotiated during the agreement",
+          "Board approval required for this",
+          "Affects founder ownership percentage",
+          "Model it in the spreadsheet",
+          "Happens before the next round",
+          "Dilution calculations matter here"
+        ],
+        "hard": [
+          "Waterfall distribution method",
+          "Anti-dilution protection clause",
+          "Participation rights provision",
+          "Liquidation preference stack order",
+          "Vesting schedule design choice",
+          "Qualified small business stock rules"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Rocket ship",
+          "Space station",
+          "Satellite dish"
+        ],
+        "medium": [
+          "Orbit path",
+          "Planet moon",
+          "Star galaxy"
+        ],
+        "hard": [
+          "Comet meteor",
+          "Asteroid belt",
+          "Astronaut suit"
+        ]
+      }
+    },
+    {
+      "word": "Seed Round",
+      "sub": "Startup",
+      "diff": "medium",
+      "desc": "The first official equity funding stage for a startup company.",
+      "tags": [
+        "first",
+        "equity",
+        "funding"
+      ],
+      "hints": {
+        "easy": [
+          "Founders need this to grow",
+          "Silicon Valley uses this term",
+          "Investors ask about it often",
+          "Slide appears in every deck",
+          "Common vocabulary for founders",
+          "Equals rapid growth potential"
+        ],
+        "medium": [
+          "Negotiated during the agreement",
+          "Board approval required for this",
+          "Affects founder ownership percentage",
+          "Model it in the spreadsheet",
+          "Happens before the next round",
+          "Dilution calculations matter here"
+        ],
+        "hard": [
+          "Waterfall distribution method",
+          "Anti-dilution protection clause",
+          "Participation rights provision",
+          "Liquidation preference stack order",
+          "Vesting schedule design choice",
+          "Qualified small business stock rules"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Rocket ship",
+          "Space station",
+          "Satellite dish"
+        ],
+        "medium": [
+          "Orbit path",
+          "Planet moon",
+          "Star galaxy"
+        ],
+        "hard": [
+          "Comet meteor",
+          "Asteroid belt",
+          "Astronaut suit"
+        ]
+      }
+    },
+    {
+      "word": "Series A",
+      "sub": "Startup",
+      "diff": "medium",
+      "desc": "The first significant venture capital round after seed funding.",
+      "tags": [
+        "significant",
+        "venture-capital",
+        "round"
+      ],
+      "hints": {
+        "easy": [
+          "Founders need this to grow",
+          "Silicon Valley uses this term",
+          "Investors ask about it often",
+          "Slide appears in every deck",
+          "Common vocabulary for founders",
+          "Equals rapid growth potential"
+        ],
+        "medium": [
+          "Negotiated during the agreement",
+          "Board approval required for this",
+          "Affects founder ownership percentage",
+          "Model it in the spreadsheet",
+          "Happens before the next round",
+          "Dilution calculations matter here"
+        ],
+        "hard": [
+          "Waterfall distribution method",
+          "Anti-dilution protection clause",
+          "Participation rights provision",
+          "Liquidation preference stack order",
+          "Vesting schedule design choice",
+          "Qualified small business stock rules"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Rocket ship",
+          "Space station",
+          "Satellite dish"
+        ],
+        "medium": [
+          "Orbit path",
+          "Planet moon",
+          "Star galaxy"
+        ],
+        "hard": [
+          "Comet meteor",
+          "Asteroid belt",
+          "Astronaut suit"
+        ]
+      }
+    },
+    {
+      "word": "Valuation",
+      "sub": "Startup",
+      "diff": "medium",
+      "desc": "The process of determining the current worth of a company.",
+      "tags": [
+        "worth",
+        "company",
+        "process"
+      ],
+      "hints": {
+        "easy": [
+          "Founders need this to grow",
+          "Silicon Valley uses this term",
+          "Investors ask about it often",
+          "Slide appears in every deck",
+          "Common vocabulary for founders",
+          "Equals rapid growth potential"
+        ],
+        "medium": [
+          "Negotiated during the agreement",
+          "Board approval required for this",
+          "Affects founder ownership percentage",
+          "Model it in the spreadsheet",
+          "Happens before the next round",
+          "Dilution calculations matter here"
+        ],
+        "hard": [
+          "Waterfall distribution method",
+          "Anti-dilution protection clause",
+          "Participation rights provision",
+          "Liquidation preference stack order",
+          "Vesting schedule design choice",
+          "Qualified small business stock rules"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Rocket ship",
+          "Space station",
+          "Satellite dish"
+        ],
+        "medium": [
+          "Orbit path",
+          "Planet moon",
+          "Star galaxy"
+        ],
+        "hard": [
+          "Comet meteor",
+          "Asteroid belt",
+          "Astronaut suit"
+        ]
+      }
+    },
+    {
+      "word": "Exit",
+      "sub": "Startup",
+      "diff": "medium",
+      "desc": "An event where investors sell their stake for profit, such as IPO or acquisition.",
+      "tags": [
+        "sell",
+        "stake",
+        "profit"
+      ],
+      "hints": {
+        "easy": [
+          "Founders need this to grow",
+          "Silicon Valley uses this term",
+          "Investors ask about it often",
+          "Slide appears in every deck",
+          "Common vocabulary for founders",
+          "Equals rapid growth potential"
+        ],
+        "medium": [
+          "Negotiated during the agreement",
+          "Board approval required for this",
+          "Affects founder ownership percentage",
+          "Model it in the spreadsheet",
+          "Happens before the next round",
+          "Dilution calculations matter here"
+        ],
+        "hard": [
+          "Waterfall distribution method",
+          "Anti-dilution protection clause",
+          "Participation rights provision",
+          "Liquidation preference stack order",
+          "Vesting schedule design choice",
+          "Qualified small business stock rules"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Rocket ship",
+          "Space station",
+          "Satellite dish"
+        ],
+        "medium": [
+          "Orbit path",
+          "Planet moon",
+          "Star galaxy"
+        ],
+        "hard": [
+          "Comet meteor",
+          "Asteroid belt",
+          "Astronaut suit"
+        ]
+      }
+    },
+    {
+      "word": "Term Sheet",
+      "sub": "Startup",
+      "diff": "hard",
+      "desc": "A non-binding document outlining basic conditions of an investment deal.",
+      "tags": [
+        "non-binding",
+        "conditions",
+        "investment"
+      ],
+      "hints": {
+        "easy": [
+          "Founders need this to grow",
+          "Silicon Valley uses this term",
+          "Investors ask about it often",
+          "Slide appears in every deck",
+          "Common vocabulary for founders",
+          "Equals rapid growth potential"
+        ],
+        "medium": [
+          "Negotiated during the agreement",
+          "Board approval required for this",
+          "Affects founder ownership percentage",
+          "Model it in the spreadsheet",
+          "Happens before the next round",
+          "Dilution calculations matter here"
+        ],
+        "hard": [
+          "Waterfall distribution method",
+          "Anti-dilution protection clause",
+          "Participation rights provision",
+          "Liquidation preference stack order",
+          "Vesting schedule design choice",
+          "Qualified small business stock rules"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Rocket ship",
+          "Space station",
+          "Satellite dish"
+        ],
+        "medium": [
+          "Orbit path",
+          "Planet moon",
+          "Star galaxy"
+        ],
+        "hard": [
+          "Comet meteor",
+          "Asteroid belt",
+          "Astronaut suit"
+        ]
+      }
+    },
+    {
+      "word": "Cap Table",
+      "sub": "Startup",
+      "diff": "hard",
+      "desc": "A spreadsheet showing ownership stakes, shares, and dilution over time.",
+      "tags": [
+        "ownership",
+        "shares",
+        "dilution"
+      ],
+      "hints": {
+        "easy": [
+          "Founders need this to grow",
+          "Silicon Valley uses this term",
+          "Investors ask about it often",
+          "Slide appears in every deck",
+          "Common vocabulary for founders",
+          "Equals rapid growth potential"
+        ],
+        "medium": [
+          "Negotiated during the agreement",
+          "Board approval required for this",
+          "Affects founder ownership percentage",
+          "Model it in the spreadsheet",
+          "Happens before the next round",
+          "Dilution calculations matter here"
+        ],
+        "hard": [
+          "Waterfall distribution method",
+          "Anti-dilution protection clause",
+          "Participation rights provision",
+          "Liquidation preference stack order",
+          "Vesting schedule design choice",
+          "Qualified small business stock rules"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Rocket ship",
+          "Space station",
+          "Satellite dish"
+        ],
+        "medium": [
+          "Orbit path",
+          "Planet moon",
+          "Star galaxy"
+        ],
+        "hard": [
+          "Comet meteor",
+          "Asteroid belt",
+          "Astronaut suit"
+        ]
+      }
+    },
+    {
+      "word": "Burn Rate",
+      "sub": "Startup",
+      "diff": "hard",
+      "desc": "The pace at which a startup spends its venture capital before profitability.",
+      "tags": [
+        "spending",
+        "capital",
+        "profitability"
+      ],
+      "hints": {
+        "easy": [
+          "Founders need this to grow",
+          "Silicon Valley uses this term",
+          "Investors ask about it often",
+          "Slide appears in every deck",
+          "Common vocabulary for founders",
+          "Equals rapid growth potential"
+        ],
+        "medium": [
+          "Negotiated during the agreement",
+          "Board approval required for this",
+          "Affects founder ownership percentage",
+          "Model it in the spreadsheet",
+          "Happens before the next round",
+          "Dilution calculations matter here"
+        ],
+        "hard": [
+          "Waterfall distribution method",
+          "Anti-dilution protection clause",
+          "Participation rights provision",
+          "Liquidation preference stack order",
+          "Vesting schedule design choice",
+          "Qualified small business stock rules"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Rocket ship",
+          "Space station",
+          "Satellite dish"
+        ],
+        "medium": [
+          "Orbit path",
+          "Planet moon",
+          "Star galaxy"
+        ],
+        "hard": [
+          "Comet meteor",
+          "Asteroid belt",
+          "Astronaut suit"
+        ]
+      }
+    },
+    {
+      "word": "Runway",
+      "sub": "Startup",
+      "diff": "hard",
+      "desc": "The number of months a startup can operate before running out of cash.",
+      "tags": [
+        "months",
+        "cash",
+        "operate"
+      ],
+      "hints": {
+        "easy": [
+          "Founders need this to grow",
+          "Silicon Valley uses this term",
+          "Investors ask about it often",
+          "Slide appears in every deck",
+          "Common vocabulary for founders",
+          "Equals rapid growth potential"
+        ],
+        "medium": [
+          "Negotiated during the agreement",
+          "Board approval required for this",
+          "Affects founder ownership percentage",
+          "Model it in the spreadsheet",
+          "Happens before the next round",
+          "Dilution calculations matter here"
+        ],
+        "hard": [
+          "Waterfall distribution method",
+          "Anti-dilution protection clause",
+          "Participation rights provision",
+          "Liquidation preference stack order",
+          "Vesting schedule design choice",
+          "Qualified small business stock rules"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Rocket ship",
+          "Space station",
+          "Satellite dish"
+        ],
+        "medium": [
+          "Orbit path",
+          "Planet moon",
+          "Star galaxy"
+        ],
+        "hard": [
+          "Comet meteor",
+          "Asteroid belt",
+          "Astronaut suit"
+        ]
+      }
+    },
+    {
+      "word": "CEO",
+      "sub": "Corporate",
+      "diff": "easy",
+      "desc": "The chief executive officer responsible for overall company strategy and operations.",
+      "tags": [
+        "executive",
+        "strategy",
+        "operations"
+      ],
+      "hints": {
+        "easy": [
+          "Big company makes this decision",
+          "Appears in the annual report",
+          "Top executive is responsible",
+          "Share price often reacts",
+          "Owners vote on major moves",
+          "Business headlines cover it"
+        ],
+        "medium": [
+          "Strategic rationale must be clear",
+          "Changes the organizational chart",
+          "Synergies are expected benefits",
+          "Regulatory review may be needed",
+          "Integration risk is significant",
+          "Due diligence takes months"
+        ],
+        "hard": [
+          "Accretion dilution analysis model",
+          "Poison pill defense mechanism",
+          "Golden parachute clause detail",
+          "Proxy fight scenario planning",
+          "Staggered board structure impact",
+          "Revlon duties may be triggered"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Piano key",
+          "Violin bow",
+          "Drum set"
+        ],
+        "medium": [
+          "Guitar string",
+          "Flute reed",
+          "Trumpet valve"
+        ],
+        "hard": [
+          "Trombone slide",
+          "Baton wave",
+          "Cello bridge"
+        ]
+      }
+    },
+    {
+      "word": "CFO",
+      "sub": "Corporate",
+      "diff": "easy",
+      "desc": "The chief financial officer managing company finances and financial planning.",
+      "tags": [
+        "financial",
+        "planning",
+        "finances"
+      ],
+      "hints": {
+        "easy": [
+          "Big company makes this decision",
+          "Appears in the annual report",
+          "Top executive is responsible",
+          "Share price often reacts",
+          "Owners vote on major moves",
+          "Business headlines cover it"
+        ],
+        "medium": [
+          "Strategic rationale must be clear",
+          "Changes the organizational chart",
+          "Synergies are expected benefits",
+          "Regulatory review may be needed",
+          "Integration risk is significant",
+          "Due diligence takes months"
+        ],
+        "hard": [
+          "Accretion dilution analysis model",
+          "Poison pill defense mechanism",
+          "Golden parachute clause detail",
+          "Proxy fight scenario planning",
+          "Staggered board structure impact",
+          "Revlon duties may be triggered"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Piano key",
+          "Violin bow",
+          "Drum set"
+        ],
+        "medium": [
+          "Guitar string",
+          "Flute reed",
+          "Trumpet valve"
+        ],
+        "hard": [
+          "Trombone slide",
+          "Baton wave",
+          "Cello bridge"
+        ]
+      }
+    },
+    {
+      "word": "Shareholder",
+      "sub": "Corporate",
+      "diff": "easy",
+      "desc": "An individual or institution owning shares in a corporation.",
+      "tags": [
+        "owner",
+        "shares",
+        "corporation"
+      ],
+      "hints": {
+        "easy": [
+          "Big company makes this decision",
+          "Appears in the annual report",
+          "Top executive is responsible",
+          "Share price often reacts",
+          "Owners vote on major moves",
+          "Business headlines cover it"
+        ],
+        "medium": [
+          "Strategic rationale must be clear",
+          "Changes the organizational chart",
+          "Synergies are expected benefits",
+          "Regulatory review may be needed",
+          "Integration risk is significant",
+          "Due diligence takes months"
+        ],
+        "hard": [
+          "Accretion dilution analysis model",
+          "Poison pill defense mechanism",
+          "Golden parachute clause detail",
+          "Proxy fight scenario planning",
+          "Staggered board structure impact",
+          "Revlon duties may be triggered"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Piano key",
+          "Violin bow",
+          "Drum set"
+        ],
+        "medium": [
+          "Guitar string",
+          "Flute reed",
+          "Trumpet valve"
+        ],
+        "hard": [
+          "Trombone slide",
+          "Baton wave",
+          "Cello bridge"
+        ]
+      }
+    },
+    {
+      "word": "Corporation",
+      "sub": "Corporate",
+      "diff": "easy",
+      "desc": "A legal entity separate from its owners with limited liability protection.",
+      "tags": [
+        "legal-entity",
+        "limited-liability",
+        "separate"
+      ],
+      "hints": {
+        "easy": [
+          "Big company makes this decision",
+          "Appears in the annual report",
+          "Top executive is responsible",
+          "Share price often reacts",
+          "Owners vote on major moves",
+          "Business headlines cover it"
+        ],
+        "medium": [
+          "Strategic rationale must be clear",
+          "Changes the organizational chart",
+          "Synergies are expected benefits",
+          "Regulatory review may be needed",
+          "Integration risk is significant",
+          "Due diligence takes months"
+        ],
+        "hard": [
+          "Accretion dilution analysis model",
+          "Poison pill defense mechanism",
+          "Golden parachute clause detail",
+          "Proxy fight scenario planning",
+          "Staggered board structure impact",
+          "Revlon duties may be triggered"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Piano key",
+          "Violin bow",
+          "Drum set"
+        ],
+        "medium": [
+          "Guitar string",
+          "Flute reed",
+          "Trumpet valve"
+        ],
+        "hard": [
+          "Trombone slide",
+          "Baton wave",
+          "Cello bridge"
+        ]
+      }
+    },
+    {
+      "word": "Board of Directors",
+      "sub": "Corporate",
+      "diff": "medium",
+      "desc": "A group elected by shareholders to oversee company management and strategy.",
+      "tags": [
+        "elected",
+        "shareholders",
+        "oversight"
+      ],
+      "hints": {
+        "easy": [
+          "Big company makes this decision",
+          "Appears in the annual report",
+          "Top executive is responsible",
+          "Share price often reacts",
+          "Owners vote on major moves",
+          "Business headlines cover it"
+        ],
+        "medium": [
+          "Strategic rationale must be clear",
+          "Changes the organizational chart",
+          "Synergies are expected benefits",
+          "Regulatory review may be needed",
+          "Integration risk is significant",
+          "Due diligence takes months"
+        ],
+        "hard": [
+          "Accretion dilution analysis model",
+          "Poison pill defense mechanism",
+          "Golden parachute clause detail",
+          "Proxy fight scenario planning",
+          "Staggered board structure impact",
+          "Revlon duties may be triggered"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Piano key",
+          "Violin bow",
+          "Drum set"
+        ],
+        "medium": [
+          "Guitar string",
+          "Flute reed",
+          "Trumpet valve"
+        ],
+        "hard": [
+          "Trombone slide",
+          "Baton wave",
+          "Cello bridge"
+        ]
+      }
+    },
+    {
+      "word": "Stakeholder",
+      "sub": "Corporate",
+      "diff": "medium",
+      "desc": "Any party affected by or able to influence a company's actions.",
+      "tags": [
+        "affected",
+        "influence",
+        "party"
+      ],
+      "hints": {
+        "easy": [
+          "Big company makes this decision",
+          "Appears in the annual report",
+          "Top executive is responsible",
+          "Share price often reacts",
+          "Owners vote on major moves",
+          "Business headlines cover it"
+        ],
+        "medium": [
+          "Strategic rationale must be clear",
+          "Changes the organizational chart",
+          "Synergies are expected benefits",
+          "Regulatory review may be needed",
+          "Integration risk is significant",
+          "Due diligence takes months"
+        ],
+        "hard": [
+          "Accretion dilution analysis model",
+          "Poison pill defense mechanism",
+          "Golden parachute clause detail",
+          "Proxy fight scenario planning",
+          "Staggered board structure impact",
+          "Revlon duties may be triggered"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Piano key",
+          "Violin bow",
+          "Drum set"
+        ],
+        "medium": [
+          "Guitar string",
+          "Flute reed",
+          "Trumpet valve"
+        ],
+        "hard": [
+          "Trombone slide",
+          "Baton wave",
+          "Cello bridge"
+        ]
+      }
+    },
+    {
+      "word": "Merger",
+      "sub": "Corporate",
+      "diff": "medium",
+      "desc": "The combination of two companies into a single new entity.",
+      "tags": [
+        "combination",
+        "new-entity",
+        "two-companies"
+      ],
+      "hints": {
+        "easy": [
+          "Big company makes this decision",
+          "Appears in the annual report",
+          "Top executive is responsible",
+          "Share price often reacts",
+          "Owners vote on major moves",
+          "Business headlines cover it"
+        ],
+        "medium": [
+          "Strategic rationale must be clear",
+          "Changes the organizational chart",
+          "Synergies are expected benefits",
+          "Regulatory review may be needed",
+          "Integration risk is significant",
+          "Due diligence takes months"
+        ],
+        "hard": [
+          "Accretion dilution analysis model",
+          "Poison pill defense mechanism",
+          "Golden parachute clause detail",
+          "Proxy fight scenario planning",
+          "Staggered board structure impact",
+          "Revlon duties may be triggered"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Piano key",
+          "Violin bow",
+          "Drum set"
+        ],
+        "medium": [
+          "Guitar string",
+          "Flute reed",
+          "Trumpet valve"
+        ],
+        "hard": [
+          "Trombone slide",
+          "Baton wave",
+          "Cello bridge"
+        ]
+      }
+    },
+    {
+      "word": "Acquisition",
+      "sub": "Corporate",
+      "diff": "medium",
+      "desc": "One company purchasing most or all of another company's shares.",
+      "tags": [
+        "purchasing",
+        "shares",
+        "control"
+      ],
+      "hints": {
+        "easy": [
+          "Big company makes this decision",
+          "Appears in the annual report",
+          "Top executive is responsible",
+          "Share price often reacts",
+          "Owners vote on major moves",
+          "Business headlines cover it"
+        ],
+        "medium": [
+          "Strategic rationale must be clear",
+          "Changes the organizational chart",
+          "Synergies are expected benefits",
+          "Regulatory review may be needed",
+          "Integration risk is significant",
+          "Due diligence takes months"
+        ],
+        "hard": [
+          "Accretion dilution analysis model",
+          "Poison pill defense mechanism",
+          "Golden parachute clause detail",
+          "Proxy fight scenario planning",
+          "Staggered board structure impact",
+          "Revlon duties may be triggered"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Piano key",
+          "Violin bow",
+          "Drum set"
+        ],
+        "medium": [
+          "Guitar string",
+          "Flute reed",
+          "Trumpet valve"
+        ],
+        "hard": [
+          "Trombone slide",
+          "Baton wave",
+          "Cello bridge"
+        ]
+      }
+    },
+    {
+      "word": "Subsidiary",
+      "sub": "Corporate",
+      "diff": "medium",
+      "desc": "A company controlled by a parent company owning majority shares.",
+      "tags": [
+        "controlled",
+        "parent",
+        "majority"
+      ],
+      "hints": {
+        "easy": [
+          "Big company makes this decision",
+          "Appears in the annual report",
+          "Top executive is responsible",
+          "Share price often reacts",
+          "Owners vote on major moves",
+          "Business headlines cover it"
+        ],
+        "medium": [
+          "Strategic rationale must be clear",
+          "Changes the organizational chart",
+          "Synergies are expected benefits",
+          "Regulatory review may be needed",
+          "Integration risk is significant",
+          "Due diligence takes months"
+        ],
+        "hard": [
+          "Accretion dilution analysis model",
+          "Poison pill defense mechanism",
+          "Golden parachute clause detail",
+          "Proxy fight scenario planning",
+          "Staggered board structure impact",
+          "Revlon duties may be triggered"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Piano key",
+          "Violin bow",
+          "Drum set"
+        ],
+        "medium": [
+          "Guitar string",
+          "Flute reed",
+          "Trumpet valve"
+        ],
+        "hard": [
+          "Trombone slide",
+          "Baton wave",
+          "Cello bridge"
+        ]
+      }
+    },
+    {
+      "word": "Joint Venture",
+      "sub": "Corporate",
+      "diff": "hard",
+      "desc": "A business arrangement where parties pool resources for a specific project.",
+      "tags": [
+        "arrangement",
+        "pool",
+        "project"
+      ],
+      "hints": {
+        "easy": [
+          "Big company makes this decision",
+          "Appears in the annual report",
+          "Top executive is responsible",
+          "Share price often reacts",
+          "Owners vote on major moves",
+          "Business headlines cover it"
+        ],
+        "medium": [
+          "Strategic rationale must be clear",
+          "Changes the organizational chart",
+          "Synergies are expected benefits",
+          "Regulatory review may be needed",
+          "Integration risk is significant",
+          "Due diligence takes months"
+        ],
+        "hard": [
+          "Accretion dilution analysis model",
+          "Poison pill defense mechanism",
+          "Golden parachute clause detail",
+          "Proxy fight scenario planning",
+          "Staggered board structure impact",
+          "Revlon duties may be triggered"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Piano key",
+          "Violin bow",
+          "Drum set"
+        ],
+        "medium": [
+          "Guitar string",
+          "Flute reed",
+          "Trumpet valve"
+        ],
+        "hard": [
+          "Trombone slide",
+          "Baton wave",
+          "Cello bridge"
+        ]
+      }
+    },
+    {
+      "word": "Restructuring",
+      "sub": "Corporate",
+      "diff": "hard",
+      "desc": "Significant reorganization of company operations, debt, or structure.",
+      "tags": [
+        "reorganization",
+        "operations",
+        "debt"
+      ],
+      "hints": {
+        "easy": [
+          "Big company makes this decision",
+          "Appears in the annual report",
+          "Top executive is responsible",
+          "Share price often reacts",
+          "Owners vote on major moves",
+          "Business headlines cover it"
+        ],
+        "medium": [
+          "Strategic rationale must be clear",
+          "Changes the organizational chart",
+          "Synergies are expected benefits",
+          "Regulatory review may be needed",
+          "Integration risk is significant",
+          "Due diligence takes months"
+        ],
+        "hard": [
+          "Accretion dilution analysis model",
+          "Poison pill defense mechanism",
+          "Golden parachute clause detail",
+          "Proxy fight scenario planning",
+          "Staggered board structure impact",
+          "Revlon duties may be triggered"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Piano key",
+          "Violin bow",
+          "Drum set"
+        ],
+        "medium": [
+          "Guitar string",
+          "Flute reed",
+          "Trumpet valve"
+        ],
+        "hard": [
+          "Trombone slide",
+          "Baton wave",
+          "Cello bridge"
+        ]
+      }
+    },
+    {
+      "word": "Spin-off",
+      "sub": "Corporate",
+      "diff": "hard",
+      "desc": "Creating an independent company by distributing shares of a subsidiary.",
+      "tags": [
+        "independent",
+        "subsidiary",
+        "distributing"
+      ],
+      "hints": {
+        "easy": [
+          "Big company makes this decision",
+          "Appears in the annual report",
+          "Top executive is responsible",
+          "Share price often reacts",
+          "Owners vote on major moves",
+          "Business headlines cover it"
+        ],
+        "medium": [
+          "Strategic rationale must be clear",
+          "Changes the organizational chart",
+          "Synergies are expected benefits",
+          "Regulatory review may be needed",
+          "Integration risk is significant",
+          "Due diligence takes months"
+        ],
+        "hard": [
+          "Accretion dilution analysis model",
+          "Poison pill defense mechanism",
+          "Golden parachute clause detail",
+          "Proxy fight scenario planning",
+          "Staggered board structure impact",
+          "Revlon duties may be triggered"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Piano key",
+          "Violin bow",
+          "Drum set"
+        ],
+        "medium": [
+          "Guitar string",
+          "Flute reed",
+          "Trumpet valve"
+        ],
+        "hard": [
+          "Trombone slide",
+          "Baton wave",
+          "Cello bridge"
+        ]
+      }
+    },
+    {
+      "word": "Fiduciary Duty",
+      "sub": "Corporate",
+      "diff": "hard",
+      "desc": "The legal obligation to act in the best interest of another party.",
+      "tags": [
+        "legal",
+        "obligation",
+        "best-interest"
+      ],
+      "hints": {
+        "easy": [
+          "Big company makes this decision",
+          "Appears in the annual report",
+          "Top executive is responsible",
+          "Share price often reacts",
+          "Owners vote on major moves",
+          "Business headlines cover it"
+        ],
+        "medium": [
+          "Strategic rationale must be clear",
+          "Changes the organizational chart",
+          "Synergies are expected benefits",
+          "Regulatory review may be needed",
+          "Integration risk is significant",
+          "Due diligence takes months"
+        ],
+        "hard": [
+          "Accretion dilution analysis model",
+          "Poison pill defense mechanism",
+          "Golden parachute clause detail",
+          "Proxy fight scenario planning",
+          "Staggered board structure impact",
+          "Revlon duties may be triggered"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Piano key",
+          "Violin bow",
+          "Drum set"
+        ],
+        "medium": [
+          "Guitar string",
+          "Flute reed",
+          "Trumpet valve"
+        ],
+        "hard": [
+          "Trombone slide",
+          "Baton wave",
+          "Cello bridge"
+        ]
+      }
+    },
+    {
+      "word": "Revenue",
+      "sub": "Accounting",
+      "diff": "easy",
+      "desc": "Total income generated from normal business operations before expenses.",
+      "tags": [
+        "income",
+        "operations",
+        "total"
+      ],
+      "hints": {
+        "easy": [
+          "Track this number every month",
+          "Found on financial statements",
+          "Professional calculates the figure",
+          "Shows if business makes money",
+          "Record every transaction carefully",
+          "Balance the books regularly"
+        ],
+        "medium": [
+          "Follows standard principles strictly",
+          "Adjust entries at year-end",
+          "Impacts the tax filing",
+          "Checker verifies for accuracy",
+          "Reconcile accounts quarterly",
+          "Accrual versus cash basis method"
+        ],
+        "hard": [
+          "Fair value measurement hierarchy",
+          "Deferred tax item realization",
+          "Income recognition criteria steps",
+          "Lease standard update applies",
+          "Impairment testing requirement",
+          "Variable consideration constraint"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Tennis court",
+          "Golf club",
+          "Swim lane"
+        ],
+        "medium": [
+          "Bike helmet",
+          "Ski slope",
+          "Skate rink"
+        ],
+        "hard": [
+          "Soccer ball",
+          "Baseball glove",
+          "Tennis racket"
+        ]
+      }
+    },
+    {
+      "word": "Profit",
+      "sub": "Accounting",
+      "diff": "easy",
+      "desc": "Financial gain when revenue exceeds expenses and costs.",
+      "tags": [
+        "gain",
+        "revenue",
+        "exceeds"
+      ],
+      "hints": {
+        "easy": [
+          "Track this number every month",
+          "Found on financial statements",
+          "Professional calculates the figure",
+          "Shows if business makes money",
+          "Record every transaction carefully",
+          "Balance the books regularly"
+        ],
+        "medium": [
+          "Follows standard principles strictly",
+          "Adjust entries at year-end",
+          "Impacts the tax filing",
+          "Checker verifies for accuracy",
+          "Reconcile accounts quarterly",
+          "Accrual versus cash basis method"
+        ],
+        "hard": [
+          "Fair value measurement hierarchy",
+          "Deferred tax item realization",
+          "Income recognition criteria steps",
+          "Lease standard update applies",
+          "Impairment testing requirement",
+          "Variable consideration constraint"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Tennis court",
+          "Golf club",
+          "Swim lane"
+        ],
+        "medium": [
+          "Bike helmet",
+          "Ski slope",
+          "Skate rink"
+        ],
+        "hard": [
+          "Soccer ball",
+          "Baseball glove",
+          "Tennis racket"
+        ]
+      }
+    },
+    {
+      "word": "Loss",
+      "sub": "Accounting",
+      "diff": "easy",
+      "desc": "Financial deficit when expenses exceed revenue over a period.",
+      "tags": [
+        "deficit",
+        "expenses",
+        "exceed"
+      ],
+      "hints": {
+        "easy": [
+          "Track this number every month",
+          "Found on financial statements",
+          "Professional calculates the figure",
+          "Shows if business makes money",
+          "Record every transaction carefully",
+          "Balance the books regularly"
+        ],
+        "medium": [
+          "Follows standard principles strictly",
+          "Adjust entries at year-end",
+          "Impacts the tax filing",
+          "Checker verifies for accuracy",
+          "Reconcile accounts quarterly",
+          "Accrual versus cash basis method"
+        ],
+        "hard": [
+          "Fair value measurement hierarchy",
+          "Deferred tax item realization",
+          "Income recognition criteria steps",
+          "Lease standard update applies",
+          "Impairment testing requirement",
+          "Variable consideration constraint"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Tennis court",
+          "Golf club",
+          "Swim lane"
+        ],
+        "medium": [
+          "Bike helmet",
+          "Ski slope",
+          "Skate rink"
+        ],
+        "hard": [
+          "Soccer ball",
+          "Baseball glove",
+          "Tennis racket"
+        ]
+      }
+    },
+    {
+      "word": "Asset",
+      "sub": "Accounting",
+      "diff": "easy",
+      "desc": "A resource with economic value owned or controlled by an entity.",
+      "tags": [
+        "resource",
+        "value",
+        "owned"
+      ],
+      "hints": {
+        "easy": [
+          "Track this number every month",
+          "Found on financial statements",
+          "Professional calculates the figure",
+          "Shows if business makes money",
+          "Record every transaction carefully",
+          "Balance the books regularly"
+        ],
+        "medium": [
+          "Follows standard principles strictly",
+          "Adjust entries at year-end",
+          "Impacts the tax filing",
+          "Checker verifies for accuracy",
+          "Reconcile accounts quarterly",
+          "Accrual versus cash basis method"
+        ],
+        "hard": [
+          "Fair value measurement hierarchy",
+          "Deferred tax item realization",
+          "Income recognition criteria steps",
+          "Lease standard update applies",
+          "Impairment testing requirement",
+          "Variable consideration constraint"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Tennis court",
+          "Golf club",
+          "Swim lane"
+        ],
+        "medium": [
+          "Bike helmet",
+          "Ski slope",
+          "Skate rink"
+        ],
+        "hard": [
+          "Soccer ball",
+          "Baseball glove",
+          "Tennis racket"
+        ]
+      }
+    },
+    {
+      "word": "Liability",
+      "sub": "Accounting",
+      "diff": "easy",
+      "desc": "A financial obligation or debt owed to another party.",
+      "tags": [
+        "obligation",
+        "debt",
+        "owed"
+      ],
+      "hints": {
+        "easy": [
+          "Track this number every month",
+          "Found on financial statements",
+          "Professional calculates the figure",
+          "Shows if business makes money",
+          "Record every transaction carefully",
+          "Balance the books regularly"
+        ],
+        "medium": [
+          "Follows standard principles strictly",
+          "Adjust entries at year-end",
+          "Impacts the tax filing",
+          "Checker verifies for accuracy",
+          "Reconcile accounts quarterly",
+          "Accrual versus cash basis method"
+        ],
+        "hard": [
+          "Fair value measurement hierarchy",
+          "Deferred tax item realization",
+          "Income recognition criteria steps",
+          "Lease standard update applies",
+          "Impairment testing requirement",
+          "Variable consideration constraint"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Tennis court",
+          "Golf club",
+          "Swim lane"
+        ],
+        "medium": [
+          "Bike helmet",
+          "Ski slope",
+          "Skate rink"
+        ],
+        "hard": [
+          "Soccer ball",
+          "Baseball glove",
+          "Tennis racket"
+        ]
+      }
+    },
+    {
+      "word": "Equity",
+      "sub": "Accounting",
+      "diff": "medium",
+      "desc": "The residual interest in assets after deducting liabilities.",
+      "tags": [
+        "residual",
+        "assets",
+        "liabilities"
+      ],
+      "hints": {
+        "easy": [
+          "Track this number every month",
+          "Found on financial statements",
+          "Professional calculates the figure",
+          "Shows if business makes money",
+          "Record every transaction carefully",
+          "Balance the books regularly"
+        ],
+        "medium": [
+          "Follows standard principles strictly",
+          "Adjust entries at year-end",
+          "Impacts the tax filing",
+          "Checker verifies for accuracy",
+          "Reconcile accounts quarterly",
+          "Accrual versus cash basis method"
+        ],
+        "hard": [
+          "Fair value measurement hierarchy",
+          "Deferred tax item realization",
+          "Income recognition criteria steps",
+          "Lease standard update applies",
+          "Impairment testing requirement",
+          "Variable consideration constraint"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Tennis court",
+          "Golf club",
+          "Swim lane"
+        ],
+        "medium": [
+          "Bike helmet",
+          "Ski slope",
+          "Skate rink"
+        ],
+        "hard": [
+          "Soccer ball",
+          "Baseball glove",
+          "Tennis racket"
+        ]
+      }
+    },
+    {
+      "word": "Balance Sheet",
+      "sub": "Accounting",
+      "diff": "medium",
+      "desc": "A snapshot of assets, liabilities, and equity at a specific date.",
+      "tags": [
+        "snapshot",
+        "assets",
+        "liabilities"
+      ],
+      "hints": {
+        "easy": [
+          "Track this number every month",
+          "Found on financial statements",
+          "Professional calculates the figure",
+          "Shows if business makes money",
+          "Record every transaction carefully",
+          "Balance the books regularly"
+        ],
+        "medium": [
+          "Follows standard principles strictly",
+          "Adjust entries at year-end",
+          "Impacts the tax filing",
+          "Checker verifies for accuracy",
+          "Reconcile accounts quarterly",
+          "Accrual versus cash basis method"
+        ],
+        "hard": [
+          "Fair value measurement hierarchy",
+          "Deferred tax item realization",
+          "Income recognition criteria steps",
+          "Lease standard update applies",
+          "Impairment testing requirement",
+          "Variable consideration constraint"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Tennis court",
+          "Golf club",
+          "Swim lane"
+        ],
+        "medium": [
+          "Bike helmet",
+          "Ski slope",
+          "Skate rink"
+        ],
+        "hard": [
+          "Soccer ball",
+          "Baseball glove",
+          "Tennis racket"
+        ]
+      }
+    },
+    {
+      "word": "Income Statement",
+      "sub": "Accounting",
+      "diff": "medium",
+      "desc": "A report showing revenues, expenses, and profit over a period.",
+      "tags": [
+        "report",
+        "revenues",
+        "period"
+      ],
+      "hints": {
+        "easy": [
+          "Track this number every month",
+          "Found on financial statements",
+          "Professional calculates the figure",
+          "Shows if business makes money",
+          "Record every transaction carefully",
+          "Balance the books regularly"
+        ],
+        "medium": [
+          "Follows standard principles strictly",
+          "Adjust entries at year-end",
+          "Impacts the tax filing",
+          "Checker verifies for accuracy",
+          "Reconcile accounts quarterly",
+          "Accrual versus cash basis method"
+        ],
+        "hard": [
+          "Fair value measurement hierarchy",
+          "Deferred tax item realization",
+          "Income recognition criteria steps",
+          "Lease standard update applies",
+          "Impairment testing requirement",
+          "Variable consideration constraint"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Tennis court",
+          "Golf club",
+          "Swim lane"
+        ],
+        "medium": [
+          "Bike helmet",
+          "Ski slope",
+          "Skate rink"
+        ],
+        "hard": [
+          "Soccer ball",
+          "Baseball glove",
+          "Tennis racket"
+        ]
+      }
+    },
+    {
+      "word": "Cash Flow",
+      "sub": "Accounting",
+      "diff": "medium",
+      "desc": "The net amount of cash moving in and out of a business.",
+      "tags": [
+        "net",
+        "moving",
+        "business"
+      ],
+      "hints": {
+        "easy": [
+          "Track this number every month",
+          "Found on financial statements",
+          "Professional calculates the figure",
+          "Shows if business makes money",
+          "Record every transaction carefully",
+          "Balance the books regularly"
+        ],
+        "medium": [
+          "Follows standard principles strictly",
+          "Adjust entries at year-end",
+          "Impacts the tax filing",
+          "Checker verifies for accuracy",
+          "Reconcile accounts quarterly",
+          "Accrual versus cash basis method"
+        ],
+        "hard": [
+          "Fair value measurement hierarchy",
+          "Deferred tax item realization",
+          "Income recognition criteria steps",
+          "Lease standard update applies",
+          "Impairment testing requirement",
+          "Variable consideration constraint"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Tennis court",
+          "Golf club",
+          "Swim lane"
+        ],
+        "medium": [
+          "Bike helmet",
+          "Ski slope",
+          "Skate rink"
+        ],
+        "hard": [
+          "Soccer ball",
+          "Baseball glove",
+          "Tennis racket"
+        ]
+      }
+    },
+    {
+      "word": "Depreciation",
+      "sub": "Accounting",
+      "diff": "medium",
+      "desc": "Allocating the cost of a tangible asset over its useful life.",
+      "tags": [
+        "allocating",
+        "tangible",
+        "useful-life"
+      ],
+      "hints": {
+        "easy": [
+          "Track this number every month",
+          "Found on financial statements",
+          "Professional calculates the figure",
+          "Shows if business makes money",
+          "Record every transaction carefully",
+          "Balance the books regularly"
+        ],
+        "medium": [
+          "Follows standard principles strictly",
+          "Adjust entries at year-end",
+          "Impacts the tax filing",
+          "Checker verifies for accuracy",
+          "Reconcile accounts quarterly",
+          "Accrual versus cash basis method"
+        ],
+        "hard": [
+          "Fair value measurement hierarchy",
+          "Deferred tax item realization",
+          "Income recognition criteria steps",
+          "Lease standard update applies",
+          "Impairment testing requirement",
+          "Variable consideration constraint"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Tennis court",
+          "Golf club",
+          "Swim lane"
+        ],
+        "medium": [
+          "Bike helmet",
+          "Ski slope",
+          "Skate rink"
+        ],
+        "hard": [
+          "Soccer ball",
+          "Baseball glove",
+          "Tennis racket"
+        ]
+      }
+    },
+    {
+      "word": "EBITDA",
+      "sub": "Accounting",
+      "diff": "hard",
+      "desc": "Earnings before interest and taxes plus depreciation amortization.",
+      "tags": [
+        "earnings",
+        "operating",
+        "profit"
+      ],
+      "hints": {
+        "easy": [
+          "Track this number every month",
+          "Found on financial statements",
+          "Professional calculates the figure",
+          "Shows if business makes money",
+          "Record every transaction carefully",
+          "Balance the books regularly"
+        ],
+        "medium": [
+          "Follows standard principles strictly",
+          "Adjust entries at year-end",
+          "Impacts the tax filing",
+          "Checker verifies for accuracy",
+          "Reconcile accounts quarterly",
+          "Accrual versus cash basis method"
+        ],
+        "hard": [
+          "Fair value measurement hierarchy",
+          "Deferred tax item realization",
+          "Income recognition criteria steps",
+          "Lease standard update applies",
+          "Impairment testing requirement",
+          "Variable consideration constraint"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Tennis court",
+          "Golf club",
+          "Swim lane"
+        ],
+        "medium": [
+          "Bike helmet",
+          "Ski slope",
+          "Skate rink"
+        ],
+        "hard": [
+          "Soccer ball",
+          "Baseball glove",
+          "Tennis racket"
+        ]
+      }
+    },
+    {
+      "word": "GAAP",
+      "sub": "Accounting",
+      "diff": "hard",
+      "desc": "Generally accepted accounting principles governing financial reporting standards.",
+      "tags": [
+        "principles",
+        "standards",
+        "reporting"
+      ],
+      "hints": {
+        "easy": [
+          "Track this number every month",
+          "Found on financial statements",
+          "Professional calculates the figure",
+          "Shows if business makes money",
+          "Record every transaction carefully",
+          "Balance the books regularly"
+        ],
+        "medium": [
+          "Follows standard principles strictly",
+          "Adjust entries at year-end",
+          "Impacts the tax filing",
+          "Checker verifies for accuracy",
+          "Reconcile accounts quarterly",
+          "Accrual versus cash basis method"
+        ],
+        "hard": [
+          "Fair value measurement hierarchy",
+          "Deferred tax item realization",
+          "Income recognition criteria steps",
+          "Lease standard update applies",
+          "Impairment testing requirement",
+          "Variable consideration constraint"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Tennis court",
+          "Golf club",
+          "Swim lane"
+        ],
+        "medium": [
+          "Bike helmet",
+          "Ski slope",
+          "Skate rink"
+        ],
+        "hard": [
+          "Soccer ball",
+          "Baseball glove",
+          "Tennis racket"
+        ]
+      }
+    },
+    {
+      "word": "Audit",
+      "sub": "Accounting",
+      "diff": "hard",
+      "desc": "An independent examination of financial statements for accuracy and compliance.",
+      "tags": [
+        "examination",
+        "independent",
+        "compliance"
+      ],
+      "hints": {
+        "easy": [
+          "Track this number every month",
+          "Found on financial statements",
+          "Professional calculates the figure",
+          "Shows if business makes money",
+          "Record every transaction carefully",
+          "Balance the books regularly"
+        ],
+        "medium": [
+          "Follows standard principles strictly",
+          "Adjust entries at year-end",
+          "Impacts the tax filing",
+          "Checker verifies for accuracy",
+          "Reconcile accounts quarterly",
+          "Accrual versus cash basis method"
+        ],
+        "hard": [
+          "Fair value measurement hierarchy",
+          "Deferred tax item realization",
+          "Income recognition criteria steps",
+          "Lease standard update applies",
+          "Impairment testing requirement",
+          "Variable consideration constraint"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Tennis court",
+          "Golf club",
+          "Swim lane"
+        ],
+        "medium": [
+          "Bike helmet",
+          "Ski slope",
+          "Skate rink"
+        ],
+        "hard": [
+          "Soccer ball",
+          "Baseball glove",
+          "Tennis racket"
+        ]
+      }
+    },
+    {
+      "word": "Inflation",
+      "sub": "Economics",
+      "diff": "easy",
+      "desc": "A general increase in prices and decrease in purchasing power over time.",
+      "tags": [
+        "prices",
+        "purchasing-power",
+        "increase"
+      ],
+      "hints": {
+        "easy": [
+          "News discusses this daily",
+          "Affects everyone's wallet",
+          "Government monitors the numbers",
+          "Goes up and down cyclically",
+          "Experts debate the causes",
+          "Feel it when shopping"
+        ],
+        "medium": [
+          "Signals the economy health",
+          "Policy response follows the data",
+          "Leading indicator of trouble",
+          "Central bank targets the level",
+          "Affects exchange rates abroad",
+          "Forecasted each quarter"
+        ],
+        "hard": [
+          "Phillips curve trade-off relationship",
+          "NAIRU estimate is debated",
+          "Rational expectations theory applies",
+          "DSGE model parameter calibration",
+          "Hysteresis effect can persist",
+          "Countercyclical policy may help"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Sunny sky",
+          "Rain cloud",
+          "Wind gust"
+        ],
+        "medium": [
+          "Storm front",
+          "Pressure zone",
+          "Morning dew"
+        ],
+        "hard": [
+          "Frost pattern",
+          "Mist haze",
+          "Barometer reading"
+        ]
+      }
+    },
+    {
+      "word": "Recession",
+      "sub": "Economics",
+      "diff": "easy",
+      "desc": "A significant decline in economic activity lasting more than a few months.",
+      "tags": [
+        "decline",
+        "activity",
+        "months"
+      ],
+      "hints": {
+        "easy": [
+          "News discusses this daily",
+          "Affects everyone's wallet",
+          "Government monitors the numbers",
+          "Goes up and down cyclically",
+          "Experts debate the causes",
+          "Feel it when shopping"
+        ],
+        "medium": [
+          "Signals the economy health",
+          "Policy response follows the data",
+          "Leading indicator of trouble",
+          "Central bank targets the level",
+          "Affects exchange rates abroad",
+          "Forecasted each quarter"
+        ],
+        "hard": [
+          "Phillips curve trade-off relationship",
+          "NAIRU estimate is debated",
+          "Rational expectations theory applies",
+          "DSGE model parameter calibration",
+          "Hysteresis effect can persist",
+          "Countercyclical policy may help"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Sunny sky",
+          "Rain cloud",
+          "Wind gust"
+        ],
+        "medium": [
+          "Storm front",
+          "Pressure zone",
+          "Morning dew"
+        ],
+        "hard": [
+          "Frost pattern",
+          "Mist haze",
+          "Barometer reading"
+        ]
+      }
+    },
+    {
+      "word": "GDP",
+      "sub": "Economics",
+      "diff": "easy",
+      "desc": "Gross domestic product measuring the total value of goods and services produced.",
+      "tags": [
+        "total-value",
+        "goods",
+        "services"
+      ],
+      "hints": {
+        "easy": [
+          "News discusses this daily",
+          "Affects everyone's wallet",
+          "Government monitors the numbers",
+          "Goes up and down cyclically",
+          "Experts debate the causes",
+          "Feel it when shopping"
+        ],
+        "medium": [
+          "Signals the economy health",
+          "Policy response follows the data",
+          "Leading indicator of trouble",
+          "Central bank targets the level",
+          "Affects exchange rates abroad",
+          "Forecasted each quarter"
+        ],
+        "hard": [
+          "Phillips curve trade-off relationship",
+          "NAIRU estimate is debated",
+          "Rational expectations theory applies",
+          "DSGE model parameter calibration",
+          "Hysteresis effect can persist",
+          "Countercyclical policy may help"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Sunny sky",
+          "Rain cloud",
+          "Wind gust"
+        ],
+        "medium": [
+          "Storm front",
+          "Pressure zone",
+          "Morning dew"
+        ],
+        "hard": [
+          "Frost pattern",
+          "Mist haze",
+          "Barometer reading"
+        ]
+      }
+    },
+    {
+      "word": "Currency",
+      "sub": "Economics",
+      "diff": "easy",
+      "desc": "A system of money in general use within a particular country.",
+      "tags": [
+        "money",
+        "system",
+        "country"
+      ],
+      "hints": {
+        "easy": [
+          "News discusses this daily",
+          "Affects everyone's wallet",
+          "Government monitors the numbers",
+          "Goes up and down cyclically",
+          "Experts debate the causes",
+          "Feel it when shopping"
+        ],
+        "medium": [
+          "Signals the economy health",
+          "Policy response follows the data",
+          "Leading indicator of trouble",
+          "Central bank targets the level",
+          "Affects exchange rates abroad",
+          "Forecasted each quarter"
+        ],
+        "hard": [
+          "Phillips curve trade-off relationship",
+          "NAIRU estimate is debated",
+          "Rational expectations theory applies",
+          "DSGE model parameter calibration",
+          "Hysteresis effect can persist",
+          "Countercyclical policy may help"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Sunny sky",
+          "Rain cloud",
+          "Wind gust"
+        ],
+        "medium": [
+          "Storm front",
+          "Pressure zone",
+          "Morning dew"
+        ],
+        "hard": [
+          "Frost pattern",
+          "Mist haze",
+          "Barometer reading"
+        ]
+      }
+    },
+    {
+      "word": "Deflation",
+      "sub": "Economics",
+      "diff": "medium",
+      "desc": "A general decrease in prices often signaling economic contraction.",
+      "tags": [
+        "decrease",
+        "prices",
+        "contraction"
+      ],
+      "hints": {
+        "easy": [
+          "News discusses this daily",
+          "Affects everyone's wallet",
+          "Government monitors the numbers",
+          "Goes up and down cyclically",
+          "Experts debate the causes",
+          "Feel it when shopping"
+        ],
+        "medium": [
+          "Signals the economy health",
+          "Policy response follows the data",
+          "Leading indicator of trouble",
+          "Central bank targets the level",
+          "Affects exchange rates abroad",
+          "Forecasted each quarter"
+        ],
+        "hard": [
+          "Phillips curve trade-off relationship",
+          "NAIRU estimate is debated",
+          "Rational expectations theory applies",
+          "DSGE model parameter calibration",
+          "Hysteresis effect can persist",
+          "Countercyclical policy may help"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Sunny sky",
+          "Rain cloud",
+          "Wind gust"
+        ],
+        "medium": [
+          "Storm front",
+          "Pressure zone",
+          "Morning dew"
+        ],
+        "hard": [
+          "Frost pattern",
+          "Mist haze",
+          "Barometer reading"
+        ]
+      }
+    },
+    {
+      "word": "Unemployment Rate",
+      "sub": "Economics",
+      "diff": "medium",
+      "desc": "The percentage of the labor force that is jobless and seeking work.",
+      "tags": [
+        "percentage",
+        "labor-force",
+        "jobless"
+      ],
+      "hints": {
+        "easy": [
+          "News discusses this daily",
+          "Affects everyone's wallet",
+          "Government monitors the numbers",
+          "Goes up and down cyclically",
+          "Experts debate the causes",
+          "Feel it when shopping"
+        ],
+        "medium": [
+          "Signals the economy health",
+          "Policy response follows the data",
+          "Leading indicator of trouble",
+          "Central bank targets the level",
+          "Affects exchange rates abroad",
+          "Forecasted each quarter"
+        ],
+        "hard": [
+          "Phillips curve trade-off relationship",
+          "NAIRU estimate is debated",
+          "Rational expectations theory applies",
+          "DSGE model parameter calibration",
+          "Hysteresis effect can persist",
+          "Countercyclical policy may help"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Sunny sky",
+          "Rain cloud",
+          "Wind gust"
+        ],
+        "medium": [
+          "Storm front",
+          "Pressure zone",
+          "Morning dew"
+        ],
+        "hard": [
+          "Frost pattern",
+          "Mist haze",
+          "Barometer reading"
+        ]
+      }
+    },
+    {
+      "word": "Fiscal Policy",
+      "sub": "Economics",
+      "diff": "medium",
+      "desc": "Government spending and taxation decisions influencing the economy.",
+      "tags": [
+        "government",
+        "spending",
+        "taxation"
+      ],
+      "hints": {
+        "easy": [
+          "News discusses this daily",
+          "Affects everyone's wallet",
+          "Government monitors the numbers",
+          "Goes up and down cyclically",
+          "Experts debate the causes",
+          "Feel it when shopping"
+        ],
+        "medium": [
+          "Signals the economy health",
+          "Policy response follows the data",
+          "Leading indicator of trouble",
+          "Central bank targets the level",
+          "Affects exchange rates abroad",
+          "Forecasted each quarter"
+        ],
+        "hard": [
+          "Phillips curve trade-off relationship",
+          "NAIRU estimate is debated",
+          "Rational expectations theory applies",
+          "DSGE model parameter calibration",
+          "Hysteresis effect can persist",
+          "Countercyclical policy may help"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Sunny sky",
+          "Rain cloud",
+          "Wind gust"
+        ],
+        "medium": [
+          "Storm front",
+          "Pressure zone",
+          "Morning dew"
+        ],
+        "hard": [
+          "Frost pattern",
+          "Mist haze",
+          "Barometer reading"
+        ]
+      }
+    },
+    {
+      "word": "Monetary Policy",
+      "sub": "Economics",
+      "diff": "medium",
+      "desc": "Central bank actions controlling money supply and interest rates.",
+      "tags": [
+        "central-bank",
+        "money-supply",
+        "control"
+      ],
+      "hints": {
+        "easy": [
+          "News discusses this daily",
+          "Affects everyone's wallet",
+          "Government monitors the numbers",
+          "Goes up and down cyclically",
+          "Experts debate the causes",
+          "Feel it when shopping"
+        ],
+        "medium": [
+          "Signals the economy health",
+          "Policy response follows the data",
+          "Leading indicator of trouble",
+          "Central bank targets the level",
+          "Affects exchange rates abroad",
+          "Forecasted each quarter"
+        ],
+        "hard": [
+          "Phillips curve trade-off relationship",
+          "NAIRU estimate is debated",
+          "Rational expectations theory applies",
+          "DSGE model parameter calibration",
+          "Hysteresis effect can persist",
+          "Countercyclical policy may help"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Sunny sky",
+          "Rain cloud",
+          "Wind gust"
+        ],
+        "medium": [
+          "Storm front",
+          "Pressure zone",
+          "Morning dew"
+        ],
+        "hard": [
+          "Frost pattern",
+          "Mist haze",
+          "Barometer reading"
+        ]
+      }
+    },
+    {
+      "word": "Depression",
+      "sub": "Economics",
+      "diff": "hard",
+      "desc": "A severe and prolonged recession with very high unemployment.",
+      "tags": [
+        "severe",
+        "prolonged",
+        "unemployment"
+      ],
+      "hints": {
+        "easy": [
+          "News discusses this daily",
+          "Affects everyone's wallet",
+          "Government monitors the numbers",
+          "Goes up and down cyclically",
+          "Experts debate the causes",
+          "Feel it when shopping"
+        ],
+        "medium": [
+          "Signals the economy health",
+          "Policy response follows the data",
+          "Leading indicator of trouble",
+          "Central bank targets the level",
+          "Affects exchange rates abroad",
+          "Forecasted each quarter"
+        ],
+        "hard": [
+          "Phillips curve trade-off relationship",
+          "NAIRU estimate is debated",
+          "Rational expectations theory applies",
+          "DSGE model parameter calibration",
+          "Hysteresis effect can persist",
+          "Countercyclical policy may help"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Sunny sky",
+          "Rain cloud",
+          "Wind gust"
+        ],
+        "medium": [
+          "Storm front",
+          "Pressure zone",
+          "Morning dew"
+        ],
+        "hard": [
+          "Frost pattern",
+          "Mist haze",
+          "Barometer reading"
+        ]
+      }
+    },
+    {
+      "word": "Opportunity Cost",
+      "sub": "Economics",
+      "diff": "hard",
+      "desc": "The value of the next best alternative forgone when making a choice.",
+      "tags": [
+        "value",
+        "alternative",
+        "forgone"
+      ],
+      "hints": {
+        "easy": [
+          "News discusses this daily",
+          "Affects everyone's wallet",
+          "Government monitors the numbers",
+          "Goes up and down cyclically",
+          "Experts debate the causes",
+          "Feel it when shopping"
+        ],
+        "medium": [
+          "Signals the economy health",
+          "Policy response follows the data",
+          "Leading indicator of trouble",
+          "Central bank targets the level",
+          "Affects exchange rates abroad",
+          "Forecasted each quarter"
+        ],
+        "hard": [
+          "Phillips curve trade-off relationship",
+          "NAIRU estimate is debated",
+          "Rational expectations theory applies",
+          "DSGE model parameter calibration",
+          "Hysteresis effect can persist",
+          "Countercyclical policy may help"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Sunny sky",
+          "Rain cloud",
+          "Wind gust"
+        ],
+        "medium": [
+          "Storm front",
+          "Pressure zone",
+          "Morning dew"
+        ],
+        "hard": [
+          "Frost pattern",
+          "Mist haze",
+          "Barometer reading"
+        ]
+      }
+    },
+    {
+      "word": "Trade Deficit",
+      "sub": "Economics",
+      "diff": "hard",
+      "desc": "When a country imports more goods and services than it exports.",
+      "tags": [
+        "imports",
+        "exports",
+        "country"
+      ],
+      "hints": {
+        "easy": [
+          "News discusses this daily",
+          "Affects everyone's wallet",
+          "Government monitors the numbers",
+          "Goes up and down cyclically",
+          "Experts debate the causes",
+          "Feel it when shopping"
+        ],
+        "medium": [
+          "Signals the economy health",
+          "Policy response follows the data",
+          "Leading indicator of trouble",
+          "Central bank targets the level",
+          "Affects exchange rates abroad",
+          "Forecasted each quarter"
+        ],
+        "hard": [
+          "Phillips curve trade-off relationship",
+          "NAIRU estimate is debated",
+          "Rational expectations theory applies",
+          "DSGE model parameter calibration",
+          "Hysteresis effect can persist",
+          "Countercyclical policy may help"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Sunny sky",
+          "Rain cloud",
+          "Wind gust"
+        ],
+        "medium": [
+          "Storm front",
+          "Pressure zone",
+          "Morning dew"
+        ],
+        "hard": [
+          "Frost pattern",
+          "Mist haze",
+          "Barometer reading"
+        ]
+      }
+    },
+    {
+      "word": "Bitcoin",
+      "sub": "Crypto",
+      "diff": "easy",
+      "desc": "The first decentralized digital currency using blockchain technology.",
+      "tags": [
+        "decentralized",
+        "digital",
+        "blockchain"
+      ],
+      "hints": {
+        "easy": [
+          "Buy on a trading platform",
+          "Price swings can be wild",
+          "Store in a secure app",
+          "Built on distributed ledger",
+          "Validate units for rewards",
+          "Digital money alternative"
+        ],
+        "medium": [
+          "Programmable agreement platform",
+          "Transaction fees apply here",
+          "Consensus mechanism secures it",
+          "Financial app built on chain",
+          "Token design is critical",
+          "Second layer scales throughput"
+        ],
+        "hard": [
+          "MEV extraction by validators",
+          "Zero-knowledge proof verification",
+          "Byzantine fault tolerance model",
+          "Improvement proposal changes code",
+          "Rollup architecture scales execution",
+          "Slashing conditions punish bad acts"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Rose bush",
+          "Garden hose",
+          "Lawn mower"
+        ],
+        "medium": [
+          "Garden rake",
+          "Digging spade",
+          "Hand trowel"
+        ],
+        "hard": [
+          "Pruning shear",
+          "Water sprinkler",
+          "Garden fork"
+        ]
+      }
+    },
+    {
+      "word": "Ethereum",
+      "sub": "Crypto",
+      "diff": "easy",
+      "desc": "A programmable blockchain platform enabling smart contracts and dApps.",
+      "tags": [
+        "programmable",
+        "smart-contracts",
+        "platform"
+      ],
+      "hints": {
+        "easy": [
+          "Buy on a trading platform",
+          "Price swings can be wild",
+          "Store in a secure app",
+          "Built on distributed ledger",
+          "Validate units for rewards",
+          "Digital money alternative"
+        ],
+        "medium": [
+          "Programmable agreement platform",
+          "Transaction fees apply here",
+          "Consensus mechanism secures it",
+          "Financial app built on chain",
+          "Token design is critical",
+          "Second layer scales throughput"
+        ],
+        "hard": [
+          "MEV extraction by validators",
+          "Zero-knowledge proof verification",
+          "Byzantine fault tolerance model",
+          "Improvement proposal changes code",
+          "Rollup architecture scales execution",
+          "Slashing conditions punish bad acts"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Rose bush",
+          "Garden hose",
+          "Lawn mower"
+        ],
+        "medium": [
+          "Garden rake",
+          "Digging spade",
+          "Hand trowel"
+        ],
+        "hard": [
+          "Pruning shear",
+          "Water sprinkler",
+          "Garden fork"
+        ]
+      }
+    },
+    {
+      "word": "Cryptocurrency",
+      "sub": "Crypto",
+      "diff": "easy",
+      "desc": "Digital assets using cryptography for secure financial transactions.",
+      "tags": [
+        "digital",
+        "cryptography",
+        "secure"
+      ],
+      "hints": {
+        "easy": [
+          "Buy on a trading platform",
+          "Price swings can be wild",
+          "Store in a secure app",
+          "Built on distributed ledger",
+          "Validate units for rewards",
+          "Digital money alternative"
+        ],
+        "medium": [
+          "Programmable agreement platform",
+          "Transaction fees apply here",
+          "Consensus mechanism secures it",
+          "Financial app built on chain",
+          "Token design is critical",
+          "Second layer scales throughput"
+        ],
+        "hard": [
+          "MEV extraction by validators",
+          "Zero-knowledge proof verification",
+          "Byzantine fault tolerance model",
+          "Improvement proposal changes code",
+          "Rollup architecture scales execution",
+          "Slashing conditions punish bad acts"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Rose bush",
+          "Garden hose",
+          "Lawn mower"
+        ],
+        "medium": [
+          "Garden rake",
+          "Digging spade",
+          "Hand trowel"
+        ],
+        "hard": [
+          "Pruning shear",
+          "Water sprinkler",
+          "Garden fork"
+        ]
+      }
+    },
+    {
+      "word": "Blockchain",
+      "sub": "Crypto",
+      "diff": "medium",
+      "desc": "A distributed ledger recording transactions across a network of computers.",
+      "tags": [
+        "distributed",
+        "ledger",
+        "network"
+      ],
+      "hints": {
+        "easy": [
+          "Buy on a trading platform",
+          "Price swings can be wild",
+          "Store in a secure app",
+          "Built on distributed ledger",
+          "Validate units for rewards",
+          "Digital money alternative"
+        ],
+        "medium": [
+          "Programmable agreement platform",
+          "Transaction fees apply here",
+          "Consensus mechanism secures it",
+          "Financial app built on chain",
+          "Token design is critical",
+          "Second layer scales throughput"
+        ],
+        "hard": [
+          "MEV extraction by validators",
+          "Zero-knowledge proof verification",
+          "Byzantine fault tolerance model",
+          "Improvement proposal changes code",
+          "Rollup architecture scales execution",
+          "Slashing conditions punish bad acts"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Rose bush",
+          "Garden hose",
+          "Lawn mower"
+        ],
+        "medium": [
+          "Garden rake",
+          "Digging spade",
+          "Hand trowel"
+        ],
+        "hard": [
+          "Pruning shear",
+          "Water sprinkler",
+          "Garden fork"
+        ]
+      }
+    },
+    {
+      "word": "Wallet",
+      "sub": "Crypto",
+      "diff": "medium",
+      "desc": "Software or hardware storing private keys for accessing crypto assets.",
+      "tags": [
+        "private-keys",
+        "storing",
+        "access"
+      ],
+      "hints": {
+        "easy": [
+          "Buy on a trading platform",
+          "Price swings can be wild",
+          "Store in a secure app",
+          "Built on distributed ledger",
+          "Validate units for rewards",
+          "Digital money alternative"
+        ],
+        "medium": [
+          "Programmable agreement platform",
+          "Transaction fees apply here",
+          "Consensus mechanism secures it",
+          "Financial app built on chain",
+          "Token design is critical",
+          "Second layer scales throughput"
+        ],
+        "hard": [
+          "MEV extraction by validators",
+          "Zero-knowledge proof verification",
+          "Byzantine fault tolerance model",
+          "Improvement proposal changes code",
+          "Rollup architecture scales execution",
+          "Slashing conditions punish bad acts"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Rose bush",
+          "Garden hose",
+          "Lawn mower"
+        ],
+        "medium": [
+          "Garden rake",
+          "Digging spade",
+          "Hand trowel"
+        ],
+        "hard": [
+          "Pruning shear",
+          "Water sprinkler",
+          "Garden fork"
+        ]
+      }
+    },
+    {
+      "word": "Exchange",
+      "sub": "Crypto",
+      "diff": "medium",
+      "desc": "A platform for buying, selling, and trading cryptocurrencies.",
+      "tags": [
+        "platform",
+        "trading",
+        "buying-selling"
+      ],
+      "hints": {
+        "easy": [
+          "Buy on a trading platform",
+          "Price swings can be wild",
+          "Store in a secure app",
+          "Built on distributed ledger",
+          "Validate units for rewards",
+          "Digital money alternative"
+        ],
+        "medium": [
+          "Programmable agreement platform",
+          "Transaction fees apply here",
+          "Consensus mechanism secures it",
+          "Financial app built on chain",
+          "Token design is critical",
+          "Second layer scales throughput"
+        ],
+        "hard": [
+          "MEV extraction by validators",
+          "Zero-knowledge proof verification",
+          "Byzantine fault tolerance model",
+          "Improvement proposal changes code",
+          "Rollup architecture scales execution",
+          "Slashing conditions punish bad acts"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Rose bush",
+          "Garden hose",
+          "Lawn mower"
+        ],
+        "medium": [
+          "Garden rake",
+          "Digging spade",
+          "Hand trowel"
+        ],
+        "hard": [
+          "Pruning shear",
+          "Water sprinkler",
+          "Garden fork"
+        ]
+      }
+    },
+    {
+      "word": "NFT",
+      "sub": "Crypto",
+      "diff": "medium",
+      "desc": "Non-fungible token representing unique ownership of a digital asset.",
+      "tags": [
+        "non-fungible",
+        "unique",
+        "ownership"
+      ],
+      "hints": {
+        "easy": [
+          "Buy on a trading platform",
+          "Price swings can be wild",
+          "Store in a secure app",
+          "Built on distributed ledger",
+          "Validate units for rewards",
+          "Digital money alternative"
+        ],
+        "medium": [
+          "Programmable agreement platform",
+          "Transaction fees apply here",
+          "Consensus mechanism secures it",
+          "Financial app built on chain",
+          "Token design is critical",
+          "Second layer scales throughput"
+        ],
+        "hard": [
+          "MEV extraction by validators",
+          "Zero-knowledge proof verification",
+          "Byzantine fault tolerance model",
+          "Improvement proposal changes code",
+          "Rollup architecture scales execution",
+          "Slashing conditions punish bad acts"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Rose bush",
+          "Garden hose",
+          "Lawn mower"
+        ],
+        "medium": [
+          "Garden rake",
+          "Digging spade",
+          "Hand trowel"
+        ],
+        "hard": [
+          "Pruning shear",
+          "Water sprinkler",
+          "Garden fork"
+        ]
+      }
+    },
+    {
+      "word": "Mining",
+      "sub": "Crypto",
+      "diff": "hard",
+      "desc": "Validating transactions and adding blocks to a proof-of-work blockchain.",
+      "tags": [
+        "validating",
+        "proof-of-work",
+        "blocks"
+      ],
+      "hints": {
+        "easy": [
+          "Buy on a trading platform",
+          "Price swings can be wild",
+          "Store in a secure app",
+          "Built on distributed ledger",
+          "Validate units for rewards",
+          "Digital money alternative"
+        ],
+        "medium": [
+          "Programmable agreement platform",
+          "Transaction fees apply here",
+          "Consensus mechanism secures it",
+          "Financial app built on chain",
+          "Token design is critical",
+          "Second layer scales throughput"
+        ],
+        "hard": [
+          "MEV extraction by validators",
+          "Zero-knowledge proof verification",
+          "Byzantine fault tolerance model",
+          "Improvement proposal changes code",
+          "Rollup architecture scales execution",
+          "Slashing conditions punish bad acts"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Rose bush",
+          "Garden hose",
+          "Lawn mower"
+        ],
+        "medium": [
+          "Garden rake",
+          "Digging spade",
+          "Hand trowel"
+        ],
+        "hard": [
+          "Pruning shear",
+          "Water sprinkler",
+          "Garden fork"
+        ]
+      }
+    },
+    {
+      "word": "Smart Contract",
+      "sub": "Crypto",
+      "diff": "hard",
+      "desc": "Self-executing code on a blockchain that runs when conditions are met.",
+      "tags": [
+        "self-executing",
+        "code",
+        "conditions"
+      ],
+      "hints": {
+        "easy": [
+          "Buy on a trading platform",
+          "Price swings can be wild",
+          "Store in a secure app",
+          "Built on distributed ledger",
+          "Validate units for rewards",
+          "Digital money alternative"
+        ],
+        "medium": [
+          "Programmable agreement platform",
+          "Transaction fees apply here",
+          "Consensus mechanism secures it",
+          "Financial app built on chain",
+          "Token design is critical",
+          "Second layer scales throughput"
+        ],
+        "hard": [
+          "MEV extraction by validators",
+          "Zero-knowledge proof verification",
+          "Byzantine fault tolerance model",
+          "Improvement proposal changes code",
+          "Rollup architecture scales execution",
+          "Slashing conditions punish bad acts"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Rose bush",
+          "Garden hose",
+          "Lawn mower"
+        ],
+        "medium": [
+          "Garden rake",
+          "Digging spade",
+          "Hand trowel"
+        ],
+        "hard": [
+          "Pruning shear",
+          "Water sprinkler",
+          "Garden fork"
+        ]
+      }
+    },
+    {
+      "word": "DeFi",
+      "sub": "Crypto",
+      "diff": "hard",
+      "desc": "Decentralized finance applications recreating traditional financial services on blockchain.",
+      "tags": [
+        "decentralized",
+        "finance",
+        "traditional"
+      ],
+      "hints": {
+        "easy": [
+          "Buy on a trading platform",
+          "Price swings can be wild",
+          "Store in a secure app",
+          "Built on distributed ledger",
+          "Validate units for rewards",
+          "Digital money alternative"
+        ],
+        "medium": [
+          "Programmable agreement platform",
+          "Transaction fees apply here",
+          "Consensus mechanism secures it",
+          "Financial app built on chain",
+          "Token design is critical",
+          "Second layer scales throughput"
+        ],
+        "hard": [
+          "MEV extraction by validators",
+          "Zero-knowledge proof verification",
+          "Byzantine fault tolerance model",
+          "Improvement proposal changes code",
+          "Rollup architecture scales execution",
+          "Slashing conditions punish bad acts"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Rose bush",
+          "Garden hose",
+          "Lawn mower"
+        ],
+        "medium": [
+          "Garden rake",
+          "Digging spade",
+          "Hand trowel"
+        ],
+        "hard": [
+          "Pruning shear",
+          "Water sprinkler",
+          "Garden fork"
+        ]
+      }
+    },
+    {
+      "word": "Real Estate",
+      "sub": "Real Estate",
+      "diff": "easy",
+      "desc": "Property consisting of land and the buildings on it.",
+      "tags": [
+        "property",
+        "land",
+        "buildings"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a house involves this",
+          "Agent explains the concept",
+          "Part of closing process",
+          "Monthly payment includes it",
+          "Property comes with this",
+          "Standard transaction component"
+        ],
+        "medium": [
+          "Affects affordability calculation",
+          "Negotiate with the seller",
+          "Determines investment return",
+          "Inspect for any issues",
+          "Written in the agreement",
+          "Deduction may be available"
+        ],
+        "hard": [
+          "Compression trend in the market",
+          "Like-kind exchange rules apply",
+          "Recapture tax on depreciation",
+          "Cost segregation study benefit",
+          "Waterfall distribution model used",
+          "Promote structure aligns incentives"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Paper clip",
+          "Stapler tool",
+          "Desk lamp"
+        ],
+        "medium": [
+          "File folder",
+          "Ring binder",
+          "Thumb tack"
+        ],
+        "hard": [
+          "Scotch tape",
+          "Glue stick",
+          "Office scissors"
+        ]
+      }
+    },
+    {
+      "word": "Down Payment",
+      "sub": "Real Estate",
+      "diff": "easy",
+      "desc": "The initial upfront cash payment made when purchasing a property.",
+      "tags": [
+        "upfront",
+        "cash",
+        "purchasing"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a house involves this",
+          "Agent explains the concept",
+          "Part of closing process",
+          "Monthly payment includes it",
+          "Property comes with this",
+          "Standard transaction component"
+        ],
+        "medium": [
+          "Affects affordability calculation",
+          "Negotiate with the seller",
+          "Determines investment return",
+          "Inspect for any issues",
+          "Written in the agreement",
+          "Deduction may be available"
+        ],
+        "hard": [
+          "Compression trend in the market",
+          "Like-kind exchange rules apply",
+          "Recapture tax on depreciation",
+          "Cost segregation study benefit",
+          "Waterfall distribution model used",
+          "Promote structure aligns incentives"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Paper clip",
+          "Stapler tool",
+          "Desk lamp"
+        ],
+        "medium": [
+          "File folder",
+          "Ring binder",
+          "Thumb tack"
+        ],
+        "hard": [
+          "Scotch tape",
+          "Glue stick",
+          "Office scissors"
+        ]
+      }
+    },
+    {
+      "word": "Lease",
+      "sub": "Real Estate",
+      "diff": "easy",
+      "desc": "A contract granting temporary use of property in exchange for rent.",
+      "tags": [
+        "contract",
+        "temporary",
+        "rent"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a house involves this",
+          "Agent explains the concept",
+          "Part of closing process",
+          "Monthly payment includes it",
+          "Property comes with this",
+          "Standard transaction component"
+        ],
+        "medium": [
+          "Affects affordability calculation",
+          "Negotiate with the seller",
+          "Determines investment return",
+          "Inspect for any issues",
+          "Written in the agreement",
+          "Deduction may be available"
+        ],
+        "hard": [
+          "Compression trend in the market",
+          "Like-kind exchange rules apply",
+          "Recapture tax on depreciation",
+          "Cost segregation study benefit",
+          "Waterfall distribution model used",
+          "Promote structure aligns incentives"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Paper clip",
+          "Stapler tool",
+          "Desk lamp"
+        ],
+        "medium": [
+          "File folder",
+          "Ring binder",
+          "Thumb tack"
+        ],
+        "hard": [
+          "Scotch tape",
+          "Glue stick",
+          "Office scissors"
+        ]
+      }
+    },
+    {
+      "word": "Appraisal",
+      "sub": "Real Estate",
+      "diff": "easy",
+      "desc": "A professional estimate of a property's fair market value.",
+      "tags": [
+        "estimate",
+        "fair-value",
+        "professional"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a house involves this",
+          "Agent explains the concept",
+          "Part of closing process",
+          "Monthly payment includes it",
+          "Property comes with this",
+          "Standard transaction component"
+        ],
+        "medium": [
+          "Affects affordability calculation",
+          "Negotiate with the seller",
+          "Determines investment return",
+          "Inspect for any issues",
+          "Written in the agreement",
+          "Deduction may be available"
+        ],
+        "hard": [
+          "Compression trend in the market",
+          "Like-kind exchange rules apply",
+          "Recapture tax on depreciation",
+          "Cost segregation study benefit",
+          "Waterfall distribution model used",
+          "Promote structure aligns incentives"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Paper clip",
+          "Stapler tool",
+          "Desk lamp"
+        ],
+        "medium": [
+          "File folder",
+          "Ring binder",
+          "Thumb tack"
+        ],
+        "hard": [
+          "Scotch tape",
+          "Glue stick",
+          "Office scissors"
+        ]
+      }
+    },
+    {
+      "word": "Closing Costs",
+      "sub": "Real Estate",
+      "diff": "medium",
+      "desc": "Fees and expenses paid at the finalization of a real estate transaction.",
+      "tags": [
+        "fees",
+        "finalization",
+        "transaction"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a house involves this",
+          "Agent explains the concept",
+          "Part of closing process",
+          "Monthly payment includes it",
+          "Property comes with this",
+          "Standard transaction component"
+        ],
+        "medium": [
+          "Affects affordability calculation",
+          "Negotiate with the seller",
+          "Determines investment return",
+          "Inspect for any issues",
+          "Written in the agreement",
+          "Deduction may be available"
+        ],
+        "hard": [
+          "Compression trend in the market",
+          "Like-kind exchange rules apply",
+          "Recapture tax on depreciation",
+          "Cost segregation study benefit",
+          "Waterfall distribution model used",
+          "Promote structure aligns incentives"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Paper clip",
+          "Stapler tool",
+          "Desk lamp"
+        ],
+        "medium": [
+          "File folder",
+          "Ring binder",
+          "Thumb tack"
+        ],
+        "hard": [
+          "Scotch tape",
+          "Glue stick",
+          "Office scissors"
+        ]
+      }
+    },
+    {
+      "word": "Property Tax",
+      "sub": "Real Estate",
+      "diff": "medium",
+      "desc": "An annual tax on real estate assessed by local government.",
+      "tags": [
+        "annual",
+        "assessed",
+        "local-government"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a house involves this",
+          "Agent explains the concept",
+          "Part of closing process",
+          "Monthly payment includes it",
+          "Property comes with this",
+          "Standard transaction component"
+        ],
+        "medium": [
+          "Affects affordability calculation",
+          "Negotiate with the seller",
+          "Determines investment return",
+          "Inspect for any issues",
+          "Written in the agreement",
+          "Deduction may be available"
+        ],
+        "hard": [
+          "Compression trend in the market",
+          "Like-kind exchange rules apply",
+          "Recapture tax on depreciation",
+          "Cost segregation study benefit",
+          "Waterfall distribution model used",
+          "Promote structure aligns incentives"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Paper clip",
+          "Stapler tool",
+          "Desk lamp"
+        ],
+        "medium": [
+          "File folder",
+          "Ring binder",
+          "Thumb tack"
+        ],
+        "hard": [
+          "Scotch tape",
+          "Glue stick",
+          "Office scissors"
+        ]
+      }
+    },
+    {
+      "word": "Escrow",
+      "sub": "Real Estate",
+      "diff": "medium",
+      "desc": "A neutral third party holding funds and documents until conditions are met.",
+      "tags": [
+        "neutral",
+        "holding",
+        "conditions"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a house involves this",
+          "Agent explains the concept",
+          "Part of closing process",
+          "Monthly payment includes it",
+          "Property comes with this",
+          "Standard transaction component"
+        ],
+        "medium": [
+          "Affects affordability calculation",
+          "Negotiate with the seller",
+          "Determines investment return",
+          "Inspect for any issues",
+          "Written in the agreement",
+          "Deduction may be available"
+        ],
+        "hard": [
+          "Compression trend in the market",
+          "Like-kind exchange rules apply",
+          "Recapture tax on depreciation",
+          "Cost segregation study benefit",
+          "Waterfall distribution model used",
+          "Promote structure aligns incentives"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Paper clip",
+          "Stapler tool",
+          "Desk lamp"
+        ],
+        "medium": [
+          "File folder",
+          "Ring binder",
+          "Thumb tack"
+        ],
+        "hard": [
+          "Scotch tape",
+          "Glue stick",
+          "Office scissors"
+        ]
+      }
+    },
+    {
+      "word": "Zoning",
+      "sub": "Real Estate",
+      "diff": "medium",
+      "desc": "Government regulations controlling land use and building types in specific areas.",
+      "tags": [
+        "regulations",
+        "land-use",
+        "building-types"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a house involves this",
+          "Agent explains the concept",
+          "Part of closing process",
+          "Monthly payment includes it",
+          "Property comes with this",
+          "Standard transaction component"
+        ],
+        "medium": [
+          "Affects affordability calculation",
+          "Negotiate with the seller",
+          "Determines investment return",
+          "Inspect for any issues",
+          "Written in the agreement",
+          "Deduction may be available"
+        ],
+        "hard": [
+          "Compression trend in the market",
+          "Like-kind exchange rules apply",
+          "Recapture tax on depreciation",
+          "Cost segregation study benefit",
+          "Waterfall distribution model used",
+          "Promote structure aligns incentives"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Paper clip",
+          "Stapler tool",
+          "Desk lamp"
+        ],
+        "medium": [
+          "File folder",
+          "Ring binder",
+          "Thumb tack"
+        ],
+        "hard": [
+          "Scotch tape",
+          "Glue stick",
+          "Office scissors"
+        ]
+      }
+    },
+    {
+      "word": "Cap Rate",
+      "sub": "Real Estate",
+      "diff": "hard",
+      "desc": "Capitalization rate measuring expected return on an investment property.",
+      "tags": [
+        "capitalization",
+        "return",
+        "investment"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a house involves this",
+          "Agent explains the concept",
+          "Part of closing process",
+          "Monthly payment includes it",
+          "Property comes with this",
+          "Standard transaction component"
+        ],
+        "medium": [
+          "Affects affordability calculation",
+          "Negotiate with the seller",
+          "Determines investment return",
+          "Inspect for any issues",
+          "Written in the agreement",
+          "Deduction may be available"
+        ],
+        "hard": [
+          "Compression trend in the market",
+          "Like-kind exchange rules apply",
+          "Recapture tax on depreciation",
+          "Cost segregation study benefit",
+          "Waterfall distribution model used",
+          "Promote structure aligns incentives"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Paper clip",
+          "Stapler tool",
+          "Desk lamp"
+        ],
+        "medium": [
+          "File folder",
+          "Ring binder",
+          "Thumb tack"
+        ],
+        "hard": [
+          "Scotch tape",
+          "Glue stick",
+          "Office scissors"
+        ]
+      }
+    },
+    {
+      "word": "Foreclosure",
+      "sub": "Real Estate",
+      "diff": "hard",
+      "desc": "Legal process where a lender seizes property after borrower defaults.",
+      "tags": [
+        "legal-process",
+        "lender",
+        "defaults"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a house involves this",
+          "Agent explains the concept",
+          "Part of closing process",
+          "Monthly payment includes it",
+          "Property comes with this",
+          "Standard transaction component"
+        ],
+        "medium": [
+          "Affects affordability calculation",
+          "Negotiate with the seller",
+          "Determines investment return",
+          "Inspect for any issues",
+          "Written in the agreement",
+          "Deduction may be available"
+        ],
+        "hard": [
+          "Compression trend in the market",
+          "Like-kind exchange rules apply",
+          "Recapture tax on depreciation",
+          "Cost segregation study benefit",
+          "Waterfall distribution model used",
+          "Promote structure aligns incentives"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Paper clip",
+          "Stapler tool",
+          "Desk lamp"
+        ],
+        "medium": [
+          "File folder",
+          "Ring binder",
+          "Thumb tack"
+        ],
+        "hard": [
+          "Scotch tape",
+          "Glue stick",
+          "Office scissors"
+        ]
+      }
+    },
+    {
+      "word": "Home Equity",
+      "sub": "Real Estate",
+      "diff": "hard",
+      "desc": "The difference between property value and outstanding mortgage balance.",
+      "tags": [
+        "difference",
+        "value",
+        "mortgage"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a house involves this",
+          "Agent explains the concept",
+          "Part of closing process",
+          "Monthly payment includes it",
+          "Property comes with this",
+          "Standard transaction component"
+        ],
+        "medium": [
+          "Affects affordability calculation",
+          "Negotiate with the seller",
+          "Determines investment return",
+          "Inspect for any issues",
+          "Written in the agreement",
+          "Deduction may be available"
+        ],
+        "hard": [
+          "Compression trend in the market",
+          "Like-kind exchange rules apply",
+          "Recapture tax on depreciation",
+          "Cost segregation study benefit",
+          "Waterfall distribution model used",
+          "Promote structure aligns incentives"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Paper clip",
+          "Stapler tool",
+          "Desk lamp"
+        ],
+        "medium": [
+          "File folder",
+          "Ring binder",
+          "Thumb tack"
+        ],
+        "hard": [
+          "Scotch tape",
+          "Glue stick",
+          "Office scissors"
+        ]
+      }
+    },
+    {
+      "word": "Home Loan",
+      "sub": "Real Estate",
+      "diff": "hard",
+      "desc": "A loan secured by real property used to purchase a residence.",
+      "tags": [
+        "loan",
+        "secured",
+        "property"
+      ],
+      "hints": {
+        "easy": [
+          "Buy a house involves this",
+          "Agent explains the concept",
+          "Part of closing process",
+          "Monthly payment includes it",
+          "Property comes with this",
+          "Standard transaction component"
+        ],
+        "medium": [
+          "Affects affordability calculation",
+          "Negotiate with the seller",
+          "Determines investment return",
+          "Inspect for any issues",
+          "Written in the agreement",
+          "Deduction may be available"
+        ],
+        "hard": [
+          "Compression trend in the market",
+          "Like-kind exchange rules apply",
+          "Recapture tax on depreciation",
+          "Cost segregation study benefit",
+          "Waterfall distribution model used",
+          "Promote structure aligns incentives"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Paper clip",
+          "Stapler tool",
+          "Desk lamp"
+        ],
+        "medium": [
+          "File folder",
+          "Ring binder",
+          "Thumb tack"
+        ],
+        "hard": [
+          "Scotch tape",
+          "Glue stick",
+          "Office scissors"
+        ]
+      }
+    }
+  ]
+}

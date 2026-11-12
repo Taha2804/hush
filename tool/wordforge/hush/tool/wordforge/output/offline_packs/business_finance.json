@@ -1,0 +1,4576 @@
+{
+  "id": "business_finance",
+  "name": "Business & Finance",
+  "version": 2,
+  "schema_version": 3,
+  "is_adult": false,
+  "content_version": "1.0.0",
+  "generated_at": "2026-11-12T11:57:29.438830Z",
+  "words": [
+    {
+      "word": "CEO",
+      "sub": "Corporate Structure",
+      "diff": "easy",
+      "desc": "Chief Executive Officer; the highest-ranking executive in a company.",
+      "tags": [
+        "corporate",
+        "executive",
+        "leadership",
+        "c-suite"
+      ],
+      "hints": {
+        "easy": [
+          "Top executive role in a company",
+          "Reports to the board of directors",
+          "Makes major corporate decisions",
+          "Highest ranking officer",
+          "Sets company vision and strategy",
+          "Public face of the organization"
+        ],
+        "medium": [
+          "Accountable to shareholders",
+          "Oversees all departments",
+          "Compensation tied to performance",
+          "Succession planning is critical",
+          "Works with C-suite peers",
+          "Annual report signatory"
+        ],
+        "hard": [
+          "Fiduciary duty to stakeholders",
+          "Principal-agent problem manifestation",
+          "Agency costs affect decisions",
+          "Corporate governance framework",
+          "Say-on-pay votes influence pay",
+          "Business judgment rule protection"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Shareholder",
+          "VP",
+          "Manager"
+        ],
+        "medium": [
+          "CTO",
+          "Board",
+          "COO"
+        ],
+        "hard": [
+          "President",
+          "Director",
+          "Chairman"
+        ]
+      }
+    },
+    {
+      "word": "CFO",
+      "sub": "Corporate Structure",
+      "diff": "medium",
+      "desc": "Chief Financial Officer; executive responsible for financial planning and risk management.",
+      "tags": [
+        "corporate",
+        "executive",
+        "finance",
+        "c-suite"
+      ],
+      "hints": {
+        "easy": [
+          "Top executive role in a company",
+          "Reports to the board of directors",
+          "Makes major corporate decisions",
+          "Highest ranking officer",
+          "Sets company vision and strategy",
+          "Public face of the organization"
+        ],
+        "medium": [
+          "Accountable to shareholders",
+          "Oversees all departments",
+          "Compensation tied to performance",
+          "Succession planning is critical",
+          "Works with C-suite peers",
+          "Annual report signatory"
+        ],
+        "hard": [
+          "Fiduciary duty to stakeholders",
+          "Principal-agent problem manifestation",
+          "Agency costs affect decisions",
+          "Corporate governance framework",
+          "Say-on-pay votes influence pay",
+          "Business judgment rule protection"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "CEO",
+          "CTO",
+          "COO"
+        ],
+        "medium": [
+          "VP",
+          "Director",
+          "Shareholder"
+        ],
+        "hard": [
+          "Manager",
+          "Stakeholder",
+          "President"
+        ]
+      }
+    },
+    {
+      "word": "CTO",
+      "sub": "Corporate Structure",
+      "diff": "medium",
+      "desc": "Chief Technology Officer; executive overseeing technology strategy and development.",
+      "tags": [
+        "corporate",
+        "executive",
+        "technology",
+        "c-suite"
+      ],
+      "hints": {
+        "easy": [
+          "Top executive role in a company",
+          "Reports to the board of directors",
+          "Makes major corporate decisions",
+          "Highest ranking officer",
+          "Sets company vision and strategy",
+          "Public face of the organization"
+        ],
+        "medium": [
+          "Accountable to shareholders",
+          "Oversees all departments",
+          "Compensation tied to performance",
+          "Succession planning is critical",
+          "Works with C-suite peers",
+          "Annual report signatory"
+        ],
+        "hard": [
+          "Fiduciary duty to stakeholders",
+          "Principal-agent problem manifestation",
+          "Agency costs affect decisions",
+          "Corporate governance framework",
+          "Say-on-pay votes influence pay",
+          "Business judgment rule protection"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "CEO",
+          "Manager",
+          "Chairman"
+        ],
+        "medium": [
+          "VP",
+          "President",
+          "Board"
+        ],
+        "hard": [
+          "CFO",
+          "Director",
+          "Shareholder"
+        ]
+      }
+    },
+    {
+      "word": "COO",
+      "sub": "Corporate Structure",
+      "diff": "medium",
+      "desc": "Chief Operating Officer; executive managing daily operations of a company.",
+      "tags": [
+        "corporate",
+        "executive",
+        "operations",
+        "c-suite"
+      ],
+      "hints": {
+        "easy": [
+          "Top executive role in a company",
+          "Reports to the board of directors",
+          "Makes major corporate decisions",
+          "Highest ranking officer",
+          "Sets company vision and strategy",
+          "Public face of the organization"
+        ],
+        "medium": [
+          "Accountable to shareholders",
+          "Oversees all departments",
+          "Compensation tied to performance",
+          "Succession planning is critical",
+          "Works with C-suite peers",
+          "Annual report signatory"
+        ],
+        "hard": [
+          "Fiduciary duty to stakeholders",
+          "Principal-agent problem manifestation",
+          "Agency costs affect decisions",
+          "Corporate governance framework",
+          "Say-on-pay votes influence pay",
+          "Business judgment rule protection"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Board",
+          "Stakeholder",
+          "VP"
+        ],
+        "medium": [
+          "Chairman",
+          "CFO",
+          "CTO"
+        ],
+        "hard": [
+          "Manager",
+          "President",
+          "Shareholder"
+        ]
+      }
+    },
+    {
+      "word": "Board of Directors",
+      "sub": "Corporate Structure",
+      "diff": "medium",
+      "desc": "A group elected by shareholders to oversee company management and strategy.",
+      "tags": [
+        "corporate",
+        "governance",
+        "shareholders",
+        "oversight"
+      ],
+      "hints": {
+        "easy": [
+          "Top executive role in a company",
+          "Reports to the board of directors",
+          "Makes major corporate decisions",
+          "Highest ranking officer",
+          "Sets company vision and strategy",
+          "Public face of the organization"
+        ],
+        "medium": [
+          "Accountable to shareholders",
+          "Oversees all departments",
+          "Compensation tied to performance",
+          "Succession planning is critical",
+          "Works with C-suite peers",
+          "Annual report signatory"
+        ],
+        "hard": [
+          "Fiduciary duty to stakeholders",
+          "Principal-agent problem manifestation",
+          "Agency costs affect decisions",
+          "Corporate governance framework",
+          "Say-on-pay votes influence pay",
+          "Business judgment rule protection"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Chairman",
+          "COO",
+          "CEO"
+        ],
+        "medium": [
+          "President",
+          "Stakeholder",
+          "VP"
+        ],
+        "hard": [
+          "Shareholder",
+          "Board",
+          "CFO"
+        ]
+      }
+    },
+    {
+      "word": "Shareholder",
+      "sub": "Corporate Structure",
+      "diff": "easy",
+      "desc": "An individual or entity that owns shares of stock in a corporation.",
+      "tags": [
+        "corporate",
+        "ownership",
+        "stock",
+        "investment"
+      ],
+      "hints": {
+        "easy": [
+          "Top executive role in a company",
+          "Reports to the board of directors",
+          "Makes major corporate decisions",
+          "Highest ranking officer",
+          "Sets company vision and strategy",
+          "Public face of the organization"
+        ],
+        "medium": [
+          "Accountable to shareholders",
+          "Oversees all departments",
+          "Compensation tied to performance",
+          "Succession planning is critical",
+          "Works with C-suite peers",
+          "Annual report signatory"
+        ],
+        "hard": [
+          "Fiduciary duty to stakeholders",
+          "Principal-agent problem manifestation",
+          "Agency costs affect decisions",
+          "Corporate governance framework",
+          "Say-on-pay votes influence pay",
+          "Business judgment rule protection"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "President",
+          "Manager",
+          "Board"
+        ],
+        "medium": [
+          "Director",
+          "VP",
+          "COO"
+        ],
+        "hard": [
+          "Chairman",
+          "CTO",
+          "CFO"
+        ]
+      }
+    },
+    {
+      "word": "Stakeholder",
+      "sub": "Corporate Structure",
+      "diff": "medium",
+      "desc": "Any party with an interest in a company's performance including employees and customers.",
+      "tags": [
+        "corporate",
+        "interest",
+        "employees",
+        "customers"
+      ],
+      "hints": {
+        "easy": [
+          "Top executive role in a company",
+          "Reports to the board of directors",
+          "Makes major corporate decisions",
+          "Highest ranking officer",
+          "Sets company vision and strategy",
+          "Public face of the organization"
+        ],
+        "medium": [
+          "Accountable to shareholders",
+          "Oversees all departments",
+          "Compensation tied to performance",
+          "Succession planning is critical",
+          "Works with C-suite peers",
+          "Annual report signatory"
+        ],
+        "hard": [
+          "Fiduciary duty to stakeholders",
+          "Principal-agent problem manifestation",
+          "Agency costs affect decisions",
+          "Corporate governance framework",
+          "Say-on-pay votes influence pay",
+          "Business judgment rule protection"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Chairman",
+          "Director",
+          "CEO"
+        ],
+        "medium": [
+          "Board",
+          "CTO",
+          "President"
+        ],
+        "hard": [
+          "Manager",
+          "CFO",
+          "COO"
+        ]
+      }
+    },
+    {
+      "word": "Subsidiary",
+      "sub": "Corporate Structure",
+      "diff": "medium",
+      "desc": "A company controlled by another company known as the parent company.",
+      "tags": [
+        "corporate",
+        "parent-company",
+        "control",
+        "ownership"
+      ],
+      "hints": {
+        "easy": [
+          "Top executive role in a company",
+          "Reports to the board of directors",
+          "Makes major corporate decisions",
+          "Highest ranking officer",
+          "Sets company vision and strategy",
+          "Public face of the organization"
+        ],
+        "medium": [
+          "Accountable to shareholders",
+          "Oversees all departments",
+          "Compensation tied to performance",
+          "Succession planning is critical",
+          "Works with C-suite peers",
+          "Annual report signatory"
+        ],
+        "hard": [
+          "Fiduciary duty to stakeholders",
+          "Principal-agent problem manifestation",
+          "Agency costs affect decisions",
+          "Corporate governance framework",
+          "Say-on-pay votes influence pay",
+          "Business judgment rule protection"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Board",
+          "Director",
+          "COO"
+        ],
+        "medium": [
+          "Shareholder",
+          "CTO",
+          "CEO"
+        ],
+        "hard": [
+          "CFO",
+          "Stakeholder",
+          "Chairman"
+        ]
+      }
+    },
+    {
+      "word": "Merger",
+      "sub": "Corporate Structure",
+      "diff": "medium",
+      "desc": "The combination of two companies into a single new entity.",
+      "tags": [
+        "corporate",
+        "combination",
+        "acquisition",
+        "strategy"
+      ],
+      "hints": {
+        "easy": [
+          "Top executive role in a company",
+          "Reports to the board of directors",
+          "Makes major corporate decisions",
+          "Highest ranking officer",
+          "Sets company vision and strategy",
+          "Public face of the organization"
+        ],
+        "medium": [
+          "Accountable to shareholders",
+          "Oversees all departments",
+          "Compensation tied to performance",
+          "Succession planning is critical",
+          "Works with C-suite peers",
+          "Annual report signatory"
+        ],
+        "hard": [
+          "Fiduciary duty to stakeholders",
+          "Principal-agent problem manifestation",
+          "Agency costs affect decisions",
+          "Corporate governance framework",
+          "Say-on-pay votes influence pay",
+          "Business judgment rule protection"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "VP",
+          "CFO",
+          "Manager"
+        ],
+        "medium": [
+          "Shareholder",
+          "Director",
+          "Board"
+        ],
+        "hard": [
+          "Stakeholder",
+          "Chairman",
+          "CEO"
+        ]
+      }
+    },
+    {
+      "word": "Acquisition",
+      "sub": "Corporate Structure",
+      "diff": "medium",
+      "desc": "One company purchasing most or all of another company's shares to gain control.",
+      "tags": [
+        "corporate",
+        "purchase",
+        "control",
+        "takeover"
+      ],
+      "hints": {
+        "easy": [
+          "Top executive role in a company",
+          "Reports to the board of directors",
+          "Makes major corporate decisions",
+          "Highest ranking officer",
+          "Sets company vision and strategy",
+          "Public face of the organization"
+        ],
+        "medium": [
+          "Accountable to shareholders",
+          "Oversees all departments",
+          "Compensation tied to performance",
+          "Succession planning is critical",
+          "Works with C-suite peers",
+          "Annual report signatory"
+        ],
+        "hard": [
+          "Fiduciary duty to stakeholders",
+          "Principal-agent problem manifestation",
+          "Agency costs affect decisions",
+          "Corporate governance framework",
+          "Say-on-pay votes influence pay",
+          "Business judgment rule protection"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Stakeholder",
+          "COO",
+          "CFO"
+        ],
+        "medium": [
+          "Board",
+          "CEO",
+          "Chairman"
+        ],
+        "hard": [
+          "President",
+          "Director",
+          "Manager"
+        ]
+      }
+    },
+    {
+      "word": "Revenue",
+      "sub": "Finance",
+      "diff": "easy",
+      "desc": "Total income generated from sales of goods or services before expenses.",
+      "tags": [
+        "finance",
+        "income",
+        "sales",
+        "top-line"
+      ],
+      "hints": {
+        "easy": [
+          "Money coming into the business",
+          "Top line on financial statement",
+          "Sales times price per unit",
+          "Before any costs deducted",
+          "Growth metric investors watch",
+          "Recognized when earned"
+        ],
+        "medium": [
+          "Accrual vs cash recognition differs",
+          "Deferred revenue is a liability",
+          "Revenue recognition standards apply",
+          "Recurring vs one-time revenue",
+          "Concentration risk if few customers",
+          "Net of returns and allowances"
+        ],
+        "hard": [
+          "ASC 606 five-step model governs",
+          "Contract modifications reprice",
+          "Variable consideration constrained",
+          "Principal vs agent determination",
+          "Bill-and-hold arrangements",
+          "Consignment revenue timing"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Profit",
+          "ROI",
+          "Margin"
+        ],
+        "medium": [
+          "Variance",
+          "EBITDA",
+          "Cash Flow"
+        ],
+        "hard": [
+          "Forecast",
+          "Expense",
+          "Income"
+        ]
+      }
+    },
+    {
+      "word": "Profit",
+      "sub": "Finance",
+      "diff": "easy",
+      "desc": "Financial gain when revenue exceeds expenses and costs.",
+      "tags": [
+        "finance",
+        "gain",
+        "earnings",
+        "bottom-line"
+      ],
+      "hints": {
+        "easy": [
+          "Money coming into the business",
+          "Top line on financial statement",
+          "Sales times price per unit",
+          "Before any costs deducted",
+          "Growth metric investors watch",
+          "Recognized when earned"
+        ],
+        "medium": [
+          "Accrual vs cash recognition differs",
+          "Deferred revenue is a liability",
+          "Revenue recognition standards apply",
+          "Recurring vs one-time revenue",
+          "Concentration risk if few customers",
+          "Net of returns and allowances"
+        ],
+        "hard": [
+          "ASC 606 five-step model governs",
+          "Contract modifications reprice",
+          "Variable consideration constrained",
+          "Principal vs agent determination",
+          "Bill-and-hold arrangements",
+          "Consignment revenue timing"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Variance",
+          "Expense",
+          "Margin"
+        ],
+        "medium": [
+          "Cost",
+          "Cash Flow",
+          "ROI"
+        ],
+        "hard": [
+          "Budget",
+          "Forecast",
+          "EBITDA"
+        ]
+      }
+    },
+    {
+      "word": "Loss",
+      "sub": "Finance",
+      "diff": "easy",
+      "desc": "Financial deficit when expenses exceed revenue.",
+      "tags": [
+        "finance",
+        "deficit",
+        "expenses",
+        "negative"
+      ],
+      "hints": {
+        "easy": [
+          "Money coming into the business",
+          "Top line on financial statement",
+          "Sales times price per unit",
+          "Before any costs deducted",
+          "Growth metric investors watch",
+          "Recognized when earned"
+        ],
+        "medium": [
+          "Accrual vs cash recognition differs",
+          "Deferred revenue is a liability",
+          "Revenue recognition standards apply",
+          "Recurring vs one-time revenue",
+          "Concentration risk if few customers",
+          "Net of returns and allowances"
+        ],
+        "hard": [
+          "ASC 606 five-step model governs",
+          "Contract modifications reprice",
+          "Variable consideration constrained",
+          "Principal vs agent determination",
+          "Bill-and-hold arrangements",
+          "Consignment revenue timing"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Margin",
+          "Variance",
+          "Revenue"
+        ],
+        "medium": [
+          "Cost",
+          "Income",
+          "Budget"
+        ],
+        "hard": [
+          "Profit",
+          "Cash Flow",
+          "Expense"
+        ]
+      }
+    },
+    {
+      "word": "EBITDA",
+      "sub": "Finance",
+      "diff": "hard",
+      "desc": "Earnings before interest taxes depreciation and amortization; a measure of operating performance.",
+      "tags": [
+        "finance",
+        "earnings",
+        "operating",
+        "metric"
+      ],
+      "hints": {
+        "easy": [
+          "Money coming into the business",
+          "Top line on financial statement",
+          "Sales times price per unit",
+          "Before any costs deducted",
+          "Growth metric investors watch",
+          "Recognized when earned"
+        ],
+        "medium": [
+          "Accrual vs cash recognition differs",
+          "Deferred revenue is a liability",
+          "Revenue recognition standards apply",
+          "Recurring vs one-time revenue",
+          "Concentration risk if few customers",
+          "Net of returns and allowances"
+        ],
+        "hard": [
+          "ASC 606 five-step model governs",
+          "Contract modifications reprice",
+          "Variable consideration constrained",
+          "Principal vs agent determination",
+          "Bill-and-hold arrangements",
+          "Consignment revenue timing"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Variance",
+          "ROI",
+          "Forecast"
+        ],
+        "medium": [
+          "Expense",
+          "Cost",
+          "Budget"
+        ],
+        "hard": [
+          "Revenue",
+          "Profit",
+          "Margin"
+        ]
+      }
+    },
+    {
+      "word": "ROI",
+      "sub": "Finance",
+      "diff": "medium",
+      "desc": "Return on Investment; a ratio measuring profitability relative to investment cost.",
+      "tags": [
+        "finance",
+        "return",
+        "investment",
+        "ratio"
+      ],
+      "hints": {
+        "easy": [
+          "Money coming into the business",
+          "Top line on financial statement",
+          "Sales times price per unit",
+          "Before any costs deducted",
+          "Growth metric investors watch",
+          "Recognized when earned"
+        ],
+        "medium": [
+          "Accrual vs cash recognition differs",
+          "Deferred revenue is a liability",
+          "Revenue recognition standards apply",
+          "Recurring vs one-time revenue",
+          "Concentration risk if few customers",
+          "Net of returns and allowances"
+        ],
+        "hard": [
+          "ASC 606 five-step model governs",
+          "Contract modifications reprice",
+          "Variable consideration constrained",
+          "Principal vs agent determination",
+          "Bill-and-hold arrangements",
+          "Consignment revenue timing"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Expense",
+          "Profit",
+          "EBITDA"
+        ],
+        "medium": [
+          "Margin",
+          "Budget",
+          "Variance"
+        ],
+        "hard": [
+          "Revenue",
+          "Forecast",
+          "Cash Flow"
+        ]
+      }
+    },
+    {
+      "word": "Cash Flow",
+      "sub": "Finance",
+      "diff": "medium",
+      "desc": "The net amount of cash moving in and out of a business.",
+      "tags": [
+        "finance",
+        "cash",
+        "liquidity",
+        "movement"
+      ],
+      "hints": {
+        "easy": [
+          "Money coming into the business",
+          "Top line on financial statement",
+          "Sales times price per unit",
+          "Before any costs deducted",
+          "Growth metric investors watch",
+          "Recognized when earned"
+        ],
+        "medium": [
+          "Accrual vs cash recognition differs",
+          "Deferred revenue is a liability",
+          "Revenue recognition standards apply",
+          "Recurring vs one-time revenue",
+          "Concentration risk if few customers",
+          "Net of returns and allowances"
+        ],
+        "hard": [
+          "ASC 606 five-step model governs",
+          "Contract modifications reprice",
+          "Variable consideration constrained",
+          "Principal vs agent determination",
+          "Bill-and-hold arrangements",
+          "Consignment revenue timing"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Revenue",
+          "Forecast",
+          "Variance"
+        ],
+        "medium": [
+          "EBITDA",
+          "Income",
+          "Profit"
+        ],
+        "hard": [
+          "Budget",
+          "Expense",
+          "Margin"
+        ]
+      }
+    },
+    {
+      "word": "Balance Sheet",
+      "sub": "Accounting",
+      "diff": "medium",
+      "desc": "A financial statement showing assets, liabilities, and equity at a specific point in time.",
+      "tags": [
+        "accounting",
+        "assets",
+        "liabilities",
+        "equity"
+      ],
+      "hints": {
+        "easy": [
+          "Shows what company owns and owes",
+          "Assets equal liabilities plus equity",
+          "Snapshot at a point in time",
+          "Current and non-current sections",
+          "Must always balance",
+          "Prepared quarterly and annually"
+        ],
+        "medium": [
+          "GAAP or IFRS standards apply",
+          "Goodwill tested for impairment",
+          "Inventory valued at lower cost or market",
+          "Receivables net of allowance",
+          "Depreciation methods affect values",
+          "Off-balance-sheet items disclosed"
+        ],
+        "hard": [
+          "Fair value hierarchy levels",
+          "Variable interest entities consolidate",
+          "Lease capitalization under ASC 842",
+          "Deferred tax assets need valuation allowance",
+          "Pension obligations discounted",
+          "Contingent liabilities probability assessed"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Liability",
+          "Ledger",
+          "Cash Flow"
+        ],
+        "medium": [
+          "Journal",
+          "Equity",
+          "Income Statement"
+        ],
+        "hard": [
+          "Amortization",
+          "Asset",
+          "Expense"
+        ]
+      }
+    },
+    {
+      "word": "Income Statement",
+      "sub": "Accounting",
+      "diff": "medium",
+      "desc": "A financial report showing revenue, expenses, and profit over a period.",
+      "tags": [
+        "accounting",
+        "revenue",
+        "expenses",
+        "profit"
+      ],
+      "hints": {
+        "easy": [
+          "Shows what company owns and owes",
+          "Assets equal liabilities plus equity",
+          "Snapshot at a point in time",
+          "Current and non-current sections",
+          "Must always balance",
+          "Prepared quarterly and annually"
+        ],
+        "medium": [
+          "GAAP or IFRS standards apply",
+          "Goodwill tested for impairment",
+          "Inventory valued at lower cost or market",
+          "Receivables net of allowance",
+          "Depreciation methods affect values",
+          "Off-balance-sheet items disclosed"
+        ],
+        "hard": [
+          "Fair value hierarchy levels",
+          "Variable interest entities consolidate",
+          "Lease capitalization under ASC 842",
+          "Deferred tax assets need valuation allowance",
+          "Pension obligations discounted",
+          "Contingent liabilities probability assessed"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Asset",
+          "Revenue",
+          "Depreciation"
+        ],
+        "medium": [
+          "Amortization",
+          "Equity",
+          "Expense"
+        ],
+        "hard": [
+          "Balance Sheet",
+          "Ledger",
+          "Journal"
+        ]
+      }
+    },
+    {
+      "word": "Asset",
+      "sub": "Accounting",
+      "diff": "easy",
+      "desc": "A resource with economic value owned by a company or individual.",
+      "tags": [
+        "accounting",
+        "resource",
+        "value",
+        "ownership"
+      ],
+      "hints": {
+        "easy": [
+          "Shows what company owns and owes",
+          "Assets equal liabilities plus equity",
+          "Snapshot at a point in time",
+          "Current and non-current sections",
+          "Must always balance",
+          "Prepared quarterly and annually"
+        ],
+        "medium": [
+          "GAAP or IFRS standards apply",
+          "Goodwill tested for impairment",
+          "Inventory valued at lower cost or market",
+          "Receivables net of allowance",
+          "Depreciation methods affect values",
+          "Off-balance-sheet items disclosed"
+        ],
+        "hard": [
+          "Fair value hierarchy levels",
+          "Variable interest entities consolidate",
+          "Lease capitalization under ASC 842",
+          "Deferred tax assets need valuation allowance",
+          "Pension obligations discounted",
+          "Contingent liabilities probability assessed"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Cash Flow",
+          "Journal",
+          "Expense"
+        ],
+        "medium": [
+          "Equity",
+          "Income Statement",
+          "Ledger"
+        ],
+        "hard": [
+          "Amortization",
+          "Balance Sheet",
+          "Depreciation"
+        ]
+      }
+    },
+    {
+      "word": "Liability",
+      "sub": "Accounting",
+      "diff": "medium",
+      "desc": "A financial obligation or debt owed by a company to another party.",
+      "tags": [
+        "accounting",
+        "debt",
+        "obligation",
+        "owed"
+      ],
+      "hints": {
+        "easy": [
+          "Shows what company owns and owes",
+          "Assets equal liabilities plus equity",
+          "Snapshot at a point in time",
+          "Current and non-current sections",
+          "Must always balance",
+          "Prepared quarterly and annually"
+        ],
+        "medium": [
+          "GAAP or IFRS standards apply",
+          "Goodwill tested for impairment",
+          "Inventory valued at lower cost or market",
+          "Receivables net of allowance",
+          "Depreciation methods affect values",
+          "Off-balance-sheet items disclosed"
+        ],
+        "hard": [
+          "Fair value hierarchy levels",
+          "Variable interest entities consolidate",
+          "Lease capitalization under ASC 842",
+          "Deferred tax assets need valuation allowance",
+          "Pension obligations discounted",
+          "Contingent liabilities probability assessed"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Equity",
+          "Expense",
+          "Income Statement"
+        ],
+        "medium": [
+          "Cash Flow",
+          "Asset",
+          "Ledger"
+        ],
+        "hard": [
+          "Amortization",
+          "Revenue",
+          "Journal"
+        ]
+      }
+    },
+    {
+      "word": "Equity",
+      "sub": "Accounting",
+      "diff": "medium",
+      "desc": "Ownership interest in a company calculated as assets minus liabilities.",
+      "tags": [
+        "accounting",
+        "ownership",
+        "shareholders",
+        "value"
+      ],
+      "hints": {
+        "easy": [
+          "Shows what company owns and owes",
+          "Assets equal liabilities plus equity",
+          "Snapshot at a point in time",
+          "Current and non-current sections",
+          "Must always balance",
+          "Prepared quarterly and annually"
+        ],
+        "medium": [
+          "GAAP or IFRS standards apply",
+          "Goodwill tested for impairment",
+          "Inventory valued at lower cost or market",
+          "Receivables net of allowance",
+          "Depreciation methods affect values",
+          "Off-balance-sheet items disclosed"
+        ],
+        "hard": [
+          "Fair value hierarchy levels",
+          "Variable interest entities consolidate",
+          "Lease capitalization under ASC 842",
+          "Deferred tax assets need valuation allowance",
+          "Pension obligations discounted",
+          "Contingent liabilities probability assessed"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Liability",
+          "Amortization",
+          "Cash Flow"
+        ],
+        "medium": [
+          "Income Statement",
+          "Asset",
+          "Expense"
+        ],
+        "hard": [
+          "Journal",
+          "Depreciation",
+          "Revenue"
+        ]
+      }
+    },
+    {
+      "word": "Depreciation",
+      "sub": "Accounting",
+      "diff": "medium",
+      "desc": "The allocation of an asset's cost over its useful life for accounting purposes.",
+      "tags": [
+        "accounting",
+        "allocation",
+        "asset",
+        "useful-life"
+      ],
+      "hints": {
+        "easy": [
+          "Shows what company owns and owes",
+          "Assets equal liabilities plus equity",
+          "Snapshot at a point in time",
+          "Current and non-current sections",
+          "Must always balance",
+          "Prepared quarterly and annually"
+        ],
+        "medium": [
+          "GAAP or IFRS standards apply",
+          "Goodwill tested for impairment",
+          "Inventory valued at lower cost or market",
+          "Receivables net of allowance",
+          "Depreciation methods affect values",
+          "Off-balance-sheet items disclosed"
+        ],
+        "hard": [
+          "Fair value hierarchy levels",
+          "Variable interest entities consolidate",
+          "Lease capitalization under ASC 842",
+          "Deferred tax assets need valuation allowance",
+          "Pension obligations discounted",
+          "Contingent liabilities probability assessed"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Amortization",
+          "Journal",
+          "Cash Flow"
+        ],
+        "medium": [
+          "Expense",
+          "Asset",
+          "Revenue"
+        ],
+        "hard": [
+          "Liability",
+          "Income Statement",
+          "Balance Sheet"
+        ]
+      }
+    },
+    {
+      "word": "Amortization",
+      "sub": "Accounting",
+      "diff": "hard",
+      "desc": "The gradual writing off of an intangible asset's cost over its useful life.",
+      "tags": [
+        "accounting",
+        "intangible",
+        "cost",
+        "useful-life"
+      ],
+      "hints": {
+        "easy": [
+          "Shows what company owns and owes",
+          "Assets equal liabilities plus equity",
+          "Snapshot at a point in time",
+          "Current and non-current sections",
+          "Must always balance",
+          "Prepared quarterly and annually"
+        ],
+        "medium": [
+          "GAAP or IFRS standards apply",
+          "Goodwill tested for impairment",
+          "Inventory valued at lower cost or market",
+          "Receivables net of allowance",
+          "Depreciation methods affect values",
+          "Off-balance-sheet items disclosed"
+        ],
+        "hard": [
+          "Fair value hierarchy levels",
+          "Variable interest entities consolidate",
+          "Lease capitalization under ASC 842",
+          "Deferred tax assets need valuation allowance",
+          "Pension obligations discounted",
+          "Contingent liabilities probability assessed"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Asset",
+          "Income Statement",
+          "Depreciation"
+        ],
+        "medium": [
+          "Journal",
+          "Ledger",
+          "Liability"
+        ],
+        "hard": [
+          "Equity",
+          "Expense",
+          "Revenue"
+        ]
+      }
+    },
+    {
+      "word": "Stock",
+      "sub": "Investment",
+      "diff": "easy",
+      "desc": "A share representing fractional ownership in a corporation.",
+      "tags": [
+        "investment",
+        "ownership",
+        "share",
+        "equity"
+      ],
+      "hints": {
+        "easy": [
+          "Own a piece of a company",
+          "Buy low sell high strategy",
+          "Dividends provide income",
+          "Long term builds wealth",
+          "Diversify to reduce risk",
+          "Research before investing"
+        ],
+        "medium": [
+          "P/E ratio values companies",
+          "Dollar cost averaging reduces timing risk",
+          "Asset allocation matches risk tolerance",
+          "Rebalancing maintains target weights",
+          "Tax-loss harvesting offsets gains",
+          "Compound interest accelerates growth"
+        ],
+        "hard": [
+          "CAPM calculates expected returns",
+          "Efficient frontier optimizes portfolios",
+          "Alpha measures excess returns",
+          "Beta measures systematic risk",
+          "Sharpe ratio risk-adjusts returns",
+          "Fama-French factors explain variance"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "ROI",
+          "Portfolio",
+          "Mutual Fund"
+        ],
+        "medium": [
+          "Return",
+          "Bond",
+          "Dividend"
+        ],
+        "hard": [
+          "Risk",
+          "Capital Gain",
+          "ETF"
+        ]
+      }
+    },
+    {
+      "word": "Bond",
+      "sub": "Investment",
+      "diff": "medium",
+      "desc": "A fixed-income instrument representing a loan made by an investor to a borrower.",
+      "tags": [
+        "investment",
+        "fixed-income",
+        "loan",
+        "debt"
+      ],
+      "hints": {
+        "easy": [
+          "Own a piece of a company",
+          "Buy low sell high strategy",
+          "Dividends provide income",
+          "Long term builds wealth",
+          "Diversify to reduce risk",
+          "Research before investing"
+        ],
+        "medium": [
+          "P/E ratio values companies",
+          "Dollar cost averaging reduces timing risk",
+          "Asset allocation matches risk tolerance",
+          "Rebalancing maintains target weights",
+          "Tax-loss harvesting offsets gains",
+          "Compound interest accelerates growth"
+        ],
+        "hard": [
+          "CAPM calculates expected returns",
+          "Efficient frontier optimizes portfolios",
+          "Alpha measures excess returns",
+          "Beta measures systematic risk",
+          "Sharpe ratio risk-adjusts returns",
+          "Fama-French factors explain variance"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Portfolio",
+          "ROI",
+          "Mutual Fund"
+        ],
+        "medium": [
+          "ETF",
+          "Diversification",
+          "Dividend"
+        ],
+        "hard": [
+          "Stock",
+          "Risk",
+          "Capital Gain"
+        ]
+      }
+    },
+    {
+      "word": "Dividend",
+      "sub": "Investment",
+      "diff": "medium",
+      "desc": "A portion of company earnings distributed to shareholders regularly.",
+      "tags": [
+        "investment",
+        "earnings",
+        "distribution",
+        "shareholders"
+      ],
+      "hints": {
+        "easy": [
+          "Own a piece of a company",
+          "Buy low sell high strategy",
+          "Dividends provide income",
+          "Long term builds wealth",
+          "Diversify to reduce risk",
+          "Research before investing"
+        ],
+        "medium": [
+          "P/E ratio values companies",
+          "Dollar cost averaging reduces timing risk",
+          "Asset allocation matches risk tolerance",
+          "Rebalancing maintains target weights",
+          "Tax-loss harvesting offsets gains",
+          "Compound interest accelerates growth"
+        ],
+        "hard": [
+          "CAPM calculates expected returns",
+          "Efficient frontier optimizes portfolios",
+          "Alpha measures excess returns",
+          "Beta measures systematic risk",
+          "Sharpe ratio risk-adjusts returns",
+          "Fama-French factors explain variance"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Capital Gain",
+          "Allocation",
+          "Risk"
+        ],
+        "medium": [
+          "Stock",
+          "ROI",
+          "Mutual Fund"
+        ],
+        "hard": [
+          "Portfolio",
+          "Diversification",
+          "Return"
+        ]
+      }
+    },
+    {
+      "word": "Portfolio",
+      "sub": "Investment",
+      "diff": "medium",
+      "desc": "A collection of financial investments like stocks, bonds, and cash equivalents.",
+      "tags": [
+        "investment",
+        "collection",
+        "diversification",
+        "assets"
+      ],
+      "hints": {
+        "easy": [
+          "Own a piece of a company",
+          "Buy low sell high strategy",
+          "Dividends provide income",
+          "Long term builds wealth",
+          "Diversify to reduce risk",
+          "Research before investing"
+        ],
+        "medium": [
+          "P/E ratio values companies",
+          "Dollar cost averaging reduces timing risk",
+          "Asset allocation matches risk tolerance",
+          "Rebalancing maintains target weights",
+          "Tax-loss harvesting offsets gains",
+          "Compound interest accelerates growth"
+        ],
+        "hard": [
+          "CAPM calculates expected returns",
+          "Efficient frontier optimizes portfolios",
+          "Alpha measures excess returns",
+          "Beta measures systematic risk",
+          "Sharpe ratio risk-adjusts returns",
+          "Fama-French factors explain variance"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Diversification",
+          "Stock",
+          "ETF"
+        ],
+        "medium": [
+          "Bond",
+          "Risk",
+          "Capital Gain"
+        ],
+        "hard": [
+          "Allocation",
+          "Return",
+          "Mutual Fund"
+        ]
+      }
+    },
+    {
+      "word": "Diversification",
+      "sub": "Investment",
+      "diff": "medium",
+      "desc": "Spreading investments across various assets to reduce risk.",
+      "tags": [
+        "investment",
+        "risk-reduction",
+        "strategy",
+        "spread"
+      ],
+      "hints": {
+        "easy": [
+          "Own a piece of a company",
+          "Buy low sell high strategy",
+          "Dividends provide income",
+          "Long term builds wealth",
+          "Diversify to reduce risk",
+          "Research before investing"
+        ],
+        "medium": [
+          "P/E ratio values companies",
+          "Dollar cost averaging reduces timing risk",
+          "Asset allocation matches risk tolerance",
+          "Rebalancing maintains target weights",
+          "Tax-loss harvesting offsets gains",
+          "Compound interest accelerates growth"
+        ],
+        "hard": [
+          "CAPM calculates expected returns",
+          "Efficient frontier optimizes portfolios",
+          "Alpha measures excess returns",
+          "Beta measures systematic risk",
+          "Sharpe ratio risk-adjusts returns",
+          "Fama-French factors explain variance"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Allocation",
+          "Stock",
+          "Capital Gain"
+        ],
+        "medium": [
+          "Risk",
+          "Portfolio",
+          "Bond"
+        ],
+        "hard": [
+          "ROI",
+          "Mutual Fund",
+          "ETF"
+        ]
+      }
+    },
+    {
+      "word": "Bull Market",
+      "sub": "Markets",
+      "diff": "medium",
+      "desc": "A market condition where prices are rising or expected to rise consistently.",
+      "tags": [
+        "markets",
+        "rising",
+        "optimism",
+        "trend"
+      ],
+      "hints": {
+        "easy": [
+          "Where stocks are bought and sold",
+          "Prices change every second",
+          "Bull means up bear means down",
+          "Volume shows trading activity",
+          "Indices track market performance",
+          "Open weekdays nine to four"
+        ],
+        "medium": [
+          "Market makers provide liquidity",
+          "Bid-ask spread is trading cost",
+          "Limit orders control execution price",
+          "Short selling bets on decline",
+          "Margin amplifies gains and losses",
+          "Circuit breakers halt extreme moves"
+        ],
+        "hard": [
+          "High frequency trading front-runs",
+          "Dark pools hide large orders",
+          "Payment for order flow controversial",
+          "Volatility smile implies fat tails",
+          "VIX measures fear index",
+          "Flash crashes expose fragility"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Volume",
+          "Market Cap",
+          "Sector"
+        ],
+        "medium": [
+          "Volatility",
+          "IPO",
+          "Exchange"
+        ],
+        "hard": [
+          "Liquidity",
+          "Index",
+          "Spread"
+        ]
+      }
+    },
+    {
+      "word": "Bear Market",
+      "sub": "Markets",
+      "diff": "medium",
+      "desc": "A market condition where prices are falling or expected to fall significantly.",
+      "tags": [
+        "markets",
+        "falling",
+        "pessimism",
+        "decline"
+      ],
+      "hints": {
+        "easy": [
+          "Where stocks are bought and sold",
+          "Prices change every second",
+          "Bull means up bear means down",
+          "Volume shows trading activity",
+          "Indices track market performance",
+          "Open weekdays nine to four"
+        ],
+        "medium": [
+          "Market makers provide liquidity",
+          "Bid-ask spread is trading cost",
+          "Limit orders control execution price",
+          "Short selling bets on decline",
+          "Margin amplifies gains and losses",
+          "Circuit breakers halt extreme moves"
+        ],
+        "hard": [
+          "High frequency trading front-runs",
+          "Dark pools hide large orders",
+          "Payment for order flow controversial",
+          "Volatility smile implies fat tails",
+          "VIX measures fear index",
+          "Flash crashes expose fragility"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Spread",
+          "Index",
+          "Sector"
+        ],
+        "medium": [
+          "Exchange",
+          "Volatility",
+          "IPO"
+        ],
+        "hard": [
+          "Bull Market",
+          "Market Cap",
+          "Volume"
+        ]
+      }
+    },
+    {
+      "word": "IPO",
+      "sub": "Markets",
+      "diff": "medium",
+      "desc": "Initial Public Offering; the first sale of stock by a private company to the public.",
+      "tags": [
+        "markets",
+        "public-offering",
+        "private-to-public",
+        "listing"
+      ],
+      "hints": {
+        "easy": [
+          "Where stocks are bought and sold",
+          "Prices change every second",
+          "Bull means up bear means down",
+          "Volume shows trading activity",
+          "Indices track market performance",
+          "Open weekdays nine to four"
+        ],
+        "medium": [
+          "Market makers provide liquidity",
+          "Bid-ask spread is trading cost",
+          "Limit orders control execution price",
+          "Short selling bets on decline",
+          "Margin amplifies gains and losses",
+          "Circuit breakers halt extreme moves"
+        ],
+        "hard": [
+          "High frequency trading front-runs",
+          "Dark pools hide large orders",
+          "Payment for order flow controversial",
+          "Volatility smile implies fat tails",
+          "VIX measures fear index",
+          "Flash crashes expose fragility"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Exchange",
+          "Bull Market",
+          "Index"
+        ],
+        "medium": [
+          "Trading",
+          "Bear Market",
+          "Volatility"
+        ],
+        "hard": [
+          "Spread",
+          "Market Cap",
+          "Liquidity"
+        ]
+      }
+    },
+    {
+      "word": "Market Cap",
+      "sub": "Markets",
+      "diff": "medium",
+      "desc": "Market capitalization; total value of a company's outstanding shares.",
+      "tags": [
+        "markets",
+        "valuation",
+        "shares",
+        "total-value"
+      ],
+      "hints": {
+        "easy": [
+          "Where stocks are bought and sold",
+          "Prices change every second",
+          "Bull means up bear means down",
+          "Volume shows trading activity",
+          "Indices track market performance",
+          "Open weekdays nine to four"
+        ],
+        "medium": [
+          "Market makers provide liquidity",
+          "Bid-ask spread is trading cost",
+          "Limit orders control execution price",
+          "Short selling bets on decline",
+          "Margin amplifies gains and losses",
+          "Circuit breakers halt extreme moves"
+        ],
+        "hard": [
+          "High frequency trading front-runs",
+          "Dark pools hide large orders",
+          "Payment for order flow controversial",
+          "Volatility smile implies fat tails",
+          "VIX measures fear index",
+          "Flash crashes expose fragility"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Bear Market",
+          "Bull Market",
+          "Index"
+        ],
+        "medium": [
+          "Liquidity",
+          "Volatility",
+          "IPO"
+        ],
+        "hard": [
+          "Sector",
+          "Exchange",
+          "Trading"
+        ]
+      }
+    },
+    {
+      "word": "Volatility",
+      "sub": "Markets",
+      "diff": "hard",
+      "desc": "The degree of variation in trading prices over time; measure of risk.",
+      "tags": [
+        "markets",
+        "variation",
+        "risk",
+        "price-swings"
+      ],
+      "hints": {
+        "easy": [
+          "Where stocks are bought and sold",
+          "Prices change every second",
+          "Bull means up bear means down",
+          "Volume shows trading activity",
+          "Indices track market performance",
+          "Open weekdays nine to four"
+        ],
+        "medium": [
+          "Market makers provide liquidity",
+          "Bid-ask spread is trading cost",
+          "Limit orders control execution price",
+          "Short selling bets on decline",
+          "Margin amplifies gains and losses",
+          "Circuit breakers halt extreme moves"
+        ],
+        "hard": [
+          "High frequency trading front-runs",
+          "Dark pools hide large orders",
+          "Payment for order flow controversial",
+          "Volatility smile implies fat tails",
+          "VIX measures fear index",
+          "Flash crashes expose fragility"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Exchange",
+          "Bull Market",
+          "Market Cap"
+        ],
+        "medium": [
+          "Spread",
+          "IPO",
+          "Volume"
+        ],
+        "hard": [
+          "Sector",
+          "Trading",
+          "Bear Market"
+        ]
+      }
+    },
+    {
+      "word": "Liquidity",
+      "sub": "Markets",
+      "diff": "medium",
+      "desc": "How easily an asset can be bought or sold without affecting its price.",
+      "tags": [
+        "markets",
+        "ease-of-trade",
+        "conversion",
+        "cash"
+      ],
+      "hints": {
+        "easy": [
+          "Where stocks are bought and sold",
+          "Prices change every second",
+          "Bull means up bear means down",
+          "Volume shows trading activity",
+          "Indices track market performance",
+          "Open weekdays nine to four"
+        ],
+        "medium": [
+          "Market makers provide liquidity",
+          "Bid-ask spread is trading cost",
+          "Limit orders control execution price",
+          "Short selling bets on decline",
+          "Margin amplifies gains and losses",
+          "Circuit breakers halt extreme moves"
+        ],
+        "hard": [
+          "High frequency trading front-runs",
+          "Dark pools hide large orders",
+          "Payment for order flow controversial",
+          "Volatility smile implies fat tails",
+          "VIX measures fear index",
+          "Flash crashes expose fragility"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Bull Market",
+          "Bear Market",
+          "Sector"
+        ],
+        "medium": [
+          "Volume",
+          "Index",
+          "Exchange"
+        ],
+        "hard": [
+          "IPO",
+          "Volatility",
+          "Trading"
+        ]
+      }
+    },
+    {
+      "word": "Hedge Fund",
+      "sub": "Investment",
+      "diff": "hard",
+      "desc": "An investment fund using pooled capital and complex strategies to generate high returns.",
+      "tags": [
+        "investment",
+        "pooled-capital",
+        "strategies",
+        "accredited-investors"
+      ],
+      "hints": {
+        "easy": [
+          "Own a piece of a company",
+          "Buy low sell high strategy",
+          "Dividends provide income",
+          "Long term builds wealth",
+          "Diversify to reduce risk",
+          "Research before investing"
+        ],
+        "medium": [
+          "P/E ratio values companies",
+          "Dollar cost averaging reduces timing risk",
+          "Asset allocation matches risk tolerance",
+          "Rebalancing maintains target weights",
+          "Tax-loss harvesting offsets gains",
+          "Compound interest accelerates growth"
+        ],
+        "hard": [
+          "CAPM calculates expected returns",
+          "Efficient frontier optimizes portfolios",
+          "Alpha measures excess returns",
+          "Beta measures systematic risk",
+          "Sharpe ratio risk-adjusts returns",
+          "Fama-French factors explain variance"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Bond",
+          "Capital Gain",
+          "ROI"
+        ],
+        "medium": [
+          "Allocation",
+          "Diversification",
+          "Risk"
+        ],
+        "hard": [
+          "ETF",
+          "Return",
+          "Stock"
+        ]
+      }
+    },
+    {
+      "word": "Venture Capital",
+      "sub": "Investment",
+      "diff": "medium",
+      "desc": "Funding provided to early-stage high-growth potential startups in exchange for equity.",
+      "tags": [
+        "investment",
+        "startups",
+        "early-stage",
+        "equity"
+      ],
+      "hints": {
+        "easy": [
+          "Own a piece of a company",
+          "Buy low sell high strategy",
+          "Dividends provide income",
+          "Long term builds wealth",
+          "Diversify to reduce risk",
+          "Research before investing"
+        ],
+        "medium": [
+          "P/E ratio values companies",
+          "Dollar cost averaging reduces timing risk",
+          "Asset allocation matches risk tolerance",
+          "Rebalancing maintains target weights",
+          "Tax-loss harvesting offsets gains",
+          "Compound interest accelerates growth"
+        ],
+        "hard": [
+          "CAPM calculates expected returns",
+          "Efficient frontier optimizes portfolios",
+          "Alpha measures excess returns",
+          "Beta measures systematic risk",
+          "Sharpe ratio risk-adjusts returns",
+          "Fama-French factors explain variance"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Risk",
+          "Capital Gain",
+          "Portfolio"
+        ],
+        "medium": [
+          "Dividend",
+          "Diversification",
+          "Stock"
+        ],
+        "hard": [
+          "Allocation",
+          "ROI",
+          "Return"
+        ]
+      }
+    },
+    {
+      "word": "Angel Investor",
+      "sub": "Investment",
+      "diff": "medium",
+      "desc": "A wealthy individual providing capital to startups in exchange for ownership equity.",
+      "tags": [
+        "investment",
+        "individual",
+        "startups",
+        "early-funding"
+      ],
+      "hints": {
+        "easy": [
+          "Own a piece of a company",
+          "Buy low sell high strategy",
+          "Dividends provide income",
+          "Long term builds wealth",
+          "Diversify to reduce risk",
+          "Research before investing"
+        ],
+        "medium": [
+          "P/E ratio values companies",
+          "Dollar cost averaging reduces timing risk",
+          "Asset allocation matches risk tolerance",
+          "Rebalancing maintains target weights",
+          "Tax-loss harvesting offsets gains",
+          "Compound interest accelerates growth"
+        ],
+        "hard": [
+          "CAPM calculates expected returns",
+          "Efficient frontier optimizes portfolios",
+          "Alpha measures excess returns",
+          "Beta measures systematic risk",
+          "Sharpe ratio risk-adjusts returns",
+          "Fama-French factors explain variance"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Return",
+          "Mutual Fund",
+          "Risk"
+        ],
+        "medium": [
+          "ROI",
+          "Dividend",
+          "ETF"
+        ],
+        "hard": [
+          "Portfolio",
+          "Diversification",
+          "Bond"
+        ]
+      }
+    },
+    {
+      "word": "Interest Rate",
+      "sub": "Banking",
+      "diff": "easy",
+      "desc": "The percentage charged by a lender to a borrower for the use of money.",
+      "tags": [
+        "banking",
+        "percentage",
+        "lender",
+        "borrower"
+      ],
+      "hints": {
+        "easy": [
+          "Borrow money pay back with interest",
+          "Credit score affects loan terms",
+          "Savings earn small interest",
+          "Checking for daily spending",
+          "FDIC insures up to limit",
+          "Online banking twenty four seven"
+        ],
+        "medium": [
+          "Fractional reserve creates money",
+          "Interbank lending sets Fed funds",
+          "Capital requirements limit leverage",
+          "Stress tests ensure resilience",
+          "Know your customer prevents crime",
+          "Basel accords standardize rules"
+        ],
+        "hard": [
+          "Liquidity coverage ratio requirement",
+          "Net stable funding ratio long term",
+          "Countercyclical capital buffer",
+          "Resolution planning for SIFIs",
+          "Bail-in converts debt to equity",
+          "Central bank digital currency emerging"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Collateral",
+          "Default",
+          "Loan"
+        ],
+        "medium": [
+          "Prime Rate",
+          "Overdraft",
+          "Transfer"
+        ],
+        "hard": [
+          "Wire",
+          "Withdrawal",
+          "Deposit"
+        ]
+      }
+    },
+    {
+      "word": "Loan",
+      "sub": "Banking",
+      "diff": "easy",
+      "desc": "Money borrowed that must be repaid with interest over a set period.",
+      "tags": [
+        "banking",
+        "borrowed",
+        "repayment",
+        "interest"
+      ],
+      "hints": {
+        "easy": [
+          "Borrow money pay back with interest",
+          "Credit score affects loan terms",
+          "Savings earn small interest",
+          "Checking for daily spending",
+          "FDIC insures up to limit",
+          "Online banking twenty four seven"
+        ],
+        "medium": [
+          "Fractional reserve creates money",
+          "Interbank lending sets Fed funds",
+          "Capital requirements limit leverage",
+          "Stress tests ensure resilience",
+          "Know your customer prevents crime",
+          "Basel accords standardize rules"
+        ],
+        "hard": [
+          "Liquidity coverage ratio requirement",
+          "Net stable funding ratio long term",
+          "Countercyclical capital buffer",
+          "Resolution planning for SIFIs",
+          "Bail-in converts debt to equity",
+          "Central bank digital currency emerging"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Mortgage",
+          "Prime Rate",
+          "Deposit"
+        ],
+        "medium": [
+          "Interest Rate",
+          "Overdraft",
+          "Wire"
+        ],
+        "hard": [
+          "Withdrawal",
+          "Collateral",
+          "Credit Score"
+        ]
+      }
+    },
+    {
+      "word": "Mortgage",
+      "sub": "Banking",
+      "diff": "medium",
+      "desc": "A loan used to purchase real estate with the property as collateral.",
+      "tags": [
+        "banking",
+        "real-estate",
+        "collateral",
+        "property"
+      ],
+      "hints": {
+        "easy": [
+          "Borrow money pay back with interest",
+          "Credit score affects loan terms",
+          "Savings earn small interest",
+          "Checking for daily spending",
+          "FDIC insures up to limit",
+          "Online banking twenty four seven"
+        ],
+        "medium": [
+          "Fractional reserve creates money",
+          "Interbank lending sets Fed funds",
+          "Capital requirements limit leverage",
+          "Stress tests ensure resilience",
+          "Know your customer prevents crime",
+          "Basel accords standardize rules"
+        ],
+        "hard": [
+          "Liquidity coverage ratio requirement",
+          "Net stable funding ratio long term",
+          "Countercyclical capital buffer",
+          "Resolution planning for SIFIs",
+          "Bail-in converts debt to equity",
+          "Central bank digital currency emerging"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Loan",
+          "Overdraft",
+          "Deposit"
+        ],
+        "medium": [
+          "Interest Rate",
+          "Credit Score",
+          "Withdrawal"
+        ],
+        "hard": [
+          "Default",
+          "Wire",
+          "Collateral"
+        ]
+      }
+    },
+    {
+      "word": "Credit Score",
+      "sub": "Banking",
+      "diff": "medium",
+      "desc": "A numerical representation of a person's creditworthiness based on credit history.",
+      "tags": [
+        "banking",
+        "creditworthiness",
+        "history",
+        "rating"
+      ],
+      "hints": {
+        "easy": [
+          "Borrow money pay back with interest",
+          "Credit score affects loan terms",
+          "Savings earn small interest",
+          "Checking for daily spending",
+          "FDIC insures up to limit",
+          "Online banking twenty four seven"
+        ],
+        "medium": [
+          "Fractional reserve creates money",
+          "Interbank lending sets Fed funds",
+          "Capital requirements limit leverage",
+          "Stress tests ensure resilience",
+          "Know your customer prevents crime",
+          "Basel accords standardize rules"
+        ],
+        "hard": [
+          "Liquidity coverage ratio requirement",
+          "Net stable funding ratio long term",
+          "Countercyclical capital buffer",
+          "Resolution planning for SIFIs",
+          "Bail-in converts debt to equity",
+          "Central bank digital currency emerging"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Collateral",
+          "Deposit",
+          "Loan"
+        ],
+        "medium": [
+          "Overdraft",
+          "Wire",
+          "Prime Rate"
+        ],
+        "hard": [
+          "Withdrawal",
+          "Interest Rate",
+          "Mortgage"
+        ]
+      }
+    },
+    {
+      "word": "Collateral",
+      "sub": "Banking",
+      "diff": "medium",
+      "desc": "An asset pledged as security for repayment of a loan.",
+      "tags": [
+        "banking",
+        "security",
+        "asset",
+        "pledge"
+      ],
+      "hints": {
+        "easy": [
+          "Borrow money pay back with interest",
+          "Credit score affects loan terms",
+          "Savings earn small interest",
+          "Checking for daily spending",
+          "FDIC insures up to limit",
+          "Online banking twenty four seven"
+        ],
+        "medium": [
+          "Fractional reserve creates money",
+          "Interbank lending sets Fed funds",
+          "Capital requirements limit leverage",
+          "Stress tests ensure resilience",
+          "Know your customer prevents crime",
+          "Basel accords standardize rules"
+        ],
+        "hard": [
+          "Liquidity coverage ratio requirement",
+          "Net stable funding ratio long term",
+          "Countercyclical capital buffer",
+          "Resolution planning for SIFIs",
+          "Bail-in converts debt to equity",
+          "Central bank digital currency emerging"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Withdrawal",
+          "Loan",
+          "Interest Rate"
+        ],
+        "medium": [
+          "Wire",
+          "Deposit",
+          "Transfer"
+        ],
+        "hard": [
+          "Mortgage",
+          "Overdraft",
+          "Credit Score"
+        ]
+      }
+    },
+    {
+      "word": "Default",
+      "sub": "Banking",
+      "diff": "medium",
+      "desc": "Failure to repay a loan according to the agreed terms.",
+      "tags": [
+        "banking",
+        "failure",
+        "repayment",
+        "breach"
+      ],
+      "hints": {
+        "easy": [
+          "Borrow money pay back with interest",
+          "Credit score affects loan terms",
+          "Savings earn small interest",
+          "Checking for daily spending",
+          "FDIC insures up to limit",
+          "Online banking twenty four seven"
+        ],
+        "medium": [
+          "Fractional reserve creates money",
+          "Interbank lending sets Fed funds",
+          "Capital requirements limit leverage",
+          "Stress tests ensure resilience",
+          "Know your customer prevents crime",
+          "Basel accords standardize rules"
+        ],
+        "hard": [
+          "Liquidity coverage ratio requirement",
+          "Net stable funding ratio long term",
+          "Countercyclical capital buffer",
+          "Resolution planning for SIFIs",
+          "Bail-in converts debt to equity",
+          "Central bank digital currency emerging"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Collateral",
+          "Wire",
+          "Prime Rate"
+        ],
+        "medium": [
+          "Interest Rate",
+          "Mortgage",
+          "Transfer"
+        ],
+        "hard": [
+          "Deposit",
+          "Credit Score",
+          "Withdrawal"
+        ]
+      }
+    },
+    {
+      "word": "Prime Rate",
+      "sub": "Banking",
+      "diff": "hard",
+      "desc": "The interest rate banks charge their most creditworthy corporate customers.",
+      "tags": [
+        "banking",
+        "benchmark",
+        "corporate",
+        "creditworthy"
+      ],
+      "hints": {
+        "easy": [
+          "Borrow money pay back with interest",
+          "Credit score affects loan terms",
+          "Savings earn small interest",
+          "Checking for daily spending",
+          "FDIC insures up to limit",
+          "Online banking twenty four seven"
+        ],
+        "medium": [
+          "Fractional reserve creates money",
+          "Interbank lending sets Fed funds",
+          "Capital requirements limit leverage",
+          "Stress tests ensure resilience",
+          "Know your customer prevents crime",
+          "Basel accords standardize rules"
+        ],
+        "hard": [
+          "Liquidity coverage ratio requirement",
+          "Net stable funding ratio long term",
+          "Countercyclical capital buffer",
+          "Resolution planning for SIFIs",
+          "Bail-in converts debt to equity",
+          "Central bank digital currency emerging"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Interest Rate",
+          "Overdraft",
+          "Transfer"
+        ],
+        "medium": [
+          "Default",
+          "Withdrawal",
+          "Loan"
+        ],
+        "hard": [
+          "Collateral",
+          "Credit Score",
+          "Wire"
+        ]
+      }
+    },
+    {
+      "word": "Overdraft",
+      "sub": "Banking",
+      "diff": "medium",
+      "desc": "Withdrawing more money from a bank account than is available.",
+      "tags": [
+        "banking",
+        "withdrawal",
+        "negative-balance",
+        "fee"
+      ],
+      "hints": {
+        "easy": [
+          "Borrow money pay back with interest",
+          "Credit score affects loan terms",
+          "Savings earn small interest",
+          "Checking for daily spending",
+          "FDIC insures up to limit",
+          "Online banking twenty four seven"
+        ],
+        "medium": [
+          "Fractional reserve creates money",
+          "Interbank lending sets Fed funds",
+          "Capital requirements limit leverage",
+          "Stress tests ensure resilience",
+          "Know your customer prevents crime",
+          "Basel accords standardize rules"
+        ],
+        "hard": [
+          "Liquidity coverage ratio requirement",
+          "Net stable funding ratio long term",
+          "Countercyclical capital buffer",
+          "Resolution planning for SIFIs",
+          "Bail-in converts debt to equity",
+          "Central bank digital currency emerging"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Credit Score",
+          "Collateral",
+          "Default"
+        ],
+        "medium": [
+          "Loan",
+          "Prime Rate",
+          "Mortgage"
+        ],
+        "hard": [
+          "Interest Rate",
+          "Transfer",
+          "Wire"
+        ]
+      }
+    },
+    {
+      "word": "Wire Transfer",
+      "sub": "Banking",
+      "diff": "medium",
+      "desc": "Electronic transfer of funds between banks or financial institutions.",
+      "tags": [
+        "banking",
+        "electronic",
+        "funds",
+        "interbank"
+      ],
+      "hints": {
+        "easy": [
+          "Borrow money pay back with interest",
+          "Credit score affects loan terms",
+          "Savings earn small interest",
+          "Checking for daily spending",
+          "FDIC insures up to limit",
+          "Online banking twenty four seven"
+        ],
+        "medium": [
+          "Fractional reserve creates money",
+          "Interbank lending sets Fed funds",
+          "Capital requirements limit leverage",
+          "Stress tests ensure resilience",
+          "Know your customer prevents crime",
+          "Basel accords standardize rules"
+        ],
+        "hard": [
+          "Liquidity coverage ratio requirement",
+          "Net stable funding ratio long term",
+          "Countercyclical capital buffer",
+          "Resolution planning for SIFIs",
+          "Bail-in converts debt to equity",
+          "Central bank digital currency emerging"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Transfer",
+          "Wire",
+          "Deposit"
+        ],
+        "medium": [
+          "Collateral",
+          "Credit Score",
+          "Loan"
+        ],
+        "hard": [
+          "Prime Rate",
+          "Default",
+          "Interest Rate"
+        ]
+      }
+    },
+    {
+      "word": "Inflation",
+      "sub": "Economics",
+      "diff": "medium",
+      "desc": "The rate at which the general level of prices for goods and services rises.",
+      "tags": [
+        "economics",
+        "prices",
+        "purchasing-power",
+        "rise"
+      ],
+      "hints": {
+        "easy": [
+          "Prices go up over time",
+          "Money buys less than before",
+          "Central bank targets two percent",
+          "Wages should keep pace",
+          "Cost of living increases",
+          "Savings lose purchasing power"
+        ],
+        "medium": [
+          "CPI measures consumer prices",
+          "PPI tracks producer prices",
+          "Core excludes food and energy",
+          "Demand pull vs cost push causes",
+          "Expectations become self-fulfilling",
+          "Phillips curve tradeoff debated"
+        ],
+        "hard": [
+          "Taylor rule guides policy rate",
+          "Natural rate of unemployment NAIRU",
+          "Rational expectations neutralize policy",
+          "Time inconsistency problem central banks",
+          "Fiscal dominance constrains monetary",
+          "Secular stagnation low r star"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Supply",
+          "Unemployment",
+          "Equilibrium"
+        ],
+        "medium": [
+          "Monetary Policy",
+          "Demand",
+          "Supply Chain"
+        ],
+        "hard": [
+          "Central Bank",
+          "GDP",
+          "Deflation"
+        ]
+      }
+    },
+    {
+      "word": "Deflation",
+      "sub": "Economics",
+      "diff": "hard",
+      "desc": "A decrease in the general price level of goods and services.",
+      "tags": [
+        "economics",
+        "prices",
+        "decrease",
+        "opposite-inflation"
+      ],
+      "hints": {
+        "easy": [
+          "Prices go up over time",
+          "Money buys less than before",
+          "Central bank targets two percent",
+          "Wages should keep pace",
+          "Cost of living increases",
+          "Savings lose purchasing power"
+        ],
+        "medium": [
+          "CPI measures consumer prices",
+          "PPI tracks producer prices",
+          "Core excludes food and energy",
+          "Demand pull vs cost push causes",
+          "Expectations become self-fulfilling",
+          "Phillips curve tradeoff debated"
+        ],
+        "hard": [
+          "Taylor rule guides policy rate",
+          "Natural rate of unemployment NAIRU",
+          "Rational expectations neutralize policy",
+          "Time inconsistency problem central banks",
+          "Fiscal dominance constrains monetary",
+          "Secular stagnation low r star"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "GDP",
+          "Inflation",
+          "Demand"
+        ],
+        "medium": [
+          "Equilibrium",
+          "Central Bank",
+          "Supply"
+        ],
+        "hard": [
+          "Unemployment",
+          "Monetary Policy",
+          "Fiscal Policy"
+        ]
+      }
+    },
+    {
+      "word": "Recession",
+      "sub": "Economics",
+      "diff": "medium",
+      "desc": "A significant decline in economic activity lasting more than a few months.",
+      "tags": [
+        "economics",
+        "decline",
+        "GDP",
+        "economic-cycle"
+      ],
+      "hints": {
+        "easy": [
+          "Prices go up over time",
+          "Money buys less than before",
+          "Central bank targets two percent",
+          "Wages should keep pace",
+          "Cost of living increases",
+          "Savings lose purchasing power"
+        ],
+        "medium": [
+          "CPI measures consumer prices",
+          "PPI tracks producer prices",
+          "Core excludes food and energy",
+          "Demand pull vs cost push causes",
+          "Expectations become self-fulfilling",
+          "Phillips curve tradeoff debated"
+        ],
+        "hard": [
+          "Taylor rule guides policy rate",
+          "Natural rate of unemployment NAIRU",
+          "Rational expectations neutralize policy",
+          "Time inconsistency problem central banks",
+          "Fiscal dominance constrains monetary",
+          "Secular stagnation low r star"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Inflation",
+          "Supply",
+          "GDP"
+        ],
+        "medium": [
+          "Unemployment",
+          "Supply Chain",
+          "Central Bank"
+        ],
+        "hard": [
+          "Deflation",
+          "Monetary Policy",
+          "Demand"
+        ]
+      }
+    },
+    {
+      "word": "GDP",
+      "sub": "Economics",
+      "diff": "medium",
+      "desc": "Gross Domestic Product; total value of goods and services produced in a country.",
+      "tags": [
+        "economics",
+        "production",
+        "country",
+        "measure"
+      ],
+      "hints": {
+        "easy": [
+          "Prices go up over time",
+          "Money buys less than before",
+          "Central bank targets two percent",
+          "Wages should keep pace",
+          "Cost of living increases",
+          "Savings lose purchasing power"
+        ],
+        "medium": [
+          "CPI measures consumer prices",
+          "PPI tracks producer prices",
+          "Core excludes food and energy",
+          "Demand pull vs cost push causes",
+          "Expectations become self-fulfilling",
+          "Phillips curve tradeoff debated"
+        ],
+        "hard": [
+          "Taylor rule guides policy rate",
+          "Natural rate of unemployment NAIRU",
+          "Rational expectations neutralize policy",
+          "Time inconsistency problem central banks",
+          "Fiscal dominance constrains monetary",
+          "Secular stagnation low r star"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Inflation",
+          "Fiscal Policy",
+          "Monetary Policy"
+        ],
+        "medium": [
+          "Central Bank",
+          "Supply Chain",
+          "Equilibrium"
+        ],
+        "hard": [
+          "Supply",
+          "Recession",
+          "Deflation"
+        ]
+      }
+    },
+    {
+      "word": "Unemployment Rate",
+      "sub": "Economics",
+      "diff": "medium",
+      "desc": "The percentage of the labor force that is jobless and actively seeking work.",
+      "tags": [
+        "economics",
+        "labor",
+        "jobless",
+        "percentage"
+      ],
+      "hints": {
+        "easy": [
+          "Prices go up over time",
+          "Money buys less than before",
+          "Central bank targets two percent",
+          "Wages should keep pace",
+          "Cost of living increases",
+          "Savings lose purchasing power"
+        ],
+        "medium": [
+          "CPI measures consumer prices",
+          "PPI tracks producer prices",
+          "Core excludes food and energy",
+          "Demand pull vs cost push causes",
+          "Expectations become self-fulfilling",
+          "Phillips curve tradeoff debated"
+        ],
+        "hard": [
+          "Taylor rule guides policy rate",
+          "Natural rate of unemployment NAIRU",
+          "Rational expectations neutralize policy",
+          "Time inconsistency problem central banks",
+          "Fiscal dominance constrains monetary",
+          "Secular stagnation low r star"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Supply",
+          "Central Bank",
+          "Demand"
+        ],
+        "medium": [
+          "Equilibrium",
+          "Monetary Policy",
+          "Deflation"
+        ],
+        "hard": [
+          "GDP",
+          "Fiscal Policy",
+          "Unemployment"
+        ]
+      }
+    },
+    {
+      "word": "Fiscal Policy",
+      "sub": "Economics",
+      "diff": "hard",
+      "desc": "Government spending and taxation policies to influence the economy.",
+      "tags": [
+        "economics",
+        "government",
+        "spending",
+        "taxation"
+      ],
+      "hints": {
+        "easy": [
+          "Prices go up over time",
+          "Money buys less than before",
+          "Central bank targets two percent",
+          "Wages should keep pace",
+          "Cost of living increases",
+          "Savings lose purchasing power"
+        ],
+        "medium": [
+          "CPI measures consumer prices",
+          "PPI tracks producer prices",
+          "Core excludes food and energy",
+          "Demand pull vs cost push causes",
+          "Expectations become self-fulfilling",
+          "Phillips curve tradeoff debated"
+        ],
+        "hard": [
+          "Taylor rule guides policy rate",
+          "Natural rate of unemployment NAIRU",
+          "Rational expectations neutralize policy",
+          "Time inconsistency problem central banks",
+          "Fiscal dominance constrains monetary",
+          "Secular stagnation low r star"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Supply Chain",
+          "Demand",
+          "Supply"
+        ],
+        "medium": [
+          "Deflation",
+          "Unemployment",
+          "Recession"
+        ],
+        "hard": [
+          "Central Bank",
+          "Equilibrium",
+          "GDP"
+        ]
+      }
+    },
+    {
+      "word": "Monetary Policy",
+      "sub": "Economics",
+      "diff": "hard",
+      "desc": "Central bank actions controlling money supply and interest rates.",
+      "tags": [
+        "economics",
+        "central-bank",
+        "money-supply",
+        "interest-rates"
+      ],
+      "hints": {
+        "easy": [
+          "Prices go up over time",
+          "Money buys less than before",
+          "Central bank targets two percent",
+          "Wages should keep pace",
+          "Cost of living increases",
+          "Savings lose purchasing power"
+        ],
+        "medium": [
+          "CPI measures consumer prices",
+          "PPI tracks producer prices",
+          "Core excludes food and energy",
+          "Demand pull vs cost push causes",
+          "Expectations become self-fulfilling",
+          "Phillips curve tradeoff debated"
+        ],
+        "hard": [
+          "Taylor rule guides policy rate",
+          "Natural rate of unemployment NAIRU",
+          "Rational expectations neutralize policy",
+          "Time inconsistency problem central banks",
+          "Fiscal dominance constrains monetary",
+          "Secular stagnation low r star"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Supply Chain",
+          "Unemployment",
+          "GDP"
+        ],
+        "medium": [
+          "Supply",
+          "Inflation",
+          "Demand"
+        ],
+        "hard": [
+          "Deflation",
+          "Equilibrium",
+          "Central Bank"
+        ]
+      }
+    },
+    {
+      "word": "Central Bank",
+      "sub": "Economics",
+      "diff": "medium",
+      "desc": "A national bank providing financial services and implementing monetary policy.",
+      "tags": [
+        "economics",
+        "national",
+        "monetary-policy",
+        "authority"
+      ],
+      "hints": {
+        "easy": [
+          "Prices go up over time",
+          "Money buys less than before",
+          "Central bank targets two percent",
+          "Wages should keep pace",
+          "Cost of living increases",
+          "Savings lose purchasing power"
+        ],
+        "medium": [
+          "CPI measures consumer prices",
+          "PPI tracks producer prices",
+          "Core excludes food and energy",
+          "Demand pull vs cost push causes",
+          "Expectations become self-fulfilling",
+          "Phillips curve tradeoff debated"
+        ],
+        "hard": [
+          "Taylor rule guides policy rate",
+          "Natural rate of unemployment NAIRU",
+          "Rational expectations neutralize policy",
+          "Time inconsistency problem central banks",
+          "Fiscal dominance constrains monetary",
+          "Secular stagnation low r star"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "GDP",
+          "Recession",
+          "Fiscal Policy"
+        ],
+        "medium": [
+          "Inflation",
+          "Unemployment",
+          "Equilibrium"
+        ],
+        "hard": [
+          "Deflation",
+          "Monetary Policy",
+          "Supply Chain"
+        ]
+      }
+    },
+    {
+      "word": "Supply Chain",
+      "sub": "Economics",
+      "diff": "medium",
+      "desc": "The network of organizations involved in producing and delivering a product.",
+      "tags": [
+        "economics",
+        "network",
+        "production",
+        "delivery"
+      ],
+      "hints": {
+        "easy": [
+          "Prices go up over time",
+          "Money buys less than before",
+          "Central bank targets two percent",
+          "Wages should keep pace",
+          "Cost of living increases",
+          "Savings lose purchasing power"
+        ],
+        "medium": [
+          "CPI measures consumer prices",
+          "PPI tracks producer prices",
+          "Core excludes food and energy",
+          "Demand pull vs cost push causes",
+          "Expectations become self-fulfilling",
+          "Phillips curve tradeoff debated"
+        ],
+        "hard": [
+          "Taylor rule guides policy rate",
+          "Natural rate of unemployment NAIRU",
+          "Rational expectations neutralize policy",
+          "Time inconsistency problem central banks",
+          "Fiscal dominance constrains monetary",
+          "Secular stagnation low r star"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Unemployment",
+          "Supply",
+          "Central Bank"
+        ],
+        "medium": [
+          "Demand",
+          "Monetary Policy",
+          "Equilibrium"
+        ],
+        "hard": [
+          "Recession",
+          "Fiscal Policy",
+          "GDP"
+        ]
+      }
+    },
+    {
+      "word": "Startup",
+      "sub": "Operations",
+      "diff": "easy",
+      "desc": "A newly established business designed to grow rapidly and scale quickly.",
+      "tags": [
+        "operations",
+        "new",
+        "growth",
+        "scale"
+      ],
+      "hints": {
+        "easy": [
+          "Run the business day to day",
+          "Processes turn inputs to outputs",
+          "Efficiency saves money",
+          "Quality keeps customers",
+          "Inventory ties up cash",
+          "Supply chain must be reliable"
+        ],
+        "medium": [
+          "Lean eliminates waste",
+          "Six sigma reduces defects",
+          "Just in time minimizes inventory",
+          "Capacity planning matches demand",
+          "Bottlenecks limit throughput",
+          "KPIs drive continuous improvement"
+        ],
+        "hard": [
+          "Theory of constraints optimizes flow",
+          "Value stream mapping finds waste",
+          "Digital twin simulates operations",
+          "Predictive maintenance prevents downtime",
+          "Blockchain enables traceability",
+          "Resilience beats efficiency alone"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Quality",
+          "Capacity",
+          "Efficiency"
+        ],
+        "medium": [
+          "Supply Chain",
+          "Inventory",
+          "Business Model"
+        ],
+        "hard": [
+          "Outsourcing",
+          "KPI",
+          "Bottleneck"
+        ]
+      }
+    },
+    {
+      "word": "Scale-up",
+      "sub": "Operations",
+      "diff": "medium",
+      "desc": "A company that has validated its product and is growing rapidly.",
+      "tags": [
+        "operations",
+        "growth",
+        "validated",
+        "expansion"
+      ],
+      "hints": {
+        "easy": [
+          "Run the business day to day",
+          "Processes turn inputs to outputs",
+          "Efficiency saves money",
+          "Quality keeps customers",
+          "Inventory ties up cash",
+          "Supply chain must be reliable"
+        ],
+        "medium": [
+          "Lean eliminates waste",
+          "Six sigma reduces defects",
+          "Just in time minimizes inventory",
+          "Capacity planning matches demand",
+          "Bottlenecks limit throughput",
+          "KPIs drive continuous improvement"
+        ],
+        "hard": [
+          "Theory of constraints optimizes flow",
+          "Value stream mapping finds waste",
+          "Digital twin simulates operations",
+          "Predictive maintenance prevents downtime",
+          "Blockchain enables traceability",
+          "Resilience beats efficiency alone"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Inventory",
+          "Outsourcing",
+          "Business Model"
+        ],
+        "medium": [
+          "Efficiency",
+          "Bottleneck",
+          "Quality"
+        ],
+        "hard": [
+          "Process",
+          "Startup",
+          "KPI"
+        ]
+      }
+    },
+    {
+      "word": "Business Model",
+      "sub": "Operations",
+      "diff": "medium",
+      "desc": "A company's plan for generating revenue and making a profit.",
+      "tags": [
+        "operations",
+        "plan",
+        "revenue",
+        "profit"
+      ],
+      "hints": {
+        "easy": [
+          "Run the business day to day",
+          "Processes turn inputs to outputs",
+          "Efficiency saves money",
+          "Quality keeps customers",
+          "Inventory ties up cash",
+          "Supply chain must be reliable"
+        ],
+        "medium": [
+          "Lean eliminates waste",
+          "Six sigma reduces defects",
+          "Just in time minimizes inventory",
+          "Capacity planning matches demand",
+          "Bottlenecks limit throughput",
+          "KPIs drive continuous improvement"
+        ],
+        "hard": [
+          "Theory of constraints optimizes flow",
+          "Value stream mapping finds waste",
+          "Digital twin simulates operations",
+          "Predictive maintenance prevents downtime",
+          "Blockchain enables traceability",
+          "Resilience beats efficiency alone"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Bottleneck",
+          "Startup",
+          "Supply Chain"
+        ],
+        "medium": [
+          "Scale-up",
+          "KPI",
+          "Inventory"
+        ],
+        "hard": [
+          "Capacity",
+          "Efficiency",
+          "Outsourcing"
+        ]
+      }
+    },
+    {
+      "word": "Value Proposition",
+      "sub": "Operations",
+      "diff": "medium",
+      "desc": "The unique value a company promises to deliver to customers.",
+      "tags": [
+        "operations",
+        "unique-value",
+        "customers",
+        "promise"
+      ],
+      "hints": {
+        "easy": [
+          "Run the business day to day",
+          "Processes turn inputs to outputs",
+          "Efficiency saves money",
+          "Quality keeps customers",
+          "Inventory ties up cash",
+          "Supply chain must be reliable"
+        ],
+        "medium": [
+          "Lean eliminates waste",
+          "Six sigma reduces defects",
+          "Just in time minimizes inventory",
+          "Capacity planning matches demand",
+          "Bottlenecks limit throughput",
+          "KPIs drive continuous improvement"
+        ],
+        "hard": [
+          "Theory of constraints optimizes flow",
+          "Value stream mapping finds waste",
+          "Digital twin simulates operations",
+          "Predictive maintenance prevents downtime",
+          "Blockchain enables traceability",
+          "Resilience beats efficiency alone"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Business Model",
+          "Capacity",
+          "Startup"
+        ],
+        "medium": [
+          "Process",
+          "KPI",
+          "Efficiency"
+        ],
+        "hard": [
+          "Inventory",
+          "Supply Chain",
+          "Quality"
+        ]
+      }
+    },
+    {
+      "word": "KPI",
+      "sub": "Operations",
+      "diff": "medium",
+      "desc": "Key Performance Indicator; a measurable value showing how effectively objectives are achieved.",
+      "tags": [
+        "operations",
+        "metric",
+        "performance",
+        "objectives"
+      ],
+      "hints": {
+        "easy": [
+          "Run the business day to day",
+          "Processes turn inputs to outputs",
+          "Efficiency saves money",
+          "Quality keeps customers",
+          "Inventory ties up cash",
+          "Supply chain must be reliable"
+        ],
+        "medium": [
+          "Lean eliminates waste",
+          "Six sigma reduces defects",
+          "Just in time minimizes inventory",
+          "Capacity planning matches demand",
+          "Bottlenecks limit throughput",
+          "KPIs drive continuous improvement"
+        ],
+        "hard": [
+          "Theory of constraints optimizes flow",
+          "Value stream mapping finds waste",
+          "Digital twin simulates operations",
+          "Predictive maintenance prevents downtime",
+          "Blockchain enables traceability",
+          "Resilience beats efficiency alone"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Outsourcing",
+          "Efficiency",
+          "Process"
+        ],
+        "medium": [
+          "Scale-up",
+          "Capacity",
+          "Inventory"
+        ],
+        "hard": [
+          "Business Model",
+          "Quality",
+          "Startup"
+        ]
+      }
+    },
+    {
+      "word": "ROI",
+      "sub": "Operations",
+      "diff": "medium",
+      "desc": "Return on Investment; profit relative to cost of investment.",
+      "tags": [
+        "operations",
+        "return",
+        "investment",
+        "efficiency"
+      ],
+      "hints": {
+        "easy": [
+          "Run the business day to day",
+          "Processes turn inputs to outputs",
+          "Efficiency saves money",
+          "Quality keeps customers",
+          "Inventory ties up cash",
+          "Supply chain must be reliable"
+        ],
+        "medium": [
+          "Lean eliminates waste",
+          "Six sigma reduces defects",
+          "Just in time minimizes inventory",
+          "Capacity planning matches demand",
+          "Bottlenecks limit throughput",
+          "KPIs drive continuous improvement"
+        ],
+        "hard": [
+          "Theory of constraints optimizes flow",
+          "Value stream mapping finds waste",
+          "Digital twin simulates operations",
+          "Predictive maintenance prevents downtime",
+          "Blockchain enables traceability",
+          "Resilience beats efficiency alone"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Process",
+          "Scale-up",
+          "Inventory"
+        ],
+        "medium": [
+          "Business Model",
+          "Outsourcing",
+          "Quality"
+        ],
+        "hard": [
+          "Bottleneck",
+          "Startup",
+          "Capacity"
+        ]
+      }
+    },
+    {
+      "word": "Outsourcing",
+      "sub": "Operations",
+      "diff": "medium",
+      "desc": "Hiring external parties to perform services traditionally done in-house.",
+      "tags": [
+        "operations",
+        "external",
+        "cost-reduction",
+        "focus"
+      ],
+      "hints": {
+        "easy": [
+          "Run the business day to day",
+          "Processes turn inputs to outputs",
+          "Efficiency saves money",
+          "Quality keeps customers",
+          "Inventory ties up cash",
+          "Supply chain must be reliable"
+        ],
+        "medium": [
+          "Lean eliminates waste",
+          "Six sigma reduces defects",
+          "Just in time minimizes inventory",
+          "Capacity planning matches demand",
+          "Bottlenecks limit throughput",
+          "KPIs drive continuous improvement"
+        ],
+        "hard": [
+          "Theory of constraints optimizes flow",
+          "Value stream mapping finds waste",
+          "Digital twin simulates operations",
+          "Predictive maintenance prevents downtime",
+          "Blockchain enables traceability",
+          "Resilience beats efficiency alone"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Process",
+          "Startup",
+          "Supply Chain"
+        ],
+        "medium": [
+          "Scale-up",
+          "Business Model",
+          "Quality"
+        ],
+        "hard": [
+          "Inventory",
+          "KPI",
+          "Efficiency"
+        ]
+      }
+    },
+    {
+      "word": "Supply Chain Management",
+      "sub": "Operations",
+      "diff": "hard",
+      "desc": "Managing the flow of goods and services from raw materials to final product.",
+      "tags": [
+        "operations",
+        "flow",
+        "goods",
+        "management"
+      ],
+      "hints": {
+        "easy": [
+          "Run the business day to day",
+          "Processes turn inputs to outputs",
+          "Efficiency saves money",
+          "Quality keeps customers",
+          "Inventory ties up cash",
+          "Supply chain must be reliable"
+        ],
+        "medium": [
+          "Lean eliminates waste",
+          "Six sigma reduces defects",
+          "Just in time minimizes inventory",
+          "Capacity planning matches demand",
+          "Bottlenecks limit throughput",
+          "KPIs drive continuous improvement"
+        ],
+        "hard": [
+          "Theory of constraints optimizes flow",
+          "Value stream mapping finds waste",
+          "Digital twin simulates operations",
+          "Predictive maintenance prevents downtime",
+          "Blockchain enables traceability",
+          "Resilience beats efficiency alone"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Capacity",
+          "Scale-up",
+          "Outsourcing"
+        ],
+        "medium": [
+          "Supply Chain",
+          "Efficiency",
+          "Startup"
+        ],
+        "hard": [
+          "Inventory",
+          "Business Model",
+          "Bottleneck"
+        ]
+      }
+    },
+    {
+      "word": "Brand",
+      "sub": "Marketing",
+      "diff": "easy",
+      "desc": "A name, term, design, or symbol identifying a seller's goods or services.",
+      "tags": [
+        "marketing",
+        "identity",
+        "recognition",
+        "differentiation"
+      ],
+      "hints": {
+        "easy": [
+          "Attract and keep customers",
+          "Know your target audience",
+          "Brand builds trust and loyalty",
+          "Content educates and engages",
+          "Social media amplifies reach",
+          "Measure what matters"
+        ],
+        "medium": [
+          "Funnel stages awareness to advocacy",
+          "Persona profiles ideal customers",
+          "Positioning differentiates from competitors",
+          "Customer lifetime value guides spend",
+          "Attribution models credit channels",
+          "A/B testing optimizes conversion"
+        ],
+        "hard": [
+          "Multi-touch attribution fractional",
+          "Marketing mix modeling econometric",
+          "Incrementality testing isolates lift",
+          "Privacy changes limit tracking",
+          "First party data becomes critical",
+          "Clean rooms enable collaboration"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Churn",
+          "Content",
+          "Funnel"
+        ],
+        "medium": [
+          "Conversion",
+          "SEO",
+          "Target Market"
+        ],
+        "hard": [
+          "Lead",
+          "Campaign",
+          "Acquisition"
+        ]
+      }
+    },
+    {
+      "word": "Target Market",
+      "sub": "Marketing",
+      "diff": "medium",
+      "desc": "A specific group of consumers a company aims to reach with its products.",
+      "tags": [
+        "marketing",
+        "consumers",
+        "segment",
+        "focus"
+      ],
+      "hints": {
+        "easy": [
+          "Attract and keep customers",
+          "Know your target audience",
+          "Brand builds trust and loyalty",
+          "Content educates and engages",
+          "Social media amplifies reach",
+          "Measure what matters"
+        ],
+        "medium": [
+          "Funnel stages awareness to advocacy",
+          "Persona profiles ideal customers",
+          "Positioning differentiates from competitors",
+          "Customer lifetime value guides spend",
+          "Attribution models credit channels",
+          "A/B testing optimizes conversion"
+        ],
+        "hard": [
+          "Multi-touch attribution fractional",
+          "Marketing mix modeling econometric",
+          "Incrementality testing isolates lift",
+          "Privacy changes limit tracking",
+          "First party data becomes critical",
+          "Clean rooms enable collaboration"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Conversion",
+          "Retention",
+          "Content"
+        ],
+        "medium": [
+          "Churn",
+          "Social Media",
+          "Funnel"
+        ],
+        "hard": [
+          "Brand",
+          "Lead",
+          "Campaign"
+        ]
+      }
+    },
+    {
+      "word": "Customer Acquisition",
+      "sub": "Marketing",
+      "diff": "medium",
+      "desc": "The process of gaining new customers through marketing and sales efforts.",
+      "tags": [
+        "marketing",
+        "new-customers",
+        "growth",
+        "cost"
+      ],
+      "hints": {
+        "easy": [
+          "Attract and keep customers",
+          "Know your target audience",
+          "Brand builds trust and loyalty",
+          "Content educates and engages",
+          "Social media amplifies reach",
+          "Measure what matters"
+        ],
+        "medium": [
+          "Funnel stages awareness to advocacy",
+          "Persona profiles ideal customers",
+          "Positioning differentiates from competitors",
+          "Customer lifetime value guides spend",
+          "Attribution models credit channels",
+          "A/B testing optimizes conversion"
+        ],
+        "hard": [
+          "Multi-touch attribution fractional",
+          "Marketing mix modeling econometric",
+          "Incrementality testing isolates lift",
+          "Privacy changes limit tracking",
+          "First party data becomes critical",
+          "Clean rooms enable collaboration"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Social Media",
+          "Funnel",
+          "SEO"
+        ],
+        "medium": [
+          "Acquisition",
+          "Content",
+          "Conversion"
+        ],
+        "hard": [
+          "Brand",
+          "Target Market",
+          "Retention"
+        ]
+      }
+    },
+    {
+      "word": "Retention",
+      "sub": "Marketing",
+      "diff": "medium",
+      "desc": "The ability to keep existing customers continuing to buy or subscribe.",
+      "tags": [
+        "marketing",
+        "loyalty",
+        "existing-customers",
+        "churn-reduction"
+      ],
+      "hints": {
+        "easy": [
+          "Attract and keep customers",
+          "Know your target audience",
+          "Brand builds trust and loyalty",
+          "Content educates and engages",
+          "Social media amplifies reach",
+          "Measure what matters"
+        ],
+        "medium": [
+          "Funnel stages awareness to advocacy",
+          "Persona profiles ideal customers",
+          "Positioning differentiates from competitors",
+          "Customer lifetime value guides spend",
+          "Attribution models credit channels",
+          "A/B testing optimizes conversion"
+        ],
+        "hard": [
+          "Multi-touch attribution fractional",
+          "Marketing mix modeling econometric",
+          "Incrementality testing isolates lift",
+          "Privacy changes limit tracking",
+          "First party data becomes critical",
+          "Clean rooms enable collaboration"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Content",
+          "Conversion",
+          "Churn"
+        ],
+        "medium": [
+          "Brand",
+          "SEO",
+          "Campaign"
+        ],
+        "hard": [
+          "Target Market",
+          "Social Media",
+          "Acquisition"
+        ]
+      }
+    },
+    {
+      "word": "Churn Rate",
+      "sub": "Marketing",
+      "diff": "medium",
+      "desc": "The percentage of customers who stop using a product or service over a period.",
+      "tags": [
+        "marketing",
+        "attrition",
+        "loss",
+        "subscription"
+      ],
+      "hints": {
+        "easy": [
+          "Attract and keep customers",
+          "Know your target audience",
+          "Brand builds trust and loyalty",
+          "Content educates and engages",
+          "Social media amplifies reach",
+          "Measure what matters"
+        ],
+        "medium": [
+          "Funnel stages awareness to advocacy",
+          "Persona profiles ideal customers",
+          "Positioning differentiates from competitors",
+          "Customer lifetime value guides spend",
+          "Attribution models credit channels",
+          "A/B testing optimizes conversion"
+        ],
+        "hard": [
+          "Multi-touch attribution fractional",
+          "Marketing mix modeling econometric",
+          "Incrementality testing isolates lift",
+          "Privacy changes limit tracking",
+          "First party data becomes critical",
+          "Clean rooms enable collaboration"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Brand",
+          "Lead",
+          "Retention"
+        ],
+        "medium": [
+          "Acquisition",
+          "Content",
+          "Target Market"
+        ],
+        "hard": [
+          "Social Media",
+          "Churn",
+          "Conversion"
+        ]
+      }
+    },
+    {
+      "word": "Conversion Rate",
+      "sub": "Marketing",
+      "diff": "medium",
+      "desc": "The percentage of visitors who take a desired action like purchasing.",
+      "tags": [
+        "marketing",
+        "percentage",
+        "action",
+        "optimization"
+      ],
+      "hints": {
+        "easy": [
+          "Attract and keep customers",
+          "Know your target audience",
+          "Brand builds trust and loyalty",
+          "Content educates and engages",
+          "Social media amplifies reach",
+          "Measure what matters"
+        ],
+        "medium": [
+          "Funnel stages awareness to advocacy",
+          "Persona profiles ideal customers",
+          "Positioning differentiates from competitors",
+          "Customer lifetime value guides spend",
+          "Attribution models credit channels",
+          "A/B testing optimizes conversion"
+        ],
+        "hard": [
+          "Multi-touch attribution fractional",
+          "Marketing mix modeling econometric",
+          "Incrementality testing isolates lift",
+          "Privacy changes limit tracking",
+          "First party data becomes critical",
+          "Clean rooms enable collaboration"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Brand",
+          "Social Media",
+          "Target Market"
+        ],
+        "medium": [
+          "SEO",
+          "Churn",
+          "Acquisition"
+        ],
+        "hard": [
+          "Retention",
+          "Campaign",
+          "Conversion"
+        ]
+      }
+    },
+    {
+      "word": "Lead Generation",
+      "sub": "Marketing",
+      "diff": "medium",
+      "desc": "Attracting and converting prospects into potential customers.",
+      "tags": [
+        "marketing",
+        "prospects",
+        "potential-customers",
+        "funnel"
+      ],
+      "hints": {
+        "easy": [
+          "Attract and keep customers",
+          "Know your target audience",
+          "Brand builds trust and loyalty",
+          "Content educates and engages",
+          "Social media amplifies reach",
+          "Measure what matters"
+        ],
+        "medium": [
+          "Funnel stages awareness to advocacy",
+          "Persona profiles ideal customers",
+          "Positioning differentiates from competitors",
+          "Customer lifetime value guides spend",
+          "Attribution models credit channels",
+          "A/B testing optimizes conversion"
+        ],
+        "hard": [
+          "Multi-touch attribution fractional",
+          "Marketing mix modeling econometric",
+          "Incrementality testing isolates lift",
+          "Privacy changes limit tracking",
+          "First party data becomes critical",
+          "Clean rooms enable collaboration"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Campaign",
+          "Retention",
+          "Acquisition"
+        ],
+        "medium": [
+          "Churn",
+          "SEO",
+          "Content"
+        ],
+        "hard": [
+          "Brand",
+          "Funnel",
+          "Social Media"
+        ]
+      }
+    },
+    {
+      "word": "CRM",
+      "sub": "Sales",
+      "diff": "medium",
+      "desc": "Customer Relationship Management; software for managing customer interactions.",
+      "tags": [
+        "sales",
+        "software",
+        "relationships",
+        "data"
+      ],
+      "hints": {
+        "easy": [
+          "Turn leads into customers",
+          "Listen more than talk",
+          "Solve problems not push products",
+          "Follow up consistently",
+          "Close is not the end",
+          "Referrals are best leads"
+        ],
+        "medium": [
+          "Qualify before investing time",
+          "SPIN uncovers pain points",
+          "Challenger teaches tailors takes",
+          "Pipeline velocity predicts revenue",
+          "Sales enablement arms reps",
+          "Compensation drives behavior"
+        ],
+        "hard": [
+          "MEDDIC qualifies enterprise deals",
+          "Land and expand grows accounts",
+          "Revenue operations aligns GTM",
+          "Product led growth changes motion",
+          "Net revenue retention above 100%",
+          "Predictable revenue models scale"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Prospect",
+          "Demo",
+          "Quota"
+        ],
+        "medium": [
+          "Cross-selling",
+          "Proposal",
+          "Lead"
+        ],
+        "hard": [
+          "Close",
+          "Pipeline",
+          "Upselling"
+        ]
+      }
+    },
+    {
+      "word": "Sales Funnel",
+      "sub": "Sales",
+      "diff": "medium",
+      "desc": "The journey from prospect awareness to becoming a paying customer.",
+      "tags": [
+        "sales",
+        "journey",
+        "prospect",
+        "conversion"
+      ],
+      "hints": {
+        "easy": [
+          "Turn leads into customers",
+          "Listen more than talk",
+          "Solve problems not push products",
+          "Follow up consistently",
+          "Close is not the end",
+          "Referrals are best leads"
+        ],
+        "medium": [
+          "Qualify before investing time",
+          "SPIN uncovers pain points",
+          "Challenger teaches tailors takes",
+          "Pipeline velocity predicts revenue",
+          "Sales enablement arms reps",
+          "Compensation drives behavior"
+        ],
+        "hard": [
+          "MEDDIC qualifies enterprise deals",
+          "Land and expand grows accounts",
+          "Revenue operations aligns GTM",
+          "Product led growth changes motion",
+          "Net revenue retention above 100%",
+          "Predictable revenue models scale"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Quota",
+          "Cross-selling",
+          "Upselling"
+        ],
+        "medium": [
+          "Proposal",
+          "Pipeline",
+          "Demo"
+        ],
+        "hard": [
+          "Lead",
+          "Close",
+          "CRM"
+        ]
+      }
+    },
+    {
+      "word": "Upselling",
+      "sub": "Sales",
+      "diff": "medium",
+      "desc": "Encouraging customers to purchase a higher-end product than originally intended.",
+      "tags": [
+        "sales",
+        "higher-value",
+        "revenue",
+        "existing-customer"
+      ],
+      "hints": {
+        "easy": [
+          "Turn leads into customers",
+          "Listen more than talk",
+          "Solve problems not push products",
+          "Follow up consistently",
+          "Close is not the end",
+          "Referrals are best leads"
+        ],
+        "medium": [
+          "Qualify before investing time",
+          "SPIN uncovers pain points",
+          "Challenger teaches tailors takes",
+          "Pipeline velocity predicts revenue",
+          "Sales enablement arms reps",
+          "Compensation drives behavior"
+        ],
+        "hard": [
+          "MEDDIC qualifies enterprise deals",
+          "Land and expand grows accounts",
+          "Revenue operations aligns GTM",
+          "Product led growth changes motion",
+          "Net revenue retention above 100%",
+          "Predictable revenue models scale"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Cross-selling",
+          "Prospect",
+          "Close"
+        ],
+        "medium": [
+          "Demo",
+          "Lead",
+          "Quota"
+        ],
+        "hard": [
+          "Pipeline",
+          "Proposal",
+          "Sales Funnel"
+        ]
+      }
+    },
+    {
+      "word": "Franchise",
+      "sub": "Operations",
+      "diff": "medium",
+      "desc": "A business model where a franchisor licenses their brand and system to franchisees.",
+      "tags": [
+        "operations",
+        "license",
+        "brand",
+        "expansion"
+      ],
+      "hints": {
+        "easy": [
+          "Run the business day to day",
+          "Processes turn inputs to outputs",
+          "Efficiency saves money",
+          "Quality keeps customers",
+          "Inventory ties up cash",
+          "Supply chain must be reliable"
+        ],
+        "medium": [
+          "Lean eliminates waste",
+          "Six sigma reduces defects",
+          "Just in time minimizes inventory",
+          "Capacity planning matches demand",
+          "Bottlenecks limit throughput",
+          "KPIs drive continuous improvement"
+        ],
+        "hard": [
+          "Theory of constraints optimizes flow",
+          "Value stream mapping finds waste",
+          "Digital twin simulates operations",
+          "Predictive maintenance prevents downtime",
+          "Blockchain enables traceability",
+          "Resilience beats efficiency alone"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Startup",
+          "Supply Chain",
+          "Efficiency"
+        ],
+        "medium": [
+          "Business Model",
+          "Quality",
+          "Outsourcing"
+        ],
+        "hard": [
+          "Process",
+          "Bottleneck",
+          "Scale-up"
+        ]
+      }
+    },
+    {
+      "word": "Licensing",
+      "sub": "Operations",
+      "diff": "medium",
+      "desc": "Granting permission to use intellectual property in exchange for royalties.",
+      "tags": [
+        "operations",
+        "IP",
+        "royalties",
+        "permission"
+      ],
+      "hints": {
+        "easy": [
+          "Run the business day to day",
+          "Processes turn inputs to outputs",
+          "Efficiency saves money",
+          "Quality keeps customers",
+          "Inventory ties up cash",
+          "Supply chain must be reliable"
+        ],
+        "medium": [
+          "Lean eliminates waste",
+          "Six sigma reduces defects",
+          "Just in time minimizes inventory",
+          "Capacity planning matches demand",
+          "Bottlenecks limit throughput",
+          "KPIs drive continuous improvement"
+        ],
+        "hard": [
+          "Theory of constraints optimizes flow",
+          "Value stream mapping finds waste",
+          "Digital twin simulates operations",
+          "Predictive maintenance prevents downtime",
+          "Blockchain enables traceability",
+          "Resilience beats efficiency alone"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Bottleneck",
+          "Process",
+          "Inventory"
+        ],
+        "medium": [
+          "Startup",
+          "Outsourcing",
+          "Capacity"
+        ],
+        "hard": [
+          "Scale-up",
+          "Business Model",
+          "Supply Chain"
+        ]
+      }
+    },
+    {
+      "word": "Royalty",
+      "sub": "Finance",
+      "diff": "medium",
+      "desc": "A payment made for the ongoing use of an asset or intellectual property.",
+      "tags": [
+        "finance",
+        "payment",
+        "ongoing",
+        "IP"
+      ],
+      "hints": {
+        "easy": [
+          "Money coming into the business",
+          "Top line on financial statement",
+          "Sales times price per unit",
+          "Before any costs deducted",
+          "Growth metric investors watch",
+          "Recognized when earned"
+        ],
+        "medium": [
+          "Accrual vs cash recognition differs",
+          "Deferred revenue is a liability",
+          "Revenue recognition standards apply",
+          "Recurring vs one-time revenue",
+          "Concentration risk if few customers",
+          "Net of returns and allowances"
+        ],
+        "hard": [
+          "ASC 606 five-step model governs",
+          "Contract modifications reprice",
+          "Variable consideration constrained",
+          "Principal vs agent determination",
+          "Bill-and-hold arrangements",
+          "Consignment revenue timing"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Income",
+          "Revenue",
+          "Budget"
+        ],
+        "medium": [
+          "EBITDA",
+          "Profit",
+          "Cost"
+        ],
+        "hard": [
+          "ROI",
+          "Expense",
+          "Variance"
+        ]
+      }
+    },
+    {
+      "word": "Patent",
+      "sub": "Operations",
+      "diff": "medium",
+      "desc": "A government grant giving exclusive rights to an invention for a limited time.",
+      "tags": [
+        "operations",
+        "exclusive-rights",
+        "invention",
+        "protection"
+      ],
+      "hints": {
+        "easy": [
+          "Run the business day to day",
+          "Processes turn inputs to outputs",
+          "Efficiency saves money",
+          "Quality keeps customers",
+          "Inventory ties up cash",
+          "Supply chain must be reliable"
+        ],
+        "medium": [
+          "Lean eliminates waste",
+          "Six sigma reduces defects",
+          "Just in time minimizes inventory",
+          "Capacity planning matches demand",
+          "Bottlenecks limit throughput",
+          "KPIs drive continuous improvement"
+        ],
+        "hard": [
+          "Theory of constraints optimizes flow",
+          "Value stream mapping finds waste",
+          "Digital twin simulates operations",
+          "Predictive maintenance prevents downtime",
+          "Blockchain enables traceability",
+          "Resilience beats efficiency alone"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Business Model",
+          "Supply Chain",
+          "Inventory"
+        ],
+        "medium": [
+          "KPI",
+          "Process",
+          "Capacity"
+        ],
+        "hard": [
+          "Scale-up",
+          "Quality",
+          "Startup"
+        ]
+      }
+    },
+    {
+      "word": "Trademark",
+      "sub": "Operations",
+      "diff": "medium",
+      "desc": "A symbol, word, or phrase legally registered to represent a company or product.",
+      "tags": [
+        "operations",
+        "legal",
+        "brand",
+        "protection"
+      ],
+      "hints": {
+        "easy": [
+          "Run the business day to day",
+          "Processes turn inputs to outputs",
+          "Efficiency saves money",
+          "Quality keeps customers",
+          "Inventory ties up cash",
+          "Supply chain must be reliable"
+        ],
+        "medium": [
+          "Lean eliminates waste",
+          "Six sigma reduces defects",
+          "Just in time minimizes inventory",
+          "Capacity planning matches demand",
+          "Bottlenecks limit throughput",
+          "KPIs drive continuous improvement"
+        ],
+        "hard": [
+          "Theory of constraints optimizes flow",
+          "Value stream mapping finds waste",
+          "Digital twin simulates operations",
+          "Predictive maintenance prevents downtime",
+          "Blockchain enables traceability",
+          "Resilience beats efficiency alone"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "KPI",
+          "Outsourcing",
+          "Capacity"
+        ],
+        "medium": [
+          "Efficiency",
+          "Startup",
+          "Inventory"
+        ],
+        "hard": [
+          "Supply Chain",
+          "Scale-up",
+          "Process"
+        ]
+      }
+    },
+    {
+      "word": "Copyright",
+      "sub": "Operations",
+      "diff": "medium",
+      "desc": "Exclusive legal right to reproduce, publish, and sell creative works.",
+      "tags": [
+        "operations",
+        "creative",
+        "exclusive",
+        "legal"
+      ],
+      "hints": {
+        "easy": [
+          "Run the business day to day",
+          "Processes turn inputs to outputs",
+          "Efficiency saves money",
+          "Quality keeps customers",
+          "Inventory ties up cash",
+          "Supply chain must be reliable"
+        ],
+        "medium": [
+          "Lean eliminates waste",
+          "Six sigma reduces defects",
+          "Just in time minimizes inventory",
+          "Capacity planning matches demand",
+          "Bottlenecks limit throughput",
+          "KPIs drive continuous improvement"
+        ],
+        "hard": [
+          "Theory of constraints optimizes flow",
+          "Value stream mapping finds waste",
+          "Digital twin simulates operations",
+          "Predictive maintenance prevents downtime",
+          "Blockchain enables traceability",
+          "Resilience beats efficiency alone"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Outsourcing",
+          "Process",
+          "Efficiency"
+        ],
+        "medium": [
+          "KPI",
+          "Bottleneck",
+          "Business Model"
+        ],
+        "hard": [
+          "Inventory",
+          "Scale-up",
+          "Quality"
+        ]
+      }
+    },
+    {
+      "word": "Compliance",
+      "sub": "Operations",
+      "diff": "hard",
+      "desc": "Adhering to laws, regulations, and standards relevant to business operations.",
+      "tags": [
+        "operations",
+        "laws",
+        "regulations",
+        "adherence"
+      ],
+      "hints": {
+        "easy": [
+          "Run the business day to day",
+          "Processes turn inputs to outputs",
+          "Efficiency saves money",
+          "Quality keeps customers",
+          "Inventory ties up cash",
+          "Supply chain must be reliable"
+        ],
+        "medium": [
+          "Lean eliminates waste",
+          "Six sigma reduces defects",
+          "Just in time minimizes inventory",
+          "Capacity planning matches demand",
+          "Bottlenecks limit throughput",
+          "KPIs drive continuous improvement"
+        ],
+        "hard": [
+          "Theory of constraints optimizes flow",
+          "Value stream mapping finds waste",
+          "Digital twin simulates operations",
+          "Predictive maintenance prevents downtime",
+          "Blockchain enables traceability",
+          "Resilience beats efficiency alone"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Supply Chain",
+          "Business Model",
+          "Bottleneck"
+        ],
+        "medium": [
+          "Quality",
+          "Efficiency",
+          "KPI"
+        ],
+        "hard": [
+          "Capacity",
+          "Inventory",
+          "Outsourcing"
+        ]
+      }
+    },
+    {
+      "word": "Audit",
+      "sub": "Accounting",
+      "diff": "medium",
+      "desc": "An official inspection of financial records to verify accuracy and compliance.",
+      "tags": [
+        "accounting",
+        "inspection",
+        "verification",
+        "records"
+      ],
+      "hints": {
+        "easy": [
+          "Shows what company owns and owes",
+          "Assets equal liabilities plus equity",
+          "Snapshot at a point in time",
+          "Current and non-current sections",
+          "Must always balance",
+          "Prepared quarterly and annually"
+        ],
+        "medium": [
+          "GAAP or IFRS standards apply",
+          "Goodwill tested for impairment",
+          "Inventory valued at lower cost or market",
+          "Receivables net of allowance",
+          "Depreciation methods affect values",
+          "Off-balance-sheet items disclosed"
+        ],
+        "hard": [
+          "Fair value hierarchy levels",
+          "Variable interest entities consolidate",
+          "Lease capitalization under ASC 842",
+          "Deferred tax assets need valuation allowance",
+          "Pension obligations discounted",
+          "Contingent liabilities probability assessed"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Depreciation",
+          "Journal",
+          "Ledger"
+        ],
+        "medium": [
+          "Expense",
+          "Liability",
+          "Asset"
+        ],
+        "hard": [
+          "Equity",
+          "Revenue",
+          "Balance Sheet"
+        ]
+      }
+    },
+    {
+      "word": "Budget",
+      "sub": "Finance",
+      "diff": "easy",
+      "desc": "A financial plan estimating income and expenses for a future period.",
+      "tags": [
+        "finance",
+        "plan",
+        "income",
+        "expenses"
+      ],
+      "hints": {
+        "easy": [
+          "Money coming into the business",
+          "Top line on financial statement",
+          "Sales times price per unit",
+          "Before any costs deducted",
+          "Growth metric investors watch",
+          "Recognized when earned"
+        ],
+        "medium": [
+          "Accrual vs cash recognition differs",
+          "Deferred revenue is a liability",
+          "Revenue recognition standards apply",
+          "Recurring vs one-time revenue",
+          "Concentration risk if few customers",
+          "Net of returns and allowances"
+        ],
+        "hard": [
+          "ASC 606 five-step model governs",
+          "Contract modifications reprice",
+          "Variable consideration constrained",
+          "Principal vs agent determination",
+          "Bill-and-hold arrangements",
+          "Consignment revenue timing"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Income",
+          "Variance",
+          "Expense"
+        ],
+        "medium": [
+          "ROI",
+          "Cost",
+          "Cash Flow"
+        ],
+        "hard": [
+          "Profit",
+          "EBITDA",
+          "Forecast"
+        ]
+      }
+    },
+    {
+      "word": "Forecast",
+      "sub": "Finance",
+      "diff": "medium",
+      "desc": "A prediction of future financial outcomes based on historical data and trends.",
+      "tags": [
+        "finance",
+        "prediction",
+        "future",
+        "planning"
+      ],
+      "hints": {
+        "easy": [
+          "Money coming into the business",
+          "Top line on financial statement",
+          "Sales times price per unit",
+          "Before any costs deducted",
+          "Growth metric investors watch",
+          "Recognized when earned"
+        ],
+        "medium": [
+          "Accrual vs cash recognition differs",
+          "Deferred revenue is a liability",
+          "Revenue recognition standards apply",
+          "Recurring vs one-time revenue",
+          "Concentration risk if few customers",
+          "Net of returns and allowances"
+        ],
+        "hard": [
+          "ASC 606 five-step model governs",
+          "Contract modifications reprice",
+          "Variable consideration constrained",
+          "Principal vs agent determination",
+          "Bill-and-hold arrangements",
+          "Consignment revenue timing"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Margin",
+          "Budget",
+          "Profit"
+        ],
+        "medium": [
+          "Expense",
+          "Cost",
+          "EBITDA"
+        ],
+        "hard": [
+          "Cash Flow",
+          "ROI",
+          "Revenue"
+        ]
+      }
+    }
+  ]
+}

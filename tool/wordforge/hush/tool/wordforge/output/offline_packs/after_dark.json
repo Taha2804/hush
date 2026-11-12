@@ -1,0 +1,3916 @@
+{
+  "id": "after_dark",
+  "name": "18+ - After Dark",
+  "version": 2,
+  "schema_version": 3,
+  "is_adult": true,
+  "content_version": "1.0.0",
+  "generated_at": "2026-11-12T12:00:34.137815Z",
+  "words": [
+    {
+      "word": "Tinder",
+      "sub": "Dating Apps",
+      "diff": "easy",
+      "desc": "A popular location-based dating app using swipe mechanics to match users.",
+      "tags": [
+        "dating-app",
+        "swipe",
+        "match",
+        "mobile"
+      ],
+      "hints": {
+        "easy": [
+          "Swipe to find matches",
+          "Meet people near you",
+          "Chat before meeting",
+          "Profile with photos",
+          "Free to download",
+          "Match and message"
+        ],
+        "medium": [
+          "Algorithm suggests compatibility",
+          "Premium features boost visibility",
+          "Verification reduces catfishing",
+          "Prompts reveal personality",
+          "Location-based matching",
+          "Unmatch removes connection"
+        ],
+        "hard": [
+          "ELO score ranks desirability",
+          "Shadowban limits profile views",
+          "API enables automation tools",
+          "Data monetization concerns",
+          "Gamification drives retention",
+          "Network effects create moats"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Coffee Meets Bagel",
+          "Plenty of Fish",
+          "Feeld"
+        ],
+        "medium": [
+          "The League",
+          "OkCupid",
+          "Bumble"
+        ],
+        "hard": [
+          "Hinge",
+          "Grindr",
+          "Raya"
+        ]
+      }
+    },
+    {
+      "word": "Bumble",
+      "sub": "Dating Apps",
+      "diff": "easy",
+      "desc": "A dating app where women must initiate conversation after a match.",
+      "tags": [
+        "dating-app",
+        "women-first",
+        "feminist",
+        "match"
+      ],
+      "hints": {
+        "easy": [
+          "Swipe to find matches",
+          "Meet people near you",
+          "Chat before meeting",
+          "Profile with photos",
+          "Free to download",
+          "Match and message"
+        ],
+        "medium": [
+          "Algorithm suggests compatibility",
+          "Premium features boost visibility",
+          "Verification reduces catfishing",
+          "Prompts reveal personality",
+          "Location-based matching",
+          "Unmatch removes connection"
+        ],
+        "hard": [
+          "ELO score ranks desirability",
+          "Shadowban limits profile views",
+          "API enables automation tools",
+          "Data monetization concerns",
+          "Gamification drives retention",
+          "Network effects create moats"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "OkCupid",
+          "The League",
+          "Raya"
+        ],
+        "medium": [
+          "Tinder",
+          "Grindr",
+          "Feeld"
+        ],
+        "hard": [
+          "eHarmony",
+          "Coffee Meets Bagel",
+          "Plenty of Fish"
+        ]
+      }
+    },
+    {
+      "word": "Hinge",
+      "sub": "Dating Apps",
+      "diff": "medium",
+      "desc": "A dating app designed to be deleted, focusing on prompts and detailed profiles.",
+      "tags": [
+        "dating-app",
+        "prompts",
+        "relationships",
+        "serious"
+      ],
+      "hints": {
+        "easy": [
+          "Swipe to find matches",
+          "Meet people near you",
+          "Chat before meeting",
+          "Profile with photos",
+          "Free to download",
+          "Match and message"
+        ],
+        "medium": [
+          "Algorithm suggests compatibility",
+          "Premium features boost visibility",
+          "Verification reduces catfishing",
+          "Prompts reveal personality",
+          "Location-based matching",
+          "Unmatch removes connection"
+        ],
+        "hard": [
+          "ELO score ranks desirability",
+          "Shadowban limits profile views",
+          "API enables automation tools",
+          "Data monetization concerns",
+          "Gamification drives retention",
+          "Network effects create moats"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Feeld",
+          "eHarmony",
+          "OkCupid"
+        ],
+        "medium": [
+          "Tinder",
+          "Bumble",
+          "Coffee Meets Bagel"
+        ],
+        "hard": [
+          "Plenty of Fish",
+          "Raya",
+          "The League"
+        ]
+      }
+    },
+    {
+      "word": "Grindr",
+      "sub": "Dating Apps",
+      "diff": "medium",
+      "desc": "A location-based dating app for gay, bi, trans, and queer people.",
+      "tags": [
+        "dating-app",
+        "lgbtq",
+        "location",
+        "geosocial"
+      ],
+      "hints": {
+        "easy": [
+          "Swipe to find matches",
+          "Meet people near you",
+          "Chat before meeting",
+          "Profile with photos",
+          "Free to download",
+          "Match and message"
+        ],
+        "medium": [
+          "Algorithm suggests compatibility",
+          "Premium features boost visibility",
+          "Verification reduces catfishing",
+          "Prompts reveal personality",
+          "Location-based matching",
+          "Unmatch removes connection"
+        ],
+        "hard": [
+          "ELO score ranks desirability",
+          "Shadowban limits profile views",
+          "API enables automation tools",
+          "Data monetization concerns",
+          "Gamification drives retention",
+          "Network effects create moats"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Match",
+          "Plenty of Fish",
+          "Coffee Meets Bagel"
+        ],
+        "medium": [
+          "The League",
+          "eHarmony",
+          "Raya"
+        ],
+        "hard": [
+          "OkCupid",
+          "Tinder",
+          "Feeld"
+        ]
+      }
+    },
+    {
+      "word": "Match",
+      "sub": "Dating Apps",
+      "diff": "easy",
+      "desc": "One of the oldest online dating services, now also a major app platform.",
+      "tags": [
+        "dating-app",
+        "online-dating",
+        "veteran",
+        "subscription"
+      ],
+      "hints": {
+        "easy": [
+          "Swipe to find matches",
+          "Meet people near you",
+          "Chat before meeting",
+          "Profile with photos",
+          "Free to download",
+          "Match and message"
+        ],
+        "medium": [
+          "Algorithm suggests compatibility",
+          "Premium features boost visibility",
+          "Verification reduces catfishing",
+          "Prompts reveal personality",
+          "Location-based matching",
+          "Unmatch removes connection"
+        ],
+        "hard": [
+          "ELO score ranks desirability",
+          "Shadowban limits profile views",
+          "API enables automation tools",
+          "Data monetization concerns",
+          "Gamification drives retention",
+          "Network effects create moats"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Coffee Meets Bagel",
+          "Hinge",
+          "Feeld"
+        ],
+        "medium": [
+          "Bumble",
+          "Plenty of Fish",
+          "OkCupid"
+        ],
+        "hard": [
+          "Grindr",
+          "Raya",
+          "The League"
+        ]
+      }
+    },
+    {
+      "word": "Swipe Right",
+      "sub": "Dating Apps",
+      "diff": "easy",
+      "desc": "The gesture indicating interest in a potential match on swipe-based apps.",
+      "tags": [
+        "dating-app",
+        "gesture",
+        "interest",
+        "swipe"
+      ],
+      "hints": {
+        "easy": [
+          "Swipe to find matches",
+          "Meet people near you",
+          "Chat before meeting",
+          "Profile with photos",
+          "Free to download",
+          "Match and message"
+        ],
+        "medium": [
+          "Algorithm suggests compatibility",
+          "Premium features boost visibility",
+          "Verification reduces catfishing",
+          "Prompts reveal personality",
+          "Location-based matching",
+          "Unmatch removes connection"
+        ],
+        "hard": [
+          "ELO score ranks desirability",
+          "Shadowban limits profile views",
+          "API enables automation tools",
+          "Data monetization concerns",
+          "Gamification drives retention",
+          "Network effects create moats"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Hinge",
+          "Match",
+          "The League"
+        ],
+        "medium": [
+          "Coffee Meets Bagel",
+          "eHarmony",
+          "Bumble"
+        ],
+        "hard": [
+          "Feeld",
+          "Raya",
+          "OkCupid"
+        ]
+      }
+    },
+    {
+      "word": "Super Like",
+      "sub": "Dating Apps",
+      "diff": "easy",
+      "desc": "A premium feature signaling strong interest before the other person swipes.",
+      "tags": [
+        "dating-app",
+        "premium",
+        "interest",
+        "notification"
+      ],
+      "hints": {
+        "easy": [
+          "Swipe to find matches",
+          "Meet people near you",
+          "Chat before meeting",
+          "Profile with photos",
+          "Free to download",
+          "Match and message"
+        ],
+        "medium": [
+          "Algorithm suggests compatibility",
+          "Premium features boost visibility",
+          "Verification reduces catfishing",
+          "Prompts reveal personality",
+          "Location-based matching",
+          "Unmatch removes connection"
+        ],
+        "hard": [
+          "ELO score ranks desirability",
+          "Shadowban limits profile views",
+          "API enables automation tools",
+          "Data monetization concerns",
+          "Gamification drives retention",
+          "Network effects create moats"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Tinder",
+          "Plenty of Fish",
+          "Hinge"
+        ],
+        "medium": [
+          "OkCupid",
+          "Coffee Meets Bagel",
+          "eHarmony"
+        ],
+        "hard": [
+          "Raya",
+          "Feeld",
+          "The League"
+        ]
+      }
+    },
+    {
+      "word": "Catfish",
+      "sub": "Dating Apps",
+      "diff": "medium",
+      "desc": "Someone using a fake identity online to deceive others romantically.",
+      "tags": [
+        "dating-app",
+        "deception",
+        "fake-profile",
+        "scam"
+      ],
+      "hints": {
+        "easy": [
+          "Swipe to find matches",
+          "Meet people near you",
+          "Chat before meeting",
+          "Profile with photos",
+          "Free to download",
+          "Match and message"
+        ],
+        "medium": [
+          "Algorithm suggests compatibility",
+          "Premium features boost visibility",
+          "Verification reduces catfishing",
+          "Prompts reveal personality",
+          "Location-based matching",
+          "Unmatch removes connection"
+        ],
+        "hard": [
+          "ELO score ranks desirability",
+          "Shadowban limits profile views",
+          "API enables automation tools",
+          "Data monetization concerns",
+          "Gamification drives retention",
+          "Network effects create moats"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "eHarmony",
+          "OkCupid",
+          "Coffee Meets Bagel"
+        ],
+        "medium": [
+          "Hinge",
+          "Plenty of Fish",
+          "Match"
+        ],
+        "hard": [
+          "Feeld",
+          "Bumble",
+          "The League"
+        ]
+      }
+    },
+    {
+      "word": "Ghosting",
+      "sub": "Modern Dating",
+      "diff": "medium",
+      "desc": "Suddenly cutting off all communication without explanation after dating.",
+      "tags": [
+        "modern-dating",
+        "disappearance",
+        "communication",
+        "rejection"
+      ],
+      "hints": {
+        "easy": [
+          "Romance in the digital age",
+          "Texting defines early stages",
+          "Labels are complicated",
+          "Commitment varies by person",
+          "Communication is key",
+          "Boundaries matter"
+        ],
+        "medium": [
+          "Attachment styles affect dynamics",
+          "Love languages differ",
+          "Situationships blur lines",
+          "Ghosting avoids confrontation",
+          "Benching keeps options open",
+          "Red flags signal incompatibility"
+        ],
+        "hard": [
+          "Anxious-avoidant trap cycles",
+          "Paradox of choice paralyzes",
+          "Performative vulnerability masks",
+          "Digital intimacy lacks depth",
+          "Commodification of romance",
+          "Late-stage dating market dynamics"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Polyamory",
+          "Casual",
+          "FWB"
+        ],
+        "medium": [
+          "Throuple",
+          "Open Relationship",
+          "Committed"
+        ],
+        "hard": [
+          "Situationship",
+          "Dating",
+          "Relationship"
+        ]
+      }
+    },
+    {
+      "word": "Benching",
+      "sub": "Modern Dating",
+      "diff": "hard",
+      "desc": "Keeping someone as a backup option while continuing to date others.",
+      "tags": [
+        "modern-dating",
+        "backup",
+        "stringing-along",
+        "options"
+      ],
+      "hints": {
+        "easy": [
+          "Romance in the digital age",
+          "Texting defines early stages",
+          "Labels are complicated",
+          "Commitment varies by person",
+          "Communication is key",
+          "Boundaries matter"
+        ],
+        "medium": [
+          "Attachment styles affect dynamics",
+          "Love languages differ",
+          "Situationships blur lines",
+          "Ghosting avoids confrontation",
+          "Benching keeps options open",
+          "Red flags signal incompatibility"
+        ],
+        "hard": [
+          "Anxious-avoidant trap cycles",
+          "Paradox of choice paralyzes",
+          "Performative vulnerability masks",
+          "Digital intimacy lacks depth",
+          "Commodification of romance",
+          "Late-stage dating market dynamics"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Throuple",
+          "Situationship",
+          "Open Relationship"
+        ],
+        "medium": [
+          "FWB",
+          "Exclusive",
+          "Dating"
+        ],
+        "hard": [
+          "Polyamory",
+          "Relationship",
+          "Casual"
+        ]
+      }
+    },
+    {
+      "word": "Situationship",
+      "sub": "Modern Dating",
+      "diff": "medium",
+      "desc": "A romantic relationship without clear labels or commitment expectations.",
+      "tags": [
+        "modern-dating",
+        "undefined",
+        "casual",
+        "ambiguous"
+      ],
+      "hints": {
+        "easy": [
+          "Romance in the digital age",
+          "Texting defines early stages",
+          "Labels are complicated",
+          "Commitment varies by person",
+          "Communication is key",
+          "Boundaries matter"
+        ],
+        "medium": [
+          "Attachment styles affect dynamics",
+          "Love languages differ",
+          "Situationships blur lines",
+          "Ghosting avoids confrontation",
+          "Benching keeps options open",
+          "Red flags signal incompatibility"
+        ],
+        "hard": [
+          "Anxious-avoidant trap cycles",
+          "Paradox of choice paralyzes",
+          "Performative vulnerability masks",
+          "Digital intimacy lacks depth",
+          "Commodification of romance",
+          "Late-stage dating market dynamics"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "FWB",
+          "Ghosting",
+          "Throuple"
+        ],
+        "medium": [
+          "Benching",
+          "Open Relationship",
+          "Casual"
+        ],
+        "hard": [
+          "Relationship",
+          "Exclusive",
+          "Polyamory"
+        ]
+      }
+    },
+    {
+      "word": "Friends with Benefits",
+      "sub": "Modern Dating",
+      "diff": "easy",
+      "desc": "Friends who engage in sexual activity without romantic commitment.",
+      "tags": [
+        "modern-dating",
+        "casual-sex",
+        "friends",
+        "no-strings"
+      ],
+      "hints": {
+        "easy": [
+          "Romance in the digital age",
+          "Texting defines early stages",
+          "Labels are complicated",
+          "Commitment varies by person",
+          "Communication is key",
+          "Boundaries matter"
+        ],
+        "medium": [
+          "Attachment styles affect dynamics",
+          "Love languages differ",
+          "Situationships blur lines",
+          "Ghosting avoids confrontation",
+          "Benching keeps options open",
+          "Red flags signal incompatibility"
+        ],
+        "hard": [
+          "Anxious-avoidant trap cycles",
+          "Paradox of choice paralyzes",
+          "Performative vulnerability masks",
+          "Digital intimacy lacks depth",
+          "Commodification of romance",
+          "Late-stage dating market dynamics"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Open Relationship",
+          "Benching",
+          "Throuple"
+        ],
+        "medium": [
+          "FWB",
+          "Dating",
+          "Ghosting"
+        ],
+        "hard": [
+          "Situationship",
+          "Committed",
+          "Exclusive"
+        ]
+      }
+    },
+    {
+      "word": "Polyamory",
+      "sub": "Relationships",
+      "diff": "hard",
+      "desc": "Consensual non-monogamy involving multiple romantic relationships simultaneously.",
+      "tags": [
+        "relationships",
+        "non-monogamy",
+        "consensual",
+        "multiple-partners"
+      ],
+      "hints": {
+        "easy": [
+          "Romance in the digital age",
+          "Texting defines early stages",
+          "Labels are complicated",
+          "Commitment varies by person",
+          "Communication is key",
+          "Boundaries matter"
+        ],
+        "medium": [
+          "Attachment styles affect dynamics",
+          "Love languages differ",
+          "Situationships blur lines",
+          "Ghosting avoids confrontation",
+          "Benching keeps options open",
+          "Red flags signal incompatibility"
+        ],
+        "hard": [
+          "Anxious-avoidant trap cycles",
+          "Paradox of choice paralyzes",
+          "Performative vulnerability masks",
+          "Digital intimacy lacks depth",
+          "Commodification of romance",
+          "Late-stage dating market dynamics"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Casual",
+          "Committed",
+          "Dating"
+        ],
+        "medium": [
+          "Ghosting",
+          "Open Relationship",
+          "Relationship"
+        ],
+        "hard": [
+          "Benching",
+          "Situationship",
+          "Exclusive"
+        ]
+      }
+    },
+    {
+      "word": "Open Relationship",
+      "sub": "Relationships",
+      "diff": "medium",
+      "desc": "A committed relationship where partners agree to see other people sexually.",
+      "tags": [
+        "relationships",
+        "non-monogamy",
+        "agreement",
+        "boundaries"
+      ],
+      "hints": {
+        "easy": [
+          "Romance in the digital age",
+          "Texting defines early stages",
+          "Labels are complicated",
+          "Commitment varies by person",
+          "Communication is key",
+          "Boundaries matter"
+        ],
+        "medium": [
+          "Attachment styles affect dynamics",
+          "Love languages differ",
+          "Situationships blur lines",
+          "Ghosting avoids confrontation",
+          "Benching keeps options open",
+          "Red flags signal incompatibility"
+        ],
+        "hard": [
+          "Anxious-avoidant trap cycles",
+          "Paradox of choice paralyzes",
+          "Performative vulnerability masks",
+          "Digital intimacy lacks depth",
+          "Commodification of romance",
+          "Late-stage dating market dynamics"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Polyamory",
+          "Situationship",
+          "Dating"
+        ],
+        "medium": [
+          "Throuple",
+          "Casual",
+          "FWB"
+        ],
+        "hard": [
+          "Committed",
+          "Exclusive",
+          "Benching"
+        ]
+      }
+    },
+    {
+      "word": "Throuple",
+      "sub": "Relationships",
+      "diff": "hard",
+      "desc": "A three-person romantic relationship where all parties are involved with each other.",
+      "tags": [
+        "relationships",
+        "three",
+        "polyamory",
+        "triad"
+      ],
+      "hints": {
+        "easy": [
+          "Romance in the digital age",
+          "Texting defines early stages",
+          "Labels are complicated",
+          "Commitment varies by person",
+          "Communication is key",
+          "Boundaries matter"
+        ],
+        "medium": [
+          "Attachment styles affect dynamics",
+          "Love languages differ",
+          "Situationships blur lines",
+          "Ghosting avoids confrontation",
+          "Benching keeps options open",
+          "Red flags signal incompatibility"
+        ],
+        "hard": [
+          "Anxious-avoidant trap cycles",
+          "Paradox of choice paralyzes",
+          "Performative vulnerability masks",
+          "Digital intimacy lacks depth",
+          "Commodification of romance",
+          "Late-stage dating market dynamics"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Polyamory",
+          "FWB",
+          "Benching"
+        ],
+        "medium": [
+          "Ghosting",
+          "Open Relationship",
+          "Casual"
+        ],
+        "hard": [
+          "Relationship",
+          "Situationship",
+          "Exclusive"
+        ]
+      }
+    },
+    {
+      "word": "Nightclub",
+      "sub": "Nightlife",
+      "diff": "easy",
+      "desc": "A venue open late with music, dancing, and alcohol service.",
+      "tags": [
+        "nightlife",
+        "dancing",
+        "music",
+        "alcohol"
+      ],
+      "hints": {
+        "easy": [
+          "Go out at night",
+          "Music and dancing",
+          "Drinks with friends",
+          "Dress up for the venue",
+          "Stay out late",
+          "Social atmosphere"
+        ],
+        "medium": [
+          "Bottle service for VIP treatment",
+          "Guest list gets you in free",
+          "Cover charge at the door",
+          "Happy hour saves money",
+          "Last call ends the night",
+          "Designated driver stays sober"
+        ],
+        "hard": [
+          "Promoter economics drive traffic",
+          "Occupancy limits fire codes",
+          "Sound ordinances restrict hours",
+          "Liquor licenses regulate sales",
+          "Security manages crowd dynamics",
+          "Revenue per head optimizes yield"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Tavern",
+          "Pub",
+          "Lounge"
+        ],
+        "medium": [
+          "Brewery",
+          "Beer Garden",
+          "Wine Bar"
+        ],
+        "hard": [
+          "Rooftop Bar",
+          "Dive Bar",
+          "Bar"
+        ]
+      }
+    },
+    {
+      "word": "Bar",
+      "sub": "Nightlife",
+      "diff": "easy",
+      "desc": "An establishment serving alcoholic drinks for consumption on premises.",
+      "tags": [
+        "nightlife",
+        "drinks",
+        "social",
+        "alcohol"
+      ],
+      "hints": {
+        "easy": [
+          "Go out at night",
+          "Music and dancing",
+          "Drinks with friends",
+          "Dress up for the venue",
+          "Stay out late",
+          "Social atmosphere"
+        ],
+        "medium": [
+          "Bottle service for VIP treatment",
+          "Guest list gets you in free",
+          "Cover charge at the door",
+          "Happy hour saves money",
+          "Last call ends the night",
+          "Designated driver stays sober"
+        ],
+        "hard": [
+          "Promoter economics drive traffic",
+          "Occupancy limits fire codes",
+          "Sound ordinances restrict hours",
+          "Liquor licenses regulate sales",
+          "Security manages crowd dynamics",
+          "Revenue per head optimizes yield"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Brewery",
+          "Beer Garden",
+          "Cocktail Bar"
+        ],
+        "medium": [
+          "Pub",
+          "Wine Bar",
+          "Lounge"
+        ],
+        "hard": [
+          "Dive Bar",
+          "Nightclub",
+          "Rooftop Bar"
+        ]
+      }
+    },
+    {
+      "word": "Lounge",
+      "sub": "Nightlife",
+      "diff": "easy",
+      "desc": "A stylish bar with comfortable seating, often more upscale than a typical bar.",
+      "tags": [
+        "nightlife",
+        "upscale",
+        "seating",
+        "cocktails"
+      ],
+      "hints": {
+        "easy": [
+          "Go out at night",
+          "Music and dancing",
+          "Drinks with friends",
+          "Dress up for the venue",
+          "Stay out late",
+          "Social atmosphere"
+        ],
+        "medium": [
+          "Bottle service for VIP treatment",
+          "Guest list gets you in free",
+          "Cover charge at the door",
+          "Happy hour saves money",
+          "Last call ends the night",
+          "Designated driver stays sober"
+        ],
+        "hard": [
+          "Promoter economics drive traffic",
+          "Occupancy limits fire codes",
+          "Sound ordinances restrict hours",
+          "Liquor licenses regulate sales",
+          "Security manages crowd dynamics",
+          "Revenue per head optimizes yield"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Beer Garden",
+          "Nightclub",
+          "Tavern"
+        ],
+        "medium": [
+          "Speakeasy",
+          "Bar",
+          "Brewery"
+        ],
+        "hard": [
+          "Wine Bar",
+          "Dive Bar",
+          "Cocktail Bar"
+        ]
+      }
+    },
+    {
+      "word": "Speakeasy",
+      "sub": "Nightlife",
+      "diff": "medium",
+      "desc": "A hidden or unmarked bar evoking Prohibition-era clandestine drinking.",
+      "tags": [
+        "nightlife",
+        "hidden",
+        "prohibition",
+        "secret"
+      ],
+      "hints": {
+        "easy": [
+          "Go out at night",
+          "Music and dancing",
+          "Drinks with friends",
+          "Dress up for the venue",
+          "Stay out late",
+          "Social atmosphere"
+        ],
+        "medium": [
+          "Bottle service for VIP treatment",
+          "Guest list gets you in free",
+          "Cover charge at the door",
+          "Happy hour saves money",
+          "Last call ends the night",
+          "Designated driver stays sober"
+        ],
+        "hard": [
+          "Promoter economics drive traffic",
+          "Occupancy limits fire codes",
+          "Sound ordinances restrict hours",
+          "Liquor licenses regulate sales",
+          "Security manages crowd dynamics",
+          "Revenue per head optimizes yield"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Tavern",
+          "Lounge",
+          "Beer Garden"
+        ],
+        "medium": [
+          "Bar",
+          "Nightclub",
+          "Dive Bar"
+        ],
+        "hard": [
+          "Pub",
+          "Wine Bar",
+          "Rooftop Bar"
+        ]
+      }
+    },
+    {
+      "word": "Rooftop Bar",
+      "sub": "Nightlife",
+      "diff": "easy",
+      "desc": "An outdoor bar on a building roof with city views.",
+      "tags": [
+        "nightlife",
+        "outdoor",
+        "views",
+        "elevated"
+      ],
+      "hints": {
+        "easy": [
+          "Go out at night",
+          "Music and dancing",
+          "Drinks with friends",
+          "Dress up for the venue",
+          "Stay out late",
+          "Social atmosphere"
+        ],
+        "medium": [
+          "Bottle service for VIP treatment",
+          "Guest list gets you in free",
+          "Cover charge at the door",
+          "Happy hour saves money",
+          "Last call ends the night",
+          "Designated driver stays sober"
+        ],
+        "hard": [
+          "Promoter economics drive traffic",
+          "Occupancy limits fire codes",
+          "Sound ordinances restrict hours",
+          "Liquor licenses regulate sales",
+          "Security manages crowd dynamics",
+          "Revenue per head optimizes yield"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Nightclub",
+          "Dive Bar",
+          "Speakeasy"
+        ],
+        "medium": [
+          "Lounge",
+          "Brewery",
+          "Pub"
+        ],
+        "hard": [
+          "Beer Garden",
+          "Tavern",
+          "Bar"
+        ]
+      }
+    },
+    {
+      "word": "Dive Bar",
+      "sub": "Nightlife",
+      "diff": "medium",
+      "desc": "A casual, often run-down bar with cheap drinks and minimal frills.",
+      "tags": [
+        "nightlife",
+        "cheap",
+        "casual",
+        "unpretentious"
+      ],
+      "hints": {
+        "easy": [
+          "Go out at night",
+          "Music and dancing",
+          "Drinks with friends",
+          "Dress up for the venue",
+          "Stay out late",
+          "Social atmosphere"
+        ],
+        "medium": [
+          "Bottle service for VIP treatment",
+          "Guest list gets you in free",
+          "Cover charge at the door",
+          "Happy hour saves money",
+          "Last call ends the night",
+          "Designated driver stays sober"
+        ],
+        "hard": [
+          "Promoter economics drive traffic",
+          "Occupancy limits fire codes",
+          "Sound ordinances restrict hours",
+          "Liquor licenses regulate sales",
+          "Security manages crowd dynamics",
+          "Revenue per head optimizes yield"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Lounge",
+          "Tavern",
+          "Brewery"
+        ],
+        "medium": [
+          "Rooftop Bar",
+          "Pub",
+          "Wine Bar"
+        ],
+        "hard": [
+          "Speakeasy",
+          "Bar",
+          "Cocktail Bar"
+        ]
+      }
+    },
+    {
+      "word": "Gentlemen's Club",
+      "sub": "Adult Venues",
+      "diff": "medium",
+      "desc": "A euphemism for a strip club featuring exotic dancers.",
+      "tags": [
+        "adult-venues",
+        "strip-club",
+        "dancers",
+        "entertainment"
+      ],
+      "hints": {
+        "easy": [
+          "Adult entertainment venue",
+          "Dancers perform on stage",
+          "Private dances available",
+          "Tip the performers",
+          "Age restricted entry",
+          "Cash preferred"
+        ],
+        "medium": [
+          "House fees cut earnings",
+          "Stage rotation schedules sets",
+          "Champagne room premium pricing",
+          "Independent contractor status",
+          "Zoning laws limit locations",
+          "Labor disputes common"
+        ],
+        "hard": [
+          "Tip-out structure to staff",
+          "De facto employee classification",
+          "OSHA regulations on stages",
+          "First Amendment protections debated",
+          "Municipal licensing discretionary",
+          "Worker organizing efforts growing"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Adult Theater",
+          "Stage Show",
+          "Private Room"
+        ],
+        "medium": [
+          "Burlesque",
+          "Peep Show",
+          "Strip Club"
+        ],
+        "hard": [
+          "Cabaret",
+          "Feature Dancer",
+          "House Mom"
+        ]
+      }
+    },
+    {
+      "word": "Burlesque",
+      "sub": "Adult Venues",
+      "diff": "hard",
+      "desc": "Theatrical variety show with striptease, comedy, and performance art.",
+      "tags": [
+        "adult-venues",
+        "performance",
+        "striptease",
+        "theatrical"
+      ],
+      "hints": {
+        "easy": [
+          "Adult entertainment venue",
+          "Dancers perform on stage",
+          "Private dances available",
+          "Tip the performers",
+          "Age restricted entry",
+          "Cash preferred"
+        ],
+        "medium": [
+          "House fees cut earnings",
+          "Stage rotation schedules sets",
+          "Champagne room premium pricing",
+          "Independent contractor status",
+          "Zoning laws limit locations",
+          "Labor disputes common"
+        ],
+        "hard": [
+          "Tip-out structure to staff",
+          "De facto employee classification",
+          "OSHA regulations on stages",
+          "First Amendment protections debated",
+          "Municipal licensing discretionary",
+          "Worker organizing efforts growing"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Peep Show",
+          "Strip Club",
+          "Champagne Room"
+        ],
+        "medium": [
+          "Adult Theater",
+          "Lap Dance",
+          "Cabaret"
+        ],
+        "hard": [
+          "House Mom",
+          "Private Room",
+          "Feature Dancer"
+        ]
+      }
+    },
+    {
+      "word": "Karaoke",
+      "sub": "Nightlife",
+      "diff": "easy",
+      "desc": "Interactive entertainment singing along to instrumental tracks with lyrics displayed.",
+      "tags": [
+        "nightlife",
+        "singing",
+        "entertainment",
+        "social"
+      ],
+      "hints": {
+        "easy": [
+          "Go out at night",
+          "Music and dancing",
+          "Drinks with friends",
+          "Dress up for the venue",
+          "Stay out late",
+          "Social atmosphere"
+        ],
+        "medium": [
+          "Bottle service for VIP treatment",
+          "Guest list gets you in free",
+          "Cover charge at the door",
+          "Happy hour saves money",
+          "Last call ends the night",
+          "Designated driver stays sober"
+        ],
+        "hard": [
+          "Promoter economics drive traffic",
+          "Occupancy limits fire codes",
+          "Sound ordinances restrict hours",
+          "Liquor licenses regulate sales",
+          "Security manages crowd dynamics",
+          "Revenue per head optimizes yield"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Pub",
+          "Wine Bar",
+          "Lounge"
+        ],
+        "medium": [
+          "Bar",
+          "Nightclub",
+          "Dive Bar"
+        ],
+        "hard": [
+          "Cocktail Bar",
+          "Brewery",
+          "Tavern"
+        ]
+      }
+    },
+    {
+      "word": "Pub Crawl",
+      "sub": "Nightlife",
+      "diff": "medium",
+      "desc": "Visiting multiple bars in one night, typically with a group.",
+      "tags": [
+        "nightlife",
+        "multiple-bars",
+        "group",
+        "drinking"
+      ],
+      "hints": {
+        "easy": [
+          "Go out at night",
+          "Music and dancing",
+          "Drinks with friends",
+          "Dress up for the venue",
+          "Stay out late",
+          "Social atmosphere"
+        ],
+        "medium": [
+          "Bottle service for VIP treatment",
+          "Guest list gets you in free",
+          "Cover charge at the door",
+          "Happy hour saves money",
+          "Last call ends the night",
+          "Designated driver stays sober"
+        ],
+        "hard": [
+          "Promoter economics drive traffic",
+          "Occupancy limits fire codes",
+          "Sound ordinances restrict hours",
+          "Liquor licenses regulate sales",
+          "Security manages crowd dynamics",
+          "Revenue per head optimizes yield"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Bar",
+          "Wine Bar",
+          "Beer Garden"
+        ],
+        "medium": [
+          "Nightclub",
+          "Rooftop Bar",
+          "Cocktail Bar"
+        ],
+        "hard": [
+          "Tavern",
+          "Pub",
+          "Speakeasy"
+        ]
+      }
+    },
+    {
+      "word": "Cocktail",
+      "sub": "Drinks",
+      "diff": "easy",
+      "desc": "A mixed drink typically containing spirits, sugar, water, and bitters.",
+      "tags": [
+        "drinks",
+        "mixed",
+        "spirits",
+        "craft"
+      ],
+      "hints": {
+        "easy": [
+          "Alcoholic beverage",
+          "Sip and savor",
+          "Many varieties exist",
+          "Pair with food",
+          "Drink responsibly",
+          "Social lubricant"
+        ],
+        "medium": [
+          "Balance of sweet sour bitter",
+          "Fresh ingredients elevate",
+          "Technique affects dilution",
+          "Glassware matters for aroma",
+          "Ice quality changes taste",
+          "Garnish completes presentation"
+        ],
+        "hard": [
+          "Molecular mixology techniques",
+          "Fat-washing infuses spirits",
+          "Clarification removes solids",
+          "Sous-vide infusions precise",
+          "Rotovap distills aromatics",
+          "Ternary phase diagrams guide"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Whiskey",
+          "Old Fashioned",
+          "Wine"
+        ],
+        "medium": [
+          "Martini",
+          "Margarita",
+          "Shot"
+        ],
+        "hard": [
+          "Champagne",
+          "Negroni",
+          "Highball"
+        ]
+      }
+    },
+    {
+      "word": "Martini",
+      "sub": "Drinks",
+      "diff": "medium",
+      "desc": "A classic cocktail of gin and vermouth, garnished with an olive or lemon twist.",
+      "tags": [
+        "drinks",
+        "classic",
+        "gin",
+        "vermouth"
+      ],
+      "hints": {
+        "easy": [
+          "Alcoholic beverage",
+          "Sip and savor",
+          "Many varieties exist",
+          "Pair with food",
+          "Drink responsibly",
+          "Social lubricant"
+        ],
+        "medium": [
+          "Balance of sweet sour bitter",
+          "Fresh ingredients elevate",
+          "Technique affects dilution",
+          "Glassware matters for aroma",
+          "Ice quality changes taste",
+          "Garnish completes presentation"
+        ],
+        "hard": [
+          "Molecular mixology techniques",
+          "Fat-washing infuses spirits",
+          "Clarification removes solids",
+          "Sous-vide infusions precise",
+          "Rotovap distills aromatics",
+          "Ternary phase diagrams guide"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Champagne",
+          "Cocktail",
+          "Shot"
+        ],
+        "medium": [
+          "Negroni",
+          "Wine",
+          "Beer"
+        ],
+        "hard": [
+          "Old Fashioned",
+          "Mojito",
+          "Highball"
+        ]
+      }
+    },
+    {
+      "word": "Old Fashioned",
+      "sub": "Drinks",
+      "diff": "medium",
+      "desc": "A whiskey cocktail with sugar, bitters, and citrus peel.",
+      "tags": [
+        "drinks",
+        "whiskey",
+        "classic",
+        "bitters"
+      ],
+      "hints": {
+        "easy": [
+          "Alcoholic beverage",
+          "Sip and savor",
+          "Many varieties exist",
+          "Pair with food",
+          "Drink responsibly",
+          "Social lubricant"
+        ],
+        "medium": [
+          "Balance of sweet sour bitter",
+          "Fresh ingredients elevate",
+          "Technique affects dilution",
+          "Glassware matters for aroma",
+          "Ice quality changes taste",
+          "Garnish completes presentation"
+        ],
+        "hard": [
+          "Molecular mixology techniques",
+          "Fat-washing infuses spirits",
+          "Clarification removes solids",
+          "Sous-vide infusions precise",
+          "Rotovap distills aromatics",
+          "Ternary phase diagrams guide"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Highball",
+          "Martini",
+          "Beer"
+        ],
+        "medium": [
+          "Margarita",
+          "Whiskey",
+          "Champagne"
+        ],
+        "hard": [
+          "Negroni",
+          "Mojito",
+          "Cocktail"
+        ]
+      }
+    },
+    {
+      "word": "Margarita",
+      "sub": "Drinks",
+      "diff": "easy",
+      "desc": "A tequila cocktail with lime juice and orange liqueur, often served with salt rim.",
+      "tags": [
+        "drinks",
+        "tequila",
+        "lime",
+        "salt-rim"
+      ],
+      "hints": {
+        "easy": [
+          "Alcoholic beverage",
+          "Sip and savor",
+          "Many varieties exist",
+          "Pair with food",
+          "Drink responsibly",
+          "Social lubricant"
+        ],
+        "medium": [
+          "Balance of sweet sour bitter",
+          "Fresh ingredients elevate",
+          "Technique affects dilution",
+          "Glassware matters for aroma",
+          "Ice quality changes taste",
+          "Garnish completes presentation"
+        ],
+        "hard": [
+          "Molecular mixology techniques",
+          "Fat-washing infuses spirits",
+          "Clarification removes solids",
+          "Sous-vide infusions precise",
+          "Rotovap distills aromatics",
+          "Ternary phase diagrams guide"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Martini",
+          "Wine",
+          "Cocktail"
+        ],
+        "medium": [
+          "Old Fashioned",
+          "Whiskey",
+          "Mojito"
+        ],
+        "hard": [
+          "Beer",
+          "Shot",
+          "Negroni"
+        ]
+      }
+    },
+    {
+      "word": "Mojito",
+      "sub": "Drinks",
+      "diff": "easy",
+      "desc": "A rum cocktail with mint, lime, sugar, and soda water.",
+      "tags": [
+        "drinks",
+        "rum",
+        "mint",
+        "refreshing"
+      ],
+      "hints": {
+        "easy": [
+          "Alcoholic beverage",
+          "Sip and savor",
+          "Many varieties exist",
+          "Pair with food",
+          "Drink responsibly",
+          "Social lubricant"
+        ],
+        "medium": [
+          "Balance of sweet sour bitter",
+          "Fresh ingredients elevate",
+          "Technique affects dilution",
+          "Glassware matters for aroma",
+          "Ice quality changes taste",
+          "Garnish completes presentation"
+        ],
+        "hard": [
+          "Molecular mixology techniques",
+          "Fat-washing infuses spirits",
+          "Clarification removes solids",
+          "Sous-vide infusions precise",
+          "Rotovap distills aromatics",
+          "Ternary phase diagrams guide"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Cocktail",
+          "Old Fashioned",
+          "Negroni"
+        ],
+        "medium": [
+          "Beer",
+          "Shot",
+          "Margarita"
+        ],
+        "hard": [
+          "Whiskey",
+          "Wine",
+          "Champagne"
+        ]
+      }
+    },
+    {
+      "word": "Negroni",
+      "sub": "Drinks",
+      "diff": "hard",
+      "desc": "An Italian aperitif of gin, Campari, and sweet vermouth in equal parts.",
+      "tags": [
+        "drinks",
+        "italian",
+        "campari",
+        "aperitif"
+      ],
+      "hints": {
+        "easy": [
+          "Alcoholic beverage",
+          "Sip and savor",
+          "Many varieties exist",
+          "Pair with food",
+          "Drink responsibly",
+          "Social lubricant"
+        ],
+        "medium": [
+          "Balance of sweet sour bitter",
+          "Fresh ingredients elevate",
+          "Technique affects dilution",
+          "Glassware matters for aroma",
+          "Ice quality changes taste",
+          "Garnish completes presentation"
+        ],
+        "hard": [
+          "Molecular mixology techniques",
+          "Fat-washing infuses spirits",
+          "Clarification removes solids",
+          "Sous-vide infusions precise",
+          "Rotovap distills aromatics",
+          "Ternary phase diagrams guide"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Whiskey",
+          "Margarita",
+          "Cocktail"
+        ],
+        "medium": [
+          "Champagne",
+          "Highball",
+          "Beer"
+        ],
+        "hard": [
+          "Wine",
+          "Old Fashioned",
+          "Mojito"
+        ]
+      }
+    },
+    {
+      "word": "Whiskey",
+      "sub": "Drinks",
+      "diff": "easy",
+      "desc": "A distilled spirit made from fermented grain mash, aged in wooden barrels.",
+      "tags": [
+        "drinks",
+        "distilled",
+        "grain",
+        "aged"
+      ],
+      "hints": {
+        "easy": [
+          "Alcoholic beverage",
+          "Sip and savor",
+          "Many varieties exist",
+          "Pair with food",
+          "Drink responsibly",
+          "Social lubricant"
+        ],
+        "medium": [
+          "Balance of sweet sour bitter",
+          "Fresh ingredients elevate",
+          "Technique affects dilution",
+          "Glassware matters for aroma",
+          "Ice quality changes taste",
+          "Garnish completes presentation"
+        ],
+        "hard": [
+          "Molecular mixology techniques",
+          "Fat-washing infuses spirits",
+          "Clarification removes solids",
+          "Sous-vide infusions precise",
+          "Rotovap distills aromatics",
+          "Ternary phase diagrams guide"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Martini",
+          "Negroni",
+          "Mojito"
+        ],
+        "medium": [
+          "Highball",
+          "Cocktail",
+          "Wine"
+        ],
+        "hard": [
+          "Margarita",
+          "Old Fashioned",
+          "Champagne"
+        ]
+      }
+    },
+    {
+      "word": "Wine",
+      "sub": "Drinks",
+      "diff": "easy",
+      "desc": "An alcoholic beverage made from fermented grapes.",
+      "tags": [
+        "drinks",
+        "fermented",
+        "grapes",
+        "vintage"
+      ],
+      "hints": {
+        "easy": [
+          "Alcoholic beverage",
+          "Sip and savor",
+          "Many varieties exist",
+          "Pair with food",
+          "Drink responsibly",
+          "Social lubricant"
+        ],
+        "medium": [
+          "Balance of sweet sour bitter",
+          "Fresh ingredients elevate",
+          "Technique affects dilution",
+          "Glassware matters for aroma",
+          "Ice quality changes taste",
+          "Garnish completes presentation"
+        ],
+        "hard": [
+          "Molecular mixology techniques",
+          "Fat-washing infuses spirits",
+          "Clarification removes solids",
+          "Sous-vide infusions precise",
+          "Rotovap distills aromatics",
+          "Ternary phase diagrams guide"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Whiskey",
+          "Martini",
+          "Beer"
+        ],
+        "medium": [
+          "Cocktail",
+          "Mojito",
+          "Highball"
+        ],
+        "hard": [
+          "Negroni",
+          "Old Fashioned",
+          "Margarita"
+        ]
+      }
+    },
+    {
+      "word": "Champagne",
+      "sub": "Drinks",
+      "diff": "medium",
+      "desc": "Sparkling wine from the Champagne region of France, used for celebrations.",
+      "tags": [
+        "drinks",
+        "sparkling",
+        "france",
+        "celebration"
+      ],
+      "hints": {
+        "easy": [
+          "Alcoholic beverage",
+          "Sip and savor",
+          "Many varieties exist",
+          "Pair with food",
+          "Drink responsibly",
+          "Social lubricant"
+        ],
+        "medium": [
+          "Balance of sweet sour bitter",
+          "Fresh ingredients elevate",
+          "Technique affects dilution",
+          "Glassware matters for aroma",
+          "Ice quality changes taste",
+          "Garnish completes presentation"
+        ],
+        "hard": [
+          "Molecular mixology techniques",
+          "Fat-washing infuses spirits",
+          "Clarification removes solids",
+          "Sous-vide infusions precise",
+          "Rotovap distills aromatics",
+          "Ternary phase diagrams guide"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Margarita",
+          "Whiskey",
+          "Mojito"
+        ],
+        "medium": [
+          "Beer",
+          "Cocktail",
+          "Highball"
+        ],
+        "hard": [
+          "Martini",
+          "Shot",
+          "Negroni"
+        ]
+      }
+    },
+    {
+      "word": "Shot",
+      "sub": "Drinks",
+      "diff": "easy",
+      "desc": "A small serving of straight spirit consumed quickly.",
+      "tags": [
+        "drinks",
+        "small",
+        "straight",
+        "quick"
+      ],
+      "hints": {
+        "easy": [
+          "Alcoholic beverage",
+          "Sip and savor",
+          "Many varieties exist",
+          "Pair with food",
+          "Drink responsibly",
+          "Social lubricant"
+        ],
+        "medium": [
+          "Balance of sweet sour bitter",
+          "Fresh ingredients elevate",
+          "Technique affects dilution",
+          "Glassware matters for aroma",
+          "Ice quality changes taste",
+          "Garnish completes presentation"
+        ],
+        "hard": [
+          "Molecular mixology techniques",
+          "Fat-washing infuses spirits",
+          "Clarification removes solids",
+          "Sous-vide infusions precise",
+          "Rotovap distills aromatics",
+          "Ternary phase diagrams guide"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Old Fashioned",
+          "Wine",
+          "Whiskey"
+        ],
+        "medium": [
+          "Beer",
+          "Champagne",
+          "Highball"
+        ],
+        "hard": [
+          "Cocktail",
+          "Martini",
+          "Negroni"
+        ]
+      }
+    },
+    {
+      "word": "Consent",
+      "sub": "Intimacy",
+      "diff": "easy",
+      "desc": "Freely given, informed, enthusiastic agreement to sexual activity.",
+      "tags": [
+        "intimacy",
+        "agreement",
+        "enthusiastic",
+        "essential"
+      ],
+      "hints": {
+        "easy": [
+          "Physical and emotional closeness",
+          "Communication builds trust",
+          "Consent is mandatory",
+          "Explore together safely",
+          "Pleasure is mutual goal",
+          "Respect boundaries always"
+        ],
+        "medium": [
+          "Desire fluctuates naturally",
+          "Mismatched libidos common",
+          "Novelty sustains excitement",
+          "Vulnerability deepens connection",
+          "Fantasy enhances reality",
+          "Aftercare processes intensity"
+        ],
+        "hard": [
+          "Responsive vs spontaneous desire",
+          "Erotic blueprints map preferences",
+          "Somatic experiencing releases trauma",
+          "Polyvagal theory informs safety",
+          "Differentiation enables intimacy",
+          "Rupture and repair cycles growth"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Fetish",
+          "Safe Word",
+          "Kink"
+        ],
+        "medium": [
+          "Desire",
+          "Aphrodisiac",
+          "Foreplay"
+        ],
+        "hard": [
+          "Orgasm",
+          "Pleasure",
+          "Aftercare"
+        ]
+      }
+    },
+    {
+      "word": "Foreplay",
+      "sub": "Intimacy",
+      "diff": "medium",
+      "desc": "Intimate physical and emotional activity preceding sexual intercourse.",
+      "tags": [
+        "intimacy",
+        "prelude",
+        "arousal",
+        "connection"
+      ],
+      "hints": {
+        "easy": [
+          "Physical and emotional closeness",
+          "Communication builds trust",
+          "Consent is mandatory",
+          "Explore together safely",
+          "Pleasure is mutual goal",
+          "Respect boundaries always"
+        ],
+        "medium": [
+          "Desire fluctuates naturally",
+          "Mismatched libidos common",
+          "Novelty sustains excitement",
+          "Vulnerability deepens connection",
+          "Fantasy enhances reality",
+          "Aftercare processes intensity"
+        ],
+        "hard": [
+          "Responsive vs spontaneous desire",
+          "Erotic blueprints map preferences",
+          "Somatic experiencing releases trauma",
+          "Polyvagal theory informs safety",
+          "Differentiation enables intimacy",
+          "Rupture and repair cycles growth"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Orgasm",
+          "Fetish",
+          "Safe Word"
+        ],
+        "medium": [
+          "Libido",
+          "Pleasure",
+          "Consent"
+        ],
+        "hard": [
+          "Aphrodisiac",
+          "Aftercare",
+          "Kink"
+        ]
+      }
+    },
+    {
+      "word": "Libido",
+      "sub": "Intimacy",
+      "diff": "medium",
+      "desc": "A person's overall sexual drive or desire for sexual activity.",
+      "tags": [
+        "intimacy",
+        "drive",
+        "desire",
+        "sexual"
+      ],
+      "hints": {
+        "easy": [
+          "Physical and emotional closeness",
+          "Communication builds trust",
+          "Consent is mandatory",
+          "Explore together safely",
+          "Pleasure is mutual goal",
+          "Respect boundaries always"
+        ],
+        "medium": [
+          "Desire fluctuates naturally",
+          "Mismatched libidos common",
+          "Novelty sustains excitement",
+          "Vulnerability deepens connection",
+          "Fantasy enhances reality",
+          "Aftercare processes intensity"
+        ],
+        "hard": [
+          "Responsive vs spontaneous desire",
+          "Erotic blueprints map preferences",
+          "Somatic experiencing releases trauma",
+          "Polyvagal theory informs safety",
+          "Differentiation enables intimacy",
+          "Rupture and repair cycles growth"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Orgasm",
+          "Desire",
+          "Fetish"
+        ],
+        "medium": [
+          "Aftercare",
+          "BDSM",
+          "Kink"
+        ],
+        "hard": [
+          "Aphrodisiac",
+          "Pleasure",
+          "Safe Word"
+        ]
+      }
+    },
+    {
+      "word": "Aphrodisiac",
+      "sub": "Intimacy",
+      "diff": "hard",
+      "desc": "A substance believed to increase sexual desire or performance.",
+      "tags": [
+        "intimacy",
+        "substance",
+        "desire",
+        "enhancement"
+      ],
+      "hints": {
+        "easy": [
+          "Physical and emotional closeness",
+          "Communication builds trust",
+          "Consent is mandatory",
+          "Explore together safely",
+          "Pleasure is mutual goal",
+          "Respect boundaries always"
+        ],
+        "medium": [
+          "Desire fluctuates naturally",
+          "Mismatched libidos common",
+          "Novelty sustains excitement",
+          "Vulnerability deepens connection",
+          "Fantasy enhances reality",
+          "Aftercare processes intensity"
+        ],
+        "hard": [
+          "Responsive vs spontaneous desire",
+          "Erotic blueprints map preferences",
+          "Somatic experiencing releases trauma",
+          "Polyvagal theory informs safety",
+          "Differentiation enables intimacy",
+          "Rupture and repair cycles growth"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Aftercare",
+          "BDSM",
+          "Orgasm"
+        ],
+        "medium": [
+          "Pleasure",
+          "Fetish",
+          "Consent"
+        ],
+        "hard": [
+          "Foreplay",
+          "Libido",
+          "Desire"
+        ]
+      }
+    },
+    {
+      "word": "Kink",
+      "sub": "Intimacy",
+      "diff": "medium",
+      "desc": "Unconventional sexual preferences or behaviors outside vanilla norms.",
+      "tags": [
+        "intimacy",
+        "unconventional",
+        "preferences",
+        "bdsm"
+      ],
+      "hints": {
+        "easy": [
+          "Physical and emotional closeness",
+          "Communication builds trust",
+          "Consent is mandatory",
+          "Explore together safely",
+          "Pleasure is mutual goal",
+          "Respect boundaries always"
+        ],
+        "medium": [
+          "Desire fluctuates naturally",
+          "Mismatched libidos common",
+          "Novelty sustains excitement",
+          "Vulnerability deepens connection",
+          "Fantasy enhances reality",
+          "Aftercare processes intensity"
+        ],
+        "hard": [
+          "Responsive vs spontaneous desire",
+          "Erotic blueprints map preferences",
+          "Somatic experiencing releases trauma",
+          "Polyvagal theory informs safety",
+          "Differentiation enables intimacy",
+          "Rupture and repair cycles growth"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Pleasure",
+          "Safe Word",
+          "Orgasm"
+        ],
+        "medium": [
+          "BDSM",
+          "Fetish",
+          "Foreplay"
+        ],
+        "hard": [
+          "Consent",
+          "Libido",
+          "Desire"
+        ]
+      }
+    },
+    {
+      "word": "Fetish",
+      "sub": "Intimacy",
+      "diff": "hard",
+      "desc": "A sexual fixation on a non-living object or non-genital body part.",
+      "tags": [
+        "intimacy",
+        "fixation",
+        "object",
+        "psychology"
+      ],
+      "hints": {
+        "easy": [
+          "Physical and emotional closeness",
+          "Communication builds trust",
+          "Consent is mandatory",
+          "Explore together safely",
+          "Pleasure is mutual goal",
+          "Respect boundaries always"
+        ],
+        "medium": [
+          "Desire fluctuates naturally",
+          "Mismatched libidos common",
+          "Novelty sustains excitement",
+          "Vulnerability deepens connection",
+          "Fantasy enhances reality",
+          "Aftercare processes intensity"
+        ],
+        "hard": [
+          "Responsive vs spontaneous desire",
+          "Erotic blueprints map preferences",
+          "Somatic experiencing releases trauma",
+          "Polyvagal theory informs safety",
+          "Differentiation enables intimacy",
+          "Rupture and repair cycles growth"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Aftercare",
+          "Kink",
+          "Foreplay"
+        ],
+        "medium": [
+          "Aphrodisiac",
+          "Desire",
+          "Consent"
+        ],
+        "hard": [
+          "Pleasure",
+          "BDSM",
+          "Orgasm"
+        ]
+      }
+    },
+    {
+      "word": "BDSM",
+      "sub": "Intimacy",
+      "diff": "hard",
+      "desc": "Bondage, Discipline, Dominance, Submission, Sadism, Masochism; consensual power exchange.",
+      "tags": [
+        "intimacy",
+        "power-exchange",
+        "consensual",
+        "lifestyle"
+      ],
+      "hints": {
+        "easy": [
+          "Physical and emotional closeness",
+          "Communication builds trust",
+          "Consent is mandatory",
+          "Explore together safely",
+          "Pleasure is mutual goal",
+          "Respect boundaries always"
+        ],
+        "medium": [
+          "Desire fluctuates naturally",
+          "Mismatched libidos common",
+          "Novelty sustains excitement",
+          "Vulnerability deepens connection",
+          "Fantasy enhances reality",
+          "Aftercare processes intensity"
+        ],
+        "hard": [
+          "Responsive vs spontaneous desire",
+          "Erotic blueprints map preferences",
+          "Somatic experiencing releases trauma",
+          "Polyvagal theory informs safety",
+          "Differentiation enables intimacy",
+          "Rupture and repair cycles growth"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Fetish",
+          "Libido",
+          "Pleasure"
+        ],
+        "medium": [
+          "Safe Word",
+          "Aphrodisiac",
+          "Foreplay"
+        ],
+        "hard": [
+          "Orgasm",
+          "Desire",
+          "Aftercare"
+        ]
+      }
+    },
+    {
+      "word": "Safe Word",
+      "sub": "Intimacy",
+      "diff": "medium",
+      "desc": "A pre-agreed word to immediately stop sexual activity during intense play.",
+      "tags": [
+        "intimacy",
+        "safety",
+        "stop",
+        "communication"
+      ],
+      "hints": {
+        "easy": [
+          "Physical and emotional closeness",
+          "Communication builds trust",
+          "Consent is mandatory",
+          "Explore together safely",
+          "Pleasure is mutual goal",
+          "Respect boundaries always"
+        ],
+        "medium": [
+          "Desire fluctuates naturally",
+          "Mismatched libidos common",
+          "Novelty sustains excitement",
+          "Vulnerability deepens connection",
+          "Fantasy enhances reality",
+          "Aftercare processes intensity"
+        ],
+        "hard": [
+          "Responsive vs spontaneous desire",
+          "Erotic blueprints map preferences",
+          "Somatic experiencing releases trauma",
+          "Polyvagal theory informs safety",
+          "Differentiation enables intimacy",
+          "Rupture and repair cycles growth"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Aftercare",
+          "Fetish",
+          "Aphrodisiac"
+        ],
+        "medium": [
+          "Foreplay",
+          "Orgasm",
+          "Desire"
+        ],
+        "hard": [
+          "Pleasure",
+          "BDSM",
+          "Kink"
+        ]
+      }
+    },
+    {
+      "word": "Aftercare",
+      "sub": "Intimacy",
+      "diff": "hard",
+      "desc": "Emotional and physical care following intense sexual or BDSM activity.",
+      "tags": [
+        "intimacy",
+        "care",
+        "recovery",
+        "emotional"
+      ],
+      "hints": {
+        "easy": [
+          "Physical and emotional closeness",
+          "Communication builds trust",
+          "Consent is mandatory",
+          "Explore together safely",
+          "Pleasure is mutual goal",
+          "Respect boundaries always"
+        ],
+        "medium": [
+          "Desire fluctuates naturally",
+          "Mismatched libidos common",
+          "Novelty sustains excitement",
+          "Vulnerability deepens connection",
+          "Fantasy enhances reality",
+          "Aftercare processes intensity"
+        ],
+        "hard": [
+          "Responsive vs spontaneous desire",
+          "Erotic blueprints map preferences",
+          "Somatic experiencing releases trauma",
+          "Polyvagal theory informs safety",
+          "Differentiation enables intimacy",
+          "Rupture and repair cycles growth"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Aphrodisiac",
+          "Desire",
+          "Consent"
+        ],
+        "medium": [
+          "Foreplay",
+          "Safe Word",
+          "Fetish"
+        ],
+        "hard": [
+          "Libido",
+          "BDSM",
+          "Orgasm"
+        ]
+      }
+    },
+    {
+      "word": "Protection",
+      "sub": "Sexual Health",
+      "diff": "easy",
+      "desc": "Barrier methods like condoms preventing pregnancy and STI transmission.",
+      "tags": [
+        "sexual-health",
+        "condom",
+        "barrier",
+        "prevention"
+      ],
+      "hints": {
+        "easy": [
+          "Protect yourself and partners",
+          "Get tested regularly",
+          "Know your status",
+          "Condoms prevent STIs",
+          "Vaccines prevent some infections",
+          "Talk openly with partners"
+        ],
+        "medium": [
+          "Window periods affect accuracy",
+          "PrEP prevents HIV effectively",
+          "PEP for emergency exposure",
+          "Viral load undetectable untransmittable",
+          "Comprehensive screening recommended",
+          "Partner notification protects community"
+        ],
+        "hard": [
+          "NAAT most sensitive testing",
+          "Seroconversion timing critical",
+          "Antimicrobial resistance gonorrhea",
+          "Vaccine development challenges herpes",
+          "Microbicide research ongoing",
+          "Structural barriers limit access"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Vaccine",
+          "STI Testing",
+          "Screening"
+        ],
+        "medium": [
+          "PEP",
+          "Clinic",
+          "Viral Load"
+        ],
+        "hard": [
+          "Window Period",
+          "Partner Notification",
+          "Condom"
+        ]
+      }
+    },
+    {
+      "word": "STI Testing",
+      "sub": "Sexual Health",
+      "diff": "medium",
+      "desc": "Regular screening for sexually transmitted infections.",
+      "tags": [
+        "sexual-health",
+        "screening",
+        "health",
+        "responsibility"
+      ],
+      "hints": {
+        "easy": [
+          "Protect yourself and partners",
+          "Get tested regularly",
+          "Know your status",
+          "Condoms prevent STIs",
+          "Vaccines prevent some infections",
+          "Talk openly with partners"
+        ],
+        "medium": [
+          "Window periods affect accuracy",
+          "PrEP prevents HIV effectively",
+          "PEP for emergency exposure",
+          "Viral load undetectable untransmittable",
+          "Comprehensive screening recommended",
+          "Partner notification protects community"
+        ],
+        "hard": [
+          "NAAT most sensitive testing",
+          "Seroconversion timing critical",
+          "Antimicrobial resistance gonorrhea",
+          "Vaccine development challenges herpes",
+          "Microbicide research ongoing",
+          "Structural barriers limit access"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "PEP",
+          "Screening",
+          "Viral Load"
+        ],
+        "medium": [
+          "Partner Notification",
+          "Condom",
+          "Vaccine"
+        ],
+        "hard": [
+          "Clinic",
+          "Protection",
+          "Undetectable"
+        ]
+      }
+    },
+    {
+      "word": "PrEP",
+      "sub": "Sexual Health",
+      "diff": "hard",
+      "desc": "Pre-exposure prophylaxis; medication preventing HIV infection.",
+      "tags": [
+        "sexual-health",
+        "hiv",
+        "prevention",
+        "medication"
+      ],
+      "hints": {
+        "easy": [
+          "Protect yourself and partners",
+          "Get tested regularly",
+          "Know your status",
+          "Condoms prevent STIs",
+          "Vaccines prevent some infections",
+          "Talk openly with partners"
+        ],
+        "medium": [
+          "Window periods affect accuracy",
+          "PrEP prevents HIV effectively",
+          "PEP for emergency exposure",
+          "Viral load undetectable untransmittable",
+          "Comprehensive screening recommended",
+          "Partner notification protects community"
+        ],
+        "hard": [
+          "NAAT most sensitive testing",
+          "Seroconversion timing critical",
+          "Antimicrobial resistance gonorrhea",
+          "Vaccine development challenges herpes",
+          "Microbicide research ongoing",
+          "Structural barriers limit access"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Undetectable",
+          "Vaccine",
+          "Protection"
+        ],
+        "medium": [
+          "Clinic",
+          "Viral Load",
+          "Partner Notification"
+        ],
+        "hard": [
+          "Window Period",
+          "Screening",
+          "PEP"
+        ]
+      }
+    },
+    {
+      "word": "Wingman",
+      "sub": "Social Dynamics",
+      "diff": "medium",
+      "desc": "A friend who helps another approach potential romantic partners.",
+      "tags": [
+        "social-dynamics",
+        "friend",
+        "assist",
+        "approach"
+      ],
+      "hints": {
+        "easy": [
+          "Interact with potential partners",
+          "Read social cues",
+          "Confidence attracts",
+          "Be genuine and kind",
+          "Respect rejection gracefully",
+          "Have fun meeting people"
+        ],
+        "medium": [
+          "Mirroring builds rapport",
+          "Triangular theory of love",
+          "Proximity breeds familiarity",
+          "Similarity attracts long-term",
+          "Reciprocity fuels escalation",
+          "Uncertainty increases attraction"
+        ],
+        "hard": [
+          "Evolutionary psychology mating strategies",
+          "Sexual strategies theory predicts",
+          "Parental investment theory explains",
+          "Mate value assessments unconscious",
+          "Dark triad traits short-term success",
+          "Signaling theory costly displays"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Charisma",
+          "Flirting",
+          "Eye Contact"
+        ],
+        "medium": [
+          "Chemistry",
+          "Vibe",
+          "Pickup Line"
+        ],
+        "hard": [
+          "Tension",
+          "Rapport",
+          "Attraction"
+        ]
+      }
+    },
+    {
+      "word": "Pickup Line",
+      "sub": "Social Dynamics",
+      "diff": "easy",
+      "desc": "A rehearsed remark used to initiate conversation with romantic intent.",
+      "tags": [
+        "social-dynamics",
+        "rehearsed",
+        "approach",
+        "conversation"
+      ],
+      "hints": {
+        "easy": [
+          "Interact with potential partners",
+          "Read social cues",
+          "Confidence attracts",
+          "Be genuine and kind",
+          "Respect rejection gracefully",
+          "Have fun meeting people"
+        ],
+        "medium": [
+          "Mirroring builds rapport",
+          "Triangular theory of love",
+          "Proximity breeds familiarity",
+          "Similarity attracts long-term",
+          "Reciprocity fuels escalation",
+          "Uncertainty increases attraction"
+        ],
+        "hard": [
+          "Evolutionary psychology mating strategies",
+          "Sexual strategies theory predicts",
+          "Parental investment theory explains",
+          "Mate value assessments unconscious",
+          "Dark triad traits short-term success",
+          "Signaling theory costly displays"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Eye Contact",
+          "Wingman",
+          "Chemistry"
+        ],
+        "medium": [
+          "Body Language",
+          "Charisma",
+          "Flirting"
+        ],
+        "hard": [
+          "Attraction",
+          "Confidence",
+          "Tension"
+        ]
+      }
+    },
+    {
+      "word": "Flirting",
+      "sub": "Social Dynamics",
+      "diff": "easy",
+      "desc": "Playful behavior showing romantic or sexual interest.",
+      "tags": [
+        "social-dynamics",
+        "playful",
+        "interest",
+        "romantic"
+      ],
+      "hints": {
+        "easy": [
+          "Interact with potential partners",
+          "Read social cues",
+          "Confidence attracts",
+          "Be genuine and kind",
+          "Respect rejection gracefully",
+          "Have fun meeting people"
+        ],
+        "medium": [
+          "Mirroring builds rapport",
+          "Triangular theory of love",
+          "Proximity breeds familiarity",
+          "Similarity attracts long-term",
+          "Reciprocity fuels escalation",
+          "Uncertainty increases attraction"
+        ],
+        "hard": [
+          "Evolutionary psychology mating strategies",
+          "Sexual strategies theory predicts",
+          "Parental investment theory explains",
+          "Mate value assessments unconscious",
+          "Dark triad traits short-term success",
+          "Signaling theory costly displays"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Eye Contact",
+          "Wingman",
+          "Attraction"
+        ],
+        "medium": [
+          "Chemistry",
+          "Vibe",
+          "Pickup Line"
+        ],
+        "hard": [
+          "Rapport",
+          "Body Language",
+          "Confidence"
+        ]
+      }
+    },
+    {
+      "word": "Eye Contact",
+      "sub": "Social Dynamics",
+      "diff": "easy",
+      "desc": "Meeting another's gaze, often signaling interest or confidence.",
+      "tags": [
+        "social-dynamics",
+        "gaze",
+        "signal",
+        "confidence"
+      ],
+      "hints": {
+        "easy": [
+          "Interact with potential partners",
+          "Read social cues",
+          "Confidence attracts",
+          "Be genuine and kind",
+          "Respect rejection gracefully",
+          "Have fun meeting people"
+        ],
+        "medium": [
+          "Mirroring builds rapport",
+          "Triangular theory of love",
+          "Proximity breeds familiarity",
+          "Similarity attracts long-term",
+          "Reciprocity fuels escalation",
+          "Uncertainty increases attraction"
+        ],
+        "hard": [
+          "Evolutionary psychology mating strategies",
+          "Sexual strategies theory predicts",
+          "Parental investment theory explains",
+          "Mate value assessments unconscious",
+          "Dark triad traits short-term success",
+          "Signaling theory costly displays"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Vibe",
+          "Flirting",
+          "Pickup Line"
+        ],
+        "medium": [
+          "Confidence",
+          "Tension",
+          "Rapport"
+        ],
+        "hard": [
+          "Body Language",
+          "Charisma",
+          "Chemistry"
+        ]
+      }
+    },
+    {
+      "word": "Body Language",
+      "sub": "Social Dynamics",
+      "diff": "medium",
+      "desc": "Non-verbal cues revealing attraction, comfort, or discomfort.",
+      "tags": [
+        "social-dynamics",
+        "non-verbal",
+        "cues",
+        "attraction"
+      ],
+      "hints": {
+        "easy": [
+          "Interact with potential partners",
+          "Read social cues",
+          "Confidence attracts",
+          "Be genuine and kind",
+          "Respect rejection gracefully",
+          "Have fun meeting people"
+        ],
+        "medium": [
+          "Mirroring builds rapport",
+          "Triangular theory of love",
+          "Proximity breeds familiarity",
+          "Similarity attracts long-term",
+          "Reciprocity fuels escalation",
+          "Uncertainty increases attraction"
+        ],
+        "hard": [
+          "Evolutionary psychology mating strategies",
+          "Sexual strategies theory predicts",
+          "Parental investment theory explains",
+          "Mate value assessments unconscious",
+          "Dark triad traits short-term success",
+          "Signaling theory costly displays"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Charisma",
+          "Tension",
+          "Wingman"
+        ],
+        "medium": [
+          "Flirting",
+          "Rapport",
+          "Chemistry"
+        ],
+        "hard": [
+          "Attraction",
+          "Confidence",
+          "Pickup Line"
+        ]
+      }
+    },
+    {
+      "word": "Chemistry",
+      "sub": "Social Dynamics",
+      "diff": "medium",
+      "desc": "An intangible connection and mutual attraction between two people.",
+      "tags": [
+        "social-dynamics",
+        "connection",
+        "attraction",
+        "spark"
+      ],
+      "hints": {
+        "easy": [
+          "Interact with potential partners",
+          "Read social cues",
+          "Confidence attracts",
+          "Be genuine and kind",
+          "Respect rejection gracefully",
+          "Have fun meeting people"
+        ],
+        "medium": [
+          "Mirroring builds rapport",
+          "Triangular theory of love",
+          "Proximity breeds familiarity",
+          "Similarity attracts long-term",
+          "Reciprocity fuels escalation",
+          "Uncertainty increases attraction"
+        ],
+        "hard": [
+          "Evolutionary psychology mating strategies",
+          "Sexual strategies theory predicts",
+          "Parental investment theory explains",
+          "Mate value assessments unconscious",
+          "Dark triad traits short-term success",
+          "Signaling theory costly displays"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Charisma",
+          "Rapport",
+          "Wingman"
+        ],
+        "medium": [
+          "Body Language",
+          "Tension",
+          "Attraction"
+        ],
+        "hard": [
+          "Vibe",
+          "Eye Contact",
+          "Pickup Line"
+        ]
+      }
+    },
+    {
+      "word": "Tension",
+      "sub": "Social Dynamics",
+      "diff": "medium",
+      "desc": "Sexual or romantic anticipation between people who haven't acted on it.",
+      "tags": [
+        "social-dynamics",
+        "anticipation",
+        "unresolved",
+        "attraction"
+      ],
+      "hints": {
+        "easy": [
+          "Interact with potential partners",
+          "Read social cues",
+          "Confidence attracts",
+          "Be genuine and kind",
+          "Respect rejection gracefully",
+          "Have fun meeting people"
+        ],
+        "medium": [
+          "Mirroring builds rapport",
+          "Triangular theory of love",
+          "Proximity breeds familiarity",
+          "Similarity attracts long-term",
+          "Reciprocity fuels escalation",
+          "Uncertainty increases attraction"
+        ],
+        "hard": [
+          "Evolutionary psychology mating strategies",
+          "Sexual strategies theory predicts",
+          "Parental investment theory explains",
+          "Mate value assessments unconscious",
+          "Dark triad traits short-term success",
+          "Signaling theory costly displays"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Confidence",
+          "Body Language",
+          "Rapport"
+        ],
+        "medium": [
+          "Chemistry",
+          "Flirting",
+          "Vibe"
+        ],
+        "hard": [
+          "Attraction",
+          "Wingman",
+          "Pickup Line"
+        ]
+      }
+    },
+    {
+      "word": "Date Night",
+      "sub": "Modern Dating",
+      "diff": "easy",
+      "desc": "A planned evening for a couple to spend quality time together romantically.",
+      "tags": [
+        "modern-dating",
+        "planned",
+        "couple",
+        "romantic"
+      ],
+      "hints": {
+        "easy": [
+          "Romance in the digital age",
+          "Texting defines early stages",
+          "Labels are complicated",
+          "Commitment varies by person",
+          "Communication is key",
+          "Boundaries matter"
+        ],
+        "medium": [
+          "Attachment styles affect dynamics",
+          "Love languages differ",
+          "Situationships blur lines",
+          "Ghosting avoids confrontation",
+          "Benching keeps options open",
+          "Red flags signal incompatibility"
+        ],
+        "hard": [
+          "Anxious-avoidant trap cycles",
+          "Paradox of choice paralyzes",
+          "Performative vulnerability masks",
+          "Digital intimacy lacks depth",
+          "Commodification of romance",
+          "Late-stage dating market dynamics"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Ghosting",
+          "Benching",
+          "Situationship"
+        ],
+        "medium": [
+          "Polyamory",
+          "Dating",
+          "Casual"
+        ],
+        "hard": [
+          "Exclusive",
+          "Throuple",
+          "Open Relationship"
+        ]
+      }
+    },
+    {
+      "word": "First Date",
+      "sub": "Modern Dating",
+      "diff": "easy",
+      "desc": "The initial meeting between two people exploring romantic potential.",
+      "tags": [
+        "modern-dating",
+        "initial",
+        "meeting",
+        "potential"
+      ],
+      "hints": {
+        "easy": [
+          "Romance in the digital age",
+          "Texting defines early stages",
+          "Labels are complicated",
+          "Commitment varies by person",
+          "Communication is key",
+          "Boundaries matter"
+        ],
+        "medium": [
+          "Attachment styles affect dynamics",
+          "Love languages differ",
+          "Situationships blur lines",
+          "Ghosting avoids confrontation",
+          "Benching keeps options open",
+          "Red flags signal incompatibility"
+        ],
+        "hard": [
+          "Anxious-avoidant trap cycles",
+          "Paradox of choice paralyzes",
+          "Performative vulnerability masks",
+          "Digital intimacy lacks depth",
+          "Commodification of romance",
+          "Late-stage dating market dynamics"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Polyamory",
+          "Relationship",
+          "Committed"
+        ],
+        "medium": [
+          "Dating",
+          "Ghosting",
+          "Casual"
+        ],
+        "hard": [
+          "Situationship",
+          "FWB",
+          "Throuple"
+        ]
+      }
+    },
+    {
+      "word": "Blind Date",
+      "sub": "Modern Dating",
+      "diff": "medium",
+      "desc": "A date arranged by a third party where participants haven't met before.",
+      "tags": [
+        "modern-dating",
+        "arranged",
+        "strangers",
+        "setup"
+      ],
+      "hints": {
+        "easy": [
+          "Romance in the digital age",
+          "Texting defines early stages",
+          "Labels are complicated",
+          "Commitment varies by person",
+          "Communication is key",
+          "Boundaries matter"
+        ],
+        "medium": [
+          "Attachment styles affect dynamics",
+          "Love languages differ",
+          "Situationships blur lines",
+          "Ghosting avoids confrontation",
+          "Benching keeps options open",
+          "Red flags signal incompatibility"
+        ],
+        "hard": [
+          "Anxious-avoidant trap cycles",
+          "Paradox of choice paralyzes",
+          "Performative vulnerability masks",
+          "Digital intimacy lacks depth",
+          "Commodification of romance",
+          "Late-stage dating market dynamics"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Casual",
+          "Committed",
+          "Exclusive"
+        ],
+        "medium": [
+          "Relationship",
+          "Open Relationship",
+          "Polyamory"
+        ],
+        "hard": [
+          "Ghosting",
+          "Throuple",
+          "Benching"
+        ]
+      }
+    },
+    {
+      "word": "Speed Dating",
+      "sub": "Modern Dating",
+      "diff": "medium",
+      "desc": "An event with brief timed conversations to meet many potential partners.",
+      "tags": [
+        "modern-dating",
+        "event",
+        "timed",
+        "multiple"
+      ],
+      "hints": {
+        "easy": [
+          "Romance in the digital age",
+          "Texting defines early stages",
+          "Labels are complicated",
+          "Commitment varies by person",
+          "Communication is key",
+          "Boundaries matter"
+        ],
+        "medium": [
+          "Attachment styles affect dynamics",
+          "Love languages differ",
+          "Situationships blur lines",
+          "Ghosting avoids confrontation",
+          "Benching keeps options open",
+          "Red flags signal incompatibility"
+        ],
+        "hard": [
+          "Anxious-avoidant trap cycles",
+          "Paradox of choice paralyzes",
+          "Performative vulnerability masks",
+          "Digital intimacy lacks depth",
+          "Commodification of romance",
+          "Late-stage dating market dynamics"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Committed",
+          "Dating",
+          "Relationship"
+        ],
+        "medium": [
+          "Exclusive",
+          "FWB",
+          "Open Relationship"
+        ],
+        "hard": [
+          "Benching",
+          "Casual",
+          "Ghosting"
+        ]
+      }
+    },
+    {
+      "word": "Matchmaker",
+      "sub": "Modern Dating",
+      "diff": "hard",
+      "desc": "A person who arranges introductions for potential romantic partners.",
+      "tags": [
+        "modern-dating",
+        "arranges",
+        "introductions",
+        "professional"
+      ],
+      "hints": {
+        "easy": [
+          "Romance in the digital age",
+          "Texting defines early stages",
+          "Labels are complicated",
+          "Commitment varies by person",
+          "Communication is key",
+          "Boundaries matter"
+        ],
+        "medium": [
+          "Attachment styles affect dynamics",
+          "Love languages differ",
+          "Situationships blur lines",
+          "Ghosting avoids confrontation",
+          "Benching keeps options open",
+          "Red flags signal incompatibility"
+        ],
+        "hard": [
+          "Anxious-avoidant trap cycles",
+          "Paradox of choice paralyzes",
+          "Performative vulnerability masks",
+          "Digital intimacy lacks depth",
+          "Commodification of romance",
+          "Late-stage dating market dynamics"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Dating",
+          "Situationship",
+          "Casual"
+        ],
+        "medium": [
+          "Committed",
+          "Ghosting",
+          "FWB"
+        ],
+        "hard": [
+          "Exclusive",
+          "Open Relationship",
+          "Throuple"
+        ]
+      }
+    },
+    {
+      "word": "Bottle Service",
+      "sub": "Nightlife",
+      "diff": "medium",
+      "desc": "Premium nightclub service purchasing full bottles with reserved seating.",
+      "tags": [
+        "nightlife",
+        "premium",
+        "bottles",
+        "vip"
+      ],
+      "hints": {
+        "easy": [
+          "Go out at night",
+          "Music and dancing",
+          "Drinks with friends",
+          "Dress up for the venue",
+          "Stay out late",
+          "Social atmosphere"
+        ],
+        "medium": [
+          "Bottle service for VIP treatment",
+          "Guest list gets you in free",
+          "Cover charge at the door",
+          "Happy hour saves money",
+          "Last call ends the night",
+          "Designated driver stays sober"
+        ],
+        "hard": [
+          "Promoter economics drive traffic",
+          "Occupancy limits fire codes",
+          "Sound ordinances restrict hours",
+          "Liquor licenses regulate sales",
+          "Security manages crowd dynamics",
+          "Revenue per head optimizes yield"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Bar",
+          "Dive Bar",
+          "Beer Garden"
+        ],
+        "medium": [
+          "Nightclub",
+          "Brewery",
+          "Rooftop Bar"
+        ],
+        "hard": [
+          "Wine Bar",
+          "Cocktail Bar",
+          "Pub"
+        ]
+      }
+    },
+    {
+      "word": "Guest List",
+      "sub": "Nightlife",
+      "diff": "medium",
+      "desc": "A list granting free or priority entry to an exclusive venue or event.",
+      "tags": [
+        "nightlife",
+        "exclusive",
+        "entry",
+        "priority"
+      ],
+      "hints": {
+        "easy": [
+          "Go out at night",
+          "Music and dancing",
+          "Drinks with friends",
+          "Dress up for the venue",
+          "Stay out late",
+          "Social atmosphere"
+        ],
+        "medium": [
+          "Bottle service for VIP treatment",
+          "Guest list gets you in free",
+          "Cover charge at the door",
+          "Happy hour saves money",
+          "Last call ends the night",
+          "Designated driver stays sober"
+        ],
+        "hard": [
+          "Promoter economics drive traffic",
+          "Occupancy limits fire codes",
+          "Sound ordinances restrict hours",
+          "Liquor licenses regulate sales",
+          "Security manages crowd dynamics",
+          "Revenue per head optimizes yield"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Pub",
+          "Dive Bar",
+          "Lounge"
+        ],
+        "medium": [
+          "Nightclub",
+          "Speakeasy",
+          "Cocktail Bar"
+        ],
+        "hard": [
+          "Beer Garden",
+          "Wine Bar",
+          "Bar"
+        ]
+      }
+    },
+    {
+      "word": "Cover Charge",
+      "sub": "Nightlife",
+      "diff": "easy",
+      "desc": "An entry fee charged by nightclubs and some bars.",
+      "tags": [
+        "nightlife",
+        "fee",
+        "entry",
+        "club"
+      ],
+      "hints": {
+        "easy": [
+          "Go out at night",
+          "Music and dancing",
+          "Drinks with friends",
+          "Dress up for the venue",
+          "Stay out late",
+          "Social atmosphere"
+        ],
+        "medium": [
+          "Bottle service for VIP treatment",
+          "Guest list gets you in free",
+          "Cover charge at the door",
+          "Happy hour saves money",
+          "Last call ends the night",
+          "Designated driver stays sober"
+        ],
+        "hard": [
+          "Promoter economics drive traffic",
+          "Occupancy limits fire codes",
+          "Sound ordinances restrict hours",
+          "Liquor licenses regulate sales",
+          "Security manages crowd dynamics",
+          "Revenue per head optimizes yield"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Wine Bar",
+          "Lounge",
+          "Pub"
+        ],
+        "medium": [
+          "Brewery",
+          "Beer Garden",
+          "Nightclub"
+        ],
+        "hard": [
+          "Tavern",
+          "Cocktail Bar",
+          "Speakeasy"
+        ]
+      }
+    },
+    {
+      "word": "Happy Hour",
+      "sub": "Nightlife",
+      "diff": "easy",
+      "desc": "A period with discounted drinks and appetizers, typically early evening.",
+      "tags": [
+        "nightlife",
+        "discounted",
+        "early-evening",
+        "drinks"
+      ],
+      "hints": {
+        "easy": [
+          "Go out at night",
+          "Music and dancing",
+          "Drinks with friends",
+          "Dress up for the venue",
+          "Stay out late",
+          "Social atmosphere"
+        ],
+        "medium": [
+          "Bottle service for VIP treatment",
+          "Guest list gets you in free",
+          "Cover charge at the door",
+          "Happy hour saves money",
+          "Last call ends the night",
+          "Designated driver stays sober"
+        ],
+        "hard": [
+          "Promoter economics drive traffic",
+          "Occupancy limits fire codes",
+          "Sound ordinances restrict hours",
+          "Liquor licenses regulate sales",
+          "Security manages crowd dynamics",
+          "Revenue per head optimizes yield"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Dive Bar",
+          "Rooftop Bar",
+          "Bar"
+        ],
+        "medium": [
+          "Pub",
+          "Tavern",
+          "Speakeasy"
+        ],
+        "hard": [
+          "Brewery",
+          "Cocktail Bar",
+          "Nightclub"
+        ]
+      }
+    },
+    {
+      "word": "Last Call",
+      "sub": "Nightlife",
+      "diff": "easy",
+      "desc": "The final opportunity to order drinks before a bar closes.",
+      "tags": [
+        "nightlife",
+        "final",
+        "order",
+        "closing"
+      ],
+      "hints": {
+        "easy": [
+          "Go out at night",
+          "Music and dancing",
+          "Drinks with friends",
+          "Dress up for the venue",
+          "Stay out late",
+          "Social atmosphere"
+        ],
+        "medium": [
+          "Bottle service for VIP treatment",
+          "Guest list gets you in free",
+          "Cover charge at the door",
+          "Happy hour saves money",
+          "Last call ends the night",
+          "Designated driver stays sober"
+        ],
+        "hard": [
+          "Promoter economics drive traffic",
+          "Occupancy limits fire codes",
+          "Sound ordinances restrict hours",
+          "Liquor licenses regulate sales",
+          "Security manages crowd dynamics",
+          "Revenue per head optimizes yield"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Cocktail Bar",
+          "Brewery",
+          "Rooftop Bar"
+        ],
+        "medium": [
+          "Pub",
+          "Dive Bar",
+          "Bar"
+        ],
+        "hard": [
+          "Wine Bar",
+          "Speakeasy",
+          "Tavern"
+        ]
+      }
+    },
+    {
+      "word": "Designated Driver",
+      "sub": "Nightlife",
+      "diff": "medium",
+      "desc": "A person abstaining from alcohol to drive others home safely.",
+      "tags": [
+        "nightlife",
+        "sober",
+        "drive",
+        "safety"
+      ],
+      "hints": {
+        "easy": [
+          "Go out at night",
+          "Music and dancing",
+          "Drinks with friends",
+          "Dress up for the venue",
+          "Stay out late",
+          "Social atmosphere"
+        ],
+        "medium": [
+          "Bottle service for VIP treatment",
+          "Guest list gets you in free",
+          "Cover charge at the door",
+          "Happy hour saves money",
+          "Last call ends the night",
+          "Designated driver stays sober"
+        ],
+        "hard": [
+          "Promoter economics drive traffic",
+          "Occupancy limits fire codes",
+          "Sound ordinances restrict hours",
+          "Liquor licenses regulate sales",
+          "Security manages crowd dynamics",
+          "Revenue per head optimizes yield"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Dive Bar",
+          "Brewery",
+          "Bar"
+        ],
+        "medium": [
+          "Pub",
+          "Wine Bar",
+          "Nightclub"
+        ],
+        "hard": [
+          "Rooftop Bar",
+          "Tavern",
+          "Cocktail Bar"
+        ]
+      }
+    },
+    {
+      "word": "Hangover",
+      "sub": "Nightlife",
+      "diff": "easy",
+      "desc": "Unpleasant physical effects following excessive alcohol consumption.",
+      "tags": [
+        "nightlife",
+        "aftermath",
+        "alcohol",
+        "unpleasant"
+      ],
+      "hints": {
+        "easy": [
+          "Go out at night",
+          "Music and dancing",
+          "Drinks with friends",
+          "Dress up for the venue",
+          "Stay out late",
+          "Social atmosphere"
+        ],
+        "medium": [
+          "Bottle service for VIP treatment",
+          "Guest list gets you in free",
+          "Cover charge at the door",
+          "Happy hour saves money",
+          "Last call ends the night",
+          "Designated driver stays sober"
+        ],
+        "hard": [
+          "Promoter economics drive traffic",
+          "Occupancy limits fire codes",
+          "Sound ordinances restrict hours",
+          "Liquor licenses regulate sales",
+          "Security manages crowd dynamics",
+          "Revenue per head optimizes yield"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Bar",
+          "Lounge",
+          "Beer Garden"
+        ],
+        "medium": [
+          "Rooftop Bar",
+          "Tavern",
+          "Brewery"
+        ],
+        "hard": [
+          "Wine Bar",
+          "Dive Bar",
+          "Pub"
+        ]
+      }
+    },
+    {
+      "word": "Hair of the Dog",
+      "sub": "Nightlife",
+      "diff": "medium",
+      "desc": "Consuming alcohol to alleviate hangover symptoms.",
+      "tags": [
+        "nightlife",
+        "remedy",
+        "hangover",
+        "alcohol"
+      ],
+      "hints": {
+        "easy": [
+          "Go out at night",
+          "Music and dancing",
+          "Drinks with friends",
+          "Dress up for the venue",
+          "Stay out late",
+          "Social atmosphere"
+        ],
+        "medium": [
+          "Bottle service for VIP treatment",
+          "Guest list gets you in free",
+          "Cover charge at the door",
+          "Happy hour saves money",
+          "Last call ends the night",
+          "Designated driver stays sober"
+        ],
+        "hard": [
+          "Promoter economics drive traffic",
+          "Occupancy limits fire codes",
+          "Sound ordinances restrict hours",
+          "Liquor licenses regulate sales",
+          "Security manages crowd dynamics",
+          "Revenue per head optimizes yield"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Brewery",
+          "Rooftop Bar",
+          "Wine Bar"
+        ],
+        "medium": [
+          "Bar",
+          "Speakeasy",
+          "Beer Garden"
+        ],
+        "hard": [
+          "Lounge",
+          "Nightclub",
+          "Cocktail Bar"
+        ]
+      }
+    },
+    {
+      "word": "One Night Stand",
+      "sub": "Modern Dating",
+      "diff": "medium",
+      "desc": "A single sexual encounter with no expectation of further relationship.",
+      "tags": [
+        "modern-dating",
+        "single",
+        "encounter",
+        "no-commitment"
+      ],
+      "hints": {
+        "easy": [
+          "Romance in the digital age",
+          "Texting defines early stages",
+          "Labels are complicated",
+          "Commitment varies by person",
+          "Communication is key",
+          "Boundaries matter"
+        ],
+        "medium": [
+          "Attachment styles affect dynamics",
+          "Love languages differ",
+          "Situationships blur lines",
+          "Ghosting avoids confrontation",
+          "Benching keeps options open",
+          "Red flags signal incompatibility"
+        ],
+        "hard": [
+          "Anxious-avoidant trap cycles",
+          "Paradox of choice paralyzes",
+          "Performative vulnerability masks",
+          "Digital intimacy lacks depth",
+          "Commodification of romance",
+          "Late-stage dating market dynamics"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Dating",
+          "Relationship",
+          "Situationship"
+        ],
+        "medium": [
+          "Exclusive",
+          "Polyamory",
+          "Open Relationship"
+        ],
+        "hard": [
+          "FWB",
+          "Casual",
+          "Ghosting"
+        ]
+      }
+    },
+    {
+      "word": "Walk of Shame",
+      "sub": "Modern Dating",
+      "diff": "medium",
+      "desc": "Walking home in the previous night's clothes after a casual encounter.",
+      "tags": [
+        "modern-dating",
+        "morning-after",
+        "clothes",
+        "casual"
+      ],
+      "hints": {
+        "easy": [
+          "Romance in the digital age",
+          "Texting defines early stages",
+          "Labels are complicated",
+          "Commitment varies by person",
+          "Communication is key",
+          "Boundaries matter"
+        ],
+        "medium": [
+          "Attachment styles affect dynamics",
+          "Love languages differ",
+          "Situationships blur lines",
+          "Ghosting avoids confrontation",
+          "Benching keeps options open",
+          "Red flags signal incompatibility"
+        ],
+        "hard": [
+          "Anxious-avoidant trap cycles",
+          "Paradox of choice paralyzes",
+          "Performative vulnerability masks",
+          "Digital intimacy lacks depth",
+          "Commodification of romance",
+          "Late-stage dating market dynamics"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Committed",
+          "Dating",
+          "Ghosting"
+        ],
+        "medium": [
+          "Relationship",
+          "Casual",
+          "Throuple"
+        ],
+        "hard": [
+          "Polyamory",
+          "Open Relationship",
+          "Benching"
+        ]
+      }
+    },
+    {
+      "word": "Booty Call",
+      "sub": "Modern Dating",
+      "diff": "medium",
+      "desc": "A late-night summons for casual sex, often recurring.",
+      "tags": [
+        "modern-dating",
+        "late-night",
+        "casual-sex",
+        "summons"
+      ],
+      "hints": {
+        "easy": [
+          "Romance in the digital age",
+          "Texting defines early stages",
+          "Labels are complicated",
+          "Commitment varies by person",
+          "Communication is key",
+          "Boundaries matter"
+        ],
+        "medium": [
+          "Attachment styles affect dynamics",
+          "Love languages differ",
+          "Situationships blur lines",
+          "Ghosting avoids confrontation",
+          "Benching keeps options open",
+          "Red flags signal incompatibility"
+        ],
+        "hard": [
+          "Anxious-avoidant trap cycles",
+          "Paradox of choice paralyzes",
+          "Performative vulnerability masks",
+          "Digital intimacy lacks depth",
+          "Commodification of romance",
+          "Late-stage dating market dynamics"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Casual",
+          "Benching",
+          "Polyamory"
+        ],
+        "medium": [
+          "Open Relationship",
+          "Dating",
+          "Ghosting"
+        ],
+        "hard": [
+          "Exclusive",
+          "Situationship",
+          "Committed"
+        ]
+      }
+    },
+    {
+      "word": "Netflix and Chill",
+      "sub": "Modern Dating",
+      "diff": "easy",
+      "desc": "A euphemism for inviting someone over for sex under the pretense of watching TV.",
+      "tags": [
+        "modern-dating",
+        "euphemism",
+        "invite",
+        "casual"
+      ],
+      "hints": {
+        "easy": [
+          "Romance in the digital age",
+          "Texting defines early stages",
+          "Labels are complicated",
+          "Commitment varies by person",
+          "Communication is key",
+          "Boundaries matter"
+        ],
+        "medium": [
+          "Attachment styles affect dynamics",
+          "Love languages differ",
+          "Situationships blur lines",
+          "Ghosting avoids confrontation",
+          "Benching keeps options open",
+          "Red flags signal incompatibility"
+        ],
+        "hard": [
+          "Anxious-avoidant trap cycles",
+          "Paradox of choice paralyzes",
+          "Performative vulnerability masks",
+          "Digital intimacy lacks depth",
+          "Commodification of romance",
+          "Late-stage dating market dynamics"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "FWB",
+          "Throuple",
+          "Situationship"
+        ],
+        "medium": [
+          "Dating",
+          "Polyamory",
+          "Casual"
+        ],
+        "hard": [
+          "Relationship",
+          "Open Relationship",
+          "Ghosting"
+        ]
+      }
+    }
+  ]
+}

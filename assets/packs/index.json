@@ -1,223 +1,275 @@
 [
- {
-  "id": "animals_wildlife",
-  "name": "Animals & Wildlife",
-  "description": "Creatures of land, sea and sky, wild and domestic.",
-  "icon": "pets",
-  "is_adult": false,
-  "count": 149,
-  "difficulty": {
-   "easy": 138,
-   "medium": 11,
-   "hard": 0
+  {
+    "id": "after_dark",
+    "name": "18+ - After Dark",
+    "description": "",
+    "icon": "category",
+    "is_adult": true,
+    "count": 84,
+    "difficulty": {
+      "easy": 30,
+      "medium": 37,
+      "hard": 17
+    }
+  },
+  {
+    "id": "animals_wildlife",
+    "name": "Animals & Wildlife",
+    "description": "",
+    "icon": "category",
+    "is_adult": false,
+    "count": 149,
+    "difficulty": {
+      "easy": 138,
+      "medium": 11,
+      "hard": 0
+    }
+  },
+  {
+    "id": "body_health",
+    "name": "Human Body & Health",
+    "description": "",
+    "icon": "category",
+    "is_adult": false,
+    "count": 144,
+    "difficulty": {
+      "easy": 77,
+      "medium": 67,
+      "hard": 0
+    }
+  },
+  {
+    "id": "brands_products",
+    "name": "Brands & Products",
+    "description": "",
+    "icon": "category",
+    "is_adult": false,
+    "count": 265,
+    "difficulty": {
+      "easy": 105,
+      "medium": 99,
+      "hard": 61
+    }
+  },
+  {
+    "id": "business_finance",
+    "name": "Business & Finance",
+    "description": "",
+    "icon": "category",
+    "is_adult": false,
+    "count": 99,
+    "difficulty": {
+      "easy": 34,
+      "medium": 36,
+      "hard": 29
+    }
+  },
+  {
+    "id": "education_knowledge",
+    "name": "Education & Knowledge",
+    "description": "",
+    "icon": "category",
+    "is_adult": false,
+    "count": 137,
+    "difficulty": {
+      "easy": 59,
+      "medium": 78,
+      "hard": 0
+    }
+  },
+  {
+    "id": "everyday_objects",
+    "name": "Everyday Objects",
+    "description": "",
+    "icon": "category",
+    "is_adult": false,
+    "count": 301,
+    "difficulty": {
+      "easy": 192,
+      "medium": 105,
+      "hard": 4
+    }
+  },
+  {
+    "id": "food_drinks",
+    "name": "Food & Drinks",
+    "description": "",
+    "icon": "category",
+    "is_adult": false,
+    "count": 459,
+    "difficulty": {
+      "easy": 303,
+      "medium": 145,
+      "hard": 11
+    }
+  },
+  {
+    "id": "geography_places",
+    "name": "Geography & Places",
+    "description": "",
+    "icon": "category",
+    "is_adult": false,
+    "count": 453,
+    "difficulty": {
+      "easy": 148,
+      "medium": 219,
+      "hard": 86
+    }
+  },
+  {
+    "id": "history_culture",
+    "name": "History & Culture",
+    "description": "",
+    "icon": "category",
+    "is_adult": false,
+    "count": 146,
+    "difficulty": {
+      "easy": 30,
+      "medium": 107,
+      "hard": 9
+    }
+  },
+  {
+    "id": "hobbies_leisure",
+    "name": "Hobbies & Leisure",
+    "description": "",
+    "icon": "category",
+    "is_adult": false,
+    "count": 132,
+    "difficulty": {
+      "easy": 39,
+      "medium": 90,
+      "hard": 3
+    }
+  },
+  {
+    "id": "internet_social",
+    "name": "Internet & Social Media",
+    "description": "",
+    "icon": "category",
+    "is_adult": false,
+    "count": 106,
+    "difficulty": {
+      "easy": 43,
+      "medium": 43,
+      "hard": 20
+    }
+  },
+  {
+    "id": "movies_entertainment",
+    "name": "Movies & Entertainment",
+    "description": "",
+    "icon": "category",
+    "is_adult": false,
+    "count": 149,
+    "difficulty": {
+      "easy": 55,
+      "medium": 93,
+      "hard": 1
+    }
+  },
+  {
+    "id": "music_art",
+    "name": "Music & Art",
+    "description": "",
+    "icon": "category",
+    "is_adult": false,
+    "count": 153,
+    "difficulty": {
+      "easy": 33,
+      "medium": 110,
+      "hard": 10
+    }
+  },
+  {
+    "id": "mythology_fiction",
+    "name": "Mythology & Fiction",
+    "description": "",
+    "icon": "category",
+    "is_adult": false,
+    "count": 150,
+    "difficulty": {
+      "easy": 22,
+      "medium": 124,
+      "hard": 4
+    }
+  },
+  {
+    "id": "nature_environment",
+    "name": "Nature & Environment",
+    "description": "",
+    "icon": "category",
+    "is_adult": false,
+    "count": 157,
+    "difficulty": {
+      "easy": 90,
+      "medium": 67,
+      "hard": 0
+    }
+  },
+  {
+    "id": "professions_jobs",
+    "name": "Professions & Jobs",
+    "description": "",
+    "icon": "category",
+    "is_adult": false,
+    "count": 152,
+    "difficulty": {
+      "easy": 88,
+      "medium": 64,
+      "hard": 0
+    }
+  },
+  {
+    "id": "science_technology",
+    "name": "Science & Technology",
+    "description": "",
+    "icon": "category",
+    "is_adult": false,
+    "count": 149,
+    "difficulty": {
+      "easy": 127,
+      "medium": 20,
+      "hard": 2
+    }
+  },
+  {
+    "id": "sports_games",
+    "name": "Sports & Games",
+    "description": "",
+    "icon": "category",
+    "is_adult": false,
+    "count": 144,
+    "difficulty": {
+      "easy": 56,
+      "medium": 86,
+      "hard": 2
+    }
+  },
+  {
+    "id": "travel_tourism",
+    "name": "Travel & Tourism",
+    "description": "",
+    "icon": "category",
+    "is_adult": false,
+    "count": 157,
+    "difficulty": {
+      "easy": 51,
+      "medium": 103,
+      "hard": 3
+    }
+  },
+  {
+    "id": "vehicles_transport",
+    "name": "Vehicles & Transportation",
+    "description": "",
+    "icon": "category",
+    "is_adult": false,
+    "count": 142,
+    "difficulty": {
+      "easy": 50,
+      "medium": 92,
+      "hard": 0
+    }
   }
- },
- {
-  "id": "food_drinks",
-  "name": "Food & Drinks",
-  "description": "Dishes, snacks, fruits, vegetables and things we drink.",
-  "icon": "restaurant",
-  "is_adult": false,
-  "count": 459,
-  "difficulty": {
-   "easy": 303,
-   "medium": 145,
-   "hard": 11
-  }
- },
- {
-  "id": "science_technology",
-  "name": "Science & Technology",
-  "description": "Gadgets, inventions, scientific tools and ideas.",
-  "icon": "science",
-  "is_adult": false,
-  "count": 149,
-  "difficulty": {
-   "easy": 127,
-   "medium": 20,
-   "hard": 2
-  }
- },
- {
-  "id": "geography_places",
-  "name": "Geography & Places",
-  "description": "Countries, cities and the everyday places we go.",
-  "icon": "public",
-  "is_adult": false,
-  "count": 453,
-  "difficulty": {
-   "easy": 148,
-   "medium": 219,
-   "hard": 86
-  }
- },
- {
-  "id": "movies_entertainment",
-  "name": "Movies & Entertainment",
-  "description": "Film genres, screen tropes and showbiz.",
-  "icon": "movie",
-  "is_adult": false,
-  "count": 149,
-  "difficulty": {
-   "easy": 55,
-   "medium": 93,
-   "hard": 1
-  }
- },
- {
-  "id": "sports_games",
-  "name": "Sports & Games",
-  "description": "Sports, athletic events and games people play.",
-  "icon": "sports_soccer",
-  "is_adult": false,
-  "count": 144,
-  "difficulty": {
-   "easy": 56,
-   "medium": 86,
-   "hard": 2
-  }
- },
- {
-  "id": "hobbies_leisure",
-  "name": "Hobbies & Leisure",
-  "description": "Crafts, pastimes and ways to spend free time.",
-  "icon": "palette",
-  "is_adult": false,
-  "count": 132,
-  "difficulty": {
-   "easy": 39,
-   "medium": 90,
-   "hard": 3
-  }
- },
- {
-  "id": "everyday_objects",
-  "name": "Everyday Objects",
-  "description": "Household items, furniture, clothing and accessories.",
-  "icon": "chair",
-  "is_adult": false,
-  "count": 301,
-  "difficulty": {
-   "easy": 192,
-   "medium": 105,
-   "hard": 4
-  }
- },
- {
-  "id": "professions_jobs",
-  "name": "Professions & Jobs",
-  "description": "The work people do and the roles they hold.",
-  "icon": "work",
-  "is_adult": false,
-  "count": 152,
-  "difficulty": {
-   "easy": 88,
-   "medium": 64,
-   "hard": 0
-  }
- },
- {
-  "id": "history_culture",
-  "name": "History & Culture",
-  "description": "Festivals, traditions, historic eras and events.",
-  "icon": "account_balance",
-  "is_adult": false,
-  "count": 146,
-  "difficulty": {
-   "easy": 30,
-   "medium": 107,
-   "hard": 9
-  }
- },
- {
-  "id": "nature_environment",
-  "name": "Nature & Environment",
-  "description": "Landscapes, weather, plants and the natural world.",
-  "icon": "forest",
-  "is_adult": false,
-  "count": 157,
-  "difficulty": {
-   "easy": 90,
-   "medium": 67,
-   "hard": 0
-  }
- },
- {
-  "id": "vehicles_transport",
-  "name": "Vehicles & Transportation",
-  "description": "Ways to get around on land, water and air.",
-  "icon": "directions_car",
-  "is_adult": false,
-  "count": 142,
-  "difficulty": {
-   "easy": 50,
-   "medium": 92,
-   "hard": 0
-  }
- },
- {
-  "id": "music_art",
-  "name": "Music & Art",
-  "description": "Instruments, music styles and the visual arts.",
-  "icon": "music_note",
-  "is_adult": false,
-  "count": 153,
-  "difficulty": {
-   "easy": 33,
-   "medium": 110,
-   "hard": 10
-  }
- },
- {
-  "id": "mythology_fiction",
-  "name": "Mythology & Fiction",
-  "description": "Mythical creatures, legends and fantasy figures.",
-  "icon": "auto_awesome",
-  "is_adult": false,
-  "count": 150,
-  "difficulty": {
-   "easy": 22,
-   "medium": 124,
-   "hard": 4
-  }
- },
- {
-  "id": "body_health",
-  "name": "Human Body & Health",
-  "description": "Body parts, health, medicine and fitness.",
-  "icon": "favorite",
-  "is_adult": false,
-  "count": 144,
-  "difficulty": {
-   "easy": 77,
-   "medium": 67,
-   "hard": 0
-  }
- },
- {
-  "id": "education_knowledge",
-  "name": "Education & Knowledge",
-  "description": "School life, subjects and learning.",
-  "icon": "school",
-  "is_adult": false,
-  "count": 137,
-  "difficulty": {
-   "easy": 59,
-   "medium": 78,
-   "hard": 0
-  }
- },
- {
-  "id": "travel_tourism",
-  "name": "Travel & Tourism",
-  "description": "Famous landmarks, trips and travel essentials.",
-  "icon": "flight",
-  "is_adult": false,
-  "count": 157,
-  "difficulty": {
-   "easy": 51,
-   "medium": 103,
-   "hard": 3
-  }
- }
 ]

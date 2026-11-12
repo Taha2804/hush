@@ -1,0 +1,6611 @@
+{
+  "id": "brands_products",
+  "name": "Brands & Products",
+  "version": 2,
+  "schema_version": 3,
+  "is_adult": false,
+  "content_version": "1.0.0",
+  "generated_at": "2026-11-12T16:36:27.922170Z",
+  "words": [
+    {
+      "word": "Apple",
+      "sub": "Technology",
+      "diff": "easy",
+      "desc": "A premium consumer electronics company known for iPhone and Mac computers.",
+      "tags": [
+        "tech",
+        "consumer-electronics",
+        "smartphones",
+        "computers"
+      ],
+      "hints": {
+        "easy": [
+          "This technology company produces iPhone and Mac",
+          "Renowned for iPhone and Mac",
+          "Founded in 1976 and headquartered in Cupertino",
+          "Their logo features a bitten",
+          "Slogan: Think Different",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features a bitten",
+          "Known for iPhone and Mac",
+          "Founded in 1976",
+          "Headquartered in Cupertino",
+          "Their slogan: Think Different",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind the iPhone",
+          "Stock ticker: AAPL",
+          "Acquired Beats and Shazam",
+          "CEO: Tim Cook",
+          "Revenue exceeds $300B annually",
+          "Pioneered touchscreen smartphones"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "medium": [
+          "Microsoft",
+          "Google",
+          "Amazon"
+        ],
+        "hard": [
+          "Meta",
+          "Tesla",
+          "Netflix"
+        ]
+      }
+    },
+    {
+      "word": "Microsoft",
+      "sub": "Technology",
+      "diff": "easy",
+      "desc": "A global software corporation famous for Windows and Office productivity suite.",
+      "tags": [
+        "tech",
+        "software",
+        "operating-systems",
+        "cloud"
+      ],
+      "hints": {
+        "easy": [
+          "This technology company produces Windows and Office",
+          "Renowned for Windows and Office",
+          "Founded in 1975 and headquartered in Redmond",
+          "Their logo features four colored squares",
+          "Slogan: Empower every person",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features four colored squares",
+          "Known for Windows and Office",
+          "Founded in 1975",
+          "Headquartered in Redmond",
+          "Their slogan: Empower every person",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind Windows",
+          "Stock ticker: MSFT",
+          "Acquired LinkedIn and GitHub",
+          "CEO: Satya Nadella",
+          "Revenue exceeds $200B annually",
+          "Pioneered PC operating systems"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "medium": [
+          "Apple",
+          "Google",
+          "Amazon"
+        ],
+        "hard": [
+          "Meta",
+          "Tesla",
+          "Netflix"
+        ]
+      }
+    },
+    {
+      "word": "Google",
+      "sub": "Technology",
+      "diff": "easy",
+      "desc": "An internet search and advertising giant that also makes Android and cloud services.",
+      "tags": [
+        "tech",
+        "search",
+        "advertising",
+        "android"
+      ],
+      "hints": {
+        "easy": [
+          "This technology company produces search and Android",
+          "Renowned for search and Android",
+          "Founded in 1998 and headquartered in Mountain View",
+          "Their logo features colorful letters",
+          "Slogan: Don't be evil",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features colorful letters",
+          "Known for search and Android",
+          "Founded in 1998",
+          "Headquartered in Mountain View",
+          "Their slogan: Don't be evil",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind Search",
+          "Stock ticker: GOOGL",
+          "Acquired YouTube and Android",
+          "CEO: Sundar Pichai",
+          "Revenue exceeds $280B annually",
+          "Pioneered search algorithms"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "medium": [
+          "Apple",
+          "Microsoft",
+          "Amazon"
+        ],
+        "hard": [
+          "Meta",
+          "Tesla",
+          "Netflix"
+        ]
+      }
+    },
+    {
+      "word": "Amazon",
+      "sub": "Technology",
+      "diff": "easy",
+      "desc": "An e-commerce and cloud computing company that started as an online bookstore.",
+      "tags": [
+        "tech",
+        "ecommerce",
+        "cloud",
+        "logistics"
+      ],
+      "hints": {
+        "easy": [
+          "This technology company produces e-commerce and AWS",
+          "Renowned for e-commerce and AWS",
+          "Founded in 1994 and headquartered in Seattle",
+          "Their logo features a smile arrow",
+          "Slogan: Earth's most customer-centric",
+          "Competes with Walmart"
+        ],
+        "medium": [
+          "Their logo features a smile arrow",
+          "Known for e-commerce and AWS",
+          "Founded in 1994",
+          "Headquartered in Seattle",
+          "Their slogan: Earth's most customer-centric",
+          "Competes with Walmart"
+        ],
+        "hard": [
+          "The American brand behind Prime",
+          "Stock ticker: AMZN",
+          "Acquired Whole Foods and Twitch",
+          "CEO: Andy Jassy",
+          "Revenue exceeds $500B annually",
+          "Pioneered cloud computing"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "medium": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "hard": [
+          "Meta",
+          "Tesla",
+          "Netflix"
+        ]
+      }
+    },
+    {
+      "word": "Meta",
+      "sub": "Technology",
+      "diff": "easy",
+      "desc": "The parent company of Facebook Instagram and WhatsApp focused on social connection.",
+      "tags": [
+        "tech",
+        "social-media",
+        "vr",
+        "metaverse"
+      ],
+      "hints": {
+        "easy": [
+          "This technology company produces Facebook and Instagram",
+          "Renowned for Facebook and Instagram",
+          "Founded in 2004 and headquartered in Menlo Park",
+          "Their logo features an infinity loop",
+          "Slogan: Move fast",
+          "Competes with TikTok"
+        ],
+        "medium": [
+          "Their logo features an infinity loop",
+          "Known for Facebook and Instagram",
+          "Founded in 2004",
+          "Headquartered in Menlo Park",
+          "Their slogan: Move fast",
+          "Competes with TikTok"
+        ],
+        "hard": [
+          "The American brand behind Facebook",
+          "Acquired Instagram and WhatsApp",
+          "CEO: Mark Zuckerberg",
+          "Revenue exceeds $130B annually",
+          "Pioneered social networking",
+          "A technology brand you might recognize"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "medium": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "hard": [
+          "Amazon",
+          "Tesla",
+          "Netflix"
+        ]
+      }
+    },
+    {
+      "word": "Tesla",
+      "sub": "Technology",
+      "diff": "easy",
+      "desc": "An electric vehicle and clean energy company led by Elon Musk.",
+      "tags": [
+        "tech",
+        "automotive",
+        "electric-vehicles",
+        "energy"
+      ],
+      "hints": {
+        "easy": [
+          "This technology company produces electric vehicles",
+          "Renowned for electric vehicles",
+          "Founded in 2003 and headquartered in Austin",
+          "Their logo features a stylized T",
+          "Slogan: Accelerate sustainable energy",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features a stylized T",
+          "Known for electric vehicles",
+          "Founded in 2003",
+          "Headquartered in Austin",
+          "Their slogan: Accelerate sustainable energy",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind Model 3",
+          "Stock ticker: TSLA",
+          "Acquired SolarCity",
+          "CEO: Elon Musk",
+          "Revenue exceeds $90B annually",
+          "Pioneered EV mass production"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "medium": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "hard": [
+          "Amazon",
+          "Meta",
+          "Netflix"
+        ]
+      }
+    },
+    {
+      "word": "Netflix",
+      "sub": "Technology",
+      "diff": "easy",
+      "desc": "A streaming service that pioneered on-demand video entertainment worldwide.",
+      "tags": [
+        "tech",
+        "streaming",
+        "entertainment",
+        "media"
+      ],
+      "hints": {
+        "easy": [
+          "This technology company produces streaming video",
+          "Renowned for streaming video",
+          "Founded in 1997 and headquartered in Los Gatos",
+          "Their logo features a red N",
+          "Slogan: See what's next",
+          "Competes with + and HBO"
+        ],
+        "medium": [
+          "Their logo features a red N",
+          "Known for streaming video",
+          "Founded in 1997",
+          "Headquartered in Los Gatos",
+          "Their slogan: See what's next",
+          "Competes with + and HBO"
+        ],
+        "hard": [
+          "The American brand behind streaming",
+          "Stock ticker: NFLX",
+          "Acquired Millarworld",
+          "CEO: Ted Sarandos",
+          "Revenue exceeds $30B annually",
+          "Pioneered binge watching"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "medium": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "hard": [
+          "Amazon",
+          "Meta",
+          "Tesla"
+        ]
+      }
+    },
+    {
+      "word": "Spotify",
+      "sub": "Technology",
+      "diff": "easy",
+      "desc": "A music streaming platform with millions of songs and podcasts.",
+      "tags": [
+        "tech",
+        "music",
+        "streaming",
+        "audio"
+      ],
+      "hints": {
+        "easy": [
+          "This technology company produces music streaming",
+          "Renowned for music streaming",
+          "Founded in 2006 and headquartered in Stockholm",
+          "Their logo features green sound waves",
+          "Slogan: Music for everyone",
+          "Competes with Music and YouTube"
+        ],
+        "medium": [
+          "Their logo features green sound waves",
+          "Known for music streaming",
+          "Founded in 2006",
+          "Headquartered in Stockholm",
+          "Their slogan: Music for everyone",
+          "Competes with Music and YouTube"
+        ],
+        "hard": [
+          "The Swedish brand behind flagship product",
+          "Stock ticker: SPOT",
+          "Acquired Anchor and Gimlet",
+          "CEO: Daniel Ek",
+          "Revenue exceeds $12B annually",
+          "Pioneered music streaming"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "medium": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "hard": [
+          "Amazon",
+          "Meta",
+          "Tesla"
+        ]
+      }
+    },
+    {
+      "word": "Uber",
+      "sub": "Technology",
+      "diff": "easy",
+      "desc": "A ride-hailing app that connects passengers with drivers globally.",
+      "tags": [
+        "tech",
+        "ride-sharing",
+        "transport",
+        "gig-economy"
+      ],
+      "hints": {
+        "easy": [
+          "This technology company produces ride sharing",
+          "Renowned for ride sharing",
+          "Founded in 2009 and headquartered in San Francisco",
+          "Their logo features a stylized U",
+          "Slogan: Move the way you want",
+          "Competes with Lyft and DoorDash"
+        ],
+        "medium": [
+          "Their logo features a stylized U",
+          "Known for ride sharing",
+          "Founded in 2009",
+          "Headquartered in San Francisco",
+          "Their slogan: Move the way you want",
+          "Competes with Lyft and DoorDash"
+        ],
+        "hard": [
+          "The American brand behind flagship product",
+          "Acquired Postmates",
+          "CEO: Dara Khosrowshahi",
+          "Revenue exceeds $30B annually",
+          "Pioneered gig economy",
+          "A technology brand you might recognize"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "medium": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "hard": [
+          "Amazon",
+          "Meta",
+          "Tesla"
+        ]
+      }
+    },
+    {
+      "word": "Airbnb",
+      "sub": "Technology",
+      "diff": "easy",
+      "desc": "A marketplace for short-term home rentals and travel experiences.",
+      "tags": [
+        "tech",
+        "travel",
+        "hospitality",
+        "sharing-economy"
+      ],
+      "hints": {
+        "easy": [
+          "This technology company produces home sharing",
+          "Renowned for home sharing",
+          "Founded in 2008 and headquartered in San Francisco",
+          "Their logo features a belo symbol",
+          "Slogan: Belong anywhere",
+          "Competes with VRBO and Booking"
+        ],
+        "medium": [
+          "Their logo features a belo symbol",
+          "Known for home sharing",
+          "Founded in 2008",
+          "Headquartered in San Francisco",
+          "Their slogan: Belong anywhere",
+          "Competes with VRBO and Booking"
+        ],
+        "hard": [
+          "The American brand behind flagship product",
+          "Stock ticker: ABNB",
+          "Acquired HotelTonight",
+          "CEO: Brian Chesky",
+          "Revenue exceeds $8B annually",
+          "Pioneered home sharing"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "medium": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "hard": [
+          "Amazon",
+          "Meta",
+          "Tesla"
+        ]
+      }
+    },
+    {
+      "word": "NVIDIA",
+      "sub": "Technology",
+      "diff": "hard",
+      "desc": "A semiconductor company that designs graphics processing units for gaming and AI.",
+      "tags": [
+        "tech",
+        "semiconductors",
+        "gpus",
+        "ai"
+      ],
+      "hints": {
+        "easy": [
+          "This technology company produces GPUs and AI chips",
+          "Renowned for GPUs and AI chips",
+          "Founded in 1993 and headquartered in Santa Clara",
+          "Their logo features a green eye",
+          "Slogan: The AI computing company",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features a green eye",
+          "Known for GPUs and AI chips",
+          "Founded in 1993",
+          "Headquartered in Santa Clara",
+          "Their slogan: The AI computing company",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind GeForce RTX",
+          "Stock ticker: NVDA",
+          "Acquired Mellanox",
+          "CEO: Jensen Huang",
+          "Revenue exceeds $60B annually",
+          "Pioneered GPU computing"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "medium": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "hard": [
+          "Amazon",
+          "Meta",
+          "Tesla"
+        ]
+      }
+    },
+    {
+      "word": "AMD",
+      "sub": "Technology",
+      "diff": "hard",
+      "desc": "A chipmaker competing in processors and graphics cards for computers.",
+      "tags": [
+        "tech",
+        "semiconductors",
+        "processors",
+        "gpus"
+      ],
+      "hints": {
+        "easy": [
+          "This technology company produces Ryzen and Radeon",
+          "Renowned for Ryzen and Radeon",
+          "Founded in 1969 and headquartered in Santa Clara",
+          "Their logo features a red arrow",
+          "Slogan: Together we advance",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features a red arrow",
+          "Known for Ryzen and Radeon",
+          "Founded in 1969",
+          "Headquartered in Santa Clara",
+          "Their slogan: Together we advance",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind Ryzen CPUs",
+          "Acquired Xilinx",
+          "CEO: Lisa Su",
+          "Revenue exceeds $23B annually",
+          "Pioneered x86 competition",
+          "A technology brand you might recognize"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "medium": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "hard": [
+          "Amazon",
+          "Meta",
+          "Tesla"
+        ]
+      }
+    },
+    {
+      "word": "Intel",
+      "sub": "Technology",
+      "diff": "medium",
+      "desc": "A semiconductor giant that makes processors for most personal computers.",
+      "tags": [
+        "tech",
+        "semiconductors",
+        "processors",
+        "x86"
+      ],
+      "hints": {
+        "easy": [
+          "This technology company produces Core processors",
+          "Renowned for Core processors",
+          "Founded in 1968 and headquartered in Santa Clara",
+          "Their logo features a blue swirl",
+          "Slogan: inside",
+          "Competes with ARM"
+        ],
+        "medium": [
+          "Their logo features a blue swirl",
+          "Known for Core processors",
+          "Founded in 1968",
+          "Headquartered in Santa Clara",
+          "Their slogan: inside",
+          "Competes with ARM"
+        ],
+        "hard": [
+          "The American brand behind Core i9",
+          "Stock ticker: INTC",
+          "Acquired Mobileye",
+          "CEO: Pat Gelsinger",
+          "Revenue exceeds $50B annually",
+          "Pioneered x86 architecture"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "medium": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "hard": [
+          "Amazon",
+          "Meta",
+          "Tesla"
+        ]
+      }
+    },
+    {
+      "word": "Samsung",
+      "sub": "Technology",
+      "diff": "easy",
+      "desc": "A Korean conglomerate making phones appliances and memory chips.",
+      "tags": [
+        "tech",
+        "smartphones",
+        "displays",
+        "memory"
+      ],
+      "hints": {
+        "easy": [
+          "This technology company produces Galaxy phones and chips",
+          "Renowned for Galaxy phones and chips",
+          "Founded in 1938 and headquartered in Seoul",
+          "Their logo features a blue ellipse",
+          "Slogan: Do what you can't",
+          "Competes with TSMC"
+        ],
+        "medium": [
+          "Their logo features a blue ellipse",
+          "Known for Galaxy phones and chips",
+          "Founded in 1938",
+          "Headquartered in Seoul",
+          "Their slogan: Do what you can't",
+          "Competes with TSMC"
+        ],
+        "hard": [
+          "The Korean brand behind Galaxy S",
+          "Stock ticker: 005930.KS",
+          "Acquired Harman",
+          "CEO: Jong-hee Han",
+          "Revenue exceeds $200B annually",
+          "Pioneered memory chips"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "medium": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "hard": [
+          "Amazon",
+          "Meta",
+          "Tesla"
+        ]
+      }
+    },
+    {
+      "word": "Sony",
+      "sub": "Technology",
+      "diff": "easy",
+      "desc": "A Japanese electronics and entertainment company with PlayStation consoles.",
+      "tags": [
+        "tech",
+        "gaming",
+        "electronics",
+        "entertainment"
+      ],
+      "hints": {
+        "easy": [
+          "This technology company produces PlayStation and electronics",
+          "Renowned for PlayStation and electronics",
+          "Founded in 1946 and headquartered in Tokyo",
+          "Their logo features stylized",
+          "Slogan: Be Moved",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features stylized",
+          "Known for PlayStation and electronics",
+          "Founded in 1946",
+          "Headquartered in Tokyo",
+          "Their slogan: Be Moved",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The Japanese brand behind PlayStation 5",
+          "Stock ticker: 6758.T",
+          "Acquired Crunchyroll",
+          "CEO: Kenichiro Yoshida",
+          "Revenue exceeds $80B annually",
+          "Pioneered consumer electronics"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "medium": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "hard": [
+          "Amazon",
+          "Meta",
+          "Tesla"
+        ]
+      }
+    },
+    {
+      "word": "LG",
+      "sub": "Technology",
+      "diff": "medium",
+      "desc": "A Korean electronics brand known for displays and home appliances.",
+      "tags": [
+        "tech",
+        "displays",
+        "appliances",
+        "korean"
+      ],
+      "hints": {
+        "easy": [
+          "This technology company produces OLED displays and appliances",
+          "Renowned for OLED displays and appliances",
+          "Founded in 1958 and headquartered in Seoul",
+          "Their logo features a red face",
+          "Slogan: Life's Good",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features a red face",
+          "Known for OLED displays and appliances",
+          "Founded in 1958",
+          "Headquartered in Seoul",
+          "Their slogan: Life's Good",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The Korean brand behind OLED TVs",
+          "Stock ticker: 066570.KS",
+          "Acquired Zenith",
+          "CEO: William Cho",
+          "Revenue exceeds $60B annually",
+          "Pioneered OLED technology"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "medium": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "hard": [
+          "Amazon",
+          "Meta",
+          "Tesla"
+        ]
+      }
+    },
+    {
+      "word": "GoPro",
+      "sub": "Technology",
+      "diff": "medium",
+      "desc": "An action camera brand for extreme sports and adventure recording.",
+      "tags": [
+        "tech",
+        "action-cameras",
+        "sports",
+        "video"
+      ],
+      "hints": {
+        "easy": [
+          "This technology company produces action cameras",
+          "Renowned for action cameras",
+          "Founded in 2002 and headquartered in San Mateo",
+          "Their logo features a white box",
+          "Slogan: Be a Hero",
+          "Competes with DJI and Insta360"
+        ],
+        "medium": [
+          "Their logo features a white box",
+          "Known for action cameras",
+          "Founded in 2002",
+          "Headquartered in San Mateo",
+          "Their slogan: Be a Hero",
+          "Competes with DJI and Insta360"
+        ],
+        "hard": [
+          "The American brand behind HERO cameras",
+          "Stock ticker: GPRO",
+          "Acquired none major",
+          "CEO: Nicholas Woodman",
+          "Revenue exceeds $1B annually",
+          "Pioneered wearable cameras"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "medium": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "hard": [
+          "Amazon",
+          "Meta",
+          "Tesla"
+        ]
+      }
+    },
+    {
+      "word": "Coca-Cola",
+      "sub": "Food & Beverage",
+      "diff": "easy",
+      "desc": "The world's most recognized carbonated soft drink brand since 1886.",
+      "tags": [
+        "beverage",
+        "soft-drink",
+        "soda",
+        "global"
+      ],
+      "hints": {
+        "easy": [
+          "This food & beverage company produces Coke and Sprite",
+          "Renowned for Coke and Sprite",
+          "Founded in 1886 and headquartered in Atlanta",
+          "Their logo features red script lettering",
+          "Slogan: Open Happiness",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features red script lettering",
+          "Known for Coke and Sprite",
+          "Founded in 1886",
+          "Headquartered in Atlanta",
+          "Their slogan: Open Happiness",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind flagship product",
+          "Stock ticker: KO",
+          "Acquired Costa Coffee",
+          "CEO: James Quincey",
+          "Revenue exceeds $40B annually",
+          "Pioneered bottling franchising"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Pepsi",
+          "Starbucks",
+          "McDonald's"
+        ],
+        "hard": [
+          "KFC",
+          "Burger King",
+          "Subway"
+        ]
+      }
+    },
+    {
+      "word": "Pepsi",
+      "sub": "Food & Beverage",
+      "diff": "easy",
+      "desc": "A major cola competitor to Coca-Cola with a sweeter taste profile.",
+      "tags": [
+        "beverage",
+        "soft-drink",
+        "cola",
+        "rival"
+      ],
+      "hints": {
+        "easy": [
+          "This food & beverage company produces Mountain Dew",
+          "Renowned for Mountain Dew",
+          "Founded in 1898 and headquartered in Purchase NY",
+          "Their logo features red white blue circle",
+          "Slogan: That's What I Like",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features red white blue circle",
+          "Known for Mountain Dew",
+          "Founded in 1898",
+          "Headquartered in Purchase NY",
+          "Their slogan: That's What I Like",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind Cola",
+          "Stock ticker: PEP",
+          "Acquired SodaStream",
+          "CEO: Ramon Laguarta",
+          "Revenue exceeds $80B annually",
+          "Pioneered cola wars"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Starbucks",
+          "McDonald's",
+          "KFC"
+        ],
+        "hard": [
+          "Burger King",
+          "Subway",
+          "Domino's"
+        ]
+      }
+    },
+    {
+      "word": "Starbucks",
+      "sub": "Food & Beverage",
+      "diff": "easy",
+      "desc": "A global coffeehouse chain known for customized espresso beverages.",
+      "tags": [
+        "beverage",
+        "coffee",
+        "cafe",
+        "chain"
+      ],
+      "hints": {
+        "easy": [
+          "This food & beverage company produces coffee and Frappuccino",
+          "Renowned for coffee and Frappuccino",
+          "Founded in 1971 and headquartered in Seattle",
+          "Their logo features a green siren",
+          "Slogan: To inspire and nurture",
+          "Competes with Dunkin' and Costa"
+        ],
+        "medium": [
+          "Their logo features a green siren",
+          "Known for coffee and Frappuccino",
+          "Founded in 1971",
+          "Headquartered in Seattle",
+          "Their slogan: To inspire and nurture",
+          "Competes with Dunkin' and Costa"
+        ],
+        "hard": [
+          "The American brand behind Pike Place Roast",
+          "Stock ticker: SBUX",
+          "Acquired Teavana",
+          "CEO: Laxman Narasimhan",
+          "Revenue exceeds $35B annually",
+          "Pioneered coffeehouse culture"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Coca-Cola",
+          "Pepsi",
+          "McDonald's"
+        ],
+        "hard": [
+          "KFC",
+          "Burger King",
+          "Subway"
+        ]
+      }
+    },
+    {
+      "word": "McDonald's",
+      "sub": "Food & Beverage",
+      "diff": "easy",
+      "desc": "The largest fast-food restaurant chain serving burgers and fries worldwide.",
+      "tags": [
+        "food",
+        "fast-food",
+        "burgers",
+        "franchise"
+      ],
+      "hints": {
+        "easy": [
+          "This food & beverage company produces Big Mac and fries",
+          "Renowned for Big Mac and fries",
+          "Founded in 1940 and headquartered in Chicago",
+          "Their logo features golden arches",
+          "Slogan: I'm Lovin' It",
+          "Competes with Wendy's"
+        ],
+        "medium": [
+          "Their logo features golden arches",
+          "Known for Big Mac and fries",
+          "Founded in 1940",
+          "Headquartered in Chicago",
+          "Their slogan: I'm Lovin' It",
+          "Competes with Wendy's"
+        ],
+        "hard": [
+          "The American brand behind Big Mac",
+          "Stock ticker: MCD",
+          "Acquired Chipotle (former)",
+          "CEO: Chris Kempczinski",
+          "Revenue exceeds $23B annually",
+          "Pioneered fast food franchising"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "hard": [
+          "KFC",
+          "Burger King",
+          "Subway"
+        ]
+      }
+    },
+    {
+      "word": "KFC",
+      "sub": "Food & Beverage",
+      "diff": "easy",
+      "desc": "A fast-food chain specializing in fried chicken with secret herbs.",
+      "tags": [
+        "food",
+        "fast-food",
+        "chicken",
+        "franchise"
+      ],
+      "hints": {
+        "easy": [
+          "This food & beverage company produces fried chicken",
+          "Renowned for fried chicken",
+          "Founded in 1952 and headquartered in Louisville",
+          "Their logo features Colonel Sanders",
+          "Slogan: Finger Lickin' Good",
+          "Competes with Popeyes and Chick-fil-A"
+        ],
+        "medium": [
+          "Their logo features Colonel Sanders",
+          "Known for fried chicken",
+          "Founded in 1952",
+          "Headquartered in Louisville",
+          "Their slogan: Finger Lickin' Good",
+          "Competes with Popeyes and Chick-fil-A"
+        ],
+        "hard": [
+          "The American brand behind Original Recipe",
+          "Stock ticker: YUM (parent)",
+          "Acquired none major",
+          "CEO: Sabir Sami",
+          "Revenue exceeds $30B (YUM)",
+          "Pioneered pressure frying"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "hard": [
+          "McDonald's",
+          "Burger King",
+          "Subway"
+        ]
+      }
+    },
+    {
+      "word": "Burger King",
+      "sub": "Food & Beverage",
+      "diff": "easy",
+      "desc": "A burger chain known for flame-grilled Whopper sandwiches.",
+      "tags": [
+        "food",
+        "fast-food",
+        "burgers",
+        "flame-grilled"
+      ],
+      "hints": {
+        "easy": [
+          "This food & beverage company produces Whopper and flame grilled",
+          "Renowned for Whopper and flame grilled",
+          "Founded in 1954 and headquartered in Miami",
+          "Their logo features bun with text",
+          "Slogan: Have It Your Way",
+          "Competes with Wendy's"
+        ],
+        "medium": [
+          "Their logo features bun with text",
+          "Known for Whopper and flame grilled",
+          "Founded in 1954",
+          "Headquartered in Miami",
+          "Their slogan: Have It Your Way",
+          "Competes with Wendy's"
+        ],
+        "hard": [
+          "The American brand behind Whopper",
+          "Stock ticker: QSR (parent)",
+          "Acquired Tim Hortons",
+          "CEO: Joshua Kobza",
+          "Revenue exceeds $6B (BK)",
+          "Pioneered flame grilling"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "hard": [
+          "McDonald's",
+          "KFC",
+          "Subway"
+        ]
+      }
+    },
+    {
+      "word": "Subway",
+      "sub": "Food & Beverage",
+      "diff": "easy",
+      "desc": "A sandwich franchise where subs are made fresh in front of you.",
+      "tags": [
+        "food",
+        "fast-food",
+        "sandwiches",
+        "franchise"
+      ],
+      "hints": {
+        "easy": [
+          "This food & beverage company produces made-to-order subs",
+          "Renowned for made-to-order subs",
+          "Founded in 1965 and headquartered in Milford CT",
+          "Their logo features green yellow arrows",
+          "Slogan: Eat Fresh",
+          "Competes with Jimmy John's and Jersey Mike's"
+        ],
+        "medium": [
+          "Their logo features green yellow arrows",
+          "Known for made-to-order subs",
+          "Founded in 1965",
+          "Headquartered in Milford CT",
+          "Their slogan: Eat Fresh",
+          "Competes with Jimmy John's and Jersey Mike's"
+        ],
+        "hard": [
+          "The American brand behind Italian BMT",
+          "Stock ticker: private",
+          "Acquired none major",
+          "CEO: John Chidsey",
+          "Revenue exceeds $16B annually",
+          "Pioneered sandwich customization"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "hard": [
+          "McDonald's",
+          "KFC",
+          "Burger King"
+        ]
+      }
+    },
+    {
+      "word": "Domino's",
+      "sub": "Food & Beverage",
+      "diff": "easy",
+      "desc": "A pizza delivery chain promising thirty-minute delivery guarantee.",
+      "tags": [
+        "food",
+        "pizza",
+        "delivery",
+        "chain"
+      ],
+      "hints": {
+        "easy": [
+          "This food & beverage company produces pizza delivery",
+          "Renowned for pizza delivery",
+          "Founded in 1960 and headquartered in Ann Arbor",
+          "Their logo features three domino dots",
+          "Slogan: You Got 30 Minutes",
+          "Competes with Pizza Hut and Papa John's"
+        ],
+        "medium": [
+          "Their logo features three domino dots",
+          "Known for pizza delivery",
+          "Founded in 1960",
+          "Headquartered in Ann Arbor",
+          "Their slogan: You Got 30 Minutes",
+          "Competes with Pizza Hut and Papa John's"
+        ],
+        "hard": [
+          "The American brand behind pepperoni pizza",
+          "Stock ticker: DPZ",
+          "Acquired none major",
+          "CEO: Russell Weiner",
+          "Revenue exceeds $4B annually",
+          "Pioneered pizza tracker"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "hard": [
+          "McDonald's",
+          "KFC",
+          "Burger King"
+        ]
+      }
+    },
+    {
+      "word": "Oreo",
+      "sub": "Food & Beverage",
+      "diff": "easy",
+      "desc": "A chocolate sandwich cookie with creme filling from Nabisco.",
+      "tags": [
+        "food",
+        "cookies",
+        "snacks",
+        "chocolate"
+      ],
+      "hints": {
+        "easy": [
+          "This food & beverage company produces sandwich cookies",
+          "Renowned for sandwich cookies",
+          "Founded in 1912 and headquartered in Chicago (Mondelez)",
+          "Their logo features blue text",
+          "Slogan: Twist Lick Dunk",
+          "Competes with Chips Ahoy and Hydrox"
+        ],
+        "medium": [
+          "Their logo features blue text",
+          "Known for sandwich cookies",
+          "Founded in 1912",
+          "Headquartered in Chicago (Mondelez)",
+          "Their slogan: Twist Lick Dunk",
+          "Competes with Chips Ahoy and Hydrox"
+        ],
+        "hard": [
+          "The American brand behind cookie",
+          "Stock ticker: MDLZ (parent)",
+          "Acquired none major",
+          "CEO: Dirk Van de Put",
+          "Revenue exceeds $30B (Mondelez)",
+          "Pioneered creme filling"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "hard": [
+          "McDonald's",
+          "KFC",
+          "Burger King"
+        ]
+      }
+    },
+    {
+      "word": "KitKat",
+      "sub": "Food & Beverage",
+      "diff": "easy",
+      "desc": "A chocolate-covered wafer bar with a snap-break design.",
+      "tags": [
+        "food",
+        "chocolate",
+        "wafer",
+        "snack"
+      ],
+      "hints": {
+        "easy": [
+          "This food & beverage company produces wafer chocolate bar",
+          "Renowned for wafer chocolate bar",
+          "Founded in 1935 and headquartered in York UK (Nestle)",
+          "Their logo features red text",
+          "Slogan: Have a Break",
+          "Competes with Twix"
+        ],
+        "medium": [
+          "Their logo features red text",
+          "Known for wafer chocolate bar",
+          "Founded in 1935",
+          "Headquartered in York UK (Nestle)",
+          "Their slogan: Have a Break",
+          "Competes with Twix"
+        ],
+        "hard": [
+          "The British brand behind bar",
+          "Stock ticker: NESN.SW (parent)",
+          "Acquired Rowntree's",
+          "CEO: Mark Schneider (Nestle)",
+          "Revenue exceeds $90B (Nestle)",
+          "Pioneered snap break design"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "hard": [
+          "McDonald's",
+          "KFC",
+          "Burger King"
+        ]
+      }
+    },
+    {
+      "word": "M&M's",
+      "sub": "Food & Beverage",
+      "diff": "easy",
+      "desc": "Colorful button-shaped chocolates that melt in your mouth not hands.",
+      "tags": [
+        "food",
+        "chocolate",
+        "candy",
+        "colorful"
+      ],
+      "hints": {
+        "easy": [
+          "This food & beverage company produces chocolate candies",
+          "Renowned for chocolate candies",
+          "Founded in 1941 and headquartered in Newark (Mars)",
+          "Their logo features colorful M's",
+          "Slogan: Melts in Your Mouth",
+          "Competes with Skittles and Reese's"
+        ],
+        "medium": [
+          "Their logo features colorful M's",
+          "Known for chocolate candies",
+          "Founded in 1941",
+          "Headquartered in Newark (Mars)",
+          "Their slogan: Melts in Your Mouth",
+          "Competes with Skittles and Reese's"
+        ],
+        "hard": [
+          "The American brand behind flagship product",
+          "Stock ticker: private (Mars)",
+          "Acquired none major",
+          "CEO: Poul Weihrauch",
+          "Revenue exceeds $45B (Mars)",
+          "Pioneered candy shell"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "hard": [
+          "McDonald's",
+          "KFC",
+          "Burger King"
+        ]
+      }
+    },
+    {
+      "word": "Snickers",
+      "sub": "Food & Beverage",
+      "diff": "easy",
+      "desc": "A chocolate bar with nougat caramel and peanuts satisfying hunger.",
+      "tags": [
+        "food",
+        "chocolate",
+        "candy-bar",
+        "peanuts"
+      ],
+      "hints": {
+        "easy": [
+          "This food & beverage company produces nougat caramel peanuts",
+          "Renowned for nougat caramel peanuts",
+          "Founded in 1930 and headquartered in Newark (Mars)",
+          "Their logo features blue text",
+          "Slogan: You're Not You When Hungry",
+          "Competes with Milky Way and Twix"
+        ],
+        "medium": [
+          "Their logo features blue text",
+          "Known for nougat caramel peanuts",
+          "Founded in 1930",
+          "Headquartered in Newark (Mars)",
+          "Their slogan: You're Not You When Hungry",
+          "Competes with Milky Way and Twix"
+        ],
+        "hard": [
+          "The American brand behind bar",
+          "Stock ticker: private (Mars)",
+          "Acquired none major",
+          "CEO: Poul Weihrauch",
+          "Revenue exceeds $45B (Mars)",
+          "Pioneered hunger marketing"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "hard": [
+          "McDonald's",
+          "KFC",
+          "Burger King"
+        ]
+      }
+    },
+    {
+      "word": "Pringles",
+      "sub": "Food & Beverage",
+      "diff": "easy",
+      "desc": "Stackable potato crisps in a distinctive cylindrical can.",
+      "tags": [
+        "food",
+        "chips",
+        "potato",
+        "can"
+      ],
+      "hints": {
+        "easy": [
+          "This food & beverage company produces stackable chips in can",
+          "Renowned for stackable chips in can",
+          "Founded in 1968 and headquartered in Chicago (Kellanova)",
+          "Their logo features Julius face",
+          "Slogan: Once You Pop",
+          "Competes with Stax"
+        ],
+        "medium": [
+          "Their logo features Julius face",
+          "Known for stackable chips in can",
+          "Founded in 1968",
+          "Headquartered in Chicago (Kellanova)",
+          "Their slogan: Once You Pop",
+          "Competes with Stax"
+        ],
+        "hard": [
+          "The American brand behind Original",
+          "Stock ticker: K (parent)",
+          "Acquired none major",
+          "CEO: Gary Pilnick",
+          "Revenue exceeds $13B (Kellanova)",
+          "Pioneered saddle shape can"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "hard": [
+          "McDonald's",
+          "KFC",
+          "Burger King"
+        ]
+      }
+    },
+    {
+      "word": "Lay's",
+      "sub": "Food & Beverage",
+      "diff": "easy",
+      "desc": "A potato chip brand with countless flavor varieties globally.",
+      "tags": [
+        "food",
+        "chips",
+        "potato",
+        "flavors"
+      ],
+      "hints": {
+        "easy": [
+          "This food & beverage company produces potato chips",
+          "Renowned for potato chips",
+          "Founded in 1932 and headquartered in Plano (PepsiCo)",
+          "Their logo features red text",
+          "Slogan: Betcha Can't Eat Just One",
+          "Competes with Ruffles"
+        ],
+        "medium": [
+          "Their logo features red text",
+          "Known for potato chips",
+          "Founded in 1932",
+          "Headquartered in Plano (PepsiCo)",
+          "Their slogan: Betcha Can't Eat Just One",
+          "Competes with Ruffles"
+        ],
+        "hard": [
+          "The American brand behind Classic",
+          "Stock ticker: PEP (parent)",
+          "Acquired Frito-Lay",
+          "CEO: Ramon Laguarta",
+          "Revenue exceeds $80B (PepsiCo)",
+          "Pioneered flavor variety"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Coca-Cola",
+          "Starbucks",
+          "McDonald's"
+        ],
+        "hard": [
+          "KFC",
+          "Burger King",
+          "Subway"
+        ]
+      }
+    },
+    {
+      "word": "Ben & Jerry's",
+      "sub": "Food & Beverage",
+      "diff": "medium",
+      "desc": "A premium ice cream brand with creative chunk-filled flavors.",
+      "tags": [
+        "food",
+        "ice-cream",
+        "premium",
+        "chunks"
+      ],
+      "hints": {
+        "easy": [
+          "This food & beverage company produces chunky ice cream",
+          "Renowned for chunky ice cream",
+          "Founded in 1978 and headquartered in Burlington VT",
+          "Their logo features cow and text",
+          "Slogan: Peace Love Ice Cream",
+          "Competes with Haagen-Dazs and Talenti"
+        ],
+        "medium": [
+          "Their logo features cow and text",
+          "Known for chunky ice cream",
+          "Founded in 1978",
+          "Headquartered in Burlington VT",
+          "Their slogan: Peace Love Ice Cream",
+          "Competes with Haagen-Dazs and Talenti"
+        ],
+        "hard": [
+          "The American brand behind Cherry Garcia",
+          "Stock ticker: UL (parent Unilever)",
+          "Acquired Unilever 2000",
+          "CEO: Dave Stever",
+          "Revenue exceeds $60B (Unilever)",
+          "Pioneered chunk mix-ins"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "hard": [
+          "McDonald's",
+          "KFC",
+          "Burger King"
+        ]
+      }
+    },
+    {
+      "word": "Häagen-Dazs",
+      "sub": "Food & Beverage",
+      "diff": "medium",
+      "desc": "A super-premium ice cream brand with dense rich texture.",
+      "tags": [
+        "food",
+        "ice-cream",
+        "super-premium",
+        "dense"
+      ],
+      "hints": {
+        "easy": [
+          "This food & beverage company produces popular products",
+          "Renowned for popular products",
+          "Founded in the 1900s and headquartered in a major city",
+          "Their logo features a distinctive symbol",
+          "Slogan: memorable tagline",
+          "Competes with other major brands"
+        ],
+        "medium": [
+          "Their logo features a distinctive symbol",
+          "Known for popular products",
+          "Founded in the 20th century",
+          "Headquartered in a major city",
+          "Their slogan: memorable tagline",
+          "Competes with other major brands"
+        ],
+        "hard": [
+          "The global brand behind flagship product",
+          "Stock ticker: NYSE listed",
+          "Acquired notable companies",
+          "CEO: industry leader",
+          "Revenue exceeds billions annually",
+          "Pioneered industry standards"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Coca-Cola",
+          "Pepsi",
+          "Starbucks"
+        ],
+        "hard": [
+          "McDonald's",
+          "KFC",
+          "Burger King"
+        ]
+      }
+    },
+    {
+      "word": "Nike",
+      "sub": "Fashion",
+      "diff": "easy",
+      "desc": "A sportswear giant with swoosh logo and Just Do It slogan.",
+      "tags": [
+        "fashion",
+        "sportswear",
+        "sneakers",
+        "athletic"
+      ],
+      "hints": {
+        "easy": [
+          "This fashion company produces Air Jordan and running",
+          "Renowned for Air Jordan and running",
+          "Founded in 1964 and headquartered in Beaverton",
+          "Their logo features swoosh checkmark",
+          "Slogan: Just Do It",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features swoosh checkmark",
+          "Known for Air Jordan and running",
+          "Founded in 1964",
+          "Headquartered in Beaverton",
+          "Their slogan: Just Do It",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind Air Force 1",
+          "Stock ticker: NKE",
+          "Acquired Converse",
+          "CEO: Elliott Hill",
+          "Revenue exceeds $50B annually",
+          "Pioneered Air cushioning"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Adidas",
+          "Puma",
+          "Under Armour"
+        ],
+        "hard": [
+          "New Balance",
+          "Reebok",
+          "Asics"
+        ]
+      }
+    },
+    {
+      "word": "Adidas",
+      "sub": "Fashion",
+      "diff": "easy",
+      "desc": "A German sportswear brand with three-stripe logo and Boost foam.",
+      "tags": [
+        "fashion",
+        "sportswear",
+        "sneakers",
+        "german"
+      ],
+      "hints": {
+        "easy": [
+          "This fashion company produces Ultraboost and Stan Smith",
+          "Renowned for Ultraboost and Stan Smith",
+          "Founded in 1949 and headquartered in Herzogenaurach",
+          "Their logo features three stripes",
+          "Slogan: Impossible Is Nothing",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features three stripes",
+          "Known for Ultraboost and Stan Smith",
+          "Founded in 1949",
+          "Headquartered in Herzogenaurach",
+          "Their slogan: Impossible Is Nothing",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The German brand behind Superstar",
+          "Stock ticker: ADS.DE",
+          "Acquired (sold)",
+          "CEO: Bjorn Gulden",
+          "Revenue exceeds $25B annually",
+          "Pioneered Boost foam"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Nike",
+          "Puma",
+          "Under Armour"
+        ],
+        "hard": [
+          "New Balance",
+          "Reebok",
+          "Asics"
+        ]
+      }
+    },
+    {
+      "word": "Puma",
+      "sub": "Fashion",
+      "diff": "easy",
+      "desc": "A German athletic brand with leaping cat logo and Suede classics.",
+      "tags": [
+        "fashion",
+        "sportswear",
+        "sneakers",
+        "german"
+      ],
+      "hints": {
+        "easy": [
+          "This fashion company produces Suede and RS-X",
+          "Renowned for Suede and RS-X",
+          "Founded in 1948 and headquartered in Herzogenaurach",
+          "Their logo features leaping cat",
+          "Slogan: Forever Faster",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features leaping cat",
+          "Known for Suede and RS-X",
+          "Founded in 1948",
+          "Headquartered in Herzogenaurach",
+          "Their slogan: Forever Faster",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The German brand behind Suede Classic",
+          "Stock ticker: PUM.DE",
+          "Acquired none major",
+          "CEO: Arne Freundt",
+          "Revenue exceeds $8B annually",
+          "Pioneered cat logo"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Nike",
+          "Adidas",
+          "Under Armour"
+        ],
+        "hard": [
+          "New Balance",
+          "Reebok",
+          "Asics"
+        ]
+      }
+    },
+    {
+      "word": "Under Armour",
+      "sub": "Fashion",
+      "diff": "medium",
+      "desc": "An American performance apparel brand known for compression gear.",
+      "tags": [
+        "fashion",
+        "sportswear",
+        "performance",
+        "compression"
+      ],
+      "hints": {
+        "easy": [
+          "This fashion company produces compression gear",
+          "Renowned for compression gear",
+          "Founded in 1996 and headquartered in Baltimore",
+          "Their logo features interlocking UA",
+          "Slogan: The Only Way Is Through",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features interlocking UA",
+          "Known for compression gear",
+          "Founded in 1996",
+          "Headquartered in Baltimore",
+          "Their slogan: The Only Way Is Through",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind HeatGear",
+          "Stock ticker: UAA",
+          "Acquired MyFitnessPal",
+          "CEO: Kevin Plank",
+          "Revenue exceeds $5B annually",
+          "Pioneered moisture wicking"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Nike",
+          "Adidas",
+          "Puma"
+        ],
+        "hard": [
+          "New Balance",
+          "Reebok",
+          "Asics"
+        ]
+      }
+    },
+    {
+      "word": "New Balance",
+      "sub": "Fashion",
+      "diff": "medium",
+      "desc": "A Boston-based sneaker brand with numbered models and made-in-USA lines.",
+      "tags": [
+        "fashion",
+        "sneakers",
+        "running",
+        "made-in-usa"
+      ],
+      "hints": {
+        "easy": [
+          "This fashion company produces numbered running shoes",
+          "Renowned for numbered running shoes",
+          "Founded in 1906 and headquartered in Boston",
+          "Their logo features N with lines",
+          "Slogan: Fearlessly Independent",
+          "Competes with Brooks"
+        ],
+        "medium": [
+          "Their logo features N with lines",
+          "Known for numbered running shoes",
+          "Founded in 1906",
+          "Headquartered in Boston",
+          "Their slogan: Fearlessly Independent",
+          "Competes with Brooks"
+        ],
+        "hard": [
+          "The American brand behind 990 series",
+          "Stock ticker: private",
+          "Acquired none major",
+          "CEO: Joe Preston",
+          "Revenue exceeds $4B annually",
+          "Pioneered width sizing"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Nike",
+          "Adidas",
+          "Puma"
+        ],
+        "hard": [
+          "Under Armour",
+          "Reebok",
+          "Asics"
+        ]
+      }
+    },
+    {
+      "word": "Reebok",
+      "sub": "Fashion",
+      "diff": "medium",
+      "desc": "A fitness brand with CrossFit heritage and classic leather sneakers.",
+      "tags": [
+        "fashion",
+        "sportswear",
+        "fitness",
+        "crossfit"
+      ],
+      "hints": {
+        "easy": [
+          "This fashion company produces Classic Leather and Nano",
+          "Renowned for Classic Leather and Nano",
+          "Founded in 1958 and headquartered in Boston",
+          "Their logo features delta symbol",
+          "Slogan: Be More Human",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features delta symbol",
+          "Known for Classic Leather and Nano",
+          "Founded in 1958",
+          "Headquartered in Boston",
+          "Their slogan: Be More Human",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The British brand behind Classic Leather",
+          "Stock ticker: private (Authentic Brands)",
+          "Acquired (sold)",
+          "CEO: Todd Krinsky",
+          "Revenue exceeds $2B annually",
+          "Pioneered CrossFit shoes"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Nike",
+          "Adidas",
+          "Puma"
+        ],
+        "hard": [
+          "Under Armour",
+          "New Balance",
+          "Asics"
+        ]
+      }
+    },
+    {
+      "word": "Asics",
+      "sub": "Fashion",
+      "diff": "hard",
+      "desc": "A Japanese running shoe brand with Gel cushioning technology.",
+      "tags": [
+        "fashion",
+        "running",
+        "gel",
+        "japanese"
+      ],
+      "hints": {
+        "easy": [
+          "This fashion company produces Gel running shoes",
+          "Renowned for Gel running shoes",
+          "Founded in 1949 and headquartered in Kobe",
+          "Their logo features stripes",
+          "Slogan: Anima Sana In Corpore Sano",
+          "Competes with Brooks"
+        ],
+        "medium": [
+          "Their logo features stripes",
+          "Known for Gel running shoes",
+          "Founded in 1949",
+          "Headquartered in Kobe",
+          "Their slogan: Anima Sana In Corpore Sano",
+          "Competes with Brooks"
+        ],
+        "hard": [
+          "The Japanese brand behind Gel-Kayano",
+          "Stock ticker: 7936.T",
+          "Acquired none major",
+          "CEO: Motoi Oyama",
+          "Revenue exceeds $3B annually",
+          "Pioneered Gel cushioning"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Nike",
+          "Adidas",
+          "Puma"
+        ],
+        "hard": [
+          "Under Armour",
+          "New Balance",
+          "Reebok"
+        ]
+      }
+    },
+    {
+      "word": "Saucony",
+      "sub": "Fashion",
+      "diff": "hard",
+      "desc": "An American running shoe brand with Endorphin speed models.",
+      "tags": [
+        "fashion",
+        "running",
+        "endorphin",
+        "american"
+      ],
+      "hints": {
+        "easy": [
+          "This fashion company produces Endorphin running shoes",
+          "Renowned for Endorphin running shoes",
+          "Founded in 1898 and headquartered in Waltham MA",
+          "Their logo features river waves",
+          "Slogan: Run for Good",
+          "Competes with Brooks"
+        ],
+        "medium": [
+          "Their logo features river waves",
+          "Known for Endorphin running shoes",
+          "Founded in 1898",
+          "Headquartered in Waltham MA",
+          "Their slogan: Run for Good",
+          "Competes with Brooks"
+        ],
+        "hard": [
+          "The American brand behind Endorphin Pro",
+          "Stock ticker: private (Wolverine)",
+          "Acquired Wolverine Worldwide",
+          "CEO: Anne Cavassa",
+          "Revenue exceeds $500M annually",
+          "Pioneered SpeedRoll geometry"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Nike",
+          "Adidas",
+          "Puma"
+        ],
+        "hard": [
+          "Under Armour",
+          "New Balance",
+          "Reebok"
+        ]
+      }
+    },
+    {
+      "word": "Hoka",
+      "sub": "Fashion",
+      "diff": "hard",
+      "desc": "A maximalist running shoe brand with oversized midsoles.",
+      "tags": [
+        "fashion",
+        "running",
+        "maximalist",
+        "cushioning"
+      ],
+      "hints": {
+        "easy": [
+          "This fashion company produces maximalist cushioning",
+          "Renowned for maximalist cushioning",
+          "Founded in 2009 and headquartered in Goleta CA",
+          "Their logo features bird",
+          "Slogan: Time to Fly",
+          "Competes with On and Brooks"
+        ],
+        "medium": [
+          "Their logo features bird",
+          "Known for maximalist cushioning",
+          "Founded in 2009",
+          "Headquartered in Goleta CA",
+          "Their slogan: Time to Fly",
+          "Competes with On and Brooks"
+        ],
+        "hard": [
+          "The French brand behind Clifton",
+          "Stock ticker: DECK (parent)",
+          "Acquired Deckers Brands",
+          "CEO: Wendy Yang",
+          "Revenue exceeds $3B (Deckers)",
+          "Pioneered oversized midsoles"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Nike",
+          "Adidas",
+          "Puma"
+        ],
+        "hard": [
+          "Under Armour",
+          "New Balance",
+          "Reebok"
+        ]
+      }
+    },
+    {
+      "word": "On Running",
+      "sub": "Fashion",
+      "diff": "hard",
+      "desc": "A Swiss running brand with CloudTec cushioning pods.",
+      "tags": [
+        "fashion",
+        "running",
+        "swiss",
+        "cloudtec"
+      ],
+      "hints": {
+        "easy": [
+          "This fashion company produces CloudTec pods",
+          "Renowned for CloudTec pods",
+          "Founded in 2010 and headquartered in Zurich",
+          "Their logo features On cloud symbol",
+          "Slogan: Run on Clouds",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features On cloud symbol",
+          "Known for CloudTec pods",
+          "Founded in 2010",
+          "Headquartered in Zurich",
+          "Their slogan: Run on Clouds",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The Swiss brand behind Cloudmonster",
+          "Stock ticker: ONON",
+          "Acquired none major",
+          "CEO: Marc Maurer",
+          "Revenue exceeds $1B annually",
+          "Pioneered hollow pods"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Nike",
+          "Adidas",
+          "Puma"
+        ],
+        "hard": [
+          "Under Armour",
+          "New Balance",
+          "Reebok"
+        ]
+      }
+    },
+    {
+      "word": "Levi's",
+      "sub": "Fashion",
+      "diff": "easy",
+      "desc": "The original blue jeans brand with red tab since 1873.",
+      "tags": [
+        "fashion",
+        "denim",
+        "jeans",
+        "heritage"
+      ],
+      "hints": {
+        "easy": [
+          "This fashion company produces 501 blue jeans",
+          "Renowned for 501 blue jeans",
+          "Founded in 1853 and headquartered in San Francisco",
+          "Their logo features red batwing",
+          "Slogan: Quality Never Goes Out of Style",
+          "Competes with Lee"
+        ],
+        "medium": [
+          "Their logo features red batwing",
+          "Known for 501 blue jeans",
+          "Founded in 1853",
+          "Headquartered in San Francisco",
+          "Their slogan: Quality Never Goes Out of Style",
+          "Competes with Lee"
+        ],
+        "hard": [
+          "The American brand behind 501 Original",
+          "Stock ticker: LEVI",
+          "Acquired Dockers",
+          "CEO: Michelle Gass",
+          "Revenue exceeds $6B annually",
+          "Pioneered riveted jeans"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Nike",
+          "Adidas",
+          "Puma"
+        ],
+        "hard": [
+          "Under Armour",
+          "New Balance",
+          "Reebok"
+        ]
+      }
+    },
+    {
+      "word": "Wrangler",
+      "sub": "Fashion",
+      "diff": "medium",
+      "desc": "A Western-style denim brand owned by Kontoor Brands.",
+      "tags": [
+        "fashion",
+        "denim",
+        "western",
+        "workwear"
+      ],
+      "hints": {
+        "easy": [
+          "This fashion company produces Western denim",
+          "Renowned for Western denim",
+          "Founded in 1947 and headquartered in Greensboro NC",
+          "Their logo features yellow rope",
+          "Slogan: Real. Comfortable. Jeans",
+          "Competes with Lee"
+        ],
+        "medium": [
+          "Their logo features yellow rope",
+          "Known for Western denim",
+          "Founded in 1947",
+          "Headquartered in Greensboro NC",
+          "Their slogan: Real. Comfortable. Jeans",
+          "Competes with Lee"
+        ],
+        "hard": [
+          "The American brand behind Cowboy Cut",
+          "Stock ticker: KTB (parent Kontoor)",
+          "Acquired Kontoor Brands",
+          "CEO: Scott Baxter",
+          "Revenue exceeds $2B (Kontoor)",
+          "Pioneered Western styling"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Nike",
+          "Adidas",
+          "Puma"
+        ],
+        "hard": [
+          "Under Armour",
+          "New Balance",
+          "Reebok"
+        ]
+      }
+    },
+    {
+      "word": "Calvin Klein",
+      "sub": "Fashion",
+      "diff": "medium",
+      "desc": "An American minimalist fashion house known for underwear and jeans.",
+      "tags": [
+        "fashion",
+        "underwear",
+        "jeans",
+        "minimalist"
+      ],
+      "hints": {
+        "easy": [
+          "This fashion company produces minimalist underwear",
+          "Renowned for minimalist underwear",
+          "Founded in 1968 and headquartered in New York",
+          "Their logo features CK monogram",
+          "Slogan: memorable tagline",
+          "Competes with Tommy Hilfiger"
+        ],
+        "medium": [
+          "Their logo features CK monogram",
+          "Known for minimalist underwear",
+          "Founded in 1968",
+          "Headquartered in New York",
+          "Their slogan: memorable tagline",
+          "Competes with Tommy Hilfiger"
+        ],
+        "hard": [
+          "The American brand behind CK One",
+          "Stock ticker: PVH (parent)",
+          "Acquired PVH Corp",
+          "CEO: Stefan Larsson",
+          "Revenue exceeds $9B (PVH)",
+          "Pioneered designer jeans"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Nike",
+          "Adidas",
+          "Puma"
+        ],
+        "hard": [
+          "Under Armour",
+          "Reebok",
+          "Asics"
+        ]
+      }
+    },
+    {
+      "word": "Ralph Lauren",
+      "sub": "Fashion",
+      "diff": "medium",
+      "desc": "An American luxury brand with polo player logo and preppy aesthetic.",
+      "tags": [
+        "fashion",
+        "luxury",
+        "polo",
+        "preppy"
+      ],
+      "hints": {
+        "easy": [
+          "This fashion company produces preppy polo shirts",
+          "Renowned for preppy polo shirts",
+          "Founded in 1967 and headquartered in New York",
+          "Their logo features polo player",
+          "Slogan: Classic American Style",
+          "Competes with Tommy Hilfiger"
+        ],
+        "medium": [
+          "Their logo features polo player",
+          "Known for preppy polo shirts",
+          "Founded in 1967",
+          "Headquartered in New York",
+          "Their slogan: Classic American Style",
+          "Competes with Tommy Hilfiger"
+        ],
+        "hard": [
+          "The American brand behind Polo shirt",
+          "Stock ticker: RL",
+          "Acquired Club Monaco",
+          "CEO: Patrice Louvet",
+          "Revenue exceeds $6B annually",
+          "Pioneered lifestyle branding"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Nike",
+          "Adidas",
+          "Puma"
+        ],
+        "hard": [
+          "Under Armour",
+          "Reebok",
+          "Asics"
+        ]
+      }
+    },
+    {
+      "word": "Gap",
+      "sub": "Fashion",
+      "diff": "easy",
+      "desc": "A basic casual wear retailer with logo hoodies and denim.",
+      "tags": [
+        "fashion",
+        "casual",
+        "basics",
+        "american"
+      ],
+      "hints": {
+        "easy": [
+          "This fashion company produces basic casual wear",
+          "Renowned for basic casual wear",
+          "Founded in 1969 and headquartered in San Francisco",
+          "Their logo features blue square",
+          "Slogan: Be Bright",
+          "Competes with Old Navy"
+        ],
+        "medium": [
+          "Their logo features blue square",
+          "Known for basic casual wear",
+          "Founded in 1969",
+          "Headquartered in San Francisco",
+          "Their slogan: Be Bright",
+          "Competes with Old Navy"
+        ],
+        "hard": [
+          "The American brand behind Logo hoodie",
+          "Stock ticker: GPS",
+          "Acquired Athleta",
+          "CEO: Richard Dickson",
+          "Revenue exceeds $15B annually",
+          "Pioneered basics retail"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Nike",
+          "Adidas",
+          "Puma"
+        ],
+        "hard": [
+          "Under Armour",
+          "New Balance",
+          "Reebok"
+        ]
+      }
+    },
+    {
+      "word": "Uniqlo",
+      "sub": "Fashion",
+      "diff": "easy",
+      "desc": "A Japanese basics brand with Heattech and AIRism technology.",
+      "tags": [
+        "fashion",
+        "basics",
+        "japanese",
+        "heattech"
+      ],
+      "hints": {
+        "easy": [
+          "This fashion company produces Heattech and basics",
+          "Renowned for Heattech and basics",
+          "Founded in 1984 and headquartered in Tokyo",
+          "Their logo features red",
+          "Slogan: Made for All",
+          "Competes with H&M"
+        ],
+        "medium": [
+          "Their logo features red",
+          "Known for Heattech and basics",
+          "Founded in 1984",
+          "Headquartered in Tokyo",
+          "Their slogan: Made for All",
+          "Competes with H&M"
+        ],
+        "hard": [
+          "The Japanese brand behind Heattech",
+          "Stock ticker: 9983.T (Fast Retailing)",
+          "Acquired J Brand",
+          "CEO: Tadashi Yanai",
+          "Revenue exceeds $20B (Fast Retailing)",
+          "Pioneered tech fabrics"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Nike",
+          "Adidas",
+          "Puma"
+        ],
+        "hard": [
+          "Under Armour",
+          "New Balance",
+          "Reebok"
+        ]
+      }
+    },
+    {
+      "word": "Toyota",
+      "sub": "Automotive",
+      "diff": "easy",
+      "desc": "A Japanese automaker known for reliability and hybrid Prius.",
+      "tags": [
+        "automotive",
+        "japanese",
+        "reliable",
+        "hybrid"
+      ],
+      "hints": {
+        "easy": [
+          "This automotive company produces Camry and Prius hybrid",
+          "Renowned for Camry and Prius hybrid",
+          "Founded in 1937 and headquartered in City",
+          "Their logo features three ovals",
+          "Slogan: Let's Go Places",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features three ovals",
+          "Known for Camry and Prius hybrid",
+          "Founded in 1937",
+          "Headquartered in City",
+          "Their slogan: Let's Go Places",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The Japanese brand behind Corolla",
+          "Stock ticker: 7203.T",
+          "Acquired Lexus",
+          "CEO: Koji Sato",
+          "Revenue exceeds $280B annually",
+          "Pioneered lean manufacturing"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Honda",
+          "Ford",
+          "Chevrolet"
+        ],
+        "hard": [
+          "BMW",
+          "Mercedes-Benz",
+          "Audi"
+        ]
+      }
+    },
+    {
+      "word": "Honda",
+      "sub": "Automotive",
+      "diff": "easy",
+      "desc": "A Japanese brand with Civic Accord and motorcycle heritage.",
+      "tags": [
+        "automotive",
+        "japanese",
+        "civic",
+        "motorcycles"
+      ],
+      "hints": {
+        "easy": [
+          "This automotive company produces Civic and motorcycles",
+          "Renowned for Civic and motorcycles",
+          "Founded in 1948 and headquartered in Tokyo",
+          "Their logo features H wings",
+          "Slogan: The Power of Dreams",
+          "Competes with Yamaha"
+        ],
+        "medium": [
+          "Their logo features H wings",
+          "Known for Civic and motorcycles",
+          "Founded in 1948",
+          "Headquartered in Tokyo",
+          "Their slogan: The Power of Dreams",
+          "Competes with Yamaha"
+        ],
+        "hard": [
+          "The Japanese brand behind Civic",
+          "Stock ticker: 7267.T",
+          "Acquired Acura",
+          "CEO: Toshihiro Mibe",
+          "Revenue exceeds $130B annually",
+          "Pioneered VTEC engines"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Toyota",
+          "Ford",
+          "Chevrolet"
+        ],
+        "hard": [
+          "BMW",
+          "Mercedes-Benz",
+          "Audi"
+        ]
+      }
+    },
+    {
+      "word": "Ford",
+      "sub": "Automotive",
+      "diff": "easy",
+      "desc": "An American auto pioneer with F-Series trucks and Mustang.",
+      "tags": [
+        "automotive",
+        "american",
+        "trucks",
+        "mustang"
+      ],
+      "hints": {
+        "easy": [
+          "This automotive company produces F-150 and Mustang",
+          "Renowned for F-150 and Mustang",
+          "Founded in 1903 and headquartered in Dearborn",
+          "Their logo features blue oval",
+          "Slogan: Built Tough",
+          "Competes with GM and Stellantis"
+        ],
+        "medium": [
+          "Their logo features blue oval",
+          "Known for F-150 and Mustang",
+          "Founded in 1903",
+          "Headquartered in Dearborn",
+          "Their slogan: Built Tough",
+          "Competes with GM and Stellantis"
+        ],
+        "hard": [
+          "The American brand behind F-Series",
+          "Stock ticker: F",
+          "Acquired Lincoln",
+          "CEO: Jim Farley",
+          "Revenue exceeds $170B annually",
+          "Pioneered assembly line"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Toyota",
+          "Honda",
+          "Chevrolet"
+        ],
+        "hard": [
+          "BMW",
+          "Mercedes-Benz",
+          "Audi"
+        ]
+      }
+    },
+    {
+      "word": "Chevrolet",
+      "sub": "Automotive",
+      "diff": "easy",
+      "desc": "An American GM brand with Silverado and Corvette sports car.",
+      "tags": [
+        "automotive",
+        "american",
+        "silverado",
+        "corvette"
+      ],
+      "hints": {
+        "easy": [
+          "This automotive company produces Silverado and Corvette",
+          "Renowned for Silverado and Corvette",
+          "Founded in 1911 and headquartered in Detroit",
+          "Their logo features gold bowtie",
+          "Slogan: Find New Roads",
+          "Competes with Ram"
+        ],
+        "medium": [
+          "Their logo features gold bowtie",
+          "Known for Silverado and Corvette",
+          "Founded in 1911",
+          "Headquartered in Detroit",
+          "Their slogan: Find New Roads",
+          "Competes with Ram"
+        ],
+        "hard": [
+          "The American brand behind Silverado",
+          "Stock ticker: GM (parent)",
+          "Acquired other brands",
+          "CEO: Mary Barra",
+          "Revenue exceeds $150B (GM)",
+          "Pioneered small block V8"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Toyota",
+          "Honda",
+          "Ford"
+        ],
+        "hard": [
+          "BMW",
+          "Mercedes-Benz",
+          "Audi"
+        ]
+      }
+    },
+    {
+      "word": "BMW",
+      "sub": "Automotive",
+      "diff": "easy",
+      "desc": "A German luxury brand with kidney grille and Ultimate Driving Machine.",
+      "tags": [
+        "automotive",
+        "german",
+        "luxury",
+        "performance"
+      ],
+      "hints": {
+        "easy": [
+          "This automotive company produces 3 Series and M cars",
+          "Renowned for 3 Series and M cars",
+          "Founded in 1916 and headquartered in Munich",
+          "Their logo features blue white roundel",
+          "Slogan: The Ultimate Driving Machine",
+          "Competes with Mercedes"
+        ],
+        "medium": [
+          "Their logo features blue white roundel",
+          "Known for 3 Series and M cars",
+          "Founded in 1916",
+          "Headquartered in Munich",
+          "Their slogan: The Ultimate Driving Machine",
+          "Competes with Mercedes"
+        ],
+        "hard": [
+          "The German brand behind 3 Series",
+          "Acquired Mini and Rolls-Royce",
+          "CEO: Oliver Zipse",
+          "Revenue exceeds $150B annually",
+          "Pioneered inline six engines",
+          "A automotive brand you might recognize"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Toyota",
+          "Honda",
+          "Ford"
+        ],
+        "hard": [
+          "Chevrolet",
+          "Mercedes-Benz",
+          "Audi"
+        ]
+      }
+    },
+    {
+      "word": "Mercedes-Benz",
+      "sub": "Automotive",
+      "diff": "easy",
+      "desc": "A German luxury brand with three-pointed star and S-Class.",
+      "tags": [
+        "automotive",
+        "german",
+        "luxury",
+        "s-class"
+      ],
+      "hints": {
+        "easy": [
+          "This automotive company produces S-Class and AMG",
+          "Renowned for S-Class and AMG",
+          "Founded in 1926 and headquartered in Stuttgart",
+          "Their logo features three-pointed star",
+          "Slogan: The Best or Nothing",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features three-pointed star",
+          "Known for S-Class and AMG",
+          "Founded in 1926",
+          "Headquartered in Stuttgart",
+          "Their slogan: The Best or Nothing",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The German brand behind S-Class",
+          "Stock ticker: MBG.DE",
+          "Acquired Smart and Maybach",
+          "CEO: Ola Kallenius",
+          "Revenue exceeds $150B annually",
+          "Pioneered safety innovations"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Toyota",
+          "Honda",
+          "Ford"
+        ],
+        "hard": [
+          "Chevrolet",
+          "BMW",
+          "Audi"
+        ]
+      }
+    },
+    {
+      "word": "Audi",
+      "sub": "Automotive",
+      "diff": "easy",
+      "desc": "A German brand with four rings and Quattro all-wheel drive.",
+      "tags": [
+        "automotive",
+        "german",
+        "quattro",
+        "rings"
+      ],
+      "hints": {
+        "easy": [
+          "This automotive company produces Quattro AWD",
+          "Renowned for Quattro AWD",
+          "Founded in 1909 and headquartered in Ingolstadt",
+          "Their logo features four rings",
+          "Slogan: Vorsprung durch Technik",
+          "Competes with Mercedes"
+        ],
+        "medium": [
+          "Their logo features four rings",
+          "Known for Quattro AWD",
+          "Founded in 1909",
+          "Headquartered in Ingolstadt",
+          "Their slogan: Vorsprung durch Technik",
+          "Competes with Mercedes"
+        ],
+        "hard": [
+          "The German brand behind flagship product",
+          "Stock ticker: VOW3.DE (VW Group)",
+          "Acquired Ducati",
+          "CEO: Gernot Dollner",
+          "Revenue exceeds $70B annually",
+          "Pioneered Quattro AWD"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Toyota",
+          "Honda",
+          "Ford"
+        ],
+        "hard": [
+          "Chevrolet",
+          "BMW",
+          "Mercedes-Benz"
+        ]
+      }
+    },
+    {
+      "word": "Volkswagen",
+      "sub": "Automotive",
+      "diff": "easy",
+      "desc": "A German people's car brand with Beetle and Golf icons.",
+      "tags": [
+        "automotive",
+        "german",
+        "beetle",
+        "golf"
+      ],
+      "hints": {
+        "easy": [
+          "This automotive company produces Golf and Beetle",
+          "Renowned for Golf and Beetle",
+          "Founded in 1937 and headquartered in Wolfsburg",
+          "Their logo features VW in circle",
+          "Slogan: Das Auto",
+          "Competes with Renault"
+        ],
+        "medium": [
+          "Their logo features VW in circle",
+          "Known for Golf and Beetle",
+          "Founded in 1937",
+          "Headquartered in Wolfsburg",
+          "Their slogan: Das Auto",
+          "Competes with Renault"
+        ],
+        "hard": [
+          "The German brand behind Golf",
+          "Stock ticker: VOW3.DE",
+          "Acquired Skoda",
+          "CEO: Oliver Blume",
+          "Revenue exceeds $280B annually",
+          "Pioneered people's car"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Toyota",
+          "Honda",
+          "Ford"
+        ],
+        "hard": [
+          "Chevrolet",
+          "BMW",
+          "Mercedes-Benz"
+        ]
+      }
+    },
+    {
+      "word": "Porsche",
+      "sub": "Automotive",
+      "diff": "medium",
+      "desc": "A German sports car maker with 911 rear-engine legend.",
+      "tags": [
+        "automotive",
+        "german",
+        "sports-car",
+        "911"
+      ],
+      "hints": {
+        "easy": [
+          "This automotive company produces 911 sports car",
+          "Renowned for 911 sports car",
+          "Founded in 1931 and headquartered in Stuttgart",
+          "Their logo features horse and antlers",
+          "Slogan: There Is No Substitute",
+          "Competes with McLaren"
+        ],
+        "medium": [
+          "Their logo features horse and antlers",
+          "Known for 911 sports car",
+          "Founded in 1931",
+          "Headquartered in Stuttgart",
+          "Their slogan: There Is No Substitute",
+          "Competes with McLaren"
+        ],
+        "hard": [
+          "The German brand behind 911",
+          "Stock ticker: P911.DE",
+          "Acquired VW Group",
+          "CEO: Oliver Blume",
+          "Revenue exceeds $40B annually",
+          "Pioneered rear-engine layout"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Toyota",
+          "Honda",
+          "Ford"
+        ],
+        "hard": [
+          "Chevrolet",
+          "BMW",
+          "Mercedes-Benz"
+        ]
+      }
+    },
+    {
+      "word": "Ferrari",
+      "sub": "Automotive",
+      "diff": "medium",
+      "desc": "An Italian supercar brand with prancing horse and Rosso Corsa.",
+      "tags": [
+        "automotive",
+        "italian",
+        "supercar",
+        "racing"
+      ],
+      "hints": {
+        "easy": [
+          "This automotive company produces supercars and F1",
+          "Renowned for supercars and F1",
+          "Founded in 1939 and headquartered in Maranello",
+          "Their logo features prancing horse",
+          "Slogan: Passion for Performance",
+          "Competes with McLaren"
+        ],
+        "medium": [
+          "Their logo features prancing horse",
+          "Known for supercars and F1",
+          "Founded in 1939",
+          "Headquartered in Maranello",
+          "Their slogan: Passion for Performance",
+          "Competes with McLaren"
+        ],
+        "hard": [
+          "The Italian brand behind 488",
+          "Stock ticker: RACE",
+          "Acquired none major",
+          "CEO: Benedetto Vigna",
+          "Revenue exceeds $5B annually",
+          "Pioneered V12 engines"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Toyota",
+          "Honda",
+          "Ford"
+        ],
+        "hard": [
+          "Chevrolet",
+          "BMW",
+          "Mercedes-Benz"
+        ]
+      }
+    },
+    {
+      "word": "Lamborghini",
+      "sub": "Automotive",
+      "diff": "medium",
+      "desc": "An Italian exotic car brand with scissor doors and V12.",
+      "tags": [
+        "automotive",
+        "italian",
+        "exotic",
+        "v12"
+      ],
+      "hints": {
+        "easy": [
+          "This automotive company produces Aventador and Huracan",
+          "Renowned for Aventador and Huracan",
+          "Founded in 1963 and headquartered in Sant'Agata",
+          "Their logo features raging bull",
+          "Slogan: Expect the Unexpected",
+          "Competes with McLaren"
+        ],
+        "medium": [
+          "Their logo features raging bull",
+          "Known for Aventador and Huracan",
+          "Founded in 1963",
+          "Headquartered in Sant'Agata",
+          "Their slogan: Expect the Unexpected",
+          "Competes with McLaren"
+        ],
+        "hard": [
+          "The Italian brand behind Huracan",
+          "Stock ticker: VW Group",
+          "Acquired 1998",
+          "CEO: Stephan Winkelmann",
+          "Revenue exceeds $2B annually",
+          "Pioneered scissor doors"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Toyota",
+          "Honda",
+          "Ford"
+        ],
+        "hard": [
+          "Chevrolet",
+          "BMW",
+          "Mercedes-Benz"
+        ]
+      }
+    },
+    {
+      "word": "Rivian",
+      "sub": "Automotive",
+      "diff": "hard",
+      "desc": "An American electric truck startup with R1T and R1S.",
+      "tags": [
+        "automotive",
+        "electric",
+        "truck",
+        "startup"
+      ],
+      "hints": {
+        "easy": [
+          "This automotive company produces R1T electric truck",
+          "Renowned for R1T electric truck",
+          "Founded in 2009 and headquartered in Irvine",
+          "Their logo features R with lines",
+          "Slogan: Adventure Ready",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features R with lines",
+          "Known for R1T electric truck",
+          "Founded in 2009",
+          "Headquartered in Irvine",
+          "Their slogan: Adventure Ready",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind R1T",
+          "Stock ticker: RIVN",
+          "Acquired none major",
+          "CEO: RJ Scaringe",
+          "Revenue exceeds $4B annually",
+          "Pioneered quad motor truck"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Toyota",
+          "Honda",
+          "Ford"
+        ],
+        "hard": [
+          "Chevrolet",
+          "BMW",
+          "Mercedes-Benz"
+        ]
+      }
+    },
+    {
+      "word": "Lucid",
+      "sub": "Automotive",
+      "diff": "hard",
+      "desc": "An American luxury EV with Air sedan and Gravity SUV.",
+      "tags": [
+        "automotive",
+        "electric",
+        "luxury",
+        "air"
+      ],
+      "hints": {
+        "easy": [
+          "This automotive company produces Air luxury EV",
+          "Renowned for Air luxury EV",
+          "Founded in 2007 and headquartered in Newark CA",
+          "Their logo features stylized",
+          "Slogan: The Electric Future",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features stylized",
+          "Known for Air luxury EV",
+          "Founded in 2007",
+          "Headquartered in Newark CA",
+          "Their slogan: The Electric Future",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind Air",
+          "Stock ticker: LCID",
+          "Acquired none major",
+          "CEO: Peter Rawlinson",
+          "Revenue exceeds $600M annually",
+          "Pioneered 900V architecture"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Toyota",
+          "Honda",
+          "Ford"
+        ],
+        "hard": [
+          "Chevrolet",
+          "BMW",
+          "Mercedes-Benz"
+        ]
+      }
+    },
+    {
+      "word": "Disney",
+      "sub": "Entertainment",
+      "diff": "easy",
+      "desc": "A media empire with Mickey Mouse Marvel Star Wars and theme parks.",
+      "tags": [
+        "entertainment",
+        "media",
+        "theme-parks",
+        "animation"
+      ],
+      "hints": {
+        "easy": [
+          "This entertainment company produces Mickey Mouse and Marvel",
+          "Renowned for Mickey Mouse and Marvel",
+          "Founded in 1923 and headquartered in Burbank",
+          "Their logo features castle script",
+          "Slogan: The Happiest Place on Earth",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features castle script",
+          "Known for Mickey Mouse and Marvel",
+          "Founded in 1923",
+          "Headquartered in Burbank",
+          "Their slogan: The Happiest Place on Earth",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind flagship product",
+          "Stock ticker: DIS",
+          "Acquired Lucasfilm",
+          "CEO: Bob Iger",
+          "Revenue exceeds $80B annually",
+          "Pioneered theme parks"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Warner Bros",
+          "Universal",
+          "Paramount"
+        ],
+        "hard": [
+          "Sony Pictures",
+          "DC Comics",
+          "Pixar"
+        ]
+      }
+    },
+    {
+      "word": "Warner Bros",
+      "sub": "Entertainment",
+      "diff": "medium",
+      "desc": "A Hollywood studio with DC Comics Harry Potter and Looney Tunes.",
+      "tags": [
+        "entertainment",
+        "studio",
+        "dc-comics",
+        "harry-potter"
+      ],
+      "hints": {
+        "easy": [
+          "This entertainment company produces DC and Harry Potter",
+          "Renowned for DC and Harry Potter",
+          "Founded in 1923 and headquartered in Burbank",
+          "Their logo features WB shield",
+          "Slogan: Entertainment",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features WB shield",
+          "Known for DC and Harry Potter",
+          "Founded in 1923",
+          "Headquartered in Burbank",
+          "Their slogan: Entertainment",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind HBO Max",
+          "Stock ticker: WBD",
+          "Acquired Discovery 2022",
+          "CEO: David Zaslav",
+          "Revenue exceeds $40B annually",
+          "Pioneered studio system"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Disney",
+          "Universal",
+          "Paramount"
+        ],
+        "hard": [
+          "Sony Pictures",
+          "Marvel",
+          "Pixar"
+        ]
+      }
+    },
+    {
+      "word": "Universal",
+      "sub": "Entertainment",
+      "diff": "medium",
+      "desc": "A film studio and theme park with Minions and Jurassic Park.",
+      "tags": [
+        "entertainment",
+        "studio",
+        "theme-park",
+        "minions"
+      ],
+      "hints": {
+        "easy": [
+          "This entertainment company produces Minions and Jurassic Park",
+          "Renowned for Minions and Jurassic Park",
+          "Founded in 1912 and headquartered in City",
+          "Their logo features globe with text",
+          "Slogan: Pictures",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features globe with text",
+          "Known for Minions and Jurassic Park",
+          "Founded in 1912",
+          "Headquartered in City",
+          "Their slogan: Pictures",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind Peacock",
+          "Stock ticker: CMCSA (parent)",
+          "Acquired other brands",
+          "CEO: Donna Langley",
+          "Revenue exceeds $30B annually",
+          "Pioneered movie stars"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Disney",
+          "Warner Bros",
+          "Paramount"
+        ],
+        "hard": [
+          "Marvel",
+          "DC Comics",
+          "Pixar"
+        ]
+      }
+    },
+    {
+      "word": "Paramount",
+      "sub": "Entertainment",
+      "diff": "hard",
+      "desc": "A historic studio with mountain logo and Mission Impossible.",
+      "tags": [
+        "entertainment",
+        "studio",
+        "mission-impossible",
+        "mountain"
+      ],
+      "hints": {
+        "easy": [
+          "This entertainment company produces Mission Impossible",
+          "Renowned for Mission Impossible",
+          "Founded in 1912 and headquartered in Hollywood",
+          "Their logo features mountain with stars",
+          "Slogan: A Mountain of Entertainment",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features mountain with stars",
+          "Known for Mission Impossible",
+          "Founded in 1912",
+          "Headquartered in Hollywood",
+          "Their slogan: A Mountain of Entertainment",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind flagship product",
+          "Stock ticker: PARA",
+          "Acquired CBS",
+          "CEO: Brian Robbins",
+          "Revenue exceeds $30B annually",
+          "Pioneered Hollywood studio"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Disney",
+          "Warner Bros",
+          "Universal"
+        ],
+        "hard": [
+          "Sony Pictures",
+          "Marvel",
+          "DC Comics"
+        ]
+      }
+    },
+    {
+      "word": "Sony Pictures",
+      "sub": "Entertainment",
+      "diff": "hard",
+      "desc": "A film studio with Spider-Man and Ghostbusters franchises.",
+      "tags": [
+        "entertainment",
+        "studio",
+        "spider-man",
+        "sony"
+      ],
+      "hints": {
+        "easy": [
+          "This entertainment company produces Spider-Man and Ghostbusters",
+          "Renowned for Spider-Man and Ghostbusters",
+          "Founded in 1987 and headquartered in Culver City",
+          "Their logo features text",
+          "Slogan: Entertainment",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features text",
+          "Known for Spider-Man and Ghostbusters",
+          "Founded in 1987",
+          "Headquartered in Culver City",
+          "Their slogan: Entertainment",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The Japanese/US brand behind Spider-Man",
+          "Stock ticker: SONY (parent)",
+          "Acquired Columbia TriStar",
+          "CEO: Tony Vinciquerra",
+          "Revenue exceeds $10B annually",
+          "Pioneered film franchises"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Disney",
+          "Warner Bros",
+          "Universal"
+        ],
+        "hard": [
+          "Paramount",
+          "Marvel",
+          "DC Comics"
+        ]
+      }
+    },
+    {
+      "word": "Marvel",
+      "sub": "Entertainment",
+      "diff": "easy",
+      "desc": "A comic universe with Avengers X-Men and Cinematic Universe.",
+      "tags": [
+        "entertainment",
+        "comics",
+        "mcu",
+        "superheroes"
+      ],
+      "hints": {
+        "easy": [
+          "This entertainment company produces Avengers and X-Men",
+          "Renowned for Avengers and X-Men",
+          "Founded in 1939 and headquartered in New York",
+          "Their logo features red",
+          "Slogan: Entertainment",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features red",
+          "Known for Avengers and X-Men",
+          "Founded in 1939",
+          "Headquartered in New York",
+          "Their slogan: Entertainment",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind MCU",
+          "Stock ticker: DIS (parent)",
+          "Acquired 2009",
+          "CEO: Kevin Feige",
+          "Revenue exceeds $40B (Disney)",
+          "Pioneered shared universe"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Warner Bros",
+          "Universal",
+          "Paramount"
+        ],
+        "hard": [
+          "Sony Pictures",
+          "Pixar",
+          "DreamWorks"
+        ]
+      }
+    },
+    {
+      "word": "DC Comics",
+      "sub": "Entertainment",
+      "diff": "easy",
+      "desc": "A comic publisher with Superman Batman Wonder Woman and Justice League.",
+      "tags": [
+        "entertainment",
+        "comics",
+        "superheroes",
+        "justice-league"
+      ],
+      "hints": {
+        "easy": [
+          "This entertainment company produces Superman and Batman",
+          "Renowned for Superman and Batman",
+          "Founded in 1934 and headquartered in Burbank",
+          "Their logo features DC bullet",
+          "Slogan: memorable tagline",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features DC bullet",
+          "Known for Superman and Batman",
+          "Founded in 1934",
+          "Headquartered in Burbank",
+          "Their slogan: memorable tagline",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind Justice League",
+          "Stock ticker: WBD (parent)",
+          "Acquired other brands",
+          "CEO: James Gunn",
+          "Revenue exceeds $40B (WBD)",
+          "Pioneered superhero teams"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Disney",
+          "Warner Bros",
+          "Universal"
+        ],
+        "hard": [
+          "Paramount",
+          "Sony Pictures",
+          "Marvel"
+        ]
+      }
+    },
+    {
+      "word": "Pixar",
+      "sub": "Entertainment",
+      "diff": "easy",
+      "desc": "An animation studio with Toy Story Finding Nemo and lamps.",
+      "tags": [
+        "entertainment",
+        "animation",
+        "toy-story",
+        "disney"
+      ],
+      "hints": {
+        "easy": [
+          "This entertainment company produces Toy Story and Nemo",
+          "Renowned for Toy Story and Nemo",
+          "Founded in 1986 and headquartered in Emeryville",
+          "Their logo features Luxo Jr lamp",
+          "Slogan: Animation Studios",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features Luxo Jr lamp",
+          "Known for Toy Story and Nemo",
+          "Founded in 1986",
+          "Headquartered in Emeryville",
+          "Their slogan: Animation Studios",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind Toy Story",
+          "Stock ticker: DIS (parent)",
+          "Acquired 2006",
+          "CEO: Pete Docter",
+          "Revenue exceeds $20B (Disney)",
+          "Pioneered CGI animation"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Warner Bros",
+          "Universal",
+          "Paramount"
+        ],
+        "hard": [
+          "Sony Pictures",
+          "Marvel",
+          "DC Comics"
+        ]
+      }
+    },
+    {
+      "word": "DreamWorks",
+      "sub": "Entertainment",
+      "diff": "medium",
+      "desc": "An animation studio with Shrek Kung Fu Panda and Trolls.",
+      "tags": [
+        "entertainment",
+        "animation",
+        "shrek",
+        "kung-fu-panda"
+      ],
+      "hints": {
+        "easy": [
+          "This entertainment company produces Shrek and Kung Fu Panda",
+          "Renowned for Shrek and Kung Fu Panda",
+          "Founded in 1994 and headquartered in Glendale",
+          "Their logo features boy on moon",
+          "Slogan: Animation",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features boy on moon",
+          "Known for Shrek and Kung Fu Panda",
+          "Founded in 1994",
+          "Headquartered in Glendale",
+          "Their slogan: Animation",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind Shrek",
+          "Stock ticker: CMCSA (parent NBCU)",
+          "Acquired NBC",
+          "CEO: Margaret Ray",
+          "Revenue exceeds $30B (NBCU)",
+          "Pioneered franchise sequels"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Disney",
+          "Warner Bros",
+          "Universal"
+        ],
+        "hard": [
+          "Paramount",
+          "Sony Pictures",
+          "Marvel"
+        ]
+      }
+    },
+    {
+      "word": "Illumination",
+      "sub": "Entertainment",
+      "diff": "medium",
+      "desc": "An animation studio with Minions Despicable Me and Mario.",
+      "tags": [
+        "entertainment",
+        "animation",
+        "minions",
+        "despicable-me"
+      ],
+      "hints": {
+        "easy": [
+          "This entertainment company produces Minions and Despicable Me",
+          "Renowned for Minions and Despicable Me",
+          "Founded in 2007 and headquartered in Santa Monica",
+          "Their logo features yellow minion",
+          "Slogan: Entertainment",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features yellow minion",
+          "Known for Minions and Despicable Me",
+          "Founded in 2007",
+          "Headquartered in Santa Monica",
+          "Their slogan: Entertainment",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind Minions",
+          "Stock ticker: CMCSA (parent)",
+          "Acquired NBC",
+          "CEO: Chris Meledandri",
+          "Revenue exceeds $30B (NBCU)",
+          "Pioneered low-cost CGI"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Disney",
+          "Warner Bros",
+          "Universal"
+        ],
+        "hard": [
+          "Paramount",
+          "Sony Pictures",
+          "Marvel"
+        ]
+      }
+    },
+    {
+      "word": "Nintendo",
+      "sub": "Entertainment",
+      "diff": "easy",
+      "desc": "A Japanese gaming giant with Mario Zelda Pokemon and Switch.",
+      "tags": [
+        "entertainment",
+        "gaming",
+        "nintendo",
+        "mario"
+      ],
+      "hints": {
+        "easy": [
+          "This entertainment company produces Mario and Zelda",
+          "Renowned for Mario and Zelda",
+          "Founded in 1889 and headquartered in Kyoto",
+          "Their logo features red",
+          "Slogan: memorable tagline",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features red",
+          "Known for Mario and Zelda",
+          "Founded in 1889",
+          "Headquartered in Kyoto",
+          "Their slogan: memorable tagline",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The Japanese brand behind Switch",
+          "Stock ticker: 7974.T",
+          "Acquired none major",
+          "CEO: Shuntaro Furukawa",
+          "Revenue exceeds $12B annually",
+          "Pioneered gameplay innovation"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Disney",
+          "Warner Bros",
+          "Universal"
+        ],
+        "hard": [
+          "Paramount",
+          "Sony Pictures",
+          "Marvel"
+        ]
+      }
+    },
+    {
+      "word": "PlayStation",
+      "sub": "Entertainment",
+      "diff": "easy",
+      "desc": "A Sony gaming brand with DualSense controller and exclusives.",
+      "tags": [
+        "entertainment",
+        "gaming",
+        "playstation",
+        "sony"
+      ],
+      "hints": {
+        "easy": [
+          "This entertainment company produces PS5 and exclusives",
+          "Renowned for PS5 and exclusives",
+          "Founded in 1994 and headquartered in San Mateo",
+          "Their logo features PS symbols",
+          "Slogan: Play Has No Limits",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features PS symbols",
+          "Known for PS5 and exclusives",
+          "Founded in 1994",
+          "Headquartered in San Mateo",
+          "Their slogan: Play Has No Limits",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The Japanese/US brand behind PS5",
+          "Stock ticker: SONY (parent)",
+          "Acquired Bungie",
+          "CEO: Hermen Hulst",
+          "Revenue exceeds $25B (Sony)",
+          "Pioneered console gaming"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Disney",
+          "Warner Bros",
+          "Universal"
+        ],
+        "hard": [
+          "Paramount",
+          "Marvel",
+          "DC Comics"
+        ]
+      }
+    },
+    {
+      "word": "Xbox",
+      "sub": "Entertainment",
+      "diff": "easy",
+      "desc": "A Microsoft gaming brand with Game Pass and Halo series.",
+      "tags": [
+        "entertainment",
+        "gaming",
+        "xbox",
+        "microsoft"
+      ],
+      "hints": {
+        "easy": [
+          "This entertainment company produces Game Pass and Halo",
+          "Renowned for Game Pass and Halo",
+          "Founded in 2001 and headquartered in Redmond",
+          "Their logo features green X sphere",
+          "Slogan: Power Your Dreams",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features green X sphere",
+          "Known for Game Pass and Halo",
+          "Founded in 2001",
+          "Headquartered in Redmond",
+          "Their slogan: Power Your Dreams",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind Series X",
+          "Stock ticker: MSFT (parent)",
+          "Acquired Activision Blizzard",
+          "CEO: Phil Spencer",
+          "Revenue exceeds $15B (Microsoft)",
+          "Pioneered subscription gaming"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Google",
+          "Amazon"
+        ],
+        "medium": [
+          "Disney",
+          "Warner Bros",
+          "Universal"
+        ],
+        "hard": [
+          "Paramount",
+          "Sony Pictures",
+          "Marvel"
+        ]
+      }
+    },
+    {
+      "word": "Steam",
+      "sub": "Entertainment",
+      "diff": "easy",
+      "desc": "A Valve digital game store with Summer Sale and Workshop.",
+      "tags": [
+        "entertainment",
+        "gaming",
+        "pc",
+        "valve"
+      ],
+      "hints": {
+        "easy": [
+          "This entertainment company produces PC game store",
+          "Renowned for PC game store",
+          "Founded in 2003 and headquartered in Bellevue",
+          "Their logo features valve",
+          "Slogan: memorable tagline",
+          "Competes with Epic Games and GOG"
+        ],
+        "medium": [
+          "Their logo features valve",
+          "Known for PC game store",
+          "Founded in 2003",
+          "Headquartered in Bellevue",
+          "Their slogan: memorable tagline",
+          "Competes with Epic Games and GOG"
+        ],
+        "hard": [
+          "The American brand behind flagship product",
+          "Stock ticker: private (Valve)",
+          "Acquired none major",
+          "CEO: Gabe Newell",
+          "Revenue exceeds $10B annually",
+          "Pioneered digital distribution"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Disney",
+          "Warner Bros",
+          "Universal"
+        ],
+        "hard": [
+          "Paramount",
+          "Sony Pictures",
+          "Marvel"
+        ]
+      }
+    },
+    {
+      "word": "IKEA",
+      "sub": "Home",
+      "diff": "easy",
+      "desc": "A Swedish flat-pack furniture giant with meatballs and maze stores.",
+      "tags": [
+        "home",
+        "furniture",
+        "swedish",
+        "flat-pack"
+      ],
+      "hints": {
+        "easy": [
+          "This home company produces flat-pack furniture",
+          "Renowned for flat-pack furniture",
+          "Founded in 1943 and headquartered in Almhult",
+          "Their logo features blue yellow",
+          "Slogan: The Wonderful Everyday",
+          "Competes with Wayfair and Ashley"
+        ],
+        "medium": [
+          "Their logo features blue yellow",
+          "Known for flat-pack furniture",
+          "Founded in 1943",
+          "Headquartered in Almhult",
+          "Their slogan: The Wonderful Everyday",
+          "Competes with Wayfair and Ashley"
+        ],
+        "hard": [
+          "The Swedish brand behind Billy bookcase",
+          "Stock ticker: private",
+          "Acquired none major",
+          "CEO: Jesper Brodin",
+          "Revenue exceeds $45B annually",
+          "Pioneered flat-pack logistics"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Dyson",
+          "KitchenAid",
+          "Instant Pot"
+        ],
+        "hard": [
+          "Ninja",
+          "Vitamix",
+          "Le Creuset"
+        ]
+      }
+    },
+    {
+      "word": "Dyson",
+      "sub": "Home",
+      "diff": "medium",
+      "desc": "A British vacuum and hair tool brand with cyclone tech.",
+      "tags": [
+        "home",
+        "vacuum",
+        "hair-tools",
+        "cyclone"
+      ],
+      "hints": {
+        "easy": [
+          "This home company produces cyclone vacuums",
+          "Renowned for cyclone vacuums",
+          "Founded in 1991 and headquartered in Malmesbury UK",
+          "Their logo features text",
+          "Slogan: memorable tagline",
+          "Competes with Shark and Miele"
+        ],
+        "medium": [
+          "Their logo features text",
+          "Known for cyclone vacuums",
+          "Founded in 1991",
+          "Headquartered in Malmesbury UK",
+          "Their slogan: memorable tagline",
+          "Competes with Shark and Miele"
+        ],
+        "hard": [
+          "The British brand behind V15 Detect",
+          "Stock ticker: private",
+          "Acquired none major",
+          "CEO: Roland Kruger",
+          "Revenue exceeds $7B annually",
+          "Pioneered cyclone separation"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "IKEA",
+          "KitchenAid",
+          "Instant Pot"
+        ],
+        "hard": [
+          "Ninja",
+          "Vitamix",
+          "Le Creuset"
+        ]
+      }
+    },
+    {
+      "word": "KitchenAid",
+      "sub": "Home",
+      "diff": "medium",
+      "desc": "An iconic stand mixer brand in countless colors.",
+      "tags": [
+        "home",
+        "kitchen",
+        "stand-mixer",
+        "iconic"
+      ],
+      "hints": {
+        "easy": [
+          "This home company produces stand mixers",
+          "Renowned for stand mixers",
+          "Founded in 1919 and headquartered in Benton Harbor",
+          "Their logo features script",
+          "Slogan: For the Maker in You",
+          "Competes with Cuisinart and Breville"
+        ],
+        "medium": [
+          "Their logo features script",
+          "Known for stand mixers",
+          "Founded in 1919",
+          "Headquartered in Benton Harbor",
+          "Their slogan: For the Maker in You",
+          "Competes with Cuisinart and Breville"
+        ],
+        "hard": [
+          "The American brand behind Artisan Mixer",
+          "Stock ticker: WHR (parent Whirlpool)",
+          "Acquired Whirlpool",
+          "CEO: Marc Bitzer",
+          "Revenue exceeds $20B (Whirlpool)",
+          "Pioneered planetary mixing"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "IKEA",
+          "Dyson",
+          "Instant Pot"
+        ],
+        "hard": [
+          "Ninja",
+          "Vitamix",
+          "Le Creuset"
+        ]
+      }
+    },
+    {
+      "word": "Instant Pot",
+      "sub": "Home",
+      "diff": "medium",
+      "desc": "A multi-cooker that pressure cooks slow cooks and yogurts.",
+      "tags": [
+        "home",
+        "kitchen",
+        "multi-cooker",
+        "pressure-cooker"
+      ],
+      "hints": {
+        "easy": [
+          "This home company produces multi-cookers",
+          "Renowned for multi-cookers",
+          "Founded in 2009 and headquartered in Ottawa",
+          "Their logo features text",
+          "Slogan: memorable tagline",
+          "Competes with Crock-Pot"
+        ],
+        "medium": [
+          "Their logo features text",
+          "Known for multi-cookers",
+          "Founded in 2009",
+          "Headquartered in Ottawa",
+          "Their slogan: memorable tagline",
+          "Competes with Crock-Pot"
+        ],
+        "hard": [
+          "The Canadian brand behind Duo 7-in-1",
+          "Stock ticker: private (Instant Brands)",
+          "Acquired Corelle Brands",
+          "CEO: Ben Gadbois",
+          "Revenue exceeds $1B annually",
+          "Pioneered pressure cooking"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "IKEA",
+          "Dyson",
+          "KitchenAid"
+        ],
+        "hard": [
+          "Ninja",
+          "Vitamix",
+          "Le Creuset"
+        ]
+      }
+    },
+    {
+      "word": "Ninja",
+      "sub": "Home",
+      "diff": "hard",
+      "desc": "A kitchen appliance brand with blenders and air fryers.",
+      "tags": [
+        "home",
+        "kitchen",
+        "blenders",
+        "air-fryer"
+      ],
+      "hints": {
+        "easy": [
+          "This home company produces blenders and air fryers",
+          "Renowned for blenders and air fryers",
+          "Founded in 2008 and headquartered in Needham MA",
+          "Their logo features text",
+          "Slogan: memorable tagline",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features text",
+          "Known for blenders and air fryers",
+          "Founded in 2008",
+          "Headquartered in Needham MA",
+          "Their slogan: memorable tagline",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind Foodi",
+          "Acquired Shark",
+          "CEO: Mark Barrocas",
+          "Revenue exceeds $3B annually",
+          "Pioneered multi-function",
+          "A home brand you might recognize"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "IKEA",
+          "Dyson",
+          "KitchenAid"
+        ],
+        "hard": [
+          "Instant Pot",
+          "Vitamix",
+          "Le Creuset"
+        ]
+      }
+    },
+    {
+      "word": "Vitamix",
+      "sub": "Home",
+      "diff": "hard",
+      "desc": "A commercial-grade blender that pulverizes anything.",
+      "tags": [
+        "home",
+        "blender",
+        "commercial-grade",
+        "powerful"
+      ],
+      "hints": {
+        "easy": [
+          "This home company produces commercial blenders",
+          "Renowned for commercial blenders",
+          "Founded in 1921 and headquartered in Cleveland",
+          "Their logo features text",
+          "Slogan: memorable tagline",
+          "Competes with Blendtec"
+        ],
+        "medium": [
+          "Their logo features text",
+          "Known for commercial blenders",
+          "Founded in 1921",
+          "Headquartered in Cleveland",
+          "Their slogan: memorable tagline",
+          "Competes with Blendtec"
+        ],
+        "hard": [
+          "The American brand behind A3500",
+          "Stock ticker: private",
+          "Acquired none major",
+          "CEO: Jodi Berg",
+          "Revenue exceeds $500M annually",
+          "Pioneered high-power blending"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "IKEA",
+          "Dyson",
+          "KitchenAid"
+        ],
+        "hard": [
+          "Instant Pot",
+          "Ninja",
+          "Le Creuset"
+        ]
+      }
+    },
+    {
+      "word": "Le Creuset",
+      "sub": "Home",
+      "diff": "hard",
+      "desc": "A French enameled cast iron cookware in vibrant colors.",
+      "tags": [
+        "home",
+        "cookware",
+        "french",
+        "cast-iron"
+      ],
+      "hints": {
+        "easy": [
+          "This home company produces enameled cast iron",
+          "Renowned for enameled cast iron",
+          "Founded in 1925 and headquartered in Fresnoy-le-Grand",
+          "Their logo features text",
+          "Slogan: memorable tagline",
+          "Competes with Staub and Lodge"
+        ],
+        "medium": [
+          "Their logo features text",
+          "Known for enameled cast iron",
+          "Founded in 1925",
+          "Headquartered in Fresnoy-le-Grand",
+          "Their slogan: memorable tagline",
+          "Competes with Staub and Lodge"
+        ],
+        "hard": [
+          "The French brand behind Dutch oven",
+          "Stock ticker: private",
+          "Acquired none major",
+          "CEO: Eric Bomeisler",
+          "Revenue exceeds $500M annually",
+          "Pioneered enamel coating"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "IKEA",
+          "Dyson",
+          "KitchenAid"
+        ],
+        "hard": [
+          "Instant Pot",
+          "Ninja",
+          "Vitamix"
+        ]
+      }
+    },
+    {
+      "word": "Tefal",
+      "sub": "Home",
+      "diff": "medium",
+      "desc": "A non-stick cookware pioneer with Thermo-Spot indicator.",
+      "tags": [
+        "home",
+        "cookware",
+        "non-stick",
+        "thermo-spot"
+      ],
+      "hints": {
+        "easy": [
+          "This home company produces non-stick pans",
+          "Renowned for non-stick pans",
+          "Founded in 1956 and headquartered in Rumilly",
+          "Their logo features red",
+          "Slogan: memorable tagline",
+          "Competes with GreenPan"
+        ],
+        "medium": [
+          "Their logo features red",
+          "Known for non-stick pans",
+          "Founded in 1956",
+          "Headquartered in Rumilly",
+          "Their slogan: memorable tagline",
+          "Competes with GreenPan"
+        ],
+        "hard": [
+          "The French brand behind Thermo-Spot pan",
+          "Stock ticker: SEB (parent)",
+          "Acquired Groupe SEB",
+          "CEO: Stanislas de Gramont",
+          "Revenue exceeds $8B (SEB)",
+          "Pioneered non-stick coating"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "IKEA",
+          "Dyson",
+          "KitchenAid"
+        ],
+        "hard": [
+          "Instant Pot",
+          "Ninja",
+          "Vitamix"
+        ]
+      }
+    },
+    {
+      "word": "Weber",
+      "sub": "Home",
+      "diff": "medium",
+      "desc": "A kettle grill brand that defined backyard barbecue.",
+      "tags": [
+        "home",
+        "grill",
+        "barbecue",
+        "kettle"
+      ],
+      "hints": {
+        "easy": [
+          "This home company produces kettle grills",
+          "Renowned for kettle grills",
+          "Founded in 1952 and headquartered in Palatine IL",
+          "Their logo features kettle",
+          "Slogan: memorable tagline",
+          "Competes with Char-Broil"
+        ],
+        "medium": [
+          "Their logo features kettle",
+          "Known for kettle grills",
+          "Founded in 1952",
+          "Headquartered in Palatine IL",
+          "Their slogan: memorable tagline",
+          "Competes with Char-Broil"
+        ],
+        "hard": [
+          "The American brand behind Original Kettle",
+          "Stock ticker: WEBR",
+          "Acquired none major",
+          "CEO: Chris Scherzinger",
+          "Revenue exceeds $1B annually",
+          "Pioneered kettle design"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "IKEA",
+          "Dyson",
+          "KitchenAid"
+        ],
+        "hard": [
+          "Instant Pot",
+          "Ninja",
+          "Vitamix"
+        ]
+      }
+    },
+    {
+      "word": "Traeger",
+      "sub": "Home",
+      "diff": "hard",
+      "desc": "A wood-pellet grill with WiFi temperature control.",
+      "tags": [
+        "home",
+        "grill",
+        "pellet",
+        "wifi"
+      ],
+      "hints": {
+        "easy": [
+          "This home company produces pellet grills",
+          "Renowned for pellet grills",
+          "Founded in 1985 and headquartered in Salt Lake City",
+          "Their logo features text",
+          "Slogan: memorable tagline",
+          "Competes with Green Mountain"
+        ],
+        "medium": [
+          "Their logo features text",
+          "Known for pellet grills",
+          "Founded in 1985",
+          "Headquartered in Salt Lake City",
+          "Their slogan: memorable tagline",
+          "Competes with Green Mountain"
+        ],
+        "hard": [
+          "The American brand behind Timberline",
+          "Stock ticker: COOK",
+          "Acquired none major",
+          "CEO: Jeremy Andrus",
+          "Revenue exceeds $500M annually",
+          "Pioneered wood pellets"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "IKEA",
+          "Dyson",
+          "KitchenAid"
+        ],
+        "hard": [
+          "Instant Pot",
+          "Ninja",
+          "Vitamix"
+        ]
+      }
+    },
+    {
+      "word": "Wilson",
+      "sub": "Sports",
+      "diff": "medium",
+      "desc": "A sporting goods brand with tennis rackets and NFL footballs.",
+      "tags": [
+        "sports",
+        "tennis",
+        "football",
+        "nfl"
+      ],
+      "hints": {
+        "easy": [
+          "This sports company produces tennis and NFL balls",
+          "Renowned for tennis and NFL balls",
+          "Founded in 1913 and headquartered in Chicago",
+          "Their logo features a distinctive symbol",
+          "Slogan: memorable tagline",
+          "Competes with Babolat"
+        ],
+        "medium": [
+          "Their logo features a distinctive symbol",
+          "Known for tennis and NFL balls",
+          "Founded in 1913",
+          "Headquartered in Chicago",
+          "Their slogan: memorable tagline",
+          "Competes with Babolat"
+        ],
+        "hard": [
+          "The American brand behind Pro Staff",
+          "Stock ticker: private (Amer Sports)",
+          "Acquired Amer Sports",
+          "CEO: James Zheng",
+          "Revenue exceeds $1B annually",
+          "Pioneered tennis rackets"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Spalding",
+          "Rawlings",
+          "Easton"
+        ],
+        "hard": [
+          "Bauer",
+          "CCM",
+          "Titleist"
+        ]
+      }
+    },
+    {
+      "word": "Spalding",
+      "sub": "Sports",
+      "diff": "medium",
+      "desc": "A basketball brand with official NBA game ball heritage.",
+      "tags": [
+        "sports",
+        "basketball",
+        "nba",
+        "official-ball"
+      ],
+      "hints": {
+        "easy": [
+          "This sports company produces NBA basketball",
+          "Renowned for NBA basketball",
+          "Founded in 1876 and headquartered in Bowling Green",
+          "Their logo features text",
+          "Slogan: memorable tagline",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features text",
+          "Known for NBA basketball",
+          "Founded in 1876",
+          "Headquartered in Bowling Green",
+          "Their slogan: memorable tagline",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind TF-1000",
+          "Stock ticker: private (Fruit of Loom)",
+          "Acquired Berkshire Hathaway",
+          "CEO: Dan Collins",
+          "Revenue exceeds $500M annually",
+          "Pioneered basketball design"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Wilson",
+          "Rawlings",
+          "Easton"
+        ],
+        "hard": [
+          "Bauer",
+          "CCM",
+          "Titleist"
+        ]
+      }
+    },
+    {
+      "word": "Rawlings",
+      "sub": "Sports",
+      "diff": "hard",
+      "desc": "A baseball glove brand with Heart of the Hide leather.",
+      "tags": [
+        "sports",
+        "baseball",
+        "gloves",
+        "heart-of-hide"
+      ],
+      "hints": {
+        "easy": [
+          "This sports company produces MLB baseball gloves",
+          "Renowned for MLB baseball gloves",
+          "Founded in 1887 and headquartered in St. Louis",
+          "Their logo features text",
+          "Slogan: memorable tagline",
+          "Competes with Mizuno"
+        ],
+        "medium": [
+          "Their logo features text",
+          "Known for MLB baseball gloves",
+          "Founded in 1887",
+          "Headquartered in St. Louis",
+          "Their slogan: memorable tagline",
+          "Competes with Mizuno"
+        ],
+        "hard": [
+          "The American brand behind Heart of the Hide",
+          "Stock ticker: private (Seidler Equity)",
+          "Acquired Seidler Equity",
+          "CEO: Mike Thompson",
+          "Revenue exceeds $200M annually",
+          "Pioneered glove leather"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Wilson",
+          "Spalding",
+          "Easton"
+        ],
+        "hard": [
+          "Bauer",
+          "CCM",
+          "Titleist"
+        ]
+      }
+    },
+    {
+      "word": "Easton",
+      "sub": "Sports",
+      "diff": "hard",
+      "desc": "A bat and hockey equipment brand for diamond and ice.",
+      "tags": [
+        "sports",
+        "baseball",
+        "hockey",
+        "bats"
+      ],
+      "hints": {
+        "easy": [
+          "This sports company produces baseball bats",
+          "Renowned for baseball bats",
+          "Founded in 1922 and headquartered in Van Nuys",
+          "Their logo features text",
+          "Slogan: memorable tagline",
+          "Competes with Louisville Slugger and DeMarini"
+        ],
+        "medium": [
+          "Their logo features text",
+          "Known for baseball bats",
+          "Founded in 1922",
+          "Headquartered in Van Nuys",
+          "Their slogan: memorable tagline",
+          "Competes with Louisville Slugger and DeMarini"
+        ],
+        "hard": [
+          "The American brand behind Ghost",
+          "Stock ticker: private (BRG Sports)",
+          "Acquired BRG Sports",
+          "CEO: Chris Zimmerman",
+          "Revenue exceeds $300M annually",
+          "Pioneered composite bats"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Wilson",
+          "Spalding",
+          "Rawlings"
+        ],
+        "hard": [
+          "Bauer",
+          "CCM",
+          "Titleist"
+        ]
+      }
+    },
+    {
+      "word": "Bauer",
+      "sub": "Sports",
+      "diff": "hard",
+      "desc": "A hockey equipment brand with Vapor and Supreme lines.",
+      "tags": [
+        "sports",
+        "hockey",
+        "vapor",
+        "supreme"
+      ],
+      "hints": {
+        "easy": [
+          "This sports company produces hockey equipment",
+          "Renowned for hockey equipment",
+          "Founded in 1927 and headquartered in Exeter NH",
+          "Their logo features text",
+          "Slogan: memorable tagline",
+          "Competes with True"
+        ],
+        "medium": [
+          "Their logo features text",
+          "Known for hockey equipment",
+          "Founded in 1927",
+          "Headquartered in Exeter NH",
+          "Their slogan: memorable tagline",
+          "Competes with True"
+        ],
+        "hard": [
+          "The Canadian brand behind Vapor skates",
+          "Stock ticker: private (Peak Achievement)",
+          "Acquired Peak Achievement",
+          "CEO: Ed Kinnaly",
+          "Revenue exceeds $500M annually",
+          "Pioneered hockey skates"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Wilson",
+          "Spalding",
+          "Rawlings"
+        ],
+        "hard": [
+          "Easton",
+          "CCM",
+          "Titleist"
+        ]
+      }
+    },
+    {
+      "word": "CCM",
+      "sub": "Sports",
+      "diff": "hard",
+      "desc": "A hockey brand with Jetspeed and Ribcor stick families.",
+      "tags": [
+        "sports",
+        "hockey",
+        "jetspeed",
+        "ribcor"
+      ],
+      "hints": {
+        "easy": [
+          "This sports company produces hockey sticks",
+          "Renowned for hockey sticks",
+          "Founded in 1899 and headquartered in Montreal",
+          "Their logo features text",
+          "Slogan: memorable tagline",
+          "Competes with True"
+        ],
+        "medium": [
+          "Their logo features text",
+          "Known for hockey sticks",
+          "Founded in 1899",
+          "Headquartered in Montreal",
+          "Their slogan: memorable tagline",
+          "Competes with True"
+        ],
+        "hard": [
+          "The Canadian brand behind Jetspeed",
+          "Stock ticker: private (Birch Hill)",
+          "Acquired Birch Hill Equity",
+          "CEO: Rob Muir",
+          "Revenue exceeds $500M annually",
+          "Pioneered stick tech"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Wilson",
+          "Spalding",
+          "Rawlings"
+        ],
+        "hard": [
+          "Easton",
+          "Bauer",
+          "Titleist"
+        ]
+      }
+    },
+    {
+      "word": "Titleist",
+      "sub": "Sports",
+      "diff": "medium",
+      "desc": "A golf brand with Pro V1 ball and Scotty Cameron putters.",
+      "tags": [
+        "sports",
+        "golf",
+        "pro-v1",
+        "scotty-cameron"
+      ],
+      "hints": {
+        "easy": [
+          "This sports company produces Pro V1 golf balls",
+          "Renowned for Pro V1 golf balls",
+          "Founded in 1932 and headquartered in Fairhaven MA",
+          "Their logo features script",
+          "Slogan: memorable tagline",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features script",
+          "Known for Pro V1 golf balls",
+          "Founded in 1932",
+          "Headquartered in Fairhaven MA",
+          "Their slogan: memorable tagline",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind Pro V1",
+          "Stock ticker: GOLF (parent Acushnet)",
+          "Acquired Acushnet",
+          "CEO: David Maher",
+          "Revenue exceeds $2B (Acushnet)",
+          "Pioneered golf ball dimples"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Wilson",
+          "Spalding",
+          "Rawlings"
+        ],
+        "hard": [
+          "Easton",
+          "Bauer",
+          "CCM"
+        ]
+      }
+    },
+    {
+      "word": "Callaway",
+      "sub": "Sports",
+      "diff": "medium",
+      "desc": "A golf brand with Epic drivers and Chrome Soft balls.",
+      "tags": [
+        "sports",
+        "golf",
+        "epic",
+        "chrome-soft"
+      ],
+      "hints": {
+        "easy": [
+          "This sports company produces Epic drivers",
+          "Renowned for Epic drivers",
+          "Founded in 1982 and headquartered in Carlsbad",
+          "Their logo features text",
+          "Slogan: memorable tagline",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features text",
+          "Known for Epic drivers",
+          "Founded in 1982",
+          "Headquartered in Carlsbad",
+          "Their slogan: memorable tagline",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind Epic",
+          "Stock ticker: ELY",
+          "Acquired Topgolf",
+          "CEO: Chip Brewer",
+          "Revenue exceeds $1B annually",
+          "Pioneered driver tech"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Wilson",
+          "Spalding",
+          "Rawlings"
+        ],
+        "hard": [
+          "Easton",
+          "Bauer",
+          "CCM"
+        ]
+      }
+    },
+    {
+      "word": "TaylorMade",
+      "sub": "Sports",
+      "diff": "medium",
+      "desc": "A golf brand with SIM drivers and Spider putters.",
+      "tags": [
+        "sports",
+        "golf",
+        "sim",
+        "spider"
+      ],
+      "hints": {
+        "easy": [
+          "This sports company produces SIM drivers",
+          "Renowned for SIM drivers",
+          "Founded in 1979 and headquartered in Carlsbad",
+          "Their logo features a distinctive symbol",
+          "Slogan: memorable tagline",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features a distinctive symbol",
+          "Known for SIM drivers",
+          "Founded in 1979",
+          "Headquartered in Carlsbad",
+          "Their slogan: memorable tagline",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind Stealth",
+          "Stock ticker: private (Centroid)",
+          "Acquired Centroid",
+          "CEO: David Abeles",
+          "Revenue exceeds $1B annually",
+          "Pioneered carbon face"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Wilson",
+          "Spalding",
+          "Rawlings"
+        ],
+        "hard": [
+          "Easton",
+          "Bauer",
+          "CCM"
+        ]
+      }
+    },
+    {
+      "word": "L'Oréal",
+      "sub": "Beauty",
+      "diff": "medium",
+      "desc": "A French cosmetics giant with Because You're Worth It.",
+      "tags": [
+        "beauty",
+        "cosmetics",
+        "french",
+        "worth-it"
+      ],
+      "hints": {
+        "easy": [
+          "This beauty company produces cosmetics and hair",
+          "Renowned for cosmetics and hair",
+          "Founded in 1909 and headquartered in Clichy",
+          "Their logo features text",
+          "Slogan: Because You're Worth It",
+          "Competes with Unilever"
+        ],
+        "medium": [
+          "Their logo features text",
+          "Known for cosmetics and hair",
+          "Founded in 1909",
+          "Headquartered in Clichy",
+          "Their slogan: Because You're Worth It",
+          "Competes with Unilever"
+        ],
+        "hard": [
+          "The French brand behind Revitalift",
+          "Stock ticker: OR.PA",
+          "Acquired other brands",
+          "CEO: Nicolas Hieronimus",
+          "Revenue exceeds $40B annually",
+          "Pioneered hair color"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Estée Lauder",
+          "MAC",
+          "Maybelline"
+        ],
+        "hard": [
+          "Lancôme",
+          "Glossier",
+          "The Ordinary"
+        ]
+      }
+    },
+    {
+      "word": "Estée Lauder",
+      "sub": "Beauty",
+      "diff": "medium",
+      "desc": "A luxury beauty brand with Advanced Night Repair serum.",
+      "tags": [
+        "beauty",
+        "luxury",
+        "skincare",
+        "night-repair"
+      ],
+      "hints": {
+        "easy": [
+          "This beauty company produces Advanced Night Repair",
+          "Renowned for Advanced Night Repair",
+          "Founded in 1946 and headquartered in New York",
+          "Their logo features script",
+          "Slogan: memorable tagline",
+          "Competes with Shiseido"
+        ],
+        "medium": [
+          "Their logo features script",
+          "Known for Advanced Night Repair",
+          "Founded in 1946",
+          "Headquartered in New York",
+          "Their slogan: memorable tagline",
+          "Competes with Shiseido"
+        ],
+        "hard": [
+          "The American brand behind Night Repair",
+          "Stock ticker: EL",
+          "Acquired Clinique",
+          "CEO: Fabrizio Freda",
+          "Revenue exceeds $17B annually",
+          "Pioneered skincare serums"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "L'Oréal",
+          "MAC",
+          "Maybelline"
+        ],
+        "hard": [
+          "Lancôme",
+          "Glossier",
+          "The Ordinary"
+        ]
+      }
+    },
+    {
+      "word": "MAC",
+      "sub": "Beauty",
+      "diff": "medium",
+      "desc": "A professional makeup brand with bullet lipsticks and studios.",
+      "tags": [
+        "beauty",
+        "makeup",
+        "professional",
+        "lipstick"
+      ],
+      "hints": {
+        "easy": [
+          "This beauty company produces professional makeup",
+          "Renowned for professional makeup",
+          "Founded in 1984 and headquartered in New York",
+          "Their logo features bullet",
+          "Slogan: All Ages All Races All Sexes",
+          "Competes with Urban Decay and NARS"
+        ],
+        "medium": [
+          "Their logo features bullet",
+          "Known for professional makeup",
+          "Founded in 1984",
+          "Headquartered in New York",
+          "Their slogan: All Ages All Races All Sexes",
+          "Competes with Urban Decay and NARS"
+        ],
+        "hard": [
+          "The Canadian/US brand behind Ruby Woo",
+          "Stock ticker: EL (parent)",
+          "Acquired 1994",
+          "CEO: Drew Elliott",
+          "Revenue exceeds $3B annually",
+          "Pioneered pro makeup"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "L'Oréal",
+          "Estée Lauder",
+          "Maybelline"
+        ],
+        "hard": [
+          "Lancôme",
+          "Glossier",
+          "The Ordinary"
+        ]
+      }
+    },
+    {
+      "word": "Maybelline",
+      "sub": "Beauty",
+      "diff": "easy",
+      "desc": "A drugstore makeup brand with Great Lash mascara pink-green.",
+      "tags": [
+        "beauty",
+        "makeup",
+        "drugstore",
+        "mascara"
+      ],
+      "hints": {
+        "easy": [
+          "This beauty company produces Great Lash mascara",
+          "Renowned for Great Lash mascara",
+          "Founded in 1915 and headquartered in New York",
+          "Their logo features script",
+          "Slogan: Maybe She's Born With It",
+          "Competes with Revlon"
+        ],
+        "medium": [
+          "Their logo features script",
+          "Known for Great Lash mascara",
+          "Founded in 1915",
+          "Headquartered in New York",
+          "Their slogan: Maybe She's Born With It",
+          "Competes with Revlon"
+        ],
+        "hard": [
+          "The American brand behind Great Lash",
+          "Stock ticker: OR.PA (parent L'Oréal)",
+          "Acquired 1996",
+          "CEO: Trisha Ayyagari",
+          "Revenue exceeds $4B annually",
+          "Pioneered mascara wand"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Estée Lauder",
+          "MAC",
+          "Lancôme"
+        ],
+        "hard": [
+          "Glossier",
+          "The Ordinary",
+          "GlamInc"
+        ]
+      }
+    },
+    {
+      "word": "Lancôme",
+      "sub": "Beauty",
+      "diff": "medium",
+      "desc": "A French luxury brand with Hypnôse mascara and La Vie Est Belle.",
+      "tags": [
+        "beauty",
+        "luxury",
+        "french",
+        "mascara"
+      ],
+      "hints": {
+        "easy": [
+          "This beauty company produces Hypnôse mascara",
+          "Renowned for Hypnôse mascara",
+          "Founded in 1935 and headquartered in Paris",
+          "Their logo features rose",
+          "Slogan: memorable tagline",
+          "Competes with Dior"
+        ],
+        "medium": [
+          "Their logo features rose",
+          "Known for Hypnôse mascara",
+          "Founded in 1935",
+          "Headquartered in Paris",
+          "Their slogan: memorable tagline",
+          "Competes with Dior"
+        ],
+        "hard": [
+          "The French brand behind Hypnôse",
+          "Stock ticker: OR.PA (parent L'Oréal)",
+          "Acquired 1964",
+          "CEO: Francoise Lehmann",
+          "Revenue exceeds $4B annually",
+          "Pioneered rose fragrance"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Estée Lauder",
+          "MAC",
+          "Maybelline"
+        ],
+        "hard": [
+          "Glossier",
+          "The Ordinary",
+          "GlamInc"
+        ]
+      }
+    },
+    {
+      "word": "Dior Beauty",
+      "sub": "Beauty",
+      "diff": "hard",
+      "desc": "A couture beauty line with Addict lipstick and Sauvage fragrance.",
+      "tags": [
+        "beauty",
+        "couture",
+        "lipstick",
+        "sauvage"
+      ],
+      "hints": {
+        "easy": [
+          "This beauty company produces Sauvage fragrance",
+          "Renowned for Sauvage fragrance",
+          "Founded in 1947 and headquartered in Paris",
+          "Their logo features Dior script",
+          "Slogan: Dior",
+          "Competes with Chanel and YSL"
+        ],
+        "medium": [
+          "Their logo features Dior script",
+          "Known for Sauvage fragrance",
+          "Founded in 1947",
+          "Headquartered in Paris",
+          "Their slogan: Dior",
+          "Competes with Chanel and YSL"
+        ],
+        "hard": [
+          "The French brand behind Sauvage",
+          "Stock ticker: LVMH (parent)",
+          "Acquired LVMH",
+          "CEO: Delphine Arnault",
+          "Revenue exceeds $70B (LVMH)",
+          "Pioneered couture beauty"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "L'Oréal",
+          "Estée Lauder",
+          "MAC"
+        ],
+        "hard": [
+          "Maybelline",
+          "Lancôme",
+          "Fenty Beauty"
+        ]
+      }
+    },
+    {
+      "word": "Chanel Beauty",
+      "sub": "Beauty",
+      "diff": "hard",
+      "desc": "A luxury beauty with Rouge Coco and Les Beiges foundation.",
+      "tags": [
+        "beauty",
+        "luxury",
+        "foundation",
+        "rouge-coco"
+      ],
+      "hints": {
+        "easy": [
+          "This beauty company produces No.5 perfume",
+          "Renowned for No.5 perfume",
+          "Founded in 1910 and headquartered in Paris",
+          "Their logo features CC interlocking",
+          "Slogan: Chanel",
+          "Competes with Dior and YSL"
+        ],
+        "medium": [
+          "Their logo features CC interlocking",
+          "Known for No.5 perfume",
+          "Founded in 1910",
+          "Headquartered in Paris",
+          "Their slogan: Chanel",
+          "Competes with Dior and YSL"
+        ],
+        "hard": [
+          "The French brand behind No.5",
+          "Stock ticker: private (Wertheimer)",
+          "Acquired none major",
+          "CEO: Leena Nair",
+          "Revenue exceeds $15B annually",
+          "Pioneered perfume"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "L'Oréal",
+          "Estée Lauder",
+          "MAC"
+        ],
+        "hard": [
+          "Maybelline",
+          "Lancôme",
+          "Fenty Beauty"
+        ]
+      }
+    },
+    {
+      "word": "YSL Beauty",
+      "sub": "Beauty",
+      "diff": "hard",
+      "desc": "A fashion-house beauty with Touche Éclat and Libre perfume.",
+      "tags": [
+        "beauty",
+        "fashion",
+        "touche-eclat",
+        "libre"
+      ],
+      "hints": {
+        "easy": [
+          "This beauty company produces Touche Eclat",
+          "Renowned for Touche Eclat",
+          "Founded in 1964 and headquartered in Paris",
+          "Their logo features YSL monogram",
+          "Slogan: Yves Saint Laurent",
+          "Competes with Dior and Chanel"
+        ],
+        "medium": [
+          "Their logo features YSL monogram",
+          "Known for Touche Eclat",
+          "Founded in 1964",
+          "Headquartered in Paris",
+          "Their slogan: Yves Saint Laurent",
+          "Competes with Dior and Chanel"
+        ],
+        "hard": [
+          "The French brand behind Touche Eclat",
+          "Stock ticker: LVMH (parent)",
+          "Acquired L'Oreal 2008",
+          "CEO: Stephan Bezy",
+          "Revenue exceeds $70B (LVMH)",
+          "Pioneered concealer pen"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "L'Oréal",
+          "Estée Lauder",
+          "MAC"
+        ],
+        "hard": [
+          "Maybelline",
+          "Lancôme",
+          "Fenty Beauty"
+        ]
+      }
+    },
+    {
+      "word": "Fenty Beauty",
+      "sub": "Beauty",
+      "diff": "medium",
+      "desc": "A Rihanna brand with 50 foundation shades and Gloss Bomb.",
+      "tags": [
+        "beauty",
+        "inclusive",
+        "foundation",
+        "gloss-bomb"
+      ],
+      "hints": {
+        "easy": [
+          "This beauty company produces 50 foundation shades",
+          "Renowned for 50 foundation shades",
+          "Founded in 2017 and headquartered in San Francisco",
+          "Their logo features FENTY text",
+          "Slogan: Beauty for All",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features FENTY text",
+          "Known for 50 foundation shades",
+          "Founded in 2017",
+          "Headquartered in San Francisco",
+          "Their slogan: Beauty for All",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind Pro Filt'r",
+          "Stock ticker: LVMH (parent)",
+          "Acquired LVMH",
+          "CEO: Rihanna (founder)",
+          "Revenue exceeds $500M annually",
+          "Pioneered inclusive shades"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "L'Oréal",
+          "Estée Lauder",
+          "MAC"
+        ],
+        "hard": [
+          "Maybelline",
+          "Lancôme",
+          "Dior Beauty"
+        ]
+      }
+    },
+    {
+      "word": "Rare Beauty",
+      "sub": "Beauty",
+      "diff": "medium",
+      "desc": "A Selena Gomez brand with liquid blush and mental health mission.",
+      "tags": [
+        "beauty",
+        "celebrity",
+        "blush",
+        "mental-health"
+      ],
+      "hints": {
+        "easy": [
+          "This beauty company produces liquid blush",
+          "Renowned for liquid blush",
+          "Founded in 2020 and headquartered in Los Angeles",
+          "Their logo features text",
+          "Slogan: memorable tagline",
+          "Competes with Fenty"
+        ],
+        "medium": [
+          "Their logo features text",
+          "Known for liquid blush",
+          "Founded in 2020",
+          "Headquartered in Los Angeles",
+          "Their slogan: memorable tagline",
+          "Competes with Fenty"
+        ],
+        "hard": [
+          "The American brand behind Soft Pinch",
+          "Stock ticker: private",
+          "Acquired none major",
+          "CEO: Selena Gomez (founder)",
+          "Revenue exceeds $300M annually",
+          "Pioneered mental health"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "L'Oréal",
+          "Estée Lauder",
+          "MAC"
+        ],
+        "hard": [
+          "Maybelline",
+          "Lancôme",
+          "Dior Beauty"
+        ]
+      }
+    },
+    {
+      "word": "Glossier",
+      "sub": "Beauty",
+      "diff": "medium",
+      "desc": "A direct-to-consumer brand with Boy Brow and skin-first ethos.",
+      "tags": [
+        "beauty",
+        "dtc",
+        "skin-first",
+        "boy-brow"
+      ],
+      "hints": {
+        "easy": [
+          "This beauty company produces Boy Brow",
+          "Renowned for Boy Brow",
+          "Founded in 2014 and headquartered in New York",
+          "Their logo features text",
+          "Slogan: Skin First",
+          "Competes with Fenty"
+        ],
+        "medium": [
+          "Their logo features text",
+          "Known for Boy Brow",
+          "Founded in 2014",
+          "Headquartered in New York",
+          "Their slogan: Skin First",
+          "Competes with Fenty"
+        ],
+        "hard": [
+          "The American brand behind Boy Brow",
+          "Stock ticker: private",
+          "Acquired none major",
+          "CEO: Emily Weiss",
+          "Revenue exceeds $200M annually",
+          "Pioneered DTC beauty"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "L'Oréal",
+          "Estée Lauder",
+          "MAC"
+        ],
+        "hard": [
+          "Maybelline",
+          "Lancôme",
+          "The Ordinary"
+        ]
+      }
+    },
+    {
+      "word": "The Ordinary",
+      "sub": "Beauty",
+      "diff": "medium",
+      "desc": "A clinical skincare brand with affordable acids and serums.",
+      "tags": [
+        "beauty",
+        "skincare",
+        "clinical",
+        "affordable"
+      ],
+      "hints": {
+        "easy": [
+          "This beauty company produces affordable serums",
+          "Renowned for affordable serums",
+          "Founded in 2013 and headquartered in Toronto",
+          "Their logo features text",
+          "Slogan: memorable tagline",
+          "Competes with CeraVe and La Roche-Posay"
+        ],
+        "medium": [
+          "Their logo features text",
+          "Known for affordable serums",
+          "Founded in 2013",
+          "Headquartered in Toronto",
+          "Their slogan: memorable tagline",
+          "Competes with CeraVe and La Roche-Posay"
+        ],
+        "hard": [
+          "The Canadian brand behind Niacinamide 10%",
+          "Stock ticker: private (DECIEM)",
+          "Acquired L'Oreal 2017",
+          "CEO: Nicola Kilner",
+          "Revenue exceeds $500M annually",
+          "Pioneered clinical pricing"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "L'Oréal",
+          "Estée Lauder",
+          "MAC"
+        ],
+        "hard": [
+          "Maybelline",
+          "Lancôme",
+          "Glossier"
+        ]
+      }
+    },
+    {
+      "word": "Visa",
+      "sub": "Finance",
+      "diff": "easy",
+      "desc": "A global payments network with blue-gold logo and everywhere acceptance.",
+      "tags": [
+        "finance",
+        "payments",
+        "credit-card",
+        "network"
+      ],
+      "hints": {
+        "easy": [
+          "This finance company produces global payments network",
+          "Renowned for global payments network",
+          "Founded in 1958 and headquartered in San Francisco",
+          "Their logo features blue gold",
+          "Slogan: Everywhere You Want to Be",
+          "Competes with Amex"
+        ],
+        "medium": [
+          "Their logo features blue gold",
+          "Known for global payments network",
+          "Founded in 1958",
+          "Headquartered in San Francisco",
+          "Their slogan: Everywhere You Want to Be",
+          "Competes with Amex"
+        ],
+        "hard": [
+          "The American brand behind credit",
+          "Stock ticker: V",
+          "Acquired Plaid (attempted)",
+          "CEO: Ryan McInerney",
+          "Revenue exceeds $30B annually",
+          "Pioneered payment network"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Mastercard",
+          "PayPal",
+          "Stripe"
+        ],
+        "hard": [
+          "Square",
+          "Revolut",
+          "Wise"
+        ]
+      }
+    },
+    {
+      "word": "Mastercard",
+      "sub": "Finance",
+      "diff": "easy",
+      "desc": "A payments network with interlocking circles and Priceless campaign.",
+      "tags": [
+        "finance",
+        "payments",
+        "credit-card",
+        "priceless"
+      ],
+      "hints": {
+        "easy": [
+          "This finance company produces Priceless campaign",
+          "Renowned for Priceless campaign",
+          "Founded in 1966 and headquartered in Purchase NY",
+          "Their logo features interlocking circles",
+          "Slogan: There Are Some Things Money Can't Buy",
+          "Competes with Amex"
+        ],
+        "medium": [
+          "Their logo features interlocking circles",
+          "Known for Priceless campaign",
+          "Founded in 1966",
+          "Headquartered in Purchase NY",
+          "Their slogan: There Are Some Things Money Can't Buy",
+          "Competes with Amex"
+        ],
+        "hard": [
+          "The American brand behind flagship product",
+          "Stock ticker: MA",
+          "Acquired Vocalink",
+          "CEO: Michael Miebach",
+          "Revenue exceeds $25B annually",
+          "Pioneered payment network"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Visa",
+          "PayPal",
+          "Stripe"
+        ],
+        "hard": [
+          "Square",
+          "Revolut",
+          "Wise"
+        ]
+      }
+    },
+    {
+      "word": "American Express",
+      "sub": "Finance",
+      "diff": "medium",
+      "desc": "A premium card network with Centurion logo and Membership Rewards.",
+      "tags": [
+        "finance",
+        "credit-card",
+        "premium",
+        "centurion"
+      ],
+      "hints": {
+        "easy": [
+          "This finance company produces premium cards",
+          "Renowned for premium cards",
+          "Founded in 1850 and headquartered in New York",
+          "Their logo features Centurion gladiator",
+          "Slogan: Don't Live Life Without It",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features Centurion gladiator",
+          "Known for premium cards",
+          "Founded in 1850",
+          "Headquartered in New York",
+          "Their slogan: Don't Live Life Without It",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind Platinum Card",
+          "Stock ticker: AXP",
+          "Acquired Resy",
+          "CEO: Stephen Squeri",
+          "Revenue exceeds $50B annually",
+          "Pioneered charge cards"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Visa",
+          "Mastercard",
+          "PayPal"
+        ],
+        "hard": [
+          "Stripe",
+          "Square",
+          "Revolut"
+        ]
+      }
+    },
+    {
+      "word": "PayPal",
+      "sub": "Finance",
+      "diff": "easy",
+      "desc": "An online payments platform with buyer protection and Venmo.",
+      "tags": [
+        "finance",
+        "payments",
+        "online",
+        "venmo"
+      ],
+      "hints": {
+        "easy": [
+          "This finance company produces online payments",
+          "Renowned for online payments",
+          "Founded in 1998 and headquartered in San Jose",
+          "Their logo features double P",
+          "Slogan: memorable tagline",
+          "Competes with other brands"
+        ],
+        "medium": [
+          "Their logo features double P",
+          "Known for online payments",
+          "Founded in 1998",
+          "Headquartered in San Jose",
+          "Their slogan: memorable tagline",
+          "Competes with other brands"
+        ],
+        "hard": [
+          "The American brand behind flagship product",
+          "Stock ticker: PYPL",
+          "Acquired Venmo Braintree",
+          "CEO: Alex Chriss",
+          "Revenue exceeds $30B annually",
+          "Pioneered digital wallet"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Visa",
+          "Mastercard",
+          "Stripe"
+        ],
+        "hard": [
+          "Square",
+          "Revolut",
+          "Wise"
+        ]
+      }
+    },
+    {
+      "word": "Stripe",
+      "sub": "Finance",
+      "diff": "hard",
+      "desc": "A developer-first payments API for internet businesses.",
+      "tags": [
+        "finance",
+        "payments",
+        "api",
+        "developers"
+      ],
+      "hints": {
+        "easy": [
+          "This finance company produces developer payments API",
+          "Renowned for developer payments API",
+          "Founded in 2010 and headquartered in San Francisco",
+          "Their logo features text",
+          "Slogan: memorable tagline",
+          "Competes with Adyen"
+        ],
+        "medium": [
+          "Their logo features text",
+          "Known for developer payments API",
+          "Founded in 2010",
+          "Headquartered in San Francisco",
+          "Their slogan: memorable tagline",
+          "Competes with Adyen"
+        ],
+        "hard": [
+          "The Irish/US brand behind API",
+          "Stock ticker: private",
+          "Acquired none major",
+          "CEO: Patrick Collison",
+          "Revenue exceeds $12B annually",
+          "Pioneered API-first payments"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Visa",
+          "Mastercard",
+          "American Express"
+        ],
+        "hard": [
+          "PayPal",
+          "Square",
+          "Revolut"
+        ]
+      }
+    },
+    {
+      "word": "Square",
+      "sub": "Finance",
+      "diff": "medium",
+      "desc": "A Block financial services with white card reader and Cash App.",
+      "tags": [
+        "finance",
+        "payments",
+        "pos",
+        "cash-app"
+      ],
+      "hints": {
+        "easy": [
+          "This finance company produces POS and Cash App",
+          "Renowned for POS and Cash App",
+          "Founded in 2009 and headquartered in San Francisco",
+          "Their logo features white reader",
+          "Slogan: memorable tagline",
+          "Competes with Toast"
+        ],
+        "medium": [
+          "Their logo features white reader",
+          "Known for POS and Cash App",
+          "Founded in 2009",
+          "Headquartered in San Francisco",
+          "Their slogan: memorable tagline",
+          "Competes with Toast"
+        ],
+        "hard": [
+          "The American brand behind Reader",
+          "Stock ticker: SQ (Block)",
+          "Acquired Afterpay",
+          "CEO: Jack Dorsey",
+          "Revenue exceeds $20B (Block)",
+          "Pioneered mobile POS"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Visa",
+          "Mastercard",
+          "PayPal"
+        ],
+        "hard": [
+          "Stripe",
+          "Revolut",
+          "Wise"
+        ]
+      }
+    },
+    {
+      "word": "Revolut",
+      "sub": "Finance",
+      "diff": "medium",
+      "desc": "A fintech app with multi-currency accounts and crypto trading.",
+      "tags": [
+        "finance",
+        "fintech",
+        "multi-currency",
+        "crypto"
+      ],
+      "hints": {
+        "easy": [
+          "This finance company produces multi-currency app",
+          "Renowned for multi-currency app",
+          "Founded in 2015 and headquartered in London",
+          "Their logo features text",
+          "Slogan: memorable tagline",
+          "Competes with Monzo"
+        ],
+        "medium": [
+          "Their logo features text",
+          "Known for multi-currency app",
+          "Founded in 2015",
+          "Headquartered in London",
+          "Their slogan: memorable tagline",
+          "Competes with Monzo"
+        ],
+        "hard": [
+          "The British brand behind app",
+          "Stock ticker: private",
+          "Acquired none major",
+          "CEO: Nik Storonsky",
+          "Revenue exceeds $2B annually",
+          "Pioneered fintech app"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Visa",
+          "Mastercard",
+          "American Express"
+        ],
+        "hard": [
+          "PayPal",
+          "Stripe",
+          "Square"
+        ]
+      }
+    },
+    {
+      "word": "Wise",
+      "sub": "Finance",
+      "diff": "hard",
+      "desc": "A low-cost international transfer service with real exchange rates.",
+      "tags": [
+        "finance",
+        "transfers",
+        "international",
+        "exchange-rate"
+      ],
+      "hints": {
+        "easy": [
+          "This finance company produces international transfers",
+          "Renowned for international transfers",
+          "Founded in 2011 and headquartered in London",
+          "Their logo features green",
+          "Slogan: memorable tagline",
+          "Competes with Remitly"
+        ],
+        "medium": [
+          "Their logo features green",
+          "Known for international transfers",
+          "Founded in 2011",
+          "Headquartered in London",
+          "Their slogan: memorable tagline",
+          "Competes with Remitly"
+        ],
+        "hard": [
+          "The British brand behind transfer",
+          "Acquired none major",
+          "CEO: Kristo Kaarmann",
+          "Revenue exceeds $1B annually",
+          "Pioneered mid-market rates",
+          "A finance brand you might recognize"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Visa",
+          "Mastercard",
+          "American Express"
+        ],
+        "hard": [
+          "PayPal",
+          "Stripe",
+          "Square"
+        ]
+      }
+    },
+    {
+      "word": "Robinhood",
+      "sub": "Finance",
+      "diff": "medium",
+      "desc": "A commission-free trading app with fractional shares and crypto.",
+      "tags": [
+        "finance",
+        "trading",
+        "commission-free",
+        "fractional"
+      ],
+      "hints": {
+        "easy": [
+          "This finance company produces commission-free trading",
+          "Renowned for commission-free trading",
+          "Founded in 2013 and headquartered in Menlo Park",
+          "Their logo features green feather",
+          "Slogan: memorable tagline",
+          "Competes with Webull and E*TRADE"
+        ],
+        "medium": [
+          "Their logo features green feather",
+          "Known for commission-free trading",
+          "Founded in 2013",
+          "Headquartered in Menlo Park",
+          "Their slogan: memorable tagline",
+          "Competes with Webull and E*TRADE"
+        ],
+        "hard": [
+          "The American brand behind app",
+          "Stock ticker: HOOD",
+          "Acquired none major",
+          "CEO: Vlad Tenev",
+          "Revenue exceeds $2B annually",
+          "Pioneered zero commission"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Visa",
+          "Mastercard",
+          "PayPal"
+        ],
+        "hard": [
+          "Stripe",
+          "Square",
+          "Revolut"
+        ]
+      }
+    },
+    {
+      "word": "Coinbase",
+      "sub": "Finance",
+      "diff": "medium",
+      "desc": "A cryptocurrency exchange with wallet and Earn learning rewards.",
+      "tags": [
+        "finance",
+        "crypto",
+        "exchange",
+        "wallet"
+      ],
+      "hints": {
+        "easy": [
+          "This finance company produces crypto exchange",
+          "Renowned for crypto exchange",
+          "Founded in 2012 and headquartered in San Francisco",
+          "Their logo features blue",
+          "Slogan: memorable tagline",
+          "Competes with Kraken"
+        ],
+        "medium": [
+          "Their logo features blue",
+          "Known for crypto exchange",
+          "Founded in 2012",
+          "Headquartered in San Francisco",
+          "Their slogan: memorable tagline",
+          "Competes with Kraken"
+        ],
+        "hard": [
+          "The American brand behind flagship product",
+          "Stock ticker: COIN",
+          "Acquired none major",
+          "CEO: Brian Armstrong",
+          "Revenue exceeds $3B annually",
+          "Pioneered crypto onboarding"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Visa",
+          "Mastercard",
+          "PayPal"
+        ],
+        "hard": [
+          "Stripe",
+          "Square",
+          "Revolut"
+        ]
+      }
+    },
+    {
+      "word": "Binance",
+      "sub": "Finance",
+      "diff": "hard",
+      "desc": "The world's largest crypto exchange with BNB token and Smart Chain.",
+      "tags": [
+        "finance",
+        "crypto",
+        "exchange",
+        "bnb"
+      ],
+      "hints": {
+        "easy": [
+          "This finance company produces largest crypto exchange",
+          "Renowned for largest crypto exchange",
+          "Founded in 2017 and headquartered in Global",
+          "Their logo features yellow",
+          "Slogan: memorable tagline",
+          "Competes with Bybit"
+        ],
+        "medium": [
+          "Their logo features yellow",
+          "Known for largest crypto exchange",
+          "Founded in 2017",
+          "Headquartered in Global",
+          "Their slogan: memorable tagline",
+          "Competes with Bybit"
+        ],
+        "hard": [
+          "The Cayman Islands brand behind flagship product",
+          "Stock ticker: private",
+          "Acquired none major",
+          "CEO: Richard Teng",
+          "Revenue exceeds $20B annually",
+          "Pioneered crypto trading"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Visa",
+          "Mastercard",
+          "American Express"
+        ],
+        "hard": [
+          "PayPal",
+          "Stripe",
+          "Square"
+        ]
+      }
+    },
+    {
+      "word": "BlackRock",
+      "sub": "Finance",
+      "diff": "hard",
+      "desc": "The world's largest asset manager with iShares ETFs.",
+      "tags": [
+        "finance",
+        "asset-management",
+        "etfs",
+        "ishares"
+      ],
+      "hints": {
+        "easy": [
+          "This finance company produces iShares ETFs",
+          "Renowned for iShares ETFs",
+          "Founded in 1988 and headquartered in New York",
+          "Their logo features text",
+          "Slogan: memorable tagline",
+          "Competes with State Street"
+        ],
+        "medium": [
+          "Their logo features text",
+          "Known for iShares ETFs",
+          "Founded in 1988",
+          "Headquartered in New York",
+          "Their slogan: memorable tagline",
+          "Competes with State Street"
+        ],
+        "hard": [
+          "The American brand behind iShares",
+          "Stock ticker: BLK",
+          "Acquired Barclays Global Investors",
+          "CEO: Larry Fink",
+          "Revenue exceeds $18B annually",
+          "Pioneered ETF dominance"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Visa",
+          "Mastercard",
+          "PayPal"
+        ],
+        "hard": [
+          "Stripe",
+          "Square",
+          "Revolut"
+        ]
+      }
+    },
+    {
+      "word": "Vanguard",
+      "sub": "Finance",
+      "diff": "hard",
+      "desc": "A client-owned fund company with low-cost index funds.",
+      "tags": [
+        "finance",
+        "funds",
+        "index-funds",
+        "client-owned"
+      ],
+      "hints": {
+        "easy": [
+          "This finance company produces low-cost index funds",
+          "Renowned for low-cost index funds",
+          "Founded in 1975 and headquartered in Malvern PA",
+          "Their logo features text",
+          "Slogan: memorable tagline",
+          "Competes with Fidelity"
+        ],
+        "medium": [
+          "Their logo features text",
+          "Known for low-cost index funds",
+          "Founded in 1975",
+          "Headquartered in Malvern PA",
+          "Their slogan: memorable tagline",
+          "Competes with Fidelity"
+        ],
+        "hard": [
+          "The American brand behind VTI",
+          "Stock ticker: private (client-owned)",
+          "Acquired none major",
+          "CEO: Salim Ramji",
+          "Revenue exceeds $8B annually",
+          "Pioneered client ownership"
+        ]
+      },
+      "imposters": {
+        "easy": [
+          "Apple",
+          "Microsoft",
+          "Google"
+        ],
+        "medium": [
+          "Visa",
+          "Mastercard",
+          "PayPal"
+        ],
+        "hard": [
+          "Stripe",
+          "Square",
+          "Revolut"
+        ]
+      }
+    }
+  ]
+}
