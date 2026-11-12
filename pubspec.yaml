@@ -72,3 +72,4 @@ flutter:
     - assets/sounds/
     - assets/blocklist.txt
     - assets/brands.txt
+    - assets/synonyms.txt

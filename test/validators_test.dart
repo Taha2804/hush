@@ -96,4 +96,17 @@ void main() {
     expect(c.entry.fakeWords, ['Pasta']);
     expect(c.rejectedHints.length, 3);
   });
+
+  test('bundled synonyms: other names never reach the imposter', () {
+    final syn = Blocklist.fromText(synonyms: 'eggplant: aubergine, brinjal\ntoad ~ frog, anuran');
+    // True other names: blocked as hints and as imposter words, both ways.
+    expect(rejectHint('Eggplant', 'Aubergine', blocklist: syn), 'synonym');
+    expect(rejectHint('Aubergine', 'Eggplant', blocklist: syn), 'synonym');
+    expect(rejectFake('Eggplant', 'Brinjal', blocklist: syn), 'synonym');
+    // Loose synonyms: blocked as hints only; close imposter words stay.
+    expect(rejectHint('Toad', 'Frog', blocklist: syn), 'synonym');
+    expect(rejectFake('Toad', 'Frog', blocklist: syn), isNull);
+    // Names on one line are not linked to each other.
+    expect(syn.synonymsOf('frog'), {'toad'});
+  });
 }

@@ -24,12 +24,14 @@ class Bootstrap {
     required this.assetLoader,
     required this.blocklistText,
     required this.brandsText,
+    this.synonymsText = '',
   });
   final SharedPreferences prefs;
   final AppDb db;
   final AssetLoader assetLoader;
   final String blocklistText;
   final String brandsText;
+  final String synonymsText;
 }
 
 final bootstrapProvider = Provider<Bootstrap>((ref) => throw UnimplementedError('override in main'));
@@ -40,7 +42,7 @@ final randomProvider = Provider<RandomService>((ref) => RandomService());
 
 final blocklistProvider = Provider<Blocklist>((ref) {
   final b = ref.watch(bootstrapProvider);
-  return Blocklist.fromText(blocked: b.blocklistText, brands: b.brandsText);
+  return Blocklist.fromText(blocked: b.blocklistText, brands: b.brandsText, synonyms: b.synonymsText);
 });
 
 final stateStoreProvider =

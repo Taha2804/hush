@@ -103,11 +103,45 @@ def _load_list(path):
     return single, phrases
 
 
+def load_synonyms(path=None):
+    """assets/synonyms.txt -> (strong, loose). `word: names` = strong (hints and
+    imposters), `word ~ names` = loose (hints only). Names <-> word both ways."""
+    path = path or os.path.join(ROOT, 'assets', 'synonyms.txt')
+    strong, loose = {}, {}
+    if not os.path.exists(path):
+        return strong, loose
+    with open(path, encoding='utf8') as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith('#'):
+                continue
+            sep = ':' if line.count(':') == 1 else '~' if line.count('~') == 1 else None
+            if not sep:
+                continue
+            out = strong if sep == ':' else loose
+            head, rest = (normalize(x) for x in line.split(sep))
+            names = {normalize(n) for n in rest.split(',') if normalize(n) and normalize(n) != head}
+            if not head or not names:
+                continue
+            out.setdefault(head, set()).update(names)
+            for n in names:
+                out.setdefault(n, set()).add(head)
+    return strong, loose
+
+
 class Lists:
     def __init__(self):
         self.blocked = _load_list(os.path.join(ROOT, 'assets', 'blocklist.txt'))
         self.brands = _load_list(os.path.join(ROOT, 'assets', 'brands.txt'))
         self.adult_allow = _load_list(os.path.join(ROOT, 'tool', 'words', 'adult_allow.txt'))[0]
+        self.strong_syn, self.loose_syn = load_synonyms()
+
+    def synonyms_of(self, word, strong_only=False):
+        k = normalize(word)
+        s = set(self.strong_syn.get(k, ()))
+        if not strong_only:
+            s |= self.loose_syn.get(k, set())
+        return s
 
     @staticmethod
     def _hit(lst, text, allow=frozenset()):
@@ -166,6 +200,12 @@ def reject_hint(word, hint, lists, adult=False, allow_brands=False):
                 return 'contains-word'
             if len(ht) >= 4 and ht in wt:
                 return 'contains-word'
+    def _is(syn):
+        return normalize(h) in syn or (len(tokens(h)) == 1 and stem(tokens(h)[0]) in {stem(s) for s in syn})
+    if _is(lists.synonyms_of(word, strong_only=True)):
+        return 'synonym'
+    if _is(lists.synonyms_of(word)):
+        return 'loose-synonym'
     if not allow_brands and lists.brand_hit(h):
         return 'brand'
     if lists.blocked_hit(h, adult):
@@ -184,6 +224,8 @@ def reject_imposter(word, imp, lists, adult=False):
         return 'same-as-word'
     if related_forms(word, imp):
         return 'variant-of-word'
+    if normalize(imp) in lists.synonyms_of(word, strong_only=True):
+        return 'synonym'
     wt = {stem(t) for t in tokens(word)}
     ft = {stem(t) for t in tokens(imp)}
     if not (ft - wt) or not (wt - ft):
@@ -295,7 +337,10 @@ def validate_record(r, cats, lists):
                 errs.append('hints.%s: non-string' % t)
                 continue
             rr = reject_hint(word, h, lists, adult, allow_brands)
-            if rr:
+            if rr == 'loose-synonym':
+                # The app drops it at runtime; worth replacing, not blocking.
+                warns.append('hint "%s" (%s): another name for the word, app will skip it' % (h, t))
+            elif rr:
                 errs.append('hint "%s" (%s): %s' % (h, t, rr))
             k = normalize(h)
             if k in seen_h:

@@ -28,6 +28,7 @@ Future<void> main() async {
     final db = AppDb(driftDatabase(name: 'hushbug'));
     final blocklist = await rootBundle.loadString('assets/blocklist.txt');
     final brands = await rootBundle.loadString('assets/brands.txt');
+    final synonyms = await rootBundle.loadString('assets/synonyms.txt');
 
     // Initialize Supabase Online Multiplayer subsystem
     await SupabaseService.initialize();
@@ -40,6 +41,7 @@ Future<void> main() async {
           assetLoader: (path) => rootBundle.loadString(path, cache: false),
           blocklistText: blocklist,
           brandsText: brands,
+          synonymsText: synonyms,
         )),
       ],
       child: const HushbugApp(),

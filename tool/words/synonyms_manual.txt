@@ -1,0 +1,68 @@
+# Other names for the same thing (regional / UK / US / Indian English).
+# One group per line: `word: other name, other name`. Merged into
+# assets/synonyms.txt by build_synonyms.py. Add more any time.
+eggplant: aubergine, brinjal, baingan
+zucchini: courgette
+bell pepper: capsicum, sweet pepper
+okra: ladyfinger, lady finger, bhindi
+cilantro: coriander, coriander leaves, dhania
+chickpea: garbanzo, chana
+potato: aloo, spud
+cauliflower: gobi
+spinach: palak
+cottage cheese: paneer
+yogurt: curd, dahi, yoghurt
+french fries: fries, chips
+chips: crisps
+cookie: biscuit
+candy: sweets
+popsicle: ice lolly
+cotton candy: candy floss, fairy floss
+soda: soft drink, pop, fizzy drink
+sweater: jumper, pullover
+pants: trousers
+sneakers: trainers, running shoes
+vest: waistcoat
+pacifier: dummy, soother
+diaper: nappy
+flashlight: torch
+elevator: lift
+apartment: flat
+truck: lorry
+gasoline: petrol, gas
+parking lot: car park
+sidewalk: pavement, footpath
+subway: underground, metro, tube
+highway: motorway, freeway, expressway
+faucet: tap
+trash can: dustbin, garbage can, rubbish bin
+mobile phone: cell phone, cellphone, smartphone
+television: tv, telly
+movie: film
+cinema: movie theater, movie theatre, multiplex
+soccer: football
+vacation: holiday
+mailman: postman, mail carrier
+eraser: rubber
+math: maths, mathematics
+grade: class, standard
+principal: headmaster, headmistress, head teacher
+autumn: fall
+restroom: toilet, washroom, bathroom, loo
+couch: sofa, settee
+closet: wardrobe, cupboard
+stove: cooker, hob
+refrigerator: fridge
+motorcycle: motorbike
+bicycle: bike, cycle
+auto rickshaw: tuk tuk, auto
+taxi: cab
+airplane: aeroplane, plane, aircraft
+ship: vessel
+doctor: physician
+police officer: cop, policeman, policewoman
+lawyer: attorney, advocate
+firefighter: fireman
+chef: cook
+puma: cougar, mountain lion
+groundhog: woodchuck

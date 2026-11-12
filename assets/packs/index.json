@@ -7,8 +7,8 @@
   "is_adult": false,
   "count": 149,
   "difficulty": {
-   "easy": 76,
-   "medium": 73,
+   "easy": 138,
+   "medium": 11,
    "hard": 0
   }
  },
@@ -20,9 +20,9 @@
   "is_adult": false,
   "count": 459,
   "difficulty": {
-   "easy": 115,
-   "medium": 343,
-   "hard": 1
+   "easy": 303,
+   "medium": 145,
+   "hard": 11
   }
  },
  {
@@ -33,8 +33,8 @@
   "is_adult": false,
   "count": 147,
   "difficulty": {
-   "easy": 0,
-   "medium": 147,
+   "easy": 91,
+   "medium": 56,
    "hard": 0
   }
  },

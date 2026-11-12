@@ -57,8 +57,9 @@ String? rejectHint(
     }
   }
 
-  // Synonym (whole hint, or a single-token hint equal to a synonym).
-  final normSyn = synonyms.map(normalize).toSet();
+  // Synonym (whole hint, or a single-token hint equal to a synonym), from the
+  // caller (online: Datamuse) and the bundled list (assets/synonyms.txt).
+  final normSyn = {...synonyms.map(normalize), ...bl.synonymsOf(word)};
   if (normSyn.contains(normalize(h))) return 'synonym';
   if (hintToks.length == 1 && normSyn.map(stem).contains(stem(hintToks.first))) {
     return 'synonym';
@@ -94,7 +95,8 @@ String? rejectFake(
   if (ft.difference(wt).isEmpty || wt.difference(ft).isEmpty) {
     return 'stem-or-substring';
   }
-  if (synonyms.map(normalize).contains(normalize(fake))) return 'synonym';
+  final syn = {...synonyms.map(normalize), ...(blocklist ?? Blocklist.empty).synonymsOf(word, strongOnly: true)};
+  if (syn.contains(normalize(fake))) return 'synonym';
   return null;
 }
 

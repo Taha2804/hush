@@ -64,6 +64,9 @@ Each source file is a JSON **array** of records:
 ## Hints (given to the Hint-mode imposter, ONE per round)
 Three tiers, **6–10 hints each** (aim for 6–7), all unique across tiers.
 Each hint is 1–4 words, no digits, no spelling/letter clues ("starts with B").
+A hint must NEVER be another name for the word: no synonyms, regional or foreign
+names, nicknames or scientific names (Eggplant: NOT "Aubergine", "Brinjal",
+"Solanum melongena"; Rome: NOT "Eternal City"). The same goes for imposter words.
 
 - **easy**: recognizable, fairly direct associations. A player who sees one could
   probably guess the word or at least its area. (Telescope: Stargazing, Observatory)

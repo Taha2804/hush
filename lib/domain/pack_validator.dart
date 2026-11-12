@@ -177,7 +177,8 @@ List<PackIssue> validatePack(String packId, List<WordEntry> entries, Blocklist b
     final hintSeen = <String>{};
     for (final h in e.hints) {
       final r = rejectHint(e.word, h.text, blocklist: ebl);
-      if (r != null) issues.add(PackIssue(packId, e.word, 'hint "${h.text}" rejected: $r'));
+      // Synonym hints are dropped at runtime (cleanEntry), so they only warn.
+      if (r != null) issues.add(PackIssue(packId, e.word, 'hint "${h.text}" rejected: $r', warning: r == 'synonym'));
       if (!hintSeen.add(normalize(h.text))) {
         issues.add(PackIssue(packId, e.word, 'duplicate hint "${h.text}"'));
       }
