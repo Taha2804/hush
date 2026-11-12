@@ -1,0 +1,3202 @@
+[
+  {
+    "word": "Jungle camp",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Campsite",
+        "Safari lodge"
+      ],
+      "medium": [
+        "Treehouse",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Treehouse",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cabin",
+        "Fort"
+      ],
+      "medium": [
+        "Playground",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Igloo",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tent",
+        "Hut"
+      ],
+      "medium": [
+        "Cabin",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Town hall",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Courthouse",
+        "Embassy"
+      ],
+      "medium": [
+        "Library",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Planetarium",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Observatory",
+        "Cinema"
+      ],
+      "medium": [
+        "Museum",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Art gallery",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Museum",
+        "Studio"
+      ],
+      "medium": [
+        "Auction house",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Studio",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Gallery",
+        "Office"
+      ],
+      "medium": [
+        "Workshop",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Workshop",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Garage",
+        "Factory"
+      ],
+      "medium": [
+        "Studio",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Shed",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Garage",
+        "Barn"
+      ],
+      "medium": [
+        "Cabin",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Orchard",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Farm",
+        "Vineyard"
+      ],
+      "medium": [
+        "Garden",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Vineyard",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Orchard",
+        "Farm"
+      ],
+      "medium": [
+        "Garden",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Cemetery",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Church",
+        "Park"
+      ],
+      "medium": [
+        "Monument",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Monument",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Statue",
+        "Museum"
+      ],
+      "medium": [
+        "Cemetery",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Fountain",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Pool",
+        "Statue"
+      ],
+      "medium": [
+        "Waterfall",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Plaza",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Park",
+        "Market"
+      ],
+      "medium": [
+        "Mall",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Alley",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Street",
+        "Avenue"
+      ],
+      "medium": [
+        "Tunnel",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Highway",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Street",
+        "Bridge"
+      ],
+      "medium": [
+        "Railway",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Crossroads",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Roundabout",
+        "Highway"
+      ],
+      "medium": [
+        "Bridge",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Roundabout",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Crossroads",
+        "Highway"
+      ],
+      "medium": [
+        "Bridge",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Parking lot",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Garage",
+        "Driveway"
+      ],
+      "medium": [
+        "Plaza",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Bus stop",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Train station",
+        "Taxi stand"
+      ],
+      "medium": [
+        "Airport",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Subway station",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Train station",
+        "Bus stop"
+      ],
+      "medium": [
+        "Airport",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Dam",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bridge",
+        "Lock"
+      ],
+      "medium": [
+        "Levee",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Mine",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Quarry",
+        "Cave"
+      ],
+      "medium": [
+        "Tunnel",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Quarry",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mine",
+        "Canyon"
+      ],
+      "medium": [
+        "Cliff",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Oil rig",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Lighthouse",
+        "Factory"
+      ],
+      "medium": [
+        "Mine",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Space station",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Satellite",
+        "Observatory"
+      ],
+      "medium": [
+        "Rocket",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Army base",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Fort",
+        "Camp"
+      ],
+      "medium": [
+        "Airport",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Fort",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Castle",
+        "Army base"
+      ],
+      "medium": [
+        "Tower",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Ruins",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Castle",
+        "Monument"
+      ],
+      "medium": [
+        "Temple",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Pyramid",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Temple",
+        "Sphinx"
+      ],
+      "medium": [
+        "Ziggurat",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Tower",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Skyscraper",
+        "Lighthouse"
+      ],
+      "medium": [
+        "Castle",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Bell tower",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Lighthouse",
+        "Clock tower"
+      ],
+      "medium": [
+        "Steeple",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Food court",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cafeteria",
+        "Restaurant"
+      ],
+      "medium": [
+        "Canteen",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Canteen",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cafeteria",
+        "Cafe"
+      ],
+      "medium": [
+        "Restaurant",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Diner",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cafe",
+        "Restaurant"
+      ],
+      "medium": [
+        "Canteen",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Food truck",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cafe",
+        "Diner"
+      ],
+      "medium": [
+        "Market",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Night club",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bar",
+        "Concert hall"
+      ],
+      "medium": [
+        "Theater",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Bowling alley",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Arcade",
+        "Gym"
+      ],
+      "medium": [
+        "Billiards hall",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Ski resort",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Spa",
+        "Campsite"
+      ],
+      "medium": [
+        "Cabin",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Resort",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hotel",
+        "Hostel"
+      ],
+      "medium": [
+        "Campsite",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Motel",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hotel",
+        "Hostel"
+      ],
+      "medium": [
+        "Inn",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Inn",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hotel",
+        "Motel"
+      ],
+      "medium": [
+        "Tavern",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Palace garden",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Park",
+        "Greenhouse"
+      ],
+      "medium": [
+        "Orchard",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Botanical garden",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Park",
+        "Greenhouse"
+      ],
+      "medium": [
+        "Zoo",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Nursery",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Greenhouse",
+        "Florist"
+      ],
+      "medium": [
+        "Orchard",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Daycare",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "School",
+        "Nursery"
+      ],
+      "medium": [
+        "Playground",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Retirement home",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hospital",
+        "Hotel"
+      ],
+      "medium": [
+        "Hostel",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Orphanage",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Daycare",
+        "School"
+      ],
+      "medium": [
+        "Boarding school",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Shelter",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hostel",
+        "Hospital"
+      ],
+      "medium": [
+        "Orphanage",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Recycling center",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Dump",
+        "Factory"
+      ],
+      "medium": [
+        "Warehouse",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Landfill",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Recycling center",
+        "Quarry"
+      ],
+      "medium": [
+        "Junkyard",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Junkyard",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Landfill",
+        "Garage"
+      ],
+      "medium": [
+        "Warehouse",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Hut",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cabin",
+        "Tent"
+      ],
+      "medium": [
+        "Shed",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Bungalow",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cottage",
+        "Villa"
+      ],
+      "medium": [
+        "Cabin",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Villa",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mansion",
+        "Bungalow"
+      ],
+      "medium": [
+        "Cottage",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Condo",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Apartment",
+        "Townhouse"
+      ],
+      "medium": [
+        "Villa",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Penthouse",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mansion",
+        "Condo"
+      ],
+      "medium": [
+        "Loft",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Hair salon",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Barbershop",
+        "Spa"
+      ],
+      "medium": [
+        "Boutique",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Boutique",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mall",
+        "Market"
+      ],
+      "medium": [
+        "Salon",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Casino",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Arcade",
+        "Bowling alley"
+      ],
+      "medium": [
+        "Stadium",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Racetrack",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Stadium",
+        "Arena"
+      ],
+      "medium": [
+        "Highway",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Lagoon resort",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Historic importance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hotel",
+        "Hostel"
+      ],
+      "medium": [
+        "Campsite",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  },
+  {
+    "word": "Port",
+    "category": "geography_places",
+    "subcategory": "Places",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "places"
+    ],
+    "hints": {
+      "easy": [
+        "Geographic location",
+        "Named destination",
+        "Point of reference",
+        "Area designation",
+        "Site identifier",
+        "Place marking"
+      ],
+      "medium": [
+        "Cultural significance",
+        "Economic value",
+        "Recreational appeal",
+        "Religious meaning",
+        "Political boundary",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Human geography",
+        "Spatial analysis",
+        "Place identity",
+        "Sense of place",
+        "Territorial claim",
+        "Landscape transformation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Harbor",
+        "Marina"
+      ],
+      "medium": [
+        "Warehouse",
+        "Region"
+      ],
+      "hard": [
+        "Zone",
+        "Sector"
+      ]
+    }
+  }
+]

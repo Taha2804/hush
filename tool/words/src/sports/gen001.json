@@ -1,0 +1,3 @@
+[
+{"word":"Ice hockey","category":"sports_games","subcategory":"Team sports","difficulty":"easy","description":"A fast team game on ice where players use sticks to shoot a puck into a net.","tags":["ice","team","puck"],"hints":{"easy":["Puck","Skates","Stick","Rink","Goalie","Penalty box"],"medium":["Face-off","Power play","Icing","Offside","Slapshot","Hat trick"],"hard":["Forecheck","Backcheck","Neutral zone","Dump and chase","Cycle","Gretzky"]},"imposters":{"easy":["Field hockey","Curling","Lacrosse"],"medium":["Roller hockey","Bandy","Ringette"],"hard":["Inline hockey","Ball hockey"]}}
+]

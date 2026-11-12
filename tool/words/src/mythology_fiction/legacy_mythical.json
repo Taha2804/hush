@@ -1,0 +1,5002 @@
+[
+  {
+    "word": "Kitsune",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tanuki",
+        "Tengu"
+      ],
+      "medium": [
+        "Werewolf",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Tengu",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kappa",
+        "Oni"
+      ],
+      "medium": [
+        "Kitsune",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Kappa",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tengu",
+        "Kitsune"
+      ],
+      "medium": [
+        "Goblin",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Oni",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Troll",
+        "Ogre"
+      ],
+      "medium": [
+        "Tengu",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Naga",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Basilisk",
+        "Lamia"
+      ],
+      "medium": [
+        "Hydra",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Garuda",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Phoenix",
+        "Roc"
+      ],
+      "medium": [
+        "Thunderbird",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Wendigo",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Yeti",
+        "Skinwalker"
+      ],
+      "medium": [
+        "Werewolf",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Chupacabra",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Wendigo",
+        "Vampire"
+      ],
+      "medium": [
+        "Jackalope",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Mothman",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bigfoot",
+        "Jersey devil"
+      ],
+      "medium": [
+        "Owlman",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Jackalope",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Unicorn",
+        "Chupacabra"
+      ],
+      "medium": [
+        "Wolpertinger",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Thunderbird",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Phoenix",
+        "Roc"
+      ],
+      "medium": [
+        "Garuda",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Roc",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Phoenix",
+        "Thunderbird"
+      ],
+      "medium": [
+        "Garuda",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Hippogriff",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Griffin",
+        "Pegasus"
+      ],
+      "medium": [
+        "Unicorn",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Kirin",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Unicorn",
+        "Qilin"
+      ],
+      "medium": [
+        "Dragon",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Banshee",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ghost",
+        "Siren"
+      ],
+      "medium": [
+        "Wraith",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Wraith",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ghost",
+        "Specter"
+      ],
+      "medium": [
+        "Banshee",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Poltergeist",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ghost",
+        "Phantom"
+      ],
+      "medium": [
+        "Demon",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Ghoul",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Zombie",
+        "Vampire"
+      ],
+      "medium": [
+        "Mummy",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Imp",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Goblin",
+        "Gremlin"
+      ],
+      "medium": [
+        "Pixie",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Gremlin",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Goblin",
+        "Imp"
+      ],
+      "medium": [
+        "Troll",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Hobgoblin",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Gremlin",
+        "Brownie"
+      ],
+      "medium": [
+        "Imp",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Boggart",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bogeyman",
+        "Poltergeist"
+      ],
+      "medium": [
+        "Hobgoblin",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Bogeyman",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ghost",
+        "Boggart"
+      ],
+      "medium": [
+        "Monster",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Sandman",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tooth fairy",
+        "Bogeyman"
+      ],
+      "medium": [
+        "Elf",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Kobold",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Gnome",
+        "Goblin"
+      ],
+      "medium": [
+        "Brownie",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Nixie",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Naiad",
+        "Kelpie"
+      ],
+      "medium": [
+        "Mermaid",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Sprite",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Fairy",
+        "Pixie"
+      ],
+      "medium": [
+        "Wisp",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Specter",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ghost",
+        "Wraith"
+      ],
+      "medium": [
+        "Phantom",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Phantom",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ghost",
+        "Specter"
+      ],
+      "medium": [
+        "Wraith",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Lich",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Wraith",
+        "Necromancer"
+      ],
+      "medium": [
+        "Vampire",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Revenant",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Zombie",
+        "Ghoul"
+      ],
+      "medium": [
+        "Wraith",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Dullahan",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Banshee",
+        "Wraith"
+      ],
+      "medium": [
+        "Phantom",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Lamia",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Naga",
+        "Gorgon"
+      ],
+      "medium": [
+        "Siren",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Sea serpent",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kraken",
+        "Leviathan"
+      ],
+      "medium": [
+        "Hydra",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Leviathan",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kraken",
+        "Behemoth"
+      ],
+      "medium": [
+        "Sea serpent",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Behemoth",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Leviathan",
+        "Titan"
+      ],
+      "medium": [
+        "Giant",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Nessie",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kraken",
+        "Sea serpent"
+      ],
+      "medium": [
+        "Bigfoot",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Hellhound",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cerberus",
+        "Werewolf"
+      ],
+      "medium": [
+        "Barghest",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Fenrir",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cerberus",
+        "Werewolf"
+      ],
+      "medium": [
+        "Hellhound",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Valkyrie",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Harpy",
+        "Angel"
+      ],
+      "medium": [
+        "Amazon",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Titan",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Giant",
+        "Cyclops"
+      ],
+      "medium": [
+        "Golem",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Giant",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Titan",
+        "Ogre"
+      ],
+      "medium": [
+        "Troll",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Cherub",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Angel",
+        "Cupid"
+      ],
+      "medium": [
+        "Fairy",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Demon",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Devil",
+        "Imp"
+      ],
+      "medium": [
+        "Ghost",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Gargoyle",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Golem",
+        "Statue"
+      ],
+      "medium": [
+        "Demon",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Shapeshifter",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Werewolf",
+        "Changeling"
+      ],
+      "medium": [
+        "Doppelganger",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Changeling",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Shapeshifter",
+        "Elf"
+      ],
+      "medium": [
+        "Pixie",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Doppelganger",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Shapeshifter",
+        "Twin"
+      ],
+      "medium": [
+        "Clone",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Skinwalker",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Werewolf",
+        "Wendigo"
+      ],
+      "medium": [
+        "Shapeshifter",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Rakshasa",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Asura",
+        "Ogre"
+      ],
+      "medium": [
+        "Vampire",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Vetala",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ghost",
+        "Vampire"
+      ],
+      "medium": [
+        "Rakshasa",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Yaksha",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Gandharva",
+        "Naga"
+      ],
+      "medium": [
+        "Genie",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Apsara",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Nymph",
+        "Angel"
+      ],
+      "medium": [
+        "Gandharva",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Makara",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Naga",
+        "Kraken"
+      ],
+      "medium": [
+        "Leviathan",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Kinnara",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Harpy",
+        "Apsara"
+      ],
+      "medium": [
+        "Garuda",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Asura",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Rakshasa",
+        "Titan"
+      ],
+      "medium": [
+        "Demon",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Djinn",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Genie",
+        "Ifrit"
+      ],
+      "medium": [
+        "Demon",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Ifrit",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Djinn",
+        "Genie"
+      ],
+      "medium": [
+        "Demon",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Yowie",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bigfoot",
+        "Yeti"
+      ],
+      "medium": [
+        "Bunyip",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Tikbalang",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kapre",
+        "Aswang"
+      ],
+      "medium": [
+        "Centaur",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Aswang",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Vampire",
+        "Ghoul"
+      ],
+      "medium": [
+        "Tikbalang",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Baku",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tapir",
+        "Kirin"
+      ],
+      "medium": [
+        "Kitsune",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Tanuki",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kitsune",
+        "Kappa"
+      ],
+      "medium": [
+        "Raccoon",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Rusalka",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mermaid",
+        "Nixie"
+      ],
+      "medium": [
+        "Siren",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Domovoi",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Brownie",
+        "Kobold"
+      ],
+      "medium": [
+        "Gnome",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Firebird",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Phoenix",
+        "Thunderbird"
+      ],
+      "medium": [
+        "Roc",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Baba yaga",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hag",
+        "Witch"
+      ],
+      "medium": [
+        "Crone",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Zmey",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Dragon",
+        "Hydra"
+      ],
+      "medium": [
+        "Wyvern",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Peryton",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hippogriff",
+        "Griffin"
+      ],
+      "medium": [
+        "Jackalope",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Ouroboros",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Dragon",
+        "Basilisk"
+      ],
+      "medium": [
+        "Naga",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Hippocamp",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kelpie",
+        "Mermaid"
+      ],
+      "medium": [
+        "Pegasus",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Triton",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mermaid",
+        "Siren"
+      ],
+      "medium": [
+        "Selkie",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Merman",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mermaid",
+        "Triton"
+      ],
+      "medium": [
+        "Selkie",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Ent",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Dryad",
+        "Golem"
+      ],
+      "medium": [
+        "Troll",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Wisp",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sprite",
+        "Firefly"
+      ],
+      "medium": [
+        "Phantom",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Hag",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Witch",
+        "Crone"
+      ],
+      "medium": [
+        "Banshee",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Witch",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Wizard",
+        "Hag"
+      ],
+      "medium": [
+        "Sorcerer",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Wizard",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Witch",
+        "Sorcerer"
+      ],
+      "medium": [
+        "Warlock",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Sorcerer",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Wizard",
+        "Warlock"
+      ],
+      "medium": [
+        "Witch",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Necromancer",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Lich",
+        "Sorcerer"
+      ],
+      "medium": [
+        "Wizard",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Grim reaper",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ghost",
+        "Banshee"
+      ],
+      "medium": [
+        "Wraith",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Cupid",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cherub",
+        "Angel"
+      ],
+      "medium": [
+        "Fairy",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Medusa",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Gorgon",
+        "Harpy"
+      ],
+      "medium": [
+        "Lamia",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Sasquatch",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bigfoot",
+        "Yeti"
+      ],
+      "medium": [
+        "Yowie",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Water kelpie",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Selkie",
+        "Hippocamp"
+      ],
+      "medium": [
+        "Nixie",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Jersey devil",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mothman",
+        "Chupacabra"
+      ],
+      "medium": [
+        "Gargoyle",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Wolpertinger",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Jackalope",
+        "Griffin"
+      ],
+      "medium": [
+        "Chimera",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Bigfoot cousin",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Yeti",
+        "Yowie"
+      ],
+      "medium": [
+        "Sasquatch",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Mandrake",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mushroom",
+        "Ginseng"
+      ],
+      "medium": [
+        "Bonsai",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Homunculus",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Golem",
+        "Changeling"
+      ],
+      "medium": [
+        "Imp",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Basilisk king",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cockatrice",
+        "Hydra"
+      ],
+      "medium": [
+        "Naga",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Qilin",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kirin",
+        "Unicorn"
+      ],
+      "medium": [
+        "Pegasus",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Hellcat",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hellhound",
+        "Werewolf"
+      ],
+      "medium": [
+        "Gremlin",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Gryphon chick",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Phoenix",
+        "Pegasus"
+      ],
+      "medium": [
+        "Hippogriff",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Drake",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Wyvern",
+        "Dragon"
+      ],
+      "medium": [
+        "Basilisk",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Wyrm",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Wyvern",
+        "Drake"
+      ],
+      "medium": [
+        "Hydra",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Werecat",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Werewolf",
+        "Kitsune"
+      ],
+      "medium": [
+        "Skinwalker",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Mermaid queen",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Siren",
+        "Selkie"
+      ],
+      "medium": [
+        "Triton",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Harpy eagle",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Supernatural entity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Condor",
+        "Falcon"
+      ],
+      "medium": [
+        "Hawk",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  },
+  {
+    "word": "Treant",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Folklore character",
+        "Mythological figure",
+        "Fantasy creature",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Magical power",
+        "Divine origin",
+        "Monster encounter",
+        "Hero journey",
+        "Quest narrative",
+        "Transformation theme"
+      ],
+      "hard": [
+        "Symbolic interpretation",
+        "Cultural anthropology",
+        "Psychological archetypes",
+        "Literary analysis",
+        "Comparative mythology",
+        "Ritual practice"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ent",
+        "Dryad"
+      ],
+      "medium": [
+        "Golem",
+        "Spirit"
+      ],
+      "hard": [
+        "God",
+        "Legend"
+      ]
+    }
+  }
+]

@@ -1,0 +1,2702 @@
+[
+  {
+    "word": "Karachi",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Lahore",
+        "Mumbai"
+      ],
+      "medium": [
+        "Dhaka",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Manila",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cebu",
+        "Jakarta"
+      ],
+      "medium": [
+        "Bangkok",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Jakarta",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bali",
+        "Manila"
+      ],
+      "medium": [
+        "Kuala lumpur",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Sao paulo",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Rio",
+        "Buenos aires"
+      ],
+      "medium": [
+        "Mexico city",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Nashville",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Memphis",
+        "Austin"
+      ],
+      "medium": [
+        "Atlanta",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Houston",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Dallas",
+        "Austin"
+      ],
+      "medium": [
+        "Atlanta",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Atlanta",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Houston",
+        "Nashville"
+      ],
+      "medium": [
+        "Charlotte",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Denver",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Boise",
+        "Phoenix"
+      ],
+      "medium": [
+        "Austin",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Venice beach",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Malibu",
+        "Miami beach"
+      ],
+      "medium": [
+        "Santa monica",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Ottawa",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Toronto",
+        "Montreal"
+      ],
+      "medium": [
+        "Washington",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Seville",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Madrid",
+        "Granada"
+      ],
+      "medium": [
+        "Lisbon",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Porto",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Lisbon",
+        "Bilbao"
+      ],
+      "medium": [
+        "Seville",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Nice",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cannes",
+        "Monaco"
+      ],
+      "medium": [
+        "Marseille",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Marseille",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Nice",
+        "Lyon"
+      ],
+      "medium": [
+        "Genoa",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Lyon",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Marseille",
+        "Paris"
+      ],
+      "medium": [
+        "Geneva",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Naples",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Rome",
+        "Palermo"
+      ],
+      "medium": [
+        "Florence",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Salzburg",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Vienna",
+        "Innsbruck"
+      ],
+      "medium": [
+        "Munich",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Bruges",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ghent",
+        "Amsterdam"
+      ],
+      "medium": [
+        "Brussels",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Santorini",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mykonos",
+        "Crete"
+      ],
+      "medium": [
+        "Capri",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Mykonos",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Santorini",
+        "Ibiza"
+      ],
+      "medium": [
+        "Crete",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Bali",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Phuket",
+        "Lombok"
+      ],
+      "medium": [
+        "Maldives",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Phuket",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bali",
+        "Bangkok"
+      ],
+      "medium": [
+        "Langkawi",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Kandy",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Colombo",
+        "Ooty"
+      ],
+      "medium": [
+        "Darjeeling",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Darjeeling",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Shimla",
+        "Gangtok"
+      ],
+      "medium": [
+        "Kandy",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Shimla",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Manali",
+        "Darjeeling"
+      ],
+      "medium": [
+        "Mussoorie",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Manali",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Shimla",
+        "Leh"
+      ],
+      "medium": [
+        "Rishikesh",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Rishikesh",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Haridwar",
+        "Varanasi"
+      ],
+      "medium": [
+        "Manali",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Udaipur",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Jaipur",
+        "Jodhpur"
+      ],
+      "medium": [
+        "Venice",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Amritsar",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Lahore",
+        "Chandigarh"
+      ],
+      "medium": [
+        "Ludhiana",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Pune",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mumbai",
+        "Bangalore"
+      ],
+      "medium": [
+        "Nashik",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Lucknow",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hyderabad",
+        "Delhi"
+      ],
+      "medium": [
+        "Kanpur",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Kochi",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Chennai",
+        "Goa"
+      ],
+      "medium": [
+        "Mangalore",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Mysore",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bangalore",
+        "Ooty"
+      ],
+      "medium": [
+        "Coimbatore",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Leh",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Manali",
+        "Lhasa"
+      ],
+      "medium": [
+        "Shimla",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Pondicherry",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Goa",
+        "Chennai"
+      ],
+      "medium": [
+        "Kochi",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Ahmedabad",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Surat",
+        "Mumbai"
+      ],
+      "medium": [
+        "Jaipur",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Chandigarh",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Amritsar",
+        "Delhi"
+      ],
+      "medium": [
+        "Shimla",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Bhopal",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Indore",
+        "Lucknow"
+      ],
+      "medium": [
+        "Nagpur",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Indore",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bhopal",
+        "Nagpur"
+      ],
+      "medium": [
+        "Pune",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Patna",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Varanasi",
+        "Kolkata"
+      ],
+      "medium": [
+        "Lucknow",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Guwahati",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Shillong",
+        "Kolkata"
+      ],
+      "medium": [
+        "Gangtok",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Shillong",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Guwahati",
+        "Darjeeling"
+      ],
+      "medium": [
+        "Gangtok",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Dallas",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Houston",
+        "Austin"
+      ],
+      "medium": [
+        "Denver",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Austin",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Dallas",
+        "Nashville"
+      ],
+      "medium": [
+        "Portland",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Portland",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Seattle",
+        "Austin"
+      ],
+      "medium": [
+        "Denver",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "San diego",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Los angeles",
+        "Phoenix"
+      ],
+      "medium": [
+        "Tijuana",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Detroit",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Chicago",
+        "Cleveland"
+      ],
+      "medium": [
+        "Toronto",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Glasgow",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Edinburgh",
+        "Manchester"
+      ],
+      "medium": [
+        "Dublin",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Manchester",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Liverpool",
+        "London"
+      ],
+      "medium": [
+        "Glasgow",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Liverpool",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Manchester",
+        "London"
+      ],
+      "medium": [
+        "Belfast",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Oxford",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cambridge",
+        "London"
+      ],
+      "medium": [
+        "Bath",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Cambridge",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Oxford",
+        "London"
+      ],
+      "medium": [
+        "Norwich",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Granada",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Seville",
+        "Cordoba"
+      ],
+      "medium": [
+        "Madrid",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  },
+  {
+    "word": "Valencia",
+    "category": "geography_places",
+    "subcategory": "Cities",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "cities"
+    ],
+    "hints": {
+      "easy": [
+        "Urban area",
+        "Metropolitan zone",
+        "Travel destination",
+        "Notable example",
+        "Common type",
+        "Well known"
+      ],
+      "medium": [
+        "Cultural hub",
+        "Commercial district",
+        "Transportation network",
+        "Architectural style",
+        "Local cuisine",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Urban planning",
+        "Economic development",
+        "Cultural significance",
+        "Climate influence",
+        "Geographic location",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Barcelona",
+        "Seville"
+      ],
+      "medium": [
+        "Madrid",
+        "Coastal city"
+      ],
+      "hard": [
+        "Historic center",
+        "Modern metropolis"
+      ]
+    }
+  }
+]

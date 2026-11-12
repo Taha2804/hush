@@ -1,0 +1,782 @@
+[
+  {
+    "word": "Security camera",
+    "category": "science_technology",
+    "subcategory": "Security",
+    "difficulty": "easy",
+    "description": "An electronic video device that captures and records images of an area for later review or live viewing.",
+    "tags": [
+      "technology",
+      "security",
+      "monitoring"
+    ],
+    "hints": {
+      "easy": [
+        "Night vision recording",
+        "Indoor monitoring",
+        "Video surveillance",
+        "Mounted on wall",
+        "Wireless network video",
+        "Dome shaped device"
+      ],
+      "medium": [
+        "Deterrent for intruders",
+        "Windshield angle view",
+        "Playback incident proof",
+        "IR LED array",
+        "Triggered by movement",
+        "Digital video recording"
+      ],
+      "hard": [
+        "Closed circuit system",
+        "Surveillance technology",
+        "Perimeter monitoring device",
+        "Network video storage",
+        "View field coverage",
+        "Remote access portal"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Webcam",
+        "Dashcam"
+      ],
+      "medium": [
+        "Alarm",
+        "Detector"
+      ],
+      "hard": [
+        "Transmitter",
+        "Archiver"
+      ]
+    }
+  },
+  {
+    "word": "Doorbell camera",
+    "category": "science_technology",
+    "subcategory": "Security",
+    "difficulty": "easy",
+    "description": "A compact video device installed at an entrance to identify visitors and capture footage of arrivals.",
+    "tags": [
+      "technology",
+      "security",
+      "entrance"
+    ],
+    "hints": {
+      "easy": [
+        "Front porch view",
+        "Visitors press button",
+        "Records home arrival",
+        "Talk through mobile",
+        "Sees package delivery",
+        "Entry alerts system"
+      ],
+      "medium": [
+        "Motion alert notification",
+        "Two way audio",
+        "Wide angle lens",
+        "Entry monitoring view",
+        "Wireless chime ringing",
+        "Battery powered device"
+      ],
+      "hard": [
+        "Smart home peripheral",
+        "Real time alert",
+        "Infrared night capture",
+        "Cloud storage playback",
+        "Visitor detection system",
+        "Entrance monitoring device"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Security camera",
+        "Intercom"
+      ],
+      "medium": [
+        "Webcam",
+        "Screen"
+      ],
+      "hard": [
+        "Transceiver",
+        "Archiver"
+      ]
+    }
+  },
+  {
+    "word": "Gaming laptop",
+    "category": "science_technology",
+    "subcategory": "Computing",
+    "difficulty": "medium",
+    "description": "A high-performance notebook computer designed with enhanced graphics and cooling for playing demanding video games.",
+    "tags": [
+      "technology",
+      "gaming",
+      "computing"
+    ],
+    "hints": {
+      "easy": [
+        "Portable entertainment system",
+        "RGB keyboard lights",
+        "Plays entertainment software",
+        "Performance cooling fans",
+        "Powerful internal chip",
+        "Large screen display"
+      ],
+      "medium": [
+        "High refresh rate",
+        "Dedicated graphics card",
+        "Internal cooling fans",
+        "Keyboard backlit keys",
+        "Expensive performance machine",
+        "Metal alloy chassis"
+      ],
+      "hard": [
+        "Thermal management system",
+        "Mobile discrete GPU",
+        "System performance tuning",
+        "High frame rates",
+        "Heavy duty cooling",
+        "Premium components"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Desktop",
+        "Console"
+      ],
+      "medium": [
+        "Ultrabook",
+        "Tablet"
+      ],
+      "hard": [
+        "Chromebook",
+        "Workstation"
+      ]
+    }
+  },
+  {
+    "word": "Stylus",
+    "category": "science_technology",
+    "subcategory": "Peripherals",
+    "difficulty": "medium",
+    "description": "A slender pointing instrument that interacts precisely with touchscreens and graphics tablets for input control.",
+    "tags": [
+      "technology",
+      "computing",
+      "art"
+    ],
+    "hints": {
+      "easy": [
+        "Screen drawing tool",
+        "Precise digital input",
+        "Non touch interaction",
+        "Electronic art tool",
+        "Plastic tipped wand",
+        "Fine tip input"
+      ],
+      "medium": [
+        "No ink used",
+        "Pressure sensitivity level",
+        "Digital graphic design",
+        "Tablet interface tool",
+        "Capacitive screen tool",
+        "Precision input helper"
+      ],
+      "hard": [
+        "Inductive touch input",
+        "Active digitizer tool",
+        "Graphic tablet interface",
+        "Fine point nib",
+        "Touch surface guide",
+        "Battery powered tool"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mouse",
+        "Controller"
+      ],
+      "medium": [
+        "Finger",
+        "Hand"
+      ],
+      "hard": [
+        "Touchpad",
+        "Trackpad"
+      ]
+    }
+  },
+  {
+    "word": "Graphics tablet",
+    "category": "science_technology",
+    "subcategory": "Peripherals",
+    "difficulty": "hard",
+    "description": "A specialized input device with a pressure-sensitive surface for creating digital artwork and designs directly.",
+    "tags": [
+      "technology",
+      "art",
+      "computing"
+    ],
+    "hints": {
+      "easy": [
+        "Digital art pad",
+        "Draw with tool",
+        "Computer creative tool",
+        "Flat design board",
+        "Professional art input",
+        "Digital illustration surface"
+      ],
+      "medium": [
+        "Surface pen input",
+        "Pressure sensitive drawing",
+        "Digital image creator",
+        "Connects to computer",
+        "Professional design device",
+        "Fine detail input"
+      ],
+      "hard": [
+        "Active digitizer board",
+        "Precision input device",
+        "Drawing input tool",
+        "Input flat surface",
+        "Electronic art station",
+        "Digital drawing surface"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sketchbook",
+        "Mouse"
+      ],
+      "medium": [
+        "Screen",
+        "Canvas"
+      ],
+      "hard": [
+        "Touchscreen",
+        "Display"
+      ]
+    }
+  },
+  {
+    "word": "Keycaps",
+    "category": "science_technology",
+    "subcategory": "Peripherals",
+    "difficulty": "hard",
+    "description": "Individual removable covers that fit over mechanical stem pieces on a computer keyboard, displaying each label.",
+    "tags": [
+      "technology",
+      "computing",
+      "keyboard"
+    ],
+    "hints": {
+      "easy": [
+        "Character display covers",
+        "Plastic button pieces",
+        "Top covering pieces",
+        "Typing character label",
+        "Changing appearance",
+        "Custom typing set"
+      ],
+      "medium": [
+        "Individual cover piece",
+        "Plastic piece sample",
+        "Personalized typing surface",
+        "Keyboard modification parts",
+        "Typing surface accessory",
+        "Profile set selection"
+      ],
+      "hard": [
+        "Mount pattern design",
+        "Double shot molding",
+        "Profile form factor",
+        "Material texture finish",
+        "Typing resonance tone",
+        "Replacement part set"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Typewriter",
+        "Keys"
+      ],
+      "medium": [
+        "Mouse",
+        "Pad"
+      ],
+      "hard": [
+        "Spring",
+        "Retainer"
+      ]
+    }
+  },
+  {
+    "word": "AR glasses",
+    "category": "science_technology",
+    "subcategory": "Wearables",
+    "difficulty": "medium",
+    "description": "Wearable electronic eyewear that overlays digital information into the user's visual field or captures surroundings.",
+    "tags": [
+      "technology",
+      "wearable",
+      "augmented"
+    ],
+    "hints": {
+      "easy": [
+        "Eyewear electronics",
+        "Wearable heads up",
+        "Augmented reality vision",
+        "Digital display eyewear",
+        "Records surroundings",
+        "Vision enhancement device"
+      ],
+      "medium": [
+        "Visual data projection",
+        "Frame tech component",
+        "Optics lens integration",
+        "Heads up display",
+        "Vision augmentation tool",
+        "Tech integrated frames"
+      ],
+      "hard": [
+        "AR lens display",
+        "Wearable optical device",
+        "Visual field overlay",
+        "Digital frame tech",
+        "Optical computing wearable",
+        "Sensor array built-in"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Smartwatch",
+        "Goggles"
+      ],
+      "medium": [
+        "Headset",
+        "Magnifier"
+      ],
+      "hard": [
+        "Monocle",
+        "Visor"
+      ]
+    }
+  },
+  {
+    "word": "Headset",
+    "category": "science_technology",
+    "subcategory": "Audio",
+    "difficulty": "easy",
+    "description": "A combined audio device that includes listening drivers and a microphone for communication and gaming.",
+    "tags": [
+      "technology",
+      "audio",
+      "communication"
+    ],
+    "hints": {
+      "easy": [
+        "Over ear audio unit",
+        "Talking while gaming",
+        "Communication audio gear",
+        "Integrated mic pair",
+        "Used for calls",
+        "Comfortable audio device"
+      ],
+      "medium": [
+        "Computer audio unit",
+        "Boom arm capture",
+        "Online meeting device",
+        "Noise cancelling pair",
+        "Stereo audio output",
+        "Wearing for chatting"
+      ],
+      "hard": [
+        "Communication peripheral",
+        "Gaming audio hardware",
+        "Sound input output",
+        "Voice input system",
+        "Studio call device",
+        "Audio interface tool"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Earbuds",
+        "Radio"
+      ],
+      "medium": [
+        "Speaker",
+        "Telephony"
+      ],
+      "hard": [
+        "Transmitter",
+        "Intercom"
+      ]
+    }
+  },
+  {
+    "word": "Power cable",
+    "category": "science_technology",
+    "subcategory": "Electronics",
+    "difficulty": "easy",
+    "description": "A flexible conduit that transfers electrical energy from a source to recharge the battery of a device.",
+    "tags": [
+      "technology",
+      "power",
+      "electronics"
+    ],
+    "hints": {
+      "easy": [
+        "Connects to wall outlet",
+        "Restores device battery",
+        "Connects to outlet",
+        "Device supply line",
+        "Rechargeable accessory",
+        "Energy conduit"
+      ],
+      "medium": [
+        "USB connector tip",
+        "Connects phone to charge",
+        "Energy transfer conduit",
+        "Battery restoration tool",
+        "Charging accessory",
+        "Energy link"
+      ],
+      "hard": [
+        "Energy transfer wire",
+        "Electrical delivery wire",
+        "Current flow connector",
+        "Device energy conduit",
+        "Energy recovery wire",
+        "Battery refresh wire"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bank",
+        "Socket"
+      ],
+      "medium": [
+        "Lead",
+        "Tube"
+      ],
+      "hard": [
+        "Inverter",
+        "Rectifier"
+      ]
+    }
+  },
+  {
+    "word": "Adapter",
+    "category": "science_technology",
+    "subcategory": "Electronics",
+    "difficulty": "easy",
+    "description": "A hardware component that allows two incompatible connectors to work together and enable device connection.",
+    "tags": [
+      "technology",
+      "electronics",
+      "hardware"
+    ],
+    "hints": {
+      "easy": [
+        "Connects different types",
+        "Makes connections work",
+        "Interface hardware tool",
+        "Inserts connector",
+        "Bridging components",
+        "Connection match device"
+      ],
+      "medium": [
+        "Hardware connection link",
+        "Device interface tool",
+        "Compatibility connector",
+        "Interface extension tool",
+        "Port matching device",
+        "Connector link"
+      ],
+      "hard": [
+        "Type matching device",
+        "Connection compatibility tool",
+        "Hardware link device",
+        "Interface matching component",
+        "Connector bridge device",
+        "Type matching tool"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Charger",
+        "Box"
+      ],
+      "medium": [
+        "Socket",
+        "Plug"
+      ],
+      "hard": [
+        "Inverter",
+        "Matcher"
+      ]
+    }
+  },
+  {
+    "word": "Calculator",
+    "category": "science_technology",
+    "subcategory": "Computing",
+    "difficulty": "easy",
+    "description": "An electronic device that performs mathematical calculations and displays results on a screen.",
+    "tags": [
+      "technology",
+      "math",
+      "computing"
+    ],
+    "hints": {
+      "easy": [
+        "Math problem solver",
+        "Number cruncher",
+        "Arithmetic helper",
+        "Battery powered tool",
+        "Digital display unit",
+        "Input button keys"
+      ],
+      "medium": [
+        "Solves equations fast",
+        "Handles complex operations",
+        "Portable computing device",
+        "Solar and battery power",
+        "LCD screen output",
+        "Memory function capability"
+      ],
+      "hard": [
+        "Scientific computation device",
+        "Programmable calculation tool",
+        "Mathematics aid instrument",
+        "Binary logic processor",
+        "Electronic arithmetic engine",
+        "Mathematical algorithm device"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Abacus",
+        "Ruler"
+      ],
+      "medium": [
+        "Phone",
+        "Printer"
+      ],
+      "hard": [
+        "Typewriter",
+        "Keyboard"
+      ]
+    }
+  },
+  {
+    "word": "Abacus",
+    "category": "science_technology",
+    "subcategory": "Computing",
+    "difficulty": "easy",
+    "description": "An ancient counting device with beads that slide on rods used for manual arithmetic calculations.",
+    "tags": [
+      "technology",
+      "math",
+      "ancient"
+    ],
+    "hints": {
+      "easy": [
+        "Bead counting device",
+        "Ancient calculation tool",
+        "Manual computation aid",
+        "Wooden frame instrument",
+        "Slide the wooden beads",
+        "Educational math helper"
+      ],
+      "medium": [
+        "Teaching number technique",
+        "Mechanical counting aid",
+        "Historical arithmetic tool",
+        "Frame with sliding parts",
+        "Old style math solver",
+        "Hand operated counting tool"
+      ],
+      "hard": [
+        "Historical calculation system",
+        "Traditional counting framework",
+        "Roman era computing device",
+        "Educational tool for numbers",
+        "Simple mechanical computer",
+        "Ancient numerical apparatus"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Calculator",
+        "Ruler"
+      ],
+      "medium": [
+        "Keyboard",
+        "Clock"
+      ],
+      "hard": [
+        "Mouse",
+        "Screen"
+      ]
+    }
+  },
+  {
+    "word": "Action camera",
+    "category": "science_technology",
+    "subcategory": "Video",
+    "difficulty": "medium",
+    "description": "A rugged digital device for capturing high-quality video during extreme sports and outdoor adventures.",
+    "tags": [
+      "technology",
+      "video",
+      "outdoor"
+    ],
+    "hints": {
+      "easy": [
+        "Waterproof case",
+        "Helmet mount",
+        "Sports recording",
+        "Outdoor adventure",
+        "Rugged housing",
+        "Digital video capture"
+      ],
+      "medium": [
+        "Wrist control panel",
+        "Wide angle lens",
+        "Extreme sports filming",
+        "Water resistant body",
+        "Live streaming option",
+        "Mountable accessories"
+      ],
+      "hard": [
+        "Electronic image stabilization",
+        "High definition video",
+        "Durability certification",
+        "Mounting system",
+        "Remote control device",
+        "Battery life duration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Dashcam",
+        "Webcam"
+      ],
+      "medium": [
+        "Security camera",
+        "Monitor"
+      ],
+      "hard": [
+        "Camcorder",
+        "DSLR"
+      ]
+    }
+  },
+  {
+    "word": "Air fryer",
+    "category": "science_technology",
+    "subcategory": "Kitchen",
+    "difficulty": "easy",
+    "description": "A kitchen appliance that cooks using fast-moving heated air instead of oil to create crispy textures.",
+    "tags": [
+      "technology",
+      "kitchen",
+      "appliance"
+    ],
+    "hints": {
+      "easy": [
+        "Rapid cooking method",
+        "Crispy food result",
+        "Countertop appliance",
+        "Cooks faster than roasting",
+        "Digital timer",
+        "Non stick basket"
+      ],
+      "medium": [
+        "Heat circulation method",
+        "Temperature control",
+        "Timer settings",
+        "Cooking presets",
+        "Crispy texture",
+        "Quicker than frying pan"
+      ],
+      "hard": [
+        "Heating element design",
+        "Digital temperature display",
+        "Timer function",
+        "Crisp cooking technology",
+        "Healthy cooking method",
+        "Non stick coated basket"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Deep fryer",
+        "Microwave"
+      ],
+      "medium": [
+        "Convection oven",
+        "Toaster oven"
+      ],
+      "hard": [
+        "Grill",
+        "Roaster"
+      ]
+    }
+  },
+  {
+    "word": "Alarm system",
+    "category": "science_technology",
+    "subcategory": "Security",
+    "difficulty": "easy",
+    "description": "A home protection setup that senses intrusions and sends alerts to guard property and watch entry points.",
+    "tags": [
+      "technology",
+      "security",
+      "home"
+    ],
+    "hints": {
+      "easy": [
+        "Loud siren",
+        "Movement detection",
+        "Door entry alert",
+        "Alert notification",
+        "Protective monitoring",
+        "Household safety"
+      ],
+      "medium": [
+        "Motion sensing device",
+        "Entry point monitor",
+        "Remote alerting",
+        "Smart home integration",
+        "Silent panic button",
+        "Perimeter boundary"
+      ],
+      "hard": [
+        "Infrared detection array",
+        "Control panel interface",
+        "Wireless transmission",
+        "Police notification link",
+        "Home safety hub",
+        "Guardian detection setup"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Doorbell camera",
+        "Intercom"
+      ],
+      "medium": [
+        "Timer switch",
+        "Light switch"
+      ],
+      "hard": [
+        "Fire alarm",
+        "Emergency beacon"
+      ]
+    }
+  }
+]

@@ -1,0 +1,2852 @@
+[
+  {
+    "word": "Twig",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Branch",
+        "Stick"
+      ],
+      "medium": [
+        "Log",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Log",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Branch",
+        "Stump"
+      ],
+      "medium": [
+        "Plank",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Stump",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Log",
+        "Trunk"
+      ],
+      "medium": [
+        "Root",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Vine",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ivy",
+        "Branch"
+      ],
+      "medium": [
+        "Rope",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Ivy",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Vine",
+        "Moss"
+      ],
+      "medium": [
+        "Fern",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Weed",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Grass",
+        "Flower"
+      ],
+      "medium": [
+        "Moss",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Dandelion",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Daisy",
+        "Buttercup"
+      ],
+      "medium": [
+        "Clover",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Clover",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Shamrock",
+        "Dandelion"
+      ],
+      "medium": [
+        "Moss",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Willow",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Oak",
+        "Birch"
+      ],
+      "medium": [
+        "Poplar",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Birch",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Oak",
+        "Maple"
+      ],
+      "medium": [
+        "Aspen",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Redwood",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sequoia",
+        "Pine"
+      ],
+      "medium": [
+        "Oak",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Baobab",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Redwood",
+        "Palm"
+      ],
+      "medium": [
+        "Acacia",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Coconut palm",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Date palm",
+        "Pine"
+      ],
+      "medium": [
+        "Bamboo",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Hedge",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Fence",
+        "Bush"
+      ],
+      "medium": [
+        "Wall",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Bush",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tree",
+        "Hedge"
+      ],
+      "medium": [
+        "Fern",
+        "Flower"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Lavender",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Rosemary",
+        "Lilac"
+      ],
+      "medium": [
+        "Sage",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Jasmine",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Lily",
+        "Lavender"
+      ],
+      "medium": [
+        "Gardenia",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Marigold",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sunflower",
+        "Daisy"
+      ],
+      "medium": [
+        "Carnation",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Hibiscus",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Rose",
+        "Orchid"
+      ],
+      "medium": [
+        "Lily",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Snowflake",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hailstone",
+        "Raindrop"
+      ],
+      "medium": [
+        "Frost",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Icicle",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Stalactite",
+        "Snowflake"
+      ],
+      "medium": [
+        "Frost",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Frost",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Snow",
+        "Dew"
+      ],
+      "medium": [
+        "Ice",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Dew",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Frost",
+        "Rain"
+      ],
+      "medium": [
+        "Mist",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Mist",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Fog",
+        "Steam"
+      ],
+      "medium": [
+        "Dew",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Storm",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Breeze",
+        "Drizzle"
+      ],
+      "medium": [
+        "Rainbow",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Blizzard",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hailstorm",
+        "Avalanche"
+      ],
+      "medium": [
+        "Hurricane",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Monsoon",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Drought",
+        "Hurricane"
+      ],
+      "medium": [
+        "Drizzle",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Heatwave",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Drought",
+        "Monsoon"
+      ],
+      "medium": [
+        "Blizzard",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Constellation",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Galaxy",
+        "Planet"
+      ],
+      "medium": [
+        "Comet",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Galaxy",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Nebula",
+        "Constellation"
+      ],
+      "medium": [
+        "Universe",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Nebula",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Galaxy",
+        "Comet"
+      ],
+      "medium": [
+        "Supernova",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Asteroid",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Comet",
+        "Meteor"
+      ],
+      "medium": [
+        "Moon",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Black hole",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Supernova",
+        "Galaxy"
+      ],
+      "medium": [
+        "Wormhole",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Supernova",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Nebula",
+        "Black hole"
+      ],
+      "medium": [
+        "Comet",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Atoll",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Island",
+        "Reef"
+      ],
+      "medium": [
+        "Peninsula",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Peninsula",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Island",
+        "Cape"
+      ],
+      "medium": [
+        "Isthmus",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Delta",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Estuary",
+        "Lagoon"
+      ],
+      "medium": [
+        "Valley",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Lagoon",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Lake",
+        "Bay"
+      ],
+      "medium": [
+        "Pond",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Bay",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Lagoon",
+        "Gulf"
+      ],
+      "medium": [
+        "Cove",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Gorge",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Canyon",
+        "Valley"
+      ],
+      "medium": [
+        "Cave",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Plateau",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mesa",
+        "Valley"
+      ],
+      "medium": [
+        "Hill",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Marsh",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Swamp",
+        "Bog"
+      ],
+      "medium": [
+        "Meadow",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Bog",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Marsh",
+        "Swamp"
+      ],
+      "medium": [
+        "Fen",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Dune",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hill",
+        "Beach"
+      ],
+      "medium": [
+        "Ridge",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Crater",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Volcano",
+        "Pit"
+      ],
+      "medium": [
+        "Canyon",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Fossil",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Skeleton",
+        "Amber"
+      ],
+      "medium": [
+        "Shell",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Amber",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Fossil",
+        "Crystal"
+      ],
+      "medium": [
+        "Pearl",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Crystal",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Diamond",
+        "Glass"
+      ],
+      "medium": [
+        "Ice",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Diamond",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ruby",
+        "Crystal"
+      ],
+      "medium": [
+        "Emerald",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Pearl",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Diamond",
+        "Shell"
+      ],
+      "medium": [
+        "Bead",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Gold",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Silver",
+        "Bronze"
+      ],
+      "medium": [
+        "Copper",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Spider web",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cocoon",
+        "Net"
+      ],
+      "medium": [
+        "Nest",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Nest",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Burrow",
+        "Hive"
+      ],
+      "medium": [
+        "Den",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Beehive",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Nest",
+        "Anthill"
+      ],
+      "medium": [
+        "Wasp nest",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Anthill",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Beehive",
+        "Molehill"
+      ],
+      "medium": [
+        "Termite mound",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Burrow",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Nest",
+        "Den"
+      ],
+      "medium": [
+        "Cave",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  },
+  {
+    "word": "Den",
+    "category": "nature_environment",
+    "subcategory": "Nature",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "nature"
+    ],
+    "hints": {
+      "easy": [
+        "Natural phenomenon",
+        "Ecological factor",
+        "Wilderness feature",
+        "Geographic formation",
+        "Weather pattern",
+        "Notable example"
+      ],
+      "medium": [
+        "Biotic interaction",
+        "Abiotic factor",
+        "Seasonal cycle",
+        "Succession stage",
+        "Niche partition",
+        "Energy flow"
+      ],
+      "hard": [
+        "Evolutionary adaptation",
+        "Population dynamics",
+        "Ecosystem services",
+        "Biogeochemical cycle",
+        "Climate feedback",
+        "Biodiversity index"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Burrow",
+        "Nest"
+      ],
+      "medium": [
+        "Cave",
+        "Tree"
+      ],
+      "hard": [
+        "Mineral",
+        "Element"
+      ]
+    }
+  }
+]

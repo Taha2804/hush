@@ -1,0 +1,3352 @@
+[
+  {
+    "word": "Lego",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Cultural preservation",
+        "Technical aspect",
+        "Operational note"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Model building",
+        "Puzzles"
+      ],
+      "medium": [
+        "Blocks",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Carving",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sculpting",
+        "Woodworking"
+      ],
+      "medium": [
+        "Pottery",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Metal detecting",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Geocaching",
+        "Fishing"
+      ],
+      "medium": [
+        "Coin collecting",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Genealogy",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "History",
+        "Journaling"
+      ],
+      "medium": [
+        "Scrapbooking",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Volunteering",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Fundraising",
+        "Mentoring"
+      ],
+      "medium": [
+        "Gardening",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Languages",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Reading",
+        "Writing"
+      ],
+      "medium": [
+        "Traveling",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Traveling",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Camping",
+        "Hiking"
+      ],
+      "medium": [
+        "Photography",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Antiquing",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Collecting",
+        "Thrifting"
+      ],
+      "medium": [
+        "Auctions",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Thrifting",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Antiquing",
+        "Shopping"
+      ],
+      "medium": [
+        "Collecting",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Cosplay",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Acting",
+        "Sewing"
+      ],
+      "medium": [
+        "Makeup",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Acting",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cosplay",
+        "Singing"
+      ],
+      "medium": [
+        "Dancing",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Comedy club",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Acting",
+        "Magic tricks"
+      ],
+      "medium": [
+        "Improv",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Improv",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Comedy club",
+        "Acting"
+      ],
+      "medium": [
+        "Charades",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Bird photography",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Birdwatching",
+        "Hiking"
+      ],
+      "medium": [
+        "Painting",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Fly tying",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Cultural preservation",
+        "Technical aspect",
+        "Operational note"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Knitting",
+        "Model building"
+      ],
+      "medium": [
+        "Jewelry making",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Beekeeping",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Gardening",
+        "Bird feeding"
+      ],
+      "medium": [
+        "Farming",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Homebrewing",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Baking",
+        "Cooking"
+      ],
+      "medium": [
+        "Pickling",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Pickling",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Canning",
+        "Baking"
+      ],
+      "medium": [
+        "Fermenting",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Fermenting",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Pickling",
+        "Brewing"
+      ],
+      "medium": [
+        "Baking",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Grilling",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Baking",
+        "Smoking"
+      ],
+      "medium": [
+        "Cooking",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Food blogging",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cooking",
+        "Vlogging"
+      ],
+      "medium": [
+        "Photography",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Cheese tasting",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cooking",
+        "Coffee brewing"
+      ],
+      "medium": [
+        "Chocolate making",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Coffee brewing",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tea ceremony",
+        "Baking"
+      ],
+      "medium": [
+        "Homebrewing",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Tea ceremony",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Coffee brewing",
+        "Meditation"
+      ],
+      "medium": [
+        "Calligraphy",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Flower arranging",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Gardening",
+        "Painting"
+      ],
+      "medium": [
+        "Decorating",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Decorating",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Gardening",
+        "Painting"
+      ],
+      "medium": [
+        "Thrifting",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Home improvement",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Woodworking",
+        "Decorating"
+      ],
+      "medium": [
+        "Gardening",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Car restoration",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Cultural preservation",
+        "Technical aspect",
+        "Operational note"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Woodworking",
+        "Model building"
+      ],
+      "medium": [
+        "Racing",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Motorbiking",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cycling",
+        "Car restoration"
+      ],
+      "medium": [
+        "Racing",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Drone flying",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Cultural preservation",
+        "Technical aspect",
+        "Operational note"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kite flying",
+        "Model building"
+      ],
+      "medium": [
+        "Photography",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Robotics",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Cultural preservation",
+        "Technical aspect",
+        "Operational note"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Coding",
+        "Model building"
+      ],
+      "medium": [
+        "Electronics",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Electronics",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Cultural preservation",
+        "Technical aspect",
+        "Operational note"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Robotics",
+        "Coding"
+      ],
+      "medium": [
+        "Model building",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Ham radio",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Podcasting",
+        "Electronics"
+      ],
+      "medium": [
+        "Astronomy",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Speedcubing",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sudoku",
+        "Jigsaw"
+      ],
+      "medium": [
+        "Puzzles",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Yo yo",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Juggling",
+        "Kite flying"
+      ],
+      "medium": [
+        "Speedcubing",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Fantasy football",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Gaming",
+        "Betting"
+      ],
+      "medium": [
+        "Board games",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Trivia nights",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Board games",
+        "Crossword"
+      ],
+      "medium": [
+        "Karaoke",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Escape rooms",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Puzzles",
+        "Board games"
+      ],
+      "medium": [
+        "Treasure hunt",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Paintball",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Laser tag",
+        "Archery"
+      ],
+      "medium": [
+        "Airsoft",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Laser tag",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Paintball",
+        "Arcade"
+      ],
+      "medium": [
+        "Dodgeball",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Bird calling",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Birdwatching",
+        "Singing"
+      ],
+      "medium": [
+        "Whistling",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Whittling",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Carving",
+        "Woodworking"
+      ],
+      "medium": [
+        "Sculpting",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Bookbinding",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Calligraphy",
+        "Scrapbooking"
+      ],
+      "medium": [
+        "Origami",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Puppetry",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Acting",
+        "Ventriloquism"
+      ],
+      "medium": [
+        "Magic tricks",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Ventriloquism",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Puppetry",
+        "Acting"
+      ],
+      "medium": [
+        "Magic tricks",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Pilates",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Yoga",
+        "Aerobics"
+      ],
+      "medium": [
+        "Stretching",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Tai chi",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Yoga",
+        "Kung fu"
+      ],
+      "medium": [
+        "Meditation",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Martial arts",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Artisanal practice",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Boxing",
+        "Yoga"
+      ],
+      "medium": [
+        "Wrestling",
+        "Craft"
+      ],
+      "hard": [
+        "Sport",
+        "Iota"
+      ]
+    }
+  },
+  {
+    "word": "People watching",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Birdwatching",
+        "Daydreaming"
+      ],
+      "medium": [
+        "Reading",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Daydreaming",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Meditation",
+        "Napping"
+      ],
+      "medium": [
+        "People watching",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Napping",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Daydreaming",
+        "Meditation"
+      ],
+      "medium": [
+        "Reading",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Chocolate making",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Baking",
+        "Candle making"
+      ],
+      "medium": [
+        "Cheese tasting",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Sketching",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Painting",
+        "Calligraphy"
+      ],
+      "medium": [
+        "Origami",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Watercolor",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Oil painting",
+        "Sketching"
+      ],
+      "medium": [
+        "Pastels",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Oil painting",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Watercolor",
+        "Acrylics"
+      ],
+      "medium": [
+        "Sketching",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Comic drawing",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sketching",
+        "Animation"
+      ],
+      "medium": [
+        "Calligraphy",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Filmmaking",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Photography",
+        "Vlogging"
+      ],
+      "medium": [
+        "Animation",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Rollerblading",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Skateboarding",
+        "Ice skating"
+      ],
+      "medium": [
+        "Cycling",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Parkour",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Climbing",
+        "Gymnastics"
+      ],
+      "medium": [
+        "Skateboarding",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Frisbee",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kite flying",
+        "Boomerang"
+      ],
+      "medium": [
+        "Volleyball",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Bird table",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Birdwatching",
+        "Gardening"
+      ],
+      "medium": [
+        "Beekeeping",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Composting",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Gardening",
+        "Beekeeping"
+      ],
+      "medium": [
+        "Recycling",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Trail photos",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Birdwatching",
+        "Painting"
+      ],
+      "medium": [
+        "Camping",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Kite surfing",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Windsurfing",
+        "Sailing"
+      ],
+      "medium": [
+        "Paragliding",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Patch making",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Knitting",
+        "Jewelry making"
+      ],
+      "medium": [
+        "Sewing",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Dollhouses",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Cultural preservation",
+        "Technical aspect",
+        "Operational note"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Diorama building",
+        "Lego"
+      ],
+      "medium": [
+        "Model trains",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  },
+  {
+    "word": "Calisthenics",
+    "category": "hobbies_leisure",
+    "subcategory": "Hobbies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "hobbies"
+    ],
+    "hints": {
+      "easy": [
+        "Leisure activity",
+        "Pastime pursuit",
+        "Free time project",
+        "Creative endeavor",
+        "Recreational interest",
+        "Personal goal"
+      ],
+      "medium": [
+        "Skill development",
+        "Collection hobby",
+        "Outdoor recreation",
+        "Indoor activity",
+        "Social pastime",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Expertise accumulation",
+        "Technical mastery",
+        "Competition circuit",
+        "Community building",
+        "Cultural preservation",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Gymnastics",
+        "Yoga"
+      ],
+      "medium": [
+        "Pilates",
+        "Craft"
+      ],
+      "hard": [
+        "Art",
+        "Sport"
+      ]
+    }
+  }
+]

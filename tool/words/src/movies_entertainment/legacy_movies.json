@@ -1,0 +1,2952 @@
+[
+  {
+    "word": "Sword fight",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Shootout",
+        "Fist fight"
+      ],
+      "medium": [
+        "Archery",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Kung fu",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance",
+        "Notable example"
+      ],
+      "medium": [
+        "Genre classification",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Samurai film",
+        "Boxing film"
+      ],
+      "medium": [
+        "Western",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Spy movie",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Cultural impact",
+        "Technological innovation",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Heist",
+        "Thriller"
+      ],
+      "medium": [
+        "War",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Monster movie",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Disaster",
+        "Horror"
+      ],
+      "medium": [
+        "Alien invasion",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Pirate movie",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Western",
+        "Adventure"
+      ],
+      "medium": [
+        "Fantasy",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Dinosaur movie",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Monster movie",
+        "Disaster"
+      ],
+      "medium": [
+        "Jungle",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Space opera",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Science fiction",
+        "Fantasy"
+      ],
+      "medium": [
+        "Western",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Fairy tale",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Fable",
+        "Myth"
+      ],
+      "medium": [
+        "Legend",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Teen movie",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Growing up",
+        "Rom com"
+      ],
+      "medium": [
+        "Sitcom",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Sports movie",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Biopic",
+        "Drama"
+      ],
+      "medium": [
+        "Documentary",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Courtroom drama",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Crime",
+        "Mystery"
+      ],
+      "medium": [
+        "Thriller",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Bollywood",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hollywood",
+        "Tollywood"
+      ],
+      "medium": [
+        "Nollywood",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Hollywood",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bollywood",
+        "Broadway"
+      ],
+      "medium": [
+        "Nollywood",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Anime",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cartoon",
+        "Manga"
+      ],
+      "medium": [
+        "Animation",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Cartoon",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Anime",
+        "Comic"
+      ],
+      "medium": [
+        "Puppet show",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Sitcom",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Drama",
+        "Reality show"
+      ],
+      "medium": [
+        "Soap opera",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Soap opera",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sitcom",
+        "Telenovela"
+      ],
+      "medium": [
+        "Drama",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Reality show",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Game show",
+        "Sitcom"
+      ],
+      "medium": [
+        "Documentary",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Game show",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Reality show",
+        "Talk show"
+      ],
+      "medium": [
+        "Quiz",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Talk show",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Game show",
+        "News"
+      ],
+      "medium": [
+        "Podcast",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Binge watch",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Rewatch",
+        "Channel surf"
+      ],
+      "medium": [
+        "Skim",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Video streaming",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance",
+        "Notable example"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cable",
+        "Cinema"
+      ],
+      "medium": [
+        "Rental",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Movie night",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Game night",
+        "Party"
+      ],
+      "medium": [
+        "Concert",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Movie poster",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Trailer",
+        "Billboard"
+      ],
+      "medium": [
+        "Flyer",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Ticket stub",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Popcorn bucket",
+        "Poster"
+      ],
+      "medium": [
+        "Receipt",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Movie glasses",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sunglasses",
+        "Goggles"
+      ],
+      "medium": [
+        "Monocle",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Extended cut",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Remake",
+        "Sequel"
+      ],
+      "medium": [
+        "Trailer",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Blooper",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Spoiler",
+        "Cameo"
+      ],
+      "medium": [
+        "Trailer",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Movie star",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Actor performance",
+        "Notable example"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Director",
+        "Extra"
+      ],
+      "medium": [
+        "Producer",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Horror villain",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Monster",
+        "Ghost"
+      ],
+      "medium": [
+        "Zombie",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Jump scare",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Plot twist",
+        "Cliffhanger"
+      ],
+      "medium": [
+        "Spoiler",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Haunted doll",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Puppet",
+        "Ghost"
+      ],
+      "medium": [
+        "Mannequin",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Found footage",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mockumentary",
+        "Documentary"
+      ],
+      "medium": [
+        "Thriller",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Slasher",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Thriller",
+        "Zombie"
+      ],
+      "medium": [
+        "Haunted house",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Tragedy",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Comedy",
+        "Drama"
+      ],
+      "medium": [
+        "Romance",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Satire",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Parody",
+        "Comedy"
+      ],
+      "medium": [
+        "Farce",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Slapstick",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Satire",
+        "Parody"
+      ],
+      "medium": [
+        "Mime",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Underdog",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Champion",
+        "Villain"
+      ],
+      "medium": [
+        "Rookie",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Buddy cop",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Heist",
+        "Spy movie"
+      ],
+      "medium": [
+        "Western",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Femme fatale",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Villain",
+        "Heroine"
+      ],
+      "medium": [
+        "Spy",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Mad scientist",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Villain",
+        "Inventor"
+      ],
+      "medium": [
+        "Wizard",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Evil twin",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Doppelganger",
+        "Clone"
+      ],
+      "medium": [
+        "Villain",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Last stand",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Final battle",
+        "Siege"
+      ],
+      "medium": [
+        "Retreat",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Damsel",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hero",
+        "Villain"
+      ],
+      "medium": [
+        "Princess",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Princess",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Queen",
+        "Duchess"
+      ],
+      "medium": [
+        "Damsel",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Treasure map",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Compass",
+        "Chest"
+      ],
+      "medium": [
+        "Scroll",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Secret agent",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Detective",
+        "Hacker"
+      ],
+      "medium": [
+        "Soldier",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Time loop",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Time travel",
+        "Dream"
+      ],
+      "medium": [
+        "Flashback",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Multiverse",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Time travel",
+        "Dream"
+      ],
+      "medium": [
+        "Simulation",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Dream sequence",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Flashback",
+        "Montage"
+      ],
+      "medium": [
+        "Hallucination",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Cyborg",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Robot",
+        "Android"
+      ],
+      "medium": [
+        "Alien",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Post apocalyptic",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Dystopia",
+        "Zombie outbreak"
+      ],
+      "medium": [
+        "Western",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Dystopia",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Utopia",
+        "Post apocalyptic"
+      ],
+      "medium": [
+        "Kingdom",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Ensemble cast",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Solo lead",
+        "Cameo"
+      ],
+      "medium": [
+        "Duo",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Antihero",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Villain",
+        "Rogue"
+      ],
+      "medium": [
+        "Sidekick",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Henchman",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sidekick",
+        "Mentor"
+      ],
+      "medium": [
+        "Bodyguard",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Bodyguard",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Henchman",
+        "Sidekick"
+      ],
+      "medium": [
+        "Chauffeur",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Chase scene",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Car chase",
+        "Shootout"
+      ],
+      "medium": [
+        "Montage",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  },
+  {
+    "word": "Opening scene",
+    "category": "movies_entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "movies"
+    ],
+    "hints": {
+      "easy": [
+        "Film production",
+        "Cinema artwork",
+        "Motion picture",
+        "Screen entertainment",
+        "Director vision",
+        "Actor performance"
+      ],
+      "medium": [
+        "Genre classification",
+        "Box office success",
+        "Critical reception",
+        "Award recognition",
+        "Cultural impact",
+        "Technological innovation"
+      ],
+      "hard": [
+        "Film theory",
+        "Narrative structure",
+        "Visual storytelling",
+        "Editing rhythm",
+        "Sound design",
+        "Color grading"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Finale",
+        "Credits"
+      ],
+      "medium": [
+        "Trailer",
+        "Feature"
+      ],
+      "hard": [
+        "Blockbuster",
+        "Classic"
+      ]
+    }
+  }
+]

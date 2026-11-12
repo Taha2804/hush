@@ -1,0 +1,3902 @@
+[
+  {
+    "word": "Tow truck",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ambulance",
+        "Lorry"
+      ],
+      "medium": [
+        "Bulldozer",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Garbage truck",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Recycling van",
+        "Dump truck"
+      ],
+      "medium": [
+        "Street sweeper",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Dump truck",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bulldozer",
+        "Lorry"
+      ],
+      "medium": [
+        "Tractor",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Cement mixer",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Dump truck",
+        "Bulldozer"
+      ],
+      "medium": [
+        "Tanker",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Steamroller",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bulldozer",
+        "Tractor"
+      ],
+      "medium": [
+        "Grader",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Snowplow",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bulldozer",
+        "Tractor"
+      ],
+      "medium": [
+        "Snowmobile",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Snowmobile",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sled",
+        "Jet ski"
+      ],
+      "medium": [
+        "Quad bike",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Sled",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Toboggan",
+        "Sleigh"
+      ],
+      "medium": [
+        "Snowmobile",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Sleigh",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sled",
+        "Carriage"
+      ],
+      "medium": [
+        "Wagon",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Carriage",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Wagon",
+        "Cart"
+      ],
+      "medium": [
+        "Sleigh",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Wagon",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cart",
+        "Carriage"
+      ],
+      "medium": [
+        "Trailer",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Cart",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Wagon",
+        "Wheelbarrow"
+      ],
+      "medium": [
+        "Trolley",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Bullock cart",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Horse cart",
+        "Wagon"
+      ],
+      "medium": [
+        "Tractor",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Camel caravan",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Wagon train",
+        "Horse cart"
+      ],
+      "medium": [
+        "Jeep",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Elephant ride",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Camel ride",
+        "Horseback"
+      ],
+      "medium": [
+        "Rickshaw",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Escalator",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Elevator",
+        "Stairs"
+      ],
+      "medium": [
+        "Conveyor",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Elevator",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Escalator",
+        "Stairs"
+      ],
+      "medium": [
+        "Crane",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Funicular",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cable car",
+        "Tram"
+      ],
+      "medium": [
+        "Monorail",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Chairlift",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cable car",
+        "Gondola"
+      ],
+      "medium": [
+        "Elevator",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Bullet train",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Monorail",
+        "Subway"
+      ],
+      "medium": [
+        "Tram",
+        "Truck"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Steam train",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Diesel train",
+        "Tram"
+      ],
+      "medium": [
+        "Bullet train",
+        "Truck"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Double decker",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bus",
+        "Tram"
+      ],
+      "medium": [
+        "Coach",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Minibus",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Van",
+        "Bus"
+      ],
+      "medium": [
+        "Coach",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Shuttle",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Taxi",
+        "Coach"
+      ],
+      "medium": [
+        "Tram",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Jet ski",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Speedboat",
+        "Kayak"
+      ],
+      "medium": [
+        "Surfboard",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Hovercraft",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ferry",
+        "Boat"
+      ],
+      "medium": [
+        "Jet ski",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Barge",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ferry",
+        "Raft"
+      ],
+      "medium": [
+        "Tanker",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Tugboat",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Barge",
+        "Ferry"
+      ],
+      "medium": [
+        "Speedboat",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Houseboat",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Yacht",
+        "Barge"
+      ],
+      "medium": [
+        "Cruise ship",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Rowboat",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Canoe",
+        "Kayak"
+      ],
+      "medium": [
+        "Raft",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Paddleboard",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Surfboard",
+        "Kayak"
+      ],
+      "medium": [
+        "Canoe",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Surfboard",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Skateboard",
+        "Paddleboard"
+      ],
+      "medium": [
+        "Bodyboard",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Pirate ship",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Galleon",
+        "Yacht"
+      ],
+      "medium": [
+        "Raft",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Iota"
+      ]
+    }
+  },
+  {
+    "word": "Galleon",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Pirate ship",
+        "Frigate"
+      ],
+      "medium": [
+        "Yacht",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Battleship",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Freight hauler",
+        "Road transport",
+        "Notable example"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Aircraft carrier",
+        "Submarine"
+      ],
+      "medium": [
+        "Destroyer",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Iota"
+      ]
+    }
+  },
+  {
+    "word": "Fighter jet",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bomber",
+        "Helicopter"
+      ],
+      "medium": [
+        "Drone",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Seaplane",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Airplane",
+        "Glider"
+      ],
+      "medium": [
+        "Helicopter",
+        "Train"
+      ],
+      "hard": [
+        "Ship",
+        "Iota"
+      ]
+    }
+  },
+  {
+    "word": "Biplane",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Glider",
+        "Jet"
+      ],
+      "medium": [
+        "Seaplane",
+        "Train"
+      ],
+      "hard": [
+        "Ship",
+        "Iota"
+      ]
+    }
+  },
+  {
+    "word": "Paraglider",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kite",
+        "Hang glider"
+      ],
+      "medium": [
+        "Parachute",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Parachute",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Paraglider",
+        "Glider"
+      ],
+      "medium": [
+        "Balloon",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Space shuttle",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Rocket",
+        "Space station"
+      ],
+      "medium": [
+        "Capsule",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Lunar rover",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mars rover",
+        "Jeep"
+      ],
+      "medium": [
+        "Space shuttle",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Go kart",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bumper car",
+        "Race car"
+      ],
+      "medium": [
+        "Quad bike",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Bumper car",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Go kart",
+        "Dodgem"
+      ],
+      "medium": [
+        "Carousel",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Race car",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Go kart",
+        "Sports car"
+      ],
+      "medium": [
+        "Rally car",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Sports car",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Race car",
+        "Convertible"
+      ],
+      "medium": [
+        "Sedan",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Quad bike",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Dirt bike",
+        "Go kart"
+      ],
+      "medium": [
+        "Jeep",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Dirt bike",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Motorcycle",
+        "Quad bike"
+      ],
+      "medium": [
+        "Bicycle",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Tuk tuk",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Rickshaw",
+        "Taxi"
+      ],
+      "medium": [
+        "Scooter",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Pedicab",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Rickshaw",
+        "Tricycle"
+      ],
+      "medium": [
+        "Taxi",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Stretcher",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Wheelchair",
+        "Bed"
+      ],
+      "medium": [
+        "Cot",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Stroller",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Pram",
+        "Wheelchair"
+      ],
+      "medium": [
+        "Wagon",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Pram",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Stroller",
+        "Cot"
+      ],
+      "medium": [
+        "Wagon",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Shopping cart",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Basket",
+        "Wheelbarrow"
+      ],
+      "medium": [
+        "Wagon",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Conveyor belt",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Escalator",
+        "Travelator"
+      ],
+      "medium": [
+        "Elevator",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Zipline",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cable car",
+        "Chairlift"
+      ],
+      "medium": [
+        "Swing",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Ox cart",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Wagon",
+        "Horse cart"
+      ],
+      "medium": [
+        "Tractor",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Dog sled",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Snowmobile",
+        "Sleigh"
+      ],
+      "medium": [
+        "Toboggan",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Toboggan",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sled",
+        "Luge"
+      ],
+      "medium": [
+        "Snowboard",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Zeppelin",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Blimp",
+        "Balloon flight"
+      ],
+      "medium": [
+        "Glider",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Ocean liner",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cruise ship",
+        "Ferry"
+      ],
+      "medium": [
+        "Yacht",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Container ship",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tanker",
+        "Barge"
+      ],
+      "medium": [
+        "Ferry",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Iota"
+      ]
+    }
+  },
+  {
+    "word": "Fishing boat",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ferry",
+        "Yacht"
+      ],
+      "medium": [
+        "Tugboat",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Lifeboat",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Raft",
+        "Dinghy"
+      ],
+      "medium": [
+        "Tugboat",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Dinghy",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Raft",
+        "Canoe"
+      ],
+      "medium": [
+        "Rowboat",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Catamaran",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Yacht",
+        "Ferry"
+      ],
+      "medium": [
+        "Trimaran",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Airship",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Blimp",
+        "Zeppelin"
+      ],
+      "medium": [
+        "Balloon",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Iota"
+      ]
+    }
+  },
+  {
+    "word": "Mail truck",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Food truck",
+        "Garbage truck"
+      ],
+      "medium": [
+        "Minivan",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Treat van",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Food truck",
+        "Mail truck"
+      ],
+      "medium": [
+        "Minivan",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Rickshaw puller",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Pedicab",
+        "Tuk tuk"
+      ],
+      "medium": [
+        "Taxi",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Horse carriage",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sleigh",
+        "Wagon"
+      ],
+      "medium": [
+        "Limousine",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Penny farthing",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Unicycle",
+        "Tandem"
+      ],
+      "medium": [
+        "Tricycle",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Airport shuttle",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Taxi",
+        "Coach"
+      ],
+      "medium": [
+        "Minibus",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Hatchback",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sedan",
+        "Coupe"
+      ],
+      "medium": [
+        "Minivan",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Coupe",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sedan",
+        "Convertible"
+      ],
+      "medium": [
+        "Hatchback",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Ambulance boat",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Lifeboat",
+        "Ferry"
+      ],
+      "medium": [
+        "Speedboat",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Light rail",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Subway",
+        "Monorail"
+      ],
+      "medium": [
+        "Bus",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  },
+  {
+    "word": "Motorboat",
+    "category": "vehicles_transport",
+    "subcategory": "Transport",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "transport"
+    ],
+    "hints": {
+      "easy": [
+        "Vehicle type",
+        "Travel machine",
+        "Moving conveyance",
+        "Passenger carrier",
+        "Freight hauler",
+        "Road transport"
+      ],
+      "medium": [
+        "Fuel consumption",
+        "Speed capability",
+        "Capacity rating",
+        "Navigation system",
+        "Safety features",
+        "Maintenance schedule"
+      ],
+      "hard": [
+        "Propulsion engineering",
+        "Aerodynamic design",
+        "Structural integrity",
+        "Environmental impact",
+        "Infrastructure requirements",
+        "Traffic management"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sailboat",
+        "Canoe"
+      ],
+      "medium": [
+        "Jet ski",
+        "Train"
+      ],
+      "hard": [
+        "Plane",
+        "Ship"
+      ]
+    }
+  }
+]

@@ -1,0 +1,4179 @@
+[
+  {
+    "word": "India",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "easy",
+    "description": "A vast South Asian country famous for its many languages, religions and spicy cuisine.",
+    "tags": [
+      "country",
+      "asia",
+      "south-asia"
+    ],
+    "hints": {
+      "easy": [
+        "Taj Mahal",
+        "Bollywood",
+        "Curry",
+        "Saris",
+        "New Delhi",
+        "Cricket"
+      ],
+      "medium": [
+        "Ganges",
+        "Mumbai",
+        "Gandhi",
+        "Yoga",
+        "Diwali",
+        "Monsoon"
+      ],
+      "hard": [
+        "Rupee",
+        "Hindi",
+        "Kerala",
+        "Masala chai",
+        "Bengal tiger",
+        "Sacred cows"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Brazil",
+        "Mexico"
+      ],
+      "medium": [
+        "Sri Lanka",
+        "Nepal"
+      ],
+      "hard": [
+        "Pakistan",
+        "Bangladesh"
+      ]
+    }
+  },
+  {
+    "word": "China",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "easy",
+    "description": "A huge East Asian country with thousands of years of imperial history.",
+    "tags": [
+      "country",
+      "asia",
+      "east-asia"
+    ],
+    "hints": {
+      "easy": [
+        "Great Wall",
+        "Giant panda",
+        "Beijing",
+        "Chopsticks",
+        "Lunar New Year",
+        "Shanghai"
+      ],
+      "medium": [
+        "Yangtze River",
+        "Dynasties",
+        "Kung fu",
+        "Terracotta Army",
+        "Dim sum",
+        "Red lanterns"
+      ],
+      "hard": [
+        "Mandarin",
+        "Yuan",
+        "Forbidden City",
+        "Confucius",
+        "Silk weaving",
+        "Porcelain"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "India",
+        "Russia"
+      ],
+      "medium": [
+        "Japan",
+        "Vietnam"
+      ],
+      "hard": [
+        "Taiwan",
+        "Mongolia"
+      ]
+    }
+  },
+  {
+    "word": "Japan",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "easy",
+    "description": "An East Asian island nation that blends ancient traditions with modern technology.",
+    "tags": [
+      "country",
+      "asia",
+      "east-asia",
+      "island"
+    ],
+    "hints": {
+      "easy": [
+        "Tokyo",
+        "Sushi",
+        "Bullet train",
+        "Cherry blossoms",
+        "Samurai",
+        "Anime"
+      ],
+      "medium": [
+        "Mount Fuji",
+        "Kimono",
+        "Origami",
+        "Kyoto",
+        "Sumo wrestling",
+        "Ramen"
+      ],
+      "hard": [
+        "Shinto shrines",
+        "Yen",
+        "Haiku",
+        "Tea ceremony",
+        "Kabuki theatre",
+        "Rising sun"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Australia",
+        "Italy"
+      ],
+      "medium": [
+        "Thailand",
+        "Vietnam"
+      ],
+      "hard": [
+        "South Korea",
+        "Taiwan"
+      ]
+    }
+  },
+  {
+    "word": "France",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "easy",
+    "description": "A Western European country celebrated for its cuisine, art and fashion.",
+    "tags": [
+      "country",
+      "europe",
+      "western-europe"
+    ],
+    "hints": {
+      "easy": [
+        "Eiffel Tower",
+        "Paris",
+        "Croissant",
+        "Baguette",
+        "Beret",
+        "Louvre"
+      ],
+      "medium": [
+        "Mona Lisa",
+        "Versailles",
+        "Napoleon",
+        "Cheese platter",
+        "Provence",
+        "Mime artist"
+      ],
+      "hard": [
+        "Marseille",
+        "Normandy beaches",
+        "Escargot",
+        "Joan of Arc",
+        "Loire castles",
+        "Bastille Day"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Japan",
+        "Mexico"
+      ],
+      "medium": [
+        "Germany",
+        "Netherlands"
+      ],
+      "hard": [
+        "Belgium",
+        "Italy"
+      ]
+    }
+  },
+  {
+    "word": "Italy",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "easy",
+    "description": "A Southern European country shaped like a boot and loved for its food.",
+    "tags": [
+      "country",
+      "europe",
+      "southern-europe"
+    ],
+    "hints": {
+      "easy": [
+        "Pizza",
+        "Pasta",
+        "Rome",
+        "Colosseum",
+        "Leaning tower",
+        "Gelato"
+      ],
+      "medium": [
+        "Gondolas",
+        "Florence",
+        "Sicily",
+        "Espresso",
+        "Opera",
+        "Da Vinci"
+      ],
+      "hard": [
+        "Pompeii",
+        "Tuscany",
+        "Risotto",
+        "Michelangelo",
+        "Lira",
+        "Mount Etna"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mexico",
+        "Egypt"
+      ],
+      "medium": [
+        "Portugal",
+        "Croatia"
+      ],
+      "hard": [
+        "Greece",
+        "Spain"
+      ]
+    }
+  },
+  {
+    "word": "Spain",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "easy",
+    "description": "A sunny country on the Iberian Peninsula known for lively festivals and late dinners.",
+    "tags": [
+      "country",
+      "europe",
+      "southern-europe"
+    ],
+    "hints": {
+      "easy": [
+        "Flamenco",
+        "Paella",
+        "Madrid",
+        "Bullfighting",
+        "Barcelona",
+        "Siesta"
+      ],
+      "medium": [
+        "Tapas",
+        "Sagrada Familia",
+        "Picasso",
+        "Canary Islands",
+        "Castanets",
+        "Seville"
+      ],
+      "hard": [
+        "Don Quixote",
+        "Tomato fight",
+        "Alhambra",
+        "Costa del Sol",
+        "Churros",
+        "Basque Country"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sweden",
+        "Japan"
+      ],
+      "medium": [
+        "Greece",
+        "Argentina"
+      ],
+      "hard": [
+        "Portugal",
+        "Italy"
+      ]
+    }
+  },
+  {
+    "word": "Germany",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "easy",
+    "description": "A large Central European country known for engineering, fairytale castles and hearty food.",
+    "tags": [
+      "country",
+      "europe",
+      "central-europe"
+    ],
+    "hints": {
+      "easy": [
+        "Berlin",
+        "Oktoberfest",
+        "Pretzels",
+        "Bratwurst",
+        "Autobahn",
+        "Lederhosen"
+      ],
+      "medium": [
+        "Brandenburg Gate",
+        "Black Forest",
+        "Beethoven",
+        "Munich",
+        "Cuckoo clock",
+        "Rhine River"
+      ],
+      "hard": [
+        "Neuschwanstein",
+        "Hamburg",
+        "Sauerkraut",
+        "Gutenberg",
+        "Bundesliga",
+        "Christmas markets"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Brazil",
+        "Japan"
+      ],
+      "medium": [
+        "Poland",
+        "Netherlands"
+      ],
+      "hard": [
+        "Austria",
+        "Switzerland"
+      ]
+    }
+  },
+  {
+    "word": "Brazil",
+    "category": "geography_places",
+    "subcategory": "Countries of South America",
+    "difficulty": "easy",
+    "description": "The largest South American country, known for football and huge festive parades.",
+    "tags": [
+      "country",
+      "south-america"
+    ],
+    "hints": {
+      "easy": [
+        "Amazon rainforest",
+        "Carnival",
+        "Samba",
+        "Rio de Janeiro",
+        "Pele",
+        "Copacabana"
+      ],
+      "medium": [
+        "Portuguese",
+        "Capoeira",
+        "Sugarloaf Mountain",
+        "Christ the Redeemer",
+        "Iguazu Falls",
+        "Coffee beans"
+      ],
+      "hard": [
+        "Sao Paulo",
+        "Feijoada",
+        "Toucans",
+        "Bossa nova",
+        "Neymar",
+        "Acai berries"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Nigeria",
+        "India"
+      ],
+      "medium": [
+        "Portugal",
+        "Mexico"
+      ],
+      "hard": [
+        "Argentina",
+        "Colombia"
+      ]
+    }
+  },
+  {
+    "word": "Mexico",
+    "category": "geography_places",
+    "subcategory": "Countries of North America",
+    "difficulty": "easy",
+    "description": "A North American country known for ancient pyramids, spicy food and colourful festivals.",
+    "tags": [
+      "country",
+      "north-america",
+      "latin-america"
+    ],
+    "hints": {
+      "easy": [
+        "Tacos",
+        "Sombrero",
+        "Mariachi",
+        "Day of the Dead",
+        "Burritos",
+        "Cancun"
+      ],
+      "medium": [
+        "Aztecs",
+        "Chichen Itza",
+        "Pinata",
+        "Frida Kahlo",
+        "Guacamole",
+        "Desert cactus"
+      ],
+      "hard": [
+        "Peso",
+        "Tortilla",
+        "Oaxaca",
+        "Lucha libre",
+        "Teotihuacan",
+        "Mole sauce"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Italy",
+        "India"
+      ],
+      "medium": [
+        "Brazil",
+        "Spain"
+      ],
+      "hard": [
+        "Guatemala",
+        "Colombia"
+      ]
+    }
+  },
+  {
+    "word": "Canada",
+    "category": "geography_places",
+    "subcategory": "Countries of North America",
+    "difficulty": "easy",
+    "description": "A huge northern country of North America famous for forests, lakes and politeness.",
+    "tags": [
+      "country",
+      "north-america"
+    ],
+    "hints": {
+      "easy": [
+        "Maple syrup",
+        "Ice hockey",
+        "Moose",
+        "Toronto",
+        "Mounties",
+        "Beavers"
+      ],
+      "medium": [
+        "Niagara Falls",
+        "Vancouver",
+        "Poutine",
+        "Rocky Mountains",
+        "Bilingual",
+        "Ottawa"
+      ],
+      "hard": [
+        "Loonie",
+        "Quebec",
+        "Inuit",
+        "Canoe trips",
+        "Banff",
+        "Yukon"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mexico",
+        "Australia"
+      ],
+      "medium": [
+        "Norway",
+        "Finland"
+      ],
+      "hard": [
+        "United States",
+        "Greenland"
+      ]
+    }
+  },
+  {
+    "word": "Australia",
+    "category": "geography_places",
+    "subcategory": "Countries of Oceania",
+    "difficulty": "easy",
+    "description": "A country that covers a whole continent, known for unusual wildlife and vast deserts.",
+    "tags": [
+      "country",
+      "oceania",
+      "continent"
+    ],
+    "hints": {
+      "easy": [
+        "Kangaroo",
+        "Koala",
+        "Sydney",
+        "Outback",
+        "Opera House",
+        "Great Barrier Reef"
+      ],
+      "medium": [
+        "Uluru",
+        "Melbourne",
+        "Didgeridoo",
+        "Bondi Beach",
+        "Emu",
+        "Platypus"
+      ],
+      "hard": [
+        "Aboriginal art",
+        "Canberra",
+        "Wombat",
+        "Tasmania",
+        "Barbecue",
+        "Southern Cross"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Canada",
+        "Argentina"
+      ],
+      "medium": [
+        "Indonesia",
+        "South Africa"
+      ],
+      "hard": [
+        "New Zealand",
+        "Fiji"
+      ]
+    }
+  },
+  {
+    "word": "Russia",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "easy",
+    "description": "The largest country on Earth, stretching across Eastern Europe and northern Asia.",
+    "tags": [
+      "country",
+      "europe",
+      "asia",
+      "eastern-europe"
+    ],
+    "hints": {
+      "easy": [
+        "Moscow",
+        "Nesting dolls",
+        "Kremlin",
+        "Siberia",
+        "Ballet",
+        "Fur hats"
+      ],
+      "medium": [
+        "Red Square",
+        "Tsars",
+        "Saint Petersburg",
+        "Borscht",
+        "Onion domes",
+        "Lake Baikal"
+      ],
+      "hard": [
+        "Ruble",
+        "Tolstoy",
+        "Cyrillic",
+        "Tchaikovsky",
+        "Volga River",
+        "Long winters"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "China",
+        "Canada"
+      ],
+      "medium": [
+        "Poland",
+        "Finland"
+      ],
+      "hard": [
+        "Ukraine",
+        "Belarus"
+      ]
+    }
+  },
+  {
+    "word": "Egypt",
+    "category": "geography_places",
+    "subcategory": "Countries of Africa",
+    "difficulty": "easy",
+    "description": "A North African country whose ancient civilization built enormous stone tombs.",
+    "tags": [
+      "country",
+      "africa",
+      "north-africa"
+    ],
+    "hints": {
+      "easy": [
+        "Pyramids",
+        "Pharaohs",
+        "Sphinx",
+        "Cairo",
+        "Nile River",
+        "Mummies"
+      ],
+      "medium": [
+        "Hieroglyphics",
+        "Cleopatra",
+        "Tutankhamun",
+        "Camels",
+        "Sahara",
+        "Suez Canal"
+      ],
+      "hard": [
+        "Papyrus",
+        "Alexandria",
+        "Luxor",
+        "Valley of Kings",
+        "Scarab beetle",
+        "Red Sea diving"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "India",
+        "Italy"
+      ],
+      "medium": [
+        "Jordan",
+        "Morocco"
+      ],
+      "hard": [
+        "Sudan",
+        "Libya"
+      ]
+    }
+  },
+  {
+    "word": "Greece",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "easy",
+    "description": "A Southern European country of sunny islands, often called the birthplace of democracy.",
+    "tags": [
+      "country",
+      "europe",
+      "southern-europe"
+    ],
+    "hints": {
+      "easy": [
+        "Athens",
+        "Acropolis",
+        "Olympic Games",
+        "Zeus",
+        "Santorini",
+        "Feta"
+      ],
+      "medium": [
+        "Parthenon",
+        "Myths",
+        "Gyros",
+        "Socrates",
+        "Crete",
+        "Plate smashing"
+      ],
+      "hard": [
+        "Drachma",
+        "Homer",
+        "Sparta",
+        "Moussaka",
+        "Aegean Sea",
+        "Olive groves"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Norway",
+        "Egypt"
+      ],
+      "medium": [
+        "Croatia",
+        "Turkey"
+      ],
+      "hard": [
+        "Cyprus",
+        "Italy"
+      ]
+    }
+  },
+  {
+    "word": "Turkey",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "easy",
+    "description": "A transcontinental country that bridges Europe and Asia across a narrow strait.",
+    "tags": [
+      "country",
+      "europe",
+      "asia"
+    ],
+    "hints": {
+      "easy": [
+        "Istanbul",
+        "Kebab",
+        "Hagia Sophia",
+        "Grand Bazaar",
+        "Hot air balloons",
+        "Mosques"
+      ],
+      "medium": [
+        "Cappadocia",
+        "Bosphorus",
+        "Ankara",
+        "Whirling dervishes",
+        "Baklava",
+        "Evil eye charm"
+      ],
+      "hard": [
+        "Lira",
+        "Ottoman Empire",
+        "Troy",
+        "Pamukkale",
+        "Hammam",
+        "Ataturk"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Thailand",
+        "Peru"
+      ],
+      "medium": [
+        "Egypt",
+        "Iran"
+      ],
+      "hard": [
+        "Greece",
+        "Azerbaijan"
+      ]
+    }
+  },
+  {
+    "word": "Thailand",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "easy",
+    "description": "A Southeast Asian kingdom known for golden temples, tropical beaches and street food.",
+    "tags": [
+      "country",
+      "asia",
+      "southeast-asia"
+    ],
+    "hints": {
+      "easy": [
+        "Bangkok",
+        "Tuk tuk",
+        "Phuket",
+        "Elephants",
+        "Buddhist temples",
+        "Kickboxing"
+      ],
+      "medium": [
+        "Floating markets",
+        "Green curry",
+        "Monks",
+        "Chiang Mai",
+        "Songkran",
+        "Mango sticky rice"
+      ],
+      "hard": [
+        "Baht",
+        "Siam",
+        "Krabi",
+        "Ayutthaya",
+        "Lemongrass",
+        "Lantern festival"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Brazil",
+        "Egypt"
+      ],
+      "medium": [
+        "Malaysia",
+        "Indonesia"
+      ],
+      "hard": [
+        "Laos",
+        "Cambodia"
+      ]
+    }
+  },
+  {
+    "word": "Vietnam",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "medium",
+    "description": "A long, narrow Southeast Asian country known for noodle soup and green landscapes.",
+    "tags": [
+      "country",
+      "asia",
+      "southeast-asia"
+    ],
+    "hints": {
+      "easy": [
+        "Pho",
+        "Hanoi",
+        "Conical hats",
+        "Motorbikes",
+        "Rice paddies",
+        "Ha Long Bay"
+      ],
+      "medium": [
+        "Ho Chi Minh",
+        "Mekong Delta",
+        "Banh mi",
+        "Spring rolls",
+        "Saigon",
+        "Water puppets"
+      ],
+      "hard": [
+        "Dong",
+        "Ao dai",
+        "Hoi An",
+        "Egg coffee",
+        "Fish sauce",
+        "Lotus flower"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Peru",
+        "Kenya"
+      ],
+      "medium": [
+        "Philippines",
+        "Laos"
+      ],
+      "hard": [
+        "Cambodia",
+        "Thailand"
+      ]
+    }
+  },
+  {
+    "word": "Indonesia",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "medium",
+    "description": "The world's largest island nation, spread across thousands of tropical islands.",
+    "tags": [
+      "country",
+      "asia",
+      "southeast-asia",
+      "island"
+    ],
+    "hints": {
+      "easy": [
+        "Bali",
+        "Jakarta",
+        "Komodo dragon",
+        "Volcanoes",
+        "Archipelago",
+        "Orangutans"
+      ],
+      "medium": [
+        "Java",
+        "Sumatra",
+        "Batik",
+        "Nasi goreng",
+        "Borneo",
+        "Rupiah"
+      ],
+      "hard": [
+        "Borobudur",
+        "Krakatoa",
+        "Gamelan",
+        "Shadow puppets",
+        "Satay",
+        "Tempeh"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Peru",
+        "Morocco"
+      ],
+      "medium": [
+        "Thailand",
+        "Vietnam"
+      ],
+      "hard": [
+        "Malaysia",
+        "Philippines"
+      ]
+    }
+  },
+  {
+    "word": "Philippines",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "medium",
+    "description": "A Southeast Asian archipelago of over seven thousand islands, loved for its beaches.",
+    "tags": [
+      "country",
+      "asia",
+      "southeast-asia",
+      "island"
+    ],
+    "hints": {
+      "easy": [
+        "Manila",
+        "Jeepney",
+        "Karaoke",
+        "Tropical beaches",
+        "Boracay",
+        "Mangoes"
+      ],
+      "medium": [
+        "Adobo",
+        "Tagalog",
+        "Chocolate Hills",
+        "Typhoons",
+        "Cebu",
+        "Basketball"
+      ],
+      "hard": [
+        "Palawan",
+        "Lechon",
+        "Tarsier",
+        "Magellan",
+        "Halo halo",
+        "Pacquiao"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Argentina",
+        "Egypt"
+      ],
+      "medium": [
+        "Vietnam",
+        "Taiwan"
+      ],
+      "hard": [
+        "Indonesia",
+        "Malaysia"
+      ]
+    }
+  },
+  {
+    "word": "Nepal",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "medium",
+    "description": "A small landlocked Himalayan country home to the highest mountain on Earth.",
+    "tags": [
+      "country",
+      "asia",
+      "south-asia",
+      "mountains"
+    ],
+    "hints": {
+      "easy": [
+        "Mount Everest",
+        "Sherpas",
+        "Kathmandu",
+        "Trekking",
+        "Prayer flags",
+        "Yaks"
+      ],
+      "medium": [
+        "Buddha birthplace",
+        "Gurkhas",
+        "Momos",
+        "Annapurna",
+        "Base camp",
+        "Rhododendron"
+      ],
+      "hard": [
+        "Pokhara",
+        "Pennant flag",
+        "Living goddess",
+        "Dal bhat",
+        "Chitwan",
+        "Yeti legend"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Egypt",
+        "Chile"
+      ],
+      "medium": [
+        "Mongolia",
+        "Bangladesh"
+      ],
+      "hard": [
+        "Bhutan",
+        "India"
+      ]
+    }
+  },
+  {
+    "word": "Pakistan",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "medium",
+    "description": "A South Asian country with towering northern peaks and the ancient Indus Valley.",
+    "tags": [
+      "country",
+      "asia",
+      "south-asia"
+    ],
+    "hints": {
+      "easy": [
+        "Islamabad",
+        "Karachi",
+        "Cricket",
+        "Biryani",
+        "Lahore",
+        "Crescent flag"
+      ],
+      "medium": [
+        "Urdu",
+        "Truck art",
+        "Khyber Pass",
+        "Badshahi Mosque",
+        "Karakoram Highway",
+        "Mangoes"
+      ],
+      "hard": [
+        "Mohenjo-daro",
+        "Malala",
+        "Jinnah",
+        "Shalwar kameez",
+        "Hunza Valley",
+        "Polo"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Brazil",
+        "Nigeria"
+      ],
+      "medium": [
+        "Iran",
+        "Bangladesh"
+      ],
+      "hard": [
+        "India",
+        "Afghanistan"
+      ]
+    }
+  },
+  {
+    "word": "Bangladesh",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "medium",
+    "description": "A densely populated South Asian country crossed by great rivers and deltas.",
+    "tags": [
+      "country",
+      "asia",
+      "south-asia"
+    ],
+    "hints": {
+      "easy": [
+        "Dhaka",
+        "Bengal tiger",
+        "Rickshaws",
+        "Monsoon rains",
+        "Red disc flag",
+        "Bengali language"
+      ],
+      "medium": [
+        "Sundarbans",
+        "Ganges delta",
+        "Jute",
+        "Hilsa fish",
+        "Chittagong",
+        "Taka"
+      ],
+      "hard": [
+        "Cox's Bazar",
+        "Muslin",
+        "Tagore",
+        "Padma River",
+        "Microloans",
+        "Lungi"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mexico",
+        "Egypt"
+      ],
+      "medium": [
+        "Nepal",
+        "Myanmar"
+      ],
+      "hard": [
+        "India",
+        "Pakistan"
+      ]
+    }
+  },
+  {
+    "word": "Sri Lanka",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "medium",
+    "description": "A teardrop-shaped tropical island nation lying just south of the Asian mainland.",
+    "tags": [
+      "country",
+      "asia",
+      "south-asia",
+      "island"
+    ],
+    "hints": {
+      "easy": [
+        "Ceylon tea",
+        "Colombo",
+        "Elephants",
+        "Cricket",
+        "Golden beaches",
+        "Coconut curry"
+      ],
+      "medium": [
+        "Sigiriya rock",
+        "Kandy",
+        "Tuk tuks",
+        "Stilt fishermen",
+        "Leopards",
+        "Hoppers"
+      ],
+      "hard": [
+        "Sinhala",
+        "Tamil",
+        "Adam's Peak",
+        "Temple of the Tooth",
+        "Galle Fort",
+        "Cinnamon"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cuba",
+        "Iceland"
+      ],
+      "medium": [
+        "Thailand",
+        "Bangladesh"
+      ],
+      "hard": [
+        "Maldives",
+        "India"
+      ]
+    }
+  },
+  {
+    "word": "Maldives",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "medium",
+    "description": "A nation of low-lying coral atolls scattered across the Indian Ocean.",
+    "tags": [
+      "country",
+      "asia",
+      "island",
+      "tropical"
+    ],
+    "hints": {
+      "easy": [
+        "Overwater villas",
+        "Honeymoon",
+        "Turquoise water",
+        "Scuba diving",
+        "White sand",
+        "Luxury resorts"
+      ],
+      "medium": [
+        "Coral reefs",
+        "Manta rays",
+        "Whale sharks",
+        "Seaplanes",
+        "Rising seas",
+        "Sandbanks"
+      ],
+      "hard": [
+        "Rufiyaa",
+        "Dhoni boats",
+        "Glowing beach",
+        "Underwater restaurant",
+        "Tuna fishing",
+        "Lowest country"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Switzerland",
+        "Mongolia"
+      ],
+      "medium": [
+        "Bahamas",
+        "Fiji"
+      ],
+      "hard": [
+        "Seychelles",
+        "Mauritius"
+      ]
+    }
+  },
+  {
+    "word": "South Korea",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "easy",
+    "description": "An East Asian country on a peninsula, famous for pop music and high technology.",
+    "tags": [
+      "country",
+      "asia",
+      "east-asia"
+    ],
+    "hints": {
+      "easy": [
+        "Seoul",
+        "K-pop",
+        "Kimchi",
+        "Taekwondo",
+        "Busan",
+        "Hanbok"
+      ],
+      "medium": [
+        "Gangnam",
+        "Bibimbap",
+        "K-dramas",
+        "Jeju Island",
+        "DMZ border",
+        "Hangul"
+      ],
+      "hard": [
+        "Won",
+        "Ondol",
+        "Gyeongbokgung",
+        "Chuseok",
+        "Tteokbokki",
+        "Pyeongchang"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mexico",
+        "Sweden"
+      ],
+      "medium": [
+        "China",
+        "Vietnam"
+      ],
+      "hard": [
+        "Japan",
+        "Taiwan"
+      ]
+    }
+  },
+  {
+    "word": "North Korea",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "medium",
+    "description": "A secretive and isolated East Asian state ruled by a single family dynasty.",
+    "tags": [
+      "country",
+      "asia",
+      "east-asia"
+    ],
+    "hints": {
+      "easy": [
+        "Pyongyang",
+        "Kim Jong Un",
+        "Military parades",
+        "Closed borders",
+        "Missile tests",
+        "Communism"
+      ],
+      "medium": [
+        "Juche",
+        "Mass games",
+        "Demilitarized zone",
+        "Propaganda posters",
+        "Supreme Leader",
+        "Hermit kingdom"
+      ],
+      "hard": [
+        "Ryugyong Hotel",
+        "Mount Paektu",
+        "Cold noodles",
+        "Arirang",
+        "Red star",
+        "Taedong River"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Brazil",
+        "Canada"
+      ],
+      "medium": [
+        "Cuba",
+        "Mongolia"
+      ],
+      "hard": [
+        "South Korea",
+        "China"
+      ]
+    }
+  },
+  {
+    "word": "Mongolia",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "medium",
+    "description": "A vast, sparsely populated landlocked country of high grassy plains and harsh winters.",
+    "tags": [
+      "country",
+      "asia",
+      "east-asia",
+      "landlocked"
+    ],
+    "hints": {
+      "easy": [
+        "Genghis Khan",
+        "Yurts",
+        "Gobi Desert",
+        "Horseback riding",
+        "Ulaanbaatar",
+        "Nomads"
+      ],
+      "medium": [
+        "Throat singing",
+        "Eagle hunters",
+        "Naadam",
+        "Dinosaur fossils",
+        "Mutton dumplings",
+        "Steppes"
+      ],
+      "hard": [
+        "Tugrik",
+        "Wrestling",
+        "Bactrian camel",
+        "Cashmere",
+        "Eternal blue sky",
+        "Altai Mountains"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Peru",
+        "Egypt"
+      ],
+      "medium": [
+        "Nepal",
+        "China"
+      ],
+      "hard": [
+        "Kazakhstan",
+        "Kyrgyzstan"
+      ]
+    }
+  },
+  {
+    "word": "Kazakhstan",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "hard",
+    "description": "The world's largest landlocked country, a Central Asian land of grasslands and mountains.",
+    "tags": [
+      "country",
+      "asia",
+      "central-asia",
+      "landlocked"
+    ],
+    "hints": {
+      "easy": [
+        "Astana",
+        "Almaty",
+        "Rocket launches",
+        "Golden eagles",
+        "Wild apples",
+        "Caspian Sea"
+      ],
+      "medium": [
+        "Baikonur",
+        "Tenge",
+        "Charyn Canyon",
+        "Silk Road",
+        "Aral Sea",
+        "Beshbarmak"
+      ],
+      "hard": [
+        "Former Soviet",
+        "Dombra",
+        "Uranium",
+        "Bayterek Tower",
+        "Wild tulips",
+        "Snow leopard"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Spain",
+        "Peru"
+      ],
+      "medium": [
+        "Russia",
+        "Mongolia"
+      ],
+      "hard": [
+        "Uzbekistan",
+        "Kyrgyzstan"
+      ]
+    }
+  },
+  {
+    "word": "Iran",
+    "category": "geography_places",
+    "subcategory": "Countries of the Middle East",
+    "difficulty": "medium",
+    "description": "A large Middle Eastern country with a rich ancient history and a famous poetic tradition.",
+    "tags": [
+      "country",
+      "asia",
+      "middle-east"
+    ],
+    "hints": {
+      "easy": [
+        "Tehran",
+        "Persian rugs",
+        "Saffron",
+        "Pistachios",
+        "Persepolis",
+        "Mosaics"
+      ],
+      "medium": [
+        "Isfahan",
+        "Shiraz",
+        "Hafez",
+        "Rial",
+        "Nowruz",
+        "Zagros Mountains"
+      ],
+      "hard": [
+        "Cyrus the Great",
+        "Shahs",
+        "Rosewater",
+        "Wind towers",
+        "Caviar",
+        "Zoroastrian"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mexico",
+        "Nigeria"
+      ],
+      "medium": [
+        "Afghanistan",
+        "Turkey"
+      ],
+      "hard": [
+        "Iraq",
+        "Tajikistan"
+      ]
+    }
+  },
+  {
+    "word": "Iraq",
+    "category": "geography_places",
+    "subcategory": "Countries of the Middle East",
+    "difficulty": "medium",
+    "description": "A Middle Eastern country whose river valleys nurtured some of the earliest cities.",
+    "tags": [
+      "country",
+      "asia",
+      "middle-east"
+    ],
+    "hints": {
+      "easy": [
+        "Baghdad",
+        "Tigris",
+        "Euphrates",
+        "Babylon",
+        "Date palms",
+        "Mesopotamia"
+      ],
+      "medium": [
+        "Basra",
+        "Mosul",
+        "Kurdistan",
+        "Cuneiform",
+        "Ziggurat",
+        "Marsh Arabs"
+      ],
+      "hard": [
+        "Hanging Gardens",
+        "Hammurabi",
+        "Gilgamesh",
+        "Dinar",
+        "Masgouf fish",
+        "Samarra minaret"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Chile",
+        "Norway"
+      ],
+      "medium": [
+        "Saudi Arabia",
+        "Egypt"
+      ],
+      "hard": [
+        "Iran",
+        "Syria"
+      ]
+    }
+  },
+  {
+    "word": "Saudi Arabia",
+    "category": "geography_places",
+    "subcategory": "Countries of the Middle East",
+    "difficulty": "medium",
+    "description": "A large desert kingdom in the Middle East and the birthplace of Islam.",
+    "tags": [
+      "country",
+      "asia",
+      "middle-east",
+      "desert"
+    ],
+    "hints": {
+      "easy": [
+        "Mecca",
+        "Riyadh",
+        "Oil wells",
+        "Camels",
+        "Pilgrimage",
+        "Green flag"
+      ],
+      "medium": [
+        "Medina",
+        "Red Sea",
+        "Empty Quarter",
+        "Falconry",
+        "Sand dunes",
+        "Date fruit"
+      ],
+      "hard": [
+        "Riyal",
+        "Jeddah",
+        "Kabsa",
+        "Thobe",
+        "Bedouin tents",
+        "AlUla"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Argentina",
+        "Vietnam"
+      ],
+      "medium": [
+        "Egypt",
+        "Iraq"
+      ],
+      "hard": [
+        "Oman",
+        "Qatar"
+      ]
+    }
+  },
+  {
+    "word": "Israel",
+    "category": "geography_places",
+    "subcategory": "Countries of the Middle East",
+    "difficulty": "medium",
+    "description": "A small Middle Eastern country on the Mediterranean with many sites sacred to major religions.",
+    "tags": [
+      "country",
+      "asia",
+      "middle-east"
+    ],
+    "hints": {
+      "easy": [
+        "Jerusalem",
+        "Tel Aviv",
+        "Dead Sea",
+        "Western Wall",
+        "Falafel",
+        "Star of David"
+      ],
+      "medium": [
+        "Hebrew",
+        "Shekel",
+        "Kibbutz",
+        "Masada",
+        "Negev Desert",
+        "Hummus"
+      ],
+      "hard": [
+        "Haifa",
+        "Eilat",
+        "Sea of Galilee",
+        "Shabbat",
+        "Shakshuka",
+        "Tech startups"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Japan",
+        "Argentina"
+      ],
+      "medium": [
+        "Egypt",
+        "Cyprus"
+      ],
+      "hard": [
+        "Jordan",
+        "Lebanon"
+      ]
+    }
+  },
+  {
+    "word": "Jordan",
+    "category": "geography_places",
+    "subcategory": "Countries of the Middle East",
+    "difficulty": "medium",
+    "description": "A Middle Eastern desert kingdom famous for an ancient city carved into rose-red cliffs.",
+    "tags": [
+      "country",
+      "asia",
+      "middle-east",
+      "desert"
+    ],
+    "hints": {
+      "easy": [
+        "Petra",
+        "Amman",
+        "Dead Sea",
+        "Camels",
+        "Desert canyons",
+        "Bedouins"
+      ],
+      "medium": [
+        "Aqaba",
+        "Mansaf",
+        "Jerash",
+        "Red Sea diving",
+        "Keffiyeh",
+        "Nabataeans"
+      ],
+      "hard": [
+        "Queen Rania",
+        "Dinar",
+        "Mount Nebo",
+        "Desert castles",
+        "Hejaz Railway",
+        "Baptism site"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Canada",
+        "Thailand"
+      ],
+      "medium": [
+        "Saudi Arabia",
+        "Egypt"
+      ],
+      "hard": [
+        "Israel",
+        "Syria"
+      ]
+    }
+  },
+  {
+    "word": "Morocco",
+    "category": "geography_places",
+    "subcategory": "Countries of Africa",
+    "difficulty": "medium",
+    "description": "A North African kingdom known for colourful markets, mint tea and desert landscapes.",
+    "tags": [
+      "country",
+      "africa",
+      "north-africa"
+    ],
+    "hints": {
+      "easy": [
+        "Marrakech",
+        "Sahara",
+        "Tagine",
+        "Couscous",
+        "Camels",
+        "Casablanca"
+      ],
+      "medium": [
+        "Fez",
+        "Atlas Mountains",
+        "Blue city",
+        "Argan oil",
+        "Riads",
+        "Snake charmers"
+      ],
+      "hard": [
+        "Dirham",
+        "Berbers",
+        "Djellaba",
+        "Tangier",
+        "Rabat",
+        "Majorelle Garden"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Peru",
+        "India"
+      ],
+      "medium": [
+        "Egypt",
+        "Turkey"
+      ],
+      "hard": [
+        "Tunisia",
+        "Algeria"
+      ]
+    }
+  },
+  {
+    "word": "Kenya",
+    "category": "geography_places",
+    "subcategory": "Countries of Africa",
+    "difficulty": "medium",
+    "description": "An East African country famous for wildlife safaris and long-distance runners.",
+    "tags": [
+      "country",
+      "africa",
+      "east-africa"
+    ],
+    "hints": {
+      "easy": [
+        "Nairobi",
+        "Lions",
+        "Maasai Mara",
+        "Marathon runners",
+        "Savanna",
+        "Giraffes"
+      ],
+      "medium": [
+        "Swahili",
+        "Mombasa",
+        "Great Migration",
+        "Tea farms",
+        "Shilling",
+        "Big Five"
+      ],
+      "hard": [
+        "Kikuyu",
+        "Ugali",
+        "Rift Valley",
+        "Lake Turkana",
+        "Matatu buses",
+        "Lamu Island"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Peru",
+        "Vietnam"
+      ],
+      "medium": [
+        "Nigeria",
+        "South Africa"
+      ],
+      "hard": [
+        "Tanzania",
+        "Uganda"
+      ]
+    }
+  },
+  {
+    "word": "Nigeria",
+    "category": "geography_places",
+    "subcategory": "Countries of Africa",
+    "difficulty": "medium",
+    "description": "The most populous nation on its continent, a West African land with a huge film industry.",
+    "tags": [
+      "country",
+      "africa",
+      "west-africa"
+    ],
+    "hints": {
+      "easy": [
+        "Lagos",
+        "Jollof rice",
+        "Nollywood",
+        "Afrobeats",
+        "Abuja",
+        "Super Eagles"
+      ],
+      "medium": [
+        "Naira",
+        "Yoruba",
+        "Fela Kuti",
+        "Suya",
+        "Agbada",
+        "Pounded yam"
+      ],
+      "hard": [
+        "Zuma Rock",
+        "Benin bronzes",
+        "Kano",
+        "Egusi soup",
+        "Chinua Achebe",
+        "Durbar festival"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Indonesia",
+        "Mexico"
+      ],
+      "medium": [
+        "Kenya",
+        "Senegal"
+      ],
+      "hard": [
+        "Ghana",
+        "Cameroon"
+      ]
+    }
+  },
+  {
+    "word": "South Africa",
+    "category": "geography_places",
+    "subcategory": "Countries of Africa",
+    "difficulty": "easy",
+    "description": "The country at the continent's southern tip, known for wildlife parks and eleven official languages.",
+    "tags": [
+      "country",
+      "africa",
+      "southern-africa"
+    ],
+    "hints": {
+      "easy": [
+        "Cape Town",
+        "Nelson Mandela",
+        "Table Mountain",
+        "Johannesburg",
+        "Rainbow nation",
+        "Springboks"
+      ],
+      "medium": [
+        "Kruger Park",
+        "Robben Island",
+        "Rand",
+        "Braai",
+        "Zulu",
+        "Penguin beach"
+      ],
+      "hard": [
+        "Pretoria",
+        "Biltong",
+        "Garden Route",
+        "Drakensberg",
+        "Vuvuzela",
+        "Afrikaans"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Australia",
+        "Argentina"
+      ],
+      "medium": [
+        "Kenya",
+        "Nigeria"
+      ],
+      "hard": [
+        "Namibia",
+        "Zimbabwe"
+      ]
+    }
+  },
+  {
+    "word": "Ethiopia",
+    "category": "geography_places",
+    "subcategory": "Countries of Africa",
+    "difficulty": "medium",
+    "description": "An ancient East African highland nation with its own calendar and elaborate coffee ceremonies.",
+    "tags": [
+      "country",
+      "africa",
+      "east-africa"
+    ],
+    "hints": {
+      "easy": [
+        "Addis Ababa",
+        "Coffee origin",
+        "Injera",
+        "Distance runners",
+        "Never colonized",
+        "Blue Nile"
+      ],
+      "medium": [
+        "Lalibela",
+        "Amharic",
+        "Haile Selassie",
+        "Birr",
+        "Simien Mountains",
+        "Doro wat"
+      ],
+      "hard": [
+        "Lucy fossil",
+        "Axum obelisks",
+        "Danakil Depression",
+        "Gelada monkeys",
+        "Rastafari",
+        "Ark of the Covenant"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Chile",
+        "Mexico"
+      ],
+      "medium": [
+        "Nigeria",
+        "Sudan"
+      ],
+      "hard": [
+        "Eritrea",
+        "Kenya"
+      ]
+    }
+  },
+  {
+    "word": "Ghana",
+    "category": "geography_places",
+    "subcategory": "Countries of Africa",
+    "difficulty": "medium",
+    "description": "A West African country famous for cocoa farming, colourful woven cloth and friendly people.",
+    "tags": [
+      "country",
+      "africa",
+      "west-africa"
+    ],
+    "hints": {
+      "easy": [
+        "Accra",
+        "Kente cloth",
+        "Jollof rice",
+        "Black Star flag",
+        "Highlife music",
+        "Fufu"
+      ],
+      "medium": [
+        "Ashanti",
+        "Cedi",
+        "Lake Volta",
+        "Kumasi",
+        "Kakum canopy walk",
+        "Fantasy coffins"
+      ],
+      "hard": [
+        "Kwame Nkrumah",
+        "Adinkra symbols",
+        "Golden Stool",
+        "Twi",
+        "Kenkey",
+        "Talking drums"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Jamaica",
+        "India"
+      ],
+      "medium": [
+        "Kenya",
+        "Senegal"
+      ],
+      "hard": [
+        "Nigeria",
+        "Ivory Coast"
+      ]
+    }
+  },
+  {
+    "word": "Tanzania",
+    "category": "geography_places",
+    "subcategory": "Countries of Africa",
+    "difficulty": "medium",
+    "description": "An East African country home to the continent's highest mountain and a famous spice island.",
+    "tags": [
+      "country",
+      "africa",
+      "east-africa"
+    ],
+    "hints": {
+      "easy": [
+        "Kilimanjaro",
+        "Serengeti",
+        "Zanzibar",
+        "Safari",
+        "Dar es Salaam",
+        "Wildebeest"
+      ],
+      "medium": [
+        "Ngorongoro Crater",
+        "Swahili",
+        "Maasai",
+        "Lake Tanganyika",
+        "Spice farms",
+        "Dodoma"
+      ],
+      "hard": [
+        "Olduvai Gorge",
+        "Stone Town",
+        "Freddie Mercury",
+        "Nyerere",
+        "Lake Victoria",
+        "Pemba Island"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Peru",
+        "Indonesia"
+      ],
+      "medium": [
+        "Madagascar",
+        "Mozambique"
+      ],
+      "hard": [
+        "Kenya",
+        "Uganda"
+      ]
+    }
+  },
+  {
+    "word": "Madagascar",
+    "category": "geography_places",
+    "subcategory": "Countries of Africa",
+    "difficulty": "medium",
+    "description": "A huge island nation off southeast Africa, home to wildlife found nowhere else.",
+    "tags": [
+      "country",
+      "africa",
+      "island"
+    ],
+    "hints": {
+      "easy": [
+        "Lemurs",
+        "Baobab trees",
+        "Vanilla",
+        "Chameleons",
+        "Antananarivo",
+        "Zebu cattle"
+      ],
+      "medium": [
+        "Ariary",
+        "Fossa",
+        "Tsingy",
+        "Aye-aye",
+        "Cloves",
+        "Nosy Be"
+      ],
+      "hard": [
+        "Tomato frog",
+        "Elephant bird",
+        "Famadihana",
+        "Valiha",
+        "Ranomafana",
+        "Sapphires"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ireland",
+        "Japan"
+      ],
+      "medium": [
+        "Sri Lanka",
+        "Tanzania"
+      ],
+      "hard": [
+        "Mauritius",
+        "Mozambique"
+      ]
+    }
+  },
+  {
+    "word": "Argentina",
+    "category": "geography_places",
+    "subcategory": "Countries of South America",
+    "difficulty": "easy",
+    "description": "A large South American country famous for tango, grilled beef and passionate football fans.",
+    "tags": [
+      "country",
+      "south-america"
+    ],
+    "hints": {
+      "easy": [
+        "Buenos Aires",
+        "Lionel Messi",
+        "Gauchos",
+        "Asado",
+        "Patagonia",
+        "Andes"
+      ],
+      "medium": [
+        "Maradona",
+        "Evita",
+        "Mate tea",
+        "Perito Moreno",
+        "Empanadas",
+        "Falkland claim"
+      ],
+      "hard": [
+        "Ushuaia",
+        "Dulce de leche",
+        "Pampas",
+        "Aconcagua",
+        "Bandoneon",
+        "Che Guevara"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Egypt",
+        "Canada"
+      ],
+      "medium": [
+        "Brazil",
+        "Spain"
+      ],
+      "hard": [
+        "Uruguay",
+        "Chile"
+      ]
+    }
+  },
+  {
+    "word": "Chile",
+    "category": "geography_places",
+    "subcategory": "Countries of South America",
+    "difficulty": "medium",
+    "description": "A long, thin South American country squeezed between high mountains and the Pacific.",
+    "tags": [
+      "country",
+      "south-america"
+    ],
+    "hints": {
+      "easy": [
+        "Santiago",
+        "Easter Island",
+        "Atacama Desert",
+        "Patagonia",
+        "Copper mines",
+        "Glaciers"
+      ],
+      "medium": [
+        "Valparaiso",
+        "Torres del Paine",
+        "Pablo Neruda",
+        "Earthquakes",
+        "Penguins",
+        "Fjords"
+      ],
+      "hard": [
+        "Cueca dance",
+        "Huasos",
+        "Chiloe",
+        "Observatories",
+        "Humboldt current",
+        "Condors"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Japan",
+        "Kenya"
+      ],
+      "medium": [
+        "Brazil",
+        "Colombia"
+      ],
+      "hard": [
+        "Argentina",
+        "Peru"
+      ]
+    }
+  },
+  {
+    "word": "Peru",
+    "category": "geography_places",
+    "subcategory": "Countries of South America",
+    "difficulty": "medium",
+    "description": "A South American country of high Andean peaks that was the heart of the Inca Empire.",
+    "tags": [
+      "country",
+      "south-america"
+    ],
+    "hints": {
+      "easy": [
+        "Machu Picchu",
+        "Llamas",
+        "Lima",
+        "Alpacas",
+        "Ceviche",
+        "Amazon jungle"
+      ],
+      "medium": [
+        "Cusco",
+        "Nazca Lines",
+        "Lake Titicaca",
+        "Quechua",
+        "Rainbow Mountain",
+        "Sol"
+      ],
+      "hard": [
+        "Paddington Bear",
+        "Roast guinea pig",
+        "Inti Raymi",
+        "Panpipes",
+        "Sacred Valley",
+        "Huacachina"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Italy",
+        "Thailand"
+      ],
+      "medium": [
+        "Mexico",
+        "Colombia"
+      ],
+      "hard": [
+        "Bolivia",
+        "Ecuador"
+      ]
+    }
+  },
+  {
+    "word": "Colombia",
+    "category": "geography_places",
+    "subcategory": "Countries of South America",
+    "difficulty": "medium",
+    "description": "A South American country with two ocean coastlines, famous for coffee and emeralds.",
+    "tags": [
+      "country",
+      "south-america"
+    ],
+    "hints": {
+      "easy": [
+        "Bogota",
+        "Shakira",
+        "Medellin",
+        "Cartagena",
+        "Arepas",
+        "Salsa music"
+      ],
+      "medium": [
+        "Garcia Marquez",
+        "Vallenato",
+        "Cano Cristales",
+        "Botero",
+        "Wax palms",
+        "Orchids"
+      ],
+      "hard": [
+        "Gold Museum",
+        "Lost City",
+        "Ajiaco",
+        "Tejo game",
+        "Barranquilla Carnival",
+        "Hummingbirds"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Egypt",
+        "Japan"
+      ],
+      "medium": [
+        "Brazil",
+        "Cuba"
+      ],
+      "hard": [
+        "Venezuela",
+        "Ecuador"
+      ]
+    }
+  },
+  {
+    "word": "Venezuela",
+    "category": "geography_places",
+    "subcategory": "Countries of South America",
+    "difficulty": "medium",
+    "description": "A South American country on the Caribbean, home to the highest waterfall on Earth.",
+    "tags": [
+      "country",
+      "south-america"
+    ],
+    "hints": {
+      "easy": [
+        "Caracas",
+        "Angel Falls",
+        "Arepa",
+        "Oil reserves",
+        "Beauty pageants",
+        "Simon Bolivar"
+      ],
+      "medium": [
+        "Orinoco River",
+        "Tepuis",
+        "Los Roques",
+        "Llanos plains",
+        "Hallacas",
+        "Margarita Island"
+      ],
+      "hard": [
+        "Joropo dance",
+        "Lake Maracaibo",
+        "Roraima",
+        "Catatumbo lightning",
+        "Cuatro guitar",
+        "Pabellon criollo"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Morocco",
+        "India"
+      ],
+      "medium": [
+        "Cuba",
+        "Brazil"
+      ],
+      "hard": [
+        "Colombia",
+        "Ecuador"
+      ]
+    }
+  },
+  {
+    "word": "Cuba",
+    "category": "geography_places",
+    "subcategory": "Countries of the Caribbean",
+    "difficulty": "easy",
+    "description": "A large Caribbean island nation with a communist government and colourful colonial towns.",
+    "tags": [
+      "country",
+      "caribbean",
+      "island"
+    ],
+    "hints": {
+      "easy": [
+        "Havana",
+        "Fidel Castro",
+        "Cigars",
+        "Vintage cars",
+        "Salsa",
+        "Che"
+      ],
+      "medium": [
+        "Malecon",
+        "Sugar cane",
+        "Bay of Pigs",
+        "Baseball",
+        "Rumba dance",
+        "Revolution Square"
+      ],
+      "hard": [
+        "Varadero",
+        "Vinales Valley",
+        "Ropa vieja",
+        "Embargo",
+        "Jose Marti",
+        "Guayabera shirt"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ireland",
+        "Egypt"
+      ],
+      "medium": [
+        "Mexico",
+        "Venezuela"
+      ],
+      "hard": [
+        "Dominican Republic",
+        "Jamaica"
+      ]
+    }
+  },
+  {
+    "word": "Jamaica",
+    "category": "geography_places",
+    "subcategory": "Countries of the Caribbean",
+    "difficulty": "easy",
+    "description": "A Caribbean island nation famous for reggae music and world-class sprinters.",
+    "tags": [
+      "country",
+      "caribbean",
+      "island"
+    ],
+    "hints": {
+      "easy": [
+        "Bob Marley",
+        "Kingston",
+        "Usain Bolt",
+        "Jerk chicken",
+        "Dreadlocks",
+        "Montego Bay"
+      ],
+      "medium": [
+        "Blue Mountains",
+        "Bobsled team",
+        "Ackee",
+        "Patois",
+        "Dunn's River Falls",
+        "Ska"
+      ],
+      "hard": [
+        "Negril",
+        "Port Royal",
+        "Dancehall",
+        "Beef patties",
+        "Doctor bird",
+        "Maroons"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Norway",
+        "Chile"
+      ],
+      "medium": [
+        "Cuba",
+        "Haiti"
+      ],
+      "hard": [
+        "Barbados",
+        "Bahamas"
+      ]
+    }
+  },
+  {
+    "word": "Ireland",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "easy",
+    "description": "A green island nation in northwestern Europe known for folk music and cosy pubs.",
+    "tags": [
+      "country",
+      "europe",
+      "island"
+    ],
+    "hints": {
+      "easy": [
+        "Shamrock",
+        "Dublin",
+        "Leprechauns",
+        "Saint Patrick",
+        "Emerald Isle",
+        "Celtic music"
+      ],
+      "medium": [
+        "Cliffs of Moher",
+        "Gaelic",
+        "Riverdance",
+        "Blarney Stone",
+        "Hurling",
+        "Galway"
+      ],
+      "hard": [
+        "Book of Kells",
+        "Claddagh ring",
+        "Potato famine",
+        "Cork",
+        "Harp emblem",
+        "James Joyce"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mexico",
+        "Greece"
+      ],
+      "medium": [
+        "England",
+        "Iceland"
+      ],
+      "hard": [
+        "Scotland",
+        "Wales"
+      ]
+    }
+  },
+  {
+    "word": "Scotland",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "easy",
+    "description": "A nation in the north of Great Britain known for rugged mountains and ancient castles.",
+    "tags": [
+      "country",
+      "europe",
+      "united-kingdom"
+    ],
+    "hints": {
+      "easy": [
+        "Bagpipes",
+        "Kilts",
+        "Loch Ness",
+        "Edinburgh",
+        "Haggis",
+        "Tartan"
+      ],
+      "medium": [
+        "Highland games",
+        "Glasgow",
+        "Robert Burns",
+        "Unicorn emblem",
+        "Thistle",
+        "Ben Nevis"
+      ],
+      "hard": [
+        "Hogmanay",
+        "Shortbread",
+        "Isle of Skye",
+        "Braveheart",
+        "Caber toss",
+        "Saint Andrews"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Spain",
+        "Canada"
+      ],
+      "medium": [
+        "Norway",
+        "England"
+      ],
+      "hard": [
+        "Ireland",
+        "Wales"
+      ]
+    }
+  },
+  {
+    "word": "England",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "easy",
+    "description": "The largest nation of the United Kingdom, home to a famous royal family.",
+    "tags": [
+      "country",
+      "europe",
+      "united-kingdom"
+    ],
+    "hints": {
+      "easy": [
+        "London",
+        "Big Ben",
+        "Afternoon tea",
+        "Red buses",
+        "Fish and chips",
+        "Buckingham Palace"
+      ],
+      "medium": [
+        "Shakespeare",
+        "Stonehenge",
+        "Premier League",
+        "Rainy weather",
+        "Cambridge",
+        "Saint George"
+      ],
+      "hard": [
+        "Pound sterling",
+        "Cotswolds",
+        "Lake District",
+        "Yorkshire pudding",
+        "Three Lions",
+        "Morris dancing"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Australia",
+        "Jamaica"
+      ],
+      "medium": [
+        "Netherlands",
+        "Ireland"
+      ],
+      "hard": [
+        "Scotland",
+        "Wales"
+      ]
+    }
+  },
+  {
+    "word": "Wales",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "medium",
+    "description": "A small mountainous nation on the western side of Great Britain with its own ancient language.",
+    "tags": [
+      "country",
+      "europe",
+      "united-kingdom"
+    ],
+    "hints": {
+      "easy": [
+        "Red dragon",
+        "Cardiff",
+        "Rugby",
+        "Castles",
+        "Sheep farming",
+        "Leeks"
+      ],
+      "medium": [
+        "Snowdon",
+        "Male voice choirs",
+        "Eisteddfod",
+        "Coal mining",
+        "Tom Jones",
+        "Prince title"
+      ],
+      "hard": [
+        "Longest place name",
+        "Cawl stew",
+        "Lovespoons",
+        "Brecon Beacons",
+        "Anglesey",
+        "Dylan Thomas"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mexico",
+        "Egypt"
+      ],
+      "medium": [
+        "England",
+        "Norway"
+      ],
+      "hard": [
+        "Scotland",
+        "Ireland"
+      ]
+    }
+  },
+  {
+    "word": "Netherlands",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "easy",
+    "description": "A flat, low-lying Western European country crisscrossed by canals and dikes.",
+    "tags": [
+      "country",
+      "europe",
+      "western-europe"
+    ],
+    "hints": {
+      "easy": [
+        "Windmills",
+        "Tulips",
+        "Amsterdam",
+        "Wooden clogs",
+        "Bicycles",
+        "Orange shirts"
+      ],
+      "medium": [
+        "Van Gogh",
+        "Rotterdam",
+        "Stroopwafel",
+        "Gouda cheese",
+        "Anne Frank",
+        "King's Day"
+      ],
+      "hard": [
+        "Rembrandt",
+        "The Hague",
+        "Delft pottery",
+        "Herring",
+        "Polders",
+        "Keukenhof"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Brazil",
+        "Greece"
+      ],
+      "medium": [
+        "Germany",
+        "Sweden"
+      ],
+      "hard": [
+        "Belgium",
+        "Denmark"
+      ]
+    }
+  },
+  {
+    "word": "Belgium",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "medium",
+    "description": "A small Western European country that hosts the headquarters of the European Union.",
+    "tags": [
+      "country",
+      "europe",
+      "western-europe"
+    ],
+    "hints": {
+      "easy": [
+        "Brussels",
+        "Waffles",
+        "Chocolate",
+        "Fries with mayo",
+        "Tintin",
+        "Atomium"
+      ],
+      "medium": [
+        "Bruges",
+        "Manneken Pis",
+        "Antwerp",
+        "Smurfs",
+        "Flemish",
+        "Comic strips"
+      ],
+      "hard": [
+        "Ghent",
+        "Magritte",
+        "Waterloo",
+        "Lace making",
+        "Saxophone inventor",
+        "Spa town"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "India",
+        "Chile"
+      ],
+      "medium": [
+        "France",
+        "Switzerland"
+      ],
+      "hard": [
+        "Netherlands",
+        "Luxembourg"
+      ]
+    }
+  },
+  {
+    "word": "Switzerland",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "easy",
+    "description": "A small, mountainous and neutral Central European country known for banking and precise watches.",
+    "tags": [
+      "country",
+      "europe",
+      "central-europe",
+      "mountains"
+    ],
+    "hints": {
+      "easy": [
+        "Alps",
+        "Chocolate bars",
+        "Matterhorn",
+        "Geneva",
+        "Zurich",
+        "Fondue"
+      ],
+      "medium": [
+        "Red Cross",
+        "Army knife",
+        "Raclette",
+        "Heidi",
+        "Ski resorts",
+        "Franc"
+      ],
+      "hard": [
+        "Bern",
+        "Yodeling",
+        "Alphorn",
+        "William Tell",
+        "Cantons",
+        "CERN"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Thailand",
+        "Canada"
+      ],
+      "medium": [
+        "Norway",
+        "Germany"
+      ],
+      "hard": [
+        "Austria",
+        "Liechtenstein"
+      ]
+    }
+  },
+  {
+    "word": "Austria",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "medium",
+    "description": "A mountainous Central European country known for classical music and imperial palaces.",
+    "tags": [
+      "country",
+      "europe",
+      "central-europe",
+      "mountains"
+    ],
+    "hints": {
+      "easy": [
+        "Vienna",
+        "Mozart",
+        "Schnitzel",
+        "Sound of Music",
+        "Skiing",
+        "Waltz"
+      ],
+      "medium": [
+        "Salzburg",
+        "Strauss",
+        "Apple strudel",
+        "Habsburgs",
+        "Danube",
+        "Sachertorte"
+      ],
+      "hard": [
+        "Innsbruck",
+        "Schonbrunn",
+        "Hallstatt",
+        "Freud",
+        "Opera ball",
+        "Edelweiss"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Australia",
+        "Japan"
+      ],
+      "medium": [
+        "Hungary",
+        "Czechia"
+      ],
+      "hard": [
+        "Germany",
+        "Switzerland"
+      ]
+    }
+  },
+  {
+    "word": "Sweden",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "easy",
+    "description": "A large Scandinavian country known for flat-pack furniture, deep forests and catchy pop.",
+    "tags": [
+      "country",
+      "europe",
+      "scandinavia"
+    ],
+    "hints": {
+      "easy": [
+        "Stockholm",
+        "ABBA",
+        "Vikings",
+        "Northern lights",
+        "Meatballs",
+        "Midsummer"
+      ],
+      "medium": [
+        "Nobel Prize",
+        "Fika",
+        "Krona",
+        "Dala horse",
+        "Lapland",
+        "Gothenburg"
+      ],
+      "hard": [
+        "Ice hotel",
+        "Surstromming",
+        "Right to roam",
+        "Lagom",
+        "Gotland",
+        "Greta Thunberg"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Spain",
+        "Canada"
+      ],
+      "medium": [
+        "Finland",
+        "Iceland"
+      ],
+      "hard": [
+        "Norway",
+        "Denmark"
+      ]
+    }
+  },
+  {
+    "word": "Norway",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "easy",
+    "description": "A Scandinavian country of deep coastal inlets, long winters and the midnight sun.",
+    "tags": [
+      "country",
+      "europe",
+      "scandinavia"
+    ],
+    "hints": {
+      "easy": [
+        "Fjords",
+        "Oslo",
+        "Longships",
+        "Aurora",
+        "Trolls",
+        "Salmon"
+      ],
+      "medium": [
+        "Bergen",
+        "Oil wealth",
+        "Cross-country skiing",
+        "Krone",
+        "Edvard Munch",
+        "Lofoten"
+      ],
+      "hard": [
+        "Svalbard",
+        "Brown cheese",
+        "Stave churches",
+        "Amundsen",
+        "Lutefisk",
+        "Nobel Peace Prize"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kenya",
+        "Thailand"
+      ],
+      "medium": [
+        "Canada",
+        "Scotland"
+      ],
+      "hard": [
+        "Sweden",
+        "Iceland"
+      ]
+    }
+  },
+  {
+    "word": "Denmark",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "medium",
+    "description": "A small Scandinavian country of flat islands, famous for cycling and cosy living.",
+    "tags": [
+      "country",
+      "europe",
+      "scandinavia"
+    ],
+    "hints": {
+      "easy": [
+        "Copenhagen",
+        "Little Mermaid",
+        "Vikings",
+        "Hans Christian Andersen",
+        "Pastries",
+        "Tivoli Gardens"
+      ],
+      "medium": [
+        "Hygge",
+        "Toy bricks",
+        "Smorrebrod",
+        "Faroe Islands",
+        "Happiest nation",
+        "Cycling lanes"
+      ],
+      "hard": [
+        "Kronborg",
+        "Jutland",
+        "Aarhus",
+        "Rye bread",
+        "Queen Margrethe",
+        "Bog bodies"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mexico",
+        "Vietnam"
+      ],
+      "medium": [
+        "Netherlands",
+        "Iceland"
+      ],
+      "hard": [
+        "Sweden",
+        "Norway"
+      ]
+    }
+  },
+  {
+    "word": "Finland",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "medium",
+    "description": "A Nordic country of countless lakes and forests where winters are long and dark.",
+    "tags": [
+      "country",
+      "europe",
+      "nordic"
+    ],
+    "hints": {
+      "easy": [
+        "Helsinki",
+        "Saunas",
+        "Santa's village",
+        "Reindeer",
+        "Moomins",
+        "Heavy metal"
+      ],
+      "medium": [
+        "Rovaniemi",
+        "Sisu",
+        "Sibelius",
+        "Sami people",
+        "Wife carrying",
+        "Licorice"
+      ],
+      "hard": [
+        "Turku",
+        "Aland Islands",
+        "Kalevala",
+        "Suomenlinna",
+        "Air guitar contest",
+        "Karelian pies"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Spain",
+        "India"
+      ],
+      "medium": [
+        "Norway",
+        "Russia"
+      ],
+      "hard": [
+        "Sweden",
+        "Estonia"
+      ]
+    }
+  },
+  {
+    "word": "Iceland",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "medium",
+    "description": "A remote volcanic island nation in the North Atlantic just south of the Arctic Circle.",
+    "tags": [
+      "country",
+      "europe",
+      "nordic",
+      "island"
+    ],
+    "hints": {
+      "easy": [
+        "Reykjavik",
+        "Volcanoes",
+        "Geysers",
+        "Glaciers",
+        "Northern lights",
+        "Hot springs"
+      ],
+      "medium": [
+        "Blue Lagoon",
+        "Puffins",
+        "Elves",
+        "Waterfalls",
+        "Black sand beaches",
+        "Midnight sun"
+      ],
+      "hard": [
+        "Bjork",
+        "Fermented shark",
+        "Golden Circle",
+        "Eyjafjallajokull",
+        "Thingvellir",
+        "Sagas"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Jamaica",
+        "Egypt"
+      ],
+      "medium": [
+        "Ireland",
+        "Finland"
+      ],
+      "hard": [
+        "Norway",
+        "Greenland"
+      ]
+    }
+  },
+  {
+    "word": "Poland",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "medium",
+    "description": "A Central European country with a long, turbulent history and hearty dumpling dishes.",
+    "tags": [
+      "country",
+      "europe",
+      "central-europe"
+    ],
+    "hints": {
+      "easy": [
+        "Warsaw",
+        "Pierogi",
+        "Krakow",
+        "Chopin",
+        "Pope John Paul",
+        "Kielbasa"
+      ],
+      "medium": [
+        "Marie Curie",
+        "Zloty",
+        "Salt mine",
+        "Gdansk",
+        "Solidarity",
+        "Copernicus"
+      ],
+      "hard": [
+        "Wawel Castle",
+        "Bigos",
+        "Tatra Mountains",
+        "Bison forest",
+        "Paczki",
+        "Lech Walesa"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Thailand",
+        "Argentina"
+      ],
+      "medium": [
+        "Germany",
+        "Hungary"
+      ],
+      "hard": [
+        "Czechia",
+        "Ukraine"
+      ]
+    }
+  },
+  {
+    "word": "Portugal",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "easy",
+    "description": "A sunny country on the western edge of Europe, known for its great sea explorers.",
+    "tags": [
+      "country",
+      "europe",
+      "southern-europe"
+    ],
+    "hints": {
+      "easy": [
+        "Lisbon",
+        "Cristiano Ronaldo",
+        "Custard tarts",
+        "Porto",
+        "Fado",
+        "Algarve"
+      ],
+      "medium": [
+        "Vasco da Gama",
+        "Azulejo tiles",
+        "Salted cod",
+        "Madeira",
+        "Yellow trams",
+        "Cork oak"
+      ],
+      "hard": [
+        "Coimbra",
+        "Sintra",
+        "Azores",
+        "Escudo",
+        "Barcelos rooster",
+        "Henry the Navigator"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Japan",
+        "Kenya"
+      ],
+      "medium": [
+        "Italy",
+        "Greece"
+      ],
+      "hard": [
+        "Spain",
+        "Brazil"
+      ]
+    }
+  },
+  {
+    "word": "Ukraine",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "medium",
+    "description": "A large Eastern European country of wide wheat fields and golden-domed churches.",
+    "tags": [
+      "country",
+      "europe",
+      "eastern-europe"
+    ],
+    "hints": {
+      "easy": [
+        "Kyiv",
+        "Sunflowers",
+        "Borscht",
+        "Blue and yellow flag",
+        "Odesa",
+        "Chernobyl"
+      ],
+      "medium": [
+        "Dnipro River",
+        "Hryvnia",
+        "Varenyky",
+        "Cossacks",
+        "Carpathians",
+        "Embroidered shirts"
+      ],
+      "hard": [
+        "Lviv",
+        "Painted eggs",
+        "Bandura",
+        "Salo",
+        "Shevchenko",
+        "Tunnel of Love"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Canada",
+        "Argentina"
+      ],
+      "medium": [
+        "Poland",
+        "Romania"
+      ],
+      "hard": [
+        "Belarus",
+        "Russia"
+      ]
+    }
+  },
+  {
+    "word": "Hungary",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "medium",
+    "description": "A landlocked Central European country famous for spicy stews and its spa culture.",
+    "tags": [
+      "country",
+      "europe",
+      "central-europe",
+      "landlocked"
+    ],
+    "hints": {
+      "easy": [
+        "Budapest",
+        "Goulash",
+        "Paprika",
+        "Thermal baths",
+        "Rubik's Cube",
+        "Danube"
+      ],
+      "medium": [
+        "Lake Balaton",
+        "Forint",
+        "Parliament building",
+        "Chimney cake",
+        "Puszta plains",
+        "Hussars"
+      ],
+      "hard": [
+        "Magyars",
+        "Liszt",
+        "Houdini",
+        "Langos",
+        "Herend porcelain",
+        "Puli dogs"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Brazil",
+        "Japan"
+      ],
+      "medium": [
+        "Poland",
+        "Croatia"
+      ],
+      "hard": [
+        "Austria",
+        "Romania"
+      ]
+    }
+  },
+  {
+    "word": "Czechia",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "medium",
+    "description": "A landlocked Central European country famous for its fairy-tale capital and many castles.",
+    "tags": [
+      "country",
+      "europe",
+      "central-europe",
+      "landlocked"
+    ],
+    "hints": {
+      "easy": [
+        "Prague",
+        "Charles Bridge",
+        "Astronomical clock",
+        "Bohemia",
+        "Puppets",
+        "Crystal glass"
+      ],
+      "medium": [
+        "Koruna",
+        "Moravia",
+        "Kafka",
+        "Bread dumplings",
+        "Spa towns",
+        "Velvet Revolution"
+      ],
+      "hard": [
+        "Cesky Krumlov",
+        "Bone church",
+        "Little Mole cartoon",
+        "Trdelnik",
+        "Dvorak",
+        "Karlovy Vary"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Chile",
+        "Australia"
+      ],
+      "medium": [
+        "Poland",
+        "Hungary"
+      ],
+      "hard": [
+        "Slovakia",
+        "Austria"
+      ]
+    }
+  },
+  {
+    "word": "Romania",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "medium",
+    "description": "An Eastern European country of the Carpathian Mountains, linked with vampire legends.",
+    "tags": [
+      "country",
+      "europe",
+      "eastern-europe"
+    ],
+    "hints": {
+      "easy": [
+        "Dracula",
+        "Transylvania",
+        "Bucharest",
+        "Bran Castle",
+        "Black Sea",
+        "Gymnasts"
+      ],
+      "medium": [
+        "Danube Delta",
+        "Leu",
+        "Painted monasteries",
+        "Palace of Parliament",
+        "Sarmale",
+        "Brown bears"
+      ],
+      "hard": [
+        "Nadia Comaneci",
+        "Merry Cemetery",
+        "Vlad the Impaler",
+        "Mamaliga",
+        "Brancusi",
+        "Transfagarasan road"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Peru",
+        "Thailand"
+      ],
+      "medium": [
+        "Ukraine",
+        "Serbia"
+      ],
+      "hard": [
+        "Moldova",
+        "Bulgaria"
+      ]
+    }
+  },
+  {
+    "word": "Croatia",
+    "category": "geography_places",
+    "subcategory": "Countries of Europe",
+    "difficulty": "medium",
+    "description": "A Southeastern European country with a long Adriatic coastline and over a thousand islands.",
+    "tags": [
+      "country",
+      "europe",
+      "balkans"
+    ],
+    "hints": {
+      "easy": [
+        "Dubrovnik",
+        "Split",
+        "Dalmatians",
+        "Island hopping",
+        "Plitvice Lakes",
+        "Zagreb"
+      ],
+      "medium": [
+        "Kuna",
+        "Checkered shirts",
+        "Game of Thrones",
+        "Necktie origin",
+        "Truffles",
+        "Diocletian's Palace"
+      ],
+      "hard": [
+        "Hvar",
+        "Sea organ",
+        "Peka",
+        "Dubrovnik walls",
+        "Luka Modric",
+        "Pag cheese"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Norway",
+        "Brazil"
+      ],
+      "medium": [
+        "Greece",
+        "Italy"
+      ],
+      "hard": [
+        "Slovenia",
+        "Montenegro"
+      ]
+    }
+  },
+  {
+    "word": "Singapore",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "medium",
+    "description": "A tiny, wealthy island city-state in Southeast Asia known for its strict rules.",
+    "tags": [
+      "country",
+      "asia",
+      "southeast-asia",
+      "city-state"
+    ],
+    "hints": {
+      "easy": [
+        "Marina Bay Sands",
+        "Merlion",
+        "Hawker centres",
+        "Chewing gum ban",
+        "Changi Airport",
+        "Gardens by the Bay"
+      ],
+      "medium": [
+        "Lion city",
+        "Sentosa",
+        "Chili crab",
+        "Orchard Road",
+        "Raffles",
+        "Kaya toast"
+      ],
+      "hard": [
+        "Lee Kuan Yew",
+        "Supertrees",
+        "Little India",
+        "Laksa",
+        "Night race",
+        "Strait of Malacca"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kenya",
+        "Peru"
+      ],
+      "medium": [
+        "Taiwan",
+        "Indonesia"
+      ],
+      "hard": [
+        "Malaysia",
+        "Brunei"
+      ]
+    }
+  },
+  {
+    "word": "Malaysia",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "medium",
+    "description": "A Southeast Asian country split between a peninsula and the northern part of Borneo.",
+    "tags": [
+      "country",
+      "asia",
+      "southeast-asia"
+    ],
+    "hints": {
+      "easy": [
+        "Kuala Lumpur",
+        "Twin towers",
+        "Rainforest",
+        "Nasi lemak",
+        "Langkawi",
+        "Penang"
+      ],
+      "medium": [
+        "Ringgit",
+        "Batu Caves",
+        "Cameron Highlands",
+        "Durian",
+        "Rafflesia",
+        "Orangutan"
+      ],
+      "hard": [
+        "Putrajaya",
+        "Malacca",
+        "Mount Kinabalu",
+        "Teh tarik",
+        "Sabah",
+        "Wau kite"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Brazil",
+        "Kenya"
+      ],
+      "medium": [
+        "Thailand",
+        "Philippines"
+      ],
+      "hard": [
+        "Indonesia",
+        "Singapore"
+      ]
+    }
+  },
+  {
+    "word": "New Zealand",
+    "category": "geography_places",
+    "subcategory": "Countries of Oceania",
+    "difficulty": "easy",
+    "description": "A South Pacific island nation of dramatic landscapes, with more sheep than people.",
+    "tags": [
+      "country",
+      "oceania",
+      "island"
+    ],
+    "hints": {
+      "easy": [
+        "Kiwi bird",
+        "All Blacks",
+        "Lord of the Rings",
+        "Auckland",
+        "Maori",
+        "Haka"
+      ],
+      "medium": [
+        "Bungee jumping",
+        "Wellington",
+        "Milford Sound",
+        "Hobbiton",
+        "Pavlova",
+        "Silver fern"
+      ],
+      "hard": [
+        "Rotorua",
+        "Queenstown",
+        "Hangi",
+        "Tui bird",
+        "Edmund Hillary",
+        "Waitangi Day"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Japan",
+        "Canada"
+      ],
+      "medium": [
+        "Fiji",
+        "Scotland"
+      ],
+      "hard": [
+        "Australia",
+        "Samoa"
+      ]
+    }
+  },
+  {
+    "word": "Fiji",
+    "category": "geography_places",
+    "subcategory": "Countries of Oceania",
+    "difficulty": "medium",
+    "description": "A South Pacific island nation of coral reefs, palm-fringed beaches and friendly villages.",
+    "tags": [
+      "country",
+      "oceania",
+      "island",
+      "tropical"
+    ],
+    "hints": {
+      "easy": [
+        "Bula",
+        "Suva",
+        "Rugby sevens",
+        "Tropical resorts",
+        "Snorkelling",
+        "Coconuts"
+      ],
+      "medium": [
+        "Kava ceremony",
+        "Lovo feast",
+        "Fire walking",
+        "Yasawa Islands",
+        "Sulu skirt",
+        "Mamanuca"
+      ],
+      "hard": [
+        "Kokoda",
+        "Meke dance",
+        "Cast Away island",
+        "Taveuni",
+        "Sugar cane",
+        "Hibiscus"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Norway",
+        "Peru"
+      ],
+      "medium": [
+        "Jamaica",
+        "Maldives"
+      ],
+      "hard": [
+        "Samoa",
+        "Tonga"
+      ]
+    }
+  },
+  {
+    "word": "Bhutan",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "hard",
+    "description": "A small Himalayan kingdom that measures its success by the wellbeing of its people.",
+    "tags": [
+      "country",
+      "asia",
+      "south-asia",
+      "mountains"
+    ],
+    "hints": {
+      "easy": [
+        "Thunder dragon",
+        "Tiger's Nest",
+        "Monasteries",
+        "Thimphu",
+        "Archery",
+        "Gross National Happiness"
+      ],
+      "medium": [
+        "Paro",
+        "Ngultrum",
+        "Gho robe",
+        "Carbon negative",
+        "Red rice",
+        "Masked dances"
+      ],
+      "hard": [
+        "Ema datshi",
+        "Takin",
+        "Dzongs",
+        "Punakha",
+        "Tourist fee",
+        "Black-necked cranes"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Peru",
+        "Morocco"
+      ],
+      "medium": [
+        "Mongolia",
+        "Laos"
+      ],
+      "hard": [
+        "Nepal",
+        "India"
+      ]
+    }
+  },
+  {
+    "word": "Afghanistan",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "medium",
+    "description": "A rugged, landlocked Central Asian country of high mountains on the ancient Silk Road.",
+    "tags": [
+      "country",
+      "asia",
+      "central-asia",
+      "landlocked"
+    ],
+    "hints": {
+      "easy": [
+        "Kabul",
+        "Kite flying",
+        "Hindu Kush",
+        "Pomegranates",
+        "Carpets",
+        "Kandahar"
+      ],
+      "medium": [
+        "Pashto",
+        "Dari",
+        "Buzkashi",
+        "Bamiyan Buddhas",
+        "Lapis lazuli",
+        "Kabuli pulao"
+      ],
+      "hard": [
+        "Herat",
+        "Wakhan Corridor",
+        "Saffron fields",
+        "Rumi",
+        "Chapan robe",
+        "Kite Runner"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Brazil",
+        "Ireland"
+      ],
+      "medium": [
+        "Iran",
+        "Uzbekistan"
+      ],
+      "hard": [
+        "Pakistan",
+        "Tajikistan"
+      ]
+    }
+  },
+  {
+    "word": "Myanmar",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "hard",
+    "description": "A Southeast Asian country famous for thousands of golden Buddhist pagodas and temples.",
+    "tags": [
+      "country",
+      "asia",
+      "southeast-asia"
+    ],
+    "hints": {
+      "easy": [
+        "Yangon",
+        "Bagan",
+        "Shwedagon",
+        "Monks",
+        "Thanaka paste",
+        "Irrawaddy River"
+      ],
+      "medium": [
+        "Mandalay",
+        "Kyat",
+        "Longyi",
+        "Inle Lake",
+        "Leg rowers",
+        "Tea leaf salad"
+      ],
+      "hard": [
+        "Naypyidaw",
+        "Golden Rock",
+        "Mohinga",
+        "Aung San",
+        "Rubies",
+        "Chinlone"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Morocco",
+        "Chile"
+      ],
+      "medium": [
+        "Bangladesh",
+        "Vietnam"
+      ],
+      "hard": [
+        "Thailand",
+        "Cambodia"
+      ]
+    }
+  },
+  {
+    "word": "Cambodia",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "medium",
+    "description": "A Southeast Asian kingdom famous for the vast stone temple complex of an ancient empire.",
+    "tags": [
+      "country",
+      "asia",
+      "southeast-asia"
+    ],
+    "hints": {
+      "easy": [
+        "Angkor Wat",
+        "Phnom Penh",
+        "Siem Reap",
+        "Mekong River",
+        "Floating villages",
+        "Tuk tuks"
+      ],
+      "medium": [
+        "Khmer",
+        "Riel",
+        "Tonle Sap",
+        "Amok fish",
+        "Apsara dance",
+        "Bayon faces"
+      ],
+      "hard": [
+        "Ta Prohm",
+        "Fried tarantulas",
+        "Kampot pepper",
+        "Sihanoukville",
+        "Krama scarf",
+        "Water festival"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Brazil",
+        "Kenya"
+      ],
+      "medium": [
+        "Myanmar",
+        "Indonesia"
+      ],
+      "hard": [
+        "Thailand",
+        "Laos"
+      ]
+    }
+  },
+  {
+    "word": "Laos",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "hard",
+    "description": "A landlocked Southeast Asian country of misty mountains, quiet temples and a mighty river.",
+    "tags": [
+      "country",
+      "asia",
+      "southeast-asia",
+      "landlocked"
+    ],
+    "hints": {
+      "easy": [
+        "Vientiane",
+        "Luang Prabang",
+        "Sticky rice",
+        "Mekong River",
+        "Buddhist monks",
+        "Elephants"
+      ],
+      "medium": [
+        "Kip",
+        "Alms giving",
+        "Plain of Jars",
+        "Larb salad",
+        "Kuang Si Falls",
+        "Vang Vieng"
+      ],
+      "hard": [
+        "Pha That Luang",
+        "Baci ceremony",
+        "Khene",
+        "Four Thousand Islands",
+        "River tubing",
+        "Bolaven Plateau"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Argentina",
+        "Ireland"
+      ],
+      "medium": [
+        "Myanmar",
+        "Vietnam"
+      ],
+      "hard": [
+        "Cambodia",
+        "Thailand"
+      ]
+    }
+  },
+  {
+    "word": "Taiwan",
+    "category": "geography_places",
+    "subcategory": "Countries of Asia",
+    "difficulty": "medium",
+    "description": "A self-governing East Asian island known for night markets and advanced chip making.",
+    "tags": [
+      "country",
+      "asia",
+      "east-asia",
+      "island"
+    ],
+    "hints": {
+      "easy": [
+        "Taipei",
+        "Bubble tea",
+        "Scooters",
+        "Sky lanterns",
+        "Soup dumplings",
+        "Hot springs"
+      ],
+      "medium": [
+        "Sun Moon Lake",
+        "Taroko Gorge",
+        "Stinky tofu",
+        "Jiufen",
+        "Kaohsiung",
+        "Semiconductors"
+      ],
+      "hard": [
+        "Alishan",
+        "Beef noodle soup",
+        "Pineapple cakes",
+        "Mazu",
+        "Oolong tea",
+        "Kenting"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Brazil",
+        "Greece"
+      ],
+      "medium": [
+        "Philippines",
+        "Vietnam"
+      ],
+      "hard": [
+        "Japan",
+        "South Korea"
+      ]
+    }
+  },
+  {
+    "word": "Qatar",
+    "category": "geography_places",
+    "subcategory": "Countries of the Middle East",
+    "difficulty": "medium",
+    "description": "A small, very wealthy Gulf country on a desert peninsula, rich in natural gas.",
+    "tags": [
+      "country",
+      "asia",
+      "middle-east",
+      "gulf"
+    ],
+    "hints": {
+      "easy": [
+        "Doha",
+        "World Cup host",
+        "Desert",
+        "Skyscrapers",
+        "Pearl diving",
+        "Camel racing"
+      ],
+      "medium": [
+        "Riyal",
+        "Souq Waqif",
+        "Museum of Islamic Art",
+        "Falcons",
+        "Dhow boats",
+        "Inland sea"
+      ],
+      "hard": [
+        "Lusail",
+        "Katara village",
+        "Emir",
+        "Machboos",
+        "Maroon flag",
+        "Al Thani"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ireland",
+        "Peru"
+      ],
+      "medium": [
+        "Oman",
+        "Saudi Arabia"
+      ],
+      "hard": [
+        "Bahrain",
+        "Kuwait"
+      ]
+    }
+  },
+  {
+    "word": "Oman",
+    "category": "geography_places",
+    "subcategory": "Countries of the Middle East",
+    "difficulty": "hard",
+    "description": "A Gulf sultanate on the Arabian Peninsula, known for rugged mountains and ancient forts.",
+    "tags": [
+      "country",
+      "asia",
+      "middle-east",
+      "gulf"
+    ],
+    "hints": {
+      "easy": [
+        "Muscat",
+        "Frankincense",
+        "Desert dunes",
+        "Sultan",
+        "Dhows",
+        "Wadis"
+      ],
+      "medium": [
+        "Rial",
+        "Khanjar dagger",
+        "Nizwa",
+        "Wahiba Sands",
+        "Sinbad",
+        "Turtle beaches"
+      ],
+      "hard": [
+        "Salalah",
+        "Musandam",
+        "Halwa",
+        "Shuwa",
+        "Kumma cap",
+        "Jebel Akhdar"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Peru",
+        "Norway"
+      ],
+      "medium": [
+        "Jordan",
+        "Saudi Arabia"
+      ],
+      "hard": [
+        "Yemen",
+        "Qatar"
+      ]
+    }
+  }
+]

@@ -1,0 +1,4272 @@
+[
+  {
+    "word": "Kuwait",
+    "category": "geography_places",
+    "subcategory": "Kuwait",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Gulf nation",
+        "Small country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Oil rich",
+        "Desert heat",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Iconic water towers",
+        "Gulf coast",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Qatar",
+        "Bahrain"
+      ],
+      "medium": [
+        "Oman",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Lebanon",
+    "category": "geography_places",
+    "subcategory": "Lebanon",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Middle eastern nation",
+        "Mediterranean country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Cedar trees",
+        "Mountain and sea",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Hummus and tabbouleh",
+        "Ancient ports",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Syria",
+        "Jordan"
+      ],
+      "medium": [
+        "Cyprus",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Syria",
+    "category": "geography_places",
+    "subcategory": "Syria",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Middle eastern nation",
+        "Ancient land",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Ancient trade cities",
+        "Old souks",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Rose water",
+        "Ancient columns",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Lebanon",
+        "Iraq"
+      ],
+      "medium": [
+        "Jordan",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Algeria",
+    "category": "geography_places",
+    "subcategory": "Algeria",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "North african nation",
+        "Largest african country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Sahara desert",
+        "French colonial past",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Couscous dishes",
+        "Green white flag",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Morocco",
+        "Tunisia"
+      ],
+      "medium": [
+        "Libya",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Tunisia",
+    "category": "geography_places",
+    "subcategory": "Tunisia",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "North african nation",
+        "Mediterranean country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Desert movie sets",
+        "Blue and white town",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Couscous",
+        "Ancient carthage",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Morocco",
+        "Algeria"
+      ],
+      "medium": [
+        "Libya",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Libya",
+    "category": "geography_places",
+    "subcategory": "Libya",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "North african nation",
+        "Desert country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Mostly sahara",
+        "Oil rich",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Ancient ruins",
+        "Mediterranean coast",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Egypt",
+        "Tunisia"
+      ],
+      "medium": [
+        "Chad",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Sudan",
+    "category": "geography_places",
+    "subcategory": "Sudan",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "African nation",
+        "Nile country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Many pyramids",
+        "Desert land",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Two niles meet",
+        "Hot climate",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Egypt",
+        "Chad"
+      ],
+      "medium": [
+        "Ethiopia",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Uganda",
+    "category": "geography_places",
+    "subcategory": "Uganda",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "East african nation",
+        "Pearl of africa",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Mountain gorillas",
+        "Source of the nile",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Lake victoria",
+        "Crested crane",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kenya",
+        "Rwanda"
+      ],
+      "medium": [
+        "Tanzania",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Rwanda",
+    "category": "geography_places",
+    "subcategory": "Rwanda",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "East african nation",
+        "Land of hills",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Mountain gorillas",
+        "Very clean",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Thousand hills",
+        "Coffee farms",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Uganda",
+        "Burundi"
+      ],
+      "medium": [
+        "Kenya",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Zimbabwe",
+    "category": "geography_places",
+    "subcategory": "Zimbabwe",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Southern african nation",
+        "Landlocked country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Giant waterfall",
+        "Ancient stone ruins",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Mighty falls",
+        "Rich wildlife",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Zambia",
+        "Botswana"
+      ],
+      "medium": [
+        "Mozambique",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Zambia",
+    "category": "geography_places",
+    "subcategory": "Zambia",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Southern african nation",
+        "Landlocked country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Shares giant falls",
+        "Copper mining",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Walking safaris",
+        "River rafting",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Zimbabwe",
+        "Malawi"
+      ],
+      "medium": [
+        "Botswana",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Botswana",
+    "category": "geography_places",
+    "subcategory": "Botswana",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Southern african nation",
+        "Safari country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Elephant haven",
+        "Diamond mines",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "River delta",
+        "Kalahari desert",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Namibia",
+        "Zimbabwe"
+      ],
+      "medium": [
+        "Zambia",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Namibia",
+    "category": "geography_places",
+    "subcategory": "Namibia",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Southern african nation",
+        "Desert country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Tall red dunes",
+        "Skeleton coast",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Desert elephants",
+        "Oldest desert",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Botswana",
+        "Angola"
+      ],
+      "medium": [
+        "South africa",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Senegal",
+    "category": "geography_places",
+    "subcategory": "Senegal",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "West african nation",
+        "Coastal country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Pink lake",
+        "Wrestling sport",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Colorful fabrics",
+        "Thieboudienne dish",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Gambia",
+        "Mali"
+      ],
+      "medium": [
+        "Ghana",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Cameroon",
+    "category": "geography_places",
+    "subcategory": "Cameroon",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Central african nation",
+        "Diverse country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Africa in miniature",
+        "Football lions",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Rainforests and volcano",
+        "Many languages",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Nigeria",
+        "Gabon"
+      ],
+      "medium": [
+        "Chad",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Somalia",
+    "category": "geography_places",
+    "subcategory": "Somalia",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "East african nation",
+        "Horn of africa",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Longest african coastline",
+        "Camel herders",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Pirate history",
+        "Arid land",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ethiopia",
+        "Kenya"
+      ],
+      "medium": [
+        "Yemen",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Ecuador",
+    "category": "geography_places",
+    "subcategory": "Ecuador",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "South american nation",
+        "Equator country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Unique island wildlife",
+        "Banana exporter",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Giant tortoises",
+        "Volcano avenue",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Peru",
+        "Colombia"
+      ],
+      "medium": [
+        "Bolivia",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Bolivia",
+    "category": "geography_places",
+    "subcategory": "Bolivia",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "South american nation",
+        "Landlocked country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Salt flats",
+        "High altitude capital",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Llamas",
+        "Bowler hats",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Peru",
+        "Paraguay"
+      ],
+      "medium": [
+        "Chile",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Uruguay",
+    "category": "geography_places",
+    "subcategory": "Uruguay",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "South american nation",
+        "Small country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "First world cup host",
+        "Mate drinkers",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Beef lovers",
+        "Beach resorts",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Argentina",
+        "Paraguay"
+      ],
+      "medium": [
+        "Brazil",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Paraguay",
+    "category": "geography_places",
+    "subcategory": "Paraguay",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "South american nation",
+        "Landlocked country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Huge dam",
+        "Two languages",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Harp music",
+        "Lace weaving",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Uruguay",
+        "Bolivia"
+      ],
+      "medium": [
+        "Argentina",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Panama",
+    "category": "geography_places",
+    "subcategory": "Panama",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Central american nation",
+        "Isthmus country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Famous canal",
+        "Links two oceans",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Straw hats",
+        "Rainforest",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Costa rica",
+        "Colombia"
+      ],
+      "medium": [
+        "Nicaragua",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Costa rica",
+    "category": "geography_places",
+    "subcategory": "Costa rica",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Central isthmus nation",
+        "Green country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "No army",
+        "Pura vida",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Cloud forests",
+        "Sloths and toucans",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Panama",
+        "Nicaragua"
+      ],
+      "medium": [
+        "Belize",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Guatemala",
+    "category": "geography_places",
+    "subcategory": "Guatemala",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Central american nation",
+        "Mayan country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Mayan ruins",
+        "Colorful textiles",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Volcano lakes",
+        "Quetzal bird",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Honduras",
+        "Mexico"
+      ],
+      "medium": [
+        "Belize",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Honduras",
+    "category": "geography_places",
+    "subcategory": "Honduras",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Central american nation",
+        "Tropical country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Mayan ruins",
+        "Coral reef islands",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Banana plantations",
+        "Rainforest",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Guatemala",
+        "Nicaragua"
+      ],
+      "medium": [
+        "Belize",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Haiti",
+    "category": "geography_places",
+    "subcategory": "Haiti",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Caribbean nation",
+        "Island country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "First black republic",
+        "Vibrant art",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Shares an island",
+        "Mountain land",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cuba",
+        "Jamaica"
+      ],
+      "medium": [
+        "Dominica",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Bahamas",
+    "category": "geography_places",
+    "subcategory": "Bahamas",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Caribbean nation",
+        "Island chain",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Swimming pigs",
+        "Clear water",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Pink sand beaches",
+        "Coral reefs",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Jamaica",
+        "Bermuda"
+      ],
+      "medium": [
+        "Cuba",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Barbados",
+    "category": "geography_places",
+    "subcategory": "Barbados",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Caribbean nation",
+        "Island country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Cricket lovers",
+        "Pop star home",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Flying fish",
+        "Sugarcane history",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Jamaica",
+        "Trinidad"
+      ],
+      "medium": [
+        "Bahamas",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Belarus",
+    "category": "geography_places",
+    "subcategory": "Belarus",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "European nation",
+        "Landlocked country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Ancient forests",
+        "Bison reserve",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Red and green flag",
+        "Flat lands",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ukraine",
+        "Poland"
+      ],
+      "medium": [
+        "Lithuania",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Lithuania",
+    "category": "geography_places",
+    "subcategory": "Lithuania",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Baltic nation",
+        "European country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Basketball crazy",
+        "Hill of crosses",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Amber jewelry",
+        "Baltic coast",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Latvia",
+        "Estonia"
+      ],
+      "medium": [
+        "Poland",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Latvia",
+    "category": "geography_places",
+    "subcategory": "Latvia",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Baltic nation",
+        "European country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Art nouveau buildings",
+        "Song festivals",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Amber coast",
+        "Dense forests",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Lithuania",
+        "Estonia"
+      ],
+      "medium": [
+        "Finland",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Estonia",
+    "category": "geography_places",
+    "subcategory": "Estonia",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Baltic nation",
+        "Digital country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Online voting",
+        "Startup hub",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Medieval old town",
+        "Saunas",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Latvia",
+        "Finland"
+      ],
+      "medium": [
+        "Lithuania",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Slovakia",
+    "category": "geography_places",
+    "subcategory": "Slovakia",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "European nation",
+        "Central country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Many castles",
+        "Mountain hiking",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Folk traditions",
+        "Wooden churches",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Czechia",
+        "Hungary"
+      ],
+      "medium": [
+        "Slovenia",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Slovenia",
+    "category": "geography_places",
+    "subcategory": "Slovenia",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "European nation",
+        "Green country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Lake with island church",
+        "Caves",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Alpine meadows",
+        "Honey bees",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Croatia",
+        "Slovakia"
+      ],
+      "medium": [
+        "Austria",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Serbia",
+    "category": "geography_places",
+    "subcategory": "Serbia",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "European nation",
+        "Balkan country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Tennis star home",
+        "Lively nightlife",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Grilled meats",
+        "Danube rivers",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Croatia",
+        "Bosnia"
+      ],
+      "medium": [
+        "Bulgaria",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Bulgaria",
+    "category": "geography_places",
+    "subcategory": "Bulgaria",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "European nation",
+        "Balkan country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Rose oil producer",
+        "Yogurt origins",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Black sea coast",
+        "Painted monasteries",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Romania",
+        "Serbia"
+      ],
+      "medium": [
+        "Greece",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Albania",
+    "category": "geography_places",
+    "subcategory": "Albania",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "European nation",
+        "Balkan country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Concrete bunkers",
+        "Hidden beaches",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Double headed eagle",
+        "Mountain villages",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Greece",
+        "Kosovo"
+      ],
+      "medium": [
+        "Montenegro",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Montenegro",
+    "category": "geography_places",
+    "subcategory": "Montenegro",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "European nation",
+        "Small country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Dramatic bay",
+        "Black mountains",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Walled coastal towns",
+        "Adriatic beaches",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Albania",
+        "Croatia"
+      ],
+      "medium": [
+        "Serbia",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Cyprus",
+    "category": "geography_places",
+    "subcategory": "Cyprus",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Island nation",
+        "Mediterranean country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Divided island",
+        "Sunny beaches",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Halloumi cheese",
+        "Ancient mosaics",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Greece",
+        "Malta"
+      ],
+      "medium": [
+        "Lebanon",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Malta",
+    "category": "geography_places",
+    "subcategory": "Malta",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Island nation",
+        "Tiny country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Knights history",
+        "Ancient temples",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Golden limestone",
+        "Blue lagoon",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cyprus",
+        "Sicily"
+      ],
+      "medium": [
+        "Greece",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Luxembourg",
+    "category": "geography_places",
+    "subcategory": "Luxembourg",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "European nation",
+        "Tiny country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Very rich",
+        "Banking hub",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Grand duchy",
+        "Castle towns",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Belgium",
+        "Monaco"
+      ],
+      "medium": [
+        "Liechtenstein",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Monaco",
+    "category": "geography_places",
+    "subcategory": "Monaco",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "European nation",
+        "Tiny country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Glamorous casinos",
+        "Super rich",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Racing grand prix",
+        "Royal palace",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Luxembourg",
+        "Andorra"
+      ],
+      "medium": [
+        "San marino",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Vatican",
+    "category": "geography_places",
+    "subcategory": "Vatican",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "City state",
+        "Smallest country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Home of the pope",
+        "Holy see",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Famous painted ceiling",
+        "Swiss guards",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Monaco",
+        "Malta"
+      ],
+      "medium": [
+        "San marino",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Andorra",
+    "category": "geography_places",
+    "subcategory": "Andorra",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "European nation",
+        "Mountain country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Duty free shopping",
+        "Ski slopes",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Between two countries",
+        "Tiny principality",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Monaco",
+        "Liechtenstein"
+      ],
+      "medium": [
+        "Luxembourg",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Georgia",
+    "category": "geography_places",
+    "subcategory": "Georgia",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Caucasus nation",
+        "Mountain country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Vineyard cradle",
+        "Ancient churches",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Cheesy bread",
+        "Polyphonic singing",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Armenia",
+        "Azerbaijan"
+      ],
+      "medium": [
+        "Turkey",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Armenia",
+    "category": "geography_places",
+    "subcategory": "Armenia",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Caucasus nation",
+        "Ancient country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "First christian nation",
+        "Ancient alphabet",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Apricot symbol",
+        "Mountain monasteries",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Georgia",
+        "Azerbaijan"
+      ],
+      "medium": [
+        "Iran",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Azerbaijan",
+    "category": "geography_places",
+    "subcategory": "Azerbaijan",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Caucasus nation",
+        "Land of fire",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Oil fields",
+        "Flame towers",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Burning hillsides",
+        "Carpet weaving",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Georgia",
+        "Armenia"
+      ],
+      "medium": [
+        "Turkey",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Uzbekistan",
+    "category": "geography_places",
+    "subcategory": "Uzbekistan",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Central asian nation",
+        "Silk road country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Blue tiled cities",
+        "Ancient caravan routes",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Plov rice",
+        "Domed mosques",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kazakhstan",
+        "Tajikistan"
+      ],
+      "medium": [
+        "Turkmenistan",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Tajikistan",
+    "category": "geography_places",
+    "subcategory": "Tajikistan",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Central asian nation",
+        "Mountain country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Roof of the world",
+        "Mostly mountains",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "High passes",
+        "Turquoise lakes",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kyrgyzstan",
+        "Uzbekistan"
+      ],
+      "medium": [
+        "Afghanistan",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Kyrgyzstan",
+    "category": "geography_places",
+    "subcategory": "Kyrgyzstan",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Central asian nation",
+        "Mountain country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Nomadic yurts",
+        "Horse games",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Alpine lakes",
+        "Felt carpets",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kazakhstan",
+        "Tajikistan"
+      ],
+      "medium": [
+        "Mongolia",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Turkmenistan",
+    "category": "geography_places",
+    "subcategory": "Turkmenistan",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Central asian nation",
+        "Desert country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Gas crater",
+        "Marble city",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Burning crater",
+        "Carpet traditions",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Uzbekistan",
+        "Kazakhstan"
+      ],
+      "medium": [
+        "Iran",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Brunei",
+    "category": "geography_places",
+    "subcategory": "Brunei",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Asian nation",
+        "Small sultanate",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Oil rich",
+        "Water villages",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Golden domed mosque",
+        "Rainforest",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Malaysia",
+        "Singapore"
+      ],
+      "medium": [
+        "Qatar",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Samoa",
+    "category": "geography_places",
+    "subcategory": "Samoa",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Island nation",
+        "Pacific country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Rugby lovers",
+        "Traditional tattoos",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Open sided huts",
+        "Lush volcanic islands",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tonga",
+        "Fiji"
+      ],
+      "medium": [
+        "Tahiti",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Tonga",
+    "category": "geography_places",
+    "subcategory": "Tonga",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Island nation",
+        "Pacific kingdom",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Rugby lovers",
+        "Royal family",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Humpback whales",
+        "Coral islands",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Samoa",
+        "Fiji"
+      ],
+      "medium": [
+        "Vanuatu",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Vanuatu",
+    "category": "geography_places",
+    "subcategory": "Vanuatu",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Island nation",
+        "Pacific country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Active volcanoes",
+        "Land diving ritual",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Coral reefs",
+        "Tribal villages",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Fiji",
+        "Samoa"
+      ],
+      "medium": [
+        "Tonga",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Greenland",
+    "category": "geography_places",
+    "subcategory": "Greenland",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Arctic island",
+        "Largest island",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Mostly ice",
+        "Inuit culture",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Glaciers and icebergs",
+        "Northern lights",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Iceland",
+        "Canada"
+      ],
+      "medium": [
+        "Norway",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "United states",
+    "category": "geography_places",
+    "subcategory": "United states",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "North american nation",
+        "Superpower",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Fifty regions",
+        "Hollywood movies",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Stars and stripes",
+        "Statue of liberty",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Canada",
+        "Mexico"
+      ],
+      "medium": [
+        "England",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Chad",
+    "category": "geography_places",
+    "subcategory": "Chad",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Central african nation",
+        "Landlocked country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Shrinking lake",
+        "Sahara edge",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Desert nomads",
+        "Blue yellow red",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Niger",
+        "Sudan"
+      ],
+      "medium": [
+        "Libya",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Niger",
+    "category": "geography_places",
+    "subcategory": "Niger",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "West african nation",
+        "Landlocked country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Mostly desert",
+        "Giraffe reserves",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Tuareg nomads",
+        "Orange disc flag",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mali",
+        "Chad"
+      ],
+      "medium": [
+        "Burkina faso",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Angola",
+    "category": "geography_places",
+    "subcategory": "Angola",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Southern african nation",
+        "Coastal country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Oil producer",
+        "Portuguese speaking",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Huge waterfalls",
+        "Kizomba dance",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Namibia",
+        "Zambia"
+      ],
+      "medium": [
+        "Mozambique",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Mozambique",
+    "category": "geography_places",
+    "subcategory": "Mozambique",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Southeast african nation",
+        "Coastal country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Long coastline",
+        "Portuguese speaking",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Rifle on flag",
+        "Island archipelagos",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tanzania",
+        "Madagascar"
+      ],
+      "medium": [
+        "Malawi",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Malawi",
+    "category": "geography_places",
+    "subcategory": "Malawi",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Southeast african nation",
+        "Warm heart",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Huge lake",
+        "Very friendly",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Colorful cichlid fish",
+        "Rising sun flag",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Zambia",
+        "Mozambique"
+      ],
+      "medium": [
+        "Tanzania",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Ivory coast",
+    "category": "geography_places",
+    "subcategory": "Ivory coast",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "West african nation",
+        "Cocoa giant",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Football stars",
+        "Cocoa exporter",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Huge basilica",
+        "Orange white green",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ghana",
+        "Liberia"
+      ],
+      "medium": [
+        "Senegal",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Eritrea",
+    "category": "geography_places",
+    "subcategory": "Eritrea",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "East african nation",
+        "Red sea country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Art deco capital",
+        "Coffee ceremonies",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Italian heritage",
+        "Red sea coast",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ethiopia",
+        "Djibouti"
+      ],
+      "medium": [
+        "Sudan",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Liberia",
+    "category": "geography_places",
+    "subcategory": "Liberia",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "West african nation",
+        "Founded by freed people",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Lone star flag",
+        "Rubber plantations",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Atlantic beaches",
+        "Rainforests",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sierra leone",
+        "Ghana"
+      ],
+      "medium": [
+        "Guinea",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Sierra leone",
+    "category": "geography_places",
+    "subcategory": "Sierra leone",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "West african nation",
+        "Coastal country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Diamond mines",
+        "Freetown capital",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Lion mountains",
+        "Sandy beaches",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Liberia",
+        "Guinea"
+      ],
+      "medium": [
+        "Gambia",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Gambia",
+    "category": "geography_places",
+    "subcategory": "Gambia",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "West african nation",
+        "Smallest mainland",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Follows a river",
+        "Bird watching",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Thin river shape",
+        "Smiling coast",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Senegal",
+        "Guinea"
+      ],
+      "medium": [
+        "Sierra leone",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Gabon",
+    "category": "geography_places",
+    "subcategory": "Gabon",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Central african nation",
+        "Rainforest country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Surfing hippos",
+        "National parks",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Dense forests",
+        "Lowland gorillas",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cameroon",
+        "Congo"
+      ],
+      "medium": [
+        "Angola",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Nicaragua",
+    "category": "geography_places",
+    "subcategory": "Nicaragua",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Central american nation",
+        "Lakes and volcanoes",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Colonial towns",
+        "Volcano boarding",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Huge freshwater lake",
+        "Ash slopes",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Honduras",
+        "Costa rica"
+      ],
+      "medium": [
+        "Panama",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "El salvador",
+    "category": "geography_places",
+    "subcategory": "El salvador",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Central american nation",
+        "Smallest isthmus country",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Surfing beaches",
+        "Pupusas",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Volcano chain",
+        "Coffee farms",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Honduras",
+        "Guatemala"
+      ],
+      "medium": [
+        "Nicaragua",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  },
+  {
+    "word": "Belize",
+    "category": "geography_places",
+    "subcategory": "Belize",
+    "difficulty": "hard",
+    "description": "A nation with rich cultural heritage and varied geography.",
+    "tags": [
+      "nation",
+      "rich",
+      "cultural",
+      "heritage",
+      "varied",
+      "geography"
+    ],
+    "hints": {
+      "easy": [
+        "Central american nation",
+        "Caribbean coast",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Barrier reef",
+        "English speaking",
+        "associated",
+        "connected",
+        "linked",
+        "cultural",
+        "notable",
+        "renowned"
+      ],
+      "hard": [
+        "Blue hole dive",
+        "Mayan ruins",
+        "celebrated",
+        "prestigious",
+        "distinguished",
+        "famed",
+        "reputed",
+        "acclaimed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Guatemala",
+        "Honduras"
+      ],
+      "medium": [
+        "Jamaica",
+        "India"
+      ],
+      "hard": [
+        "China",
+        "Japan"
+      ]
+    }
+  }
+]

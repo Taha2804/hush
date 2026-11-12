@@ -1,0 +1,2502 @@
+[
+  {
+    "word": "Leotard",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Swimsuit",
+        "Tights"
+      ],
+      "medium": [
+        "Unitard",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Tutu",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Skirt",
+        "Leotard"
+      ],
+      "medium": [
+        "Gown",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Iota"
+      ]
+    }
+  },
+  {
+    "word": "Gown",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Dress",
+        "Robe"
+      ],
+      "medium": [
+        "Tuxedo",
+        "Jacket"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Wedding dress",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Gown",
+        "Veil"
+      ],
+      "medium": [
+        "Lehenga",
+        "Jacket"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Veil",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tiara",
+        "Scarf"
+      ],
+      "medium": [
+        "Hood",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Corset",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Vest",
+        "Belt"
+      ],
+      "medium": [
+        "Bodice",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Turtleneck",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sweater",
+        "Hoodie"
+      ],
+      "medium": [
+        "Scarf",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Parka",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Coat",
+        "Anorak"
+      ],
+      "medium": [
+        "Poncho",
+        "Dress"
+      ],
+      "hard": [
+        "Skirt",
+        "Iota"
+      ]
+    }
+  },
+  {
+    "word": "Puffer jacket",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Parka",
+        "Coat"
+      ],
+      "medium": [
+        "Fleece",
+        "Dress"
+      ],
+      "hard": [
+        "Skirt",
+        "Iota"
+      ]
+    }
+  },
+  {
+    "word": "Fleece",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sweater",
+        "Hoodie"
+      ],
+      "medium": [
+        "Cardigan",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Tracksuit",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Pajamas",
+        "Jumpsuit"
+      ],
+      "medium": [
+        "Hoodie",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Joggers",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Leggings",
+        "Jeans"
+      ],
+      "medium": [
+        "Shorts",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Cargo pants",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Jeans",
+        "Joggers"
+      ],
+      "medium": [
+        "Overalls",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Loafers",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sneakers",
+        "Oxfords"
+      ],
+      "medium": [
+        "Moccasins",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Wellies",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Boots",
+        "Sneakers"
+      ],
+      "medium": [
+        "Galoshes",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Clogs",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sandals",
+        "Slippers"
+      ],
+      "medium": [
+        "Loafers",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Moccasins",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Slippers",
+        "Loafers"
+      ],
+      "medium": [
+        "Sandals",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Espadrilles",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sandals",
+        "Loafers"
+      ],
+      "medium": [
+        "Sneakers",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Ballet flats",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Loafers",
+        "Heels"
+      ],
+      "medium": [
+        "Sandals",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Stockings",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tights",
+        "Socks"
+      ],
+      "medium": [
+        "Leggings",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Hairclip",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Headband",
+        "Hairpin"
+      ],
+      "medium": [
+        "Bobby pin",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Brooch",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Badge",
+        "Pendant"
+      ],
+      "medium": [
+        "Button",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Cufflinks",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Buttons",
+        "Tie clip"
+      ],
+      "medium": [
+        "Studs",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Lanyard",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Keyring",
+        "Necklace"
+      ],
+      "medium": [
+        "Strap",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Tie clip",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cufflinks",
+        "Brooch"
+      ],
+      "medium": [
+        "Pin",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Romper",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Jumpsuit",
+        "Dress"
+      ],
+      "medium": [
+        "Overalls",
+        "Jacket"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Sarong",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kilt",
+        "Skirt"
+      ],
+      "medium": [
+        "Lungi",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Iota"
+      ]
+    }
+  },
+  {
+    "word": "Hanbok",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kimono",
+        "Sari"
+      ],
+      "medium": [
+        "Qipao",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Qipao",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kimono",
+        "Hanbok"
+      ],
+      "medium": [
+        "Sari",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Sombrero",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cowboy hat",
+        "Fedora"
+      ],
+      "medium": [
+        "Beret",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Fedora",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Trilby",
+        "Beret"
+      ],
+      "medium": [
+        "Bowler",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Top hat",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bowler",
+        "Fedora"
+      ],
+      "medium": [
+        "Crown",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Bowler",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Fedora",
+        "Trilby"
+      ],
+      "medium": [
+        "Beret",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Cowboy hat",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sombrero",
+        "Fedora"
+      ],
+      "medium": [
+        "Helmet",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Visor",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cap",
+        "Sunglasses"
+      ],
+      "medium": [
+        "Helmet",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Balaclava",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Beanie",
+        "Scarf"
+      ],
+      "medium": [
+        "Mask",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Mask",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Veil",
+        "Scarf"
+      ],
+      "medium": [
+        "Visor",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Wig",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hat",
+        "Hairpiece"
+      ],
+      "medium": [
+        "Toupee",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Petticoat",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Slip",
+        "Tutu"
+      ],
+      "medium": [
+        "Skirt",
+        "Dress"
+      ],
+      "hard": [
+        "Iota",
+        "Kappa"
+      ]
+    }
+  },
+  {
+    "word": "Mitts",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Gloves",
+        "Mittens"
+      ],
+      "medium": [
+        "Wristbands",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Anklet",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bracelet",
+        "Necklace"
+      ],
+      "medium": [
+        "Toe ring",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Choker",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Necklace",
+        "Collar"
+      ],
+      "medium": [
+        "Scarf",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Pendant",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Brooch",
+        "Earring"
+      ],
+      "medium": [
+        "Medal",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Locket",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Pendant",
+        "Brooch"
+      ],
+      "medium": [
+        "Charm",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Cravat",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tie",
+        "Scarf"
+      ],
+      "medium": [
+        "Bow tie",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Wristband",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bracelet",
+        "Watch"
+      ],
+      "medium": [
+        "Headband",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Boilersuit",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Jumpsuit",
+        "Overalls"
+      ],
+      "medium": [
+        "Tracksuit",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Knee pads",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Elbow pads",
+        "Shin guards"
+      ],
+      "medium": [
+        "Helmet",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Shin guards",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Costume item"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Costume history",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Knee pads",
+        "Socks"
+      ],
+      "medium": [
+        "Boots",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  },
+  {
+    "word": "Costume",
+    "category": "everyday_objects",
+    "subcategory": "Clothing",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "clothing"
+    ],
+    "hints": {
+      "easy": [
+        "Fashion item",
+        "Wearable accessory",
+        "Textile product",
+        "Style element",
+        "Apparel piece",
+        "Notable example"
+      ],
+      "medium": [
+        "Fabric type",
+        "Sewing pattern",
+        "Color scheme",
+        "Material blend",
+        "Garment construction",
+        "Seasonal clothing"
+      ],
+      "hard": [
+        "Textile manufacturing",
+        "Fashion design",
+        "Tailoring techniques",
+        "Industry standards",
+        "Sustainability practices",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Uniform",
+        "Mask"
+      ],
+      "medium": [
+        "Disguise",
+        "Dress"
+      ],
+      "hard": [
+        "Coat",
+        "Skirt"
+      ]
+    }
+  }
+]

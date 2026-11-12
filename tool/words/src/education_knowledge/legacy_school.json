@@ -1,0 +1,2902 @@
+[
+  {
+    "word": "Folder",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Binder",
+        "Notebook"
+      ],
+      "medium": [
+        "Envelope",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Binder",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Folder",
+        "Notebook"
+      ],
+      "medium": [
+        "Clipboard",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Pencil case",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Backpack",
+        "Wallet"
+      ],
+      "medium": [
+        "Lunchbox",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Geometry box",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Pencil case",
+        "Calculator"
+      ],
+      "medium": [
+        "Ruler",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Flashcards",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Notebook",
+        "Worksheet"
+      ],
+      "medium": [
+        "Quiz",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Worksheet",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Textbook",
+        "Quiz"
+      ],
+      "medium": [
+        "Homework",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Encyclopedia",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Dictionary",
+        "Atlas"
+      ],
+      "medium": [
+        "Almanac",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Test tube",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Beaker",
+        "Flask"
+      ],
+      "medium": [
+        "Pipette",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Beaker",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Flask",
+        "Test tube"
+      ],
+      "medium": [
+        "Jug",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Periodic table",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Formula sheet",
+        "Atlas"
+      ],
+      "medium": [
+        "Timetable",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Skeleton model",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Torso model",
+        "Globe"
+      ],
+      "medium": [
+        "Mannequin",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Timetable",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Calendar",
+        "Syllabus"
+      ],
+      "medium": [
+        "Diary",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Syllabus",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Timetable",
+        "Textbook"
+      ],
+      "medium": [
+        "Curriculum",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Bully",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Class clown",
+        "Prankster"
+      ],
+      "medium": [
+        "Rival",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Nerd",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Jock",
+        "Class clown"
+      ],
+      "medium": [
+        "Bookworm",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Prefect",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Monitor",
+        "Head boy"
+      ],
+      "medium": [
+        "Captain",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Head girl",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Prefect",
+        "Captain"
+      ],
+      "medium": [
+        "Monitor",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Counselor",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Teacher",
+        "Psychologist"
+      ],
+      "medium": [
+        "Principal",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Lunch lady",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Chef",
+        "Waitress"
+      ],
+      "medium": [
+        "Janitor",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Nurse office",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Library",
+        "Staff room"
+      ],
+      "medium": [
+        "Clinic",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Staff room",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Study habit",
+        "Academic performance",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Classroom",
+        "Nurse office"
+      ],
+      "medium": [
+        "Library",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Hallway",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Study habit",
+        "Academic performance",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Classroom",
+        "Staircase"
+      ],
+      "medium": [
+        "Lobby",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Notice board",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Whiteboard",
+        "Poster"
+      ],
+      "medium": [
+        "Calendar",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Trophy cabinet",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bookshelf",
+        "Locker"
+      ],
+      "medium": [
+        "Cupboard",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Fire drill",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Assembly",
+        "Recess"
+      ],
+      "medium": [
+        "Detention",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Snow day",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Holiday",
+        "Weekend"
+      ],
+      "medium": [
+        "Vacation",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Homeschool",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "Community engagement",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Boarding school",
+        "Tutoring"
+      ],
+      "medium": [
+        "Kindergarten",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Alphabet",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Numbers",
+        "Vocabulary"
+      ],
+      "medium": [
+        "Grammar",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Grammar",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Spelling",
+        "Vocabulary"
+      ],
+      "medium": [
+        "Syntax",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Vocabulary",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Grammar",
+        "Spelling"
+      ],
+      "medium": [
+        "Dictionary",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Poem",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Essay",
+        "Song"
+      ],
+      "medium": [
+        "Story",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Novel",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Poem",
+        "Textbook"
+      ],
+      "medium": [
+        "Comic",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Book report",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Essay",
+        "Poem"
+      ],
+      "medium": [
+        "Worksheet",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Spelling test",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Quiz",
+        "Spelling bee"
+      ],
+      "medium": [
+        "Exam",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Iota"
+      ]
+    }
+  },
+  {
+    "word": "Pop quiz",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Exam",
+        "Homework"
+      ],
+      "medium": [
+        "Spelling test",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Iota"
+      ]
+    }
+  },
+  {
+    "word": "Final exam",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Midterm",
+        "Quiz"
+      ],
+      "medium": [
+        "Project",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Iota"
+      ]
+    }
+  },
+  {
+    "word": "Cheat sheet",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Flashcards",
+        "Notebook"
+      ],
+      "medium": [
+        "Textbook",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Gold star",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Certificate",
+        "Badge"
+      ],
+      "medium": [
+        "Trophy",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Sticker chart",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Report card",
+        "Calendar"
+      ],
+      "medium": [
+        "Trophy",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Valedictorian",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Salutatorian",
+        "Prefect"
+      ],
+      "medium": [
+        "Monitor",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Alumni",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Knowledge center",
+        "Common type"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Students",
+        "Teachers"
+      ],
+      "medium": [
+        "Freshmen",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Yearbook",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Diary",
+        "Photo album"
+      ],
+      "medium": [
+        "Newspaper",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Freshman",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Senior",
+        "Sophomore"
+      ],
+      "medium": [
+        "Graduate",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Senior",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Freshman",
+        "Junior"
+      ],
+      "medium": [
+        "Alumni",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Orientation",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Graduation",
+        "Assembly"
+      ],
+      "medium": [
+        "Seminar",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Seminar",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Lecture",
+        "Workshop"
+      ],
+      "medium": [
+        "Tutorial",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Thesis",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Essay",
+        "Dissertation"
+      ],
+      "medium": [
+        "Report",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Library card",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Knowledge center",
+        "Common type"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Student id",
+        "Hall pass"
+      ],
+      "medium": [
+        "Ticket",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Backpack strap",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Handle",
+        "Zipper"
+      ],
+      "medium": [
+        "Pocket",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Megaphone",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Microphone",
+        "Whistle"
+      ],
+      "medium": [
+        "Bell",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Duster",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sponge",
+        "Wiper"
+      ],
+      "medium": [
+        "Brush",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Inkpot",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Fountain pen",
+        "Marker"
+      ],
+      "medium": [
+        "Stamp",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Fountain pen",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ballpoint",
+        "Pencil"
+      ],
+      "medium": [
+        "Quill",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Quill",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Fountain pen",
+        "Brush"
+      ],
+      "medium": [
+        "Pencil",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Set square",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Protractor",
+        "Ruler"
+      ],
+      "medium": [
+        "Compass",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Easel",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tripod",
+        "Desk"
+      ],
+      "medium": [
+        "Board",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Clay",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Dough",
+        "Plaster"
+      ],
+      "medium": [
+        "Wax",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  },
+  {
+    "word": "Choir",
+    "category": "education_knowledge",
+    "subcategory": "School",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "school"
+    ],
+    "hints": {
+      "easy": [
+        "Educational setting",
+        "Learning institution",
+        "Teaching facility",
+        "Academic environment",
+        "Student community",
+        "Knowledge center"
+      ],
+      "medium": [
+        "Curriculum subject",
+        "Assessment method",
+        "Pedagogical approach",
+        "Classroom dynamic",
+        "Study habit",
+        "Academic performance"
+      ],
+      "hard": [
+        "Educational psychology",
+        "Cognitive development",
+        "Inclusive pedagogy",
+        "Assessment literacy",
+        "School climate",
+        "Community engagement"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Band",
+        "Orchestra"
+      ],
+      "medium": [
+        "Chorus",
+        "Course"
+      ],
+      "hard": [
+        "Grade",
+        "Exam"
+      ]
+    }
+  }
+]

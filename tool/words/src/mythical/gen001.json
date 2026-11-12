@@ -1,0 +1,104 @@
+[
+  {
+    "word": "Bunyip",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A notable mythical with unique features.",
+    "tags": [
+      "general",
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Swamp monster",
+    "category": "mythology_fiction",
+    "subcategory": "Mythical",
+    "difficulty": "easy",
+    "description": "A notable mythical with unique features.",
+    "tags": [
+      "general",
+      "mythical"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  }
+]

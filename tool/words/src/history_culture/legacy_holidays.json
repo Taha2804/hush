@@ -1,0 +1,3002 @@
+[
+  {
+    "word": "Balloon",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Confetti",
+        "Streamer"
+      ],
+      "medium": [
+        "Kite",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Party hat",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Crown",
+        "Tiara"
+      ],
+      "medium": [
+        "Balloon",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Pinata",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Relevant detail",
+        "Associated feature"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Balloon",
+        "Gift box"
+      ],
+      "medium": [
+        "Lucky dip",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Greeting card",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Relevant detail",
+        "Associated feature"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Gift",
+        "Letter"
+      ],
+      "medium": [
+        "Postcard",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Parade",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Special occasion",
+        "Family gathering",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Carnival",
+        "Festival"
+      ],
+      "medium": [
+        "Concert",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Fair",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Special occasion",
+        "Family gathering",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Carnival",
+        "Festival"
+      ],
+      "medium": [
+        "Market",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Feast",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Banquet",
+        "Picnic"
+      ],
+      "medium": [
+        "Buffet",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Picnic",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Barbecue",
+        "Feast"
+      ],
+      "medium": [
+        "Potluck",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Potluck",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Picnic",
+        "Buffet"
+      ],
+      "medium": [
+        "Feast",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Bonfire",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Campfire",
+        "Fireworks"
+      ],
+      "medium": [
+        "Candle",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Lantern",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Candle",
+        "Torch"
+      ],
+      "medium": [
+        "Lamp",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Diya",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Candle",
+        "Lantern"
+      ],
+      "medium": [
+        "Lamp",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Rangoli",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mehndi",
+        "Kolam"
+      ],
+      "medium": [
+        "Mandala",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Mehndi",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tattoo",
+        "Rangoli"
+      ],
+      "medium": [
+        "Bindi",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Mistletoe",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Holly",
+        "Wreath"
+      ],
+      "medium": [
+        "Ivy",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Wreath",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Garland",
+        "Christmas tree"
+      ],
+      "medium": [
+        "Mistletoe",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Menorah",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Candelabra",
+        "Diya"
+      ],
+      "medium": [
+        "Lantern",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Easter egg",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Chocolate bunny",
+        "Basket"
+      ],
+      "medium": [
+        "Jelly bean",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Jackolantern",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Scarecrow",
+        "Skeleton"
+      ],
+      "medium": [
+        "Ghost",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Guising",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Caroling",
+        "Egg hunt"
+      ],
+      "medium": [
+        "Streamer",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Caroling",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Guising",
+        "Choir"
+      ],
+      "medium": [
+        "Parade",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Santa claus",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Elf",
+        "Reindeer"
+      ],
+      "medium": [
+        "Snowman",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Snowman",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Santa claus",
+        "Igloo"
+      ],
+      "medium": [
+        "Scarecrow",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Reindeer",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Moose",
+        "Elk"
+      ],
+      "medium": [
+        "Caribou",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Turkey dinner",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Roast chicken",
+        "Ham"
+      ],
+      "medium": [
+        "Feast",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Pumpkin pie",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Apple pie",
+        "Pecan pie"
+      ],
+      "medium": [
+        "Cheesecake",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Gingerbread",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Shortbread",
+        "Fruitcake"
+      ],
+      "medium": [
+        "Cookie",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Fruitcake",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Gingerbread",
+        "Pudding"
+      ],
+      "medium": [
+        "Stollen",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Simnel",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Fruitcake",
+        "Scone"
+      ],
+      "medium": [
+        "Stollen",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Mooncake",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Dumpling",
+        "Pie"
+      ],
+      "medium": [
+        "Tart",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Modak",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ladoo",
+        "Barfi"
+      ],
+      "medium": [
+        "Dumpling",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Gujiya",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Samosa",
+        "Modak"
+      ],
+      "medium": [
+        "Ladoo",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Sweets box",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Relevant detail",
+        "Associated feature"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Gift basket",
+        "Chocolate box"
+      ],
+      "medium": [
+        "Hamper",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Hamper",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Relevant detail",
+        "Associated feature"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Gift",
+        "Sweets box"
+      ],
+      "medium": [
+        "Picnic basket",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Secret santa",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "White elephant",
+        "Potluck"
+      ],
+      "medium": [
+        "Raffle",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Countdown",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Toast",
+        "Fireworks"
+      ],
+      "medium": [
+        "Resolution",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Resolution",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Countdown",
+        "Wish"
+      ],
+      "medium": [
+        "Prayer",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Costume party",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Masquerade",
+        "Prom"
+      ],
+      "medium": [
+        "Carnival",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Masquerade",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Costume party",
+        "Carnival"
+      ],
+      "medium": [
+        "Prom",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Baby shower",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bridal shower",
+        "Birthday"
+      ],
+      "medium": [
+        "Gender reveal",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Bridal shower",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Baby shower",
+        "Bachelorette"
+      ],
+      "medium": [
+        "Engagement",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Engagement",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Wedding",
+        "Anniversary"
+      ],
+      "medium": [
+        "Valentines day",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Housewarming",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Birthday",
+        "Potluck"
+      ],
+      "medium": [
+        "Baby shower",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Reunion",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Party",
+        "Wedding"
+      ],
+      "medium": [
+        "Picnic",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Talent show",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Concert",
+        "Recital"
+      ],
+      "medium": [
+        "Parade",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Recital",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Concert",
+        "Talent show"
+      ],
+      "medium": [
+        "Rehearsal",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Concert",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Special occasion",
+        "Family gathering",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Recital",
+        "Festival"
+      ],
+      "medium": [
+        "Rave",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Bachelor party",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bridal shower",
+        "Reunion"
+      ],
+      "medium": [
+        "Stag do",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Gender reveal",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Baby shower",
+        "Birthday"
+      ],
+      "medium": [
+        "Housewarming",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Book fair",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Carnival",
+        "Library"
+      ],
+      "medium": [
+        "Market",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Easter bunny",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Santa claus",
+        "Tooth fairy"
+      ],
+      "medium": [
+        "Reindeer",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Tooth fairy",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Easter bunny",
+        "Santa claus"
+      ],
+      "medium": [
+        "Sandman",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Groundhog day",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "April fools",
+        "Earth day"
+      ],
+      "medium": [
+        "Leap day",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Leap day",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "New year",
+        "Solstice"
+      ],
+      "medium": [
+        "Groundhog day",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Hogmanay",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Christmas eve",
+        "Bonfire night"
+      ],
+      "medium": [
+        "Burns night",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Burns night",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hogmanay",
+        "Saint patrick"
+      ],
+      "medium": [
+        "Bonfire night",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Beltane",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Samhain",
+        "Midsummer"
+      ],
+      "medium": [
+        "Easter",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Vesak",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Special occasion",
+        "Family gathering",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Buddha purnima",
+        "Diwali"
+      ],
+      "medium": [
+        "Lantern festival",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Gift",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Religious festival",
+        "Special occasion",
+        "Family gathering",
+        "Notable example"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Relevant detail",
+        "Associated feature"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Card",
+        "Balloon"
+      ],
+      "medium": [
+        "Bouquet",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  },
+  {
+    "word": "Festival",
+    "category": "history_culture",
+    "subcategory": "Holidays",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "holidays"
+    ],
+    "hints": {
+      "easy": [
+        "Annual celebration",
+        "Public holiday",
+        "Special occasion",
+        "Family gathering",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Seasonal event",
+        "Historical commemoration",
+        "Modern celebration",
+        "Cultural exchange",
+        "Gift giving",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Religious significance",
+        "Political importance",
+        "Economic impact",
+        "Tourism industry",
+        "Historical context",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Fair",
+        "Carnival"
+      ],
+      "medium": [
+        "Concert",
+        "Observance"
+      ],
+      "hard": [
+        "Ceremony",
+        "Tradition"
+      ]
+    }
+  }
+]

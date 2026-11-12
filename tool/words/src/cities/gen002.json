@@ -1,0 +1,387 @@
+[
+  {
+    "word": "Lahore",
+    "category": "geography_places",
+    "subcategory": "Lahore",
+    "difficulty": "hard",
+    "description": "A populated area with unique urban characteristics and history.",
+    "tags": [
+      "populated",
+      "area",
+      "unique",
+      "urban",
+      "characteristics",
+      "history"
+    ],
+    "hints": {
+      "easy": [
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Food lovers",
+        "Mughal history",
+        "associated",
+        "connected",
+        "linked",
+        "cultural"
+      ],
+      "hard": [
+        "Great mosque",
+        "celebrated",
+        "renowned",
+        "prestigious",
+        "distinguished",
+        "famed"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Karachi",
+        "Delhi"
+      ],
+      "medium": [
+        "Amritsar",
+        "Paris"
+      ],
+      "hard": [
+        "London",
+        "New york"
+      ]
+    }
+  },
+  {
+    "word": "Colombo",
+    "category": "geography_places",
+    "subcategory": "Colombo",
+    "difficulty": "hard",
+    "description": "A populated area with unique urban characteristics and history.",
+    "tags": [
+      "populated",
+      "area",
+      "unique",
+      "urban",
+      "characteristics",
+      "history"
+    ],
+    "hints": {
+      "easy": [
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Colonial buildings",
+        "Tea trade",
+        "associated",
+        "connected",
+        "linked",
+        "cultural"
+      ],
+      "hard": [
+        "Seaside green",
+        "Lotus tower",
+        "celebrated",
+        "renowned",
+        "prestigious",
+        "distinguished"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kandy",
+        "Male"
+      ],
+      "medium": [
+        "Chennai",
+        "Paris"
+      ],
+      "hard": [
+        "London",
+        "New york"
+      ]
+    }
+  },
+  {
+    "word": "Kuala lumpur",
+    "category": "geography_places",
+    "subcategory": "Kuala lumpur",
+    "difficulty": "hard",
+    "description": "A populated area with unique urban characteristics and history.",
+    "tags": [
+      "populated",
+      "area",
+      "unique",
+      "urban",
+      "characteristics",
+      "history"
+    ],
+    "hints": {
+      "easy": [
+        "Malaysian capital",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global"
+      ],
+      "medium": [
+        "Twin towers",
+        "Food heaven",
+        "associated",
+        "connected",
+        "linked",
+        "cultural"
+      ],
+      "hard": [
+        "Cave temples nearby",
+        "Night markets",
+        "celebrated",
+        "renowned",
+        "prestigious",
+        "distinguished"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Singapore city",
+        "Jakarta"
+      ],
+      "medium": [
+        "Bangkok",
+        "Paris"
+      ],
+      "hard": [
+        "London",
+        "New york"
+      ]
+    }
+  },
+  {
+    "word": "Hanoi",
+    "category": "geography_places",
+    "subcategory": "Hanoi",
+    "difficulty": "hard",
+    "description": "A populated area with unique urban characteristics and history.",
+    "tags": [
+      "populated",
+      "area",
+      "unique",
+      "urban",
+      "characteristics",
+      "history"
+    ],
+    "hints": {
+      "easy": [
+        "Vietnamese capital",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global"
+      ],
+      "medium": [
+        "Motorbike chaos",
+        "Old quarter",
+        "associated",
+        "connected",
+        "linked",
+        "cultural"
+      ],
+      "hard": [
+        "Lake with pagoda",
+        "Pho stalls",
+        "celebrated",
+        "renowned",
+        "prestigious",
+        "distinguished"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Saigon",
+        "Bangkok"
+      ],
+      "medium": [
+        "Vientiane",
+        "Paris"
+      ],
+      "hard": [
+        "London",
+        "New york"
+      ]
+    }
+  },
+  {
+    "word": "Kyoto",
+    "category": "geography_places",
+    "subcategory": "Kyoto",
+    "difficulty": "hard",
+    "description": "A populated area with unique urban characteristics and history.",
+    "tags": [
+      "populated",
+      "area",
+      "unique",
+      "urban",
+      "characteristics",
+      "history"
+    ],
+    "hints": {
+      "easy": [
+        "Ancient capital",
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global"
+      ],
+      "medium": [
+        "Thousands of temples",
+        "Geisha district",
+        "associated",
+        "connected",
+        "linked",
+        "cultural"
+      ],
+      "hard": [
+        "Bamboo grove",
+        "Golden pavilion",
+        "celebrated",
+        "renowned",
+        "prestigious",
+        "distinguished"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tokyo",
+        "Osaka"
+      ],
+      "medium": [
+        "Nara",
+        "Paris"
+      ],
+      "hard": [
+        "London",
+        "New york"
+      ]
+    }
+  },
+  {
+    "word": "Osaka",
+    "category": "geography_places",
+    "subcategory": "Osaka",
+    "difficulty": "hard",
+    "description": "A populated area with unique urban characteristics and history.",
+    "tags": [
+      "populated",
+      "area",
+      "unique",
+      "urban",
+      "characteristics",
+      "history"
+    ],
+    "hints": {
+      "easy": [
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Street food capital",
+        "Comedy hub",
+        "associated",
+        "connected",
+        "linked",
+        "cultural"
+      ],
+      "hard": [
+        "Neon canal",
+        "Takoyaki balls",
+        "celebrated",
+        "renowned",
+        "prestigious",
+        "distinguished"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tokyo",
+        "Kyoto"
+      ],
+      "medium": [
+        "Kobe",
+        "Paris"
+      ],
+      "hard": [
+        "London",
+        "New york"
+      ]
+    }
+  },
+  {
+    "word": "Shenzhen",
+    "category": "geography_places",
+    "subcategory": "Shenzhen",
+    "difficulty": "hard",
+    "description": "A populated area with unique urban characteristics and history.",
+    "tags": [
+      "populated",
+      "area",
+      "unique",
+      "urban",
+      "characteristics",
+      "history"
+    ],
+    "hints": {
+      "easy": [
+        "popular",
+        "well known",
+        "famous",
+        "distinctive",
+        "global",
+        "familiar"
+      ],
+      "medium": [
+        "Electronics markets",
+        "Fast growth",
+        "associated",
+        "connected",
+        "linked",
+        "cultural"
+      ],
+      "hard": [
+        "Factory hub",
+        "Modern skyline",
+        "celebrated",
+        "renowned",
+        "prestigious",
+        "distinguished"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Shanghai",
+        "Hong kong"
+      ],
+      "medium": [
+        "Guangzhou",
+        "Paris"
+      ],
+      "hard": [
+        "London",
+        "New york"
+      ]
+    }
+  }
+]

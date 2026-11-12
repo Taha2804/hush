@@ -1,0 +1,56 @@
+[
+  {
+    "word": "Alicorn",
+    "category": "mythology_fiction",
+    "subcategory": "Fantasy creatures",
+    "difficulty": "medium",
+    "description": "A winged unicorn with a single spiraling horn, a magical beast of fantasy and legend.",
+    "tags": ["fantasy", "unicorn", "winged"],
+    "hints": {
+      "easy": ["Horned", "Magic", "White", "Horse", "Spiral", "Enchanted"],
+      "medium": ["Fantasy steed", "Royal mount", "Celestial", "Divine", "Legendary", "Mythical horse"],
+      "hard": ["Shimmering coat", "Golden horn", "Pure magic", "Mythical beast", "Enchanted beast", "Fantasy creature"]
+    },
+    "imposters": {
+      "easy": ["Pegasus", "Griffin"],
+      "medium": ["Hippogriff", "Chimera"],
+      "hard": ["Wyvern", "Manticore", "Dragon", "Troll"]
+    }
+  },
+  {
+    "word": "Amphisbaena",
+    "category": "mythology_fiction",
+    "subcategory": "Serpent beasts",
+    "difficulty": "hard",
+    "description": "A legendary two-headed creature from myth that rolls its body like a wheel across the ground.",
+    "tags": ["serpent", "mythology", "beast"],
+    "hints": {
+      "easy": ["Ancient", "Dual", "Mythical", "Beast", "Serpentine", "Venom"],
+      "medium": ["Two heads", "Greek myth", "Legendary", "Rolling beast", "Lerna", "Monster"],
+      "hard": ["Wheel serpent", "Ancient beast", "Mythical worm", "Dual headed", "Serpent body", "Viper"]
+    },
+    "imposters": {
+      "easy": ["Hydra", "Naga"],
+      "medium": ["Basilisk", "Cockatrice"],
+      "hard": ["Ouroboros", "Dragon", "Wyvern", "Cerberus"]
+    }
+  },
+  {
+    "word": "Angel",
+    "category": "mythology_fiction",
+    "subcategory": "Heavenly beings",
+    "difficulty": "easy",
+    "description": "A winged spirit who carries messages between divine and earthly realms.",
+    "tags": ["heavenly", "messenger", "divine"],
+    "hints": {
+      "easy": ["Wings", "Light", "Holy", "Sky", "Guardian", "Blessed"],
+      "medium": ["Divine", "Sacred", "Heaven", "Seraph", "Ethereal", "Messenger"],
+      "hard": ["Celestial", "Metatron", "Elysian", "Blessed one", "Heavenly host", "Divine will"]
+    },
+    "imposters": {
+      "easy": ["Cherub", "Fairy"],
+      "medium": ["Valkyrie", "Sprite"],
+      "hard": ["Emet", "Anubis", "Ariel", "Uriel"]
+    }
+  }
+]

@@ -1,0 +1,2002 @@
+[
+  {
+    "word": "Realtor",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Banker",
+        "Architect"
+      ],
+      "medium": [
+        "Salesman",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Salesperson",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cashier",
+        "Marketer"
+      ],
+      "medium": [
+        "Shopkeeper",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Shopkeeper",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cashier",
+        "Salesperson"
+      ],
+      "medium": [
+        "Merchant",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Delivery rider",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Courier",
+        "Taxi driver"
+      ],
+      "medium": [
+        "Waiter",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Bartender",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Waiter",
+        "Barista"
+      ],
+      "medium": [
+        "Chef",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Iota"
+      ]
+    }
+  },
+  {
+    "word": "Barista",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bartender",
+        "Waiter"
+      ],
+      "medium": [
+        "Baker",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Apprentice",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Intern",
+        "Assistant"
+      ],
+      "medium": [
+        "Student",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Ranger",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Zookeeper",
+        "Gardener"
+      ],
+      "medium": [
+        "Guard",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Shepherd",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Farmer",
+        "Cowboy"
+      ],
+      "medium": [
+        "Rancher",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Cowboy",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Shepherd",
+        "Rancher"
+      ],
+      "medium": [
+        "Sheriff",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Sheriff",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Police officer",
+        "Cowboy"
+      ],
+      "medium": [
+        "Judge",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Lumberjack",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Carpenter",
+        "Farmer"
+      ],
+      "medium": [
+        "Ranger",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Glassblower",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Potter",
+        "Blacksmith"
+      ],
+      "medium": [
+        "Sculptor",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Potter",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sculptor",
+        "Glassblower"
+      ],
+      "medium": [
+        "Painter",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Sculptor",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Potter",
+        "Painter"
+      ],
+      "medium": [
+        "Carpenter",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Jeweler",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Goldsmith",
+        "Watchmaker"
+      ],
+      "medium": [
+        "Tailor",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Watchmaker",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Jeweler",
+        "Mechanic"
+      ],
+      "medium": [
+        "Engineer",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Locksmith",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Carpenter",
+        "Security guard"
+      ],
+      "medium": [
+        "Mechanic",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Disc jockey",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Musician",
+        "Singer"
+      ],
+      "medium": [
+        "Producer",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Composer",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Musician",
+        "Conductor"
+      ],
+      "medium": [
+        "Songwriter",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Conductor",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Composer",
+        "Musician"
+      ],
+      "medium": [
+        "Director",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Producer",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Director",
+        "Actor"
+      ],
+      "medium": [
+        "Banker",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Animator",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Illustrator",
+        "Designer"
+      ],
+      "medium": [
+        "Director",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Illustrator",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Animator",
+        "Painter"
+      ],
+      "medium": [
+        "Designer",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Editor",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Writer",
+        "Journalist"
+      ],
+      "medium": [
+        "Proofreader",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Reporter",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Journalist",
+        "Anchor"
+      ],
+      "medium": [
+        "Writer",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "News anchor",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Reporter",
+        "Host"
+      ],
+      "medium": [
+        "Journalist",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Radio host",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Disc jockey",
+        "Podcaster"
+      ],
+      "medium": [
+        "News anchor",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Podcaster",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Radio host",
+        "Streamer"
+      ],
+      "medium": [
+        "Blogger",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Blogger",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Influencer",
+        "Journalist"
+      ],
+      "medium": [
+        "Writer",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Nanny",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Babysitter",
+        "Teacher"
+      ],
+      "medium": [
+        "Nurse",
+        "Doctor"
+      ],
+      "hard": [
+        "Chef",
+        "Iota"
+      ]
+    }
+  },
+  {
+    "word": "Babysitter",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Nanny",
+        "Tutor"
+      ],
+      "medium": [
+        "Teacher",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Midwife",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Nurse",
+        "Doctor"
+      ],
+      "medium": [
+        "Doula",
+        "Engineer"
+      ],
+      "hard": [
+        "Chef",
+        "Iota"
+      ]
+    }
+  },
+  {
+    "word": "Optometrist",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Doctor",
+        "Dentist"
+      ],
+      "medium": [
+        "Optician",
+        "Engineer"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Physiotherapist",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Doctor",
+        "Coach"
+      ],
+      "medium": [
+        "Chiropractor",
+        "Engineer"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Dietitian",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Doctor",
+        "Trainer"
+      ],
+      "medium": [
+        "Chef",
+        "Engineer"
+      ],
+      "hard": [
+        "Nurse",
+        "Iota"
+      ]
+    }
+  },
+  {
+    "word": "Personal trainer",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Coach",
+        "Dietitian"
+      ],
+      "medium": [
+        "Athlete",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Decorator",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Architect",
+        "Florist"
+      ],
+      "medium": [
+        "Painter",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Fashion designer",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tailor",
+        "Model"
+      ],
+      "medium": [
+        "Stylist",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  },
+  {
+    "word": "Makeup artist",
+    "category": "professions_jobs",
+    "subcategory": "Professions",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "professions"
+    ],
+    "hints": {
+      "easy": [
+        "Occupation type",
+        "Workplace role",
+        "Professional position",
+        "Career path",
+        "Employment sector",
+        "Labor market segment"
+      ],
+      "medium": [
+        "Training requirement",
+        "Educational background",
+        "Salary expectation",
+        "Work environment",
+        "Daily responsibilities",
+        "Advancement opportunity"
+      ],
+      "hard": [
+        "Industry trends",
+        "Market demand",
+        "Technology impact",
+        "Automation risk",
+        "Regulatory compliance",
+        "Professional ethics"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hairdresser",
+        "Stylist"
+      ],
+      "medium": [
+        "Painter",
+        "Doctor"
+      ],
+      "hard": [
+        "Nurse",
+        "Chef"
+      ]
+    }
+  }
+]

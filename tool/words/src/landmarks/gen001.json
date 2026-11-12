@@ -1,0 +1,3980 @@
+[
+  {
+    "word": "Table Mountain",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Uluru",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Barrier Reef",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Easter Island",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Chichen Itza",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Teotihuacan",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Iguazu Falls",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Angel Falls",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Galapagos",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Marina Bay",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Petronas Towers",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Tokyo Tower",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Shibuya Crossing",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Himeji Castle",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Fushimi Inari",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Golden Pavilion",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Terracotta Army",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Potala Palace",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Borobudur",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Halong Bay",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Dead Sea",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Wailing Wall",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Mecca",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Yellowstone",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Yosemite",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Old Faithful",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Death Valley",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Monument Valley",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Vegas Strip",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Chrysler",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Flatiron",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Shard",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Gherkin",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Copacabana",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Bondi Beach",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Waikiki",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Banff",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Northern lights",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Fjords",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Loch Ness",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Moher Cliffs",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Giants Causeway",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "White Cliffs",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Amalfi Coast",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Cinque Terre",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Matera",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Cappadocia",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Bagan",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Red Square",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Trafalgar",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Piccadilly",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Tiananmen",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Stone Town",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Abbey Road",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Hyde Park",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Broadway",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "West End",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Capitol",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Pentagon",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Vesuvius",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Pompeii",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Etna",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Blue Lagoon",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Pamukkale",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Sahara",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Amazon",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Serengeti",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Everglades",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Antarctica",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Big Sur",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Grand Bazaar",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Chandni Chowk",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Marine Drive",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Sugarloaf",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Mezquita",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Reichstag",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Windsor Castle",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Prado",
+    "category": "travel_tourism",
+    "subcategory": "Landmarks",
+    "difficulty": "easy",
+    "description": "A notable landmarks with unique features.",
+    "tags": [
+      "general",
+      "landmarks"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  }
+]

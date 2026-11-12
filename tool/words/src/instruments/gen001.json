@@ -1,0 +1,257 @@
+[
+  {
+    "word": "Bandoneon",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A notable instruments with unique features.",
+    "tags": [
+      "general",
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Music box",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A notable instruments with unique features.",
+    "tags": [
+      "general",
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Acoustic bass",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A notable instruments with unique features.",
+    "tags": [
+      "general",
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Twelve string",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A notable instruments with unique features.",
+    "tags": [
+      "general",
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Musical saw",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A notable instruments with unique features.",
+    "tags": [
+      "general",
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  }
+]

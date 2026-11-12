@@ -1,0 +1,359 @@
+[
+  {
+    "word": "Favorite student",
+    "category": "education_knowledge",
+    "subcategory": "Education",
+    "difficulty": "easy",
+    "description": "A notable education with unique features.",
+    "tags": [
+      "general",
+      "education"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Class clown",
+    "category": "education_knowledge",
+    "subcategory": "Education",
+    "difficulty": "easy",
+    "description": "A notable education with unique features.",
+    "tags": [
+      "general",
+      "education"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Summer school",
+    "category": "education_knowledge",
+    "subcategory": "Education",
+    "difficulty": "easy",
+    "description": "A notable education with unique features.",
+    "tags": [
+      "general",
+      "education"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Boarding school",
+    "category": "education_knowledge",
+    "subcategory": "Education",
+    "difficulty": "easy",
+    "description": "A notable education with unique features.",
+    "tags": [
+      "general",
+      "education"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Online class",
+    "category": "education_knowledge",
+    "subcategory": "Education",
+    "difficulty": "easy",
+    "description": "A notable education with unique features.",
+    "tags": [
+      "general",
+      "education"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "Student id",
+    "category": "education_knowledge",
+    "subcategory": "Education",
+    "difficulty": "easy",
+    "description": "A notable education with unique features.",
+    "tags": [
+      "general",
+      "education"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  },
+  {
+    "word": "School band",
+    "category": "education_knowledge",
+    "subcategory": "Education",
+    "difficulty": "easy",
+    "description": "A notable education with unique features.",
+    "tags": [
+      "general",
+      "education"
+    ],
+    "hints": {
+      "easy": [
+        "Common reference",
+        "Familiar concept",
+        "Daily context",
+        "Practical use",
+        "Known example",
+        "General association"
+      ],
+      "medium": [
+        "Functional role",
+        "Usage scenario",
+        "Contextual link",
+        "Associated activity",
+        "Feature aspect",
+        "Typical practice"
+      ],
+      "hard": [
+        "Technical detail",
+        "Specialized knowledge",
+        "Historical note",
+        "Specific function",
+        "Expert insight",
+        "Deeper connection"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Different item",
+        "Other object"
+      ],
+      "medium": [
+        "Separate category",
+        "Alternative option"
+      ],
+      "hard": [
+        "Close variant",
+        "Near equivalent"
+      ]
+    }
+  }
+]

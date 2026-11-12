@@ -1,0 +1,1752 @@
+[
+  {
+    "word": "Toolbox",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Drawer",
+        "Suitcase"
+      ],
+      "medium": [
+        "Bucket",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Flashlight",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Lantern",
+        "Candle"
+      ],
+      "medium": [
+        "Lamp",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Extension cord",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Charger",
+        "Plug"
+      ],
+      "medium": [
+        "Battery",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Doorbell",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Knocker",
+        "Alarm"
+      ],
+      "medium": [
+        "Intercom",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Lock",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Chain",
+        "Latch"
+      ],
+      "medium": [
+        "Bolt",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Key",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Lifestyle integration",
+        "Technical aspect"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Lock",
+        "Card"
+      ],
+      "medium": [
+        "Code",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Umbrella",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Raincoat",
+        "Parasol"
+      ],
+      "medium": [
+        "Hat",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Coat hanger",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hook",
+        "Rail"
+      ],
+      "medium": [
+        "Peg",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Clothespin",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hanger",
+        "Paperclip"
+      ],
+      "medium": [
+        "Hook",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Alarm clock",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Watch",
+        "Phone"
+      ],
+      "medium": [
+        "Timer",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Cushion",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Pillow",
+        "Blanket"
+      ],
+      "medium": [
+        "Beanbag",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Beanbag",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sofa",
+        "Cushion"
+      ],
+      "medium": [
+        "Hammock",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Bathtub",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Shower",
+        "Sink"
+      ],
+      "medium": [
+        "Pool",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Shower",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bathtub",
+        "Sink"
+      ],
+      "medium": [
+        "Hose",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Sink",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bathtub",
+        "Bucket"
+      ],
+      "medium": [
+        "Basin",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Toilet",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sink",
+        "Bathtub"
+      ],
+      "medium": [
+        "Bidet",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Faucet",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Shower",
+        "Hose"
+      ],
+      "medium": [
+        "Pipe",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Piggy bank",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Wallet",
+        "Jar"
+      ],
+      "medium": [
+        "Safe",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Calendar",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Clock",
+        "Diary"
+      ],
+      "medium": [
+        "Planner",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Scissors",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Knife",
+        "Stapler"
+      ],
+      "medium": [
+        "Cutter",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Tape",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Glue",
+        "Staples"
+      ],
+      "medium": [
+        "Ribbon",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Glue",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tape",
+        "Paste"
+      ],
+      "medium": [
+        "Staples",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Stapler",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tape",
+        "Hole punch"
+      ],
+      "medium": [
+        "Paperclip",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Paperclip",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Staple",
+        "Pin"
+      ],
+      "medium": [
+        "Bulldog",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Pen",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Pencil",
+        "Marker"
+      ],
+      "medium": [
+        "Crayon",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Basket",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Box",
+        "Bag"
+      ],
+      "medium": [
+        "Bucket",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Bottle",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Jar",
+        "Can"
+      ],
+      "medium": [
+        "Flask",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Thermos",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bottle",
+        "Mug"
+      ],
+      "medium": [
+        "Jug",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Cooler",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Fridge",
+        "Basket"
+      ],
+      "medium": [
+        "Box",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Extinguisher",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hose",
+        "Bucket"
+      ],
+      "medium": [
+        "Alarm",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Smoke detector",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Alarm",
+        "Sprinkler"
+      ],
+      "medium": [
+        "Thermostat",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Plant pot",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Vase",
+        "Bucket"
+      ],
+      "medium": [
+        "Bowl",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Watering can",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hose",
+        "Bucket"
+      ],
+      "medium": [
+        "Jug",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Hose",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Safety equipment",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sprinkler",
+        "Pipe"
+      ],
+      "medium": [
+        "Bucket",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  },
+  {
+    "word": "Safe",
+    "category": "everyday_objects",
+    "subcategory": "Household",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "household"
+    ],
+    "hints": {
+      "easy": [
+        "Living space item",
+        "Domestic necessity",
+        "Room furnishing",
+        "Kitchen appliance",
+        "Bathroom essential",
+        "Notable example"
+      ],
+      "medium": [
+        "Maintenance task",
+        "Cleaning supply",
+        "Energy saver",
+        "Storage solution",
+        "Comfort accessory",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Interior design",
+        "Spatial organization",
+        "Efficiency optimization",
+        "Sustainability measures",
+        "Building code",
+        "Lifestyle integration"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Lockbox",
+        "Vault"
+      ],
+      "medium": [
+        "Drawer",
+        "Fixture"
+      ],
+      "hard": [
+        "Decor",
+        "Utility"
+      ]
+    }
+  }
+]

@@ -1,0 +1,3152 @@
+[
+  {
+    "word": "Nightmare",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Dream",
+        "Vision"
+      ],
+      "medium": [
+        "Phobia",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Snoring",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Yawning",
+        "Sneezing"
+      ],
+      "medium": [
+        "Whistling",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Exercise",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Rest",
+        "Diet"
+      ],
+      "medium": [
+        "Sport",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Diet",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Exercise",
+        "Fasting"
+      ],
+      "medium": [
+        "Feast",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Fasting",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Diet",
+        "Feast"
+      ],
+      "medium": [
+        "Snacking",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Massage",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Acupuncture",
+        "Stretching"
+      ],
+      "medium": [
+        "Facial",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Hospital bed",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Stretcher",
+        "Couch"
+      ],
+      "medium": [
+        "Cot",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Braces",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Retainer",
+        "Dentures"
+      ],
+      "medium": [
+        "Crown",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Glasses",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Contact lenses",
+        "Monocle"
+      ],
+      "medium": [
+        "Goggles",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Contact lenses",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Glasses",
+        "Eye drops"
+      ],
+      "medium": [
+        "Monocle",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Inhaler",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Nebulizer",
+        "Pill"
+      ],
+      "medium": [
+        "Syrup",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Germ",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Virus",
+        "Bacteria"
+      ],
+      "medium": [
+        "Fungus",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Bacteria",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Virus",
+        "Fungus"
+      ],
+      "medium": [
+        "Germ",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Calories",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Protein",
+        "Vitamins"
+      ],
+      "medium": [
+        "Carbs",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Protein",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Carbs",
+        "Fat"
+      ],
+      "medium": [
+        "Fiber",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Hydration",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Diet",
+        "Sleep"
+      ],
+      "medium": [
+        "Exercise",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Posture",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Balance",
+        "Gait"
+      ],
+      "medium": [
+        "Flexibility",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Flexibility",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Strength",
+        "Balance"
+      ],
+      "medium": [
+        "Posture",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Balance",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Posture",
+        "Flexibility"
+      ],
+      "medium": [
+        "Coordination",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Heartbeat",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Breath",
+        "Pulse"
+      ],
+      "medium": [
+        "Blink",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Blink",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Wink",
+        "Yawn"
+      ],
+      "medium": [
+        "Sneeze",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Goosebumps",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Rash",
+        "Shiver"
+      ],
+      "medium": [
+        "Chills",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Dimple",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Freckle",
+        "Mole"
+      ],
+      "medium": [
+        "Wrinkle",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Wrinkle",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Dimple",
+        "Scar"
+      ],
+      "medium": [
+        "Freckle",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Wart",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mole",
+        "Pimple"
+      ],
+      "medium": [
+        "Blister",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Callus",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Blister",
+        "Wart"
+      ],
+      "medium": [
+        "Corn",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Earwax",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mucus",
+        "Saliva"
+      ],
+      "medium": [
+        "Dandruff",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Dandruff",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Earwax",
+        "Lice"
+      ],
+      "medium": [
+        "Dry skin",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Lice",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Fleas",
+        "Ticks"
+      ],
+      "medium": [
+        "Dandruff",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Burp",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hiccup",
+        "Sneeze"
+      ],
+      "medium": [
+        "Yawn",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Appetite",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Thirst",
+        "Hunger"
+      ],
+      "medium": [
+        "Taste",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Thirst",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hunger",
+        "Appetite"
+      ],
+      "medium": [
+        "Hydration",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Fatigue",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Insomnia",
+        "Stress"
+      ],
+      "medium": [
+        "Boredom",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Stress",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Anxiety",
+        "Fatigue"
+      ],
+      "medium": [
+        "Anger",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Anxiety",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Stress",
+        "Fear"
+      ],
+      "medium": [
+        "Excitement",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Laughter",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Crying",
+        "Smiling"
+      ],
+      "medium": [
+        "Cheering",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Tickle",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Itch",
+        "Pinch"
+      ],
+      "medium": [
+        "Massage",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Itch",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tickle",
+        "Rash"
+      ],
+      "medium": [
+        "Sting",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Puberty",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Childhood",
+        "Adulthood"
+      ],
+      "medium": [
+        "Old age",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Pregnancy",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Birth",
+        "Infancy"
+      ],
+      "medium": [
+        "Puberty",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Old age",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Youth",
+        "Childhood"
+      ],
+      "medium": [
+        "Middle age",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Childhood",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Adulthood",
+        "Infancy"
+      ],
+      "medium": [
+        "Puberty",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Physiotherapy",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Surgery",
+        "Massage"
+      ],
+      "medium": [
+        "Yoga",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Acupuncture",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Massage",
+        "Reflexology"
+      ],
+      "medium": [
+        "Yoga",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Therapy",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Medicine",
+        "Meditation"
+      ],
+      "medium": [
+        "Surgery",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Ward",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Clinic",
+        "Theater"
+      ],
+      "medium": [
+        "Waiting room",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Waiting room",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ward",
+        "Office"
+      ],
+      "medium": [
+        "Lounge",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Blood pressure",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Pulse",
+        "Temperature"
+      ],
+      "medium": [
+        "Heartbeat",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Blood test",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Urine test",
+        "X-ray"
+      ],
+      "medium": [
+        "Checkup",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Eye test",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hearing test",
+        "Blood test"
+      ],
+      "medium": [
+        "Checkup",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Hearing test",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Eye test",
+        "Blood test"
+      ],
+      "medium": [
+        "Checkup",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Plaster",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bandage",
+        "Cast"
+      ],
+      "medium": [
+        "Tape",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Sling",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cast",
+        "Splint"
+      ],
+      "medium": [
+        "Crutches",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Splint",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cast",
+        "Sling"
+      ],
+      "medium": [
+        "Bandage",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Ointment",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Lotion",
+        "Bandage"
+      ],
+      "medium": [
+        "Pill",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Cough syrup",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Lozenge",
+        "Pill"
+      ],
+      "medium": [
+        "Honey",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Lozenge",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cough syrup",
+        "Mint"
+      ],
+      "medium": [
+        "Pill",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Appendix",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tonsils",
+        "Gallbladder"
+      ],
+      "medium": [
+        "Spleen",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Tonsils",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Appendix",
+        "Adenoids"
+      ],
+      "medium": [
+        "Uvula",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Ribcage",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Spine",
+        "Skull"
+      ],
+      "medium": [
+        "Pelvis",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Pelvis",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ribcage",
+        "Skull"
+      ],
+      "medium": [
+        "Femur",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Diaphragm",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ribcage",
+        "Stomach"
+      ],
+      "medium": [
+        "Spine",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  },
+  {
+    "word": "Eardrum",
+    "category": "body_health",
+    "subcategory": "Body",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "body"
+    ],
+    "hints": {
+      "easy": [
+        "Body part",
+        "Organ system",
+        "Health condition",
+        "Medical term",
+        "Physical trait",
+        "Wellness factor"
+      ],
+      "medium": [
+        "Anatomical feature",
+        "Physiological process",
+        "Clinical symptom",
+        "Diagnostic tool",
+        "Therapeutic method",
+        "Biological function"
+      ],
+      "hard": [
+        "Pathophysiology",
+        "Cellular mechanism",
+        "Immunological response",
+        "Neurological pathway",
+        "Metabolic process",
+        "Genetic expression"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Earlobe",
+        "Cochlea"
+      ],
+      "medium": [
+        "Ear canal",
+        "Therapist"
+      ],
+      "hard": [
+        "Specialist",
+        "Clinician"
+      ]
+    }
+  }
+]

@@ -1,0 +1,2852 @@
+[
+  {
+    "word": "Muay thai",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kickboxing",
+        "Boxing"
+      ],
+      "medium": [
+        "Karate",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Aerobics",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Pilates",
+        "Zumba"
+      ],
+      "medium": [
+        "Yoga",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Zumba",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Aerobics",
+        "Salsa"
+      ],
+      "medium": [
+        "Pilates",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Powerlifting",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Weightlifting",
+        "Bodybuilding"
+      ],
+      "medium": [
+        "Strongman",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Arm wrestling",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Judo",
+        "Sumo"
+      ],
+      "medium": [
+        "Boxing",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Hopscotch",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Jump rope",
+        "Tag"
+      ],
+      "medium": [
+        "Marbles",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Dodgeball",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Handball",
+        "Tag"
+      ],
+      "medium": [
+        "Volleyball",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Pickleball",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tennis",
+        "Badminton"
+      ],
+      "medium": [
+        "Table tennis",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Croquet",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Golf",
+        "Polo"
+      ],
+      "medium": [
+        "Bowls",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Mini golf",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Snooker",
+        "Bowling"
+      ],
+      "medium": [
+        "Croquet",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Channel swim",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Triathlon",
+        "Rowing"
+      ],
+      "medium": [
+        "Diving",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Steeplechase",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hurdles",
+        "Marathon"
+      ],
+      "medium": [
+        "Relay",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Biathlon",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Triathlon",
+        "Skiing"
+      ],
+      "medium": [
+        "Archery",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Bobsleigh",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Luge",
+        "Skeleton"
+      ],
+      "medium": [
+        "Sledding",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Luge",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bobsleigh",
+        "Skeleton"
+      ],
+      "medium": [
+        "Sledding",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Sledding",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Skiing",
+        "Luge"
+      ],
+      "medium": [
+        "Snowboarding",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Bouldering",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Rock climbing",
+        "Parkour"
+      ],
+      "medium": [
+        "Hiking",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Beach volleyball",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Netball",
+        "Badminton"
+      ],
+      "medium": [
+        "Handball",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Bowls",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bocce",
+        "Croquet"
+      ],
+      "medium": [
+        "Curling",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Bocce",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bowls",
+        "Croquet"
+      ],
+      "medium": [
+        "Curling",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Gymkhana",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Rodeo",
+        "Polo"
+      ],
+      "medium": [
+        "Show jumping",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Show jumping",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Dressage",
+        "Polo"
+      ],
+      "medium": [
+        "Horse racing",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Dressage",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Show jumping",
+        "Polo"
+      ],
+      "medium": [
+        "Rodeo",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Pentathlon",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Decathlon",
+        "Triathlon"
+      ],
+      "medium": [
+        "Biathlon",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Racquetball",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Squash",
+        "Tennis"
+      ],
+      "medium": [
+        "Handball",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Sepak takraw",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Volleyball",
+        "Football"
+      ],
+      "medium": [
+        "Badminton",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Hurling",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hockey",
+        "Lacrosse"
+      ],
+      "medium": [
+        "Cricket",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Gaelic football",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Rugby",
+        "Lacrosse"
+      ],
+      "medium": [
+        "Hurling",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Kho kho",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kabaddi",
+        "Tag"
+      ],
+      "medium": [
+        "Dodgeball",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Gilli danda",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cricket",
+        "Baseball"
+      ],
+      "medium": [
+        "Hockey",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Carrom",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Billiards",
+        "Chess"
+      ],
+      "medium": [
+        "Ludo",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Ludo",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Backgammon",
+        "Carrom"
+      ],
+      "medium": [
+        "Chess",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Rummy",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Poker",
+        "Bridge"
+      ],
+      "medium": [
+        "Solitaire",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Boomerang",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Frisbee",
+        "Javelin"
+      ],
+      "medium": [
+        "Kite",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Jump rope",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hopscotch",
+        "Trampoline"
+      ],
+      "medium": [
+        "Hula hoop",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Hula hoop",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Jump rope",
+        "Frisbee"
+      ],
+      "medium": [
+        "Yo yo",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Trampoline",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Gymnastics",
+        "Bouncy castle"
+      ],
+      "medium": [
+        "Diving",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Obstacle race",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Marathon",
+        "Triathlon"
+      ],
+      "medium": [
+        "Steeplechase",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Rally",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Formula one",
+        "Motocross"
+      ],
+      "medium": [
+        "Karting",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Drag racing",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Rally",
+        "Formula one"
+      ],
+      "medium": [
+        "Karting",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Jet skiing",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kayaking",
+        "Waterskiing"
+      ],
+      "medium": [
+        "Surfing",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Waterskiing",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Wakeboarding",
+        "Jet skiing"
+      ],
+      "medium": [
+        "Surfing",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Wakeboarding",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Waterskiing",
+        "Snowboarding"
+      ],
+      "medium": [
+        "Surfing",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Cliff diving",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Snorkeling",
+        "Bungee jumping"
+      ],
+      "medium": [
+        "Skydiving",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Speed skating",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Figure skating",
+        "Cycling"
+      ],
+      "medium": [
+        "Skiing",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Cross country",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Marathon",
+        "Steeplechase"
+      ],
+      "medium": [
+        "Orienteering",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Golf putt",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Drive",
+        "Chip"
+      ],
+      "medium": [
+        "Swing",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Penalty kick",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Free kick",
+        "Corner"
+      ],
+      "medium": [
+        "Header",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Slam dunk",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Layup",
+        "Three pointer"
+      ],
+      "medium": [
+        "Rebound",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Home run",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Strikeout",
+        "Touchdown"
+      ],
+      "medium": [
+        "Goal",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Touchdown",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Home run",
+        "Goal"
+      ],
+      "medium": [
+        "Try",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Hat trick",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Brace",
+        "Double"
+      ],
+      "medium": [
+        "Treble",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Knockout",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Submission",
+        "Tapout"
+      ],
+      "medium": [
+        "Decision",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Olympics",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Recreational activity",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "Training regimen",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail",
+        "Associated feature"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "World cup",
+        "Paralympics"
+      ],
+      "medium": [
+        "Asian games",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "World cup",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Olympics",
+        "Champions league"
+      ],
+      "medium": [
+        "Super bowl",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Super bowl",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "World cup",
+        "Grand final"
+      ],
+      "medium": [
+        "Olympics",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  },
+  {
+    "word": "Trophy",
+    "category": "sports_games",
+    "subcategory": "Sports",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "sports"
+    ],
+    "hints": {
+      "easy": [
+        "Athletic competition",
+        "Physical contest",
+        "Sporting event",
+        "Individual game",
+        "Recreational activity",
+        "Notable example"
+      ],
+      "medium": [
+        "Training regimen",
+        "Game strategy",
+        "Athletic performance",
+        "Scoring system",
+        "Official rules",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Sports science",
+        "Biomechanics",
+        "Psychological factors",
+        "Equipment technology",
+        "Venues architecture",
+        "Media coverage"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Medal",
+        "Ribbon"
+      ],
+      "medium": [
+        "Plaque",
+        "Team"
+      ],
+      "hard": [
+        "Tournament",
+        "Championship"
+      ]
+    }
+  }
+]

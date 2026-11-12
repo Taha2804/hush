@@ -1,0 +1,110 @@
+[
+  {
+    "word": "Keyboard",
+    "category": "science_technology",
+    "subcategory": "Computing",
+    "difficulty": "medium",
+    "description": "An input device for typing text and commands into a computer using a set of labeled keys.",
+    "tags": ["technology", "computing", "input"],
+    "hints": {
+      "easy": ["Typing tool", "QWERTY keys", "Key caps", "Hand typing", "Computer accessory", "Character input"],
+      "medium": ["Mechanical switch", "Backlit keys", "Wireless connection", "Ergonomic design", "Macro keys", "Key rollover"],
+      "hard": ["ANSI layout", "ISO standard", "Switch stem type", "Actuation force", "Key travel distance", "NKRO support"]
+    },
+    "imposters": {
+      "easy": ["Mouse", "Keypad"],
+      "medium": ["Trackpad", "Controller"],
+      "hard": ["Chorded keyer", "Control panel"]
+    }
+  },
+  {
+    "word": "Mouse",
+    "category": "science_technology",
+    "subcategory": "Computing",
+    "difficulty": "medium",
+    "description": "A handheld pointing device that controls cursor movement on a screen via optical or laser sensor tracking.",
+    "tags": ["technology", "computing", "input"],
+    "hints": {
+      "easy": ["Point device", "Left click", "Right click", "Scroll wheel", "Cursor mover", "Desk accessory"],
+      "medium": ["Optical sensor", "Laser tracking", "Ergonomic shape", "Wireless dongle", "DPI settings", "Button count"],
+      "hard": ["Polling rate", "Acceleration curve", "Surface calibration", "Sensor resolution", "Lift-off distance", "Click latency"]
+    },
+    "imposters": {
+      "easy": ["Trackball", "Joystick"],
+      "medium": ["Gamepad", "Touchpad"],
+      "hard": ["Digitizer", "Stylus"]
+    }
+  },
+  {
+    "word": "Television",
+    "category": "science_technology",
+    "subcategory": "Entertainment",
+    "difficulty": "easy",
+    "description": "An electronic display device that receives broadcast, cable, or streaming video signals for viewing content.",
+    "tags": ["technology", "entertainment", "display"],
+    "hints": {
+      "easy": ["Picture viewer", "Remote control", "Channel changer", "Home entertainment", "Flat display", "Living room"],
+      "medium": ["HD resolution", "LCD panel", "HDMI input", "Smart features", "Speakers built-in", "Wall mountable"],
+      "hard": ["OLED technology", "Refresh rate", "HDR support", "Panel type", "Backlight LED", "Aspect ratio"]
+    },
+    "imposters": {
+      "easy": ["Monitor", "Projector"],
+      "medium": ["Cinema screen", "Jumbotron"],
+      "hard": ["Media player", "Receiver unit"]
+    }
+  },
+  {
+    "word": "Calculator",
+    "category": "science_technology",
+    "subcategory": "Electronics",
+    "difficulty": "medium",
+    "description": "A portable electronic device designed for performing mathematical calculations and arithmetic operations.",
+    "tags": ["technology", "electronics", "mathematics"],
+    "hints": {
+      "easy": ["Number crunches", "Math gadget", "Equals button", "Memory keys", "Display screen", "Battery powered"],
+      "medium": ["Scientific functions", "Solar panel", "Programmable", "Unit converter", "Graphing mode", "Statistical mode"],
+      "hard": ["Algebraic logic", "Reverse Polish", "Binary mode", "Hexadecimal", "Logic operations", "Equation solving"]
+    },
+    "imposters": {
+      "easy": ["Abacus", "Phone"],
+      "medium": ["Computer", "Spreadsheet"],
+      "hard": ["Measuring tape", "Ruler"]
+    }
+  },
+  {
+    "word": "X-ray",
+    "category": "science_technology",
+    "subcategory": "Medical",
+    "difficulty": "medium",
+    "description": "Electromagnetic radiation with high energy that penetrates solid objects, used for medical imaging of bones and tissues.",
+    "tags": ["technology", "medical", "imaging"],
+    "hints": {
+      "easy": ["Hospital imaging", "Bone view", "Radiology", "Diagnostic tool", "Light beams", "Radiograph"],
+      "medium": ["Roentgen radiation", "Diagnostic imaging", "Lead protection", "Image receptor", "Exposure settings", "Contrast media"],
+      "hard": ["Penetration depth", "Radiation dose", "Digital imaging", "Image processing", "Grid filter", "Compression paddle"]
+    },
+    "imposters": {
+      "easy": ["Ultrasound", "MRI"],
+      "medium": ["CT scan", "PET scan"],
+      "hard": ["Mammogram", "Skeletal scan"]
+    }
+  },
+  {
+    "word": "Cookie",
+    "category": "science_technology",
+    "subcategory": "Internet",
+    "difficulty": "easy",
+    "description": "A small data file created by a website and stored in a browser to remember user preferences and track activity.",
+    "tags": ["technology", "internet", "web"],
+    "hints": {
+      "easy": ["Browser file", "Web data", "Login helper", "Website tracking", "Text file", "User data"],
+      "medium": ["Third party", "Session data", "Local storage", "Secure flag", "HttpOnly flag", "Expiration date"],
+      "hard": ["SameSite policy", "Storage mechanism", "Privacy control", "Data format", "Domain restriction", "Security attribute"]
+    },
+    "imposters": {
+      "easy": ["Cache", "History"],
+      "medium": ["Password", "Bookmark"],
+      "hard": ["Tracker", "Malware"]
+    }
+  }
+]

@@ -31,11 +31,11 @@
   "description": "Gadgets, inventions, scientific tools and ideas.",
   "icon": "science",
   "is_adult": false,
-  "count": 147,
+  "count": 149,
   "difficulty": {
-   "easy": 91,
-   "medium": 56,
-   "hard": 0
+   "easy": 127,
+   "medium": 20,
+   "hard": 2
   }
  },
  {
@@ -46,9 +46,9 @@
   "is_adult": false,
   "count": 453,
   "difficulty": {
-   "easy": 144,
-   "medium": 303,
-   "hard": 6
+   "easy": 148,
+   "medium": 219,
+   "hard": 86
   }
  },
  {
@@ -57,10 +57,10 @@
   "description": "Film genres, screen tropes and showbiz.",
   "icon": "movie",
   "is_adult": false,
-  "count": 150,
+  "count": 149,
   "difficulty": {
    "easy": 55,
-   "medium": 94,
+   "medium": 93,
    "hard": 1
   }
  },
@@ -72,8 +72,8 @@
   "is_adult": false,
   "count": 144,
   "difficulty": {
-   "easy": 51,
-   "medium": 91,
+   "easy": 56,
+   "medium": 86,
    "hard": 2
   }
  },
@@ -98,9 +98,9 @@
   "is_adult": false,
   "count": 301,
   "difficulty": {
-   "easy": 149,
-   "medium": 149,
-   "hard": 3
+   "easy": 192,
+   "medium": 105,
+   "hard": 4
   }
  },
  {
@@ -109,10 +109,10 @@
   "description": "The work people do and the roles they hold.",
   "icon": "work",
   "is_adult": false,
-  "count": 151,
+  "count": 152,
   "difficulty": {
-   "easy": 73,
-   "medium": 78,
+   "easy": 88,
+   "medium": 64,
    "hard": 0
   }
  },
@@ -124,9 +124,9 @@
   "is_adult": false,
   "count": 146,
   "difficulty": {
-   "easy": 28,
-   "medium": 110,
-   "hard": 8
+   "easy": 30,
+   "medium": 107,
+   "hard": 9
   }
  },
  {
@@ -137,8 +137,8 @@
   "is_adult": false,
   "count": 157,
   "difficulty": {
-   "easy": 72,
-   "medium": 85,
+   "easy": 90,
+   "medium": 67,
    "hard": 0
   }
  },
@@ -150,8 +150,8 @@
   "is_adult": false,
   "count": 142,
   "difficulty": {
-   "easy": 0,
-   "medium": 142,
+   "easy": 50,
+   "medium": 92,
    "hard": 0
   }
  },
@@ -176,9 +176,9 @@
   "is_adult": false,
   "count": 150,
   "difficulty": {
-   "easy": 20,
-   "medium": 127,
-   "hard": 3
+   "easy": 22,
+   "medium": 124,
+   "hard": 4
   }
  },
  {

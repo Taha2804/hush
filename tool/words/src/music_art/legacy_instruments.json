@@ -1,0 +1,3352 @@
+[
+  {
+    "word": "Flugelhorn",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Trumpet",
+        "Cornet"
+      ],
+      "medium": [
+        "French horn",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Zither",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Dulcimer",
+        "Harp"
+      ],
+      "medium": [
+        "Lyre",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Dulcimer",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Zither",
+        "Santoor"
+      ],
+      "medium": [
+        "Lute",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Koto",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Shamisen",
+        "Guzheng"
+      ],
+      "medium": [
+        "Harp",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Shamisen",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Koto",
+        "Banjo"
+      ],
+      "medium": [
+        "Lute",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Erhu",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Violin",
+        "Pipa"
+      ],
+      "medium": [
+        "Sarangi",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Pipa",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Lute",
+        "Erhu"
+      ],
+      "medium": [
+        "Koto",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Guzheng",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Koto",
+        "Zither"
+      ],
+      "medium": [
+        "Harp",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Taiko",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Dhol",
+        "Bass drum"
+      ],
+      "medium": [
+        "Timpani",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Sarangi",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Erhu",
+        "Violin"
+      ],
+      "medium": [
+        "Sarod",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Nadaswaram",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Shehnai",
+        "Oboe"
+      ],
+      "medium": [
+        "Clarinet",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Ghatam",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mridangam",
+        "Tabla"
+      ],
+      "medium": [
+        "Udu",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Dholak",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mridangam",
+        "Tabla"
+      ],
+      "medium": [
+        "Bongos",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Damru",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Dhol",
+        "Tabla"
+      ],
+      "medium": [
+        "Tambourine",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Ektara",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Sitar",
+        "Tanpura"
+      ],
+      "medium": [
+        "Banjo",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Morsing",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Jaw harp",
+        "Harmonica"
+      ],
+      "medium": [
+        "Kazoo",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Tin whistle",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A recognized concept with specific features and purpose.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Recorder",
+        "Flute"
+      ],
+      "medium": [
+        "Piccolo",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Melodica",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Valved instrument",
+        "Relevant detail"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Harmonica",
+        "Accordion"
+      ],
+      "medium": [
+        "Keyboard",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Concertina",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Accordion",
+        "Harmonium"
+      ],
+      "medium": [
+        "Bandoneon",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Banjolele",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ukulele",
+        "Mandolin"
+      ],
+      "medium": [
+        "Lute",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Lap steel",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Dobro",
+        "Banjo"
+      ],
+      "medium": [
+        "Pedal steel",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Cajon",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bongos",
+        "Djembe"
+      ],
+      "medium": [
+        "Snare drum",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Rainstick",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Maracas",
+        "Ocean drum"
+      ],
+      "medium": [
+        "Shaker",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Woodblock",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cowbell",
+        "Claves"
+      ],
+      "medium": [
+        "Castanets",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Claves",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Woodblock",
+        "Castanets"
+      ],
+      "medium": [
+        "Spoons",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Shaker",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Maracas",
+        "Tambourine"
+      ],
+      "medium": [
+        "Rainstick",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Guiro",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Washboard",
+        "Maracas"
+      ],
+      "medium": [
+        "Claves",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Vuvuzela",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bugle",
+        "Kazoo"
+      ],
+      "medium": [
+        "Whistle",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Conch shell",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bugle",
+        "Horn"
+      ],
+      "medium": [
+        "Didgeridoo",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Whistle",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kazoo",
+        "Recorder"
+      ],
+      "medium": [
+        "Horn",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Hurdy gurdy",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bagpipes",
+        "Violin"
+      ],
+      "medium": [
+        "Accordion",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Celesta",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Glockenspiel",
+        "Piano"
+      ],
+      "medium": [
+        "Harpsichord",
+        "Guitar"
+      ],
+      "hard": [
+        "Organ",
+        "Iota"
+      ]
+    }
+  },
+  {
+    "word": "Clavichord",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Harpsichord",
+        "Piano"
+      ],
+      "medium": [
+        "Organ",
+        "Guitar"
+      ],
+      "hard": [
+        "Iota",
+        "Kappa"
+      ]
+    }
+  },
+  {
+    "word": "Pipe organ",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Harmonium",
+        "Piano"
+      ],
+      "medium": [
+        "Harpsichord",
+        "Guitar"
+      ],
+      "hard": [
+        "Iota",
+        "Kappa"
+      ]
+    }
+  },
+  {
+    "word": "Turntable",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Synthesizer",
+        "Drum machine"
+      ],
+      "medium": [
+        "Mixer",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Drum machine",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Synthesizer",
+        "Sampler"
+      ],
+      "medium": [
+        "Turntable",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Electric violin",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Cello",
+        "Viola"
+      ],
+      "medium": [
+        "Electric guitar",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Tenor sax",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Alto sax",
+        "Clarinet"
+      ],
+      "medium": [
+        "Trumpet",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Alto sax",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tenor sax",
+        "Clarinet"
+      ],
+      "medium": [
+        "Oboe",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Steel guitar",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Banjo",
+        "Dobro"
+      ],
+      "medium": [
+        "Fiddle",
+        "Violin"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Dobro",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Banjo",
+        "Steel guitar"
+      ],
+      "medium": [
+        "Mandolin",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Balalaika",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mandolin",
+        "Banjo"
+      ],
+      "medium": [
+        "Domra",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Bouzouki",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Mandolin",
+        "Lute"
+      ],
+      "medium": [
+        "Banjo",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Oud",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Lute",
+        "Bouzouki"
+      ],
+      "medium": [
+        "Sitar",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Kalimba",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Music box",
+        "Xylophone"
+      ],
+      "medium": [
+        "Glockenspiel",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Hang drum",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Steel drum",
+        "Gong"
+      ],
+      "medium": [
+        "Bongos",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Tongue drum",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hang drum",
+        "Kalimba"
+      ],
+      "medium": [
+        "Xylophone",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Gamelan",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Notable example",
+        "Common type"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Orchestra",
+        "Steel band"
+      ],
+      "medium": [
+        "Marimba",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Bodhran",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tambourine",
+        "Snare drum"
+      ],
+      "medium": [
+        "Djembe",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Timbales",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bongos",
+        "Congas"
+      ],
+      "medium": [
+        "Snare drum",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Tom drum",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Snare drum",
+        "Bass drum"
+      ],
+      "medium": [
+        "Bongos",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Hi hat",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A recognized concept with specific features and purpose.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Ride cymbal",
+        "Snare drum"
+      ],
+      "medium": [
+        "Cowbell",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Ride cymbal",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Crash cymbal",
+        "Gong"
+      ],
+      "medium": [
+        "Hi hat",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Glass harp",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Glockenspiel",
+        "Chimes"
+      ],
+      "medium": [
+        "Celesta",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Singing bowl",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Gong",
+        "Bell"
+      ],
+      "medium": [
+        "Chimes",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Steel pan",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Hang drum",
+        "Marimba"
+      ],
+      "medium": [
+        "Gong",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Lyre harp",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Zither",
+        "Dulcimer"
+      ],
+      "medium": [
+        "Lute",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Recorder flute",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Tin whistle",
+        "Ocarina"
+      ],
+      "medium": [
+        "Piccolo",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Baritone",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Euphonium",
+        "Tuba"
+      ],
+      "medium": [
+        "Trombone",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Contrabassoon",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Clarinet",
+        "Tuba"
+      ],
+      "medium": [
+        "Oboe",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Bass clarinet",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bassoon",
+        "Saxophone"
+      ],
+      "medium": [
+        "Oboe",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "English horn",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Oboe",
+        "Bassoon"
+      ],
+      "medium": [
+        "Clarinet",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Mbira",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Kalimba",
+        "Marimba"
+      ],
+      "medium": [
+        "Xylophone",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Kora",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Harp",
+        "Lute"
+      ],
+      "medium": [
+        "Ngoni",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Shofar",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Bugle",
+        "Conch shell"
+      ],
+      "medium": [
+        "Alphorn",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Bugle call",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Fanfare",
+        "Whistle"
+      ],
+      "medium": [
+        "Drumroll",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  },
+  {
+    "word": "Rattle",
+    "category": "music_art",
+    "subcategory": "Instruments",
+    "difficulty": "easy",
+    "description": "A well-known thing with distinct characteristics.",
+    "tags": [
+      "instruments"
+    ],
+    "hints": {
+      "easy": [
+        "Musical device",
+        "Sound producer",
+        "Performance tool",
+        "Practice instrument",
+        "Orchestral member",
+        "Band equipment"
+      ],
+      "medium": [
+        "String instrument",
+        "Wind instrument",
+        "Percussion device",
+        "Electronic instrument",
+        "Keyboard instrument",
+        "Valved instrument"
+      ],
+      "hard": [
+        "Acoustic engineering",
+        "Resonance physics",
+        "Tonal quality",
+        "Articulation technique",
+        "Dynamic control",
+        "Expressive capability"
+      ]
+    },
+    "imposters": {
+      "easy": [
+        "Maracas",
+        "Shaker"
+      ],
+      "medium": [
+        "Tambourine",
+        "Guitar"
+      ],
+      "hard": [
+        "Piano",
+        "Organ"
+      ]
+    }
+  }
+]
