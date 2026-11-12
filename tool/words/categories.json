@@ -1,0 +1,23 @@
+[
+ {"id":"animals_wildlife","name":"Animals & Wildlife","description":"Creatures of land, sea and sky, wild and domestic.","icon":"pets","is_adult":false,"legacy":["animals"]},
+ {"id":"food_drinks","name":"Food & Drinks","description":"Dishes, snacks, fruits, vegetables and things we drink.","icon":"restaurant","is_adult":false,"legacy":["food","drinks","fruits_vegetables"]},
+ {"id":"science_technology","name":"Science & Technology","description":"Gadgets, inventions, scientific tools and ideas.","icon":"science","is_adult":false,"legacy":["technology"]},
+ {"id":"geography_places","name":"Geography & Places","description":"Countries, cities and the everyday places we go.","icon":"public","is_adult":false,"legacy":["countries","cities","places"]},
+ {"id":"movies_entertainment","name":"Movies & Entertainment","description":"Film genres, screen tropes and showbiz.","icon":"movie","is_adult":false,"legacy":["movies"]},
+ {"id":"sports_games","name":"Sports & Games","description":"Sports, athletic events and games people play.","icon":"sports_soccer","is_adult":false,"legacy":["sports"]},
+ {"id":"hobbies_leisure","name":"Hobbies & Leisure","description":"Crafts, pastimes and ways to spend free time.","icon":"palette","is_adult":false,"legacy":["hobbies"]},
+ {"id":"everyday_objects","name":"Everyday Objects","description":"Household items, furniture, clothing and accessories.","icon":"chair","is_adult":false,"legacy":["household","clothing"]},
+ {"id":"professions_jobs","name":"Professions & Jobs","description":"The work people do and the roles they hold.","icon":"work","is_adult":false,"legacy":["jobs"]},
+ {"id":"history_culture","name":"History & Culture","description":"Festivals, traditions, historic eras and events.","icon":"account_balance","is_adult":false,"legacy":["holidays"]},
+ {"id":"nature_environment","name":"Nature & Environment","description":"Landscapes, weather, plants and the natural world.","icon":"forest","is_adult":false,"legacy":["nature"]},
+ {"id":"vehicles_transport","name":"Vehicles & Transportation","description":"Ways to get around on land, water and air.","icon":"directions_car","is_adult":false,"legacy":["transport"]},
+ {"id":"music_art","name":"Music & Art","description":"Instruments, music styles and the visual arts.","icon":"music_note","is_adult":false,"legacy":["instruments"]},
+ {"id":"brands_products","name":"Brands & Products","description":"Famous products and well-known kinds of goods.","icon":"shopping_bag","is_adult":false,"legacy":[]},
+ {"id":"internet_social","name":"Internet & Social Media","description":"Online life, apps, memes and digital culture.","icon":"wifi","is_adult":false,"legacy":[]},
+ {"id":"mythology_fiction","name":"Mythology & Fiction","description":"Mythical creatures, legends and fantasy figures.","icon":"auto_awesome","is_adult":false,"legacy":["mythical"]},
+ {"id":"body_health","name":"Human Body & Health","description":"Body parts, health, medicine and fitness.","icon":"favorite","is_adult":false,"legacy":["body_health"]},
+ {"id":"business_finance","name":"Business & Finance","description":"Money, work life, markets and the economy.","icon":"payments","is_adult":false,"legacy":[]},
+ {"id":"education_knowledge","name":"Education & Knowledge","description":"School life, subjects and learning.","icon":"school","is_adult":false,"legacy":["school"]},
+ {"id":"travel_tourism","name":"Travel & Tourism","description":"Famous landmarks, trips and travel essentials.","icon":"flight","is_adult":false,"legacy":["landmarks"]},
+ {"id":"after_dark","name":"18+ – After Dark","description":"Dating, nightlife and grown-up social life. Adults only.","icon":"nightlife","is_adult":true,"legacy":[]}
+]

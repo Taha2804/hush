@@ -24,7 +24,7 @@ List<WordEntry> makePool(int n) => [
             Hint(text: 'Specific clue', level: 3),
             Hint(text: 'Another specific', level: 3),
           ],
-          fakeWords: const ['Alpha', 'Bravo', 'Charlie'],
+          imposters: const [ImposterWord(text: 'Alpha'), ImposterWord(text: 'Bravo'), ImposterWord(text: 'Charlie')],
         ),
     ];
 
@@ -109,7 +109,7 @@ void main() {
     }
   });
 
-  test('random mix favours categories with more unused words', () async {
+  test('random mix gives every category an equal share (v2)', () async {
     final store = GameStateStore(InMemoryKeyValueStore());
     final pipeline = WordPipeline(store: store, random: RandomService(Random(4)));
     final big = makePool(90);
@@ -122,6 +122,6 @@ void main() {
           sourceId: 's', pools: {'Food': big, 'Tiny': small}, hintLevel: 2);
       if (d!.category == 'Food') bigCount++;
     }
-    expect(bigCount, greaterThanOrEqualTo(6));
+    expect(bigCount, 5);
   });
 }

@@ -452,15 +452,3 @@ class GameEngine {
     return out;
   }
 }
-
-/// Builds a word's description from its hint lines, broad to specific,
-/// for example "Wild animal • Big cat • Lives in a pride".
-String? describeWord(Iterable<({String text, int level})> hints) {
-  final sorted = hints.toList()..sort((a, b) => a.level.compareTo(b.level));
-  final seen = <String>{};
-  final parts = [
-    for (final h in sorted)
-      if (h.text.trim().isNotEmpty && seen.add(h.text.trim().toLowerCase())) h.text.trim(),
-  ];
-  return parts.isEmpty ? null : parts.join(' • ');
-}

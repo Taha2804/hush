@@ -1,0 +1,20 @@
+# Terms from assets/blocklist.txt that are allowed ONLY inside the 18+ After
+# Dark pack (nightlife vocabulary). Explicit sexual terms are never allowed.
+beer
+wine
+vodka
+whisky
+whiskey
+tequila
+rum
+gin
+brandy
+liquor
+alcohol
+alcoholic
+drunk
+hangover
+cocktail
+bar
+sexy
+condom

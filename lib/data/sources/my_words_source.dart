@@ -109,7 +109,7 @@ class MyWordsSource extends WordSource {
           category: name,
           word: w.word,
           hints: w.hints,
-          fakeWords: w.fakes,
+          imposters: [for (final f in w.fakes) ImposterWord(text: f)],
           source: sourceId,
         ),
     ];

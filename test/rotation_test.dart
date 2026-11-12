@@ -18,7 +18,7 @@ const entry = WordEntry(
     Hint(text: 'Comes in slices', level: 3),
     Hint(text: 'Topped with cheese', level: 3),
   ],
-  fakeWords: ['Pasta', 'Burger', 'Calzone', 'Lasagna'],
+  imposters: [ImposterWord(text: 'Pasta'), ImposterWord(text: 'Burger'), ImposterWord(text: 'Calzone'), ImposterWord(text: 'Lasagna')],
 );
 
 void main() {

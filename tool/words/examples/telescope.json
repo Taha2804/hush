@@ -1,0 +1,3 @@
+[
+{"word":"Telescope","category":"science_technology","subcategory":"Astronomy","difficulty":"easy","description":"An instrument used to observe objects that are very far away.","tags":["science","astronomy","equipment"],"hints":{"easy":["Stargazing","Observatory","Astronomer","Night sky","Planets","Long tube"],"medium":["Magnification","Celestial","Lens","Tripod","Eyepiece","Moon craters"],"hard":["Galileo","Focal length","Light pollution","Refraction","Hubble","Clear night"]},"imposters":{"easy":["Camera","Projector"],"medium":["Binoculars","Microscope"],"hard":["Periscope","Rangefinder"]}}
+]

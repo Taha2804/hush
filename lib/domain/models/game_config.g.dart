@@ -23,6 +23,19 @@ _GameConfig _$GameConfigFromJson(Map<String, dynamic> json) => _GameConfig(
   hintDifficulty:
       $enumDecodeNullable(_$HintDifficultyEnumMap, json['hintDifficulty']) ??
       HintDifficulty.medium,
+  imposterDifficulty:
+      $enumDecodeNullable(
+        _$ImposterDifficultyEnumMap,
+        json['imposterDifficulty'],
+      ) ??
+      ImposterDifficulty.medium,
+  wordDifficulty:
+      $enumDecodeNullable(
+        _$WordDifficultyFilterEnumMap,
+        json['wordDifficulty'],
+      ) ??
+      WordDifficultyFilter.mixed,
+  adultContent: json['adultContent'] as bool? ?? false,
   speedRound: json['speedRound'] as bool? ?? false,
   speedSeconds: (json['speedSeconds'] as num?)?.toInt() ?? 15,
   maybeNobody: json['maybeNobody'] as bool? ?? false,
@@ -53,6 +66,10 @@ Map<String, dynamic> _$GameConfigToJson(_GameConfig instance) =>
       'discussionSeconds': instance.discussionSeconds,
       'clueRounds': instance.clueRounds,
       'hintDifficulty': _$HintDifficultyEnumMap[instance.hintDifficulty]!,
+      'imposterDifficulty':
+          _$ImposterDifficultyEnumMap[instance.imposterDifficulty]!,
+      'wordDifficulty': _$WordDifficultyFilterEnumMap[instance.wordDifficulty]!,
+      'adultContent': instance.adultContent,
       'speedRound': instance.speedRound,
       'speedSeconds': instance.speedSeconds,
       'maybeNobody': instance.maybeNobody,
@@ -78,6 +95,19 @@ const _$HintDifficultyEnumMap = {
   HintDifficulty.easy: 'easy',
   HintDifficulty.medium: 'medium',
   HintDifficulty.hard: 'hard',
+};
+
+const _$ImposterDifficultyEnumMap = {
+  ImposterDifficulty.easy: 'easy',
+  ImposterDifficulty.medium: 'medium',
+  ImposterDifficulty.hard: 'hard',
+};
+
+const _$WordDifficultyFilterEnumMap = {
+  WordDifficultyFilter.mixed: 'mixed',
+  WordDifficultyFilter.easy: 'easy',
+  WordDifficultyFilter.medium: 'medium',
+  WordDifficultyFilter.hard: 'hard',
 };
 
 const _$TieRuleEnumMap = {

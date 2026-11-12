@@ -48,3 +48,9 @@ app.*.map.json
 .widget_preview/
 
 node_modules/
+
+# word-generation scratch
+tool/words/prompts/
+tool/words/replies/
+tool/words/rejected/
+tool/words/__pycache__/

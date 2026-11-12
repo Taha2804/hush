@@ -79,18 +79,23 @@ class HintSelector {
   }
 }
 
-/// Fake-word rotation per word (R3, Fake Word mode).
+/// Imposter-word rotation per word (Fake Word mode).
+///
+/// With [level] (1 easy .. 3 hard), only imposter words of that closeness
+/// tier are used, falling back to the nearest tier that exists.
 class FakeWordSelector {
   FakeWordSelector(this.random);
   final RandomService random;
 
-  String? select(WordEntry entry, RotationUsage usage) {
-    if (entry.fakeWords.isEmpty) return null;
+  String? select(WordEntry entry, RotationUsage usage, {int? level}) {
+    if (entry.imposters.isEmpty) return null;
     final i = pickRotating(
-      count: entry.fakeWords.length,
+      count: entry.imposters.length,
       usage: usage,
       random: random,
+      levels: level == null ? null : [for (final f in entry.imposters) f.level],
+      targetLevel: level,
     );
-    return entry.fakeWords[i];
+    return entry.imposters[i].text;
   }
 }

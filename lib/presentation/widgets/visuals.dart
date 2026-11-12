@@ -40,15 +40,11 @@ class TactileButton extends StatefulWidget {
 
 class _TactileButtonState extends State<TactileButton> with SingleTickerProviderStateMixin {
   late final AnimationController _controller;
-  late final Animation<double> _scale;
 
   @override
   void initState() {
     super.initState();
     _controller = AnimationController(vsync: this, duration: const Duration(milliseconds: 100));
-    _scale = Tween<double>(begin: 1.0, end: 0.96).animate(
-      CurvedAnimation(parent: _controller, curve: Curves.easeInOut),
-    );
   }
 
   @override
@@ -64,7 +60,6 @@ class _TactileButtonState extends State<TactileButton> with SingleTickerProvider
     LinearGradient? gradient;
     Color? solidColor;
     Color textColor;
-    List<BoxShadow> shadows = [];
     Border? border;
 
     Color edge; // the darker "3D" lip under the pill

@@ -1,6 +1,8 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
+import '../data/sources/offline_source.dart';
 import '../data/sources/online/online_source.dart';
+import '../domain/categories.dart';
 import '../domain/game_engine.dart';
 import '../domain/models/game_config.dart';
 import 'providers.dart';
@@ -64,10 +66,17 @@ class GameController extends Notifier<GameSession> {
     final config = settings.game;
     state = state.copyWith(loading: true, error: () => null, notice: () => null);
     try {
+      // The 18+ category is only ever dealt when the player confirmed their
+      // age AND switched it on; Random Mix never includes it otherwise.
+      final adultOk = config.adultContent && settings.adultConfirmed;
       var categories = config.randomMix || config.categories.isEmpty
           ? await registry.byId(sourceId).categories()
-          : config.categories;
+          : config.categories.where((c) => c != adultCategoryId).toList();
       if (categories.isEmpty) categories = await registry.offline.categories();
+      if (adultOk && sourceId == OfflinePackSource.sourceId &&
+          (config.randomMix || config.categories.contains(adultCategoryId))) {
+        categories = [...categories, adultCategoryId];
+      }
       if (sourceId == OnlineSearchSource.sourceId && categories.length > 1 && await registry.online.isAvailable()) {
         final rnd = ref.read(randomProvider);
         categories = await registry.online.playableSubset(categories, shuffle: (l) => rnd.shuffled(l));
@@ -76,17 +85,25 @@ class GameController extends Notifier<GameSession> {
       final wantFake = config.mode == GameMode.fakeWord;
       final pipeline = ref.read(pipelineProvider);
       final bagSource = resolved.sourceUsed == 'online_cache' ? OnlineSearchSource.sourceId : resolved.sourceUsed;
+      final pools = {
+        for (final e in resolved.pools.entries)
+          e.key: [for (final w in e.value) if (!w.isAdult || adultOk) w],
+      }..removeWhere((_, v) => v.isEmpty);
       var dealt = await pipeline.deal(
         sourceId: bagSource,
-        pools: resolved.pools,
+        pools: pools,
         hintLevel: config.hintDifficulty.level,
+        imposterLevel: config.imposterDifficulty.level,
+        wordDifficulty: config.wordDifficulty,
         wantFake: wantFake,
-        eligible: wantFake ? (e) => e.hasFakes : null,
       );
       String? notice = resolved.notice;
       if (dealt == null && wantFake) {
         dealt = await pipeline.deal(
-            sourceId: bagSource, pools: resolved.pools, hintLevel: config.hintDifficulty.level);
+            sourceId: bagSource,
+            pools: pools,
+            hintLevel: config.hintDifficulty.level,
+            wordDifficulty: config.wordDifficulty);
         notice = 'fake_fallback';
       }
       if (dealt == null) {
@@ -108,7 +125,9 @@ class GameController extends Notifier<GameSession> {
         category: categoryName,
         hint: dealt.entry.hints.isEmpty ? categoryName : dealt.hint,
         fakeWord: dealt.fakeWord,
-        description: dealt.entry.description ?? describeWord(dealt.entry.hints.map((h) => (text: h.text, level: h.level))),
+        // The crew's definition. Never rebuilt from hints: hints may be shown
+        // to the imposter and imposter words must not leak to the crew.
+        description: dealt.entry.description,
         previousImposters: state.previousImposters,
       );
       if (wantFake && round.effectiveMode != GameMode.fakeWord) notice = 'fake_fallback';

@@ -1,12 +1,13 @@
 import 'blocklist.dart';
 import 'models/word_entry.dart';
 import 'text_utils.dart';
+import 'word_rules.dart';
 
 /// Word filter: 3-16 chars, 1-2 tokens, alphabetic (single space or hyphen
 /// between tokens), no disambiguation/list/year pages, not blocked.
-String? rejectWord(String word, {Blocklist? blocklist}) {
+String? rejectWord(String word, {Blocklist? blocklist, int maxLength = 16}) {
   final w = word.trim();
-  if (w.length < 3 || w.length > 16) return 'length';
+  if (w.length < 3 || w.length > maxLength) return 'length';
   if (!RegExp(r'^[A-Za-z]+(?:[ \-][A-Za-z]+)?$').hasMatch(w)) return 'format';
   final n = normalize(w);
   if (n.startsWith('list ') || n.contains('disambiguation')) return 'meta-page';
@@ -63,10 +64,8 @@ String? rejectHint(
     return 'synonym';
   }
 
-  // Proper nouns / brands: any capitalised token after the first one.
-  for (var i = 1; i < rawTokens.length; i++) {
-    if (RegExp(r'^[A-Z]').hasMatch(rawTokens[i])) return 'proper-noun';
-  }
+  // Brands are not allowed as hints (the Brands category opts out via
+  // Blocklist.forEntry). Proper nouns such as landmarks are fine.
   if (bl.hasBrand(h)) return 'brand';
   if (bl.isBlocked(h)) return 'blocklist';
 
@@ -84,7 +83,7 @@ String? rejectFake(
   Set<String> synonyms = const {},
   Blocklist? blocklist,
 }) {
-  final base = rejectWord(fake, blocklist: blocklist);
+  final base = rejectWord(fake, blocklist: blocklist, maxLength: 18);
   if (base != null) return base;
   if (normalize(word) == normalize(fake)) return 'same-word';
   if (relatedForms(word, fake)) return 'stem-or-substring';
@@ -101,19 +100,29 @@ String? rejectFake(
 
 /// Result of cleaning a single entry.
 class CleanedEntry {
-  CleanedEntry(this.entry, this.rejectedHints, this.rejectedFakes);
+  CleanedEntry(this.entry, this.rejectedHints, this.rejectedFakes, {this.rejectedDescription});
   final WordEntry entry;
   final Map<String, String> rejectedHints;
   final Map<String, String> rejectedFakes;
+
+  /// Why the description was removed (null if kept or absent).
+  final String? rejectedDescription;
 }
 
-/// Applies all hint/fake rules to [e]. Invalid hints and fakes are dropped;
-/// duplicates removed.
+/// Applies all field rules to [e]:
+/// - invalid / duplicate hints are dropped;
+/// - invalid / duplicate imposter words are dropped, and so is any imposter
+///   word that appears in the description or any hint (it would expose the
+///   imposter's word to the crew, or hand a hint to the wrong player);
+/// - an invalid description (hint list, too long, names the word...) is
+///   removed. Descriptions are never rebuilt from hints.
 CleanedEntry cleanEntry(
   WordEntry e, {
   Set<String> synonyms = const {},
   Blocklist? blocklist,
+  DescriptionRules descriptionRules = const DescriptionRules(),
 }) {
+  final bl = (blocklist ?? Blocklist.empty).forEntry(e);
   final rejectedHints = <String, String>{};
   final rejectedFakes = <String, String>{};
   final seenHints = <String>{};
@@ -121,7 +130,7 @@ CleanedEntry cleanEntry(
   for (final h in e.hints) {
     final reason = (h.level < 1 || h.level > 3)
         ? 'bad-level'
-        : rejectHint(e.word, h.text, synonyms: synonyms, blocklist: blocklist);
+        : rejectHint(e.word, h.text, synonyms: synonyms, blocklist: bl);
     if (reason != null) {
       rejectedHints[h.text] = reason;
     } else if (seenHints.add(normalize(h.text))) {
@@ -130,22 +139,37 @@ CleanedEntry cleanEntry(
       rejectedHints[h.text] = 'duplicate';
     }
   }
+
+  String? description = e.description?.trim();
+  String? rejectedDescription;
+  if (description != null && description.isNotEmpty) {
+    rejectedDescription = rejectDescription(e.word, description,
+        hints: hints.map((h) => h.text), rules: descriptionRules);
+    if (rejectedDescription != null) description = null;
+  } else {
+    description = null;
+  }
+
   final seenFakes = <String>{};
-  final fakes = <String>[];
-  for (final f in e.fakeWords) {
-    final reason = rejectFake(e.word, f, synonyms: synonyms, blocklist: blocklist);
+  final fakes = <ImposterWord>[];
+  final probe = e.copyWith(hints: hints, description: description);
+  for (final f in e.imposters) {
+    final reason = (f.level < 1 || f.level > 3)
+        ? 'bad-level'
+        : rejectFake(e.word, f.text, synonyms: synonyms, blocklist: bl) ?? imposterConflict(probe, f.text);
     if (reason != null) {
-      rejectedFakes[f] = reason;
-    } else if (seenFakes.add(normalize(f))) {
-      fakes.add(f.trim());
+      rejectedFakes[f.text] = reason;
+    } else if (seenFakes.add(normalize(f.text))) {
+      fakes.add(ImposterWord(text: f.text.trim(), level: f.level));
     } else {
-      rejectedFakes[f] = 'duplicate';
+      rejectedFakes[f.text] = 'duplicate';
     }
   }
   return CleanedEntry(
-    e.copyWith(hints: hints, fakeWords: fakes),
+    e.copyWith(hints: hints, imposters: fakes, description: description),
     rejectedHints,
     rejectedFakes,
+    rejectedDescription: rejectedDescription,
   );
 }
 

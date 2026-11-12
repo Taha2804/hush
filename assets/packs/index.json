@@ -1,0 +1,223 @@
+[
+ {
+  "id": "animals_wildlife",
+  "name": "Animals & Wildlife",
+  "description": "Creatures of land, sea and sky, wild and domestic.",
+  "icon": "pets",
+  "is_adult": false,
+  "count": 149,
+  "difficulty": {
+   "easy": 76,
+   "medium": 73,
+   "hard": 0
+  }
+ },
+ {
+  "id": "food_drinks",
+  "name": "Food & Drinks",
+  "description": "Dishes, snacks, fruits, vegetables and things we drink.",
+  "icon": "restaurant",
+  "is_adult": false,
+  "count": 459,
+  "difficulty": {
+   "easy": 115,
+   "medium": 343,
+   "hard": 1
+  }
+ },
+ {
+  "id": "science_technology",
+  "name": "Science & Technology",
+  "description": "Gadgets, inventions, scientific tools and ideas.",
+  "icon": "science",
+  "is_adult": false,
+  "count": 147,
+  "difficulty": {
+   "easy": 0,
+   "medium": 147,
+   "hard": 0
+  }
+ },
+ {
+  "id": "geography_places",
+  "name": "Geography & Places",
+  "description": "Countries, cities and the everyday places we go.",
+  "icon": "public",
+  "is_adult": false,
+  "count": 453,
+  "difficulty": {
+   "easy": 144,
+   "medium": 303,
+   "hard": 6
+  }
+ },
+ {
+  "id": "movies_entertainment",
+  "name": "Movies & Entertainment",
+  "description": "Film genres, screen tropes and showbiz.",
+  "icon": "movie",
+  "is_adult": false,
+  "count": 150,
+  "difficulty": {
+   "easy": 55,
+   "medium": 94,
+   "hard": 1
+  }
+ },
+ {
+  "id": "sports_games",
+  "name": "Sports & Games",
+  "description": "Sports, athletic events and games people play.",
+  "icon": "sports_soccer",
+  "is_adult": false,
+  "count": 144,
+  "difficulty": {
+   "easy": 51,
+   "medium": 91,
+   "hard": 2
+  }
+ },
+ {
+  "id": "hobbies_leisure",
+  "name": "Hobbies & Leisure",
+  "description": "Crafts, pastimes and ways to spend free time.",
+  "icon": "palette",
+  "is_adult": false,
+  "count": 132,
+  "difficulty": {
+   "easy": 39,
+   "medium": 90,
+   "hard": 3
+  }
+ },
+ {
+  "id": "everyday_objects",
+  "name": "Everyday Objects",
+  "description": "Household items, furniture, clothing and accessories.",
+  "icon": "chair",
+  "is_adult": false,
+  "count": 301,
+  "difficulty": {
+   "easy": 149,
+   "medium": 149,
+   "hard": 3
+  }
+ },
+ {
+  "id": "professions_jobs",
+  "name": "Professions & Jobs",
+  "description": "The work people do and the roles they hold.",
+  "icon": "work",
+  "is_adult": false,
+  "count": 151,
+  "difficulty": {
+   "easy": 73,
+   "medium": 78,
+   "hard": 0
+  }
+ },
+ {
+  "id": "history_culture",
+  "name": "History & Culture",
+  "description": "Festivals, traditions, historic eras and events.",
+  "icon": "account_balance",
+  "is_adult": false,
+  "count": 146,
+  "difficulty": {
+   "easy": 28,
+   "medium": 110,
+   "hard": 8
+  }
+ },
+ {
+  "id": "nature_environment",
+  "name": "Nature & Environment",
+  "description": "Landscapes, weather, plants and the natural world.",
+  "icon": "forest",
+  "is_adult": false,
+  "count": 157,
+  "difficulty": {
+   "easy": 72,
+   "medium": 85,
+   "hard": 0
+  }
+ },
+ {
+  "id": "vehicles_transport",
+  "name": "Vehicles & Transportation",
+  "description": "Ways to get around on land, water and air.",
+  "icon": "directions_car",
+  "is_adult": false,
+  "count": 142,
+  "difficulty": {
+   "easy": 0,
+   "medium": 142,
+   "hard": 0
+  }
+ },
+ {
+  "id": "music_art",
+  "name": "Music & Art",
+  "description": "Instruments, music styles and the visual arts.",
+  "icon": "music_note",
+  "is_adult": false,
+  "count": 153,
+  "difficulty": {
+   "easy": 33,
+   "medium": 110,
+   "hard": 10
+  }
+ },
+ {
+  "id": "mythology_fiction",
+  "name": "Mythology & Fiction",
+  "description": "Mythical creatures, legends and fantasy figures.",
+  "icon": "auto_awesome",
+  "is_adult": false,
+  "count": 150,
+  "difficulty": {
+   "easy": 20,
+   "medium": 127,
+   "hard": 3
+  }
+ },
+ {
+  "id": "body_health",
+  "name": "Human Body & Health",
+  "description": "Body parts, health, medicine and fitness.",
+  "icon": "favorite",
+  "is_adult": false,
+  "count": 144,
+  "difficulty": {
+   "easy": 77,
+   "medium": 67,
+   "hard": 0
+  }
+ },
+ {
+  "id": "education_knowledge",
+  "name": "Education & Knowledge",
+  "description": "School life, subjects and learning.",
+  "icon": "school",
+  "is_adult": false,
+  "count": 137,
+  "difficulty": {
+   "easy": 59,
+   "medium": 78,
+   "hard": 0
+  }
+ },
+ {
+  "id": "travel_tourism",
+  "name": "Travel & Tourism",
+  "description": "Famous landmarks, trips and travel essentials.",
+  "icon": "flight",
+  "is_adult": false,
+  "count": 157,
+  "difficulty": {
+   "easy": 51,
+   "medium": 103,
+   "hard": 3
+  }
+ }
+]

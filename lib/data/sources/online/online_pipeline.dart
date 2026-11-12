@@ -4,6 +4,7 @@ import '../../../domain/blocklist.dart';
 import '../../../domain/models/word_entry.dart';
 import '../../../domain/text_utils.dart';
 import '../../../domain/validators.dart';
+import '../../../domain/word_rules.dart';
 import 'category_config.dart';
 import 'json_fetcher.dart';
 
@@ -180,12 +181,9 @@ class Enricher {
     final hints = <({String text, int level, double weight})>[];
     void hint(String text, int level, double w) => hints.add((text: _cap(text.trim()), level: level, weight: w));
 
-    // Level 1: vague, category-level (Wikipedia short description, IsA).
+    // The encyclopedia description becomes the crew's DEFINITION only; it is
+    // never turned into a hint (the imposter would get the definition).
     final desc = (summary is Map ? summary['description'] as String? : null) ?? description;
-    if (desc != null && desc.isNotEmpty) {
-      final toks = _stripArticle(desc).split(RegExp(r'\s+'));
-      hint(toks.take(math.min(4, toks.length)).join(' '), 1, 10);
-    }
 
     for (final e in (cn is Map ? (cn['edges'] as List? ?? const []) : const [])) {
       if (e is! Map) continue;
@@ -250,22 +248,28 @@ class Enricher {
     final pool = [...byLevel[1]!, ...byLevel[2]!, ...byLevel[3]!];
     if (pool.length < minValidHints) return null;
 
-    // Fakes: siblings sharing the category that are also semantically
-    // related; topped up with the most familiar siblings.
-    final fakes = <String>[];
+    final definition = desc != null && desc.trim().isNotEmpty ? sentenceCase(desc) : null;
+
+    // Imposter words: siblings of the same category that are also
+    // semantically related are "medium" (shared context); other familiar
+    // siblings are "easy" (same broad category, noticeably different).
+    // Anything that would show up in the definition or a hint is skipped.
+    final fakes = <ImposterWord>[];
+    final probe = WordEntry(id: id, category: category, word: word, hints: pool, description: definition, source: 'online');
     bool okFake(String f) =>
         rejectFake(word, f, synonyms: synonyms, blocklist: blocklist) == null &&
-        !fakes.map(normalize).contains(normalize(f));
+        imposterConflict(probe, f) == null &&
+        !fakes.map((x) => normalize(x.text)).contains(normalize(f));
     for (final s in siblings) {
       if (fakes.length >= 4) break;
-      if (related.contains(normalize(s)) && okFake(s)) fakes.add(s);
+      if (related.contains(normalize(s)) && okFake(s)) fakes.add(ImposterWord(text: s, level: 2));
     }
     if (fakes.length < 3) {
       final rnd = math.Random(seed);
       final rest = siblings.take(30).toList()..shuffle(rnd);
       for (final s in rest) {
         if (fakes.length >= 3) break;
-        if (okFake(s)) fakes.add(s);
+        if (okFake(s)) fakes.add(ImposterWord(text: s, level: 1));
       }
     }
 
@@ -274,8 +278,8 @@ class Enricher {
       category: category,
       word: word,
       hints: pool,
-      fakeWords: fakes,
-      description: (summary?['description'] as String?)?.trim().isNotEmpty == true ? (summary!['description'] as String).trim() : null,
+      imposters: fakes,
+      description: definition,
       source: 'online',
     );
   }

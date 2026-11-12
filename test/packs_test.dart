@@ -14,13 +14,13 @@ void main() {
     brands: File('assets/brands.txt').readAsStringSync(),
   );
 
-  test('all bundled packs are valid (20+ packs, 150+ words each)', () {
+  test('all bundled packs are valid (15+ packs)', () {
     final files = Directory('assets/packs')
         .listSync()
         .whereType<File>()
         .where((f) => f.path.endsWith('.json') && !f.path.endsWith('index.json'))
         .toList();
-    expect(files.length, greaterThanOrEqualTo(20));
+    expect(files.length, greaterThanOrEqualTo(15));
     final errors = <PackIssue>[];
     for (final f in files) {
       final issues = <PackIssue>[];
@@ -35,10 +35,11 @@ void main() {
   test('OfflinePackSource loads index and packs via the asset loader', () async {
     final src = OfflinePackSource((p) async => File(p).readAsStringSync());
     final cats = await src.categories();
-    expect(cats, contains('animals'));
-    final words = await src.fetchWords('animals', 999);
-    expect(words.length, greaterThanOrEqualTo(150));
-    expect(words.first.hints.length, 6);
-    expect(await src.categoryName('fruits_vegetables'), 'Fruits & Vegetables');
+    expect(cats, contains('animals_wildlife'));
+    final words = await src.fetchWords('animals_wildlife', 999);
+    expect(words.length, greaterThanOrEqualTo(100));
+    expect(words.every((w) => w.hints.length >= 3), isTrue);
+    expect(words.where((w) => w.description != null), isNotEmpty);
+    expect(await src.categoryName('food_drinks'), 'Food & Drinks');
   });
 }

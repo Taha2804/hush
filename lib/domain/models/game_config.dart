@@ -11,7 +11,8 @@ enum VoteStyle { simple, private }
 
 enum SeatingMode { seatingFromStarter, fullyShuffled }
 
-/// Easy shows level-3 (specific) hints, Hard shows level-1 (vague) hints.
+/// How directly the Hint-mode imposter's hint points at the secret word.
+/// Easy uses level-3 (recognizable) hints, Hard uses level-1 (subtle) hints.
 enum HintDifficulty {
   easy(3),
   medium(2),
@@ -20,6 +21,22 @@ enum HintDifficulty {
   const HintDifficulty(this.level);
   final int level;
 }
+
+/// How close the Fake Word imposter's word is to the secret word.
+/// Easy = noticeably different (level 1), Hard = very close (level 3).
+/// Independent of [HintDifficulty].
+enum ImposterDifficulty {
+  easy(1),
+  medium(2),
+  hard(3);
+
+  const ImposterDifficulty(this.level);
+  final int level;
+}
+
+/// Which secret words may be dealt, by how well-known they are.
+/// [mixed] balances easy, medium and hard words.
+enum WordDifficultyFilter { mixed, easy, medium, hard }
 
 /// Everything chosen on the Setup screen plus gameplay-relevant settings.
 @freezed
@@ -36,6 +53,11 @@ abstract class GameConfig with _$GameConfig {
     @Default(180) int discussionSeconds,
     @Default(1) int clueRounds,
     @Default(HintDifficulty.medium) HintDifficulty hintDifficulty,
+    @Default(ImposterDifficulty.medium) ImposterDifficulty imposterDifficulty,
+    @Default(WordDifficultyFilter.mixed) WordDifficultyFilter wordDifficulty,
+    /// Includes the 18+ After Dark category (needs a confirmed adult; never
+    /// part of Random Mix unless this is on).
+    @Default(false) bool adultContent,
     @Default(false) bool speedRound,
     @Default(15) int speedSeconds,
     @Default(false) bool maybeNobody,

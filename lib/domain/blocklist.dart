@@ -1,3 +1,4 @@
+import 'models/word_entry.dart';
 import 'text_utils.dart';
 
 /// A family-friendly blocklist plus a brand list. Content is loaded from
@@ -6,6 +7,30 @@ class Blocklist {
   Blocklist({Iterable<String> blocked = const [], Iterable<String> brands = const []})
       : _blocked = _split(blocked),
         _brands = _split(brands);
+
+  Blocklist._raw(this._blocked, this._brands);
+
+  /// Nightlife terms allowed only in the 18+ After Dark category. Mirrors
+  /// tool/words/adult_allow.txt. Explicit sexual terms are never allowed.
+  static const adultAllowed = <String>{
+    'beer', 'wine', 'vodka', 'whisky', 'whiskey', 'tequila', 'rum', 'gin',
+    'brandy', 'liquor', 'alcohol', 'alcoholic', 'drunk', 'hangover',
+    'cocktail', 'bar', 'sexy', 'condom',
+  };
+
+  /// The list to apply to [e]: adult words get [adultAllowed] lifted, the
+  /// Brands category may use brand names.
+  Blocklist forEntry(WordEntry e) {
+    var b = this;
+    if (e.isAdult) {
+      b = Blocklist._raw(
+          (single: b._blocked.single.difference(adultAllowed), phrases: b._blocked.phrases), b._brands);
+    }
+    if (e.category == 'brands_products') {
+      b = Blocklist._raw(b._blocked, (single: <String>{}, phrases: const <String>[]));
+    }
+    return b;
+  }
 
   factory Blocklist.fromText({String blocked = '', String brands = ''}) =>
       Blocklist(blocked: _lines(blocked), brands: _lines(brands));

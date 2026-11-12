@@ -333,7 +333,7 @@ class VoiceNotifier extends Notifier<VoiceState> {
   Future<void> _applySpeaker() async {
     if (_room == null) return;
     try {
-      await lk.Hardware.instance.setSpeakerphoneOn(ref.read(settingsProvider).speakerOutput);
+      await lk.AudioManager.instance.setSpeakerOutputPreferred(ref.read(settingsProvider).speakerOutput);
     } catch (_) {
       // Not every platform can switch output.
     }

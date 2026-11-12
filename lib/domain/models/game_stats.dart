@@ -1,5 +1,3 @@
-import 'dart:convert';
-import 'package:shared_preferences/shared_preferences.dart';
 
 /// Achievement definition and progress tracking.
 class Achievement {

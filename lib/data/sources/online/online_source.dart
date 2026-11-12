@@ -151,9 +151,34 @@ class OnlineSearchSource extends WordSource {
         hints: [
           for (final h in jsonDecode(r.hintsJson) as List) Hint.fromJson(Map<String, dynamic>.from(h as Map)),
         ],
-        fakeWords: List<String>.from(jsonDecode(r.fakesJson) as List),
+        imposters: _imposters(r.fakesJson),
+        description: _cachedDescription(r.fakesJson),
         source: sourceId,
       );
+
+  /// `fakes_json` holds `{"v":2,"imposters":[{text,level}],"description":..}`
+  /// (validated record); older caches stored a plain list of fake words.
+  static List<ImposterWord> _imposters(String raw) {
+    try {
+      final j = jsonDecode(raw);
+      if (j is List) return [for (final f in j) if (f is String) ImposterWord(text: f)];
+      if (j is Map) {
+        return [
+          for (final f in (j['imposters'] as List? ?? const []))
+            ImposterWord.fromJson(Map<String, dynamic>.from(f as Map)),
+        ];
+      }
+    } catch (_) {}
+    return const [];
+  }
+
+  static String? _cachedDescription(String raw) {
+    try {
+      final j = jsonDecode(raw);
+      if (j is Map) return j['description'] as String?;
+    } catch (_) {}
+    return null;
+  }
 
   /// Words already enriched and valid for [category] (no network).
   Future<List<WordEntry>> cachedWords(String category) async => [
@@ -312,7 +337,7 @@ class OnlineSearchSource extends WordSource {
               : CachedWordsCompanion(
                   enriched: const Value(true),
                   hintsJson: Value(jsonEncode(e['hints'])),
-                  fakesJson: Value(jsonEncode(e['fakeWords'])),
+                  fakesJson: Value(jsonEncode({'v': 2, 'imposters': e['imposters'], 'description': e['description']})),
                 ),
           where: (t) => t.id.equals(todo[i].id),
         );

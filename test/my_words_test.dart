@@ -53,14 +53,14 @@ void main() {
     expect(r.words.last.word, 'Taco');
   });
 
-  test('words without hints fall back to the category as imposter hint', () async {
+  test('words without hints give the imposter no hint (v2: no category fallback)', () async {
     final id = await src.createPack('Mine');
     await src.addMany(id, ['Kettle', 'Toaster', 'Blender']);
     final pipeline = WordPipeline(store: GameStateStore(InMemoryKeyValueStore()), random: RandomService(Random(1)));
     final entries = pipeline.clean(await src.fetchWords('my$id', 99), requireHints: false);
     expect(entries.length, 3);
     final dealt = await pipeline.deal(sourceId: 'mywords', pools: {'my$id': entries}, hintLevel: 2);
-    expect(dealt!.hint, 'Mine');
+    expect(dealt!.hint, isNull);
     // Fake Word mode skips words without fakes.
     final none = await pipeline.deal(
         sourceId: 'mywords', pools: {'my$id': entries}, hintLevel: 2, wantFake: true, eligible: (e) => e.hasFakes);

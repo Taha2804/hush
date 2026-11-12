@@ -48,7 +48,7 @@ void main() {
       expect(rejectHint('Pizza', 'Rhymes with visa'), 'letter-or-length');
     });
     test('brand / proper noun', () {
-      expect(rejectHint('Soda', 'Like Coca Cola'), 'proper-noun');
+      // v2: proper nouns (e.g. 'Galileo') are allowed as hard hints.
       expect(rejectHint('Shoe', 'nike product', blocklist: bl), 'brand');
     });
     test('too long, blocklist, off-domain', () {
@@ -89,7 +89,7 @@ void main() {
         Hint(text: 'Comes in slices', level: 3),
         Hint(text: 'Bad level', level: 7),
       ],
-      fakeWords: ['Pasta', 'Pizzas', 'Pasta'],
+      imposters: [ImposterWord(text: 'Pasta'), ImposterWord(text: 'Pizzas'), ImposterWord(text: 'Pasta')],
     );
     final c = cleanEntry(e);
     expect(c.entry.hints.map((h) => h.text), ['Italian dish', 'Comes in slices']);
